@@ -1,6 +1,6 @@
 """
 RAG Pipeline — retrieves relevant legal sections from ChromaDB and generates
-grounded answers using Claude via the Anthropic API.
+grounded answers using Groq (primary), Google AI, Anthropic, or local fallback.
 """
 
 import os
@@ -8,6 +8,7 @@ import chromadb
 import requests
 from chromadb.utils import embedding_functions
 from anthropic import Anthropic
+from groq import Groq
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -19,17 +20,22 @@ COLLECTION_NAME = "indian_laws"
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-20250514")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
-# Google AI Studio / Vertex AI
-GOOGLE_AI_MODEL = os.getenv("GOOGLE_AI_MODEL", "text-bison-001")
+# Google AI Studio
+GOOGLE_AI_MODEL = os.getenv("GOOGLE_AI_MODEL", "gemini-2.0-flash")
 GOOGLE_AI_API_KEY = os.getenv("GOOGLE_AI_API_KEY", "")
+
+# Groq
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 
 # Number of chunks to retrieve
 TOP_K = 5
 
-# Initialize ChromaDB client and embedding function
+# Clients
 _chroma_client = None
 _collection = None
 _anthropic_client = None
+_groq_client = None
 
 
 def _get_collection():
@@ -53,6 +59,13 @@ def _get_anthropic():
     return _anthropic_client
 
 
+def _get_groq():
+    global _groq_client
+    if _groq_client is None:
+        _groq_client = Groq(api_key=GROQ_API_KEY)
+    return _groq_client
+
+
 def retrieve_relevant_sections(query: str, top_k: int = TOP_K) -> list[dict]:
     """Query ChromaDB for the most relevant legal sections."""
     collection = _get_collection()
@@ -72,14 +85,14 @@ def retrieve_relevant_sections(query: str, top_k: int = TOP_K) -> list[dict]:
                 "title": metadata["title"],
                 "chapter": metadata.get("chapter", ""),
                 "text": metadata["text"],
-                "relevance_score": 1 - results["distances"][0][i],  # cosine similarity
+                "relevance_score": 1 - results["distances"][0][i],
             })
 
     return sections
 
 
 def build_prompt(query: str, sections: list[dict]) -> str:
-    """Build the Claude prompt with retrieved context and citation instructions."""
+    """Build the prompt with retrieved context and citation instructions."""
     context_parts = []
     for i, s in enumerate(sections, 1):
         context_parts.append(
@@ -112,11 +125,7 @@ Provide your answer now:"""
 
 
 def generate_answer_local(query: str, sections: list[dict]) -> str:
-    """Generate a simple grounded answer without calling an external LLM.
-
-    This is a free fallback when an LLM API key is not available or when API calls fail.
-    It presents the retrieved statutes and guidance on how they relate to the user's query.
-    """
+    """Generate a simple grounded answer without calling an external LLM."""
     lines = [
         "Based on the retrieved legal provisions below, the following sections may be relevant to your question:",
         "",
@@ -134,57 +143,116 @@ def generate_answer_local(query: str, sections: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def _generate_answer_groq(query: str, sections: list[dict]) -> str:
+    """Generate an answer using Groq (primary LLM)."""
+    if not GROQ_API_KEY:
+        raise ValueError("Groq API key not configured")
+
+    client = _get_groq()
+    prompt = build_prompt(query, sections)
+
+    response = client.chat.completions.create(
+        model=GROQ_MODEL,
+        messages=[
+            {
+                "role": "system",
+                "content": "You are LexQueryia, an AI legal assistant for Indian law. Always cite exact Act names, Section numbers, and clause text. Never fabricate legal provisions."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.2,
+        max_tokens=2048,
+    )
+
+    return response.choices[0].message.content
+
+
 def _generate_answer_google(query: str, sections: list[dict]) -> str:
-    """Generate an answer using Google AI Studio / Vertex AI Text Generation."""
+    """Generate an answer using Google AI Studio Gemini."""
     if not GOOGLE_AI_API_KEY:
         raise ValueError("Google AI API key not configured")
 
     prompt = build_prompt(query, sections)
-    url = f"https://generativelanguage.googleapis.com/v1beta2/models/{GOOGLE_AI_MODEL}:generateText"
+
+    url = f"https://generativelanguage.googleapis.com/v1/models/{GOOGLE_AI_MODEL}:generateContent"
+
     params = {"key": GOOGLE_AI_API_KEY}
     payload = {
-        "prompt": {"text": prompt},
-        "temperature": 0.2,
-        "maxOutputTokens": 1024,
+        "contents": [
+            {
+                "parts": [{"text": prompt}]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 1024,
+        }
     }
 
     resp = requests.post(url, params=params, json=payload, timeout=30)
-    resp.raise_for_status()
+    try:
+        resp.raise_for_status()
+    except Exception as e:
+        print(
+            "Google AI Studio request failed:",
+            resp.status_code,
+            resp.text,
+            "(url=", url, ")",
+        )
+        raise
 
     parsed = resp.json()
-    # Google returns a list of candidates; take the first one.
-    return parsed.get("candidates", [])[0].get("output", "")
+    return parsed["candidates"][0]["content"]["parts"][0]["text"]
+
+
+def _generate_answer_anthropic(query: str, sections: list[dict]) -> str:
+    """Generate an answer using Anthropic Claude."""
+    if not ANTHROPIC_API_KEY:
+        raise ValueError("Anthropic API key not configured")
+
+    client = _get_anthropic()
+    prompt = build_prompt(query, sections)
+
+    response = client.messages.create(
+        model=CLAUDE_MODEL,
+        max_tokens=2048,
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
+        system="You are LexQueryia, an AI legal assistant for Indian law. Always cite exact Act names, Section numbers, and clause text. Never fabricate legal provisions.",
+    )
+
+    return response.content[0].text
 
 
 def generate_answer(query: str, sections: list[dict]) -> str:
     """Generate an answer using the configured LLM provider, with a local fallback."""
-    # Prefer Google AI if configured
+
+    # 1. Try Groq (free and fast)
+    if GROQ_API_KEY:
+        try:
+            return _generate_answer_groq(query, sections)
+        except Exception as e:
+            print(f"Groq call failed: {e}. Trying Google AI.")
+
+    # 2. Try Google AI
     if GOOGLE_AI_API_KEY:
         try:
             return _generate_answer_google(query, sections)
         except Exception as e:
-            print(f"Google AI Studio call failed: {e}. Trying Anthropic (if configured) or falling back to local answer.")
+            print(f"Google AI call failed: {e}. Trying Anthropic.")
 
-    # Otherwise try Anthropic (Claude)
+    # 3. Try Anthropic
     if ANTHROPIC_API_KEY:
         try:
-            client = _get_anthropic()
-            prompt = build_prompt(query, sections)
-
-            response = client.messages.create(
-                model=CLAUDE_MODEL,
-                max_tokens=2048,
-                messages=[
-                    {"role": "user", "content": prompt}
-                ],
-                system="You are LexQueryia, an AI legal assistant for Indian law. Always cite exact Act names, Section numbers, and clause text. Never fabricate legal provisions.",
-            )
-
-            return response.content[0].text
+            return _generate_answer_anthropic(query, sections)
         except Exception as e:
-            print(f"Anthropic call failed: {e}. Falling back to local answer generation.")
+            print(f"Anthropic call failed: {e}. Falling back to local.")
 
-    # Last resort: local (deterministic) response
+    # 4. Local fallback
     return generate_answer_local(query, sections)
 
 
@@ -202,10 +270,10 @@ def query_legal_rag(query: str) -> dict:
             "citations": [],
         }
 
-    # Step 2: Generate answer using Claude
+    # Step 2: Generate answer
     answer = generate_answer(query, sections)
 
-    # Step 3: Build citations from retrieved sections
+    # Step 3: Build citations
     citations = [
         {
             "act_name": s["act_name"],
