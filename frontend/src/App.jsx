@@ -8,36 +8,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 function App() {
   const [currentView, setCurrentView] = useState('dashboard'); // 'dashboard' or 'chat'
 
-  const [sessions, setSessions] = useState([
-    {
-      id: 'session-123',
-      title: 'Property Dispute - Section 503',
-      status: 'solved',
-      updatedAt: new Date(Date.now() - 86400000).toISOString(), // 1 day ago
-      messages: [
-        {
-          id: 1,
-          role: 'user',
-          content: 'I have a neighbor threatening to damage my property, what can I do?',
-          citations: null
-        },
-        {
-          id: 2,
-          role: 'assistant',
-          content: "Based on the Indian Penal Code (IPC), the situation you described falls under the definition of criminal intimidation. According to Section 503 of the IPC...",
-          citations: [
-            {
-              id: 1,
-              actName: "Indian Penal Code, 1860",
-              section: "Section 503",
-              title: "Criminal Intimidation",
-              text: "Whoever threatens another with any injury to his person, reputation or property...",
-            }
-          ]
-        }
-      ]
-    }
-  ]);
+  const [sessions, setSessions] = useState([]);
 
   const [activeSessionId, setActiveSessionId] = useState(null);
 
@@ -56,8 +27,9 @@ function App() {
         {
           id: Date.now(),
           role: 'assistant',
-          content: "Welcome to LexQueryia. I am an AI legal assistant trained on Indian statutory acts and central regulations. Please describe your legal query or situation, and I will provide relevant law sections and act references.\n\n*Note: My responses are for informational purposes only and do not constitute professional legal counsel.*",
-          citations: null
+          content: "Welcome to **LexQueryia**. I am an AI legal assistant trained on Indian statutory acts and central regulations.\n\nI can help you with questions about:\n- 🔒 **Criminal Law** (IPC / Bharatiya Nyaya Sanhita)\n- 📋 **Right to Information** (RTI Act)\n- 🛒 **Consumer Protection** (Consumer Protection Act, 2019)\n- 👷 **Labour & Employment Laws** (Industrial Disputes, Factories Act, Minimum Wages, Gratuity)\n\nPlease describe your legal query or situation, and I will provide relevant law sections and act references.\n\n*Note: My responses are for informational purposes only and do not constitute professional legal counsel.*",
+          citations: null,
+          disclaimer: null,
         }
       ]
     };
@@ -72,15 +44,15 @@ function App() {
     setActiveSessionId(null);
   };
 
-  const handleSendMessage = (sessionId, text, citations = null, role = 'user') => {
+  const handleSendMessage = (sessionId, text, citations = null, role = 'user', disclaimer = null) => {
     setSessions(prevSessions =>
       prevSessions.map(session => {
         if (session.id === sessionId) {
           // Determine a dynamic title if it's the first real user message
           let newTitle = session.title;
           if (role === 'user' && session.messages.length === 1 && newTitle === 'New Legal Query') {
-            // Take the first 30 chars of the user query as title
-            newTitle = text.substring(0, 30) + (text.length > 30 ? '...' : '');
+            // Take the first 40 chars of the user query as title
+            newTitle = text.substring(0, 40) + (text.length > 40 ? '...' : '');
           }
 
           return {
@@ -90,10 +62,11 @@ function App() {
             messages: [
               ...session.messages,
               {
-                id: Date.now() + Math.random(), // Ensure unique ID even if rapid
+                id: Date.now() + Math.random(), // Ensure unique ID
                 role,
                 content: text,
-                citations
+                citations,
+                disclaimer,
               }
             ]
           };

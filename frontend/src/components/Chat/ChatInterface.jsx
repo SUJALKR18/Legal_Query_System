@@ -1,29 +1,10 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Send, Scale, User, FileText, ChevronDown, ChevronUp, ExternalLink, Loader2, BookOpen, CheckCircle, ArrowLeft } from 'lucide-react';
+import { Send, Scale, User, FileText, ChevronDown, ChevronUp, ExternalLink, Loader2, BookOpen, CheckCircle, ArrowLeft, AlertTriangle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
 import './ChatInterface.css';
 
-// Mock data to simulate the RAG response
-const mockResponse = {
-    text: "Based on the Indian Penal Code (IPC), the situation you described falls under the definition of criminal intimidation. According to Section 503 of the IPC, whoever threatens another with any injury to his person, reputation or property, with intent to cause alarm to that person, commits criminal intimidation. \n\nThe punishment for this is outlined in Section 506, which states that the offender shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
-    citations: [
-        {
-            id: 1,
-            actName: "Indian Penal Code, 1860",
-            section: "Section 503",
-            title: "Criminal Intimidation",
-            text: "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.",
-        },
-        {
-            id: 2,
-            actName: "Indian Penal Code, 1860",
-            section: "Section 506",
-            title: "Punishment for criminal intimidation",
-            text: "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; \n\nIf threat be to cause death or grievous hurt, etc.—and if the threat be to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
-        }
-    ]
-};
+const API_BASE = 'http://localhost:8000';
 
 const CitationPanel = ({ citation }) => {
     const [isExpanded, setIsExpanded] = useState(false);
@@ -73,6 +54,13 @@ const CitationPanel = ({ citation }) => {
     );
 };
 
+const DisclaimerBanner = ({ text }) => (
+    <div className="response-disclaimer">
+        <AlertTriangle size={14} />
+        <span>{text}</span>
+    </div>
+);
+
 const Message = ({ message }) => {
     const isBot = message.role === 'assistant';
 
@@ -93,6 +81,10 @@ const Message = ({ message }) => {
                 <div className="message-bubble">
                     <ReactMarkdown>{message.content}</ReactMarkdown>
                 </div>
+
+                {message.disclaimer && (
+                    <DisclaimerBanner text={message.disclaimer} />
+                )}
 
                 {message.citations && message.citations.length > 0 && (
                     <div className="citations-container">
@@ -122,22 +114,52 @@ const ChatInterface = ({ session, onSendMessage, onMarkSolved, onBackToDashboard
         scrollToBottom();
     }, [session.messages, isLoading]);
 
-    const handleSendSubmit = (e) => {
+    const handleSendSubmit = async (e) => {
         e.preventDefault();
         if (!inputValue.trim()) return;
 
-        // Use callback to add user message
-        onSendMessage(session.id, inputValue);
+        const userQuery = inputValue.trim();
+
+        // Add user message
+        onSendMessage(session.id, userQuery);
         setInputValue('');
         setIsLoading(true);
 
-        // Simulate API call and streaming response
-        setTimeout(() => {
-            // In a real app, this would use the real text from an LLM.
-            // We pass the simulated bot message up to App.jsx.
-            onSendMessage(session.id, mockResponse.text, mockResponse.citations, 'assistant');
+        try {
+            const response = await fetch(`${API_BASE}/api/query`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    query: userQuery,
+                    session_id: session.id,
+                }),
+            });
+
+            if (!response.ok) {
+                throw new Error(`Server error: ${response.status}`);
+            }
+
+            const data = await response.json();
+
+            // Add assistant message with real citations and disclaimer
+            onSendMessage(
+                session.id,
+                data.answer,
+                data.citations,
+                'assistant',
+                data.disclaimer
+            );
+        } catch (error) {
+            console.error('Query failed:', error);
+            onSendMessage(
+                session.id,
+                `⚠️ **Error:** Could not reach the LexQueryia backend. Please ensure the server is running at \`${API_BASE}\`.\n\nDetails: ${error.message}`,
+                null,
+                'assistant'
+            );
+        } finally {
             setIsLoading(false);
-        }, 1500);
+        }
     };
 
     const handleKeyDown = (e) => {

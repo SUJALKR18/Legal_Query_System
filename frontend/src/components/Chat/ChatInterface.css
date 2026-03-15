@@ -287,6 +287,27 @@
     opacity: 1;
 }
 
+/* Response Disclaimer */
+.response-disclaimer {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: rgba(234, 179, 8, 0.06);
+    border: 1px solid rgba(234, 179, 8, 0.15);
+    border-radius: var(--radius-md);
+    font-size: 0.78rem;
+    line-height: 1.5;
+    color: var(--text-muted);
+}
+
+.response-disclaimer svg {
+    flex-shrink: 0;
+    color: rgba(234, 179, 8, 0.7);
+    margin-top: 1px;
+}
+
 /* Input Area Styles */
 .input-area-wrapper {
     position: sticky;
