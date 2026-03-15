@@ -1,0 +1,497 @@
+----- PAGE 1 -----
+National Institute of Technology
+Jamshedpur
+Department of Computer Science and Engineering
+Problem Statements
+Coursework Project
+Academic Year 2025–2026
+Course:Digital Image Processing
+Instructor:Koushlendra Kumar Singh
+February 21, 2026
+----- PAGE 2 -----
+Contents
+1 Machine Translation for Low-Resource Turkic Languages 3
+1.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2 Real-Time Topic Tracking & Alert Intelligence System 4
+2.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3 Multilingual Abuse & Slang Detection System 5
+3.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4 Dynamic AI-Driven Survey System (Adaptive Forms) 6
+4.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5 Camera & Sensor-Based Road Quality Detection 7
+5.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+6 Legal Query System with Exact Law References 8
+6.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+7 AI-Assisted YouTube Comment Reply System 9
+7.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+7.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+7.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+7.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+8 AI-Based UI Review & Recommendation Agent 10
+8.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+8.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+8.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+8.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+9 AI Personal Assistant for Alzheimer’s Support 11
+9.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+9.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+9.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+9.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1
+----- PAGE 3 -----
+Problem Statements Collection — Set 2 Page 2
+10 NSFW Website Detection API 12
+10.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+10.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+10.3 Reference Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+10.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+11 AI-Based Semantic File System Search Engine 13
+11.1 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+11.2 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+11.3 Reference Materials & Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+11.4 Technical References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+AI/ML Project Documentation
+----- PAGE 4 -----
+Problem Statements Collection — Set 2 Page 3
+1 Machine Translation for Low-Resource Turkic Languages
+1.1 Problem Statement
+Turkic languages (Kazakh, Azerbaijani, Kyrgyz, Turkish, Turkmen, Uzbek) face machine trans-
+lation challenges due to limited parallel corpora, agglutinative morphology, and multiple writing
+systems. This project replicates an integrated approach using open-source AI models: generat-
+ing synthetic parallel corpora with NLLB-200 3.3B, implementing multi-level cleaning to remove
+hallucinations and errors, fine-tuning NLLB-200 1.3B, and evaluating with multiple metrics in-
+cluding human assessment.
+1.2 Objectives
+•Generate 300k and 500k synthetic parallel corpora for five Turkic–Kazakh pairs using NLLB-
+200 3.3B
+•Implement automated cleaning: remove duplicates, hallucinations, named entity errors, lan-
+guage mixing
+•Fine-tune NLLB-200 1.3B and mT5-base models on cleaned corpora
+•Conduct ablations on corpus size, cleaning impact, multilingual vs. bilingual training
+•Evaluate with automatic metrics (BLEU, chrF, WER, TER, BERTScore, COMET) and
+human assessment
+•Validate on FLORES-200 benchmark; investigate improvements beyond baseline
+1.3 Reference Materials
+•OPUS: Az–Kk (560k), Ky–Kk (102k), Tr–Kk (1.1M), Tk–Kk (22k), Uz–Kk (254k)
+•KazParC (372k), MuST-C multilingual, Uz-Kk corpus (114k)
+•Evaluation: FLORES-200, manual validation (5k sentences/pair)
+•Monolingual: Kazakh news/government (300k+), medical/technical/colloquial (500k+)
+1.4 Technical References
+•Generation: NLLB-200 3.3B, Gemma 2 27B, back-translation
+•Fine-tuning: NLLB-200 1.3B (primary), NLLB-200 600M, mT5-base/small
+•Cleaning (Python 3.11): normalization, exact duplicate detection, repetition filtering, rule-
+based NE correction
+•Training: AdamW, LR 5×10−5, batch 2–4, FP16, 6 epochs, 98/1/1 train/dev/test split
+•Metrics: BLEU, chrF, WER, TER (surface), BERTScore, COMET (semantic), human eval-
+uation
+•Reference paper:Tukeyev et al., Computers 2026
+AI/ML Project Documentation
+----- PAGE 5 -----
+Problem Statements Collection — Set 2 Page 4
+2 Real-Time Topic Tracking & Alert Intelligence System
+2.1 Problem Statement
+In an increasingly fast-paced information environment, keeping up with developments on a
+specific topic across diverse sources—news portals, social media, blogs, and discussion forums—
+is a major challenge for researchers, analysts, and businesses. Conventional search tools are
+static and require manual re-querying; they do not proactively detect novelty or send alerts
+when meaningful changes occur.
+The objective is to develop a system that continuously monitors a user-defined topic across
+multiple data sources in real time. It should detect new, relevant updates, filter duplicates,
+rank results by relevance, and notify the user with concise summaries and source links. The
+emphasis is onevent detection,trend change identification, andinformation noveltyrather than
+standard keyword search.
+2.2 Objectives
+•Continuously crawl and monitor news websites, Twitter/X, blogs, and social media platforms
+•Detect emerging events and significant changes related to the tracked topic
+•Filter duplicate or redundant content using semantic similarity measures
+•Rank updates by relevance, recency, and source credibility
+•Generate concise natural-language summaries for each new alert
+•Maintain a timeline-based evolution view of the topic over time
+•Support multi-topic tracking with user-configurable alert thresholds and delivery channels
+2.3 Reference Materials
+•GDELT Project (global event database with news links)
+•Twitter Academic API / X Developer API
+•CommonCrawl web corpus
+•RealNews / All-the-News Materials
+•MIND (Microsoft News Dataset)
+2.4 Technical References
+•Web scraping: BeautifulSoup, Scrapy, Playwright for dynamic pages
+•NLP summarization: BART, Pegasus, T5 transformer models
+•Semantic deduplication: Sentence-BERT with cosine similarity thresholding
+•Event and topic detection: BERTopic, Latent Dirichlet Allocation (LDA)
+•Stream processing: Apache Kafka, Redis Pub/Sub for real-time pipelines
+•Alert delivery: WebSocket push, email/SMS webhook integrations
+AI/ML Project Documentation
+----- PAGE 6 -----
+Problem Statements Collection — Set 2 Page 5
+3 Multilingual Abuse & Slang Detection System
+3.1 Problem Statement
+Online platforms are increasingly plagued by abusive language, hate speech, and offensive slang,
+particularly in code-switched and multilingual contexts such as Hinglish (Hindi–English), Tan-
+glish (Tamil–English), and Bengalish. Existing moderation models trained predominantly on
+standard English fail to capture the nuanced semantics of mixed-language abuse, allowing harm-
+ful content to evade detection.
+The objective is to develop an AI model capable of detecting abusive content, slang, and offen-
+sive language in mixed and code-switched language inputs across chat messages, social media
+comments, and discussion forums in real time. The system should be robust across language
+combinations and informal writing styles.
+3.2 Objectives
+•Detect abusive, offensive, and hate speech content in multilingual and code-switched text
+•Handle informal spellings, transliterations, abbreviations, and emoji-based expressions
+•Classify content into fine-grained categories (hate speech, profanity, cyberbullying, etc.)
+•Support real-time inference suitable for live chat and comment stream moderation
+•Minimize false positives on culturally specific but non-offensive regional slang
+•Provide confidence scores and category explanations for moderation audit trails
+3.3 Reference Materials
+•SemEval-2019 Task 5 (multilingual hate speech detection)
+•HASOC 2019/2020 (Hindi–English offensive content dataset)
+•Dravidian-CodeMix dataset (Tamil–English, Malayalam–English)
+•OffComIn dataset (offensive content in Hindi social media)
+•HatEval multilingual hate speech dataset
+•Kaggle Toxic Comment Classification Challenge dataset
+3.4 Technical References
+•Multilingual transformers: mBERT, XLM-RoBERTa, MuRIL (optimized for Indian lan-
+guages)
+•Transliteration normalization: IndicNLP library, Aksharamukha toolkit
+•Low-resource augmentation: back-translation, synonym replacement, cross-lingual transfer
+•Serving infrastructure: FastAPI with ONNX runtime for low-latency inference
+•Explainability: LIME token attributions, transformer attention visualization
+AI/ML Project Documentation
+----- PAGE 7 -----
+Problem Statements Collection — Set 2 Page 6
+4 Dynamic AI-Driven Survey System (Adaptive Forms)
+4.1 Problem Statement
+Traditional survey tools present a fixed, linear sequence of questions to all respondents re-
+gardless of their prior answers. This leads to survey fatigue, irrelevant questions, incomplete
+responses, and low-quality data. Adaptive questioning—where subsequent questions dynami-
+cally adjust based on earlier responses—is well established in psychometrics but has not been
+widely democratized for general-purpose survey design.
+The objective is to build a smart survey platform that uses AI to dynamically select and adapt
+subsequent questions in real time based on a respondent’s previous answers. The system should
+improve data quality, reduce survey completion time, and increase respondent engagement,
+while providing a no-code survey builder interface for researchers and form designers.
+4.2 Objectives
+•Dynamically generate or select follow-up questions based on prior response content
+•Support branching logic, skip patterns, and open-ended follow-up question injection
+•Use NLP to interpret free-text answers and adjust question flow accordingly
+•Provide a no-code survey builder with rule-based and AI-driven branching modes
+•Analyze collected data in real time with aggregated response dashboards
+•Minimize total questions asked while maximizing information depth collected
+•Detect and flag low-quality, contradictory, or inattentive responses automatically
+4.3 Reference Materials
+•Qualtrics public survey templates (structural and branching reference)
+•SurveyCircle academic dataset repository
+•Open Psychology Data (adaptive questionnaire study archives)
+•Item Response Theory (IRT) benchmark Materials
+4.4 Technical References
+•Adaptive test logic: Item Response Theory (IRT), Computerized Adaptive Testing (CAT)
+•Free-text interpretation: BERT-based intent classifiers, GPT-4 for semantic parsing
+•Frontend: React with conditional rendering and drag-and-drop form builder
+•Backend: Node.js or FastAPI with a real-time branching decision engine
+•Response analytics: Plotly Dash or Apache Superset for visualization dashboards
+AI/ML Project Documentation
+----- PAGE 8 -----
+Problem Statements Collection — Set 2 Page 7
+5 Camera & Sensor-Based Road Quality Detection
+5.1 Problem Statement
+Poor road conditions—including potholes, abrupt speed breakers, uneven surfaces, and cracked
+pavements—pose serious safety hazards for commuters and cause significant vehicle damage.
+Manual road inspection is costly, infrequent, and geographically limited. A scalable, auto-
+mated road quality monitoring system leveraging ubiquitous smartphone hardware can enable
+continuous, crowd-sourced infrastructure assessment at minimal cost.
+The objective is to develop a mobile-based system that uses smartphone camera feeds and
+built-in accelerometer/gyroscope data to detect and classify road defects in real time. The
+system should map detected anomalies to GPS coordinates, classify severity, and aggregate
+crowd-sourced data into actionable infrastructure reports for civic authorities.
+5.2 Objectives
+•Detect potholes, speed breakers, and road surface anomalies from camera and IMU sensor
+data
+•Classify road defect severity (minor, moderate, severe) using jerk intensity and visual features
+•Fuse accelerometer and gyroscope readings with visual detections for robust classification
+•Tag each detected event with GPS coordinates and timestamp for geospatial mapping
+•Aggregate crowd-sourced detections into a regional road quality heatmap
+•Operate efficiently on mobile hardware within real-time latency constraints
+•Generate structured defect reports suitable for civic body review and submission
+5.3 Reference Materials
+•Pothole-600 Dataset (labeled pothole images)
+•RDD2022 — Road Damage Detection Dataset (Japan, India, USA, Czech Republic)
+•OpenStreetMap road network data for geospatial context
+•CityProbe Dataset (smartphone sensor-based road quality recordings)
+•Custom crowd-sourced accelerometer and gyroscope recordings
+5.4 Technical References
+•Object detection: YOLOv8 for pothole and crack detection on camera frames
+•Sensor fusion: Kalman filtering combining accelerometer and gyroscope streams
+•Mobile deployment: TensorFlow Lite, ONNX Mobile for on-device inference
+•Geospatial mapping: Leaflet.js, Folium with OpenStreetMap tile layers
+•Backend aggregation: FastAPI with PostgreSQL and PostGIS spatial extension
+•Platform APIs: Android SensorManager / iOS CoreMotion for native sensor access
+AI/ML Project Documentation
+----- PAGE 9 -----
+Problem Statements Collection — Set 2 Page 8
+6 Legal Query System with Exact Law References
+6.1 Problem Statement
+Access to precise legal information remains a significant barrier for citizens, small businesses, and
+administrative bodies. Generic legal platforms often provide vague or overly broad responses
+without citing specific statutory provisions, act numbers, or clause references, limiting their
+utility for informed decision-making and legal awareness.
+The objective is to develop an AI-powered legal query assistant that answers situation-specific
+legal questions by retrieving and citing exact law sections, act numbers, sub-clauses, and rele-
+vant case precedents from a curated statutory corpus. The system should prioritize precision,
+explainability, and full traceability of every response to its underlying legal source, implementing
+a legally-aware Retrieval-Augmented Generation (RAG) pipeline.
+6.2 Objectives
+•Parse and index a comprehensive corpus of Indian statutory acts and central regulations
+•Retrieve the most relevant law sections for a given query using dense semantic search
+•Generate precise answers citing exact act names, section numbers, and clause text verbatim
+•Support multi-turn conversational follow-ups for nuanced legal clarification
+•Display full cited clause text alongside the generated answer for user verification
+•Cover key domains: criminal law (IPC/BNS), civil procedure, consumer rights, labor law,
+RTI
+•Clearly disclaim AI limitations and recommend professional legal counsel where appropriate
+6.3 Reference Materials
+•India Code (indiacode.nic.in) — complete statutory text of all central acts
+•Indian Kanoon corpus (case law and statute cross-references)
+•ILDC (Indian Legal Document Corpus) for NLP fine-tuning
+•ECHR dataset for comparative legal NLP benchmarking
+•Manually curated Q&A pairs from legal aid organizations
+6.4 Technical References
+•RAG pipeline: LangChain or LlamaIndex with vector store (FAISS, Chroma, Weaviate)
+•Legal embeddings: InLegalBERT, E5-large fine-tuned on statutory text
+•LLM backbone: LLaMA-3, Mistral, or GPT-4 for grounded response generation
+•Document ingestion: PyMuPDF, pdfminer for statutory PDF parsing and chunking
+•Re-ranking: ColBERT or cross-encoder models for retrieval precision improvement
+•Frontend: Streamlit or React with collapsible clause citation panels
+AI/ML Project Documentation
+----- PAGE 10 -----
+Problem Statements Collection — Set 2 Page 9
+7 AI-Assisted YouTube Comment Reply System
+7.1 Problem Statement
+Content creators on YouTube routinely receive hundreds to thousands of comments per video,
+making manual, personalized engagement infeasible at scale. Generic auto-replies fail to reflect
+the creator’s authentic tone or address specific comment content, damaging audience relation-
+ships. There is a clear need for an AI-assisted tool that generates contextually appropriate,
+tone-consistent replies to help creators maintain meaningful engagement without dispropor-
+tionate time investment.
+The objective is to build a system that reads a YouTube comment, identifies its intent, and
+generates an appropriate reply in a user-specified tone. A review interface should allow creators
+to inspect, edit, and selectively post replies at scale.
+7.2 Objectives
+•Classify incoming comments by intent: question, praise, criticism, spam, or neutral
+•Generate context-aware replies tailored to specific comment content and video topic
+•Support configurable tone profiles: friendly, professional, promotional, or humorous
+•Allow creators to define custom reply personas and preferred vocabulary
+•Enable batch processing to handle high-volume comment threads efficiently
+•Provide a human-in-the-loop review interface for approval before posting
+•Detect and route spam or abusive comments to moderation rather than reply generation
+7.3 Reference Materials
+•YouTube Data API v3 (comment thread extraction)
+•SemEval comment intent classification Materials
+•Reddit Comment Corpus (conversational reply modeling)
+•Yelp Review Reply dataset (business response modeling)
+•Creator-curated example reply pairs for persona fine-tuning
+7.4 Technical References
+•Intent classification: DistilBERT or RoBERTa fine-tuned on comment corpora
+•Reply generation: GPT-4o, LLaMA-3, or Mistral with system-prompt persona control
+•Platform integration: YouTube Data API v3 with OAuth 2.0 authentication
+•Tone conditioning: few-shot prompt engineering with per-tone example banks
+•Async batch processing: Celery workers with Redis task queue
+•Interface: Chrome extension overlay or standalone React dashboard
+AI/ML Project Documentation
+----- PAGE 11 -----
+Problem Statements Collection — Set 2 Page 10
+8 AI-Based UI Review & Recommendation Agent
+8.1 Problem Statement
+Design audits for websites and web applications are typically conducted manually by UX pro-
+fessionals, making them expensive, time-consuming, and inconsistently applied across products.
+Automated accessibility checkers exist but are narrowly scoped to rule-based conformance test-
+ing and do not provide holistic usability or aesthetic design feedback.
+The objective is to develop an autonomous AI agent that navigates a target website, captures
+page screenshots across key views, and performs comprehensive UI/UX analysis. The agent
+should identify usability issues, layout inconsistencies, accessibility violations, and visual de-
+sign weaknesses, then produce an actionable, prioritized improvement report with annotated
+screenshots.
+8.2 Objectives
+•Autonomously scroll, navigate, and capture screenshots of target website pages
+•Analyze visual layout, color contrast ratios, typography hierarchy, and spacing
+•Detect accessibility violations against WCAG 2.1 AA and AAA standards
+•Identify usability anti-patterns: unclear CTAs, cluttered layouts, broken navigation flows
+•Generate annotated screenshots with bounding boxes marking specific issues
+•Produce a structured, prioritized PDF or HTML report with actionable recommendations
+•Support A/B comparison mode between two design variants for differential analysis
+8.3 Reference Materials
+•WCAG 2.1 accessibility guidelines (W3C)
+•Rico Dataset (Android UI screenshots for layout pattern learning)
+•Enrico Dataset (UI screenshots with design quality annotations)
+•WebAIM accessibility evaluation reports (reference corpus)
+•Awwwards and Dribbble curated design references
+8.4 Technical References
+•Browser automation: Playwright or Puppeteer in headless mode for navigation and capture
+•Accessibility APIs: axe-core, pa11y for standards-based violation detection
+•Vision-language analysis: GPT-4V or LLaVA for screenshot-based layout assessment
+•Contrast analysis: WCAG contrast ratio calculation algorithms
+•Report generation: WeasyPrint for PDF output, Jinja2 for HTML templating
+•Agent orchestration: LangChain Agents or AutoGen multi-agent framework
+AI/ML Project Documentation
+----- PAGE 12 -----
+Problem Statements Collection — Set 2 Page 11
+9 AI Personal Assistant for Alzheimer’s Support
+9.1 Problem Statement
+Alzheimer’s disease progressively impairs memory, reasoning, and daily functioning, placing
+enormous burdens on patients and caregivers. Existing digital assistants are not designed for
+the cognitive limitations of Alzheimer’s patients—they lack the patience, repetition tolerance,
+simplified interaction models, and personalized memory required to be genuinely useful in this
+context.
+The objective is to develop a compassionate, personalized AI assistant tailored specifically
+for Alzheimer’s patients. The system should provide timely reminders, routine guidance, and
+familiar interaction patterns; recognize behavioral cues of confusion or distress; and adapt its
+communication style as the patient’s condition evolves. A companion caregiver interface should
+allow family members and healthcare providers to configure routines, monitor interactions, and
+intervene when necessary.
+9.2 Objectives
+•Deliver proactive, personalized reminders for medication, meals, hydration, and appointments
+•Use simple, calm, and consistent language adapted to the patient’s current cognitive stage
+•Recognize confusion or distress signals from speech patterns, response latency, or tone
+•Learn and retain personal details, preferences, and daily routines over extended sessions
+•Provide a caregiver dashboard for routine configuration, monitoring, and manual override
+•Support multimodal interaction: voice, large-button touch UI, and photo-based prompts
+•Ensure strict data privacy with local-first storage and consent-based encryption
+9.3 Reference Materials
+•DementiaBank Pitt Corpus (speech and language data of dementia patients)
+•ADNI (Alzheimer’s Disease Neuroimaging Initiative) behavioral Materials
+•Talk2Me Dataset (cognitive assessment through conversational interaction data)
+•ILSE Longitudinal Study data (aging and cognitive decline trajectories)
+•Caregiver interview transcripts from public dementia research archives
+9.4 Technical References
+•Conversational AI: fine-tuned LLaMA or Mistral with persistent memory module (MemGPT)
+•Speech recognition: OpenAI Whisper (offline, privacy-preserving deployment)
+•Text-to-speech: Coqui TTS or Azure Cognitive Speech with gentle voice profiles
+•Distress detection: prosodic feature analysis via librosa, response latency monitoring
+•Reminder engine: on-device cron scheduler with caregiver-editable calendar integration
+•UI framework: Flutter for cross-platform large-font, high-contrast accessible interface
+•Architecture: local-first with optional encrypted caregiver cloud synchronization
+AI/ML Project Documentation
+----- PAGE 13 -----
+Problem Statements Collection — Set 2 Page 12
+10 NSFW Website Detection API
+10.1 Problem Statement
+Parental control systems, corporate network filters, and safe-browsing tools require reliable,
+automated classification of websites as safe or not-safe-for-work (NSFW). Existing solutions
+rely predominantly on static domain blocklists that become rapidly outdated and cannot assess
+dynamically generated or newly registered websites. A content-aware API that autonomously
+visits a URL and performs real-time multimodal content analysis is required to address this
+gap.
+The objective is to develop a backend API that, given any URL, crawls the target website in
+a sandboxed environment, extracts representative text and images, and classifies the overall
+content as NSFW or safe. The API should handle dynamic websites, embedded media, and
+mixed-content pages, returning a Boolean classification alongside a confidence score and a brief
+content summary for audit and logging purposes.
+10.2 Objectives
+•Crawl a provided URL in a sandboxed browser environment to capture fully rendered page
+content
+•Extract representative textual content (headings, paragraphs, alt text, metadata) and visible
+images
+•Classify extracted text for explicit, adult, violent, or hate-speech content using NLP models
+•Classify extracted images for NSFW visual content using CNN-based or ViT-based detectors
+•Fuse text and image classification scores for a unified site-level NSFW decision
+•Return a Booleanis nsfwverdict, a floating-point confidence score, and a content summary
+•Enforce rate limiting, container sandboxing, and safe crawling to prevent system abuse
+10.3 Reference Materials
+•Open NSFW Model dataset (Yahoo open-sourced, image-based)
+•NudeNet dataset (explicit content image classification and detection)
+•TOXIGEN text toxicity benchmark dataset
+•Common Crawl filtered web corpus with safe/unsafe domain labels
+•Kaggle NSFW text and image classification Materials
+10.4 Technical References
+•Web crawling: Playwright running inside sandboxed Docker containers with network isolation
+•Text classification: fine-tuned DistilBERT or RoBERTa for toxicity and NSFW content de-
+tection
+•Image classification: NudeNet, EfficientNet, or ViT fine-tuned on NSFW image Materials
+•Score fusion: weighted average ensemble or logistic regression meta-classifier
+•API framework: FastAPI with asynchronous Celery task queue backed by Redis
+•Security: network namespace isolation, strict crawl timeouts, URL pre-filter blocklist
+AI/ML Project Documentation
+----- PAGE 14 -----
+Problem Statements Collection — Set 2 Page 13
+•Output schema: JSON withis nsfw(bool),confidence(float 0–1),summary(string)
+11 AI-Based Semantic File System Search Engine
+11.1 Problem Statement
+Traditional file system search tools operate on exact or partial filename matches, requiring users
+to remember precise file names, folder structures, or metadata tags. This model breaks down
+entirely when a user remembers only thetopicorcontextof a file rather than its name—a
+document about quarterly budgets might be saved asQ3 final v2.xlsx, completely invisible
+to a keyword search for “budget.” The problem is compounded across large, deeply nested
+directory trees where files accumulate over years with inconsistent naming conventions.
+The objective is to build an intelligent, AI-powered file search engine that operates locally on a
+user’s file system—analogous to how web crawlers index the internet—but instead of returning
+only exact filename matches, it understands thesemantic meaningof file contents and theintent
+behind a user’s query. A search for‘‘apples’’should surface not just files namedapples,
+but also files discussing fruits, orchards, nutrition, or apple cultivation, ranked by semantic
+relevance. The system should operate entirely offline, ensuring complete data privacy, and
+index files incrementally without degrading system performance.
+11.2 Objectives
+•Build a local crawler that recursively indexes the file system, extracting text content from
+diverse file types (PDF, DOCX, TXT, PPTX, XLSX, images via OCR, code files, etc.)
+•Generate dense semantic embeddings for each indexed file or document chunk using lightweight
+sentence embedding models deployable on-device
+•Store embeddings in a local vector database for fast approximate nearest-neighbor retrieval
+•Accept natural language search queries and retrieve semantically similar files ranked by con-
+textual relevance, not just lexical overlap
+•Expand user queries intelligently—a search for‘‘apples’’automatically considers related
+concepts such as fruits, orchards, recipes, and nutrition without requiring the user to enu-
+merate synonyms
+•Support faceted filtering by file type, date range, size, and directory scope alongside semantic
+results
+•Display result previews with the most relevant passage or region of each matched file high-
+lighted
+•Monitor the file system for changes and update the index incrementally in the background
+with minimal CPU and memory footprint
+•Provide a clean desktop or CLI interface through which users can explore results, open files,
+and navigate to file locations
+11.3 Reference Materials & Benchmarks
+•BEIR Benchmark (information retrieval evaluation across diverse domains)
+•MS MARCO Document Ranking dataset (query–document relevance pairs)
+•Natural Questions (NQ) dataset (for query expansion evaluation)
+AI/ML Project Documentation
+----- PAGE 15 -----
+Problem Statements Collection — Set 2 Page 14
+•Common Crawl / Wikipedia (for semantic model pre-training reference)
+•User-generated file collections (self-hosted personal document corpora for evaluation)
+11.4 Technical References
+•File crawling and parsing:Pythonwatchdogfor filesystem event monitoring; Apache
+Tika, PyMuPDF, python-docx, openpyxl, and python-pptx for content extraction across file
+formats; Tesseract OCR for image-embedded text
+•Semantic embeddings:Sentence-Transformers (all-MiniLM-L6-v2,all-mpnet-base-v2)
+or BAAI/bge models for lightweight on-device dense embeddings; document chunking with
+sliding window and overlap strategies
+•Vector storage and retrieval:FAISS (Facebook AI Similarity Search) or ChromaDB for
+local approximate nearest-neighbor search; SQLite for file metadata and index management
+•Query understanding and expansion:WordNet and ConceptNet for ontology-based
+synonym and related-concept expansion; query rewriting via lightweight T5 or FLAN-T5
+models; BM25 (Okapi) as a lexical baseline for hybrid retrieval
+•Hybrid retrieval:Reciprocal Rank Fusion (RRF) to combine dense semantic scores with
+sparse BM25 lexical scores for robustness
+•Re-ranking:Cross-encoder models (e.g.,ms-marco-MiniLM-L-6-v2) for precision improve-
+ment on top-kretrieved candidates
+•Interface:Electron.js or Tauri for cross-platform desktop GUI; Click or Typer for CLI access;
+result preview with passage-level highlighting using HTML rendering
+•Incremental indexing:File hash-based change detection to avoid redundant re-embedding;
+background daemon with configurable CPU throttling
+AI/ML Project Documentation
