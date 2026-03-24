@@ -1,0 +1,19 @@
+{
+    "name": "legal-query-server",
+    "version": "1.0.0",
+    "description": "Backend API server for Legal Query System",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.0",
+        "mongoose": "^8.8.0",
+        "bcryptjs": "^2.4.3",
+        "jsonwebtoken": "^9.0.2",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "axios": "^1.7.7"
+    }
+}
