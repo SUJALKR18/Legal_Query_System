@@ -1,0 +1,657 @@
+\documentclass[aspectratio=16:9, 11pt]{beamer}
+
+\usetheme{Madrid}
+\usecolortheme{default}
+\usefonttheme{professionalfonts}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{itemize items}[square]
+
+\definecolor{darkblue}{RGB}{0,51,102}
+\definecolor{lightblue}{RGB}{135,206,235}
+\definecolor{darkgreen}{RGB}{34,139,34}
+
+\title{\textbf{Legal Query System}}
+\subtitle{A RAG-Based Legal Document Intelligence Platform}
+\author{Group Project}
+\institute{Full-Stack Development}
+\date{\today}
+
+\begin{document}
+
+% ==================== TITLE SLIDE ====================
+\frame{
+    \titlepage
+}
+
+% ==================== TABLE OF CONTENTS ====================
+\frame[plain]{
+    \frametitle{\textbf{Presentation Overview}}
+    \tableofcontents[hideallsubsections]
+}
+
+% ==================== SECTION 1: EXECUTIVE SUMMARY ====================
+\section{Executive Summary}
+
+\frame{
+    \frametitle{What We Built}
+    
+    \begin{block}{Legal Query System}
+        An AI-powered platform that searches and retrieves relevant sections from legal documents using semantic search and generates accurate answers with proper citations.
+    \end{block}
+    
+    \vspace{0.5cm}
+    
+    \begin{block}{Simple Explanation}
+        \textbf{ChatGPT for Indian Legal Documents}
+        \begin{itemize}
+            \item Ask: ``What are penalties for cybercrime?''
+            \item System finds: Relevant sections from IT Act 2000
+            \item Returns: Legal answer with source citations
+        \end{itemize}
+    \end{block}
+}
+
+\frame{
+    \frametitle{Why This Matters}
+    
+    \begin{columns}[T]
+        \column{0.5\textwidth}
+        \textbf{Problem:}
+        \begin{itemize}
+            \item Legal documents are complex
+            \item Hard to find relevant sections
+            \item AI can hallucinate (make up info)
+            \item No way to verify AI answers
+        \end{itemize}
+        
+        \column{0.5\textwidth}
+        \textbf{Our Solution:}
+        \begin{itemize}
+            \item Semantic search finds relevant laws
+            \item Always shows source documents
+            \item AI constrained to actual laws
+            \item Users can verify every claim
+        \end{itemize}
+    \end{columns}
+}
+
+% ==================== SECTION 2: ARCHITECTURE ====================
+\section{System Architecture}
+
+\frame{
+    \frametitle{High-Level Design}
+    
+    \begin{block}{Three-Layer Stack}
+        \begin{enumerate}
+            \item \textbf{Frontend Layer} (React + Vite) --- User interface
+            \item \textbf{Backend Layer} (Express + MongoDB) --- API and sessions
+            \item \textbf{RAG Pipeline} (Flask + Python) --- Intelligence
+        \end{enumerate}
+    \end{block}
+    
+    \vspace{1cm}
+    
+    \textbf{Databases:}
+    \begin{itemize}
+        \item MongoDB: User accounts and chat history
+        \item ChromaDB: Legal document embeddings
+    \end{itemize}
+}
+
+\frame{
+    \frametitle{Frontend Components}
+    
+    \begin{block}{React + Vite User Interface}
+        What users see and interact with
+    \end{block}
+    
+    \begin{itemize}
+        \item \textbf{Login/Signup} - Secure user registration
+        \item \textbf{Dashboard} - List of all user's queries
+        \item \textbf{Chat Interface} - Real-time conversation
+        \item \textbf{Citation Cards} - Expandable source documents
+    \end{itemize}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Key Feature:} Protected routes require valid JWT token
+}
+
+\frame{
+    \frametitle{Backend API}
+    
+    \begin{block}{Express.js Server}
+        Coordinates between frontend and RAG pipeline
+    \end{block}
+    
+    \textbf{Responsibilities:}
+    \begin{enumerate}
+        \item User authentication (JWT + Bcrypt)
+        \item Session management (MongoDB)
+        \item Forward queries to RAG pipeline
+        \item Store conversation history
+    \end{enumerate}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Key Endpoints:}
+    \begin{itemize}
+        \item \texttt{POST /auth/login} - User login
+        \item \texttt{POST /chat/query} - Submit question
+        \item \texttt{GET /chat/sessions} - List sessions
+    \end{itemize}
+}
+
+\frame{
+    \frametitle{RAG Pipeline}
+    
+    \begin{block}{Retrieval-Augmented Generation}
+        The AI intelligence layer that finds answers
+    \end{block}
+    
+    \textbf{Four-Step Process:}
+    \begin{enumerate}
+        \item \textbf{Encode:} Convert query to 384-dimensional vector
+        \item \textbf{Search:} Find top-6 similar document chunks
+        \item \textbf{Format:} Prepare context with citations
+        \item \textbf{Generate:} LLM creates answer from context
+    \end{enumerate}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Technologies:}
+    \begin{itemize}
+        \item Sentence-Transformers for embeddings
+        \item ChromaDB for vector search
+        \item Google Gemini 2.0 Flash for LLM
+    \end{itemize}
+}
+
+% ==================== SECTION 3: DATA PROCESSING ====================
+\section{Document Processing Pipeline}
+
+\frame{
+    \frametitle{From Raw PDF to Searchable Knowledge}
+    
+    \begin{block}{Five-Stage Pipeline}
+        Transforms legal PDFs into AI-searchable format
+    \end{block}
+    
+    \begin{enumerate}
+        \item Extract text from PDFs (PyPDF2)
+        \item Split by legal sections (Section 33A, Rule 5, etc.)
+        \item Tag with metadata (act, year, chapter, page)
+        \item Create vector embeddings (Sentence-Transformers)
+        \item Index in ChromaDB for fast retrieval
+    \end{enumerate}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Performance:} 2000 sections indexed in 5-10 seconds
+}
+
+\frame{
+    \frametitle{Smart Chunking Strategy}
+    
+    \begin{block}{Why Domain-Aware Chunking?}
+        Generic word-count splitting loses legal context
+    \end{block}
+    
+    \textbf{Our Approach:}
+    \begin{itemize}
+        \item Detect legal section headers automatically
+        \item Split on section boundaries (preserve context)
+        \item Large sections: Split into 400-word parts with overlap
+        \item Store rich metadata for citations
+    \end{itemize}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Example Metadata:}
+    \begin{itemize}
+        \item Act: Information Technology Act
+        \item Year: 2000
+        \item Section: 33A
+        \item Title: Power of controller
+        \item Page: 42
+    \end{itemize}
+}
+
+% ==================== SECTION 4: QUERY PROCESSING ====================
+\section{How Queries Work}
+
+\frame{
+    \frametitle{User Query Journey}
+    
+    \begin{enumerate}
+        \item User asks: ``What are penalties for cybercrime?''
+        \vspace{0.2cm}
+        \item Frontend sends to backend (with JWT token)
+        \vspace{0.2cm}
+        \item Backend validates user and forwards to RAG
+        \vspace{0.2cm}
+        \item RAG encodes query as vector
+        \vspace{0.2cm}
+        \item ChromaDB retrieves top-6 matching sections
+        \vspace{0.2cm}
+        \item Formats context with citations
+        \vspace{0.2cm}
+        \item Gemini LLM generates answer
+        \vspace{0.2cm}
+        \item Backend saves in MongoDB
+        \vspace{0.2cm}
+        \item Frontend displays with expandable sources
+    \end{enumerate}
+    
+    \textbf{Total Time: 2-3 seconds}
+}
+
+\frame{
+    \frametitle{Semantic Search vs Keyword Search}
+    
+    \begin{block}{The Difference}
+        Why we don't use simple keyword matching
+    \end{block}
+    
+    \begin{columns}[T]
+        \column{0.5\textwidth}
+        \textbf{Keyword Search:}
+        \begin{itemize}
+            \item Q: ``internet crime''
+            \item Finds: pages with those words
+            \item Misses: ``hacking'', ``phishing''
+            \item Result: INCOMPLETE
+        \end{itemize}
+        
+        \column{0.5\textwidth}
+        \textbf{Semantic Search:}
+        \begin{itemize}
+            \item Q: ``internet crime''
+            \item Finds: cybercrime, hacking, phishing
+            \item Understands: word meaning
+            \item Result: COMPLETE
+        \end{itemize}
+    \end{columns}
+}
+
+\frame{
+    \frametitle{Ensuring Accurate Answers}
+    
+    \begin{block}{Preventing AI Hallucinations}
+        Critical for legal documents
+    \end{block}
+    
+    \textbf{Our Strategies:}
+    \begin{enumerate}
+        \item Constrain LLM to retrieved documents only
+        \item Temperature 0.2 (deterministic, not creative)
+        \item Require citation for every claim
+        \item Filter results below 30\% relevance
+        \item Add disclaimer: ``This is AI-generated''
+    \end{enumerate}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Result:} Trustworthy answers users can verify
+}
+
+% ==================== SECTION 5: USER EXPERIENCE ====================
+\section{User Interface \& Security}
+
+\frame{
+    \frametitle{Authentication System}
+    
+    \begin{block}{Secure User Access}
+        Protecting legal information requires security
+    \end{block}
+    
+    \textbf{Implementation:}
+    \begin{itemize}
+        \item Passwords hashed with Bcrypt (12 salt rounds)
+        \item JWT tokens for stateless authentication
+        \item 24-hour token expiration
+        \item CORS validation for API access
+    \end{itemize}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Result:} Each user sees only their own data
+}
+
+\frame{
+    \frametitle{Dashboard Features}
+    
+    \begin{block}{Session Management}
+        Users organize their legal queries
+    \end{block}
+    
+    \begin{itemize}
+        \item View all chat sessions
+        \item Filter: All / Active / Solved
+        \item See: Title, message count, last update
+        \item Actions: Open, edit, delete, mark solved
+        \item Create new query button
+    \end{itemize}
+    
+    \vspace{0.5cm}
+    
+    All sessions saved in MongoDB for persistence
+}
+
+\frame{
+    \frametitle{Chat Interface}
+    
+    \begin{block}{Multi-Turn Conversations}
+        Context-aware legal discussions
+    \end{block}
+    
+    \textbf{Example Conversation:}
+    \begin{itemize}
+        \item User: ``What is Section 33A?''
+        \item Assistant: [Answer with citations]
+        \item User: ``What are the penalties?''
+        \item Assistant: [Understands context, provides penalties]
+    \end{itemize}
+    
+    \vspace{0.5cm}
+    
+    Maintains last 6 messages for context
+}
+
+\frame{
+    \frametitle{Citation Display}
+    
+    \begin{block}{Verifiable Sources}
+        Users can verify every claim
+    \end{block}
+    
+    For each answer:
+    \begin{itemize}
+        \item Sources ranked by relevance (92\%, 87\%, 82\%)
+        \item Act name: ``Information Technology Act, 2000''
+        \item Section number: ``Section 33A''
+        \item Expandable full text
+        \item Direct links to source documents
+    \end{itemize}
+}
+
+% ==================== SECTION 6: TECHNICAL DETAILS ====================
+\section{Technical Implementation}
+
+\frame{
+    \frametitle{Technology Stack}
+    
+    \begin{block}{What We Used}
+        Production-grade technologies
+    \end{block}
+    
+    \textbf{Frontend:}
+    \begin{itemize}
+        \item React 18 (UI framework)
+        \item Vite 5 (build tool)
+        \item Axios (HTTP client)
+    \end{itemize}
+    
+    \textbf{Backend:}
+    \begin{itemize}
+        \item Express 4 (web server)
+        \item MongoDB (user database)
+        \item JWT (authentication)
+    \end{itemize}
+    
+    \textbf{RAG:}
+    \begin{itemize}
+        \item Flask 3 (API server)
+        \item ChromaDB (vector search)
+        \item Gemini 2.0 Flash (LLM)
+    \end{itemize}
+}
+
+\frame{
+    \frametitle{Performance Benchmarks}
+    
+    \begin{block}{System Speed Testing}
+    \end{block}
+    
+    \textbf{Document Ingestion:}
+    \begin{itemize}
+        \item PDF parsing: $<$ 1 second
+        \item Chunking: $<$ 1 second
+        \item Embedding: 3-5 seconds
+        \item Total for 2000 sections: 5-10 seconds
+    \end{itemize}
+    
+    \vspace{0.5cm}
+    
+    \textbf{Query Processing:}
+    \begin{itemize}
+        \item Vector search: $<$ 100 milliseconds
+        \item LLM inference: 1-2 seconds
+        \item End-to-end: 2-3 seconds
+    \end{itemize}
+}
+
+\frame{
+    \frametitle{Code Statistics}
+    
+    \begin{block}{Project Size}
+    \end{block}
+    
+    \begin{columns}[T]
+        \column{0.5\textwidth}
+        \textbf{Codebase:}
+        \begin{itemize}
+            \item 3000+ lines total
+            \item 10+ backend endpoints
+            \item 4 frontend routes
+            \item 3 Python modules
+            \item 8+ JavaScript files
+        \end{itemize}
+        
+        \column{0.5\textwidth}
+        \textbf{Data:}
+        \begin{itemize}
+            \item 2000+ embeddings
+            \item Multiple vector types
+            \item Session persistence
+            \item 60+ dev hours
+        \end{itemize}
+    \end{columns}
+}
+
+% ==================== SECTION 7: CHALLENGES ====================
+\section{Challenges \& Solutions}
+
+\frame{
+    \frametitle{Challenge 1: Hallucinations}
+    
+    \begin{alertblock}{Problem}
+        AI models can invent false information
+    \end{alertblock}
+    
+    \begin{block}{Our Solution}
+        \begin{enumerate}
+            \item Constrain to retrieved context
+            \item Low temperature (deterministic)
+            \item Require citations
+            \item Filter low-relevance results
+        \end{enumerate}
+    \end{block}
+}
+
+\frame{
+    \frametitle{Challenge 2: Semantic Matching}
+    
+    \begin{alertblock}{Problem}
+        ``Cybercrime'' vs ``hacking'' need to match
+    \end{alertblock}
+    
+    \begin{block}{Our Solution}
+        \begin{enumerate}
+            \item Pre-trained embeddings
+            \item 384-dimensional vectors
+            \item Cosine similarity metric
+            \item Top-6 diverse results
+        \end{enumerate}
+    \end{block}
+}
+
+\frame{
+    \frametitle{Challenge 3: Document Structure}
+    
+    \begin{alertblock}{Problem}
+        Legal sections are semantically important
+    \end{alertblock}
+    
+    \begin{block}{Our Solution}
+        \begin{enumerate}
+            \item Detect section patterns
+            \item Preserve hierarchy
+            \item Store metadata
+            \item Adaptive chunk sizing
+        \end{enumerate}
+    \end{block}
+}
+
+\frame{
+    \frametitle{Challenge 4: Scalability}
+    
+    \begin{alertblock}{Problem}
+        System needs to grow with users
+    \end{alertblock}
+    
+    \begin{block}{Future Architecture}
+        \begin{enumerate}
+            \item Load balancer (multiple servers)
+            \item MongoDB sharding
+            \item Multiple RAG instances
+            \item Distributed vector database
+            \item Redis caching
+        \end{enumerate}
+    \end{block}
+    
+    Can scale: 10 users $\rightarrow$ 1000+ concurrent
+}
+
+% ==================== SECTION 8: PROJECT STATUS ====================
+\section{Project Status}
+
+\frame{
+    \frametitle{Completed Features}
+    
+    \begin{block}{What's Done}
+        Production-ready components
+    \end{block}
+    
+    \textbf{Backend:}
+    \begin{itemize}
+        \item REST API with all endpoints
+        \item User authentication system
+        \item Session management
+        \item Query processing
+    \end{itemize}
+    
+    \textbf{Frontend:}
+    \begin{itemize}
+        \item Login and signup pages
+        \item Dashboard with filters
+        \item Chat interface
+        \item Citation display
+    \end{itemize}
+    
+    \textbf{RAG:}
+    \begin{itemize}
+        \item Document ingestion
+        \item Vector embeddings
+        \item Semantic search
+        \item LLM integration
+    \end{itemize}
+}
+
+\frame{
+    \frametitle{Future Roadmap}
+    
+    \begin{block}{What's Next}
+    \end{block}
+    
+    \textbf{Next 1-2 weeks:}
+    \begin{itemize}
+        \item Advanced filtering options
+        \item Query analytics dashboard
+        \item PDF export
+    \end{itemize}
+    
+    \vspace{0.3cm}
+    
+    \textbf{1-3 months:}
+    \begin{itemize}
+        \item Document upload feature
+        \item Multi-language support
+        \item Comparison tools
+    \end{itemize}
+    
+    \vspace{0.3cm}
+    
+    \textbf{3-6 months:}
+    \begin{itemize}
+        \item OCR for scanned documents
+        \item Collaboration features
+        \item Mobile application
+    \end{itemize}
+}
+
+% ==================== CONCLUSION ====================
+\section*{Conclusion}
+
+\frame{
+    \frametitle{Key Achievements}
+    
+    \begin{block}{What We Delivered}
+    \end{block}
+    
+    \begin{itemize}
+        \item Intelligent document search system
+        \item Trustworthy AI with citations
+        \item Secure multi-user platform
+        \item Professional architecture
+        \item Production-ready code
+    \end{itemize}
+    
+    \vspace{0.8cm}
+    
+    \textbf{Impact:} Makes legal information accessible to everyone
+}
+
+\frame{
+    \frametitle{Key Learnings}
+    
+    \begin{enumerate}
+        \item RAG enables trustworthy AI systems
+        \item Domain knowledge improves results
+        \item Citations build user confidence
+        \item Architecture determines scalability
+        \item Security is foundational
+        \item User experience matters most
+    \end{enumerate}
+}
+
+\frame[plain]{
+    \begin{center}
+        \vspace{3cm}
+        
+        {\Large \textbf{Thank You!}}
+        
+        \vspace{1.5cm}
+        
+        {\textbf{Legal Query System}}
+        
+        {\small AI-Powered Legal Document Intelligence}
+        
+        \vspace{2cm}
+        
+        {\small Questions?}
+    \end{center}
+}
+
+\end{document}
