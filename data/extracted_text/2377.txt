@@ -1,0 +1,3495 @@
+
+----- PAGE 1 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+The Petroleum and Natural Gas Regulatory Board (Authorizing
+Entities to Lay, Build, Operate or Expand City or Local Natural Gas
+Distribution Networks) Regulations, 2008
+Source: https://indiankanoon.org/doc/86245462/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local
+Natural Gas Distribution Networks) Regulations, 2008
+UNION OF INDIA
+India
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local
+Natural Gas Distribution Networks) Regulations, 2008
+Rule
+THE-PETROLEUM-AND-NATURAL-GAS-REGULATORY-BOARD-AUTHORIZING-ENTITIES-TO-LAY-BUILD-OPERAT
+E-OR-EXPAND-CITY-OR-LOCAL-NATURAL-GAS-DISTRIBUTION-NETWORKS-REGULATIONS-2008 of 2008
+Published on 19 March 2008
+Commenced on 19 March 2008
+[This is the version of this document from 19 March 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local
+Natural Gas Distribution Networks) Regulations, 2008
+Published Vide Notification No. G.S.R. 196(E), dated 19th March, 2008
+Page 1/65
+----- PAGE 2 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Last Updated 28th November, 2018
+Petroleum and Natural Gas Regulatory Board
+G.S.R. 196(E). - In exercise of the powers conferred by Section 61 of the Petroleum and Natural Gas Regulatory Board
+Act, 2006 (19 of 2006), the Petroleum and Natural Gas Regulatory Board hereby makes the following regulations,
+namely:-
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build,
+Operate or Expand City or Local Natural Gas Distribution Networks) Regulations, 2008.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations unless the context otherwise requires -
+(a)
+"Act" means the Petroleum and Natural Gas Regulatory Board Act, 2006;
+(b)
+"appointed day" means the date of October 1, 2007 when the Central Government notified the establishment of the
+Petroleum and Natural Gas Regulatory Board;
+(c)
+"authorized area" means the specified geographical are for a city or local natural gas distribution network (hereinafter
+referred to as CGD network) authorized under these regulations for laying, building operating or expanding the CGD
+network which may comprise of the following categories, either individually or in any combination thereof, depending
+upon the criteria of economic viability and contiguity as stated in Schedule A, namely:-
+(i)
+geographic area, in its entirety or in part thereof, within a municipal corporation or municipality, any other urban area
+notified by the Central or the State Government, village, block, tehsil, sub-division or district or any combination thereof:
+and
+(ii)
+any other area contiguous to the geographical area mentioned in sub-clause (i):
+(d)
+"Board" means the Petroleum and Natural Gas Regulatory Board established under sub-section (1) of section 3 of the
+Act:
+(e)
+"City Gate Station" (hereinafter referred as CGS) means the point where custody transfer of natural gas from natural gas
+pipeline to the CGD network takes place:
+(f)
+[ "contract year" means a period of twelve months commencing on and from the first date of the calendar quarter
+immediately following the date of authorisation and subsequent periods of twelve months each thereafter;]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(g)
+"development of a CGD network" means laying, building, operating or expanding a city or local natural gas distribution
+network:
+(ga)
+[ "Force Majeure" shall mean and be limited to
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(i)
+war / hostilities;
+(ii)
+Page 2/65
+----- PAGE 3 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+major riots or civil commotion;
+(iii)
+earthquake, flood, tempest, lightening or other natural physical disasters;
+(iv)
+restrictions imposed by Central Government or State Governments, that have arisen after last date of submission of bid,
+which prevents or delays the execution of obligations under these Regulations
+(gb)
+[ ***]]
+(h)
+[ ***]
+[Omitted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(i)
+"piped natural gas" (hereinafter referred as PNG) means natural gas transported through pipelines [or cascades or any
+other permitted mode]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+in a CGD network for consumption by any customer in domestic, commercial or industrial segments and includes natural
+gas supplied to an online CNG station before its compression.
+(ia)
+[ "pre-determined penalty" means penalty leviable or levied at the pre-determined rates as specified in regulation 16 for
+under- achievement of work programme in each contract year;
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(ib)
+"successful entity" means the entity which submits bid and is granted the authorisation for the development of CGD
+network for a particular geographical area and the remaining entities submitting the bid for such development and not
+granted authorisation are referred to as unsuccessful entities;
+(ic)
+"transportation rate for CGD" means the unit rate of tariff (excluding statutory taxes and levies) in rupees per million
+British Thermal Units (Rs. /MMBTU) for all the categories of customers of natural gas in a CGD network to be paid by an
+entity to the entity authorised to operate the CGD network;
+(id)
+"transportation rate for CNG" means a charge (excluding statutory taxes and levies) in rupees per kilogram (Rs. /kg) for
+online compression of natural gas into compressed natural gas (herein after also referred to as CNG) for subsequent
+dispensing to customers in a [CNG station] to be paid by an entity to the entity authorised to operate the CGD network;
+(ie)
+[ "work programme", until issuance of authorisation letter, means number of domestic PNG connections, number of CNG
+stations and Inch-kilometer of steel pipeline network as quoted by the bidder in the bid and after such issuance means
+number of domestic PNG connections, number of CNG stations and Inch-kilometre of steel pipeline network as
+mentioned in the authorisation letter as per Schedule-D;]
+[Substituted by Notification No.  F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f. 19.3.2008).]
+]
+[[(j) ***]
+[Inserted by Notification No. G.S.R. 295(E), dated 30.4.2009 (w.e.f. 19.3.2008).]
+]
+(2)
+Words and expressions used and not defined in these regulations, but defined in the Act or in the rules or regulations
+made thereunder, shall have the meanings respectively assigned to them in the Act
+3.
+Application.
+(1)
+These regulations shall apply to an entity which is laying, building, operating or expanding, or which proposes to lay,
+build, operate or expand a CGD network.
+Page 3/65
+----- PAGE 4 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+(2)
+A CGD network shall be designed to operate at a pressure as specified in the relevant regulations for technical
+standards and specifications, including safety standards for maintaining the volumes of supply of natural gas on a
+sustained basis to meet the following requirements, namely:-
+(a)
+customers having requirement of natural gas upto 50,000 SCMD shall be supplied through the CGD network;
+[Provided that until CGD Network is ready to supply natural gas to a customer (other than domestic PNG and CNG),
+such customers shall have right to get the supply of natural gas from any other alternate source or supplier, with prior
+permission of the Board, and if, once CGD Network is ready to supply natural gas to such customer, then, such
+customer shall cease to get supply of natural gas from such alternate source or supplier after 30 days of receipt of notice
+of readiness from the CGD network.]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(b)
+customers having requirement of natural gas more than 50,000 SCMD and upto 100,000 SCMD shall be supplied[, at
+the discretion of customer]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+-
+(i)
+through the CGD network: or
+(ii)
+through a pipeline not forming part of the CGD network;
+(c)
+customers having requirement of natural gas more than 100,000 SCMD shall be supplied through a pipeline not forming
+part of the CGD network.
+4.
+Initiation of proposal through expression of interest route or suo-motu by Board.
+(1)
+An entity desirous of laying, building, operating or expanding a CGD network shall submit an expression of interest to
+the Board in the form of an application at Schedule B alongwith an application fee as specified under the Petroleum and
+Natural Gas Regulatory Board (Levy of Fee and other Charges) Regulations, 2007. Charges) Regulations, 2007.
+(2)
+The Board may suo-motu invite bids from entities interested in laying, building, operating or expanding a CGD network
+for any specified geographical area.
+5.
+Criteria for selection of entity for expression of interest route.
+(1)
+The Board may carry out a preliminary assessment of the expression of interest with respect to the following, namely:
+(a)
+natural gas availability position;
+(b)
+possible connectivity with an existing or proposed natural gas pipeline for supply of natural gas to the city gate of the
+proposed CGD network, including LNG supplies by tank wagons and CNG by cascades; and
+(c)
+any other relevant issue as the Board may consider necessary.
+(2)
+The Board may, within fifteen days of the receipt of expression of interest and based on its preliminary assessment
+either issue an open advertisement in at least one national and one vernacular daily newspaper (including webhosting)
+publishing receipt of an expression of interest and commencement of public consultation process period of thirty days or
+reject the expression of interest:
+Provided that in case the Board rejects the expression of interest, it shall inform the entity of the decision alongwith the
+reasons for rejecting the expression of interest.
+Page 4/65
+----- PAGE 5 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+(3)
+During the period of public consultation process, any person or entity may submit in writing to the Board its views, if any,
+on the expression of Interest.
+(4)
+The Board may, based on the views received and taking into consideration the criteria specified in Schedule A, decide
+or fix the authorized area for the proposed CGD network, including the decision whether it should be different from that
+indicated in the expression of interest.
+(5)
+The Board may, within a period of fifteen days after the end of the public consultation process period, publish through an
+open advertisement in at least one national and one vernacular daily newspaper (including webhosting), the proposal for
+the development of CGD network and invite bids for the same.
+(6)
+The Board shall scrutinize the bids received in response to the advertisement in respect of only those entities which fulfill
+the following minimum eligibility criteria, namely:
+(a)
+entity has paid the application fee alongwith the application-cum-bid as specified under the Petroleum and Natural Gas
+Regulation) Board (levy of Fee and Other Charges) Regulations, 2007:
+Provided that the entity submitting the bid, which has already paid the application fee at the time of submission of the
+expression of interest shall not pay the application fee at this stage unless there is a requirement to pay additional
+application fee on account of change in the authorized area;
+(b)
+entity is technically capable of laying and building CGD network as per the following qualifying criteria, namely:-
+(i)
+entity has on its own in the past laid and built either a [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+of a length not less than three hundred kilometers on a cumulative basis or a CGD network; [or]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(ii)
+entity has a joint venture with another entity (with at least eleven percent equity holding by that entity) which in the past
+has laid and built either a [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+of a length not less than three hundred kilometers on a cumulative basis or a CGD network; [or]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(iii)
+entity intends to lay and build proposed city or local gas distribution network on lump sum turnkey or project
+management consultancy basis through one or more technically competent firms which in the past have laid and built
+either a [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+of a length not less than three hundred kilometers on a cumulative basis or a CGD network and the entity shall also
+enclose a list of such firms alongwith aforesaid proof of their technical competence:
+Provided that the entity shall have the freedom to choose from amongst such firms at the time of execution of the project
+and the Board reserves the right to cross verify the credential of the firms included in the list and seek any clarifications;
+or
+(iv)
+entity has an adequate number of technically qualified personnel with experience in construction, pre-commissioning
+and Commissioning of [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+and also has a credible plan to Independently undertake and execute the CGD project on a standalone basis.
+Explanation. - The entity shall have at least three technically qualified personnel on its permanent rolls having
+experience of not less than [three years]
+[Substituted 'one year' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008).]
+Page 5/65
+----- PAGE 6 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+in the following areas namely:-
+(i)
+right of way or clearance securing;
+(ii)
+design and execution of a [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+project;
+(iii)
+pre-commissioning including hydro-tasting and restoration; and
+(iv)
+safety of [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+and installations;
+(c)
+entity is technically capable of operating and maintaining a EGD network as per the following qualifying criteria, namely:-
+(i)
+entity on its own has an experience experience of at least one year in operations and maintenance of a network; [or]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(ii)
+entity has a joint venture with another entity (with eleven percent holding of that entity) which has an experience of at
+least one year in operations and maintenance of a CGD network; [or]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(iii)
+entity intends to operate and maintain the proposed CGD network through an appropriate technical assistance,
+agreement for a period of at least one year with another party having experience of at least one year in operations and
+maintenance of a CGD network; or
+(iv)
+entity has an adequate number of technically qualified personnel with experience in commissioning, and operation and
+maintenance (O&M) of [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+and also has a credible plan to independently undertake the (O&M) activities for a CGD project on a standalone basis.
+Explanation. - 1. In relation to sub-clause (iii),-
+(a)
+the entity shall submit in its application-cum-bid an exhaustive list of proposed firms with whom it desires to have a
+technical assistance agreement alongwith the proof of relevant and credible experience of such firms and the entity may
+choose a firm or more from amongst the firms in this list for operation and maintenance of the proposed CGD network
+and the Board reserves the right to cross verify the credential of the firm or firms included in this list and seek any
+clarifications;
+(b)
+the entity shall also submit a credible plan along with the bid to develop an in-house O&M team for city or local gas
+distribution network.
+2. In relation to sub-clause (iv), the entity shall have at least three technically qualified personnel on its permanent rolls
+having experience of not less than one year in the following areas, namely:-
+(a)
+commissioning of a [hydrocarbon steel pipeline]
+[Substituted 'hydrocarbon pipeline' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+;
+(b)
+operation and maintenance of natural gas pipelines and natural gas installations including gas compressors;
+(c)
+commercial issues including gas pricing, gas measurement, accounting, billing and collection; and
+Page 6/65
+----- PAGE 7 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+(d)
+safety of natural gas infrastructure;
+(d)
+the entity has agreed to abide by the relevant regulations for technical standards and specifications, including safety
+standards;
+(e)
+the entity has adequate financial strength to execute the proposed project, operate and maintain the same in the
+authorized area and shall meet the following financial criterion to qualify for bidding for a single CGD network, namely:-
+[Population in the geographical area as per
+2011 Census of India
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+Minimum net worth of the bidder entity
+(1)
+(2)
+5 million or more
+Rs. 1,500 million for a population of 5 million, plus
+additional Rs. 300 million for each 1 million of population or
+part thereof, in excess of 5 million (refer Note ? 3)
+2 million or more but less than 5 million
+Rs.1,000 million
+1 million or more but less than 2 million
+Rs. 750 million
+0.5 million or more but less than 1 million
+Rs.500 million
+0.25 million or more but less than 0.50 million
+Rs.250 million
+0.1 million or more but less than 0.25 million
+Rs.100 million
+Less than 0.1 million
+Rs.50 million
+Note ? 1The above minimum net-worth is applicable
+in case the bidder entity bids for a single geographical area in
+a particular bidding round.
+Note ? 2In case a bidder entity bids for more than
+one geographical area, then, the minimum net-worth requirement
+shall be calculated by considering 100% of minimum net-worth
+required for the bidded geographical area having the highest
+population, plus 20% of minimum net-worth required for each of
+the other geographical areas. For example, if a bidder has bidded
+for four geographical areas namely A, B, C and D and out of these
+four geographical areas, C has the highest population, then
+minimum net-worth requirement shall be calculated as minimum
+net-worth requirement of C plus 20% of minimum net-worth
+requirements for A, B and D each.
+Note ? 3For example, if the population is 8.4
+million, then the minimum net-worth required shall be Rs. 2,700
+million (i.e. Rs. 1,500 million for initial 5 million of
+population, plus Rs. 1,200 million for 3.4 million of population
+in excess of 5 million).]
+[(*) [(i) Net-worth of a bidder entity shall be computed as per Schedule-K.]
+[Substituted by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+Page 7/65
+----- PAGE 8 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+[***]
+[Omitted '(ii) the promoters undertaking in the form of latter of comfort stating that promoter's contribution in the project
+shall be infused in a phased manner as per the project financing schedule must accompany the application in the format
+given in the application-cum-bid document.' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018
+(w.e.f. 19.3.2008).]
+]
+[***]
+[Omitted '($) For example, if the population is 12 million, then, the combined net worth shall be equal to a minimum of
+Rs.3.600 million (i.e., Rs.1,500 million X 12/5);' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018
+(w.e.f. 19.3.2008).]
+(f)
+[ the entity, on being declared as a successful bidder and not being a company registered under the Companies Act,
+1956 or Companies Act, 2013, shall get itself registered as a company under the Companies Act, 2013 within six
+months from the date of such declaration:]
+[Substituted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2/SC, dated 26.4.2016 (w.e.f. 19.3.2008).]
+(g)
+the entity should have a credible plan for sourcing natural gas for supply in the proposed CGD network;
+(h)
+entity shall furnish a bid bond [in the form of Bank Guarantee]
+[Inserted by Notification No. G.S.R. 295(E), dated 30.4.2009 (w.e.f. 19.3.2008).]
+[or demand draft or pay order from any scheduled bank drawn in favour of the Petroleum and Natural Gas Regulatory
+Board payable at New Delhi]
+[Inserted by Notification No. F.No.PNGRB/CGD/REGULATIONS/REVIEW-2011/2012-III, dated 21.6.2013 (w.e.f.
+19.3.2008).]
+for an amount equal to-
+(i)
+rupees fifty million for a population of five million and proportionately higher amount for population of more than five
+million.
+Illustration. - The bid bond in case of population of the city or local area of twelve million shall be rupees one hundred
+twenty 120 million (that is rupees fifty million X 12/5);
+(ii)
+rupees thirty million for a population of one million and more but less than five million;
+(iii)
+rupees twenty million for a population of half a million and more but less than one million;
+(iv)
+rupees fifteen million for a population of quarter of a million and more but less than half a million;
+(v)
+rupees ten million for a population of one-tenth of a million and more but less than quarter of a million;
+(vi)
+rupees five million for a population less than one-tenth of a million;
+(i)
+[ entity submitting the bid should not have been imposed any penalty under section 28 or punished under Chapter IX of
+the Act during the period of preceding one year from the last date for submission of the bid;]
+[Substituted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2, dated 11.12.2015 (w.e.f. 19.3.2008).]
+(j)
+in case the entity submitting the bid does not fulfill the requirements of any criteria under clauses (a) to (i), the bid
+submitted by it shall be summarily rejected and a communication in this regard shall be sent to it and the financial bid
+shall not be opened for that entity;
+(k)
+the bid bond shall be -
+(i)
+Page 8/65
+----- PAGE 9 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+encashed if an entity submitting the bid walks out;
+(ii)
+released in respect of the unsuccessful entity submitting the bid;
+(iii)
+retained till the prescribed performance bond is furnished at the time of authorization by the successful bidder.
+(7)
+The application-cum-bid shall be submitted in two parts in the form as specified in Schedule C in separate properly
+earmarked and sealed envelopes, namely:-
+(a)
+Part I (Technical bid) covering general particulars of the entity and technical details of the project including minimum
+eligibility criteria under sub-regulation (6) [and Feasibility Report (FR) and the feasibility report submitted by the entity
+shall follow the guidelines provided for the same in the Application-cum-Bid document and shall result in a minimum IRR
+on capital employed from the regulated tariffs (network tariff and compression charges) as specified in the Application
+cum Bid document. The entity shall ensure that the quotes in the financial bid are within permissible variation as
+specified in the Application-cum-bid document, of the values considered in the FR;]
+[Inserted by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008).]
+(b)
+Part II (Financial bid) covering the financial details under regulation 7.
+(8)
+A [date and time]
+[Substituted 'date' by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008).]
+period of [ninety]
+[Substituted 'sixty' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+days shall be allowed for submission of the application-cum-bid for grant of authorization for laying, building, operating
+and expanding the CGD network and any application-cum-bid received after the notified date shall not be considered.
+[***]
+[Omitted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(9)
+[ ***]
+[Omitted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+6.
+Invitation by Board for laying, building, operating or expanding of CGD network.
+- The Board may suo-motu form a view regarding the development of a CGD network in a specific city or a geographic
+area and in such a case, the procedure as specified in regulation 5 (except aspects relating to the expression of interest
+[***]
+[Omitted 'shall be replaced by project details as prepared by the Board)' by Notification No.
+F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+shall apply.
+7. Bidding criteria.
+- [1(a) The Board, while considering the proposal for authorisation, shall tabulate and compare all financial bids meeting
+the minimum eligibility criteria, as per the bidding criteria specified below, namely: -
+Sl. No.
+Bidding Criteria
+Weightage (%)
+Explanation
+1
+Lowness of transportation rate for CGD ?
+in rupees per million British Thermal Unit (Rs./MMBTU)
+10
+Bidder is required to quote transportation rate
+for CGD only for the first contract year which shall not be less
+Page 9/65
+----- PAGE 10 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+than Rs. 30 /MMBTU. Rates for the subsequent contract years shall
+be derived considering the quoted rate and escalation as per
+Note.
+2
+Lowness of transportation rate for CNG -in
+rupees per kilo gram (Rs. /kg)
+10
+Bidder is required to quote transportation rate
+for CNG only for the first contract year which shall not be less
+than Rs. 2 /kg. Rates for the subsequent contract years shall be
+derived considering the quoted rate and escalation as per Note.
+3
+Highness of number of[CNG station]
+[Substituted 'natural gas Stations' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f.
+19.3.2008).]
+(online and daughter booster stations) to be installed within 8
+contract years from the date of authorisation
+20
+-
+4
+Highness of number of domestic piped natural gas
+connections to be achieved within 8 contract years from the date
+of authorisation
+50
+-
+5
+Highness of inch-kilometer of steel pipeline
+(including sub-transmission steel pipelines) to be laid within 8
+contract years from the date of authorisation
+10
+-
+Note- Annual escalation shall be
+considered from the second contract year and onwards based on the
+?Wholesale Price Index (WPI) Data (2011-12 = 100)?
+for ?All Group / Commodity?, as normally available on
+the website of the Office of the Economic Adviser, Government of
+India, Ministry of Commerce and Industry, Department of
+Industrial Policy and Promotion (DIPP) on the link
+?http://eaindustry.nic.in/home.asp.?
+[Provided that in the case of the geographical areas of (i) Bilaspur, Hamirpur and Una Districts; (ii) Panchkula (except
+area already authorised), Shimla, Solan and Sirmaur Districts, (iii) Barmer, Jaisalmer and Jodhpur Districts, (iv)
+Darjeeling, Jalpaiguri & Uttar Dinajpur Districts and (v) Nainital and Bijnor Districts, it is not mandatory to supply natural
+gas through steel-pipes. However natural gas has to reach in all charge areas. The bidding parameters and their
+respective weightage will, accordingly, be as under –]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+Sl. No.
+Bidding Criteria
+Weightage (%)
+Explanation
+1
+Lowness of transportation rate for CGD ?
+Page 10/65
+----- PAGE 11 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+in rupees per million British Thermal Unit (Rs./MMBTU)
+10
+Bidder is required to quote transportation rate
+for CGD only for the first contract year which shall not be less
+than Rs. 30 /MMBTU. Rates for the subsequent contract years shall
+be derived considering the quoted rate and escalation as per
+Note.
+2
+Lowness of transportation rate for CNG -in
+rupees per kilo gram (Rs. /kg)
+10
+Bidder is required to quote transportation rate
+for CNG only for the first contract year which shall not be less
+than Rs. 2 /kg. Rates for the subsequent contract years shall be
+derived considering the quoted rate and escalation as per Note.
+3
+Highness of number of[CNG station]
+[Substituted 'natural gas Stations' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f.
+19.3.2008).]
+(online and daughter booster stations) to be installed within 8
+contract years from the date of authorisation
+25
+-
+4
+Highness of number of domestic piped natural gas
+connections to be achieved within 8 contract years from the date
+of authorisation
+55
+-
+Note -Annual escalation shall be
+considered from the second contract year and onwards based on the
+?Wholesale Price Index (WPI) Data (2011-12 = 100)?
+for ?All Group / Commodity?, as normally available on
+the website of the Office of the Economic Adviser, Government of
+India, Ministry of Commerce and Industry, Department of
+Industrial Policy and Promotion (DIPP) on the link
+?http://eaindustry.nic.in/home.asp.?
+1.
+(b)
+Successful bidder shall be required to achieve the year-wise work programme within 8 contract years as per details
+given below, namely: -
+PNG Connections (cumulative)
+[CNG Station (cumulative)]
+[Substituted 'natural gas Stations (cumulative)' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated
+27.4.2018 (w.e.f. 19.3.2008).]
+Inch-km of steel pipeline (cumulative)
+By the end of contract year
+% of work programme
+By the end of contract year
+% of work programme
+By the end of contract year
+Page 11/65
+----- PAGE 12 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+% of work programme
+1st
+Nil
+1st
+Nil
+1st
+5
+2nd
+10
+2nd
+15
+2nd
+20
+3rd
+20
+3rd
+30
+3rd
+40
+4th
+30
+4th
+45
+4th
+60
+5th
+40
+5th
+60
+5th
+70
+6th
+60
+6th
+75
+6th
+80
+7th
+80
+7th
+90
+7th
+90
+8th
+100
+8th
+100
+8th
+100
+Note - In case derived numbers are in fraction,
+the same shall be rounded off to the nearest whole number and
+Page 12/65
+----- PAGE 13 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+fraction 0.5 shall be rounded off to next higher whole number.
+[Provided that in the case of the geographical areas of (i) Bilaspur, Hamirpur and Una Districts; (ii) Panchkula (except
+area already authorised), Shimla, Solan and Sirmaur Districts, (iii) Barmer, Jaisalmer and Jodhpur Districts, (iv)
+Darjeeling, Jalpaiguri and Uttar Dinajpur Districts and (v) Nainital and Bijnor Districts, the successful bidder shall be
+required to achieve the year-wise work programme within 10 contract years as per details given below, namely: –]
+[Substituted by Notification F. No. PNGRB/Auth./CGD/Amd/2018/4, dated 21.11.2018 (w.e.f. 19.3.2008).]
+PNG Connections (cumulative)
+[CNG Station (cumulative)]
+[Substituted 'natural gas Stations (cumulative)' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated
+27.4.2018 (w.e.f. 19.3.2008).]
+By the end of contract year
+% of work programme
+By the end of contract year
+% of work programme
+1st
+Nil
+1st
+Nil
+2nd
+10
+2nd
+10
+3rd
+20
+3rd
+20
+4th
+30
+4th
+30
+5th
+40
+5th
+40
+6th
+50
+6th
+50
+7th
+60
+7th
+60
+8th
+70
+8th
+70
+9th
+80
+9th
+80
+10th
+Page 13/65
+----- PAGE 14 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+100
+10th
+100
+Note -In case derived numbers are in
+fraction, the same shall be rounded off to the nearest whole
+number and fraction 0.5 shall be rounded off to next higher whole
+number.]
+(c)
+[ Minimum Work Programme for infrastructure for PNG domestic connections and inch-kilometer of pipeline to be laid by
+the successful bidder
+[Substituted by Notification No. F.No. PNGRB/CGD/BID/4/2013-PRE BID, dated 7.4.2014 (w.e.f. 19.3.2008).]
+Infrastructure for PNG domestic connections – The Board shall work out the target for infrastructure for PNG domestic
+connections as five per cent. of the households of the respective geographical area to be achieved by the successful
+bidder during the first five years from the date of grant of authorisation in Schedule D as under, namely:-
+(i)
+the successful bidder shall achieve fifteen per cent., fifty per cent., seventy per cent. and one hundred per cent. of this
+target by the end of second year, third year, fourth year and fifth year respectively; and
+(ii)
+the Board may consider carry forward of the target from one year to another within the period of five years.
+Inch-kilometer of pipeline – The Board shall work out the target for inch-kilometer of pipeline, for which both steel
+pipeline and MDPE pipeline shall be considered, as per the following, namely:-
+(i)
+for geographical areas having an area of less than or equal to 1,000 square kilometers, product of 0.65 and the area in
+square kilometers of the respective geographical area;
+(ii)
+for geographical areas having an area of more than 1,000 square kilometers and less than or equal to 5,000 square
+kilometres, product of 0.36 and the area in square kilometres of the respective geographical area subject to a minimum
+of 650 inch-kilometer of pipeline;
+(iii)
+for geographical areas having an area of more than 5,000 square kilometres, product of 0.07 and the area in square
+kilometres of the respective geographical area subject to a minimum of 1,800 inch-kilometer of pipeline.
+The target for inch-kilometer of pipeline worked out as per the above shall be achieved by the successful bidder during
+the first five years from the date of grant of authorisation in Schedule D as under, namely:-
+(i)
+the successful bidder shall achieve twenty per cent., fifty per cent., eighty per cent., ninety per cent. and one hundred
+per cent. of this target by the end of first year, second year, third year, fourth year and fifth year respectively covering all
+the charge areas; and
+(ii)
+the Board may consider carry forward of the target from one year to another within the period of five years.]
+(d)
+highness of the present value of the number of domestic customers proposed to be connected by PNG by the entity
+during the period of exclusivity in terms of an exemption from the purview of common carrier or contract carrier as
+specified in the Petroleum and Natural Gas Regulatory Board (Exclusivity for City or Local Natural Gas Distribution
+Networks) Regulations, 2008. The entity is required to bid for the number of domestic customers to be connected by
+PNG for each of the year of the exclusivity period. This shall have a weight-age of thirty percent.
+(2)
+[ ***]
+[Omitted by Notification No.F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(3)
+[ Bidder entity with the highest composite score, considering the criteria under sub-regulation (1) and as illustrated in
+Schedule C (1), shall be declared as successful bidder.
+Page 14/65
+----- PAGE 15 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Provided that in case of tie in the evaluated composite score, the successful bidder shall be decided based on the
+highness of numbers of PNG connections among the tied bidding entities. In case there is tie on number of PNG
+connections also, highness of inch-kilometer steel pipeline shall be considered and thereafter in case of tie in
+inch-kilometer as well, highness of numbers of [CNG Stations]
+[Substituted by Notification No.F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+shall be considered.]
+(4)
+[ ***]
+[Omitted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+8. [ Fixation and recovery of Transportation rate for CGD and CNG,
+[Substituted by Notification No.F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(1)
+The transportation rate for CGD shall be fixed as per the transportation rate for CGD bid under sub-regulation (1) of
+regulation 7 for first contract year and shall be recovered from an entity by the entity authorised to operate the CGD
+network for using the network as common carrier or contract carrier. The transportation rate for natural gas from second
+contract year and onwards shall be determined in accordance with methodology as per Note - 1 to the table in
+sub-regulation (1) of regulation 7.
+(2)
+The transportation rate for CNG shall be fixed as per the transportation rate for CNG bid under sub-regulation (1) of
+regulation 7 for first contract year and shall be recovered from an entity by the entity authorised to operate the CGD
+network for using the network as common carrier or contract carrier. The transportation rate for CNG from second
+contract year and onwards shall be determined in accordance with methodology as per Note - 1 to the table in
+sub-regulation (1) of regulation 7.
+(3)
+On declaration of a CGD network as common carrier or contract carrier, the authorised entity shall provide access on
+demand to any other entity and recover the transportation rates for CGD and CNG separately from an entity accessing
+the CGD network through an invoice without any premium or discount on a nondiscriminatory basis.
+(4)
+Any cost subsequent to the online compression of natural gas into CNG, such as, towards storage and transportation of
+CNG in a cascade mounted system to a [CNG Stations] is an activity associated with the dispensation of natural gas
+and is not covered under these regulations.]
+9. Performance bond.
+- [(1) Grant of authorisation shall be issued to the successful entity after it furnishes the performance bond in the form of
+demand draft or pay order or bank guarantee from any scheduled bank for the amount as per details given below,
+namely:-
+Serial Number
+Population in the Geographical Area, as per
+2011 Census of India
+Amount of Performance Bond (Rupees)
+1
+5 million or more
+500 Million
+2
+2 million or more but less than 5 million
+330 Million
+3
+1 million or more but less than 2 million
+250 Million
+4
+0.5 million or more but less than 1 million
+150 million
+Page 15/65
+----- PAGE 16 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+5
+0.25 million or more but less than 0.50 million
+80 Million
+6
+0.1 million or more but less than 0.25 million
+30 Million
+7
+Less than 0.1 million
+15 Million
+In case the performance bond is submitted through bank guarantee, the performance bond guarantee (PBG) shall be
+valid initially for a period of three years and thereafter shall be renewed, at least three months before expiry of the same,
+for next three years and so on until the period of authorisation. It is the responsibility of the entity to timely renew the
+PBG and in case the PBG is not so renewed at least one month before expiry of the PBG, the PBG shall be encashed
+by the Board and the authorisation may be terminated. PBG amount shall be reduced to the value of 40% of the initial
+PBG furnished by the successful bidder after 100% achievement of the work programme or on expiry of exclusivity from
+purview of common carrier or contract carrier, whichever is later.]
+[Substituted by Notification No.F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(2)
+[ ***]
+[Omitted by Notification No.F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(3)
+The performance bond has been prescribed for guaranteeing the timely commissioning of the proposed CGD network
+as per the prescribed targets and also for meeting the service obligations by the selected entity during the operating
+phase of the project.
+10.
+Grant of authorization.
+- [(1) The successful entity shall be issued a letter of intent (LOI) upon finalisation of the bid. The entity shall be required
+to furnish performance bond within 30 days of issue of LOI and complete such other formalities as may be required by
+the Board. Upon furnishing the performance bond and completion of such other formalities, the authorisation shall be
+granted to the successful entity, in the format given in Schedule D, within 30 days;
+Provided that the Board may extend the date for submission of performance bond for a period not exceeding 15 days,
+failing which LOI shall be deemed to have been withdrawn or cancelled.
+Provided further that in case of non-submission of performance bond within the stipulated time, the bid bond shall be
+forfeited or encashed and such bidder entity shall be considered at default and shall be barred for a minimum period of
+three years from bidding. Further, the process of issuance of LOI and grant of authorisation to the bidder entity with
+second highest composite score shall be carried out in the same manner as specified in sub-regulation (3) of regulation
+7.]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(2)
+The grant of authorization is subject to the entity achieving a firm natural gas tie-up and a financial closure as per
+regulation 11.
+(3)
+[ The grant of authorisation to the entity shall not be assigned by way of sale, transfer or any other manner or
+surrendered to or in favour of any person or entity during the period of five years from the date of its issue or till the
+achievement of work programme, whichever is earlier;
+Provided that there shall be no bar on the entity on transferring less than fifty per cent equity shares during such period
+of five years from the date of authorisation or until the achievement of work programme, whichever is earlier, subject to
+the condition that the lead partner of the original consortium or joint venture shall hold not less than the percentage
+stake lower than any other partners. The lead partner shall be declared upfront in the bid.
+No restructuring of the entity is allowed after submission of the bid and before issuance of Grant of Authorization.
+Provided also that the Board may accept transfer of authorisation by the entity to its wholly owned subsidiary company,
+Page 16/65
+----- PAGE 17 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+subject to the condition that the entity provides to the Board a corporate guarantee, in a form specified at Appendix-III.]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(4)
+The entity intending to renunciate the authorization in favour of another entity after the end of the [five years or till
+achievement of cumulative work programme to be achieved by the end of five contract years, whichever is later]
+[Substituted 'five years or till achievement of Minimum Work Programme, whichever is earlier' by Notification
+No.F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+shall submit a proposal to the Board at least thirty days in advance and shall provide all information as may be called for
+by the Board.
+(5)
+The Board after satisfying itself that the proposal will not adversely affect the existing or proposed activities of laying,
+building, operating or expansion of the CGD network shall either accept the proposal in full or with such modifications as
+it may deem fit and in a case where the entity is permitted by the Board to take over the activities of laying, building,
+operating or expanding the CGD network such entity shall abide by the existing or modified terms and conditions of the
+authorization including compliance with the service obligations and adherence to the quality of service standards:
+Provided that the Board reserves the right to reject the proposal in public interest and in such a case the Board shall
+provide in writing the reasons for such rejection,
+11.
+Natural gas tie-up and financial closure.
+- [(1) The entity authorised under regulation 10 shall enter into and submit to the Board, a natural Gas Sale Agreement
+(GSA) or Heads of Gas Sale Agreement (HOA) or Memorandum of Understanding for sale of natural gas (MOU) with
+producer or marketer of natural gas for the proposed CGD network project, in a transparent manner and on an arm's
+length basis for a minimum period of five years, within one hundred and eighty days from the date of the authorisation.
+Provided that no such GSA or HOA or MOU would be required under this sub-regulation in case the central government
+allocates the natural gas to the entity for the proposed CGD network project within 180 days from the date of
+authorisation.
+(2)
+The minimum volume of natural gas for which GSA or HOA or MOU referred to in sub-regulation (1) shall be entered,
+shall be equal to the volume computed by assuming the consumption of 5 SCM per month for each PNG connection and
+75,000 SCM per month for each CNG station considering the cumulative work programme for first five contract years.]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(3)
+[ The authorized entity shall obtain the financial closure of the project from a bank or financial institution alongwith firm
+natural gas supply agreement within a period of [two hundred and seventy]
+[Substituted by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008).]
+days from the date of grant of authorization.]
+(4)
+In case of an internally financed project, the entity shall submit the approval of its Board of Directors' for the detailed
+feasibility report (hereinafter referred as DFR) of the project alongwith its financial plan within [two hundred and seventy]
+[Substituted 'one hundred and eighty' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f.
+19.3.2008).]
+of the authorization:
+Provided that the Board may ask the entity to submit any further details or clarifications on the financial closure.
+[Provided further that financial closure shall mean a legally binding commitment of, equity holders and debt financiers to
+provide or mobilize funding for the first phase of the CGD prOject which should not be less than ninety percent of the
+project cost to be incurred for the first five years of the CGD network.]
+[Inserted by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008)]
+(5)
+In case the entity fails to meet the requirements at sub-regulations (1) to (4), the authorization of the entity for laying,
+building, operating or expanding CGD network shall be cancelled and the performance bond shall be encashed and the
+Board reserves the right to re-award the authorization in a transparent manner and the entity shall have no right
+Page 17/65
+----- PAGE 18 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+whatsoever against the Board for seeking any compensation or remedy on this account.
+[Provided that before taking any action under this sub-regulation the Board shall issue a notice to the defaulting entity
+allowing it a reasonable time to fulfill its obligations under sub-regulation (1) to (4) and in case the entity takes remedial
+actions to the satisfaction of the Board within such period, no action shall be taken against the entity under this
+sub-regulation.
+(6)
+Notwithstanding anything contained in any other regulations made under the Act, -
+(a)
+the pipeline entity shall provide connectivity or access of the pipeline to CGD authorised entity at reasonable cost within
+180 days, where connectivity or access can be provided from Sectionalising Valve station, and within 270 days from any
+other point on the pipeline, from date of submission of request for the same.
+(b)
+after completion of exclusivity period from the purview of "Common Carrier or Contract carrier" for the geographical area,
+the CGD authorised entity shall provide connectivity or access of their infrastructure to another desirous entity within 270
+days of submission of request for the same at reasonable cost.
+Explanation. - For the purpose of this sub-regulation, reasonable cost shall mean actual expenditure incurred and
+additional eighteen per cent of such expenditure to cover overheads, interest and profits.]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+12.
+Exclusivity period.
+- [(1) The exclusivity period to lay, build, operate or expand a city or local natural gas distribution shall be as per the
+provisions in the Petroleum and Natural Gas Regulatory Board (Exclusivity for City or Local Natural Gas Distribution
+Networks) Regulations, 2008.
+(2)
+Notwithstanding anything contained in any other regulation made under the Act, the exclusivity from purview of common
+carrier or contract carrier shall be eight years;
+Provided that in case an entity timely achieves the work programme in each of the eight contract years, such exclusivity
+shall be extended by a period of two years.
+Provided further that in case an entity is not able to timely achieve the work programme in any of the eight contract
+years but is successful in timely achieving the cumulative work programme at the end of the eighth contract year, such
+exclusivity shall be extended by a period of one year.
+Provided also that in case flow of natural gas in the designated transmission pipeline is delayed for a period beyond
+three months from the scheduled date as indicated and is also later than the date CGD network is ready to take gas for
+reasons not attributable to the authorized CGD entity selected through the bidding process, the Board may extend the
+exclusivity period for exemption from the purview of common carrier or contract carrier by a period corresponding to the
+difference in the actual and scheduled natural gas flow in the transmission pipeline serving the authorized geographical
+area or the date when CGD network is ready to take gas, whichever is less, after assessing the reasons for such a delay
+and in case, the year-wise targets in respect of domestic piped natural gas connection, [CNG station]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+and inch-kilometer of steel pipeline as well as schedule of levying transportation rate for CGD and transportation rate for
+CNG shall also be shifted accordingly by the Board. Further, the exclusivity period for laying, building or expanding the
+CGD network as stipulated shall also be extended by the same period. For the purpose of monitoring progress of
+committed targets, the same shall be prorated in the effected years.
+Explanation. - For the purpose of this sub-regulation, it is clarified that, the exclusivity for laying, building or expansion of
+CGD networks, in all cases, shall remain twenty-five years from the date of authorisation.]
+13.
+Post-authorization monitoring of activities (pre-commissioning).
+(1)
+An authorized entity shall provide, on a quarterly basis, a progress report detailing the clearances obtained, targets
+achieved, expenditure incurred, works-in-progress and other relevant information in the form at Schedule E.
+(2)
+Page 18/65
+----- PAGE 19 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+The Board shall seek compliance by the entity to the relevant regulations for technical standards and specifications,
+including safety standards through conduct of technical and safety audits during the commissioning phase as well as on
+an on-going basis thereafter for ensuring safe commissioning and operation of the CGD network.
+(3)
+The Board shall monitor the progress of the entity in achieving various targets with respect to the CGD network project,
+and in case of any deviations or shortfall, advise remedial action to the entity.
+14.
+Service obligations of authorized entity (post commissioning).
+(1)
+"The entity may take an interest-free refundable security deposit from domestic PNG Customer towards security of the
+following equipments and facilities including the labour cost of installation towards last mile connectivity, that is, between
+the riser isolation valve before the metering unit and the suraksha hose pipe connecting the burner in the customer's
+premises for an amount not exceeding rupees five thousand for a single connection, namely:-
+(a)
+riser isolation valve before the metering unit;
+(b)
+ten meters of pipe up to the metering unit;
+(c)
+metering unit;
+(d)
+five meters of pipe or tube from the metering unit up to the excess flow check valve-cum-isolation valve;
+(e)
+excess flow check valve-cum-isolation valve; and
+(f)
+suraksha hose pipe of standard size connecting the domestic PNG burner:
+Provided that the network tariff bid by the entity shall include the charges towards the last mile connectivity
+Explanation. - 1. The domestic PNG customer shall bear the actual cost of the material and labour charges for pipe and
+the tubing in excess of the length specified above.
+2. The domestic PNG customer shall pay the actual cost of installation including labour charges from the common
+metering unit onwards for connecting another domestic PNG burner or any other gas-based appliance in the same
+premises.
+(2)
+The entity may take an interest-free refundable security deposit from nondomestic PNG customers for an amount not
+exceeding the actual cost of the metering unit and other related equipment and labour charges towards installation:
+Provided that these are installed by the entity in the customer's premises.
+(3)
+The entity shall not exert any undue influence on any domestic PNG customer to purchase natural gas burner stove or
+avail of any other service not connected with the supply of natural gas.
+(4)
+The entity shall convert the existing LPG burner stove of a prospective domestic PNG customer into natural gas burner
+stove free of charge.
+(5)
+The authorized entity shall maintain separate books of accounts including detailed activity-based costing records to
+segregate direct, indirect and common costs alongwith the basis of allocation and the revenues earned in respect of the
+activities of-
+(a)
+purchase of natural gas including its odourization;
+(b)
+transportation of natural gas in the CGD network;
+(c)
+online compression of natural gas into CNG:
+Page 19/65
+----- PAGE 20 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+(d)
+transportation of CNG in a cascade mounted system, if any;
+(e)
+marketing or distribution including commission allowed to any agency for marketing or distribution of natural gas and
+CNG in the CGD network; and
+(f)
+dispensing of CNG including booster; compression, if any.
+(6)
+The costs and revenues associated with activities other than those stated in clauses (a) to (f) of sub regulation (5)
+should be reflected separately in the books of accounts of the entity.
+(7)
+The authorized entity shall ensure that-
+(a)
+[ ***]
+[Omitted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2, dated 11.12.2015 (w.e.f. 19.3.2008).]
+(a)
+[]
+[Renumbered 'b' by Notification No. F.No.PNGRB/CGD/Amendment/2015/2, dated 11.12.2015 (w.e.f. 19.3.2008).]
+the confidentiality of customer Information collected in the course of providing regulated service is maintained, and
+(b)
+[]
+[Renumbered 'c' by Notification No. F.No.PNGRB/CGD/Amendment/2015/2, dated 11.12.2015 (w.e.f. 19.3.2008).]
+there is no preferential access allowed to itself or to any other entity for the activity of transportation of natural gas in the
+CGD network.
+(8)
+The authorized entity shall be responsible for getting the technical and safety audits carried out by independent technical
+experts or accredited agencies out of the panel approved at regular intervals during the commissioning phase as well as
+on an on-going basis thereafter to ensure compliance with the relevant regulations for technical standards and
+specifications, including safety standards and the audit report alongwith the findings shall be submitted to the Board and
+the Board may review the same and advise remedial action, if any, to the entity.
+(9)
+The entity will have to meet the service obligations as stated under the Petroleum and Natural Gas Regulatory Board
+(Exclusivity for City or Local Natural Gas Distribution Networks) Regulations, 2008.
+(11)
+[ In the event of authorised entity being rendered unable to perform any obligation required to be performed by it as per
+the work program, due to force majeure, the relative obligation of the entity affected by such force majeure shall be
+suspended for the period during which such force majeure lasts and the decision of the Board in this regard shall be final
+and binding on the entity.
+(12)
+Upon the occurrence of such force majeure and upon its termination, the entity alleging that it has been rendered unable
+as specified in sub-regulation (11), the entity must inform the Board giving full particulars of the force majeure and duly
+certified by statutory authorities, the beginning and end of the delay due to such force majeure immediately but not later
+than 15 days from the end of such force majeure.
+(13)
+Time for performance of the relative obligation suspended by such force majeure shall stand extended by the period
+during which such force majeure lasts.]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+15.
+[
+[Omitted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+***]
+Page 20/65
+----- PAGE 21 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+16.
+[ Consequence of default pre-determined penalties and termination of authorisation procedure.
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(1)
+An authorised entity shall abide by all the terms and conditions specified in these regulations and any failure in doing so
+shall be dealt in accordance with the provisions of this regulation.
+(2)
+Pre-determined penalty shall be levied and recovered from the entity within three months from the end of each contract
+year in respect of any shortfall in achieving cumulative work programme targets for that contract year computed at the
+rates specified below without any notice, namely: -
+(a)
+for shortfall in achieving cumulative work programme target for each PNG connection - Rs. 750 (Rupees Seven hundred
+and fifty only);
+(b)
+for shortfall in achieving cumulative work programme target for each inch-kilometer of steel pipeline - Rs.150,000
+(Rupees one lakh and fifty thousand only); and
+(c)
+for shortfall in achieving cumulative work programme target for each [CNG station] - Rs. 20,00,000 (Rupees twenty lakh
+only);
+and for the purpose of illustration, if the cumulative target in respect of PNG connections is 28,000 at the end of third
+contract year and cumulative achievement at the end of that year is 24,000, then, a predetermined penalty of
+Rs.30,00,000 [i.e. (Rs.750 X (28,000 - 24,000)] shall be levied within 3 months from the end of third contract year.
+Similar penalty shall be levied for inch-kilometer of steel pipeline and [CNG station]
+[Substituted 'natural gas station' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f.
+19.3.2008).]
+, in respect of each contract year.
+Provided that penalty shall be applicable for default in each contract years and first deduction shall be started from
+second contract year onwards.
+Provided further that due cognisance of force majeure duly accepted by the Board shall be taken in computing the
+pre-determined penalty.
+(3)
+In case of a failure, other than those specified in sub-regulation (2), the following procedure shall be followed, namely:
+(a)
+the Board shall issue a notice to the defaulting entity allowing it a reasonable period to fulfill its obligations;
+(b)
+no punitive action shall be taken in case remedial action is taken by the entity to the satisfaction of the Board within such
+period, otherwise, following penalty shall be levied on the entity by the Board, namely: -
+(i)
+up to an amount equal to 10% of the performance bond amount for the first default; and
+(ii)
+up to an amount equal to 25% of the performance bond amount for each of the subsequent defaults.
+(4)
+Any penalty levied under sub-regulation (2) or sub-regulation (3) shall initially be recovered by encashment of the
+performance bond. The entity shall be required to make good the performance bond to its full value within thirty days of
+encashment. If the entity fails to make good the performance bond within such period, the Board shall encash the
+remaining amount of the performance bond and may also terminate the authorisation.
+(5)
+In case the cumulative achievement of any entity for a CGD network at the end of three contract years in a geographical
+area falls short of 30% of the weighted average of the cumulative work programme (computed as illustrated in this
+sub-regulation) in respect of PNG connections, inch-kilometer of steel pipeline and number of [CNG station]
+[Substituted 'natural gas station' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f.
+Page 21/65
+----- PAGE 22 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+19.3.2008).]
+, or if in the opinion of the Board the entity has made a serious default in complying with the provisions of the Act or rules
+or regulations made thereunder or terms and conditions of the authorisation under these regulations, the Board may
+give a show cause notice to the entity asking it why its such authorisation should not be terminated due to the said
+default, and after giving it a reasonable opportunity of being heard, terminate the authorisation and encash 100% of the
+performance bond.
+Illustration. - If an entity achieved 10,000 PNG connections, 100 inch-kilometer of steel pipeline and set up 2 CNG
+station against the target of 30,000 PNG connections, 500 inch-kilometer of steel pipeline and 4 CNG station at the end
+of third year, then its weighted average of the cumulative work programme will be calculated as tabulated below,
+namely: -
+Parameter
+Weightage in % (A)
+Target at the end of 3rd year (B)
+Actual at the end of 3rd year (C)
+Weighted achievement in % D= (C/B)*A/100
+PNG connections
+50
+30000
+10000
+16.67
+Inch-kilometer
+10
+500
+100
+2.00
+CNG stations
+20
+4
+2
+10.00
+Total
+80
+Total achievement with reference to target
+28.67 (X)
+Total Weight achievement in %
+100
+35.83 (X*100/80)
+(6)
+Without prejudice to sub-regulation (1) to (5), the Board may also levy civil penalty under section 28 of the Act in addition
+to taking action as provided for offences and punishment under Chapter IX of the Act.]
+17.
+Entity authorized by the Central Government for laying, building, operating or expanding CGD network before the
+appointed day.
+(1)
+The entity shall submit relevant information along with supporting documents in the form as in Schedule H within a
+period of one hundred and eighty days from the appointed day.
+(2)
+The entity shall abide by the terms and conditions of the authorization by the Central Government including obligations,
+if any, imposed by the Central Government.
+(3)
+The entity shall abide by the relevant regulations for technical standards and specifications, including safety standards
+Page 22/65
+----- PAGE 23 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+and the quality of service standards [***]
+[Omitted 'as specified under regulation 15' by Notification No.F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018
+(w.e.f. 19.3.2008).]
+.
+(4)
+The Board may consider grant of exclusivity on such terms and conditions as per the provisions in the Petroleum and
+Natural Gas Regulatory Board (Exclusivity for City or Local Natural Gas Distribution Networks) Regulations, 2008.
+(5)
+[ The transportation tariff shall be as determined by the Board as per regulation under section 22 of the Petroleum and
+Natural Gas Regulatory Board Act, 2006.]
+[Substituted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2/SC, dated 26.4.2016 (w.e.f. 19.3.2008).]
+(6)
+The activities of the entity may be subject to such other regulations as may be applicable as per the provisions of the
+Act.
+18.
+Entity not authorized by the Central Government for laying, building, operating or expanding CGD network before the
+appointed day.
+(1)
+An entity laying, building, operating or expanding a CGD network at any time before the appointed day but not duly
+authorized to do so by the Central Government shall apply immediately for obtaining an authorization in the form as at
+Schedule I.
+(2)
+The Board may take into consideration the following criteria while considering the application for grant of authorization,
+namely:-
+(a)
+the entity meets the minimum eligibility criteria as [***]
+[Deleted 'at' by Notification No. G.S.R. 800(E), dated 19.11.2008 (w.e.f. 19.3.2008).]
+specified in clauses (a) to (e) and (i) of sub-regulation (6) of regulation 5 before the appointed date and is possessing all
+necessary statutory clearances, permissions, no objection certificates from the Central and State Governments and
+other statutory authorities;
+(b)
+an entity which is not registered under the Companies Act, 1956 at the time of submitting the application for grant of
+authorization shall undertake to become a company registered under the Companies Act, 1956:
+Provided that the Board may exempt an entity to register under the Companies Act, 1956 on such conditions as it may
+deem appropriate;
+(c)
+a satisfactory assessment of the actual physical progress made and the financial commitment thereof till immediately
+before the appointed day in comparison with the entity's DFR appraised by the financial institution funding the project. In
+case the project has not been funded by any financial institution, the Board may appraise the DFR. The DFR of the
+entity should clearly indicate the specified geographical area of the project and also specify the coverage proposed for
+CNG and PNG. In case upon scrutiny of the DFR by the Board by taking into account the geographical area, segments,
+infrastructure requirements, etc. proposed by the entity, the DFR is found to be sub-optimal and unacceptable, the
+Board may not consider the case of the entity for issuing the authorization;
+(d)
+in respect of the actual physical progress made and the financial commitment thereof referred to in clause (c), a physical
+progress of at least twenty five percent and a financial commitment of at least twenty five percent of the capital
+expenditure identified for the CGD project as per the DFR immediately before the appointed day may be considered as
+adequate;
+(e)
+the entity should have arranged, by way of acquisition or lease, land for CGS and procured the necessary equipment for
+erecting the CGS before the appointed day;
+Page 23/65
+----- PAGE 24 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+(f)
+the Board reserves the right to get the actual physical progress and the financial commitment certified and depending
+upon the progress achieved, the Board may consider authorizing the entity for the authorized area-
+(i)
+as per the geographical area in its DFR;
+(ii)
+as per the geographical area actually covered under implementation till the appointed day; or
+(iii)
+the geographical area as specified by the Board;
+(g)
+in relation to laying, building, operating or expanding the CGD network, it is for the entity to satisfy the Board on the
+adequacy of its ability to meet the applicable technical standards, specifications and safety standards as specified in the
+relevant regulations for technical standards and specifications, including safety standards and the quality of service
+standards as specified in regulation 15;
+(h)
+assessment of the financial position of the entity in timely and adequately meeting the financial commitments in
+developing the CGD network project as appraised by a financial institution and an examination of the audited books of
+accounts of the entity;
+(i)
+firm arrangement for supply of natural gas to meet the demand in the authorized area to be covered by the CGD
+network;
+(j)
+any other criteria considered as relevant by the Board based on the examination of the application.
+(3)
+The evaluation of the application in terms of the clauses (a) to (j) shall be done in totality considering the composite
+nature and the inter-linkages of the criteria.
+(4)
+The Board, after examining the application in terms of the criteria under sub-regulation (2) and also taking into account
+the requirements in other regulations may form a prima-facie view as to whether the case should be considered for
+authorization.
+(5)
+In case of prima-facie consideration, the Board shall issue a public notice in one national and one vernacular daily
+newspaper (including webhosting) giving brief details of the project and seek comments and objections, if any, within
+thirty days from any person on the proposal.
+(6)
+The Board, after examining the comments and objections, if any under sub-regulation (5), may either consider or reject
+the case for grant of authorization for the CGD network.
+(7)
+In case it is decided to grant authorization, the same shall be in the form at Schedule
+(8)
+In case of rejection of the application the Board shall pass a speaking order after giving a reasonable opportunity to the
+concerned party to explain its case and proceed to select an appropriate entity for the project in terms of regulation 6.
+(9)
+In case the entity is selected for grant of authorization for CGD network,-
+(a)
+[ The transportation tariff shall be as determined by the Board as per regulation under section 22 of the Petroleum and
+Natural Gas Regulatory Board Act, 2006.]
+[Substituted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2/SC, dated 26.4.2016 (w.e.f. 19.3.2008).]
+(b)
+the Board may consider grant of exclusivity on such terms and conditions as specified in the Petroleum and Natural Gas
+Regulatory Board (Exclusivity for City or Local Natural Gas Distribution Networks) Regulations, 2008;
+Page 24/65
+----- PAGE 25 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+(c)
+the entity shall abide by the technical standards, specifications including safety standards as specified under relevant
+regulations for technical standards and specifications, including safety standards;
+(d)
+the provisions under regulations 9, 13, 14, [***]
+[Omitted '15' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+and 16 shall apply to the entity.
+19.
+[ Power to remove difficulties.
+[Inserted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2, dated 11.12.2015 (w.e.f. 19.3.2008).]
+- If any difficulty arises in giving effect to any of the provisions of these regulations, the Board may, by general or special
+order, do anything not being inconsistent with the provisions of the Act, which appears to it to be necessary or expedient
+for the purpose or removing difficulties.]
+[[20.]
+[Substituted by Notification No. F.No.L-MISC/VI/I/2007, dated 1.1.2015 (w.e.f. 19.3.2008).]
+Miscellaneous .
+- If any question arises as to the interpretation of these regulations, the same shall be decided by the board.]
+A
+[see regulations 2 (1) (c) and 5 (4)]
+Basis for defining authorized area for laying, building, operating or expanding CGD network
+The specified geographical area in respect of an authorized area for a CGD network as per regulation 2 (1) (c) of the
+Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local
+Natural Gas Distribution Networks) Regulations, 2008 may be determined considering the following criteria of [natural
+gas availability, pipeline connectivity and Geographical Contiguity]
+[Substituted 'economic viability and geographical contiguity' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018,
+dated 6.4.2018 (w.e.f. 19.3.2008).]
+, namely:-
+[1. Natural Gas availability and pipeline connectivity.
+Geographical area shall either have availability of natural gas or a natural gas pipeline passing within such area or
+passing in its vicinity or a natural gas pipeline is proposed to be laid either within or in vicinity of such area.]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+(a)
+viable projected volume built-up representing all types of customer segments, such as, industrial, commercial, transport,
+domestic, etc;
+(b)
+ease of operation and maintenance of the CGD network in the proposed area and serviceability to all category of
+customers; and
+(c)
+economic viability of the project of laying, building, operating or expanding a CGD network in the area proposed.
+2. Geographical contiguity.
+For the purpose of any area to be considered as contiguous to the geographical area as per regulation 2 (1) (c) of the
+Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local
+Natural Gas Distribution Networks) Regulations, 2008, such an area shall not have an economic viability to have an
+independent CGD network on its own.
+Note: The Board reserves the right to, intervene during the expression of interest stage Itself, If in its opinion the
+specified geographical area is too large to sustain customer service; or allow safe and convenient operations; or has a
+potential to restrict competition. In the alternative, the Board may also intervene in case the geographical area
+considered is too small; or covers only a certain class of customers; or tantamount to cherry-picking, In all such cases,
+the Board may prescribe a geographical area of a size different than that indicated in the expression of interest.
+B
+[see regulations 4 (1) and 5 (6)]
+Page 25/65
+----- PAGE 26 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Application form for submitting expression of interest by an entity desirous of laying, building, operating or expanding a
+CGD network
+A. Only an entity which complies with the minimum eligibility criteria as per regulation 5 (6) of the Petroleum and Natural
+Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution
+Networks) Regulations, 2008 is eligible to submit its application for submission of expression of interest to the Board.
+B. Entities must enclose documentary proof in support of its meeting the minimum eligibility criteria.
+C. The entity submitting the expression of interest must submit the following information:
+1
+General Details
+A
+Name of the Entity
+B
+Type of firm - Public Limited Company/Private
+Limited Company/Partnership firm/Proprietorship firm/Others
+(please specify)
+C
+Date of incorporation and date of commencement of business
+D
+Address of Registered office.
+2
+Basic Data
+A
+1) Population and number of
+households under the proposed CGD network.
+2) Geographical
+area in square kilometers and segregated in different categories
+in terms of the provisions under regulation 2 (c) of the
+Petroleum and Natural Gas Regulatory Board (Authorizing Entities
+to Lay, Build, Operate or Expand City or Local Natural Gas
+Distribution Networks) Regulations, 2008. The area should also be
+depicted in a physical map.
+3) Economic activity
+in the proposed geographical area in terms of industrial and
+commercial activity (number of units and fuel mix).
+4) Vehicular population profile.
+B
+Preliminary Assessment of the potential demand
+for natural gas in the proposed CGD network amongst various
+customer segments.
+C
+Likely source of supply of natural gas and plans for access
+to the natural gas pipeline.
+D
+Whether the States or the Union Territories, in
+whose jurisdiction the proposed CGD network is located has
+enacted any legislation or taken any administrative action to
+promote the use of natural gas in the said city? If the reply to
+the question is yes, then, provide copy of the said enactment or
+administrative order.
+3
+Application fee of Rs. ....................................._paid vide demand draft/pay order
+Page 26/65
+----- PAGE 27 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+number<....................> and dated <....................> drawn on <name of bank
+and branch>.
+Date:
+Place:
+Name and signature of entity or authorized Signatory
+Official Seal
+[Schedule C]
+[Substituted by Notification No. G.S.R. 605(E), dated 19.7.2010 (w.e.f. 19.3.2008).]
+[see regulation 5 (7)]
+Application-cum-bid for grant of authorization for CGD network
+To,
+The Secretary,
+Petroleum and Natural Gas Regulatory Board,
+1st.
+Floor, World Trade Centre
+Babar Lane, Connaught Place,
+New Delhi - 110 001.
+Sub: Application-cum-bid for grant of authorization for laying, building, operating or expanding city or local natural gas
+distribution network in the proposed geographical area
+of............................................................................................................................................................................................
+...............................................................................................................................................................................................
+............................ in the State or Union Territory
+of............................................................................................................................................................................................
+..........................................................................................._ under the Petroleum and Natural Gas Regulatory Board
+(Authorizing Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks) Regulations,
+2008
+(Attach separate sheets for providing information wherever necessary)
+Part-I - General details of the entity and
+technical details of the project (to be submitted in a properly
+earmarked, sealed and separate envelop)
+1
+Details of the entity.
+A
+Name of the entity
+B
+Type of firm - Public Limited Company/Private
+Limited Company/Partnership firm/Proprietorship firm/others
+(please specify and attach copy of Articles of Association or
+Partnership deed, etc., as applicable).
+C
+Date of incorporation and date of commencement of business.
+D
+Address of registered office.
+E
+Name, addresses, telephone, numbers, e-mail ID
+of all directors/partners/proprietor (please provide full details
+with STD Code and Pin Code).
+2
+Business activities of the entity
+A
+Give names of all existing city gas distribution network of the entity, if any, and its installed capacity, capital cost incurred
+Page 27/65
+----- PAGE 28 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+till date, status of .start of operations, year wise gas volumes transported in the network in the past 3 years. alongwith
+details of customers enrolled, distribution network map showing details of - existing' facilities and future plan and natural
+gas connectivity details.
+B
+Details of tie-up or collaboration with any entity for natural
+gas supply and marketing
+C
+Details of other business, if any, being carried
+out by the promoters for the last five years.
+3
+Ownership and affiliate details
+A
+Details of Promoters
+B
+Details of all affiliates of the entity
+mentioning of the
+business relationship between the entity and the affiliates
+("affiliate means as defined in the relevant regulations for
+affiliate code of conduct).
+C
+The entity undertakes to produce all relevant records
+or documents of itself and its related entities on demand by the
+Board.
+Yes/No
+D
+[Is the entity a company registered under Companies Act, 1956 or Companies Act, 2013?]
+[Substituted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2/SC, dated 26.4.2016 (w.e.f. 19.3.2008).]
+Yes/No
+E
+[Is the entity promoted by a company registered under Companies
+Act, 1956 or Companies Act, 2013? ]
+[Substituted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2/SC, dated 26.4.2016 (w.e.f. 19.3.2008).]
+Yes/No
+F
+[The entity undertakes to become a company, in
+case it is not a company at the time of submission of this
+application-cum-bid, under the Companies Act, 2013 on being
+selected for grant of authorization.]
+[Substituted by Notification No. F.No.PNGRB/CGD/Amendment/2015/2/SC, dated 26.4.2016 (w.e.f. 19.3.2008).]
+Yes/No
+G
+[Promoters undertaking in the form of letter of
+comfort stating that promotes contribution in the project shall be infused in a phased manner as per the project financing
+schedule as per the format given in the application cum bid document.]
+[Substituted by Notification No. F.No. PNGRB/CGD/Amendment/2015/2, dated 11.12.2015 (w.e.f. 19.3.2008).]
+Yes/No
+4
+Technical details of the proposed CGD network project
+A
+Name of the proposed CGD network project.
+B
+Page 28/65
+----- PAGE 29 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Details of the city, town or area earmarked in developmental zones in respect of the proposed CGD network project
+along with a sketch showing facilities proposed.
+C
+Technical specifications of the project attaching the copy of the feasibility report and covering full details of pipeline
+design, pressure, length of network, pipeline diameter, pipeline thickness, route, corrosion protection arrangements, city
+gate station, natural gas source, tap-off points, main block valves, isolation valves, emergency shutdown valves,
+odourization facilities, metering arrangements, CNG stations, HSE measures, etc.
+D
+Development plan envisaged for the proposed CGD network project-design and installed capacity of the CGD network
+along with details of phased-out capital expenditure plans including the projected dates of commencement of operations
+phase-wise and the details of the activities or targets associated with the completion of the project to enclosed.
+Yes
+E
+Estimates of volume of natural gas including supplies to CNG
+stations before compression proposed to be transported and sold.Also, give details of projected anchor volumes, if any
+F
+Sources of supply of natural gas a capacity
+tie-up with the natural gas pipeline including connectivity and
+the details of tie-up phase wise, if any.
+G
+Whether the State or the Union Territory, in
+whose jurisdiction the proposed CGD network is located, has
+enacted any legislation or has taken administrative action to
+promote the use of natural gas in the said geographical area? If
+the reply to the question is yes, then provide copy of the said
+enactment or the administrative order.
+Yes/ No
+H
+Are all applicable technical standards,
+specifications including safety standards and specifications,
+including safety standards have been considered and complied with
+in designing the CGD network? Provide full details.
+Yes/No
+I
+Attach copy of the Disaster Management Plan.
+J
+Is the project entitled to any subsidy,
+exemption, deferment or waiver of any statutory levy from the
+Central or the State Governments? If yes, give complete details
+indicating the year-wise utilization plan if the entity.
+Yes/No
+K
+Non-refundable Application fee under the regulation 5(6)
+Rs. <..........................................................................>
+Demand draft or pay order
+Demand draft or pay order number and date
+Name of issuing bank and branch
+L
+Bid bond
+Rs.<..........................................................................>
+Demand draft or pay order
+Page 29/65
+----- PAGE 30 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Demand draft or pay order number and date
+Name of issuing bank and branch
+Part II: Financial bid (tp be
+submitted in a separate earmaked sealed envlope) to be opened for
+those entities qualifying the minimum eligibility criteria and
+acceptable Feasibility Report under regulation 5(7)
+[A
+[Substituted by Notification No. F. No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f 19.3.2008)]
+Transportation rate for CGD for laying,
+building, operating or expanding the CGD network for first year.
+Note: The value should not be less than Rs 30 per MMBTU.
+Rs.< ..................................... > per MMBTU
+B
+Transportation rate for CNG for the first year
+Note: The value should not be less than Rs 2 per kilogram
+Rs.< ..................................... > per kilogram
+C
+No. of[CNG station]
+[Substituted 'Natural Gas Stations' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f.
+19.3.2008).]
+to be installed in
+CGD network within first 8 years
+<..................................... >Numbers
+D
+No. of PNG domestic Connections to be achieved
+within first 8 years
+< ..................................... > Numbers
+E
+Inch-kilometer of steel pipeline to be laid
+within first 8 years
+< ..................................... > Inch-kilometer]
+Declaration
+1. Certified that the above information is true to the best of my/our knowledge and belief and the information and data
+given in the annexure, attachments, enclosures and calculation sheets accompanying this application-cum-bid are
+correct, complete and truly stated, and if any statement made herein is found to be incorrect, the application-cum-bid
+shall be rejected, the application fee and the Bid Bond shall be forfeited and I/We shall be liable to be proceeded against
+and for punishment under the provisions of the Act.
+2. I/We certify that the above application-cum-bid is the only application-cum-bid submitted and no other
+application-cum-bid has been or is being submitted separately for this city or local area by me/us.
+3. []
+[Renumbered '4' by Notification No. F.No.PNGRB/CGD/Amendment/2015/2/SC, dated 26.4.2016 (w.e.f. 19.3.2008).]
+We also declare to submit after grant of authorization, all details of the CGD project like DFR (based on which financial
+approvals are taken), all technical specifications of the project covering full details of pipeline design, pressure, length of
+network, pipeline diameter, pipeline thickness, route, corrosion protection arrangements, city gate station, natural gas
+source, tap-of points, main block valves, isolation valves, emergency shutdown valves, odourization facilities, metering
+arrangements, CNG stations, HSE measures etc.
+Date:
+Place:
+Name and Signature of Entity/Authorized Signatory Official Seal
+Instructions for filling the Application-cum-bid:
+1. All entries in the form and annexed documents should be legible with no cuttings.
+Page 30/65
+----- PAGE 31 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+2. Details requiring separate statement may be enclosed giving clear reference of the point against which the same is
+being attached.-
+3. All pages of the application-cum-bid and the attachments and statements need to be serially numbered and initialed
+by the person or Official authorized by the entity through a notarized power of attorney.
+4. Any information filled in the application-cum-bid needs to be substantiated by attaching relevant proof of the same.
+5. The entity is required to submit the application cum bid with all enclosures in the manner as specified in the bidding
+document.
+6. Incomplete application-cum-bid is liable to be summarily rejected.
+7. All quoted figures shall be positive numbers.
+8. The Application cum Bids submitted in response to sub-regulation 5(5), must be accompanied with all enclosures in
+the manner as specified in the Application cum Bid document, which shall specify in detail the terms and conditions of
+such bidding.
+C (1)
+[see regulation 7 (3)]
+Illustration showing the basis of determining the highest composite score for ascertaining the successful bid for grant of
+authorization for CGD network
+Let there be three entities whose bids need to be compared for determining the successful bid over the bidding criteria
+described below-
+(A)
+[ Transportation rate for CGD
+Let,
+N1 = Transportation rate for CGD bid by 1st entity
+N2 = Transportation rate for CGD bid by 2nd entity
+N3 = Transportation rate for CGD bid by 3rd entity
+Assume that N1 is lower than N2 and N2 is lower than N3.
+The lowest value of transportation rate for CGD (LN1) shall be given a score of 100% and the bid value of other
+transportation rates for CGD shall be given a score in relation to LN1 on a prorate basis, as under: -
+LN1
+=
+100 % for N1
+LN2
+=
+100 % x (N1 ? N2)
+LN3
+=
+100 % x (N1 ? N3)
+(B)
+Transportation rate for CNG
+Let,
+C1 = Transportation rate for CGD bid by 1st entity
+C2 = Transportation rate for CGD bid by 2nd entity
+C3 = Transportation rate for CGD bid by 3rd entity
+Assume that C1 is lower than C2 and C2 is lower than C3.
+The lowest value of transportation rate for CNG (LC1) shall be given a score of 100% and the bid value of other
+transportation rates for CNG shall be given a score in relation to LC1 on a prorate basis, as under: -
+LC1
+=
+100 % for LCI
+LC2
+=
+100 % x (C1 ? C2)
+Page 31/65
+----- PAGE 32 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+LC3
+=
+100% x (C1 ? C3)]
+(C)
+[ Number of CNG Stations to be installed in CGD Network:]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f. 19.3.2008).]
+Let,
+IG1 = value of the CNG stations bid by the 1st entity.
+IG2= value of the CNG stations bid by the 2nd entity.
+IG3= value of the CNG stations bid by the 3rd entity.
+Assume that IG1 is lower than IG2 and IG2 is lower than IG3.
+The highest number of the CNG stations bid (HIG3) shall be given a score of 100% and the number of CNG stations of
+the other bids shall be given a score in relation to HIG3 on a prorata basis as under-
+HG1
+=
+100 % x (IG1 ÷ IG3)
+HG2
+=
+100 % x (IG2 ÷ IG3)
+HG3
+=
+100%
+[(D) Inch-Kilometer of steel pipeline.]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 6.4.2018 (w.e.f. 19.3.2008).]
+Let,
+IK1 = inch-kilometer of steel pipelines to be laid as bid by the 1st entity over the period of exclusivity in terms of the
+exemption from the purview of the contract carrier or common carrier.
+IK2 = inch-kilometer of steel pipelines to be laid as bid by the 2st entity.
+IK3 = inch-kilometer of steel pipelines to be laid as bid by the 3st entity.
+Assume that IK1 is lower than IK2 is lower than IK3.
+The highest value of the inch-kilometer bids (HIK3) shall be given a score of 100% and the value of the other
+inch-kilometer bids shall be given a score in relation to HIK3 on a pro-rata basis as under-
+HIK1
+=
+100 % x (IK1 ÷ IK3)
+HIK2
+=
+100 % x (IK2 ÷ IK3)
+HIK3
+=
+100 %
+(E)
+[ Number of PNG domestic connections
+Let,
+P1 = Number of PNG domestic connections by the 1st entity
+P2 = Number of PNG domestic connections by the 2nd entity
+P3 = Number of PNG domestic connections by the 3rd entity
+Assume P1 is higher than P2 and P2 is higher than P3.]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f. 19.3.2008).]
+[The highest number of PNG domestic connections bid (HP1) shall be given a score of 100% and the number of the
+other PNG domestic connections bids shall be given a score in relation to HP1 on a pro-rata basis as under-
+Page 32/65
+----- PAGE 33 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+HP1
+=
+100 %
+HP2
+=
+100 % x (P2 ÷ P1)
+HP3
+=
+100 % x (P3 ÷ P1)
+Now, the composite score of three entities shall be computed by assigning the respective weights assigned to each of
+the bidding criterion as indicated below-
+Entity 1
+=
+0.10 x LN1 + 0.10 x LC1 + 0.20 x HIG1 + 0.50 x HP1+0.10 x HIK1
+Entity 2
+=
+0.10 x LN2 + 0.10 x LC2 + 0.20 x HIG2 + 0.50 x HP2+0.10 x HIK2
+Entity 3
+=
+0.10 x LN3 + 0.10 x LC3 + 0.20 x HIG3 + 0.50 x HP3+0.10 x HIK3
+The entity with the highest composite score shall be declared as successful bidder.
+[Provided that in the case of the geographical areas of (i) Bilaspur, Hamirpur and Una Districts; (ii) Panchkula (Except
+area already authorised), Shimla, Solan and Sirmaur Districts (iii) Barmer, Jaisalmer and Jodhpur Districts (iv)
+Darjeeling, Jalpaiguri and Uttar Dinajpur Districts and (v) Nainital and Bijnor Districts, the composite score of three
+entities shall be computed by assigning the respective weights assigned to each of the bidding criterion as indicated
+below -]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+Entity 1
+=
+0.10 x LN1 + 0.10 x LC1 + 0.25 x HIG1 + 0.55 x HP1
+Entity 2
+=
+0.10 x LN2 + 0.10 x LC2 + 0.25 x HIG2 + 0.55 x HP2
+Entity 3
+=
+0.10 x LN3 + 0.10 x LC3 + 0.25 x HIG3 + 0.55 x HP3
+The entity with the highest composite score shall be declared as successful bidder.]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+[Schedule D]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+[see regulations 10 (1) and 18 (7)]
+Grant of authorization for laying, building, operating or expanding CGD network
+To,
+< Name of the Successful Bidding Entity >
+< Address >
+Subject: Grant of authorisation for laying, building, operating or expanding CGD network in the authorised geographical
+area of < .............................................................................................> in the State or the Union Territory of
+<.............................................................. > under the Petroleum and Natural Gas Regulatory Board (Authorising Entities
+to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks) Regulations, 2008
+Sir / Madam,
+With reference to your application-cum-bid for grant of authorisation for laying, building, operating or expanding the City
+Page 33/65
+----- PAGE 34 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Gas Distribution (CGD) network in < name of the authorised area> in the State or the Union Territory of < name>, it has
+been decided to grant you the authorisation subject to the Petroleum and Natural Gas Regulatory Board (Authorising
+Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks) Regulations, 2008 and the
+following terms and conditions, namely:-
+1. The Authorised Area for laying, building, operating or expanding the proposed CGD Network shall cover an area of <
+____> square kilometer and as depicted in the enclosed drawing or map,
+2. The activities of laying, building, operating or expansion of the CGD Network shall commence immediately after the
+issuance of this authorisation.
+3. [ The activities permitted above shall have to be completed as per the work programme mentioned below, namely: -
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f. 19.3.2008).]
+Serial Number
+Description of work
+Numbers
+1
+Number of CNG Stations (Online and Daughter
+Booster stations) to be installed within 8 contract years from
+the date of authorisation
+2
+Number of domestic Piped Natural Gas connections
+to be achieved within 8 contract years from the date of
+authorisation
+3
+Inch-km of steel pipeline to be laid within 8
+contract years from the date of authorisation
+The entity shall be required to achieve the year-wise work programme within 8 contract years as per details given below:
+PNG Connections (cumulative)
+CNG Stations (cumulative)
+Inch-km of steel pipeline (cumulative)
+By the end of contract year
+% of work program
+By the end of contract year
+% of work program
+By the end of contract year
+% of work program
+1st
+Nil
+1st
+Nil
+1st
+5
+2nd
+10
+2nd
+15
+2nd
+20
+3rd
+20
+3rd
+30
+3rd
+Page 34/65
+----- PAGE 35 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+40
+4th
+30
+4th
+45
+4th
+60
+5th
+40
+5th
+60
+5th
+70
+6th
+60
+6th
+75
+6th
+80
+7th
+80
+7th
+90
+7th
+90
+8th
+100
+8th
+100
+8th
+100
+Note - In case derived numbers are in fraction,
+the same shall be rounded off to the nearest whole number and 0.5
+shall be rounded off to next higher whole number.
+Alternatively,
+[In the case of the geographical areas of (i) Bilaspur, Hamirpur and Una Districts; (ii) Panchkula (Except area already
+authorised), Shimla, Solan and Sirmaur Districts (iii) Barmer, Jaisalmer and Jodhpur Districts (iv) Darjeeling, Jalpaiguri
+and Uttar Dinajpur Districts and (v) Nainital and Bijnor Districts, the entity shall be required to achieve the year-wise
+work programme within 10 contract years as per details given below, namely: -]
+PNG Connections (cumulative)
+CNG Stations (cumulative)
+By the end of contract year
+% of work program
+By the end of contract year
+% of work program
+1st
+Nil
+1st
+Nil
+2nd
+10
+Page 35/65
+----- PAGE 36 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+2nd
+15
+3rd
+20
+3rd
+30
+4th
+30
+4th
+45
+5th
+40
+5th
+60
+6th
+60
+6th
+75
+7th
+80
+7th
+90
+8th
+100
+8th
+100
+Note - In case derived numbers are in fraction, the same shall be rounded off to the nearest whole number and fraction
+0.5 shall be rounded off to next higher whole number.]
+4. Any failure on the part of the entity in complying with the milestones prescribed in the work programme shall lead to
+consequences as specified under regulation 16.
+5. The entity shall design and install an optimal size of the infrastructure in terms of pipelines of various types including
+steel belting of the authorised area, online compressors of adequate capacity for compressing of natural gas into CNG,
+allied equipment and facilities in the CGD network depending upon the potential demand for natural gas. The
+infrastructure in the CGD network should be adequate to maintain uninterrupted flow of natural gas in the pipelines and
+be also able to maintain supplies at adequate pressure to online CNG stations.
+6. The entity shall maintain an uninterrupted supply of natural gas to all categories of customers in the CGD network. In
+the event of any disruption in the supply of natural gas in the CGD Network, first priority shall be accorded to restoration
+of supplies to domestic PNG customers. In case of disruption of supply to domestic PNG customers for more than
+twelve hours, the entity shall compensate the domestic customer on the following manner, namely: -
+(a)
+the normative volume of natural gas consumption for the first domestic PNG connection for cooking requirements based
+on last three months weighted average consumption per day to be applied for each day's disruption and multiplied by
+ten;
+(b)
+normative value of natural gas consumption shall be based on last three months' weighted average billing price of
+natural gas for supplies to the first domestic PNG connection for cooking requirements; and
+(c)
+the value of compensation shall be equal to normative volume of natural gas consumption as per clause (a) above
+multiplied by normative value as per clause (b) and shall be adjusted by allowing a credit to the domestic PNG Customer
+in the next billing cycle or in the next pre-paid smart card in case of smart card metering.
+In case the disruption of supplies is attributed to any fault of the domestic PNG customer, no compensation shall be
+Page 36/65
+----- PAGE 37 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+payable by the entity.
+7. The entity is allowed an exclusivity period under the Petroleum and Natural Gas Regulatory Board (Exclusivity for City
+or Local Natural Gas Distribution Networks) Regulations, 2008, in respect of the following, namely: -
+(a)
+...............................months from the date of issue of this communication for laying, building and expansion of the CGD
+network; and
+(b)
+...............................months from the date of issue of this communication in terms of an exemption from the purview of
+common carrier or contract carrier for the CGD network:
+Provided that the entity meets the obligations in line with the Petroleum and Natural Gas Regulatory Board (Exclusivity
+for City or Local Natural Gas Distribution Networks) Regulations, 2008:
+Provided further that the period of exclusivity allowed under sub-clause (a) or sub-clause (b) may be terminated before
+the expiry of the period mentioned above in line with the provisions under Petroleum and Natural Gas Regulatory Board
+(Exclusivity for City or Local Natural Gas Distribution Networks) Regulations, 2008.
+8. The authorised entity shall be required to take prior approval from the Board for creation of any lien, charge or
+hypothecation of the CGD network to secure finances for the project and furnish details of utilisation of funds. And, in
+case of raising funds from any financial institution or bank, the entity will be required to only inform the Board of the
+sanction of the funds within a period of seven days.
+9. The entity shall submit a detailed and clear financial closure report to the Board within a period of 1two hundred and
+seventy days from the date of authorisation issued by the Board under regulation 10.
+10. The entity shall publish on its website the transportation rate for CGD and transportation rate for CNG in the
+authorised area as per the following table namely: -
+Serial Number
+Description
+Rate
+1
+Transportation rate for CGD - in rupees per
+million British Thermal Unit (Rs./MMBTU) for the first contract
+year
+2
+Transportation rate for CNG - in rupees per
+kilogram (Rs. /kg) for the first contract year
+Note- Annual escalation shall be considered
+from the second contract year and onwards based on the ?Wholesale
+Price Index (WPI) Data (2011-12 = 100)? for ?All
+Group / Commodity?, as normally available on the website of
+the Office of the Economic Adviser, Government of India, Ministry
+of Commerce and Industry, Department of Industrial Policy and
+Promotion (DIPP) on the link ?http://eaindustry.nic.in/home.asp."
+11. The entity shall publish the applicable retail selling price of PNG for all categories of customers and also for the
+purpose of invoicing in Rs. / MMBTU.
+12. The entity shall publish and display the retail selling price of natural gas for the purpose of invoicing to CNG
+customers in Rs. / Kg at all natural gas dispensing stations.
+13. The furnishing of performance bond of Rs................................Million is a guarantee for timely commissioning of the
+project as per the prescribed work programme in the bid and for meeting the service obligations during the operating
+phase of the project.
+14. The entity shall comply with the applicable provisions under the Petroleum and Natural Gas Regulatory Board
+(Authorising Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks) Regulations,
+2008, the Petroleum and Natural Gas Regulatory Board (Exclusivity for City or Local Natural Gas Distribution Networks)
+Regulations, 2008, relevant regulations for technical standards and specifications, including safety standards, any other
+regulations as may be applicable and the provisions of the Act.
+Page 37/65
+----- PAGE 38 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+15. In case the authorisation of the entity is terminated, the Board may assign the rights and obligations of the entity to
+any agency or another entity on such terms and conditions, as it may deem fit. Further, the entity may be required, as
+per the directions of the Board, to continue the operations of the CGD network at the same level till another agency or
+entity appointed by the Board takes over the full control of the CGD network.
+16. The entity shall comply with any other term or condition which may be notified by the Board in public interest from
+time to time.
+You are requested to confirm your acceptance by filling-in the acceptance of the grant of authorisation provided below
+and return the same in original.
+Dated:
+Yours faithfully,Sd/-Name and Designation of OfficerOn behalf of the PNGRBOfficial Seal
+Acceptance of the Grant of Authorisation
+I / We hereby accept the grant of authorisation issued by the PNGRB vide letter ref. < ............................... > dated
+<............................... > and agree to comply with all the terms and conditions subject to which I/ We have been granted
+the authorisation for laying, building, operating or expanding city or local natural gas distribution network in the
+authorised area of............................... in the State or the Union Territory of ..........................................
+Date:Place:Signature of the Entity or Authorised SignatoryName and Official Seal
+[Schedule E]
+[Substituted by Notification No. F.No. PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018. (w.e.f. 19.3.2018).]
+[see regulation 13(1) and regulation 14 (10)]
+A: Quarterly submission of data by authorized entity under the regulations shall be made in the following formats
+appended here below: -
+(i)
+Format E-1A-CGD for Quarterly Progress Report on CGD: Physical Parameters
+(ii)
+Format E-1B-CGD for Yearly Progress Report on CGD: Financial Parameters
+(iii)
+Format E-1C-CGD for Yearly Progress Report on CGD: Work Program
+B: Monthly submission of data by authorized entity under the regulations shall be made in the following formats
+appended here below: -
+(i)
+Format E-2-CGD for Monthly Report on PNG Customers
+(ii)
+Format E-3-CGD for Monthly Report on Progress of CNG
+(iii)
+Format E-4-CGD for Monthly Report on Sale of Natural Gas
+C: The data and information required to be submitted by the entity in the above formats shall be analyzed by the Board
+by comparing the -actual progress made by the entity versus targets as per terms and conditions of authorization
+D: Monitoring of the progress shall be taken up by the Board on a quarterly basis and the notice of deviations and
+shortfalls, if any, shall be sent to the entity for a prompt resolution. In case of any delay in meeting the yearly
+commitments within the notice period or in case of repeated violations, the entity may face the consequences specified
+under regulation 16 or under regulation 10 of the Petroleum and Natural Gas Regulatory Board (Exclusivity for City or
+Local Natural Gas Distribution Network) Regulations, 2008, or both.
+E: A Self certification shall be submitted by the entity in terms of its compliance with the requirements of sub-regulation 7
+of regulation 14.
+Guidelines for filling of the reports:
+(a)
+"Contract Year" shall be indicated as "1st Year"/ "2nd Year"/ "3rd Year" and so forth and so on and "1st Year" means a
+period of 12 months starting from the first date of the calendar quarter immediately following the date of authorization
+and subsequent periods of 12 months each thereafter and "2nd Year" shall be the period of 12 months starting from the
+first date of the calendar quarter after 1st Year, and so forth and so on.
+(b)
+Page 38/65
+----- PAGE 39 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+"Quarter ending" shall be indicated as Q-1/ Q-2/ Q-3 / Q-4 where "Q-1" means the first quarter of the "Contract Year"
+and "Q-2" means the second quarter of the "Contract Year and so forth and so on.
+Note: The Board reserves the right to seek any information or data from the entity, as it may deem to be fit, to satisfy
+itself to the compliance by the entity at any point of time.
+Schedule-E / Format: E-1A-CGD
+Quarterly Progress Report on CGD: Physical
+Parameters
+1
+Report for the Quarter ending
+2
+Contract Year
+3
+Name of the Authorized Entity
+4
+Name of Geographical Area
+5
+State
+For the Quarter
+Cumulative (Since inception)
+Target
+Actual
+Target
+Actual
+6
+Number of PNG Customers connected
+7
+Inch-Kilometer of Pipeline laid
+(a)
+Steel
+(b)
+MDPE
+8
+Number of CNG Stations
+9
+Pipeline length in Kilometers
+(a)
+Steel
+(b)
+MDPE
+10
+Compression Capacity (in Kgs.) and No. of
+Compressors
+(a)
+Online/Mother
+Compression Capacity (24 hrs. operation)
+Number of Compressors
+(b)
+Others (Booster etc.)
+Compression Capacity (24 hrs. operation)
+Number of Compressors
+11
+Page 39/65
+----- PAGE 40 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Any other information (Please write in the box)
+12
+Important guidelines for submitting the report:
+(a) In case data is nil for any of the columns;
+please enter zero '0' and ?N/A?, if required
+information is not applicable.
+(b) Report must be submitted within 30 days from
+the close of each Quarter.
+(c) A scanned copy of the report stamped &
+signed by an authorized person of the entity, should be uploaded
+within 10 days from date of submitting the report online as per
+instructions given for uploading the report.
+13
+Note: Please note that due to technical reasons,
+the information sought in columns / rows may have to be
+rearranged as required while implementing the online reporting
+system.
+Schedule-E / Format: E-1B-CGD
+Yearly Progress Report on CGD: Financial
+Parameters
+1. Report for the Financial Year
+2. Accounting Year
+3. Name of the Authorized Entity
+4. Name of Geographical Area
+5. State
+6. Ownership Details
+Name
+Share (%)
+Name
+Share (%)
+Name
+Share (%)
+Name
+Share (%)
+All figures to be in Lacs Rupees unless specified
+otherwise
+Capital Investments
+7. Fixed Assets
+13. Revenue Earned
+Opening balance
+Revenue from operations
+Other income - Interest etc.
+Direct additions
+Transfer from Capital Work-in-Progress
+Total Revenue
+14. Profit/Loss
+Closing balance
+Profit / Loss before tax
+8. Capital Work-in-Progress (CWIP)
+Tax
+Opening balance
+Page 40/65
+----- PAGE 41 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Profit after tax
+15. Loans Status
+Transfer to fixed assets
+(a) Term Loans
+Opening balance
+Added
+Repaid
+Closing balance
+Closing balance
+9. Operating Expenses
+Cost of goods sold
+Utilities - Power and Fuel
+(b) Working Capital Loans
+Repair and maintenance
+Gen. administrative expenses
+Opening balance
+Repaid during quarter
+Insurance
+Net Change
+Others
+Average Interest Rate (%)
+10. Financial Expenses
+16. Any other information (Please Interest on Working capital
+write in the box)
+Interest on Working capital
+11. Depreciation
+12. Total Expenses
+17. Important guidelines for submitting the report:
+(a) In case data is nil for any of the columns; please enter
+zero '0' and ?N/A?, if required information is not
+applicable.
+(b) Report must be submitted within 180 days from the close of
+the financial year.
+(c) A scanned copy of the report stamped & signed by an
+authorized person of the entity, should be uploaded within 10
+days from date of submitting the report online as per
+instructions given for uploading the report.
+(d) Annual report should be submitted duly certified by a
+Chartered Accountant (CA)
+18. Note: Please note that due to technical reasons, the
+information sought in columns / rows may have to be rearranged as
+required while implementing the online reporting system.
+Schedule-E / Format: E-1C-CGD
+Yearly Progress Report on CGD: Work Program
+1
+Report for the Contract Year
+2
+Name of the Authorized Entity
+3
+Name of Geographical Area
+4
+Page 41/65
+----- PAGE 42 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+State
+For the Contract Year
+Cumulative (Since inception)
+Work Program Target
+Actual
+Work Program Target
+Actual
+5
+Number of PNG Customers connected
+6
+Inch-Kilometer of Pipeline laid
+(a)
+Steel
+(b)
+MDPE
+7
+Number of CNG Stations
+8
+Any other information (Please write in the box)
+9
+Important guidelines for submitting the report:
+(a) Targets to be
+provided in relevant cells shall be in line with the Work Program
+as per the authorization letter.
+(b) In case data is
+nil for any of the columns; please enter zero '0' and ?N/A?,
+if required information is not applicable.
+(c) Report must be
+submitted within 30 days from the close of Contract Year.
+(d) A scanned copy of the report stamped &
+signed by an authorized person of the entity, should be uploaded
+within 10 days from date of submitting the report online as per
+instructions given for uploading the report.
+10
+Note: Please note that due to technical reasons,
+the information sought in columns / rows may have to be
+rearranged as required while implementing the online reporting
+system.
+Schedule-E / Format: E-2-CGD
+Monthly Report on PNG Customers
+1
+Name of the Authorized Entity
+2
+Name of Geographical Area
+3
+State
+4
+Report for the month of
+5
+Contract Year
+Months
+Page 42/65
+----- PAGE 43 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+6. Number of PNG Customers Connected
+7. Cumulative PNG Customers connected
+8. Pending PNG registrations for (Domestic
+Customers)
+Domestic
+Commercial
+Industrial
+Less than 90 days
+More than 90 days
+9
+No. B/F from Previous Year
+April
+May
+June
+July
+August
+September
+October
+November
+December
+January
+February
+March
+10
+Cumulative Total
+11
+Any other information (Please write in the box):
+12
+Important guidelines for submitting the report:
+(a) In case data is
+nil for any of the columns for the month, please enter zero '0'
+and ?N/A?, if required information is not applicable.
+(b) Report must be
+submitted by 20th of the following month.
+(c) A scanned copy of the report stamped &
+signed by an authorized person of the entity, should be uploaded
+within 7 days from the date of submitting report online as per
+instructions given for uploading the report.
+13
+Note: Please note that due to technical reasons,
+the information sought in columns / rows may have to be
+rearranged as required while implementing the online reporting
+system.
+Schedule-E / Format: E-3-CGD
+Monthly Report on PNG Customers
+1
+Name of the Authorized Entity
+2
+Name of Geographical Area
+3
+State
+Page 43/65
+----- PAGE 44 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+4
+Report for the month of
+5
+Contract Year
+6. Months
+7. Number of CNG Stations Added
+8. Number of CNG vehicles
+Mother-cum-online
+Online
+Daughter Booster
+Daughter
+Total CNG Stations
+Cars /Taxis
+Autos
+Buses
+Others
+Total
+9
+No. B/F from Previous Year
+April
+May
+June
+July
+August
+September
+October
+November
+December
+January
+February
+March
+10
+Cumulative Total
+11
+CNG Selling Price at beginning of the month
+(Rs./ Kg)
+12
+Any other information (Please write in the box):
+13
+Important guidelines for submitting the report:
+(a) In case data is
+nil for any of the columns for the month, please enter zero '0'
+and ?N/A?, if required information is not applicable.
+(b) Report must be
+submitted by 20th of the following month.
+(c) A scanned copy of the report stamped &
+signed by an authorized person of the entity, should be uploaded
+within 7 days from the date of submitting report online as per
+instructions given for uploading the report.
+14
+Note: Please note that due to technical reasons,
+Page 44/65
+----- PAGE 45 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+the information sought in columns / rows may have to be
+rearranged as required while implementing the online reporting
+system.
+Schedule-E / Format: E-4-CGD
+Monthly Report on Sale of Natural Gas
+1
+Name of the Authorized Entity
+2
+Name of Geographical Area
+3
+State
+4
+Report for the month of
+5
+Contract Year
+Figures to be given in selling unit up to three decimals
+6. Months
+7. CNG Sales
+8. PNG Sales (SCM)
+9. Total Natural Gas Sales
+((KG.)
+(SCM)
+Domestic
+Commercial
+Industrial
+CNG + PNG) in SCM
+April
+May
+June
+July
+August
+September
+October
+November
+December
+January
+February
+March
+10
+Cumulative Total
+11
+Selling price of Domestic PNG at beginning of the month in Rs.
+/SCM
+12
+Any other information (Please write in the box):
+13
+Important guidelines for submitting the report:
+(a) In case data is nil for any of
+the columns for the month, please enter zero '0' and ?N/A?,
+if required information is not applicable.
+(b) Report must be submitted by
+Page 45/65
+----- PAGE 46 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+20th of the following month.
+(c) A scanned copy of the report
+stamped & signed by an authorized person of the entity,
+should be uploaded within 7 days from the date of submitting
+report online as per instructions given for uploading the report.
+Note: Please note that due to technical reasons, the
+information sought in columns / rows may have to be rearranged as
+required while implementing the online reporting system.
+14
+[***]
+[Omitted 'Schedule F' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+G
+[see regulation 16 (1) (d)]
+Procedure for the termination of grant of authorization of CGD network
+The procedure for implementing the termination of the authorization of the entity to lay, build, operate or expand a CGD
+network following default by the entity as per the provisions of regulation 16 of the Petroleum and Natural Gas
+Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks)
+Regulations, 2008, is as under:
+1. On approval of termination of the authorization by the Board, the entity shall be required to submij a detailed
+statement of the ongoing activities in the CGD network, investmen1s, liabilities and such other information as may be
+directed by the Board within a period of thirty days from the date of receipt of notice of termination by the entity;
+2. The authorized entity shall be required to continue the operations of the CGD network at the same level till such time
+another agency or entity, as per the decision of the Board, takes over the full control of the CGD network. The Board
+reserves the right to appoint any other entity or agency to manage and operate the CGD network till such period of time
+and on such terms and conditions, as it may deem fit;
+3. The Board may, in any manner as it deems fit including through an issue of an advertisement, invite expression of
+interest or bids from entities interested in taking over the management and operation of the CGD network;
+4. On receipt of expression of interest or bids, as the case may be, the Board may take an appropriate view on the
+procedure for evaluation and subsequent grant of authorization and an entity shall be selected to take over the
+operations of the CGD network from the defaulting entity;
+5. The defaulting entity shall have to provide an undertaking to indemnify the newly authorized entity for any liability
+which may arise later as a result of its past actions;
+H
+[see regulation 17 (1)
+Information to be provided for CGD network authorized by Central Government before the appointed day
+To,
+The Secretary,
+Petroleum and Natural Gas Regulatory Board,
+1st. Floor, World Trade Centre
+Babar Lane, Connaught Place,
+New Delhi - 110001.
+Sub: Information in respect of CGD network in the city or area of
+...............................................................................................................__in the State or the Union Territory
+of............................................................................................................................................................................................
+..........................................................................................._
+(Attach separate sheets for providing information wherever necessary)
+Part-I -General details of the entity and technical
+details of the project
+1
+Details of the entity
+A
+Page 46/65
+----- PAGE 47 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Name of the entity
+B
+Type of firm - Public company Private limited
+company Partnership firm / Proprietorship/Others (please specify
+attaching the copy of the articles of association, partnership
+partnership deed, etc. as the case maybe.
+B
+Date of incorporation and Date of, commencement of business.
+C
+Address of registered office.
+D
+Name, addresses, telephone numbers, e-mail ID
+of all directors/partners/proprietor (please provide full details
+with STD Code and Pin Code).
+E
+Full particulars of the authorization granted
+by the Central Government for laying, building, operating or
+expanding the CGD network before the appointed day. Details of
+'NOCs' clearances, etc. considered relevant by the entity to be
+provided. (copies of the authorization and other documents to be
+enclosed).
+2
+Financial Details
+A
+Share capital/Proprietor's own funds
+B
+Loans - amount, tenure, moratorium period, rate of interest,
+taken from and asset mortgaged or hypothecated for securing the
+same, if any.
+C
+Reserves, if any
+D
+Fixed Assets
+E
+Current Assets
+F
+Current Liabilities
+G
+Sales Turnover
+H
+Profit After Tax
+(Attach copies of audited profit and Loss
+Account and Balance Sheet for the last three financial years) -
+In case the entity is a subsidiary company, copies of the audited
+Profit and Loss Account and Balance Sheet for the last three
+financial years of the parent company to be attached
+3
+Business activities of the entity
+A
+Original cost and WDV of assets along with year
+of commissioning, detailed break-up of the operating costs, unit
+Page 47/65
+----- PAGE 48 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+network tariff customer category wise, average unit compression
+charge for CNG, average unit transportation cost of cascade
+mounted CNG systems and retail selling price charged from each
+category of customers during the last three years, etc.
+B
+Details of technical or operational tie-up or collaboration
+with any other entity for laying, building, operating or
+expanding of CGD network
+C
+Details of other business, if any, being carried out by the
+promoters for the last three years
+4
+Ownership and affiliate details
+A
+Details of promoters
+B
+Details of affiliates of the entity mentioning
+the business relationship ("Affiliate" means as defined
+in the relevant regulations for affiliate code of conduct).
+C
+The entity undertakes to produce all relevant records and
+documents of itself and its related entities on demand by the
+Board.
+Yes/No.
+D
+Is the entity a company registered under Companies Act, 1956?
+Yes/No.
+E
+Is the entity promoted by company registered under Companies
+Act, 1956?
+Yes/No.
+F
+The entity undertakes to become a company, in
+case it is not a company at the time of providing the information
+herein, under the Companies Act, 1956 on grant of exclusivity
+under the Petroleum and Natural Gas Regulatory Board (Exclusivity
+for City or Local Natural Gas Distribution Networks) Regulation,
+2008.
+Yes/No.
+5
+Technical details of the CGD network
+A
+Name of the CGD network
+B
+Wards in the municipalities and charge area
+identified by the entity for the CGD network along with a
+physical map indicating all the existing and proposed facilities
+C
+Technical specifications of the existing
+infrastructure in the CGD network, comparison with projections,
+in the DFR and reasons for variation. (Attach copy of the
+Page 48/65
+----- PAGE 49 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+feasibility report and provide full details regarding pipelines
+design pressure, diameter, thickness, class, etc., area of the
+CGD network, route, pipeline corrosion protection arrangements,
+city gate stations, main block valves, isolation valves,
+emergency shutdown valves, odourization facilities, metering
+arrangements, CNG infrastructure, HSE measures, etc.
+D
+Development plan envisaged for the project -
+design & installed capacity of the CGD network along with
+details of phased-out capital expenditure plans including the
+timelines and the projected dates of commencement of operations
+phase-wise, Complete details of the activities and targets
+associated with the completion of the Project to be enclosed.
+E
+Year-wise growth achieved in physical
+infrastructure along with value till the appointed day. Details
+of number, length and type of pipelines laid and number and type
+of connections provided to customers and CNG infrastructure in
+terms of online compression capacity and number and dispensing
+facilities along with allied infrastructure in existence to be
+provided.
+F
+i) Volume of natural gas
+transported in the CGD network and sold (Customer category-wise
+including CNG) during the period till the appointed day.
+ii) Reasons for variations in
+actual volumes transported and sold versus the projections in the
+DFR.
+iii) Volume of natural gas
+proposed to be transported and sold on an annual basis during the
+rest of the economic life of the project for each category of
+customer.
+Also, give details of customer
+tie-up, if any.
+Volumes to be indicated in SCM (or in Kg in case of CNG). The
+conversion factors for conversion of volume or weight of natural
+gas or CNG into MMBTU to be provided.
+G
+Number of customers connected by PNG category-wise and
+year-wise and reasons for variation with the projections in the
+DFR
+H
+Sources of supply of natural gas and capacity
+tie-up with the entity owning and operating natural gas pipeline
+including existing or any proposed connectivity. Details of the
+natural gas source tie-up to be provided phase-wise. Please
+enclose copies of the gas purchase-sale agreement or Memorandum
+of understanding or Heads of Agreement, as the case maybe"
+I
+Demand assessment over the economic life of project -
+estimated yearly demand for each category of customers.
+Page 49/65
+----- PAGE 50 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+J
+Time schedule for phase-wise completion of the
+project from the date of commencement of operations. (Complete
+details of all the activities associated with the completion of
+the project to be provided separately)
+K
+Whether the State, in whose jurisdiction the
+CGD network is located No located, has enacted any legislation or
+taken any administrative action to promote the use of natural gas
+in the said city or area? If the reply to the question is yes,
+then, provide copy of the said enactment or the administrative
+order.
+yes/No
+L
+Are all applicable technical standards,
+specifications including safety standards under the relevant
+regulations for technical standards and specifications, including
+safety standards been considered and complied with while
+designing, laying, building, expanding or operating the CGD
+network? Provide details.
+M
+Attach copy of the Disaster Management Plan in place.
+N
+Is the project entitled to any subsidy or
+entitled for any exemption or deferment or waiver of any
+statutory levy from the Central or the State Governments? If yes,
+give complete details indicating the year-wise utilization plan
+of the entity
+yes/No
+O
+Has the entity availed any period of
+exclusivity for laying, building, operating or expanding the CGD
+network till the appointed day?
+p
+Details of approved
+capital expenditure plans? What is the percentage of year-wise
+actual capital expenditure during the last three years to the
+projected capital expenditure in the DFR and reasons for
+variation, if any?
+(The data is required to be provided for last three financial
+years ,and for the period till the appointed day)
+Part-II:Any other submission considered as relevant
+by the entity
+Part-III:Detailed
+justifications for seeking exclusivity for laying, building,
+operation or expansion of CGD network under the Petroleum and
+Natural Gas Regulatory Board (Exclusivity for City or Local
+Natural Gas Distribution
+Networks) Regulations, 2008. (see
+note below)
+A
+Page 50/65
+----- PAGE 51 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Justification for seeking exclusivity in
+laying, building or expansion of the CGD network, Please indicate
+the period of exclusivity sought Data, analysis and documents in
+support of the argument may be provided as attachments.
+B
+Justification for seeking exclusivity in terms
+of seeking exemption from the purview of common carrier[or]
+[Substituted 'and' by Notification No. G.S.R. 800(E), dated 19.11.2008 (w.e.f. 19.3.2008).]
+contract carrier. Please indicate the period for which the
+exemption is sought.
+-do-
+Note:1)
+In case the entity applies for exclusivity under the Petroleum
+and Natural Gas Regulatory Board (Exclusivity for City or Local
+Natural Gas Distribution Network Regulations, 2008 and the Board
+grants the exclusivity, the targets to be achieved by the entity
+shall be as fixed by the Board in terms of the clause (b) of
+sub-regulation (1) of regulation 8 under the Petroleum and
+Natural Gas Regulatory Board (Exclusivity for City or Local
+Natural Gas Distribution Networks) Regulations, 2008; and
+The Board shall monitor the actual progress
+against the targets fixed for the entity, on a quarterly basis,
+and take further action in case of any deviation or shortfall
+determined on an annual basis in the manner as indicated in
+Schedule E.
+Declaration
+1. Certified that the above information is true to the best of my lour knowledge and belief and the information and data
+given in the Annexure and statements are correct, complete and truly stated, and if any statement made herein is found
+to be incorrect. I/We shall be liable for proceeding and for punishment under the provisions of the Act.
+2. I/we also undertake to provide any further information or data as may be required by the Board within the stipulated
+time.
+Date:
+Place:
+Name and Signature of Authorized Signatory
+Official Seal
+Instructions for providing information:
+1. All entries in the form and annexed documents should be legible with no cuttings.
+2. Details requiring separate statement shall be provided giving clear reference of the point against which the same is
+being attached.
+3. All pages of the information format and all annexure, statements, etc need to be serially numbered and initialed by the
+person or official authorized by the applying entity through a notarized Power of Attorney.
+4. Any information or data filled in the information format needs to be substantiated by attaching relevant proof of the
+same.
+5. The information format is required to be submitted in five copies with all the enclosures in addition to the original.
+6. Incomplete information format is liable to be summarily rejected.
+I
+[see regulation 18 (1)]
+Application for grant of authorization for CGD network to entities not authorized by Central Government
+To,
+The Secretary,
+Petroleum and Natural Gas Regulatory Board,
+Page 51/65
+----- PAGE 52 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+1st. Floor, World Trade Centre
+Babar Lane, Connaught Place
+New Delhi-110001.
+Sub: Application for grant of authorization for City or Local Natural Gas Distribution project in the city
+of............................................................................................................................................................................................
+......................................................_in the Stale or the Union Territory
+of............................................................................................................................................................................................
+...............................................................................................................................................................................................
+..............................................................................................................................................................._.
+(Attach separate sheets for providing information wherever necessary)
+General details of the entity and technical details
+of the project
+1
+Details of the entity
+A
+Name of the Entity
+B
+Type of firm - Public limited company Private
+limited company' Partnership firm , Proprietorship firm , Others
+attaching the copy of articles of association, Partnership deed,
+etc. if any.
+C
+Date of incorporation and date of commencement of business.
+D
+Address of registered office.
+E
+Names, addresses, telephone numbers, e-mail 10 of all
+directors, partners, proprietor (please provide full details with
+STD Code and Pin Code).
+2
+Information/data to be provided by the entity in support of
+the eligibility criteria as specified under sub-regulation (2) of
+regulation 18.
+A
+Non-refundable application fee under regulation 5 (6)(a)
+Rs.<.........................................................................._>
+Demand draft or pay order
+Demand draft or pay order no. & date
+Name of issuing bank and branch
+B
+Entity is technically capable of laying and building CGD
+Network
+Documentary evidence in support of the technical capability
+of the terms of the qualifying criteria under regulation 5 (6)
+(b) (i) to (iv) to be attached.
+C
+Entity is technically capable of operating and maintaining
+Network.
+Documentary evidence in support of the
+technical capability of the entity in terms of the qualifying
+criteria under regulation 5 (6) (b) (i) to (iv) to be attached.
+Page 52/65
+----- PAGE 53 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+D
+Entity agrees to abide by the relevant
+regulations for technical standards and specifications, including
+safety standards.
+Yes/No
+E
+Entity has adequate
+financial strength to execute the proposed CGD project, operate
+and maintain the same in the authorized area and meets the
+financial criterion in terms of having a minimum combined net
+worth specified under regulation 5 (6) (e).
+Note:
+All documents in support of the calculations of the minimum
+combined net worth duly certified by a Chartered Accountant to be
+attached.
+F
+Has any penalty been impose entity under
+section 28 or punished under Chapter IX of the Act? In case the
+answer is yes, please submit full details.
+Yes/No
+G
+Copies of all the necessary statutory
+clearances, permissions and no objection certificates obtained by
+the entity from the Central and State, Governments and other
+statutory authorities as applicable for the proposed CGD project
+to be attached.
+H
+In case entity is
+not register as a company under the Companies Act, 1956, the
+entity undertakes to become a company registered under the
+Companies Act, 1956 on grant of authorization. Full details of
+the promoters of the entity to be provided.
+Note:
+In case the entity seeks an exemption from
+registering under the Companies Act, 1956, detailed
+justifications shall be submitted to the Board.
+Yes/No
+I
+Details on Financial and Physical
+progress
+i) Copy of the approved DFR of the
+project to be attached.
+Note:
+The entity shall also enclose\he documentary
+proof of the formal approval of the DFR of the project by its
+management.
+ii) Has the DFR of the proposed CGD project for
+which authorization is being sought been appraised by any
+financial institution?
+Yes/No
+iii) Does the DFR of the proposed CGD project
+Page 53/65
+----- PAGE 54 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+specify the geographical area proposed to be covered? In case the
+answer is yes, please specify the size of the geographic area
+proposed and also enclose the map depicting the same.
+iv) Details in the DFR in terms of year-wise
+coverage of PNG domestic connections and CNG compression
+facilities
+v) Extent of
+physical progress in laying and building the proposed CGD network
+achieved by the entity till the day immediately before the
+apPOinted day as against the total physical activities proposed
+in the DFR.
+Note:
+The onus of proving the physical progress
+actually made by the entity lies with the entity and the entity
+shall submit all necessary documentary proofs in support.
+<in percentage terms>
+vi) Extent of
+financial commitment actually made by the entity in the proposed
+CGD network till the day immediately before the appointed day as
+against the estimated capital expenditure identified in the DFR.
+Note:
+The onus of proving the financial commitment
+actually made by the entity lies with the entity and the entity
+shall submit all necessary documentary proofs in support.
+<in percentage terms>
+J
+Arrangements for erecting the CGS
+i) Has the entity arranged the land by way of
+acquisition or lease for erecting the proposed CGS? If yes,
+please submit the documentary proof.
+Yes/No
+ii) Whether the necessary equipment for
+erecting the CGS already procured? If yes, please submit
+documentary proofs.
+Yes/No
+K
+Entity shall enclose the copies of the internal
+procedures and guidelines as approved by its management
+prescribing the basis of compliance by the entity to any
+technical standards, specifications, including safety standards
+and the quality of service to customers, if any.
+L
+Entity shall enclose copies of the agreement in
+support of having made firm arrangements for supply of natural
+gas to meet the demand in the proposed CGD network.
+M
+Any other information or data including any
+documentary proof considered, relevant by the entity for
+consideration of the Board or as may be specified by the Board
+shall also be provided.
+3
+Page 54/65
+----- PAGE 55 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Financial details
+A
+Share capital/Proprietor's own funds
+B
+Loans - amount, tenure, moratorium, period,
+rate of interest, taken from and asset mortgaged or hypothecated
+for securing the same, if any
+C
+Reserves, if any
+D
+Fixed Assets
+E
+Current Assets
+F
+Current liabilities
+G
+Sales Turnover
+H
+Profit after Tax
+(Attach copies of audited Profit & Loss
+Account and Balance Sheet for last three financial years) - In
+case entity is a subsidiary company, copies of audited Profit and
+Loss Account and Balance Sheet for last three financial years of
+the parent company to be attached.
+4
+Business Activities of the entity
+A
+Original cost and WDV of assets along with year
+of commissioning, detailed break-up of the operating costs, unit
+network tariff customer category wise, average unit compression
+charge for CNG, average unit transportation cost of cascade
+mounted CNG systems and retail selling price charged from each
+category of customers during the last three years, etc.
+B
+Details of other business, if any, being
+carried out by the promoters for the last three years.
+5
+Ownership and affiliate details
+A
+Details of promoters
+B
+Details of all affiliates of the entity
+mentioning the business relationship between the entity and
+"Affiliate" means as defined in the relevant
+regulations for affiliate code of conduct.
+C
+The entity undertakes to produce all relevant
+records and documents of itself and its related entities on
+demand by the Board.
+Yes/No
+D
+Page 55/65
+----- PAGE 56 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+The entity undertakes to abide by the relevant
+regulations for affiliate code of conduct.
+Yes/No
+6
+Technical details of the CGD Network
+A
+Name of the CGD network
+B
+Wards in the municipalities and charge area
+identified by the entity for the CGD network alongwith a physical
+map indicating all the existing and proposed facilities.
+C
+Technical
+specifications of the existing infrastructure and a comparison
+with that projected in the DFR and reasons for variation, if any.
+Indicate full details regarding the pipelines
+design pressure, diameter, thickness, class, etc., area of the
+CGD network, route details, pipeline corrosion protection
+arrangements, city gate stations, main block valves, isolation
+valves, emergency shutdown valves, odourization facilities,
+metering arrangements, CNG stations, HSE measures, etc.
+D
+Development Plan envisaged for the
+project-design and installed capacity of the CGD network along
+with details of phased-out capital expenditure plans including
+the time-lines and the projected dates of commencement of
+operations phase-wise. Complete details of the activities and
+targets associated with the completion of the project to be
+enclosed.
+E
+Year-wise growth achieved in physical,
+infrastructure along with value. Details of number, length and
+type of pipelines laid and number of connections customer over
+their types and CNG infrastructure In terms of online compression
+capacity and number of dispensing facilities along with allied
+infrastructure in existence to be provided. Gross and Net block
+value to be indicated over each asset-head.
+F
+i) Volume of natural
+gas transported in the CGD network and sold customer
+category-wise, including CNG during last year-years till the,
+appointed day.
+ii) Reasons for
+variations in actual volumes transported and sold versus the
+projections in the DFR.
+iii) Volume of
+natural gas proposed to be transported and sold on an annual
+basis during the rest of the economic life of the project for
+each category of customer.
+Also, give details of customer
+tie-up, if any.
+Page 56/65
+----- PAGE 57 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Volumes to be indicated in MMBTU and also in
+SCM for PNG and in Kg for CNG. The conversion factors for
+conversion of volume or weight of natural gas or CNG into MMBTU
+to be provided.
+G
+Number of customers provided with PNG
+connection category-wise and year-wise and reasons for variation
+with the projections in the DFR, if any.
+H
+Capacity tie-up with the entity owning and
+operating natural gas pipeline including existing and proposed
+connectivity.
+I
+Demand assessment over the economic life of the
+project - estimated yearly demand for each category of customer.
+J
+Time schedule for
+phase wise completion of the project from the date of
+commencement of operations.
+Complete details of all the activities
+associated with the completion of the project to be 'provided
+separately.
+K
+Whether the State, in whose jurisdiction the
+CGD network is located, has enacted any legislation or taken any
+administrative action to promote the use of natural gas in the
+said city? If the reply to the question is yes, then provide copy
+of the said enactment or the administrative order.
+Yes/No
+L
+Whether applicable technical standards,
+specifications including safety standards under the relevant
+regulations for technical standards and specifications, including
+safety standards been considered and  complied with while
+designing, laying, building, operating and expanding the CGD,
+network? Provide details.
+M
+Copy of Disaster Management Plan to be attached.
+N
+Is the project entitled to any subsidy, tax
+waiver or exemption or deferment from the Central or State
+Government?
+Yes/No
+If yes, give details.
+O
+Has the entity availed any period of
+exclusivity for laying, build, operate or expand the existing CGD
+network?
+P
+Details of approved capital expenditure plans?
+What is the percentage of year-wise actual capital expenditure to
+Page 57/65
+----- PAGE 58 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+the projected capital expenditure in the DFR during the last
+three years and reasons for variation, if any?
+Part-II:Any other submission considered as relevant by
+the entity with regards to the application for grant of
+authorization for CGD network by the Board.
+Part-III:Detailed justifications for seeking
+exclusivity for laying, building, operation or expansion of CGD
+network under the Petroleum and Natural Gas Regulatory Board
+(Exclusivity for City or Local Natural Gas Distribution Networks)
+Regulations, 2008.'(see note below).
+A
+Justification for seeking exclusivity in
+laying, building or expansion of the CGD network. Please indicate
+the period of exclusivity sought.
+Data, analysis and documents in support may be provided
+B
+Justification for seeking exclusivity in terms
+of seeking exemption from the purview of common carrier and
+contract carrier. Please indicate the period for which the
+exemption is sought.
+-do-
+Note:1) In case the entity
+applies for exclusivity under the Petroleum and Natural Gas
+Regulatory Board (Exclusivity for city or Local Natural Gas
+Distribution, Networks) Regulations, 2008 and the Board grants
+the exclusivity, the targets to be achieved by the entity shall
+be as fixed by the Board in terms of the clause (b) of
+sub-regulation (1) of regulation 8 under the Petroleum and
+Natural Gas Regulatory Board (Exclusivity for City or Local
+Natural Gas Distribution Networks) Regulations, 2008; and.
+2) The Board shall monitor the actual progress against the
+targets fixed for the entity, on a quarterly basis, and take
+further action in case of any deviation or shortfall determined
+on an annual basis in the manner as indicated in Schedule E.
+Declaration
+1. Certified that the above information is true to the best of my/our knowledge and belief and the information given as
+Annexure and statements accompanying this application are correct, complete and truly stated, and if any statement
+made herein is found to be incorrect, the application shall be rejected, the application fee shall be forfeited and I/We,
+shall be liable for proceeding and for punishment under the provisions of the Act.
+2. I/We also undertake to furnish a Performance Bond, which may be prescribed by the Board.
+3. I/We certify that this is the only application submitted and no other application has been or is being separately
+submitted for this city or geographic area.
+Date :
+Place :
+Name and Signature of entity or authorised signatory
+Official seal
+Instruction for filling the Application form:
+1. All entries in the form and annexed documents should be legible with no cuttings.
+2. Details requiring separate statement may be provided giving clear reference of the point against which the same is
+being attached.
+3. All pages of the application form and all annexure, statements, etc need to be initialed by the person or official
+Page 58/65
+----- PAGE 59 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+authorized by the applying entity through a notarized Power of Attorney.
+4. Any information and data filled in the application form needs to be substantiated by attaching relevant proof of the
+same.
+5. The entity is required to submit five copies of the application with all the enclosures in addition to the original.
+6. Incomplete application is liable to be summarily rejected.
+[***]
+[Omitted 'Schedule J' by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+[Schedule K]
+[Substituted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+[See regulation 5 (6) (e) (i)]
+Methodology for Computation of Net worth
+Serial Number
+Type of Entity
+Net Worth Calculation
+1
+In case of a Company
+As per method 1
+2
+In case of Cooperative Society
+As per method 1Mutatis Mutandis
+3
+In case of a Joint Venture Company
+Consolidated net worth of promoter companies as
+per method 1 shall be considered, if supported by Corporate
+Guarantee from the Promoter companies in the format as specified
+in Appendix III
+4
+In case of a subsidiary company
+Consolidated net worth of holding company shall
+be considered (to be computed as per Method 1), if supported by
+corporate guarantee from that holding company.
+5
+Other entities
+As per method 2
+6
+Unincorporated consortium or unincorporated
+joint venture of
+(a) companies
+As per method 1
+(b) others
+As per method 2 for non-company consortium
+member(s) and as per method 1 for company consortium member(s)
+Methodology for net worth computation under Method 1:
+Net worth shall be computed as defined in section 2 sub-section 57 of the Companies Act, 2013.
+Methodology for net worth Computation under Method 2:
+By valuation of assets on the following basis:
+A. Investments in Listed (Quoted) companies in the name of the applicant (at market value) (Detailed list to be enclosed)
+B. Margin of 30% on market value of listed (quoted) Investments
+C. Net value of listed Investments (A) - (B)
+D. Investments in unlisted (unquoted) companies (as per Note No. 2)
+E. Margin of 50% on (D)
+Page 59/65
+----- PAGE 60 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+F. Net value of unlisted investments (D) - (E)
+G. Other investments like PPF, NSC, bank deposits, company deposits etc. at current value
+H. Total Net Investments (C) + (F) + (G)
+I. Market value of land and building component of the fixed assets (full details of such assets like survey number,
+location, address, extent of land & building to be furnished)
+J. Margin on I at 50%
+K. Net value of such fixed assets (I - J).
+L. Debtors not exceeding 3 months + cash & bank balances
+M. Current Liabilities
+N. Long term liabilities
+O. Net worth (H + K + L) - (M + N)
+Notes: - 1. Valuation of fixed assets for the purpose of net worth should be certified by government approved valuers
+which shall not be more than 2 months old on the date of submission of the bid. Only those items of land and building
+that are in the name of the entity as well as in the possession of the entity or proprietor shall be included under the head
+(I) land & building component of the fixed assets. Those properties that are leased out by the entity or taken on lease
+shall not be included for computation of net worth. Fixed assets other than Land and Building shall not be included for
+the purpose of computation of net worth.
+2. Valuation of unlisted investments would be at "fair value" of the said investment, i.e. the average of the "break-up
+value" and the "earning value "and for this purpose: -
+(a)
+the "break-up value" means the equity capital and reserves as reduced by intangible assets and revaluation reserves,
+divided by the number of equity shares of the investee company.
+(b)
+the "earning value" means the value of an equity share computed by taking the average of profits after tax as reduced
+by the preference dividend and adjusted for extra-ordinary and non-recurring items, for the immediately preceding three
+years and further divided by the number of equity shares of the investee company and capitalised at the following rate,
+namely: -
+(i)
+In case of predominantly manufacturing company, eight percent;
+(ii)
+In case of predominantly trading company, ten percent;
+(iii)
+In case of any other company, including an NBFC, twelve percent; and
+(iv)
+If, an investee company is a loss making company, the earning value will be taken at zero.
+(e.g. earning value for an NBFC with capitalisation rate of 12%, is earning per share multiplied by 100/12)
+3. Details of items comprising investments, current assets, current liabilities and long term liabilities shall be given
+separately.
+4. Current assets should exclude loans to related entities, bad and doubtful debts and debts outstanding for more than 3
+months, advance against capital assets, pledged securities or assets, prepaid expenses and also intangible assets.
+5. Valuation of properties will be net of encumbrances with details of loan and other encumbrances, if any. In case there
+is no encumbrance, it shall be supported with a certificate by the entity that these are free from all encumbrances.
+6. Company includes limited, private limited and limited liability partnerships (LLP).
+7. In case the bidder is supported by an equity fund, net-worth shall be lower of assets under management of the equity
+fund and the amount of support by a legally binding document for supporting the entity to achieve the work program.
+[Appendix I
+[Omitted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018/2, dated 27.4.2018 (w.e.f. 19.3.2008).]
+Appendix II]
+[Appendix III]
+[Inserted by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+[See second Proviso of Regulation 10 (3)]
+Page 60/65
+----- PAGE 61 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+(On non-judicial stamp paper of appropriate value)
+Corporate Guarantee Format
+This Guarantee ("Guarantee") is issued on the ..................................... day of ............................................ , ....................
+by ........................................................................................................................................................................, a
+Company organised and existing under the laws of ................................................................................. having its
+Registered Office at
+...............................................................................................................................................................................................
+....... (hereinafter referred to as "Guarantor"), at the request and behest of
+........................................................................................................................................................................, a Wholly
+Owned Subsidiary Company of the Guarantor organised and existing under the laws of
+............................................................................................................................ having its Registered Office
+at.................................................................................................................................................... (hereinafter referred to
+as "Wholly Owned Subsidiary"), in favour of Petroleum and Natural Gas Regulatory Board, constituted under The
+Petroleum and Natural Gas Regulatory Board Act, 2006 (having its Registered Office at 1st Floor, World Trade Center,
+Babar Road, New Delhi-110001 (hereinafter referred to as "Beneficiary" or "PNGRB").
+Whereas:
+The Beneficiary has granted authorisation to the Guarantor to Lay, Build, Operate or Expand City or Local Natural Gas
+Distribution Network(s) for ............................................................................. (hereinafter referred as "Geographical
+Area") vide letter dated .......................................................................... (hereinafter referred as "Authorisation"). The
+Guarantor is willing to transfer the Authorisation of the geographical area authorised by the Beneficiary, along with the
+rights and obligations, in favour of its Wholly Owned Subsidiary. The Guarantor vide its letter dated
+.......................................................................... informed the Beneficiary that Wholly Owned Subsidiary, will comply with
+the Authorisation terms and conditions. For this reason, the Guarantor is ready and willing to give a Corporate
+Guarantee (CG) inter alia for the performance of the Wholly Owned Subsidiary to the terms and conditions of the
+Authorisation and on failure to assume the said obligations.
+We, the Guarantor hereby record the terms and conditions governing our obligations under this Guarantee with the
+intent of being legally bound by the same and hereby agree, covenant and bind ourselves as follows: -
+1. The Guarantor hereby irrevocably and unconditionally guarantees to Beneficiary that its Wholly Owned Subsidiary will
+perform its obligations under the terms and conditions of the Authorisation and agrees to provide further guarantees, if
+so desired by Beneficiary, in terms of the Authorisation.
+2. The Guarantor unconditionally and irrevocably guarantees to the Beneficiary that it will make available or cause to be
+made available all financial, technical and other resources required to ensure that the Wholly Owned Subsidiary can
+carry out its obligations of Work Programme as per the terms and conditions of the Authorisation and that the Wholly
+Owned Subsidiary at all times fully and effectively discharge its obligations under the terms and conditions of
+Authorisation, including by discharging the obligations within the time and cost so stipulated.
+3. The Guarantor hereby agrees that if the Wholly Owned Subsidiary shall in any respect commit any breach or fails to
+fulfill any of the terms of the or complete it in all respects or if there is a failure to meet any obligations, then, the
+Guarantor will forthwith perform the same and fulfill all the obligations required under terms and conditions of
+Authorisation on behalf of the Wholly Owned Subsidiary, without any extra cost and time implications or will pay the
+penalty as per the extant Regulations.
+4. The Guarantor further undertakes to indemnify all losses, damages, expenses, claims, costs and proceedings due to
+the failure or breach on the part of its Wholly Owned Subsidiary.
+5. The Guarantor assures and undertakes that during the term of the Exclusivity Period or of any guarantee for
+performance as per the Authorisation, the Guarantor and the Guarantor's liability shall not be affected due to any
+incapacity or lack of power or legal personality or change in the status of the Wholly Owned Subsidiary or the Guarantor.
+6. The Guarantor's liabilities under this Guarantee shall not exceed the liability of the Wholly Owned Subsidiary under
+the terms and conditions of Authorisation but this shall in any manner not affect the Guarantor's own responsibilities and
+liabilities under the Guarantee.
+7. The obligation of the Guarantor shall take effect from the date of this Guarantee and shall remain in full force until all
+the obligations of the Wholly Owned Subsidiary have been fully performed and discharged. The Guarantor further
+undertakes to perform forthwith without insisting on any proof of breach of terms and conditions of Authorisation by its
+Page 61/65
+----- PAGE 62 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Wholly Owned Subsidiary and purely relying on Beneficiary' s written demand.
+8. The liabilities of the Guarantor shall not be discharged, diminished or otherwise affected by -
+(a)
+any change in the Articles of Association or Bye-Laws or constitution of the Wholly Owned Subsidiary or the Guarantor;
+(b)
+any time, indulgence, waiver or consent given to Wholly Owned Subsidiary by the Beneficiary;
+(c)
+any amendment to the terms and conditions of Authorisation or any security or other guarantee or indemnity to which
+Wholly Owned Subsidiary has agreed; and
+(d)
+The dissolution, amalgamation, reconstruction or reorganisation of Wholly Owned Subsidiary or Guarantor.
+9. Notice:- Any notice, demand, declaration or other communication to be given by the Beneficiary or the Guarantor to
+the other shall be in writing, in English language and delivered in person or by Air Mail or by Courier Services or by
+Facsimile or by E-Mail to the address given below, namely: -
+For Guarantor
+Attention of
+Mailing Address
+Email Address
+Fax No.
+For Beneficiary
+Attention of
+Secretary,
+Mailing Address
+Petroleum and Natural Gas Regulatory Board,1st Floor, World
+Trade Centre,Babar Road, New Delhi 110001.
+Email Address
+[email protected]
+Fax No.
+011-23709151
+10. Governing Law and Jurisdiction: This Guarantee shall be exclusively governed by and construed in accordance with
+the laws of India without giving effect to the principles of conflict of laws therein. No party shall take a plea that any
+forum is inconvenient. It may be enforced in terms of the Indian laws.
+11. This Guarantee may be executed in one or more counterparts, all of which shall be read and construed as one
+document and any fax copy or scanned copy or print of a scanned copy of a signed Guarantee shall be deemed to be
+an original signature.
+12. No modification, alteration or amendment of this Guarantee or any of its terms or provisions shall be valid or legally
+binding unless the Beneficiary consents to the same in writing.
+13. No failure to take any action with respect to a breach of this Guarantee or a default by any other party shall
+constitute a waiver of the Beneficiary's right to enforce any provision of this Guarantee or to take action with respect to
+such breach or default or any subsequent breach or default.
+14. Waiver of any breach or failure to comply with any provisions of this Guarantee shall not be construed as, or
+constitute, a continuing waiver of such provision, or a waiver of any other breach of or failure to comply with any other
+provision of this Guarantee, unless any such waiver has been consented to by the Beneficiary in writing.
+15. This document has been executed by a duly authorised signatory on behalf of the Guarantor having the requisite
+power to do so.
+In Witness Whereof the Guarantor has duly executed this Guarantee as at the date first above written.
+For and on behalf of Guarantor
+For and on behalf of Wholly Owned Subsidiary
+Name and Signature of Authorised signatory alongwith official seal
+Name and Signature of Authorised signatory alongwith official seal
+Witness:
+Page 62/65
+----- PAGE 63 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Witness:
+Signature:
+Signature:
+Name:
+Name:
+Designation
+Designation
+Date:
+Date:
+[Appendix-IV]
+[Added by Notification No. F.No.PNGRB/Auth./CGD/Amd/2018, dated 6.4.2018 (w.e.f. 19.3.2008).]
+[See Schedule K]
+(On non-judicial stamp paper of appropriate value)
+Promoter or Holding Company Guarantee Format
+This Guarantee ("Guarantee") is issued on the ............................ day of ............................... , ................... by
+............................................................................................................, a Company organised and existing under the laws
+of ..................................................... having its Registered Office at
+................................................................................................... *(and by ................................................. a Company
+organised and existing under the laws of .................................................. having its Registered Office at
+................................................................................................... singly and/or jointly)* hereinafter referred to as
+"Guarantor", at the request and/or behest of ............................................................................................................, a
+Company organised and existing under the laws of ..................................................................................... having its
+Registered Office at ............................................................................................. (hereinafter referred to as "Bidding
+Entity"), in favour of Petroleum and Natural Gas Regulatory Board, constituted under The Petroleum and Natural Gas
+Regulatory Board Act, 2006 (09 of 2006) having its Registered Office at 1st Floor, World Trade Center, Babar Road,
+New Delhi-110001 (hereinafter referred to as "Beneficiary" or "PNGRB").
+Whereas
+The Beneficiary has floated an Application cum-Bid document dated ........................................ inviting offers from
+Bidders for .......................................................................(purpose). The Bidding Entity has submitted their Application
+cum Bid document dated ........................................ and advised the Beneficiary that the Bidding entity is the Joint
+Venture/Subsidiary Company of the Guarantor. The Guarantor vide its letter dated ........................................ informed
+the Beneficiary that Bidding Entity, will participate in the Application cum-Bid document and desired that the Application
+cum-Bid document be considered by the Beneficiary based on the technical and financial strength of the Guarantor. For
+this reason, the Guarantor is ready and willing to give a Promoter Guarantee or Parent Company Guarantee (PCG) inter
+alia for the performance of the Bidding Entity to the terms and conditions of the Application cum-Bid document and on
+failure of Bidding Entity to assume the said obligations.
+Having examined the 'Application-cum-Bid document' with reference to Bid No.......... we..........., being the Promoter or
+Holding Company of .................(Bidding Entity), certify that we possess the financial net worth as required by the
+Petroleum and Natural Gas Regulatory Board (Authorising Entities to Lay, Build, Operate or Expand City or Local
+Natural Gas Distribution Networks) Regulations, 2008.
+Our net worth (calculated in accordance with provisions of the above regulations) and as certified by Chartered
+Accountant for the last financial year i.e............. is Rs...... Million. Certificate and documents in support of calculations
+are enclosed as Annexure.........
+We, the Guarantor hereby record the terms and conditions governing our obligations under this Guarantee with the
+intent of being legally bound by the same and hereby agree, covenant and bind ourselves as follows, namely: -
+1. We................as promoter/holding company of.................... (Bidding Entity) undertake that our financial contribution to
+Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks in the authorised geographical area of
+...........shall be infused in a phased manner as per the project financing schedule approved at the time of achieving
+financial closure.
+2. The Guarantor hereby irrevocably and unconditionally guarantees to Beneficiary that Bidding Entity will perform its
+obligations as per the terms and conditions of the Application cum-Bid document, if the Bid is awarded to them in future
+Page 63/65
+----- PAGE 64 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+for ........................................__ and agrees to provide further Guarantee, if so desired by Beneficiary, in terms of the
+Application cum-Bid document.
+3. The Guarantor further unconditionally and irrevocably guarantees to the Beneficiary the due and punctual compliance
+by the Bidding Entity of any obligations under the Application cum-Bid document.
+4. The Guarantor unconditionally and irrevocably guarantees to the Beneficiary that it will make available or cause to be
+made available to the Bidding Entity all financial, technical and other resources required to ensure that the Bidding Entity
+can carry out its obligations as per the Application cum-Bid documents terms and conditions and that the Bidding Entity
+at all times fully and effectively discharge its obligations under the terms and conditions of Application cum-Bid
+document.
+5. The Guarantor hereby agrees that if the Bidding Entity shall in any respect commit any breach or fails to fulfill any of
+the terms of the Application cum-Bid document or complete it in all respects or if there is a failure to meet any
+obligations then the Guarantor will forthwith perform the same and fulfill all the obligations required under Application
+cum-Bid document terms and conditions on behalf of the Bidding Entity.
+6. The Guarantor further undertakes to indemnify all losses, damages, expenses, claims, costs and proceedings which
+may be suffered or incurred by Beneficiary due to the failure or breach on the part of Bidding Entity.
+7. The Guarantor assures and undertakes that during the term of the completion of the Work Program or performance
+as per the Application cum-Bid document, the Bidding Entity shall continue to be the Joint Venture/ Subsidiary Company
+of the Guarantor and the Guarantor's liability shall not be affected due to any incapacity or lack of power or legal
+personality or change in the status of the Bidding Entity or the Guarantor.
+8. The Guarantor's liabilities under this Guarantee shall not exceed the liability of the Bidding Entity under the
+Application cum-Bid document terms and conditions but this shall in any manner not affect the Guarantor's own
+responsibilities and liabilities under the Guarantee.
+9. The obligation of the Guarantor shall take effect from the date of this Guarantee and shall remain in full force until all
+the obligations of the Bidding Entity have been fully performed and discharged. The Guarantor further undertakes to
+perform forthwith without insisting on any proof of breach of Application cum- Bid document by its Bidding Entity and
+purely relying on Beneficiary's written demand.
+10. The liabilities of the Guarantor shall not be discharged, diminished or otherwise affected by: -
+(a)
+any change in the Articles of Association or Bye-Laws or constitution of the Bidding Entity or the Guarantor;
+(b)
+any time, indulgence, waiver or consent given to Bidding Entity by the Beneficiary;
+(c)
+any amendment to the Authorisation or any security or other guarantee or indemnity to which Bidding Entity has agreed;
+and
+(d)
+The dissolution, amalgamation, reconstruction or reorganization of Bidding Entity or Guarantor.
+11. Notices:
+Any notice, demand, declaration or other communication to be given by the Beneficiary or the Guarantor to the other
+shall be in writing, in English language and delivered in person or by Air Mail or by Courier Services or by Facsimile or
+by E-Mail to the address given below, namely: -
+For Guarantor
+Attention of
+Mailing Address
+Email Address
+Fax No.
+For Beneficiary
+Attention of
+Secretary,
+Mailing Address
+Petroleum and Natural Gas Regulatory Board,1st Floor, World
+Trade Centre,Babar Road, New Delhi 110001.
+Page 64/65
+----- PAGE 65 -----
+The Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operat...
+Email Address
+[email protected]
+Fax No.
+011-23709151
+12. Governing Law and Jurisdiction:- This Guarantee shall be exclusively governed by and construed in accordance with
+the laws of India without giving effect to the principles of conflict of laws therein. No party shall take a plea that any
+forum is inconvenient. It may be enforced in terms of the Indian laws.
+13. This Guarantee may be executed in one or more counterparts, all of which shall be read and construed as one
+document and any fax copy or scanned copy or print of a scanned copy of a signed Guarantee shall be deemed to be
+an original signature.
+14. No modification, alteration or amendment of this Guarantee or any of its terms or provisions shall be valid or legally
+binding unless the Beneficiary consents to the same in writing.
+15. No failure to take any action with respect to a breach of this Guarantee or a default by any other party shall
+constitute a waiver of the Beneficiary's right to enforce any provision of this Guarantee or to take action with respect to
+such breach or default or any subsequent breach or default.
+16. Waiver of any breach or failure to comply with any provisions of this Guarantee shall not be construed as, or
+constitute, a continuing waiver of such provision, or a waiver of any other breach of or failure to comply with any other
+provision of this Guarantee, unless any such waiver has been consented to by the concerned party in writing.
+17. This document has been executed by a duly authorized signatory on behalf of the Guarantor having the requisite
+power to do so.
+In Witness Whereof the Guarantor has duly executed this Guarantee as at the date first above written.
+For and on behalf of Guarantor
+*For and on behalf Guarantor
+Name and Signature of Authorised signatory alongwith official seal
+Name and Signature of Authorised signatory alongwith official seal
+Witness:
+For and on behalf of Bidder
+Signature:
+Name:
+Designation
+Name and Signature of Authorised signatory along with official seal
+Date:
+Witness:
+Signature:
+Name:
+Designation
+Date:
+* to be added in case of multiple Guarantors
+Related AI tags, queries and research notes
+Translation
+Page 65/65

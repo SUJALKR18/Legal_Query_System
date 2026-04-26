@@ -1,0 +1,481 @@
+
+----- PAGE 1 -----
+E-assessment Scheme, 2019
+E-assessment Scheme, 2019
+Source: https://indiankanoon.org/doc/130410154/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+10
+]
+Union of India - Act
+E-assessment Scheme, 2019
+UNION OF INDIA
+India
+E-assessment Scheme, 2019
+Rule E-ASSESSMENT-SCHEME-2019 of 2019
+Published on 12 September 2019
+Commenced on 12 September 2019
+[This is the version of this document from 12 September 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+E-assessment Scheme, 2019
+Published vide Notification No. S.O. 3264 (E), dated 12.9.2019
+Last Updated 15th November, 2019
+S.O. 3264 (E). - In exercise of the powers conferred by sub-section (3A) of section 143 of the Income-tax Act, 1961 (
+43 of 1961
+), the Central Government hereby makes the following Scheme, namely:-
+1.
+Short title and commencement.
+(1)
+This Scheme may be called the E-assessment Scheme, 2019.
+(2)
+Page 1/9
+----- PAGE 2 -----
+E-assessment Scheme, 2019
+It shall come into force on the date of its publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In this Scheme, unless the context otherwise requires, -
+(i)
+"Act" means the Income-tax Act, 1961 (
+43 of 1961
+);
+(ii)
+"addressee" shall have the same meaning as assigned to it in clause (b) of sub-section (1) of section 2 of the
+Information Technology Act, 2000 (
+21 of 2000
+);
+(iii)
+"assessment" means assessment of total income or loss of the assessee under sub-section (3) of section 143 of the Act;
+(iv)
+"authorised representative" shall have the same meaning as assigned to it in sub-section (2) of section 288 of the Act;
+(v)
+"automated allocation system" means an algorithm for randomised allocation of cases, by using suitable technological
+tools, including artificial intelligence and machine learning, with a view to optimise the use of resources;
+(vi)
+"automated examination tool" means an algorithm for standardised examination of draft orders, by using suitable
+technological tools, including artificial intelligence and machine learning, with a view to reduce the scope of discretion;
+(vii)
+"Board" means Central Board of Direct Taxes constituted under the Central Board of Revenues Act, 1963 (
+54 of 1963
+);
+(viii)
+"computer resource" shall have the same meaning as assigned to them in clause (k) of sub-section (1) of section 2 of
+the Information Technology Act, 2000 (
+21 of 2000
+);
+(ix)
+"computer system" shall have the same meaning as assigned to them in clause (1) of sub-section (1) of section 2 of the
+Information Technology Act, 2000 (
+21 of 2000
+);
+(x)
+"computer resource of assessee" shall include assessee's registered account in designated portal of the Income-tax
+Department, the Mobile App linked to the registered mobile number of the assessee, or the email account of the
+assessee with his email service provider;
+(xi)
+"digital signature" shall have the same meaning as assigned to it in clause (p) of sub-section (1) of section 2 of the
+Information Technology Act, 2000 (
+21 of 2000
+);
+(xii)
+"designated portal" means the web portal designated as such by the Principal Chief Commissioner or Principal Director
+General, in charge of the National e-assessment Centre;
+(xiii)
+Page 2/9
+----- PAGE 3 -----
+E-assessment Scheme, 2019
+"e-assessment" means the assessment proceedings conducted electronically in 'e-Proceeding' facility through
+assessee's registered account in designated portal;
+(xiv)
+"electronic record" shall have the same meaning as assigned to it in clause (t) of sub-section (1) of section 2 of the
+Information Technology Act, 2000 (
+21 of 2000
+);
+(xv)
+"electronic signature" shall have the same meaning as assigned to it in clause (ta) of sub-section (1) of section 2 of the
+Information Technology Act, 2000 (
+21 of 2000
+);
+(xvi)
+"email" or "electronic mail" and "electronic mail message" means a message or information created or transmitted or
+received on a computer, computer system, computer resource or communication device including attachments in text,
+image, audio, video and any other electronic record, which may be transmitted with the message.;
+(xvii)
+"hash function" and "hash result" shall have the same meaning as assigned to them in the Explanation to sub-section (2)
+of section 3 of the Information Technology Act, 2000 (
+21 of 2000
+);
+(xviii)
+"Mobile app" shall mean the application software of the Income-tax Department developed for mobile devices which is
+downloaded and installed on the registered mobile number of the assessee;
+(xix)
+"originator" shall have the same meaning as assigned to it in clause (za) of sub-section (1) of section 2 of the
+Information Technology Act, 2000 (
+21 of 2000
+);
+(xx)
+"real time alert" means any communication sent to the assessee, by way of Short Messaging Service on his registered
+mobile number, or by way of update on his Mobile App, or by way of an email at his registered email address, so as to
+alert him regarding delivery of an electronic communication;
+(xxi)
+"registered account" of the assessee means the electronic filing account registered by the assessee in designated
+portal;
+(xxii)
+"registered e-mail address" means the e-mail address at which an electronic communication may be delivered or
+transmitted to the addressee, including?
+(a)
+the email address available in the electronic filing account of the addressee registered in designated portal; or
+(b)
+the e-mail address available in the last income-tax return furnished by the addressee; or
+(c)
+the e-mail address available in the Permanent Account Number database relating to the addressee; or
+(d)
+in the case of addressee being an individual who possesses the Aadhaar number, the e-mail address of addressee
+available in the database of Unique Identification Authority of India ;or
+(e)
+in the case of addressee being a company, the e-mail address of the company as available on the official website of
+Ministry of Corporate Affairs; or
+Page 3/9
+----- PAGE 4 -----
+E-assessment Scheme, 2019
+(f)
+any e-mail address made available by the addressee to the income-tax authority or any person authorised by such
+authority.
+(xxiii)
+"registered mobile number" of the assessee means the mobile number of the assessee, or his authorised representative,
+appearing in the user profile of the electronic filing account registered by the assessee in designated portal;
+(xxiv)
+"video telephony" means the technological solutions for the reception and transmission of audio-video signals by users
+at different locations, for communication between people in real-time.
+(2)
+Words and expressions used herein and not defined but defined in the Act shall have the meaning respectively assigned
+to them in the Act.
+3.
+Scope of the Scheme.
+- The assessment under this Scheme shall be made in respect of such territorial area, or persons or class of persons, or
+incomes or class of incomes, or cases or class of cases, as may be specified by the Board.
+4.
+E-assessment Centres.
+(1)
+For the purposes of this Scheme, the Board may set up?
+(i)
+a National e-assessment Centre to facilitate the conduct of e-assessment proceedings in a centralised manner, which
+shall be vested with the jurisdiction to make assessment in accordance with the provisions of this Scheme;
+(ii)
+Regional e-assessment Centres as it may deem necessary to facilitate the conduct of e-assessment proceedings in the
+cadre controlling region of a Principal Chief Commissioner, which shall be vested with the jurisdiction to make
+assessment in accordance with the provisions of this Scheme;
+(iii)
+assessment units, as it may deem necessary to facilitate the conduct of e-assessment, to perform the function of making
+assessment, which includes identification of points or issues material for the determination of any liability (including
+refund) under the Act, seeking information or clarification on points or issues so identified, analysis of the material
+furnished by the assessee or any other person, and such other functions as may be required for the purposes of making
+assessment;
+(iv)
+verification units, as it may deem necessary to facilitate the conduct of e-assessment, to perform the function of
+verification, which includes enquiry, cross verification, examination of books of accounts, examination of witnesses and
+recording of statements, and such other functions as may be required for the purposes of verification.
+(v)
+technical units, as it may deem necessary to facilitate the conduct of e-assessment, to perform the function of providing
+technical assistance which includes any assistance or advice on legal, accounting, forensic, information technology,
+valuation, transfer pricing, data analytics, management or any other technical matter which may be required in a
+particular case or a class of cases, under this Scheme; and
+(vi)
+review units, as it may deem necessary to facilitate the conduct of e-assessment, to perform the function of review of the
+draft assessment order, which includes checking whether the relevant and material evidence has been brought on
+record, whether the relevant points of fact and law have been duly incorporated in the draft order, whether the issues on
+which addition or disallowance should be made have been discussed in the draft order, whether the applicable judicial
+decisions have been considered and dealt with in the draft order, checking for arithmetical correctness of modifications
+proposed, if any, and such other functions as may be required for the purposes of review, and specify their respective
+jurisdiction.
+(2)
+Page 4/9
+----- PAGE 5 -----
+E-assessment Scheme, 2019
+All communication among the assessment unit, review unit, verification unit or technical unit or with the assesse or any
+other person with respect to the information or documents or evidence or any other details, as may be necessary for the
+purposes of making an assessment under this Scheme shall be through the National e-assessment Centre.
+(3)
+The units referred to in sub-paragraphs (iii), (iv), (v) and (vi) of paragraph (1) shall have the following authorities,
+namely:-
+(a)
+Additional Commissioner or Additional Director or Joint Commissioner or Joint Director, as the case may be;
+(b)
+Deputy Commissioner or Deputy Director or Assistant Commissioner or Assistant Director, or Income-tax Officer, as the
+case may be;
+(c)
+such other income-tax authority, ministerial staff, executive or consultant, as considered necessary by the Board.
+5.
+Procedure for assessment.
+(1)
+The assessment under this Scheme shall be made as per the following procedure, namely:-
+(i)
+the National e-Assessment Centre shall serve a notice on the assessee under sub-section (2) of section 143, specifying
+the issues for selection of his case for assessment;
+(ii)
+the assessee may, within fifteen days from the date of receipt of notice referred to in sub-clause (i), file his response to
+the National e-assessment Centre ;
+(iii)
+the National e-assessment Centre shall assign the case selected for the purposes of e-assessment under this Scheme
+to a specific assessment unit in any one Regional e-assessment Centre through an automated allocation system;
+(iv)
+where a case is assigned to the assessment unit, it may make a request to the National e-assessment Centre for
+(a)
+obtaining such further information, documents or evidence from the assesse or any other person, as it may specify;
+(b)
+conducting of certain enquiry or verification by verification unit; and
+(c)
+seeking technical assistance from the technical unit;
+(v)
+where a request for obtaining further information, documents or evidence from the assessee or any other person has
+been made by the assessment unit, the National e-assessment Centre shall issue appropriate notice or requisition to the
+assessee or any other person for obtaining the information, documents or evidence requisitioned by the assessment
+unit;
+(vi)
+where a request for conducting of certain enquiry or verification by the verification unit has been made by the
+assessment unit, the request shall be assigned by the National e-assessment Centre to a verification unit through an
+automated allocation system;
+(vii)
+where a request for seeking technical assistance from the technical unit has been made by the assessment unit, the
+request shall be assigned by the National e-assessment Centre to a technical unit in any one Regional e-assessment
+Centres through an automated allocation system;
+(viii)
+the assessment unit shall, after taking into account all the relevant material available on the record, make in writing, a
+draft assessment order either accepting the returned income of the assessee or modifying the returned income of the
+assesse, as the case may be, and send a copy of such order to the National e-assessment Centre;
+Page 5/9
+----- PAGE 6 -----
+E-assessment Scheme, 2019
+(ix)
+the assessment unit shall, while making draft assessment order, provide details of the penalty proceedings to be
+initiated therein, if any;
+(x)
+the National e-assessment Centre shall examine the draft assessment order in accordance with the risk management
+strategy specified by the Board, including by way of an automated examination tool, whereupon it may decide to -
+(a)
+finalise the assessment as per the draft assessment order and serve a copy of such order and notice for initiating
+penalty proceedings, if any, to the assessee, alongwith the demand notice, specifying the sum payable by, or refund of
+any amount due to, the assessee on the basis of such assessment; or
+(b)
+provide an opportunity to the assessee, in case a modification is proposed, by serving a notice calling upon him to show
+cause as to why the assessment should not be completed as per the draft assessment order; or
+(c)
+assign the draft assessment order to a review unit in any one Regional e-assessment Centre, through an automated
+allocation system, for conducting review of such order;
+(xi)
+the review unit shall conduct review of the draft assessment order, referred to it by the National e-assessment Centre
+whereupon it may decide to -
+(a)
+concur with the draft assessment order and intimate the National e-assessment Centre about such concurrence; or
+(b)
+suggest such modification, as it may deem fit, to the draft assessment order and send its suggestions to the National
+e-assessment Centre;
+(xii)
+the National e-assessment Centre shall, upon receiving concurrence of the review unit, follow the procedure laid down in
+sub-paragraph (a) or sub-paragraph (b) of paragraph (x), as the case may be;
+(xiii)
+the National e-assessment Centre shall, upon receiving suggestions for modifications from the review unit, communicate
+the same to the Assessment unit;
+(xiv)
+the assessment unit shall, after considering the modifications suggested by the Review unit, send the final draft
+assessment order to the National e-assessment Centre;
+(xv)
+The National e-assessment Centre shall, upon receiving final draft assessment order, follow the procedure laid down in
+sub-paragraph (a) or sub-paragraph (b) of paragraph (x),as the case may be;
+(xvi)
+The assessee may, in a case where show-cause notice under sub-paragraph (b) of paragraph (x) has been served upon
+him, furnish his response to the National e-assessment Centre on or before the date and time specified in the notice;
+(xvii)
+The National e-assessment Centre shall, -
+(a)
+in a case where no response to the show-cause notice is received, finalise the assessment as per the draft assessment
+order,as per the procedure laid down in sub-paragraph (a) of paragraph (x); or
+(b)
+in any other case, send the response received from the assessee to the assessment unit;
+(xviii)
+The assessment unit shall, after taking into account the response furnished by the assessee, make a revised draft
+assessment order and send it to the National e-assessment Centre;
+(xix)
+The National e-assessment Centre shall, upon receiving the revised draft assessment order, -
+Page 6/9
+----- PAGE 7 -----
+E-assessment Scheme, 2019
+(a)
+in case no modification prejudicial to the interest of the assessee is proposed with reference to the draft assessment
+order, finalise the assessment as per the procedure laid down in sub-paragraph (a) of paragraph (x); or
+(b)
+in case a modification prejudicial to the interest of the assessee is proposed with reference to the draft assessment
+order,provide an opportunity to the assessee, as per the procedure laid down in subparagraph (b) of paragraph (x);
+(c)
+the response furnished by the assessee shall be dealt with as per the procedure laid down in paragraphs (xvi),(xvii), and
+(xviii);
+(xx)
+The National e-assessment Centre shall, after completion of assessment, transfer all the electronic records of the case
+to the Assessing Officer having jurisdiction over such case., for -
+(a)
+imposition of penalty;
+(b)
+collection and recovery of demand;
+(c)
+rectification of mistake;
+(d)
+giving effect to appellate orders;
+(e)
+submission of remand report, or any other report to be furnished, or any representation to be made, or any record to be
+produced before the Commissioner (Appeals), Appellate Tribunal or Courts, as the case may be;
+(f)
+proposal seeking sanction for launch of prosecution and filing of complaint before the Court; Notwithstanding anything
+contained in paragraph (xx), the National e-assessment Centre may at any stage of the assessment, if considered
+necessary, transfer the case to the Assessing Officer having jurisdiction over such case.
+6.
+Penalty proceedings for non-compliance.
+(1)
+Any unit may, in the course of assessment proceedings, for noncompliance of any notice, direction or order issued
+under this Scheme on the part of the assessee or any other person, send recommendation for initiation of any penalty
+proceedings under Chapter XXI of the Act, against such assesse or any other person, as the case may be, to the
+National e-assessment Centre, if it considers necessary or expedient to do so.
+(2)
+The National e-assessment Centre shall, on receipt of such recommendation, serve a notice on the assessee or any
+other person, as the case may be, calling upon him to show cause as to why penalty should not be imposed on him
+under the relevant provisions of the Act.
+(3)
+The response to show - cause notice furnished by the assessee or any other person, if any, shall be sent by the National
+e-assessment Centre to the concerned unit which has made the recommendation for penalty.
+(4)
+The said unit shall, after taking into consideration the response furnished by the assesse or any other person, as the
+case may be, -
+(a)
+make a draft order of penalty and send a copy of such draft to National e-assessment Centre; or
+(b)
+drop the penalty after recording reasons, under intimation to the National e-assessment Centre.
+(5)
+The National e-assessment Centre shall levy the penalty as per the said draft order of penalty and serve a copy of the
+same on the assessee or any other person, as the case may be.
+Page 7/9
+----- PAGE 8 -----
+E-assessment Scheme, 2019
+7.
+Appellate Proceedings.
+- An appeal against an assessment made by the National e-assessment Centre under this Scheme shall lie before the
+Commissioner (Appeals) having jurisdiction over the jurisdictional Assessing Officer and any reference to the
+Commissioner (Appeals) in any communication from the National e-assessment Centre shall mean such jurisdictional
+Commissioner (Appeals).
+8.
+Exchange of communication exclusively by electronic mode.
+- For the purposes of this Scheme,-
+(a)
+all communications between the National e-assessment Centre and the assessee, or his authorised representative, shall
+be exchanged exclusively by electronic mode; and
+(b)
+all internal communications between the National e-assessment Centre, Regional e-assessment Centres and various
+units shall be exchanged exclusively by electronic mode.
+9.
+Authentication of electronic record.
+- For the purposes of this Scheme, an electronic record shall be authenticated by the originator by affixing his digital
+signature in accordance with the provisions of sub-section (2) of section 3 of the Information Technology Act, 2000 (
+21 of 2000
+):
+Provided that in case of the originator, being the assesse or any other person, such authentication may also be done by
+electronic signature or electronic authentication technique in accordance with the provisions of sub-section (2) of section
+3A of the said Act:
+10.
+Delivery of electronic record.
+(1)
+Every notice or order or any other electronic communication under this Scheme shall be delivered to the addressee,
+being the assessee, by way of?
+(a)
+placing an authenticated copy thereof in the assessee's registered account; or
+(b)
+sending an authenticated copy thereof to the registered email address of the assessee or his authorised representative;
+or
+(c)
+uploading an authenticated copy on the assessee's Mobile App; and followed by a real time alert.
+(2)
+Every notice or order or any other electronic communication under this Scheme shall be delivered to the addressee,
+being any other person, by sending an authenticated copy thereof to the registered email address of such person,
+followed by a real time alert.
+(3)
+The Assessee shall file his response to any notice or order or any other electronic communication, under this Scheme,
+through his registered account, and once an acknowledgement is sent by the National e-assessment Centre containing
+the hash result generated upon successful submission of response, the response shall be deemed to be authenticated.
+(4)
+The time and place of dispatch and receipt of electronic record shall be determined in accordance with the provisions of
+section 13 of the Information Technology Act, 2000 (
+21 of 2000
+).
+11.
+No personal appearance in the Centres or Units.
+Page 8/9
+----- PAGE 9 -----
+E-assessment Scheme, 2019
+(1)
+A person shall not be required to appear either personally or through authorised representative in connection with any
+proceedings under this Scheme before the income-tax authority at the National e-assessment Centre or Regional
+e-assessment Centre or any unit set up under this Scheme.
+(2)
+In a case where a modification is proposed in the draft assessment order, and an opportunity is provided to the
+assessee by serving a notice calling upon him to show-cause as to why the assessment should not be completed as per
+the such draft assessment order, the assessee or his authorised representative, as the case may be, shall be entitled to
+seek personal hearing so as to make his oral submissions or present his case before the income-tax authority in any unit
+under this Scheme, and such hearing shall be conducted exclusively through video conferencing, including use of any
+telecommunication application software which supports video telephony, in accordance with the procedure laid down by
+the Board.
+(3)
+Any examination or recording of the statement of the assessee or any other person (other than statement recorded in
+the course of survey under section 133A of the Act) shall be conducted by an income-tax authority in any unit under this
+Scheme, exclusively through video conferencing, including use of any telecommunication application software which
+supports video telephony in accordance with the procedure laid down by the Board.
+(4)
+The Board shall establish suitable facilities for video conferencing including telecommunication application software
+which supports video telephony at such locations as may be necessary, so as to ensure that the assessee, or his
+authorised representative, or any other person referred to in sub-paragraph (2) or sub-paragraph (3) is not denied the
+benefit of this Scheme merely on the consideration that such assessee or his authorised representative, or any other
+person does not have access to video conferencing at his end.
+12.
+Power to specify format, mode, procedure and processes.
+(1)
+The Principal Chief Commissioner or the Principal Director General, in charge of the National e-assessment Centre shall
+lay down the standards, procedures and processes for effective functioning of the National e-assessment Centre ,
+Regional e-assessment Centres and the unit set-up under this Scheme, in an automated and mechanised environment,
+including format, mode, procedure and processes in respect of the following, namely:-
+(i)
+service of the notice, order or any other communication;
+(ii)
+receipt of any information or documents from the person in response to the notice, order or any other communication;
+(iii)
+issue of acknowledgment of the response furnished by the person;
+(iv)
+provision of "e-proceeding" facility including login account facility, tracking status of assessment, display of relevant
+details, and facility of download;
+(v)
+accessing, verification and authentication of information and response including documents submitted during the
+assessment proceedings;
+(vi)
+receipt, storage and retrieval of information or documents in a centralised manner;
+(vii)
+general administration and grievance redressal mechanism in the respective Centres and units.
+Related AI tags, queries and research notes
+Translation
+Page 9/9

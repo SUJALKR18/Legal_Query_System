@@ -1,0 +1,639 @@
+
+----- PAGE 1 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+The Petroleum and Natural Gas Regulatory Board (Determining
+Capacity of Petroleum, Petroleum Products and Natural Gas Pipeline)
+Regulations, 2010
+Source: https://indiankanoon.org/doc/29159807/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petroleum Products and Natural
+Gas Pipeline) Regulations, 2010
+UNION OF INDIA
+India
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petroleum Products and Natural
+Gas Pipeline) Regulations, 2010
+Rule
+THE-PETROLEUM-AND-NATURAL-GAS-REGULATORY-BOARD-DETERMINING-CAPACITY-OF-PETROLEUM-PET
+ROLEUM-PRODUCTS-AND-NATURAL-GAS-PIPELINE-REGULATIONS-2010 of 2010
+Published on 7 June 2010
+Commenced on 7 June 2010
+[This is the version of this document from 7 June 2010.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petroleum Products and Natural
+Gas Pipeline) Regulations, 2010
+Published vide Notification New Delhi, the 7th June, 2010
+Page 1/12
+----- PAGE 2 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+Petroleum And Natural gas Regulatory Board
+G.S.R. 476(E). - In exercise of the powers conferred by Section 61 of the Petroleum and Natural Gas Regulatory Act,
+2006 (
+19 of 2006
+), the Petroleum and Natural Gas Regulatory Board hereby makes the following regulations, namely :-
+1.
+Short title and Commencement.
+(1)
+These regulations may be called the Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum,
+Petroleum Products and Natural Gas Pipeline) Regulations, 2010.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the content otherwise requires,-
+(a)
+"Act" means the Petroleum and Natural Gas Regulatory Board Act, 2006;
+(b)
+"appointed day" means the date, of October 1, 2007 when the Central Government notified the establishment of the
+Petroleum and Natural Gas Regulatory Board;
+(c)
+"Board" means the Petroleum and Natural Gas Regulatory Board established under sub-section (1) of section 3 of the
+Act;
+(d)
+"capacity assessment group" means a group comprising representatives of two transporters other than the entity of
+which the pipeline system capacity is to be certified and a representative of the Board, as decided by the Board on case
+to case basis or any agency or entity or authorized person or any approved third party authorized by the Board for
+determining the capacity of the petroleum, petroleum products and natural gas pipeline;
+(e)
+"critical customer" means a customer whose withdrawal conditions in the pipeline system could affect the capacity of the
+pipeline;
+(f)
+"extension of pipeline" means increase in length of pipelines, in either direction for transportation of natural gas from an
+existing transmission or trunk pipeline or sub-transmission pipeline or spur line to another geographical location with
+increase in authorized capacity of the pipeline;
+(g)
+"expansion of pipeline" means increase in the capacity of existing pipeline beyond its previously authorized capacity due
+to installation of additional facilities such as compression facilities, addition of compressor stations or loop lines or
+extension to new sources of gas to tap additional volumes etc. Expansion of pipeline may also include extension of the
+existing pipeline in either, direction as long as it increases the capacity of the pipeline and in that case it may be treated
+as expansion of the pipeline not extension;
+(h)
+"marginally higher pressure" means an entry point pressure at any intermediate location in the pipeline system which is
+higher than the system pressure that location so that flow from new source can commence without disturbing, existing
+upstream conditions in the pipeline system;
+(i)
+"Natural Gas Pipeline" means the pipeline as defined under the Petroleum and Natural Gas Regulatory Board
+(Authorizing Entities to Lay, Build, Operate or Expand Natural Gas Pipelines) Regulations, 2008;
+(j)
+"petroleum, petroleum products pipeline" means any pipeline includ1rig a branch or spur line for transport of petroleum,
+Page 2/12
+----- PAGE 3 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+petroleum products and includes all connected infrastructure such as pumps, metering units storage facilities at
+originating, delivery, tap off points, terminal station and the like connected to the common carriers or contract carriers
+including line balancing tanks and tankage required for unabsorbed interface essential for operating a pipeline, system
+but excluding pipelines:
+which are dedicated for supply of petroleum products to a specific consumer which are not for resale;
+Provided that the transporter may own, hire, outsource or use on hospitability basis such connected facilities on non
+discriminatory basis;
+Provided further for the purpose of capacity determination, these regulations shall apply to all petroleum, petroleum
+products, pipelines including dedicated  pipelines;
+(k)
+"capacity for the pipeline system" means the maximum quantity of petroleum, petroleum products or natural gas that can
+be injected into the system or off taken from the system at Specific points, meeting all the technical and operational
+parameters fixed in each pipeline section in a steady state conditions, that is, all parameters like flow, pressure,
+temperature are in harmony and vary only along the length of pipeline but not with time;
+(l)
+"declared capacity of pipeline" means the volume of natural gas in MMSCMD (million standard cubic meters per day)
+that a pipeline is capable of transporting under the steady state operating conditions. For liquid pipeline the declared
+capacity of pipeline shall be the quantity of petroleum, petroleum products in MMTPA (million tones per annum), the
+pipeline is capable of transporting under the operating steady state conditions. Provided that the capacity has been
+determined based on the approved flow equation and the selected software package;
+(m)
+"section" means a portion of pipeline between any entry point to any exit point or any other entry point in the direction of
+flow. Provided the computation of successive section shall start from second entry point and so on;
+(n)
+"selected software package" means the software package used by the entity for determination of capacity of the pipeline
+system or the pipeline section;
+(o)
+"spur-line" means a pipeline necessarily originating or branching out from the trunk or transmission pipeline or
+Sub-transmission line or another spur line or from a terminal station on the existing transmission or trunk pipeline with
+diameter and capacity not greater than the trunk or transmission pipeline but having no compression facility for supply of
+natural gas to one or more consumers. Any pipeline having a separate gas source or a compressor shall not be treated
+as a spur-line. The length of Spur line may not depend upon the length of the trunk pipeline. A spur-line must use the
+capacity of trunk pipeline in order to transport gas. Spur line includes branch line also;
+(p)
+"section capacity" means the capacity of a particular section of the pipeline which contains a supply-source or a delivery
+source or both. In other words, the section capacity is the maximum flow that could be handled by the specific section
+without disturbing the connected supply or delivery condition of the shippers;
+(q)
+"steady state condition" means calculation carried out based on time-invariant pressure, temperature and flow profiles
+throughout a pipeline using specified boundary conditions. In other words, the steady-state run calculates the hydraulic
+state of a pipeline system operating at equilibrium with input and output balance;
+(2)
+Words and expressions used and not defined in these regulations, but defined in the Act or in the rules or regulations
+made thereunder, shall have the meanings respectively assigned to them in the Act or in the rules or regulations, as the
+case maybe.
+3.
+Applicability.
+(1)
+These regulations shall apply to an entity :-
+(a)
+which is laying, building, operating or expanding or which proposes to lay, build, operate or expand a petroleum,
+Page 3/12
+----- PAGE 4 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+petroleum products and natural gas pipeline;
+(b)
+which proposes to lay a dedicated pipeline or is directed by the Board to convert a dedicated pipeline for supply of
+petroleum, petroleum products and natural gas into a common or contract carrier petroleum, petroleum products and
+natural gas pipeline; or
+(c)
+which proposes extension or expansion of pipeline resulting into increase in capacity of the petroleum, petroleum
+products and natural gas pipeline.
+(2)
+These regulations cover the procedure, parameters both constant and variable and frequency of declaration of pipeline
+capacity in MMSCMD for Natural Gas pipeline or in MMTPA for petroleum and petroleum products pipeline.
+4.
+Intent.
+(1)
+It is intended to apply these regulations to all new and existing petroleum, petroleum products and natural gas pipelines
+including dedicated pipelines for the purpose of declaration of capacity of the pipeline under steady state conditions.
+(2)
+The capacity of the petroleum, petroleum products and natural gas pipeline so determined shall be used for-
+(a)
+declaring pipeline as common carrier or contract carrier under the relevant regulation on declaring pipeline as common
+carrier or contract carrier;
+(b)
+determining the tariff for petroleum, petroleum products and natural gas pipeline as per the methodology or formulae
+defined under relevant regulations.
+(3)
+The capacity of the petroleum, petroleum products and natural gas pipeline so determined shall be used for providing
+access to available capacity on non discriminatory basis under the relevant regulations on access code.
+5.
+Determining capacity of a Petroleum, Petroleum Products and Natural Gas Pipeline.
+(1)
+The determination of capacity for the pipeline system and for each section of the petroleum, petroleum products and
+natural gas pipeline shall be based on selected software package and flow equation approved by the Board under this
+regulation. It is not necessary for the entities to buy and, install any specific software package. As long as the software
+supports the flow equation approved by the Board, the entities may continue to use or operate the system based on the
+previously installed software but shall have to determine the capacity of the system based on the flow equation
+approved by the Board in any of the compatible software package for the purpose of these regulations.
+(2)
+The entity while submitting the capacity of the pipeline system the Board shall furnish a declaration that the capacity has
+been calculated using the approved flow equation. The entity shall also submit the detailed calculations of the capacity
+and the software used for the purpose within thirty days of the notification of these regulations and thereafter as per the
+periodicity for determining capacity of a Petroleum, Petroleum Products and Natural Gas pipeline defined in regulation 7
+of these regulations.
+(3)
+The parameters for the steady state simulation for determining the pipeline capacity shall be considered as given below
+namely:-
+(a)
+Constant parameters in the unit as specified in the approved flow equation as per sub-clause (v) of this clause.
+(i)
+Internal diameter - The internal diameter shall be determined based on weighted average of internal diameters based on
+different pipe thicknesses, used in different sections in the pipeline system.
+(ii)
+Page 4/12
+----- PAGE 5 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+Length - The actual length (for already installed pipeline) or proposed length (for yet to be installed pipeline) of the pipe
+in the pipeline system.
+(iii)
+Roughness - This is fixed value for a pipe which determines the unevenness inside a pipe. Depending on the pipe
+material the below given value for roughness factors, all be used:
+Type of Material
+Roughness (micron)
+Steel- New Pipe
+- With internal coating
+10-15
+- Without internal coating
+35-40
+Steel - old Pipe (more than ten years)
+- With internal coating
+15-20
+- Without internal coating
+40-45
+For old pipelines already operating, roughness factor shall be determined by duly calibrating actual field data in the
+approved flow equation. These factors shall be assessed by the capacity assessment group. For new pipelines,
+roughness factor used shall be decided keeping in view the operating conditions and pipeline feature like bends, valves,
+or any other restrictions present in the system:
+Provided that the entity shall declare in advance the roughness factor considered for the pipes with relevant operating
+data to support the value chosen in case it is different from the above values.
+(iv)
+Efficiency factor - Efficiency factor within the range of 0.85 to 1.0 shall be used. For old pipelines already operating,
+efficiency factor shall be determined by duly calibrating actual field data in the approved flow equation. These factors
+shall be assessed by the capacity assessment group. For new pipelines efficiency factor used shall be decided keeping
+in view the operating conditions and pipeline feature like, bends, valves, life of pipeline or any other restrictions present
+in the system:
+Provided that the entity shall declare in advance, the efficiency factor considered for the pipes with relevant operating
+data to support the value chosen in case it is different from the above values giving complete analysis. The Board may
+direct the entity to improve upon such design.
+(v)
+Formula - For determination of friction factor in the pipeline the following flow equation shall be used;
+Type of Pipeline
+Name of Flow equation
+Natural Gas
+Panhandle Modified
+Panhandle A for Pipe size ?24"
+Panhandle B for Pipe size > 24"
+Petroleum and Petroleum Products
+Colebrook White
+Explanation: For the determination of capacity of petroleum and petroleum products pipelines, the roughness factor shall
+be used. For natural gas pipelines, the efficiency factor shall be used.
+(vi)
+Velocity - The maximum allowable velocity of natural gas or petroleum product in the pipeline shall be 20 m/sec in case
+of natural gas pipeline and 2 m/sec in case of petroleum product pipelines or as per relevant regulations on Technical
+Standards and Specifications including Safety Standards whichever is lower, if specified.
+(vii)
+STP - The pipeline capacity shall be determined at the designed MAOP or de-rated MAOP due to any condition, for the
+petroleum, petroleum products or natural gas pipelines and with the following standard Pressure and Temperature:
+Page 5/12
+----- PAGE 6 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+Standard pressure
+:
+1.01325 bar
+Standard temperature
+:
+15°C
+(b)
+Variable parameters - (i) Operating temperature - This is the actual temperature that a pipe is exposed to throughout the
+year. This temperature will be considered, for the purpose of determining capacity, as per the table below:
+Country Region
+Temperature (°C)
+Winter
+Summer
+Tropical area such as North and North West India
+20
+30
+Rest of India
+30
+30
+(ii)
+Inlet temperature - This is the inlet temperature of the petroleum, petroleum products and natural gas from the source
+into the pipeline.
+(iii)
+Outlet temperature - This is the outlet temperature, of the petroleum, petroleum products and natural gas at the delivery
+point.
+(iv)
+Inlet pressure - The maximum pressure that is available at the entry point to the pipeline system.
+(v)
+Outlet pressure - The minimum pressure that is required by the customer at the delivery or exit point as per access
+arrangement entered into by the shipper and the transporter.
+(vi)
+Source Supply flow - This is the maximum flow that can be available from the source.
+(vii)
+Delivery flow - This is the maximum flow that is required by the customer at the exit point as per access arrangement
+entered into by the shipper and the transporter.
+(viii)
+Elevation difference - Depending on the terrain of the ground profile, this factor will be considered from the mean sea
+level of the area.
+(ix)
+Gas composition - The gas composition indicating all components totaling 100% by volume is to be given with the level
+of impurities as per Schedule II of the Petroleum and Natural Gas Regulatory Board (Access Code for common or
+contract carrier Natural Gas Pipelines) Regulations, 2009. From this, necessary input to the flow equation shall be
+worked out.
+In case of more than one source, the weighted average composition of comingled natural gas beyond the second source
+of entry point shall be considered. Notwithstanding interdependency of various parameters, the gas parameters as
+described in Schedule of regulations of Access Code shall be declared before hand with reference to gas properties.
+(x)
+In case of natural gas pipeline, the gas quality at exit point shall be as per the Petroleum and Natural Gas Regulatory
+Board (Access Code for common or contract carrier Natural Gas Pipelines) Regulations, 2008. In case of petroleum
+products the entry point parameters shall be such that the deliveries of products at delivery point or tap off point or exit
+points shall be as per the prevalent BIS specifications applicable.
+Page 6/12
+----- PAGE 7 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+(4)
+All entities shall declare to the Board the constant parameters and the variable parameters for the pipeline:-
+(i)
+On first working day of April and first working day of October every year; or
+(ii)
+Whenever there is any addition or deletion of the supply source of petroleum, petroleum products or natural gas.
+The entities shall also provide on first working day of October and first working day of April every year the hydraulic
+gradient and system flow diagram for the pipeline.
+(5)
+The methodology for calculation of pipeline capacity shall be as under:
+(a)
+Natural Gas Pipelines: - (i) The entire pipeline system shall be configured in the selected software package operating
+offline. The steady state condition of the pipeline hydraulics with contractual flow parameters (pressure, temperature and
+flow) at entry and exit points shall be simulated in the selected software package.
+(ii)
+At the originating point and at intermediate points in the direction of flow, set the pressure as a fixed parameter
+corresponding to the maximum allowable operating pressure (MAOP) or available compression facilities and compute
+the maximum pressure at all exit points with contractual flow.
+(iii)
+Thereafter, assuming gas at the entry point (single source of gas) is unlimited, the selected software will be run till any
+customer connected to the system reaches limiting condition of pressure required at the respective exit point or
+maximum flow capacity is reached at entry or intermediate compressor stations (if installed in the system) or the velocity
+of natural gas reaches limiting value as defined in these regulations. The capacity at this juncture would be the
+maximum system capacity achievable in the pipeline system and the customer at the exit point where pressure becomes
+limiting shall be the critical customer.
+(iv)
+Now simulate the flow from any other source considering the entry should take place at the pressure marginally higher
+than the available at that section. The exercise carried above shall be repeated to get threshold pressure limit at any
+location to calculate the flow exiting from each point in the entire pipeline system and the sum total of these flows shall
+be the pipeline capacity as determine by the approved flow equation and selected software. This would be the system
+capacity for multi source pipeline system.
+(v)
+The section wise capacity of the pipeline system shall be computed between an entry point and exit points. In case of
+multi entry, the section wise capacity may also be determined taking into account flow from each of the input points.
+Thus the first section is from first entry point to first exit point and second section shall be from first entry point to second
+exit point and another section and so on. This exercise shall be repeated for each of the entry point. However, in a real
+time working, the effect of each source will have to be workout on the pipeline capacity and the flow parameters at
+intermediate points shall not be allowed to reduce the system or section capacity. The procedure mentioned above shall
+be applicable for determining the capacity of specific section of the pipeline.
+(vi)
+In a real time model of pipeline system, the flow at specific entry point shall be the actual available flow from that source.
+The gas supply from various sources at entry points and delivery at exit points shall be scheduled to optimize the
+pipeline system capacity.
+(vii)
+The obligatory or contractual requirement of pressure at any exit point shall determine the possible capacity within a
+particular section serving that exit points. Provided further that maintainability of a particular steady state hydraulics
+condition at any exit point shall be mutually determined between capacity determining authority and the transporter
+within the flexibility available in the system. The section wise capacity thus calculated with single or multiple entry and
+exit points shall be run with the approved flow equation and selected software package offline in the steady state
+operation of the system to arrive at capacities of various sections.
+(viii)
+Page 7/12
+----- PAGE 8 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+This exercise shall be continued for computing section wise capacity of the pipeline system including the spur lines. In
+case of spur lines the tap off point shall be designated as the source point or entry point for spur line and computable (to
+be fed to the flow computing formula) or contractual hydraulics shall be allowable pressure at that point after accounting
+for the pressure drop from the tap off point to the consumer point of the spur line or branch line.
+(ix)
+For determining, de-rated MAOP of an existing pipeline, results based on the Instrumented pig survey shall be
+considered to calculate de-rating factor. In absence of results of the intelligent pig survey (IPS) in any pipeline, hydro
+testing shall be carried out to establish MAOP of that pipeline, as per provisions in the relevant regulations on Technical
+Standard and Specifications including Safety Standards. Provided that in absence of hydro testing the entity may put up
+proposal for de-rating based on random thickness survey of the pipeline. Board reserves the right to check such survey
+data.
+(x)
+The entity shall submit the details of maximum achievable system capacity and section wise capacity of the natural gas
+pipeline so determined, under the steady state simulation with the details of variable or constant parameters, to the
+Board in the specified format at Schedule A along with the hydraulic gradient and system flow diagram for the pipeline
+system including compressor stations, metering and regulating stations as applicable.
+(b)
+Petroleum Product Pipelines: - (i) In a multi product pipeline, the maximum achievable capacity shall be determined
+based on the characteristics of High Speed Diesel (HSD) whereas for pipelines dedicated for transportation of single
+product like LPG, Naphtha or ATF etc, characteristics of that product only shall be considered.
+(ii)
+The entire pipeline system shall be configured in the selected software package operating offline. The steady state of
+hydraulics of the pipeline shall be entered into the system.
+(iii)
+At the originating point and at intermediate points in the direction of flow set the pressure as a fixed parameter
+corresponding to maximum allowable operating pressure (MAOP) or pumping facilities available at these locations, as
+the case may be, and compute the maximum possible flow in the pipeline system. This shall be the capacity of the
+pipeline system under prevailing, facilities and conditions.
+(iv)
+Thereafter, assuming products at the entry points as unlimited, the Station Discharge Head (SDH) at the pump station
+equal to Maximum Allowable Operating Pressure (MAOP) of the pipeline, the entire pipeline system shall be configured
+in the selected software package operating offline. The steady state of hydraulics of the pipeline shall be entered into the
+system for computing the maximum achievable flow in the pipeline system using the selected software and approved
+flow equation.
+(v)
+At the first and subsequent withdrawal points in the direction of flow getting the required pressure or SDH as a fixed
+parameter, the maximum, possible flow within that section shall be computed based on, the methodology specified
+above. Similarly, the possible volume flow shall-be calculated from, section to section and tabulated up to the last exit
+point taking into account, the quantity available from other injection points.
+(vi)
+If the capacity of a Pipeline have been downgraded or decreased due to de-rating of the MAOP of the pipeline due to
+factors like metal loss, the de-rated capacity of such pipelines shall be determined considering results of Instrumented
+pig survey. In the absence of results of IPS in any pipeline, hydro testing shall be carried out to establish MAOP of that
+pipeline as per provisions in the relevant regulations on Technical Standard and Specifications including Safety
+Standards. Provided that in absence of hydro testing the entity may put up proposal for de-rating based on random
+thickness survey of the pipeline. Board reserves the right to check such survey data.
+(vii)
+The requirement of a pressure or SDH at any exit point shall determine the possible capacity within a particular section
+serving that exit points. Provided further that maintainability of a particular hydraulics condition at any exit point shall be
+mutually determined between capacity determining authority and the transporter within the flexibility available in the
+system. The section wise capacity thus calculated with single or multiple entry and exit points shall be run with the
+Page 8/12
+----- PAGE 9 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+selected software package offline in the steady state operation of the system to arrive at capacities of various sections.
+(viii)
+The entity shall submit the maximum achievable pipeline capacity as well as section wise capacity of the product
+pipeline so determined, under the steady state simulation with the details of variable or constant parameters, to the
+Board in the specified format at Schedule B along with the hydraulic gradient and system flow diagram for the pipeline
+system.
+(c)
+In case the contractual pressure at any entry and exit point is within a band, the arithmetic mean rounded upto first
+decimal point shall be considered.
+(d)
+The annual capacity of pipeline system and sections shall be as per the operation days specified in the Access Code for
+respective system.
+6.
+Declaring capacity of Petroleum, Petroleum Products and Natural Gas Pipeline by the Board.
+(a)
+The Board, after having satisfied with the data submitted by the entity regarding capacity of the pipeline, shall decide-
+(i)
+to reject the capacity so determined, and direct the entity to revise the capacity calculations based on the revised
+parameters; or
+(ii)
+to go ahead with the proposal with or without modification;
+(b)
+The capacity so determined shall be declared by the Board as the declared capacity of pipeline system and specific
+sections and the same shall be available to the shippers or consumers. The Board shall declare the section wise
+capacity of the system in the format specified at Schedule C.
+(c)
+The entity, after declaring the pipeline capacity and section wise capacities by the Board, shall publish the same in line
+with the provisions of the relevant regulations on the Access Code for such pipeline as and when notified, on their
+website.
+7.
+Periodicity for determining capacity of a Petroleum, Petroleum Products and Natural Gas pipeline.
+- (i) The capacity of a pipeline shall be determined on first working day of April every year or whenever;
+(a)
+there is a major change in the injected quantity or off taken quantity of petroleum, petroleum products and natural gas;
+(b)
+contract carrier quantity period expires;
+(c)
+there is a change of plus or minus ten percent in gas composition or product quality or in other operating parameters
+from the operating conditions of the pipeline system within the parameters defined under the relevant regulations on the
+access code as and when notified;
+(d)
+there is addition or deletion of entry or exit point; or
+(e)
+there is addition or deletion of facilities for example, compressor or pumping station, loop lines or any other facility;
+(ii)
+The entity shall submit the details of the so re-determined capacity of the pipeline to the Board in line with the provisions
+of these regulations for the purpose of declaration of capacity.
+8.
+Provisions relating to dedicated pipelines for transport of Petroleum, Petroleum Products and Natural Gas.
+(1)
+In respect of existing dedicated pipelines, the following provisions shall apply, namely:-
+Page 9/12
+----- PAGE 10 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+(a)
+entity having dedicated pipeline to transport petroleum, petroleum products and natural gas to a specific customer and
+which is not for resale before the appointed day shall submit details of the pipeline capacity as determined based on the
+provisions of these regulations to the Board within thirty days of notification of these regulations;
+(b)
+the Board may, based on the examination of the information received, declare the capacity of such pipeline as capacity
+of dedicated pipeline.
+9.
+Miscellaneous.
+(1)
+If any dispute arises with regards to the interpretation of any of the provisions of these regulations, the decision of the
+Board shall be final;
+(2)
+The Board may, either suo moto or on a complaint, refer the issue of determination of the capacity in a pipeline, to any
+external consultant or expert. Cost in this regard shall be borne by the entity or the complainant or as deemed fit by the
+Board on a case specific basis. However, the recommendation of the consultant or expert shall be advisory in nature to
+the Board arid shall not be binding.
+(3)
+The Board may validate the computed capacity with actual capacity as per the flow regime of the pipeline with actual
+flow conditions as and when desired.
+A
+[see regulation 5(5)(a)(x)]
+Format for furnishing information regarding determining capacity of Natural Gas Pipeline
+1
+Name of Entity
+2
+Address & Contact details of Entity
+3
+Name of Petroleum and Petroleum Products Pipeline
+4
+Name of Software package used
+5
+Approved Flow equation used (mention name of flow
+equation)
+6
+Details of injection/entry point and
+delivery/exit points and sections on the pipeline
+7
+Composition of natural gas
+8
+Entity agrees to have considered the Technical
+standards, specifications and safety standards as specified by
+the Board
+Yes/ No
+9.
+Entity agrees to have considered the relevant
+provisions of Petroleum and Natural Gas Regulatory Board
+Regulations
+Yes/ No
+10
+Constant and variable parameters used under
+Page 10/12
+----- PAGE 11 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+steady state conditions for determining capacity of the pipeline
+11
+Capacity of the pipeline under existing operating
+conditions
+12
+Maximum achievable Capacity of the pipeline under
+steady state conditions as determined under section 5 of these
+regulations
+13
+Section wise maximum achievable capacity of the
+pipeline as determined under section 5 of these regulations
+14
+Expected addition of, entry points and exit
+points scheduled in near future
+Note: Submit the system flow diagram & hydraulic gradient
+B
+[see regulation 5(5)(b)(viii)]
+Format for furnishing information regarding determining capacity of Petroleum and Petroleum Products Pipeline
+1
+Name of Entity
+2
+Address and Contact details of Entity
+3
+Name of Petroleum and Petroleum Products Pipeline
+4
+Name of Software package used for determining
+capacity
+5
+Approved Flow equation used (mention name of flow
+equation)
+6
+details of injection/entry point and
+delivery/exit points and sections on the pipeline
+7
+Quality of various products being transported in
+the pipeline
+8
+Constant and variable parameters used under
+steady state conditions for determining capacity of the pipeline
+9
+Entity agrees to have considered the relevant
+provisions of Petroleum and Natural Gas Regulatory Board
+Regulation
+Yes/No
+10
+Entity agrees to have considered the Technical
+standards specifications and safety standards as specified by the
+Board
+Yes/No
+11
+Quality specification considered the relevant for
+Page 11/12
+----- PAGE 12 -----
+The Petroleum and Natural Gas Regulatory Board (Determining Capacity of Petroleum, Petrole...
+the purpose of capacity determination
+12
+Capacity of the pipeline under existing operating
+condition
+13
+Maximum achievable Capacity of the pipeline under
+steady state conditions as determined under section 5 of these
+regulations
+14
+Section wise maximum achievable capacity of the
+pipeline as determined under section 5 of these regulations
+Expected addition of entry points and exit points
+scheduled in near future
+Note: Submit the system flow diagram & hydraulic gradient
+C
+[See regulation 6(b)]
+Format for declaring capacity of Petroleum, Petroleum, Petroleum Products and Natural Gas Pipeline by the Petroleum
+and Natural Gas Regulatory Board
+Date of declaration of capacity by the Board:....................................
+1
+Name of Entity
+2
+Address and Contact details of entity
+3
+Name of Pipeline
+4
+Details of injection/entry point and
+delivery/exit points and sections on the pipeline
+5
+Name of the software package used by the entity
+6
+Flow equation used for the purpose
+7
+Product Quality specifications/gas Parameters
+Considered for the purpose of Capacity determination
+8
+Maximum achievable capacity of the pipeline under
+steady state conditions
+9
+Section wise maximum achievable capacity of the
+pipeline
+Dated:
+Secretary
+Petroleum and Natural Gas Regulatory Board
+Related AI tags, queries and research notes
+Translation
+Page 12/12

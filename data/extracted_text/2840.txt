@@ -1,0 +1,949 @@
+
+----- PAGE 1 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+Pension Fund Regulatory and Development Authority (Trustee Bank)
+Regulations, 2015
+Source: https://indiankanoon.org/doc/189833884/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+UNION OF INDIA
+India
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+Rule PENSION-FUND-REGULATORY-AND-DEVELOPMENT-AUTHORITY-TRUSTEE-BANK-REGULATIONS-2015 of
+2015
+Published on 23 March 2015
+Commenced on 23 March 2015
+[This is the version of this document from 23 March 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+Published vide Notification No. PFRDA/12/RGL/139/6, dated 23.3.2015
+Last Updated 21st February, 2019
+No. PFRDA/12/RGL/139/6. - In exercise of the powers conferred by sub-section (1) of Section 52 read with clauses (e),
+(l), (n), (o) and (p) of sub-section (2) thereof of the Pension Fund Regulatory and Development Authority Act, 2013 (
+23 of 2013
+), the Pension Fund Regulatory and Development Authority hereby makes the following regulations, namely: -
+Chapter I
+Page 1/18
+----- PAGE 2 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+Preliminary
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations,
+2015.
+The regulation aims to provide standards for the eligibility, governance, organization and operational conduct of the
+Trustee Bank and requiring it to establish internal system that delivers compliance with standards for internal
+organization and operational conduct, for protecting the interest of the subscribers.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires, -
+(a)
+"Act" means the Pension Fund Regulatory and Development Authority Act, 2013 (
+23 of 2013
+);
+(b)
+"Board of Trustees" means trustees appointed by the Authority to the Board of the National Pension System Trust;
+(c)
+"compliance officer" means a person of responsibility from the Trustee Bank; designated as such and charged with the
+responsibility of monitoring compliance by it of the provisions of the Act, or the rules or the regulations made or
+notifications, guidelines, circulars or instructions issued by the Authority there under.
+(d)
+"Drawing and Disbursing Officer" means a Drawing and Disbursing Officer under the Central Government or a similar
+office under it or a State Government or an autonomous body which shall interact with the Pay and Accounts Office (or
+equivalent office) or the central recordkeeping agency on behalf of the subscribers for the purpose of the National
+Pension System;
+(e)
+"firewall" means a system to prevent access to inside information of different segregated activities and resources among
+the key personnel of the Trustee Bank, the systems, back office, bank and securities accounts which must be
+segregated activity-wise;
+(f)
+"nodal office" means the offices which act as interface between the subscribers and the central recordkeeping agency
+and includes the Government office like Principal Accounts Officer, Directorate of Treasuries and Accounts, Pay and
+Accounts Officer, District Treasury Office, Drawing and Disbursing Office as well as point of presence and a service
+provider in the un-organized sector, National Pension System-Lite oversight office and the National Pension System-Lite
+Accounting Office in the National Pension System-Lite sector;
+(g)
+"Pay and Accounts Office" means a Pay and Accounts Office under the Central Government or a State Government or a
+similar office under a Union territory or an autonomous body responsible for maintaining the contribution details for
+subscribers covered under the National Pension System;
+(h)
+[ "Permanent Retirement Account Number" means a unique number allotted by the central recordkeeping agency to
+each subscriber under the schemes regulated or administered by the Authority;]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(i)
+"principal officer" means any person who is responsible for the activities of a Trustee Bank and includes, -
+(i)
+Page 2/18
+----- PAGE 3 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+any whole-time director, executive director, managing director or Chief Executive Officer or Chief Financial Officer, in the
+case of a body corporate;
+(ii)
+any person designated as a principal officer by the board of directors; and
+(iii)
+any key managerial personnel or any person in accordance with whose directions or instructions the board of directors
+or any one or more of the directors is or are accustomed to act as such;
+(j)
+"service-level standards" means standards defining the service quality and turnaround time for fulfilling the duties and
+responsibilities laid down for the Trustee Bank.
+(2)
+Words and expressions used and not defined in these regulations but defined in the Act, shall have the meanings
+respectively assigned to them in the Act.
+Chapter II
+Registration of Trustee Bank
+3.
+Application for grant of certificate of registration and application fee.
+(1)
+The Authority may invite applications from the eligible entities for grant of a certificate of registration as Trustee Bank.
+The entities desirous of obtaining such certificate shall be required to submit applications, accompanied by the
+application fee specified in sub-regulation (5), to the Authority. The basis of the selection process and evaluation under
+such selection process shall be as the Authority may specify, on the date of inviting applications for grant of certificate of
+registration, which shall be published in the newspapers and placed on the website of the Authority.
+(2)
+The Trustee Bank, which was appointed to function as such, by the Interim Pension Fund Regulatory and Development
+Authority, prior to establishment of the Authority under the Act, may continue to act as such for the unexpired period of
+its tenure of appointment, or any extension granted thereof by the Authority, provided however that such Trustee Bank
+shall make an application for grant of certificate of registration, within a period of ninety days from the notification of
+these regulations. The Authority, may subject to the Trustee Bank, fulfilling the eligibility conditions grant a certificate of
+registration, for the period mentioned in this sub-regulation.
+(3)
+The Authority shall examine the eligibility of the applicants in terms of the provisions of the Act, rules and regulations,
+and any other criteria, so specified in such selection process to be undertaken, as referred to in sub-regulation (1), and
+any modifications in the criteria as may be specified by it from time to time.
+(4)
+The Authority may appoint one or more Trustee Bank under these regulations.
+(5)
+Every applicant shall pay a non-refundable application fee of rupees ten lakh, along with the application to the Authority.
+4.
+Eligibility criteria.
+(1)
+The entities satisfying the following eligibility criteria and any other criteria or terms and conditions, or any modifications,
+as may be specified in the selection process referred to in regulation 3, shall be eligible to participate in the selection
+process for Trustee Bank, -
+(a)
+any scheduled commercial bank [registered and regulated by the Reserve Bank of India, under the Banking Regulation
+Act, 1949 (
+10 of 1949
+)] with extensive rural and urban network of branches as may be specified in the selection process;
+(b)
+the applicant, on the date of application, should have made net profit at least in the last three consecutive financial
+Page 3/18
+----- PAGE 4 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+years, and shall satisfy the minimum capital adequacy ratio as specified by the Reserve Bank of India from time to time;
+(c)
+the applicant has been authorised to undertake Government business on behalf of Ministries or Departments of the
+Central Government and the State Governments;
+(d)
+all branches of applicant shall be networked;
+(e)
+commitment of the applicant to establish technological compatibility with the central recordkeeping agency or agencies,
+if selected as the Trustee Bank, including allowing a unique transaction identity generated by the central recordkeeping
+agency for every transaction to be validly recognizable throughout the complete transaction trail;
+(f)
+the applicant should have Cash Management Services business. The number of Cash Management Services clients
+and through put shall be as specified by the Authority in the selection process.
+(2)
+The Authority may change or modify the eligibility criteria as may be specified from time to time in the interest of the
+subscribers or for the orderly growth of the pension system.
+5.
+Disclosure of Information.
+(1)
+The Authority, having regard to the interest of the subscribers, may make disclosure to the public, the information on the
+application made by the applicant by placing such information on a website as specified by the Authority, including a
+website maintained by the applicant.
+(2)
+Any material change in the information furnished or placed on the website pursuant to these regulations shall be
+intimated to the Authority by the applicant promptly but not later than fifteen days of the occurrence of such changes.
+6.
+Furnishing of information and clarification.
+(1)
+The Authority may require the applicant to furnish any further information or clarification, for the purpose of disposal of
+the application, and, thereafter, in regard to any other matter as may be deemed necessary by the Authority.
+(2)
+The applicant shall furnish such information and clarification to the satisfaction of the Authority, within the time specified
+in this regard by the Authority.
+7.
+Verification of information.
+(1)
+While considering the application, the information furnished by the applicant and its eligibility, the Authority may, if it so
+desires, verify the information in any manner, as deemed necessary, which may include physical verification of
+documents, office space and inspect the availability of office space, infrastructure and technological support which the
+applicant is required to have.
+(2)
+For the purpose of verification of information, the Authority may appoint any person including any of its officers or an
+external auditor or agency.
+8.
+Consideration of application and rejection.
+- [(1) For the purpose of grant of certificate, the Authority shall take into account all matters which it deems relevant to
+the activities under the schemes regulated or administered by it, including but not limited to the following, namely: -]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(a)
+whether the applicant satisfies the eligibility criteria specified in these regulations and also the terms and conditions as
+may be specified in the selection process referred to in regulation 3;
+Page 4/18
+----- PAGE 5 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+(b)
+[ whether the grant of certificate is in the interest of subscribers and the objective of orderly development of pension
+sector and the schemes regulated or administered by the Authority.;]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(c)
+whether the applicant is a person who has been refused a certificate by the Authority or whose certificate has been
+cancelled by the Authority.
+(d)
+any other ground that the Authority may specify for consideration and rejection of application.
+(2)
+Any application for grant of certificate may be rejected on any of the following grounds, namely: -
+(a)
+if the application is not complete in all respects and does not conform to the requirements specified in these regulations
+or any other selection criteria specified by the Authority on the date of inviting applications for grant of certificate of
+registration;
+(b)
+if the application is unaccompanied by the specified application fee or with relevant documents in support or the
+applicant fails to furnish such additional information as required by the Authority;
+(c)
+if the application contains incorrect, false or misleading information.
+(3)
+Where an application is rejected under clause (b) of sub-regulation (2), the Authority shall record reasons in writing:
+Provided that, before rejecting any such application, the Authority shall give the applicant an opportunity to remove the
+objection within such time as may be specified by the Authority:
+Provided further that where an application is rejected by the Authority for the reason that it contains false or misleading
+information, no such opportunity may be given and the applicant shall not make any application for grant of certificate
+under these regulations or any other regulations for a period of one year from the date of such rejection.
+9.
+Procedure for grant of certificate of registration.
+(1)
+The applicant shall submit an application in the format as may be specified by the Authority. In order to be eligible for
+registration, the applicant shall be required to qualify, on the date of application, all the technical and commercial
+parameters as specified by the Authority under the selection process.
+(2)
+The Authority on being satisfied that the applicant satisfies the eligibility criteria as specified under the Act, the rules and
+regulations and also the evaluation criteria specified in the selection process, it shall, grant a certificate of registration in
+the form specified in Schedule II and send intimation to this effect to the applicant.
+(3)
+Any certificate of registration granted by the Authority to the Trustee Bank shall be subject to the following conditions,
+namely: -
+(a)
+where the Trustee Bank proposes to change its status or constitution, it shall obtain prior approval of the Authority for
+continuing to act as such Trustee Bank after such change in status or constitution;
+(b)
+it shall pay the applicable fees in accordance with the regulation 11 or 12, as may be applicable;
+(c)
+it shall at all times abide by the provisions of the Act, rules, regulations, directions, guidelines and circulars as may be
+issued there under and other relevant laws;
+(d)
+it shall at all times meet the eligibility criteria and other requirements specified in these regulations;
+(e)
+Page 5/18
+----- PAGE 6 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+it shall comply with the Code of conduct as specified in Schedule I:
+Provided that the Authority may impose such other conditions as it may deem fit in the interest of subscribers or orderly
+development of the pension sector and the Trustee Bank shall be required to comply with such conditions.
+(4)
+A request for prior approval, under clause (a) of sub-regulation (3), which is complete in all respects, shall be disposed
+off by the Authority within a period of sixty days from the date of receipt of such request and where the decision of the
+Authority has not been communicated to the Trustee Bank within the said period of sixty days, the prior approval shall
+be deemed to have been granted.
+(5)
+The request for prior approval under clause (a) of sub-regulation (3) shall contain the information in respect of the
+Trustee Bank after the proposed change in status or constitution and the information shall be placed on the website as
+may be specified by the Authority.
+10.
+Effect of refusal to grant certificate or expiry of certificate.
+(1)
+Where the Trustee Bank has failed to make an application or where an existing Trustee Bank has been refused grant of
+certificate under these regulations, the Trustee Bank shall, -
+(a)
+forthwith cease to act as such Trustee Bank;
+(b)
+transfer its amounts, records and documents related to its activities with complete reconciliation to another Trustee Bank
+which has been granted a certificate for carrying on such activity;
+(c)
+make provisions as regards liability incurred or assumed by the Trustee Bank;
+(d)
+take such other action, within the time limits and in the manner, as may be required under the relevant regulations or as
+may be directed by the Authority.
+(2)
+While refusing grant of certificate of registration under these regulations to an existing Trustee Bank, the Authority may
+impose such conditions upon it as it deems fit for protection of subscribers and such conditions shall be complied with.
+11.
+Registration fee.
+- A non-refundable registration fees of rupees twenty-five lakh shall be paid by the applicant to the Authority.
+12.
+Annual fee.
+(1)
+The Trustee Bank shall deposit each year an annual fee before the due date which shall be determined through bid or in
+such other manner as may be decided by the Authority at the time of selection process.
+(2)
+For the year in which the certificate of registration is granted, annual fee shall be deposited by the Trustee Bank within
+thirty days from the date of registration in the proportion applicable for each quarter of the financial year regardless of
+the number of months or days falling short of such quarterly period. In case, the Trustee Bank fails to deposit an annual
+fees before or on due date, the Authority shall have the right to cancel the certificate of registration of the Trustee Bank.
+13.
+Period of validity.
+(1)
+Subject to compliance with the provisions of the Act or these regulations, every certificate of registration granted to a
+Trustee Bank shall be valid for a period of five years from the date of grant of registration unless suspended or cancelled
+by the Authority.
+(2)
+The Authority may, extend or reduce the tenure of the registration certificate, for such period as it may determine in the
+Page 6/18
+----- PAGE 7 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+interest of the subscribers. Such extension or reduction shall be granted for reasons to be recorded in writing. Any
+extension granted to the Trustee Bank upon expiry of tenure of registration shall be binding on the Trustee Bank and the
+Trustee Bank shall discharge its functions in accordance with the terms of such extension.
+(3)
+During the validity of registration certificate under sub-regulations (1) and (2), the certificate of registration granted to the
+Trustee Bank shall be reviewed annually or any other period or at any point of time as may be notified by the Authority
+and its continuity as Trustee Bank shall be decided thereupon by the Authority.
+(4)
+The Trustee Bank shall be liable to pay annual fee as specified under regulation 12.
+(5)
+On extension of the registration certificate for less than one year, pro rata annual fee or renewal fee shall be recovered
+on quarterly basis.
+14.
+Extension of registration.
+- The Authority shall notify for fresh registration in accordance with these regulations ninety days or such other time as
+may be specified, prior to the date of expiry of tenure of the registered Trustee Bank or may extend the tenure of
+certificate of registration of the Trustee Bank, for such period, as it may determine in the interest of the subscribers.
+Such extension shall be granted for reasons to be recorded in writing. Any extension granted to the Trustee Bank upon
+expiry of tenure of registration shall be binding on the Trustee Bank and the Trustee Bank shall discharge its functions in
+accordance with the terms of such extension.
+Chapter III
+Roles and Responsibilities of Trustee Bank
+15.
+Authorization.
+(1)
+The Board of Trustees of National Pension System Trust shall authorize the Trustee Bank to act as its agent for the
+purpose of banking the funds in accordance with the provisions of the Act, the rules or the regulations made there under
+and any guidelines or directions issued by the Authority.
+(2)
+[ The Board of Trustees shall authorize the Trustee Bank to hold on its behalf the funds in the name of National Pension
+System Trust and for the beneficial interests of the beneficiaries of the schemes regulated or administered by the
+Authority. No such authorization shall confer upon the Trustee Bank, any right, title, interest or share in the funds of the
+subscribers or any other right under the schemes regulated or administered by the Authority.]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(3)
+The Board of Trustees shall certify to the Trustee Bank the names and signatures, address and scope of authority of all
+persons authorized to give proper instructions or any other notice, request, directions, circulars, instruction and
+notification issued by the Authority from time to time and in accordance with the terms of the regulation, certificate or
+instrument on behalf of the National Pension System Trust. Such certificate may be accepted and relied upon by the
+Trustee Bank as conclusive evidence of the facts set forth therein and may be considered in full force and effect until
+receipt of similar certificate to the contrary. Any such certificate may be given by the Chief Executive Officer of the
+National Pension System Trust or such other person, as may be authorized by the Board of Trustees.
+(4)
+The Trustee Bank shall certify to the Board of Trustees, the names and signatures, address and scope of authority of all
+persons authorized to receive proper instructions or any other notice, request, direction, instruction, certificate or
+instrument on behalf of the Trustee Bank. The service of any notice, request, direction, instruction, certificate or
+instrument on such authorized persons shall be deemed to be effective notice or service to the Trustee Bank.
+16.
+Roles and responsibilities.
+- [(1) The Trustee Bank shall assume the day to day banking of the funds under the schemes regulated or administered
+by the Authority and shall provide banking facilities in accordance with the provisions of the directions issued by the
+Page 7/18
+----- PAGE 8 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+Authority in terms of the Act, the rules and the regulations made there under, operational service level agreements
+executed with the National Pension System Trust and standard operating procedure issued by the National Pension
+System Trust, based on the Authority's guidelines.]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(2)
+[ The Trustee Bank shall exercise all due diligence and vigilance in carrying out its duties and in protecting the rights and
+interests of the subscribers, the beneficiaries of the schemes under the schemes regulated or administered by the
+Authority. The Trustee Bank shall be responsible for the acts of omissions or commissions by its employees or the
+persons whose services have been procured by the Trustee Bank in whatever capacity.]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(3)
+[ The account of the National Pension System Trust with the Trustee Bank shall be in the name of National Pension
+System Trust and the Trustee Bank shall be holding the funds of the National Pension System Trust. However,
+individual subscribers under the schemes regulated or administered by the Authority shall remain beneficial owners of
+these funds.]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(4)
+The Trustee Bank shall maintain all books and records of the National Pension System Trust Account and comply with
+the disclosure requirements as specified by Authority or National Pension System Trust from time to time and as
+provided in these regulations. The Trustee Bank shall maintain books and records about the fund flow and information
+flow between Trustee Bank, central recordkeeping agency, subscribers and pension funds to ensure compliance with
+the guidelines and submit regular reports at such intervals and in such manner as may be required or called for by
+Authority or its authorized representative. The books and records related to the National Pension System Trust's
+accounts shall be available for inspection to the Authority or its authorized officers, and National Pension System Trust
+and their respective auditors.
+(5)
+The banking of the funds shall be on account of the National Pension System Trust and the Trustee Bank shall
+discharge its duties in terms of the regulation with adequate care. The Trustee Bank shall be fully liable for any losses
+occasioned to the National Pension System Trust on account of any acts of omission or commission in the nature of
+fraud, negligence, dereliction of duty, misconduct or misdemeanor or any breach of applicable law or of the provisions of
+these regulations on the part of the Trustee Bank or its employees in which event the Trustee Bank shall be liable to
+indemnify the National Pension System Trust and the Board of Trustees for any loss occasioned (either directly or
+indirectly to the National Pension System Trust or Board of Trustees) or any claim raised against the National Pension
+System Trust or Trustees by any party in accordance with any agreement signed between the Board of Trustees and the
+Trustee Bank.
+(6)
+The funds shall be credited to separate accounts in the name of the National Pension System Trust maintained with the
+designated branch of the Trustee Bank. All receipts, payments, income and expenses shall be debited or credited to this
+account. The Trustee Bank shall be responsible for the day-to-day flow of funds.
+(7)
+(a)
+Systems and procedures, -
+(i)
+The Trustee Bank shall have all the necessary systems procedures, infrastructure that may be required to enable it to
+co-ordinate with other intermediaries;
+(ii)
+[ Firewall from other businesses: Trustee Bank shall ensure that a firewall is maintained in respect of the business under
+the schemes regulated or administered by the Authority, both in terms of staff and systems, from its other businesses;]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(b)
+monitoring, review, evaluating and inspecting systems and controls, -
+Page 8/18
+----- PAGE 9 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+(i)
+Trustee Bank must have adequate mechanisms for reviewing, monitoring and evaluating its controls, systems,
+procedures and safeguards;
+(ii)
+where the records are kept electronically, it must take precautions necessary to ensure that continuity in recordkeeping
+is not lost or destroyed and that a sufficient back-up of records is available;
+(iii)
+Trustee Bank shall have its systems inspected annually at its own cost, under the mechanism referred to in sub-clause
+(i), by an expert and this expert shall forward the inspection report within one month from the date of inspection to the
+Authority;
+(iv)
+Trustee Bank shall establish and maintain adequate infrastructural facilities to be able to discharge its role and
+responsibilities as per the "service-level agreement" with the National Pension System Trust, and the operating
+procedures and systems of the Trustee Bank shall be adequately documented and backed by operation manuals.
+(8)
+[ The Trustee Bank shall be required to ensure access to all records, data or any other relevant material in respect of the
+Trust Account maintained with the Trustee Bank to the National Pension System Trust for ensuring necessary
+supervision (both on-site and off-site). The Trustee Bank shall be responsible for transmission of information pertaining
+to the funds under the schemes regulated or administered by the Authority available with it and instructions to central
+recordkeeping agency on a regular basis. The Trustee Bank shall provide web based access to the National Pension
+System Trust, the Authority and other intermediaries as may be specified by the Authority or the National Pension
+System Trust. The Trustee Bank will be required to be able to adapt to future changes and functional obligations
+prescribed by the Authority or the National Pension System Trust.
+(9)
+The Trustee Bank shall sign the required Service Level Agreement, where applicable, with the National Pension System
+Trust and other intermediaries under the schemes regulated or administered by the Authority. The Trustee Bank shall
+establish an interface and work in total co-operation and co-ordination with the other intermediaries appointed under the
+National Pension System.]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(10)
+The Trustee Bank shall not utilise the services of the sponsor or any of its associates, employees or their relatives, for
+the purpose of any of its duties and obligations:
+Provided that the Trustee Bank may utilise such services if disclosure to that effect is made to the National Pension
+System Trust.
+(11)
+The Authority, may in the interest of subscribers add, delete or modify or alter the roles and responsibilities as
+mentioned in these regulations through circulars, notifications and guidelines from time to time.
+17.
+Linkages of Trustee Bank with central recordkeeping agency and other intermediaries.
+- The Trustee Bank is required to establish necessary system and procedure, in order to facilitate fund transfers across
+various intermediaries of the National Pension System Architecture viz. central recordkeeping agency, nodal offices
+(Pay and Account Office, Drawing and Disbursing Officer, District Treasury Office, Directorate of Treasuries and
+Accounts), point of presence, aggregators, pension funds and annuity service providers, and others , as may be
+specified by the Authority.
+18.
+Operational requirements for Trustee Bank.
+- Based on the level of activity, the Trustee Bank would be required to fulfill certain minimum operational requirements.
+These requirements may be as specified in the selection process as may be notified by the Authority, service level
+agreement and standard operating procedure issued by the National Pension System Trust from time to time. This is
+subject to modification from time to time as may be specified through guidelines issued by the Authority.
+19.
+Page 9/18
+----- PAGE 10 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+Reports and audit.
+(1)
+The Trustee Bank shall file the following periodic reports with the Authority and National Pension System Trust -
+(a)
+extracts of internal audit report from the independent auditors with respect to the National Pension System Trust
+Accounts, compliance certificates and subscriber complaints reports at regular intervals;
+(b)
+concurrent audit report to be submitted every quarter;
+(c)
+external audit report of all the National Pension System accounts maintained with the Trustee Bank to be submitted
+annually. The scope of all the above three audits shall be defined by Authority.
+(2)
+At the end of each financial year, the Trustee Bank shall furnish a statement of the income and expenditure account and
+a balance sheet reflecting the position of the Trustee Bank as on the closing date of the financial year to the National
+Pension System Trust.
+(3)
+The Trustee Bank shall file with National Pension System Trust-
+(a)
+Bio-data of all its directors along with their interest in other companies within fifteen days of their appointment; and
+(b)
+any change in the interests of directors at every six months.
+(4)
+A report on discrepancies, if any, to or from the pension fund regarding fund transfer or receipt of funds based on
+information flow received from pension fund or central recordkeeping agency and actual fund transfer.
+(5)
+Provide periodic reports as per the parameters and frequency defined by the Authority or the National Pension System
+Trust. Some of the key parameters on which reports are required includes:
+(a)
+account wise balances on daily basis;
+(b)
+fund transfer and receipt status on daily basis;
+(c)
+report on status of identified and unidentified funds in NPS account;
+(d)
+sector wise unmatched amount return report-weekly, monthly or as specified by the Authority.
+(6)
+Any other information or report required by Authority from time to time.
+Chapter V
+Inspection and Audit
+20.
+Inspection and audit.
+(1)
+The Authority may, if it considers necessary at any time, undertake directly or through its authorized representative or
+auditor, an inspection and audit of the books, accounts, records including the telephone records and electronic records
+and documents of the Trustee Bank for any purpose, including the purposes as specified under sub-regulation (2).
+(2)
+The purposes referred to in sub-regulation (1) may include, -
+(a)
+to ascertain the infrastructural capabilities, systems and procedures;
+(b)
+to ensure that the books of account, records including telephone records and electronic records and documents are
+Page 10/18
+----- PAGE 11 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+being maintained in the manner required under these regulations;
+(c)
+to ascertain whether adequate internal control systems, procedures and safeguards have been established and are
+being followed by the Trustee Bank;
+(d)
+to ascertain whether the provisions of the Act or rules or the regulations made there under or circulars, guidelines or
+notifications issued by the Authority are being complied with;
+(e)
+to inquire into the complaints received from subscribers, nodal offices, intermediaries or any other person on any matter
+having a bearing on the activities assigned by the Authority to the Trustee Bank;
+(f)
+to inquire suomotu into such matters as may be deemed fit in the interest of subscribers.
+(3)
+The Authority may, -
+(a)
+appoint one or more authorized representatives or, appoint a qualified auditor to undertake the inspection or audit
+referred to in sub-regulation (1);
+Explanation. - For the purposes of this sub-regulation, the expression "qualified auditor" shall have the meaning derived
+from Section 226 of the Companies Act, 1956 (
+1 of 1956
+).
+21.
+Notice before inspection or audit.
+(1)
+Before undertaking an inspection or audit under regulation 20the Authority or its authorised representative or the auditor
+shall give ten working days' notice to the Trustee Bank:
+Provided that no notice shall be required if the Authority is satisfied that an inspection or audit is required for immediate
+safeguarding of the interest of the subscribers.
+(2)
+During the course of an inspection or audit, the Trustee Bank against whom the inspection or audit is being carried out
+shall be bound to discharge its obligations as provided in these regulations.
+22.
+Obligations on inspection and audit.
+(1)
+It shall be the duty of the Trustee Bank, the affairs of which is being inspected or audited, and of every director, officer
+and employee thereof, to produce to the Authority, or its authorized representative or auditor, such books, accounts,
+records and other documents in its custody or control and furnish to the Authority or its authorized representative or the
+auditor with such statements and information relating to the activities entrusted to it by the Authority, as it or he may
+require, within such reasonable period as may be specified.
+(2)
+The Trustee Bank shall allow the Authority or its authorized representative or the auditor to have a reasonable access to
+the premises occupied by it or by any other person on its behalf and also extend reasonable facility for examining any
+books, records, documents and computer data in the possession of the Trustee Bank or such other person and also
+provide copies of documents or other materials which in the opinion of the Authority or its authorized representative or
+auditor are relevant for the purpose of the inspection or audit.
+(3)
+It shall be the duty of the Trustee Bank to give to the Authority, or its authorized representative or auditor all assistance
+in connection with the inspection and audit which the Authority or its authorized representative, or auditor may
+reasonably require.
+23.
+Submission of report.
+Page 11/18
+----- PAGE 12 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+(1)
+On completion of the inspection or audit, a report shall be submitted to the Authority, which after consideration of the
+report, may take such action as it may deem fit and appropriate in the interest of the subscribers.
+(2)
+The Authority may suomotu or after consideration of the inspection or audit report, as the case may be, order an
+investigation or inquiry to be conducted in the matter.
+24.
+Payment of inspection and audit fees.
+- The Authority shall be entitled to recover from the Trustee Bank such expenses incurred by it for the purposes of
+inspection or audit undertaken directly or through its authorized representative or auditor under sub-regulation (1) of
+regulation 20.
+25.
+Inspection and audit by National Pension System Trust.
+(1)
+The National Pension System Trust shall undertake directly or through its authorized representative, inspection or audit
+or both of the Trustee Bank, on an annual basis or at such other period as may be specified by the Authority in relation
+to operational Service Level Agreements in accordance with the provisions of Pension Fund Regulatory and
+Development Authority (National Pension System Trust) Regulations, 2015. The Trustee Bank shall allow the National
+Pension System Trust, or its authorized representative to have a reasonable access to the premises occupied by it,
+books of accounts, records and provide necessary information as may be required by it for the purpose of such
+inspection or audit, as the case may be.
+(2)
+The National Pension System Trust shall be entitled to recover from the Trustee Bank such expenses incurred by it for
+the purposes of inspection or audit undertaken directly or through its authorized representative.
+(3)
+The scope of audit or inspection may be modified by the Authority as may be specified by it from time to time.
+Chapter VI
+Suspension or Cancellation of Certificate and Action in Case of Default
+26.
+Cancellation or suspension of certificate of registration.
+(1)
+Where any Trustee Bank which has been granted a certificate of registration under these regulations -
+(a)
+fails to comply with any conditions subject to which a certificate of registration has been granted to it;
+(b)
+contravenes any of the provisions of the Act or the rules or the regulations made or guidelines or notifications, directions,
+instructions or circulars issued by the Authority there under;
+(c)
+contravenes any of the provisions of the agreements entered into with other intermediaries;
+(d)
+indulges in unfair trade practices or conducts its business in a manner prejudicial to the interests of the subscribers;
+(e)
+fails to furnish any information as required by the Authority relating to its area of operations;
+(f)
+does not submit periodical returns as required under the Act or by the Authority;
+(g)
+does not co-operate in an inquiry conducted by the Authority;
+(h)
+commits any acts of defaults as mentioned under Section 28 of the Act;
+(i)
+any other reason which in the opinion of the Authority warrants for suspension, cancellation or withdrawal of the
+Page 12/18
+----- PAGE 13 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+certificate of registration granted;
+The Authority may, without prejudice to any other action under the Act, regulations, directions, instructions or circulars
+issued there under, by order take such action in the manner provided under these regulations including cancellation or
+suspension of the registration of such Trustee Bank and such other action, as may be deemed appropriate.
+(2)
+The Authority may without prejudice to the powers under sub-regulation (1) instead of cancelling or suspending the
+certificate of registration, direct for varying or modifying the terms and conditions of the certificate of registration, as it
+may deem fit or pass any other order, as may be deemed beneficial in the interest of the subscribers.
+(3)
+Trustee Bank once registered shall have to ensure that the eligibility conditions as mentioned in this regulation are
+strictly adhered to during the entire currency of the registration period and any extension thereto, failing which the
+registration certificate may be cancelled. A certificate evidencing compliance with the eligibility conditions shall have to
+be furnished by the registered Trustee Bank to the Authority on annual basis within thirty days of closure of accounts for
+the financial year.
+27.
+Surrender of any certificate of registration.
+(1)
+Any Trustee Bank, which has been granted a certificate of registration under the Act or the regulations made there
+under, desirous of giving up its activity and surrendering the certificate, may make a request for such surrender to the
+Authority.
+(2)
+While disposing of a request under these regulations, the Authority may require the concerned Trustee Bank to satisfy
+the Authority of the factors as it deems fit, including but not limited to the following: -
+(a)
+the arrangements made by the Trustee Bank at its own costs and expenses for maintenance and preservation of
+records and other documents required to be maintained under the Act, regulations and guidelines;
+(b)
+redressal of subscriber grievances;
+(c)
+transfer of records, funds or securities of the subscribers at its own cost and expense;
+(d)
+the arrangements made by it for ensuring continuity of service to the subscribers;
+(e)
+defaults or pending actions, if any.
+(3)
+[ While accepting the surrender request, the Authority may impose such conditions upon the Trustee Bank as it deems
+fit for the protection of interest of the subscribers of the schemes regulated or administered by the Authority and the
+Trustee Bank concerned shall comply with such conditions.]
+[Substituted by Notification No. PFRDA/12/RGL/139/6, dated 19.2.2019 (w.e.f. 23.3.2015).]
+(4)
+No Trustee Bank shall be permitted to surrender its certificate, in respect of which any action for default has been
+initiated or has been contemplated by the Authority.
+28.
+Effect of suspension, cancellation or surrender of certificate.
+(1)
+On and from the date of suspension or cancellation of the certificate, the concerned Trustee Bank shall -
+(a)
+not undertake any additional assignment or collect any new money or information from the subscriber, During the period
+of such suspension, it shall cease to carry on any activity in respect of which the certificate of registration had been
+granted;
+(b)
+Page 13/18
+----- PAGE 14 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+allow its subscribers to transfer, as the case may be, their money or assignments or allow the National Pension System
+Trust to withdraw any assignment given to it, without any additional cost;
+(c)
+make provisions as regards liabilities incurred or assumed by it;
+(d)
+take such other action including the action relating to any records or documents and information or money of the
+subscribers that may be in the custody or control of such Trustee Bank, within the time limit and in the manner, as may
+be required under the relevant regulations or as may be directed by the Authority, while passing the order under these
+guidelines or otherwise.
+(2)
+On and from the date of surrender or cancellation or suspension of the certificate of registration, the concerned Trustee
+Bank shall-
+(a)
+return the certificate of registration so cancelled to the Authority and shall not represent itself to be a holder of the
+certificate of registration for carrying out the activity for which such certificate had been granted;
+(b)
+cease to carry on any activity in respect of which the certificate had been granted;
+(c)
+transfer funds, records and documents with complete reconciliation related to its activities to another Trustee Bank, as
+directed by the Authority, holding a valid certificate of registration to carry on such activities and allow its subscribers to
+transfer their funds to the transferee entity, without any additional cost;
+(d)
+make provisions as regards liability incurred or assumed by it;
+(e)
+take such other action including the action relating to any records or documents and assets of the subscribers that may
+be in the custody or control of such Trustee Bank, within the time limit and in the manner, as may be required under the
+relevant regulations or as may be directed by the Authority while passing order under these guidelines or otherwise.
+29.
+Appointment of designated authority.
+(1)
+Where it appears to the designated member that any Trustee Bank which has been granted certificate of registration
+under these regulations or any other concerned person has committed any default of the nature specified in
+regulation26, he may appoint an officer not below the rank of a Chief General Manager, or any other officer of an
+equivalent rank as a designated authority.
+(2)
+No officer who has conducted investigation or inspection in respect of the alleged violation shall be appointed as a
+designated authority.
+30.
+Issuance of notice.
+(1)
+The designated authority shall, if it finds reasonable grounds to do so, issue a notice to the Trustee Bank or any other
+concerned person requiring it to show cause as to why the certificate of registration granted to it, should not be
+suspended or cancelled or why any other action provided herein should not be taken.
+(2)
+Every notice under sub-regulation (1) shall specify the contravention alleged to have been committed by the noticee
+indicating the provisions of the Act, regulations, directions or circulars in respect of which the contravention is alleged to
+have taken place.
+(3)
+There shall be annexed to the notice issued under sub-regulation (1) copies of documents relied on in making of the
+imputations and extracts of relevant portions of documents, reports containing the findings arrived at in an investigation
+or inspection, if any, carried out.
+Page 14/18
+----- PAGE 15 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+(4)
+The noticee shall be called upon to submit within a period to be specified in the notice, not exceeding twenty-one days
+from the date of service thereof, a written representation to the designated authority.
+31.
+Reply by noticee.
+(1)
+The noticee shall submit to the designated authority its written representation within the period specified in the notice
+along with documentary evidence, if any, in support thereof:
+Provided that the designated authority may extend the time specified in the notice for sufficient grounds shown by the
+noticee and after recording reasons of extension in writing.
+(2)
+If the noticee does not reply to the show-cause notice, within the time granted for the purpose, the designated authority
+may proceed with the matter ex-porte recording the reasons for doing so and make his recommendations as the case
+may be on the basis of material facts available before him.
+32.
+Action in case of default.
+(1)
+After considering the representations, if any, of the noticee, the facts and circumstances of the case and applicable
+provisions of the Act, regulations, directions or circulars administered by the Authority, the designated authority shall
+submit a report, where the facts so warrant, recommending, -
+(a)
+suspension of certificate of registration for a specified period;
+(b)
+cancellation of certificate of registration;
+(c)
+prohibiting the noticee to take up any new assignment or contract or launch new scheme for the period specified in the
+order;
+(d)
+debarring a principal officer of the noticee from being employed or associated with any registered intermediary or other
+registered person for the period specified in the order;
+(e)
+debarring a branch or an office of the noticee from carrying out activities for the specified period;
+(f)
+warning the noticee.
+33.
+Procedure for action on recommendation.
+(1)
+On receipt of the report recommending measures from the designated authority, the designated member shall consider
+the same and issue a show cause notice to the noticee enclosing a copy of the report submitted by the designated
+authority calling upon the noticee to submit its written representation as to why the action, including passing of
+appropriate direction, should not be taken.
+(2)
+The noticee may, within twenty-one days of receipt of the notice send a reply to the designated member who may pass
+appropriate order after considering the reply, if any received from the noticee and providing the person with an
+opportunity of being heard, as expeditiously as possible and endeavor shall be made to pass the order within one
+hundred and twenty days from the date of receipt of reply of the notice or hearing.
+(3)
+The designated member may pass a common order in respect of a number of noticees where the subject matter in
+question is substantially the same or similar in nature.
+34.
+Intimation of order.
+Page 15/18
+----- PAGE 16 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+(1)
+Every report made by a designated authority and every order made by the designated member under these regulations
+shall be dated and signed.
+(2)
+A copy of the order passed under these regulations shall be sent to the Trustee Bank or other concerned person and
+also placed on the website of the Authority.
+35.
+Penalty and adjudication.
+- The imposition of penalty, if any, on the Trustee Bank or person shall be in accordance with the provisions of the Act
+and the Pension Fund Regulatory and Development Authority(Procedure for Inquiry by Adjudicating Officer)
+Regulations, 2015.
+36.
+Appeals to Securities Appellate Tribunal.
+- The Trustee Bank or any person concerned aggrieved by any order under these regulations may, prefer an appeal to
+the Securities Appellate Tribunal against such order in accordance with the provisions of sub-section (1) of Section 36 of
+the Act.
+Explanation. - For the purposes of this chapter, -
+(a)
+"designated authority" means an officer of the Authority appointed under sub-regulation (1) of regulation 29;
+(b)
+"designated member" means the Chairperson or a whole-time Member of the Authority designated for the purpose.
+(c)
+"noticee" means the person to whom a notice has been issued under this chapter.
+Chapter VII
+Miscellaneous
+37.
+Redressal of grievances.
+- The overall responsibility of the redressal of subscriber grievance shall be as per the Pension Fund Regulatory and
+Development Authority (Redressal of Subscriber Grievance) Regulations, 2015.
+38.
+Confidentiality.
+- The Trustee Bank shall maintain absolute confidentiality with respect to all records, data and information received or
+acquired by it during the course of its working. It shall not, without the prior permission of the Authority, produce or share
+such data or information as evidence, or for any other purpose, except as required by the due process of law.
+39.
+Power of Authority to issue clarifications.
+- In order to remove any difficulties in the application or interpretation of these regulations, the Authority shall have the
+power to issue clarifications and guidelines in the form of notes or circulars which shall be binding on the Trustee Bank
+or any person connected with it.
+40.
+Appointment of Compliance Officer.
+(1)
+The Trustee Bank must appoint a compliance officer who shall be responsible for monitoring compliance by it of the
+provisions of Act, rules and regulations, notifications, guidelines, instructions issued by the Authority.
+(2)
+The compliance officer must immediately and independently report any non-compliance observed by him or her to the
+Authority.
+I
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+[See regulation 9 (3) (e)]
+Code of Conduct
+Page 16/18
+----- PAGE 17 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+1. Subscriber Protection
+(a)
+Subscribers. - The Trustee Bank shall make all efforts to protect the interests of subscribers and shall render the best
+possible advice having regard to the subscriber's needs and the environments and his own professional skills.
+(b)
+High Standards of Service. - The Trustee Bank shall ensure that it and its key management personnel, employees, shall
+in the conduct of their business, observe high standards of integrity, dignity, fairness, ethics and professionalism and all
+professional dealings shall be affected in a prompt, effective and efficient manner. The Trustee Bank shall be
+responsible for the acts or omissions of its employees in respect to the conduct of its business.
+(c)
+Exercise of Due Diligence and no Collusion. - The Trustee Bank shall at all times render high standards of service,
+exercise due skill and diligence over persons employed or appointed by it, ensure proper care and exercise independent
+professional judgment and shall not at any time act in collusion with other intermediaries in a manner that is detrimental
+to the subscriber(s).
+2. Disbursal of Amounts
+(a)
+Remittance to Pension Funds and Withdrawal of NPS Contribution - The Trustee Bank shall be prompt in executing the
+instructions issued by the NPS Trust with reference to the remittance of funds to Pension Funds and withdrawals of NPS
+contributions.
+3. Disclosure of Information
+(a)
+The Trustee Bank shall ensure that adequate disclosures are made to the Nodal Offices, intermediaries and subscribers
+in a comprehensible and timely manner.
+(b)
+The Trustee Bank shall not make any misrepresentation and ensure that the information provided to the Nodal Offices,
+intermediaries and subscribers is not misleading.
+(c)
+The Trustee Bank shall not make any exaggerated statement whether oral or written to the Nodal Offices, intermediaries
+and subscribers, either about its qualification or capability to render certain services or its achievements in regard to
+services rendered to other Nodal Offices and subscribers.
+(d)
+The Trustee Bank shall not divulge to anybody, either orally or in writing, directly or indirectly, any confidential
+information about its Nodal Offices and subscribers, which has come to its knowledge, without taking prior permission of
+the Authority except where such disclosures are required to be made in compliance with any law for the time being in
+force.
+4. Conflict of Interest. - The Trustee Bank shall avoid conflict of interest and make adequate disclosure of its interest and
+shall put in place a mechanism to resolve any conflict of interest situation that may arise in the conduct of its business or
+where any conflict of interest arises, shall take reasonable steps to resolve the same in an equitable manner. The
+Trustee Bank shall make appropriate disclosure of the possible source or potential areas of conflict of duties and interest
+while acting as an intermediary which would impair its ability to render fair, objective and unbiased services.
+5. Compliance and Corporate Governance
+(a)
+The Trustee Bank shall ensure that good corporate policies and corporate governance is in place. It shall not engage in
+fraudulent and manipulative transactions.
+(b)
+The Trustee Bank shall take adequate and necessary steps to ensure that continuity in data and record keeping is
+maintained and that the data or records are not lost or destroyed. It shall also ensure that for electronic records and
+data, up-to-date back up is always available with it.
+(c)
+The Trustee Bank shall co-operate with the Authority and National Pension System Trust, as and when required and
+shall not make any untrue statement or suppress any material fact in any documents, reports, papers or information
+Page 17/18
+----- PAGE 18 -----
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+furnished to the Authority or National Pension System Trust neglect or fail or refuse to submit to the Authority or other
+agencies with which it is registered, such books, documents, correspondence and papers or any part thereof as may be
+demanded/requested from time to time.
+(d)
+The Trustee Bank shall ensure that any change in registration status /any penal action taken by Authority or any material
+change in financials which may adversely affect the interests of subscribers is promptly informed to the subscribers and
+any business remaining outstanding is transferred to another registered entity in accordance with any instructions of
+National Pension System Trust and the provisions of the relevant regulations.
+(e)
+The Trustee Bank shall maintain an appropriate level of knowledge and competency and abide by the provisions of any
+act, regulations, circulars and guidelines issued by the Authority and as may be applicable to the Trustee Bank in
+respect of the business carried on by such Trustee Bank.
+(f)
+The Trustee Bank shall ensure that the Authority and National Pension System Trust are promptly informed about any
+action, legal proceedings, etc., initiated against it in respect of any material breach or non-compliance by it, of any law,
+rules, regulations, and directions of the Authority or of any other regulatory body.
+II
+Pension Fund Regulatory and Development Authority (Trustee Bank) Regulations, 2015
+[See regulation 9 (2)]
+Certificate of Registration
+Pension Fund Regulatory and Development Authority
+Certificate of Registration
+Pension Fund Regulatory and Development Authority hereby grants a Certificate of Registration to
+__________________________ as a Trustee Bank on this day of ________________________________
+This certificate is valid for a period of____year from the date of issue.
+Registration Code for the Trustee Bank is _______________________
+Date:
+Place:
+Authorised Signatory
+Related AI tags, queries and research notes
+Translation
+Page 18/18

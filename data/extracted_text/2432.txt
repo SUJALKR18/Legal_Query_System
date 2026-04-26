@@ -1,0 +1,148 @@
+
+----- PAGE 1 -----
+The Use of very Lower Power Remote Cardiac Monitoring Radio Frequency Wireless Medical Dev...
+The Use of very Lower Power Remote Cardiac Monitoring Radio
+Frequency Wireless Medical Devices, Medical Implant
+Communication System (MICS) Or Medical Implant Telemetry
+Systems (MITS), and other such very Low Power Medical Radio
+Frequency Wireless Devices or Equipments (Exemption from
+Licensing Requirement) Rules, 2008
+Source: https://indiankanoon.org/doc/86042065/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Use of very Lower Power Remote Cardiac Monitoring Radio Frequency Wireless Medical Devices, Medical Implant
+Communication System (MICS) Or Medical Implant Telemetry Systems (MITS), and other such very Low Power Medical
+Radio Frequency Wireless Devices or Equipments (Exemption from Licensing Requirement) Rules, 2008
+UNION OF INDIA
+India
+The Use of very Lower Power Remote Cardiac Monitoring Radio Frequency Wireless Medical Devices, Medical Implant
+Communication System (MICS) Or Medical Implant Telemetry Systems (MITS), and other such very Low Power Medical
+Radio Frequency Wireless Devices or Equipments (Exemption from Licensing Requirement) Rules, 2008
+Rule
+THE-USE-OF-VERY-LOWER-POWER-REMOTE-CARDIAC-MONITORING-RADIO-FREQUENCY-WIRELESS-MEDIC
+AL-DEVICES-MEDICAL-IMPLANT-COMMUNICATION-SYSTEM-MICS-OR-MEDICAL-IMPLANT-TELEMETRY-SYSTE
+Page 1/3
+----- PAGE 2 -----
+The Use of very Lower Power Remote Cardiac Monitoring Radio Frequency Wireless Medical Dev...
+MS-MITS-AND-OTHER-SUCH-VERY-LOW-POWER-MEDICAL-RADIO-FREQUENCY-WIRELESS-DEVICES-OR-EQUI
+PMENTS-EXEMPTION-FROM-LICENSING-REQUIREMENT-RULES-2008 of 2008
+Published on 23 September 2008
+Commenced on 23 September 2008
+[This is the version of this document from 23 September 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Use of very Lower Power Remote Cardiac Monitoring Radio Frequency Wireless Medical Devices, Medical Implant
+Communication System (MICS) Or Medical Implant Telemetry Systems (MITS), and other such very Low Power Medical
+Radio Frequency Wireless Devices or Equipments (Exemption from Licensing Requirement) Rules, 2008
+Published Vide Notification in the Gazette of India, Extra, Part 2, Section 3(ii), dated 23rd September, 2008
+1738.
+G.S.R. 673 (E), dated 23rd September, 2008. - In exercise of the powers conferred by Sections 4 and 7 of the Indian
+Telegraph Act, 1885 (
+13 of 1885
+) and Sections 4 and 10 the Indian Wireless Telegraph Act, 1933 (
+17 of 1933
+), the Central Government hereby makes the following rules, namely :-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Use of Very Lower Power Remote Cardiac Monitoring Radio Frequency Wireless Medical
+Devices, Medical Implant Communication System (MICS) or Medical Implant Telemetry Systems (MITS), and other such
+Very Low Power Medical Radio Frequency Wireless Devices or Equipments (Exemption from Licensing Requirement)
+Rules, 2008.
+(2)
+These rules shall be applicable in the 402-405 MHz frequency band.
+(3)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definition.
+- In these rules, unless the context otherwise requires,---
+(a)
+"Act" means the Indian Telegraph Act, 1885 (
+13 of 1885
+);
+(b)
+"Effective Radiated Power" includes the gain of the antenna, if any;
+(c)
+Words and expressions used in these rules and not defined but defined in the Act and the Indian Wireless Telegraphy
+Act, 1933 (
+17 of 1933
+), shall have the same meanings respectively as assigned to them in those Acts.
+3.
+Use of Very Low Power Remote Cardiac Monitoring Radio Frequency Wireless Medical Devices, Medical Implant
+Communication System (MICS) or Medical Implant elementary Systems (MITS) and other such very Low Power Medical
+Radio Frequancy Wireless Devices or Equipments in the 402-405 MHz frequency band.
+- Notwithstanding anything contained in any law for the time being in force, no licence shall be required by any person to
+establish, maintain, work, possess or deal in any wireless equipment for the purpose of usage of very low power remote
+cardiac monitoring radio frequency wireless medical devices, Medical Implant Communication Systems (MICS) or
+Medical Implant Telemetry Systems (MITE), and other such very low power medical radio frequency wireless devices or
+equipments in the 402-405 MHz frequency band, on non-interference, non-protection and shared (non-exclusive) basis,
+Page 2/3
+----- PAGE 3 -----
+The Use of very Lower Power Remote Cardiac Monitoring Radio Frequency Wireless Medical Dev...
+with the Maximum Effective Isotropic Radiated Power and other technical parameters as specified in the Table below,
+namely :-
+TABLE
+Frequency Band Maximum Effective Radiated Power Type of Antenna
+(ERP)
+and Emission Bandwidth
+1
+2
+3
+402-405MHz
+Maximum Effective Radiated Power (Maximum (ERP) of 25 micro
+Watt or less, with channel emission bandwidth within 300 KHz.
+Built-in Antenna
+4.
+Interference.
+- The effect of unwanted energy due to one or a combination of emissions, radiations, of induction upon reception in a
+radio communication system, manifested by any performance degradation, misinterpretation, or loss of information
+which could be extracted in the absence of such unwanted energy, where any person whom a licence has been issued
+under Section 4 of the Act, informs that his licensed system is getting harmful interference from any other radio
+communication system exempted under these rules, the user of such unlicensed wireless equipment shall take
+necessary steps to avoid interference by relocating the equipment, reducing the power using special type of antenna
+including discontinuation of such wireless use, if required :
+Provided that, before such discontinuation, a reasonable opportunity to explain the circumstances shall be offered to
+such unlicensed user of wireless equipment.
+5.
+Equipment.
+(1)
+The medical wireless device or equipment shall be type approved and designed and constructed in such a manner that
+the bandwidth of emission and other parameters shall conform to the limits specified in the Table referred to in above
+rules.
+(2)
+The application for obtaining equipment type approval shall be made to the Central Government in such application
+format which shall be available on website; www.wpc.dot.gov.in.
+6.
+Conditions.
+- These rules,-
+(i)
+do not in any way, affects the licensing rights or procedures of existing and planned wireless operation, in this frequency
+band;
+(ii)
+are not applicable, wherever specific service license is required from the Central Government.
+Related AI tags, queries and research notes
+Translation
+Page 3/3

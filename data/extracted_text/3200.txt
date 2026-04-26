@@ -1,0 +1,473 @@
+
+----- PAGE 1 -----
+Flight and Maritime Connectivity Rules, 2018
+Flight and Maritime Connectivity Rules, 2018
+Source: https://indiankanoon.org/doc/1259165/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Flight and Maritime Connectivity Rules, 2018
+UNION OF INDIA
+India
+Flight and Maritime Connectivity Rules, 2018
+Rule FLIGHT-AND-MARITIME-CONNECTIVITY-RULES-2018 of 2018
+Published on 14 December 2018
+Commenced on 14 December 2018
+[This is the version of this document from 14 December 2018.]
+[Note: The original publication document is not available and this content could not be verified.]
+Flight and Maritime Connectivity Rules, 2018
+Published vide Notification No. G.S.R. 1211(E), dated 14.12.2018
+Last Updated 15th December, 2018
+G.S.R. 1211(E). - In exercise of the powers conferred by section 4 read with section 7 of the Indian Telegraph Act, 1885
+(
+13 of 1885
+), the Central Government, hereby makes the following rules for grant and regulation of authorisation for in Flight and
+Maritime Connectivity, namely:-
+1.
+Short title and commencement.
+(1)
+Page 1/9
+----- PAGE 2 -----
+Flight and Maritime Connectivity Rules, 2018
+These rules may be called the Flight and Maritime Connectivity Rules, 2018.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Indian Telegraph Act, 1885 (
+13 of 1885
+);
+(b)
+"Access Service (AS)" means telecommunication service provided to subscribers by means of a telegraph for the
+conveyance of voice or non-voice messages through wired or wireless telegraphy on the network of the Access Service
+Provider;
+(c)
+"designated authority" means the officer specially authorised by the Central Government or a State Government under
+section (5) of the Act;
+(d)
+"DoT" means Department of Telecommunications, Government of India;
+(e)
+"DoS" means Department of Space, Government of India;
+(f)
+"In Flight and Maritime Connectivity (IFMC) or IFMC service" means the establishment, maintenance and working of
+telegraph to provide wireless voice or data or both type of telegraph messages in aircraft and on ships;
+(g)
+"In Flight and Maritime Connectivity service provider or IFMC service provider" means a company authorised by the DoT
+to provide In Flight and Maritime Connectivity (IFMC);
+(h)
+"internet" means a globally interconnected network system that is logically linked together by globally unique addresses
+using standardised communication protocols and provides a variety of information and supports communication
+facilities;
+(i)
+"Internet Service Provider (ISP) category A" means Internet Service Provider licensed by DoT to provide internet service
+throughout India;
+(j)
+"Long Distance Charging Area (LDCA)" means one of the several areas, into which the country is divided and declared
+as such for the purpose of charging for trunk calls;
+(k)
+"license" means a license granted or having effect as if granted under section 4 of the Act and Indian Wireless Act 1933
+as the case may be;
+(l)
+"licensee" means a registered Indian company that has been awarded license to provide service authorised under the
+License, within the geographical boundaries of the specified service area under the Act;
+(m)
+"SACFA" means Standing Advisory Committee for Frequency Allocation;
+(n)
+"satellite gateway earth station" or "land earth station" means an earth station in the fixed satellite service or, in some
+cases, in the mobile-satellite service, located at a specified fixed point or within a specified area on land to provide a
+feeder link for the mobile satellite service;
+(o)
+Page 2/9
+----- PAGE 3 -----
+Flight and Maritime Connectivity Rules, 2018
+"service" means collection, carriage, transmission and delivery of messages over licensee's network;
+(p)
+"service area" means the geographical area as specified under the license granted for service authorisation;
+(q)
+"Short Distance Charging Area (SDCA)" means one of the several areas into which a Long Distance Charging Area
+(LDCA) is divided and declared as such for the purpose of charging for trunk calls and within which the local call charges
+and local numbering scheme is applicable;
+(r)
+"National Long Distance (NLD) service" refers to the provision of telegraph service over the national long distance
+network of the licensee between SDCAs of two licensed service areas;
+(s)
+"TEC" means Telecom Engineering Centre, Department of Telecommunications, Government of India;
+(t)
+"VSAT CUG" means Very Small Aperture Terminal Closed User Group;
+(u)
+"Wi-Fi" means a facility that allows computers, smartphones, or other devices to connect to the Internet or communicate
+with one another wirelessly within a particular area;
+(v)
+"WPC" means Wireless Planning and Co-ordination Wing of the Department of Telecommunications, Government of
+India.
+(2)
+Words and expressions used and not defined herein but defined in the Act shall have the same meaning as assigned to
+them in the Act.
+3.
+Applicability.
+-  The IFMC service provider, shall establish, maintain and work telegraph to provide wireless voice or data or both type
+of telegraph messages on ships within Indian territorial waters and on aircraft within or above India or Indian territorial
+waters.
+4.
+IFMC standards.
+(1)
+The Aircraft Earth Station or Earth Station in Motion established by an IFMC service provider for providing the IFMC
+service shall confirm to the applicable standards set by International standardisation bodies, such as, International
+Telecommunications Union (ITU), European Telecommunications Standards Institute (ETSI), Institute of Electrical and
+Electronics Engineers (IEEE); or set by International fora such as 3rd Generation Partnership Project (3GPP).
+(2)
+IFMC communication systems using Direct-Air-to-Ground Communications (DA2GC) shall be permitted to be used for in
+Flight Connectivity, provided they are in compliance of standards set by the international bodies referred to in sub-rule
+(1).
+5.
+Eligibility.
+(1)
+A licensee shall be eligible to apply for authorisation to provide IFMC service if it -
+(a)
+holds a license for access service or an ISP category A license; and
+(b)
+holds an NLD license or a commercial VSAT CUG service license, and has satellite gateway earth station within the
+service area of the license as specified in clause (a), in case connectivity through satellite is used.
+(2)
+The following companies shall also be eligible to apply for authorisation to provide IFMC service by entering into
+commercial agreements as referred to in sub-rule (5) and (6), namely:-
+Page 3/9
+----- PAGE 4 -----
+Flight and Maritime Connectivity Rules, 2018
+(a)
+any Indian airlines company or foreign airlines company having permission to enter Indian airspace by the Directorate
+General of Civil Aviation;
+(b)
+any Indian shipping company or foreign shipping company whose vessels or ships call Indian ports or transit Indian
+territorial waters and intend to carry out communication for non-GMDSS (Global Maritime Distress and Safety System)
+[routine] or for commercial purpose; and
+(c)
+any company incorporated under the Companies Act, 2013 (
+18 of 2013
+) or under any previous company law.
+(3)
+A licensee referred to in sub-rule (1), may provide voice or data or both services in accordance with the scope of the
+license, held by it.
+(4)
+Data service may be provided by the IFMC service provider through Wi-Fi.
+(5)
+For providing data service, the companies referred to in sub-rule (2), shall enter into a commercial agreement with at
+least one licensee of -
+(a)
+access service or ISP category A; and
+(b)
+commercial VSAT CUG service or NLD service, having satellite gateway earth station within the service area of
+partnering licensee as referred to in clause (a), in case connectivity through satellite is used.
+(6)
+For providing voice and data service, the companies referred to in sub-rule (2), shall enter into a commercial agreement
+with at least one licensee of -
+(a)
+access service; and
+(b)
+commercial VSAT CUG service or NLD service, having satellite gateway earth station within the service area of
+partnering licensee of access service, in case connectivity through satellite is used.
+6.
+Application for obtaining authorisation to provide IFMC service.
+(1)
+Any eligible licensee or company referred to in sub-rules (1) and (2) of rule 5, shall make an application in the form as
+per Annexure appended to these rules, to Under Secretary (AS-I), Department of Telecommunications, Sanchar
+Bhawan, 20 Ashoka Road, New Delhi - 110 001, for obtaining the authorisation to provide IFMC service.
+(2)
+The applicant under sub-rule (1) shall pay non-refundable application processing fee as per the details given in the said
+application form at Annexure.
+(3)
+The DoT, if the application is found in order in all respects, shall grant the authorisation to the applicant under sub-rule
+(1), to provide IFMC service.
+7.
+Validity.
+-  The authorisation granted under sub-rule (3) of rule 6 shall be valid for a period of ten years from the date of its grant.
+8.
+Revocation of Authorisation.
+-  The DoT may, at any time, revoke the authorisation granted under sub-rule (3) of rule 6, if it is necessary or expedient
+to do so in public interest or in the interest of the security of the State or in case of violation of any provisions of these
+Page 4/9
+----- PAGE 5 -----
+Flight and Maritime Connectivity Rules, 2018
+rules or in default of payment of any consideration payable thereunder:
+Provided that the DoT shall give a written notice of twenty-one days to the IFMC service provider before such revocation
+and any such revocation shall be effective from the sixty-first calendar day from the date of its issuance:
+Provided further that the DoT shall not be responsible for any loss which may arise out of such revocation.
+9.
+Restrictions.
+(1)
+The IFMC service provider shall provide the operation of mobile communication services in aircraft at minimum height of
+3000 meters in Indian airspace to avoid interference with terrestrial mobile networks.
+(2)
+Internet services through Wi-Fi in aircraft shall be made available when electronic devices are permitted to be used only
+in airplane mode.
+10.
+Regulatory provisions.
+(1)
+The regulatory permissions under these rules shall be same for both, Indian registered airlines or ships and foreign
+registered airlines or ships offering IFMC services.
+(2)
+These rules shall also be applicable for business jets, executive aircraft and yachts.
+(3)
+The modification of aircraft registered in India, to provide IFMC facility, shall be approved by the Directorate General of
+Civil Aviation as per the Aircraft Rules, 1937.
+(4)
+There shall be separate infrastructure for IFMC and navigation system in aircraft and ships to avoid interference.
+(5)
+IFMC shall be in exclusive control of the pilot or captain of the aircraft or ship to enable him to turn off the connectivity
+during any adverse condition.
+11.
+Location of satellite gateway earth station.
+-  In case of using satellite system for providing IFMC services, the telegraph message shall be passed through the
+satellite gateway earth station located within India, as specified in rule 5 and such satellite gateway earth stations shall
+be interconnected with the NLD or access service or ISP licensee's network for further delivery of service.
+12.
+Satellite system.
+(1)
+The IFMC service provider shall be permitted to use either Indian satellite system or foreign satellite system capacity
+duly authorised through the Department of Space.
+(2)
+Spectrum neutral approach shall be adopted in satellite system being used for providing IFMC services.
+(3)
+The IFMC service provider or its partnering licensee shall acquire the right to use radio spectrum with frequency
+assignment made by WPC Wing of DoT.
+(4)
+The IFMC service provider or its partnering licensees shall obtain SACFA clearance and Wireless Operating License, for
+satellite gateway earth stations, wherever required.
+(5)
+The DoT shall have right to inspect as well as monitor on board radio stations or satellite gateway earth stations to
+ensure compliance of technical parameters.
+(6)
+A telecom licensee shall be permitted to use satellite bandwidth already assigned to it, for the provision of IFMC
+services.
+Page 5/9
+----- PAGE 6 -----
+Flight and Maritime Connectivity Rules, 2018
+13.
+Monitoring or interception.
+(1)
+The designated authority, shall have the right to monitor or intercept the telegraph message passing through the IFMC
+network.
+(2)
+The hardware and software required for lawful interception and monitoring of telegraph message shall be arranged by
+the IFMC service provider either itself or through its partnering licensee at the premises of designated authorities of the
+Central Government or a State Government.
+(3)
+For establishing connectivity to a centralised monitoring system, the IFMC service provider at its own cost shall arrange
+either itself or through its partnering licensee, appropriately dimensioned hardware and bandwidth or dark fibre upto a
+designated point as required by the DoT.
+(4)
+The IFMC service provider shall make arrangement for monitoring of telegraph message in enclair form either itself or
+through its partnering licensee.
+(5)
+Any service permitted under these rules, shall be commenced by the IFMC service provider only after giving an
+intimation to do so to the DoT:
+Provided that the monitoring facilities as specified in sub-rule (2), (3) and (4) shall have to be demonstrated by the IFMC
+service provider to the DoT, within ninety days from the date of intimation.
+14.
+Fee.
+(1)
+The IFMC service provider shall pay annual fee of one rupee to be paid on annual basis to the DoT through Bharatkosh.
+(2)
+The fee as specified in sub-rule (1), is in addition to the satellite bandwidth charges, license fees, spectrum charges and
+such other charges which are to be paid by the telecom licensees under the respective licenses.
+(3)
+Revenue earned by the partnering licensee from IFMC service providers or by the licensee providing IFMC services,
+shall be included in the gross revenue of the licensee, for the purpose of license fee and spectrum usage charges.
+Annexure
+[See rule 6]
+Government of India Ministry of Communications Department of Telecommunications
+(Access Services Cell)
+Sanchar Bhawan, 20 Ashoka Road, New Delhi-110001.
+Application form for Authorisation for Providing in Flight and Maritime Connectivity (IFMC) Service
+1.
+Name of Applicant:
+______________________________________
+______________________________________
+2.
+Complete postal address with Telephone Nos. / FAX
+No. / E-Mail:
+(i) Corporate Office:
+______________________________________
+______________________________________
+______________________________________
+(ii) Registered Office:
+______________________________________
+______________________________________
+Page 6/9
+----- PAGE 7 -----
+Flight and Maritime Connectivity Rules, 2018
+______________________________________
+3.
+Address for correspondence with
+______________________________________
+Telephone Nos. / FAX No. / E-mail:
+______________________________________
+______________________________________
+4.
+Name of Authorised contact person,
+______________________________________
+his designation, address and
+______________________________________
+Telephone Nos. / FAX No. / E-mail:
+______________________________________
+5. Details of payment of non-refundable application processing fee
+of Rs.50,000/- (fifty thousand rupees only), being submitted along
+with the application. (DD / PO to be enclosed in a separate
+envelope): _______________________________________
+(Application processing fee to be submitted in the form of demand
+draft / pay order from a schedule Bank payable at New Delhi,
+issued in the name of Pay and Account Officer (Head Quarter) DoT
+or through Bharatkosh by e-payment)
+6.
+(i) Which service is proposed to be provided?
+Data/Voice/Both.
+(ii) Details of the License(s) (CMTS / UASL / ISP-A) or
+authorisation(s) (AS / ISP-A) under Unified License, held by the
+applicant or its partnering Licensee(s):
+Sl. No.
+Name of Licensee
+Name of License /Service authorisation
+Service area
+No. and date of license/authorisation
+(iii) Details of the License(s) (NLD / V-SAT)
+or authorisation(s) (NLD / V-SAT) under Unified License, held by
+the applicant or its partnering Licensee(s):
+Sl. No.
+Name of Licensee
+Name of License / Service authorisation
+No. and date of license / authorisation
+Satellite system used
+(iv) Certified copy of commercial agreement(s)
+with the Indian Telecom licensee(s) mentioned in (ii) and (iii)
+above, to be enclosed in case if the applicant enters into any
+such agreement. _______________ (To be certified by the Director
+duly authorised by the company)
+(v) Location of Satellite Gateway Earth
+Station: _________________________________
+7.
+Certified copy of Certificate of Registration
+along with Memorandum and Articles of Association to be enclosed.
+Page 7/9
+----- PAGE 8 -----
+Flight and Maritime Connectivity Rules, 2018
+(From Registrar of Companies, India, in case of company
+incorporated under the Companies Act, 2013 or under any previous
+company law or from corresponding authority of the country where
+the company is registered, in case of foreign airline / shipping
+company). ___________________________
+(To be certified by the Company Secretary / Statutory Auditor and
+countersigned by the Director duly authorised by the company)
+8.
+(i) Details of Promoters / Partners / Shareholders in the Company:
+Sl. No.
+Name of Promoter/Partner/Shareholder
+Indian/Foreign
+Equity %age
+Networth
+________
+_______________________
+___________
+___________
+___________
+________
+_______________________
+___________
+___________
+___________
+________
+_______________________
+___________
+___________
+___________
+________
+_______________________
+___________
+___________
+___________
+(Complete break-up of 100% of equity must be given. Equity holding upto 5% of the total equity shared among various
+shareholders can be clubbed but Indian and Foreign equity must be separate)
+(Certificate from Company Secretary / Statutory Auditor countersigned by Director duly authorised by the company to be
+attached)
+(ii)
+Equity details:
+Indian
+_______________________
+Foreign
+_______________________
+Total
+_______________________
+(Certificate from Company Secretary / Statutory Auditor countersigned by Director duly authorised by the company to be
+attached)
+(iii)
+FDI up to 100% with 49% under automatic route and beyond 49% through FIPP route is allowed in case of company
+incorporated under the Companies Act, 2013 or under any previous company law. Certified copy of FIPB / FIPP
+Page 8/9
+----- PAGE 9 -----
+Flight and Maritime Connectivity Rules, 2018
+approval is required to be enclosed in case if FDI is more than 49%.
+_____________________________________________
+(To be certified by the Company Secretary / Statutory Auditor countersigned by the Director duly authorised by the
+company)
+9. Certified copy of permission from the designated Indian authorities to enter Indian airspace, to be attached.
+_____________________________________________
+(To be certified by the Director duly authorised by the company)
+10. Power of Attorney by Resolution of Board of Directors, that the person signing the application is authorised
+signatory. _______________________________________
+11. Certificates / undertaking:
+(A)
+I hereby certify that I have carefully read the "Flight and Maritime Connectivity Rules, 2018". I undertake to fully comply
+with the terms and conditions therein.
+(B)
+I understand that this application if found incomplete in any respect and/or if found with conditional compliance or not
+accompanied with the application processing fee, shall be summarily rejected.
+(C)
+I understand that all matters relating to the application or authorisation if granted will be subject to jurisdiction of courts
+or Tribunal(s) in Delhi or New Delhi only.
+(D)
+I understand that if at any time, any averment made or information furnished for obtaining the authorisation is found
+incorrect, then the application and the authorisation if granted thereto on the basis of such application, shall be
+cancelled.
+(E)
+I understand that the application processing fee is non-refundable irrespective of any reason whatsoever.
+(F)
+I understand that in case of any change(s) in the information furnished above, at a later date, the same shall be
+intimated to the DoT within 15 days from the date of change.
+(H)
+I understand that in case it is decided to change the applicable annual fee or change the present process of
+authorisation, at a later date, this authorisation, irrespective of its remaining validity, shall stand cancelled after the
+specified period as decided by the competent authority and I shall have to apply as per new process at that point of time,
+as per terms and conditions applicable for such new process and I shall pay all the revised fees.
+Note. - (a) Concerned authority for submitting the application is Under Secretary (AS-I).
+(b)
+All the enclosures must be in English.
+Date:Place:
+Signature and name of theAuthorised Signatory(Company's Seal).
+Related AI tags, queries and research notes
+Translation
+Page 9/9

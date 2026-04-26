@@ -1,0 +1,337 @@
+
+----- PAGE 1 -----
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Informatio...
+The Information Technology (Procedure And Safeguards For
+Blocking For Access Of Information By Public) Rules,2009
+Source: https://indiankanoon.org/doc/136292737/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Information By Public) Rules,2009
+UNION OF INDIA
+India
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Information By Public) Rules,2009
+Rule
+THE-INFORMATION-TECHNOLOGY-PROCEDURE-AND-SAFEGUARDS-FOR-BLOCKING-FOR-ACCESS-OF-INFOR
+MATION-BY-PUBLIC-RULES-2009 of 2009
+Published on 27 October 2009
+Commenced on 27 October 2009
+[This is the version of this document from 27 October 2009.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Information By Public) Rules,2009
+Published Vide Notification G.S.R. 781(E), dated 27-10-2009,published in the Gazette of India, Extra., Part 2, Section
+3(i), dated 27-10-2009
+In exercise of the powers conferred by clause (z) of sub-section (2) of section 87, read with sub-section (2) of section
+69-A of the Information Technology Act, 2000 (
+21 of 2000
+), the Central Government hereby makes the following rules, namely:-
+Page 1/7
+----- PAGE 2 -----
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Informatio...
+1.
+Short title and commencement.
+(1)
+These rules may be called the Information Technology(Procedure and Safeguards for Blocking for Access of Information
+by Public) Rules, 2009.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+- In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Information Technology Act, 2000 (
+21 of 2000
+);
+(b)
+"computer resource" means computer resource as defined in clause (k) of sub-section (1) of
+section 2 of the Act;
+(c)
+"Designated Officer" means an officer designated as Designated Officer under rule 3;
+(d)
+"Form" means a form appended to these rules;
+(e)
+"intermediary" means an intermediary as defined in clause (w) of sub-section (1) of section 2 of
+the Act;
+(f)
+"nodal officer" means the nodal officer designated as such under rule 4;
+(g)
+"organisation" means-
+(i)
+Ministries or Departments of the Government of India;
+(ii)
+State Governments and Union territories;
+(iii)
+any agency of the Central Government, as may be notified in the Official Gazette, by the Central Government;
+(h)
+"request" means the request for blocking of access by the public any information generated, transmitted, received,
+stored or hosted in any computer resource;
+(i)
+"Review Committee" means the Review Committee constituted under rule 419-A of Indian Telegraph Rules, 1951.
+3.
+Designated Officer.
+- The Central Government shall designate by notification in Official Gazette, an officer of the Central Government not
+below the rank of a Joint Secretary, as the" Designated Officer", for the purpose of issuing direction for blocking for
+access by the public any information generated,transmitted, received, stored or hosted in any computer resource under
+sub-section (2) of section 69-A of the Act.
+4.
+Nodal Officer of organisation.
+- Every organisation for the purpose of these rules, shall designate one of its officer as the Nodal Officer and shall
+intimate the same to the Central Government in the Department of Information Technology under the Ministry of
+Communications and Information Technology, Government of India and also publish the name of the said Nodal Officer
+on their website.
+Page 2/7
+----- PAGE 3 -----
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Informatio...
+5.
+Direction by Designated Officer.
+- The Designated Officer may, on receipt of any request from the Nodal Officer of an organisation or a competent Court,
+by order direct any Agency of the Government or intermediary to block for access by the public any information or part
+thereof generated, transmitted,received, stored or hosted in any computer resource for any of the reasons specified in
+sub-section (1) of section 69-A of the Act.
+6.
+Forwarding of request by organisation.
+(1)
+Any person may send their complaint to the Nodal Officer of the concerned organisation for blocking of access by the
+public any information. generated,transmitted, received, stored or hosted in any computer resource:
+Provided that any request, other than the one from the Nodal Officer of the organisation, shall be sent with the approval
+of the Chief Secretary of the concerned State or Union territory to the Designated Officer:
+Provided further that in case a Union territory has no Chief Secretary, then, such request may be approved by the
+Adviser to the Administrator of that Union territory.
+(2)
+The organisation shall examine the complaint received under sub-rule (1) to satisfy themselves about the need for taking
+of action in relation to the reasons enumerated in sub-section (1) of section 69-A of the Act and after being satisfied, it
+shall send the request through its Nodal Officer to the Designated Officer in the format specified in the Form appended
+to these rules.
+(3)
+The Designated Officer shall not entertain any complaint or request for blocking of information directly from any person.
+(4)
+The request shall be in writing on the letter head of the respective organisation, complete in all respects and may be
+sent either by mail or by fax or by e-mail signed with electronic signature of the Nodal Officer:
+Provided that in case the request is sent by fax or by e-mail which is not signed with electronic signature, the Nodal
+Officer shall provide a signed copy of the request so as to reach the Designated Officer within a period of three days of
+receipt of the request by such fax or e-mail.
+(5)
+On receipt, each request shall be assigned a number alongwith the date and time of its receipt by the Designated Officer
+and he shall acknowledge the receipt thereof to the Nodal Officer within a period of twenty four hours of its receipt.
+7.
+Committee for examination of request.
+- The request alongwith the printed sample content of the alleged offending information or part thereof shall be
+examined by a committee consisting of the Designated Officer as its chairperson and representatives, not below the
+rank of Joint Secretary in Ministries of Law and Justice, Home Affairs, Information and Broadcasting and the Indian
+Computer Emergency Response Team appointed under sub-section (1) of section 70-B of the Act.
+8.
+Examination of request.
+(1)
+On receipt of request under rule 6, the Designated Officer shall make all reasonable efforts to identify the person or
+intermediary who has hosted the information or part thereof as well as the computer resource on which such information
+or part thereof is being hosted and where he is able to identify such person or intermediary and the computer resource
+hosting the information or part thereof which have been requested to be blocked for public access, he shall issue a
+notice by way of letters or fax or e-mail signed with electronic signatures to such person or intermediary in control of
+such computer resource to appear and submit their reply and clarifications, if any, before the committee referred to in
+rule 7, at a specified date and time, which shall not be less than forty-eight hours from the time of receipt of such notice
+by such person or intermediary.
+(2)
+In case of non-appearance of such person or intermediary, who has been served with the notice under sub-rule (1),
+before the committee on such specified date and time, the committee shall give specific recommendation in writing with
+Page 3/7
+----- PAGE 4 -----
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Informatio...
+respect to the request received from the Nodal Officer, based on the information available with the committee.
+(3)
+In case, such a person or intermediary, who has been served with the notice under sub-rule (1), is a foreign entity or
+body corporate as identified by the Designated Officer, notice shall be sent by way of letters or fax or e-mail signed with
+electronic signatures to such foreign entity or body corporate and any such foreign entity or body corporate shall
+respond to such a notice within the time specified therein, failing which the committee shall give specific
+recommendation in writing with respect to the request received from the Nodal Officer, based on the information
+available with the committee.
+(4)
+The committee referred to in rule 7 shall examine the request and printed sample information and consider whether the
+request is covered within the scope of sub-section (1) of section 69-A of the Act and that it is justifiable to block such
+information or part thereof and shall give specific recommendation in writing with respect to the request received from
+the Nodal Officer.
+(5)
+The designated Officer shall submit the recommendation of the committee, in respect of the request for blocking of
+information alongwith the details sent by the Nodal Officer, to the Secretary in the Department of Information Technology
+under the Ministry of Communications and Information Technology, Government of India (hereinafter referred to as the
+"Secretary, Department of Information Technology").
+(6)
+The Designated Officer, on approval of the request by the Secretary, Department of Information Technology, shall direct
+any agency of the Government or the intermediary to block the offending information generated,transmitted, received,
+stored or hosted in their computer resource for public access within the time limit specified in the direction:
+Provided that in case the request of the Nodal Officer is not approved by the Secretary, Department of Information
+Technology, the Designated Officer shall convey the same to such Nodal Officer.
+9.
+Blocking of information in cases of emergency.
+(1)
+Notwithstanding anything contained in rules 7 and 8, the Designated Officer, in any case of emergency nature, for which
+no delay is acceptable, shall examine the request and printed sample information and consider whether the request is
+within the scope of sub-section (1) of section 69-A of the Act and it is necessary or expedient and justifiable to block
+such information or part thereof and submit the request with specific recommendations in writing to Secretary,
+Department of Information Technology.
+(2)
+In a case of emergency nature, the Secretary, Department of Information Technology may, if he is satisfied that it is
+necessary or expedient and justifiable for blocking for public access of any information or part thereof through any
+computer resource and after recording reasons in writing, as an interim measure issue such directions as he may
+consider necessary to such identified or identifiable persons or intermediary in control of such computer resource
+hosting such information or part thereof without giving him an opportunity of hearing.
+(3)
+The Designated Officer, at the earliest but not later than forty-eight hours of issue of direction under sub-rule (2), shall
+bring the request before the committee referred to in rule 7 for its consideration and recommendation.
+(4)
+On receipt of recommendations of committee, Secretary, Department of Information Technology, shall pass the final
+order as regard to approval of such request and in case the request for blocking is not approved by the Secretary,
+Department of Information Technology in his final order, the interim direction issued under sub-rule (2) shall be revoked
+and the person or intermediary in control of such information shall be accordingly directed to unblock the information for
+public access.
+10.
+Process of order of Court for blocking of information.
+- In case of an order from a competent Court I India for blocking of any information or part thereof generated,
+transmitted, received, stored or hosted in a computer resource, the Designated Officer shall, immediately on receipt of
+Page 4/7
+----- PAGE 5 -----
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Informatio...
+certified copy of the Court order, submit it to the Secretary, Department of Information Technology and initiate action as
+directed by the Court.
+11.
+Expeditious disposal of request.
+- The request received from the Nodal Officer shall be decided expeditiously which in no case shall be more than seven
+working days from the date of receipt of the request.
+12.
+Action for non-compliance of direction by intermediary.
+- In case the intermediary fails to comply with the direction issued to him under rule 9, the Designated Officer shall, with
+the prior approval of the Secretary, Department of Information Technology, initiate appropriate action as may be
+required to comply with the provisions of sub-section (3) of section 69-A of the Act.
+13.
+Intermediary to designate one person to receive and handle directions.
+(1)
+Every intermediary shall designate at least one person to receive and handle the directions for blocking of access by the
+public any information generated, transmitted, received, stored or hosted in any computer resource under these rules.
+(2)
+The designated person of the Intermediary shall acknowledge receipt of the directions to the Designated Officer within
+two hours on receipt of the direction through acknowledgment letter or fax or e-mail signed with electronic signature.
+14.
+Meeting of Review Committee.
+- The Review Committee shall meet at least once in two months and record its findings whether the directions issued
+under these rules are in accordance with the provisions of sub-section (1) of section 69-A of the Act and if is of the
+opinion that the directions are not in accordance with the provisions referred to above, it may set aside the directions
+and issue order for unblocking of said information generated, transmitted, received, stored or hosted in a computer
+resource for public access.
+15.
+Maintenance of records by Designated Officer.
+- The Designated Officer shall maintain complete record of the request received and action taken thereof, in electronic
+database and also in register of the cases of blocking for public access of the information generated, transmitted,
+received, stored or hosted in a computer resource.
+16.
+Requests and complaints to be confidential.
+- Strict confidentiality shall be maintained regarding all the requests and complaints received and actions taken thereof.
+FORM
+[See rule 6(2)]
+A. Complaint
+1. Name of the complainant ..............................................................................................
+(Person who has sent the complaint to the Ministry/Department/State
+Government/Nodal Officer)
+2. Address
+...............................................................................................................................................................................................
+......................................................................
+City ...........................................................................Pin Code........................................
+3. Telephone .........................................................................................(prefix STD code)
+4. Fax (if any) .......................................................................................................................
+5. Mobile (if any) .................................................................................................................
+6. E-mail (if any) .................................................................................................................
+B. Details of websiic/computer resource/intermediary/offending Information hosted on the websitc
+(Please give details wherever known)
+7. URL/web address ..........................................................................................................
+Page 5/7
+----- PAGE 6 -----
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Informatio...
+8. IP Address .......................................................................................................................
+9. Hyperlink ........................................................................................................................
+10. Server/ Proxy Server address .......................................................................................
+11. Name of the Intermediary .............................................................................................
+12. URL of the Intermediary ...............................................................................................
+(Please attach screenshot/printout of the offending information)
+13. Address or location of intermediary in case the intermediary is telecom service provider, network service provider,
+internet service provider, web-hosting service provider and cyber cafe or other form of intermediary for which information
+under points (7), (8), (9), (10), (11) and (12) are not
+available...........................................................................................................................................
+..........................................................................................................................................
+..........................................................................................................................................
+C. Details of Request for blocking
+14. Recommendation /Comments of the Ministry /State Government
+...............................................................................................................................................................................................
+....................................................................................................................................................
+15. The level at which the comments/ recommendation have been approved
+(Please specify designation) .........................................................................................
+16. Have the complaint been examined in Ministry/State Government: Y/N
+17.
+If yes, under which of the following reasons it falls (please tick):
+(i)
+Interest of sovereignty or integrity of India
+(ii)
+Defence of India
+(iii)
+Security of the State
+(iv)
+Friendly relations with foreign States
+(v)
+Public order
+(vi)
+For preventing incitement  to the commission of any cognizable offence relating to above
+D. Details of the Nodal Officer forwarding the complaint alongwith recommendation of the Ministry/State Government
+and related enclosures
+18.
+Name of the Nodal Officer ............................................................................................
+19.
+Designation .....................................................................................................................
+20.
+Organisation ................ ...................................................................................................
+21.
+Address ....................
+..........................................................................................................................................................................
+City..............................Pin Code.............................................
+22.
+Telephone.............................................(prefix STD Code)
+23.
+Fax (if any)........................................................................
+24.
+Mobile (if any)...................................................................
+Page 6/7
+----- PAGE 7 -----
+The Information Technology (Procedure And Safeguards For Blocking For Access Of Informatio...
+25.
+E-mail...............................................................................
+E. Any other information.
+F.Enclosures
+1.
+2.
+3.
+Date  .........................
+Place..........................
+.................................
+Signature
+Related AI tags, queries and research notes
+Translation
+Page 7/7

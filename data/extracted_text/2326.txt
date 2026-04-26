@@ -1,0 +1,275 @@
+
+----- PAGE 1 -----
+Electronic Furnishing Of Return Of Income Scheme, 2007
+Electronic Furnishing Of Return Of Income Scheme, 2007
+Source: https://indiankanoon.org/doc/178223827/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Electronic Furnishing Of Return Of Income Scheme, 2007
+UNION OF INDIA
+India
+Electronic Furnishing Of Return Of Income Scheme, 2007
+Rule ELECTRONIC-FURNISHING-OF-RETURN-OF-INCOME-SCHEME-2007 of 2007
+Published on 27 July 2007
+Commenced on 27 July 2007
+[This is the version of this document from 27 July 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+Electronic Furnishing Of Return Of Income Scheme, 2007
+Published vide Notification Gazette of India, Extra; Part 2, Section 3 (ii), dated 27.7.2007
+1616.
+S.O. 1281(E), dated 27.7.2007.-  In exercise of the powers conferred by sub-section (1B) of sections 139 and 139-D of
+the Income-tax Act, 1961 (
+43 of 1961
+) read with sub-rule (3) of rule 12 of the Income-tax Rules, 1962 and in supercession of the Electronic Furnishing of
+Return of Income Scheme, 2004 published in the Gazette of India, Extraordinary, Part II, Section 3, sub-section (ii)
+under the notification of the Government of India, Ministry of Finance (Department of Revenue), Central Board of Direct
+Taxes vide S.O. 1073(E) dated the 30th September, 2004, except as respects things done, or omitted to be done, the
+Central Board of Direct Taxes hereby specifies the following scheme, namely:-
+Page 1/6
+----- PAGE 2 -----
+Electronic Furnishing Of Return Of Income Scheme, 2007
+1.
+Short title and commencement.-
+(1)
+This scheme shall be called the Electronic Furnishing of Return of Income Scheme, 2007.
+(2)
+It shall come into force on the date of its publication in the Official Gazette.
+2.
+Definitions.-
+In this scheme, unless the context otherwise requires-
+(a)
+"Act" means the Income Tax Act, 1961 (
+43 of 1961
+);
+(b)
+"Board" means Central Board of Direct Taxes constituted under the Central Board of Revenues Act, 1963 (
+54 of 1963
+);
+(c)
+"digital signature" means a digital signature issued by any Certifying Authority authorised to issue such certificates by
+the Controller of Certifying Authorities.
+(d)
+"eligible person" means a person who has been allotted a permanent account number and who is required to furnish
+return of income or return of fringe benefits in Form ITR-1, Form ITR-2, Form ITR-3, Form ITR-4, Form ITR-5, Form
+ITR-6 or Form ITR-8;
+Explanation.- A firm or a company which, under the provisions of sub-rule (3) of Rule 12 of the Income-tax Rules, 1962,
+is required to furnish the return electronically under digital signature or transmit the data of the return electronically and
+thereafter to submit the verification of the return in Form ITR-V is also an eligible person for the purposes of this
+Scheme;
+(e)
+"e-Retum" means electronically transmitted data of return furnished under this scheme, supported by a duly verified
+Form ITR-V;
+(f)
+"e-Return Administrator" means an officer, not below the rank of the Commissioner of Income-tax, designated by the
+Board for the purpose of administration of this scheme;
+(g)
+"e-Return Intermediary" means a person authorised to be an e-Return intermediary under this scheme;
+(h)
+"Form" means the form as set out in Appendix-ll of the Income-tax Rules, 1962;
+(i)
+"Registrar" means a person appointed by the Board to act as a Registrar under this scheme;
+(j)
+"rule" means the rules contained in the Income-tax Rules,1962;
+(k)
+words and expressions used herein but not defined and defined in the Act shall have the meanings respectively
+assigned to them in the Act.
+3.
+Filing of e-Returns.-
+(1)
+An eligible person being a company or a firm referred to in clause (a) of proviso to sub-rule (3) of rule 12 of the
+Income-tax Rules, 1962 or any other eligible person may, at his option, furnish his return of income which he is required
+to furnish under section 139 or clause (i) of sub-section (1) of section 142 or sub-section (1) of section 148 or section
+Page 2/6
+----- PAGE 3 -----
+Electronic Furnishing Of Return Of Income Scheme, 2007
+153A of the Act or return of fringe benefits which he is required to furnish under sub-section (1) or sub-section (2) of
+section 115WD of the Act for assessment year 2007-08 or any subsequent assessment year, to an e-Return
+Intermediary who shall digitise the data of such return and transmit the same electronically to a server designated for
+this purpose by the e-Return Administrator, on or before the due date.
+(2)
+The eligible person shall submit the duly verified Form ITR-V to the Assessing Officer not later than fifteen days from the
+issue of the provisional receipt for the electronic data received by the e-Return Administrator and the date on which such
+receipt is issued shall be deemed to be the date of filing the return.
+(3)
+Where Form ITR-V is not submitted within the time prescribed in sub-paragraph (2), the date of submitting Form ITR-V
+shall be deemed to be the date of filing the return.
+4.
+Revised Return of Income.-
+An eligible person as mentioned in paragraph (3) may furnish a revised return of income under sub-section (5) of section
+139 of the Act or of fringe benefits under sub-section (4) of section 115WD of the Act for an assessment year under this
+Scheme if he has furnished a return of income or return of fringe benefits for that assessment year under the scheme.
+5.
+Qualifications of an e-Return Intermediary.-
+(1)
+An e-Return Intermediary shall have the following qualifications, namely:-
+(a)
+it must be a public sector company as defined in clause (36A) of section 2 of the Act or any other company in which
+public are substantially interested within the meaning of clause (18) of section 2 of the Act; or
+(b)
+a firm of Chartered Accountants or Advocates, if it has been allotted a permanent account number; or
+(c)
+a Chartered Accountant or an Advocate, if he has been allotted a permanent account number; or
+(d)
+a Drawing or Disbursing Officer (DDO) of a Government Department.
+(2)
+The e-intermediary should have at least class II digital signature certificate from any of the Certifying authorities
+authorised to issue such certificates by the Controller of Certifying authorities.
+(3)
+The e-intermediary should have in place security procedure to the satisfaction of e-Return Administrator to ensure that
+confidentiality of the assessees' information is properly secured.
+(4)
+The e-intermediary should have necessary archival, retrieval and, security policy for the e-Retums which would be filed
+through him, as decided by e-Return Administrator from time to time.
+(5)
+The e-intermediary or its Principal Officer, must not have been convicted for any professional misconduct, fraud,
+embezzlement or any criminal offence by any court of law or by any professional body, as the case may be.
+6.
+Authorisation of e-Return Intermediary.-
+(1)
+A person qualifying to be appointed as an e-intermediary shall apply to the Registrar, along with such application fee, as
+may be decided by e-Return Administrator, from time to time.
+(2)
+Upon receipt of the application, the Registrar shall verify that the application is complete and duly supported by
+necessary documents.
+(3)
+In case of any defect in the application, the Registrar shall intimate the same to the applicant for removing the defects
+Page 3/6
+----- PAGE 4 -----
+Electronic Furnishing Of Return Of Income Scheme, 2007
+within the period specified in such intimation.
+(4)
+Applications not satisfying the qualifications specified in paragraph 5 shall not be rocessed further.
+(5)
+In case of a valid application the Registrar shall carry out due diligence of the applicant.
+(6)
+The Registrar shall transmit the application and the 'due diligence' report online to the e-Return Administrator and
+thereafter the e-Return Administrator may issue an appointment order along with the e-Return Intermediary Identification
+Number (ERIIN) and password to act as an e-Return intermediary.
+(7)
+The appointment of the e-intermediary shall be valid for a period of two years and may be extended for a further period
+of two years.
+(8)
+The Registrar, including his employees, agents, franchisees, etc., shall maintain confidentiality of any information that
+comes to their possession during the course of implementation of this scheme and shall not part with any such
+information except with the prior permission of the e-Return Administrator.
+7.
+Refund of security deposit to an e-Return Intermediary under the earlier scheme.-
+Where a person has been appointed as an e-Return Intermediary under the "Electronic Furnishing of Income Scheme,
+2004", the security deposit made by him shall be refunded to him by the e-Return Administrator within the time decided
+by the e-Administrator.
+8.
+Procedure to be followed by the eligible person.-
+An eligible person opting to furnish his return of income under this scheme shall -
+(i)
+ensure that his return of income or fringe benefits falls under this scheme;
+(ii)
+approach and give his consent to any one of the e-Return Intermediaries to act as his agent for the purpose of furnishing
+his e-Return for the relevant assessment year.
+9.
+Procedure to be followed by e-Return Intermediary.-
+(1)
+An e-Return Intermediary shall receive the paper return of income, duly verified by the eligible person or shall prepare
+the return of income on the basis of the documents furnished by the eligible person, as the case may be.
+(2)
+The intermediary shall upload the completed return of income, after validation of permanent account number, in the
+format specified by the e-Return Administrator, using his e-Return Intermediary Identification Number (ERIIN).
+(3)
+The uploaded returns shall be accepted after necessary validations. In respect of each accepted e-return, a duly filled
+Form ITR-Vshall be generated by the system as a provisional receipt which shall be transmitted to the intermediary.
+(4)
+The intermediary shall deliver the acknowledgement receipt of the Form ITR-V to the concerned eligible person if the
+Form ITR-V is collected by him for submission to the Income-tax Department.
+(5)
+The date of issue of the provisional receipt shall be deemed to be the date of filing of return of income if the Form ITR-V
+has been filed with the Assessing Officer within fifteen days from the date of issue of the provisional receipt. If the Form
+ITR-V is filed after fifteen days from the date of uploading the data then the date of filing the Form ITR-V will be the date
+of filing the return of income.
+10.
+Processing of e-Return.-
+(1)
+Page 4/6
+----- PAGE 5 -----
+Electronic Furnishing Of Return Of Income Scheme, 2007
+The e-Retum shall be processed on priority basis.
+(2)
+The refund, if any, due to the assessee shall be either credited by the assessing officer directly to his bank account,
+using the Electronic Clearing Services of the Reserve Bank of India or be directly sent to the assessee.
+11.
+Functions and responsibilities of e-intermediary.-
+The e-Return Intermediary shall -
+(a)
+ensure that the assessee is an eligible person under this scheme;
+(b)
+ensure that the assessee has quoted a correct and valid permanent account number;
+(c)
+ensure that the particulars of advance tax, self assessment tax and tax deducted at source are in accordance with the
+documents enclosed;
+(d)
+ensure that the paper return of income has been properly filled in and duly verified by the assessee, and the enclosures
+required to be filed with the return of income are enclosed;
+(e)
+ensure accuracy of the data entry while transcribing the return of income and during its transmission;
+(f)
+ensure that the electronic portion of the return of income is transmitted on or before the due date for filing the return of
+income;
+(g)
+ensure that the paper return Form-ITR-V is filed with the assessing officer having jurisdiction over the concerned
+assessee;
+(h)
+retain for a period of one year from the end of the relevant assessment year the electronic data of the return of income
+and the information relating to the provisional receipts issued in respect of the returns filed through it;
+(i)
+provide to the assessee a paper copy of the e-return submitted by e-intermediary and the acknowledgement receipt of
+Form ITR-V filed to the Assessing Officer;
+(j)
+maintain confidentiality of the information that comes to his possession during the course of implementation of this
+scheme and shall not part with any such information to anyone, except with the prior permission of the assessee or the
+assessing officer;
+(k)
+ensure that all his employees, agents, franchisees, etc., adhere to the provisions of this scheme;
+(l)
+promptly inform the Registrar of any change in the particulars given in the application filed by it for registration;
+(m)
+abide by the instructions issued by the e-Retum Administrator, from time to time, for proper implementation of this
+scheme.
+12.
+e-Return Administrator.-
+(1)
+The e-Return Administrator shall specify the procedures, formats and standards for ensuring secure capture and
+transmission of data and shall also be responsible for the day to day administration of the scheme.
+(2)
+The e-Return Administrator shall ensure compliance by the e-Return intermediaries with he technical requirements of
+the scheme.
+(3)
+Page 5/6
+----- PAGE 6 -----
+Electronic Furnishing Of Return Of Income Scheme, 2007
+The e-Return Administrator shall be responsible for evolving and implementing appropriate security, archival and
+retrieval policies for proper and secure implementationof this scheme.
+Related AI tags, queries and research notes
+Translation
+Page 6/6

@@ -1,0 +1,1523 @@
+
+----- PAGE 1 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+The Central Electricity Regulatory Commission (Terms And
+Conditions For Tariff Determination From Renewable Energy
+Sources) Regulations, 2009
+Source: https://indiankanoon.org/doc/115107961/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determination From Renewable
+Energy Sources) Regulations, 2009
+UNION OF INDIA
+India
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determination From Renewable
+Energy Sources) Regulations, 2009
+Rule
+THE-CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-TERMS-AND-CONDITIONS-FOR-TARIFF-DETERMIN
+ATION-FROM-RENEWABLE-ENERGY-SOURCES-REGULATIONS-2009 of 2009
+Published on 16 September 2009
+Commenced on 16 September 2009
+[This is the version of this document from 16 September 2009.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determination From Renewable
+Energy Sources) Regulations, 2009
+Published vide Notification No. L-7/186)201)/2009-CERC, dated 16.9.2009, published vide Notification Gazette of India,
+Page 1/29
+----- PAGE 2 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Extraordinary, Part 3, Section 4, dated 17.9.2009.
+9.
+/500
+In exercise of powers conferred under section 61 read with section 178(2)(s) of the Electricity Act, 2003 (
+36 of 2003
+), and all other powers enabling it in this behalf, and after previous publication, the Central Electricity Regulatory
+Commission hereby makes the following regulations, namely:-
+1.
+Short title and commencement
+.-(1) These regulations may be called the Central Electricity Regulatory Commission (Terms and Conditions for Tariff
+determination from Renewable Energy Sources) Regulations, 2009.
+(2)
+These regulations shall come into force from the date of their publication in the Official Gazette.
+2.
+Definitions and Interpretation
+.-(1) In these regulations, unless the context otherwise requires,-
+(a)
+"Act" means the Electricity Act, 2003 (
+36 of 2003
+);
+(b)
+"Auxiliary energy consumption" or "AUX" in relation to a period in case of a generating station means the quantum of
+energy consumed by auxiliary equipment of the generating station, and transformer losses within the generating station,
+expressed as a percentage of the sum of gross energy generated at the generator terminals of all the units of the
+generating station;
+(c)
+"Biomass" means wastes produced during agricultural and forestry operations (for example straws and stalks) or
+produced as a by-product of processing operations of agricultural produce (e.g., husks, shells, deoiled cakes, etc.);
+wood produced in dedicated energy plantations or recovered from wild bushes/weeds; and the wood waste produced in
+some industrial operations;
+(d)
+"Capital Cost" means the capital cost as defined in regulations 12, 24, 28, 34, 47, 57 and 61;
+(e)
+"Commission" means the Central Electricity Regulatory Commission referred to in sub-section (1) of section 76 of the
+Act;
+(f)
+"Conduct of Business Regulations" means the Central Electricity Regulatory Commission (Conduct of Business)
+Regulations, 1999 as amended from time to time;
+(g)
+"Control Period or Review Period" means the period during which the norms for determination of tariff specified in these
+regulations shall remain valid;
+(h)
+"Gross calorific value" or "GCV" in relation to a fuel used in generating station means the heat produced in kCal by
+complete combustion of one kilogram of solid fuel or one litre of liquid fuel or one standard cubic meter of gaseous fuel,
+as the case may be;
+(i)
+"Gross station heat rate" or "GHR" means the heat energy input in kCal required to generate one kWh of electrical
+energy at generator terminals of a thermal generating station;
+(j)
+"Hybrid Solar Thermal Power Plant" means the solar thermal power plant that uses other forms of energy input sources
+alongwith solar thermal energy for electricity generation, and wherein not less than 75% of electricity is generated from
+Page 2/29
+----- PAGE 3 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+solar energy component;
+(k)
+"Installed capacity" or "IC" means the summation of the name plate capacities of all the units of the generating station or
+the capacity of the generating station (reckoned at the generator terminals), approved by the Commission from time to
+time;
+(l)
+"Inter-connection Point" shall mean interface point of renewable energy generating facility with the transmission system
+or distribution system, as the case may be:
+(a)
+in relation to wind energy projects and Solar Photovoltaic Projects, inter-connection point shall be line isolater on
+outgoing feeder on HV side of the pooling sub-station;
+(b)
+in relation to small hydro power, biomass power and non fossil fuel based cogeneration power projects and Solar
+Thermal Power Projects the, inter-connection point shall be line isolator on outgoing feeder on HV side of generator
+transformer;
+(m)
+"MNRE" means the Ministry of New and Renewable Energy of the Government of India;
+(n)
+"Non-firm power" means the power generated from renewable sources, the hourly variation of which is dependent upon
+nature's phenomenon like sun, cloud, wind, etc., that cannot be accurately predicted;
+(o)
+"Non-fossil fuel based co-generation" means the process in which more than one form of energy (such as steam and
+electricity) are produced in a sequential manner by use of biomass provided the project may qualify to be a
+co-generation project if it fulfils the eligibility criteria as specified in clause (4) of regulation 4;
+(p)
+"Operation and maintenance expenses" or "O&M expenses" means the expenditure incurred on operation and
+maintenance of the project, or part thereof, and includes the expenditure on manpower, repairs, spares, consumables,
+insurance and overheads;
+(q)
+"Project" means a generating station or the evacuation system upto inter-connection point, as the case may be, and in
+case of a small hydro generating station includes all components of generating facility such as dam, intake water
+conductor system, power generating station and generating units of the scheme, as apportioned to power generation;
+(r)
+"Renewable Energy" means the grid quality electricity generated from renewable energy sources;
+(s)
+"Renewable Energy Power Plants" means the power plants other than the conventional power plants generating grid
+quality electricity from renewable energy sources;
+(t)
+"Renewable Energy Sources" means renewable sources such as small hydro, wind, solar including its integration with
+combined cycle, biomass, bio fuel cogeneration, urban or municipal waste and other such sources as approved by the
+MNRE;
+(u)
+"Small Hydro" means Hydro Power projects with a station capacity up to and including 25 MW;
+(v)
+"Solar PV power" means the Solar Photo Voltaic power project that uses sunlight for direct conversion into electricity
+through Photo Voltaic technology;
+(w)
+"Solar Thermal power" means the Solar Thermal power project that uses sunlight for direct conversion into electricity
+through Concentrated Solar Power technology based on either line focus or point focus principle;
+(x)
+"Tariff Period" means the period for which tariff is to be determined by the Commission on the basis of norms specified
+Page 3/29
+----- PAGE 4 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+under these regulations;
+(y)
+"Useful Life" in relation to a unit of a generating station including evacuation system shall mean the following duration
+from the date of commercial operation (COD) of such generation facility, namely:-
+(a)
+Wind energy power project - 25 years
+(b)
+Biomass power project, non-fossil fuel cogeneration - 20 years
+(c)
+Small Hydro Plant - 35 years
+(d)
+Solar PV/Solar thermal power plants - 25 years;
+(z)
+"Year" means a financial year.
+(2)
+Save as aforesaid and unless repugnant to the context or if the subject-matter otherwise requires, words and
+expressions used in these regulations and not defined, but defined in the Act, or the Indian Electricity Grid Code or the
+Central Electricity Regulatory Commission (Terms and Conditions of Tariff) Regulations, 2009 shall have the meanings
+assigned to them respectively in the Act or the Indian Electricity Grid Code or the Central Electricity Regulatory
+Commission (Terms and Conditions of Tariff) Regulations, 2009.
+3.
+Scope and extent of application
+.-These regulations shall apply in all cases where tariff, for a generating station or a unit thereof based on renewable
+sources of energy, is to be determined by the Commission under section 62 read with section 79 of the Act:
+Provided that in cases of wind, small hydro projects, biomass power, non-fossil fuel based cogeneration projects, solar
+PV and Solar Thermal power projects, these regulations shall apply subject to the fulfilment of eligibility criteria specified
+in regulation 4 of these regulations.
+4.
+Eligibility Criteria
+.-
+(1)
+Wind power project.-Located at the wind sites having minimum annual mean Wind Power Density (WPD) of 200
+Watt/m2 measured at hub height of 50 meters and using new wind turbine generators.
+(2)
+Small hydro project.-Located at the sites approved by State Nodal Agency/State Government using new plant and
+machinery, and installed power plant capacity to be lower than or equal to 25 MW at single location.
+(3)
+Biomass power project.-Biomass power projects using new plant and machinery based on Rankine Cycle technology
+and using biomass fuel sources, provided use of fossil fuel is restricted only to 15% of total fuel consumption on annual
+basis.
+(4)
+Non-fossil fuel based co-generation project.-The project shall qualify to be termed as a non-fossil fuel based
+co-generation project, if it is using new plant and machinery and is in accordance with the definition and also meets the
+qualifying requirement outlined below:
+Topping cycle mode of co-generation.-Any facility that uses non-fossil fuel input for the power generation and also
+utilizes the thermal energy generated for useful heat applications in other industrial activities simultaneously:
+Provided that for the co-generation facility to qualify under topping cycle mode, the sum of useful power output and one
+half the useful thermal output be greater than 45% of the facility's energy consumption, during season."
+Explanation.-For the purposes of this clause,-
+(a)
+"Useful power output" is the gross electrical output from the generator. There will be an auxiliary consumption in the
+Page 4/29
+----- PAGE 5 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+cogeneration plant itself (e.g., the boiler feed pump and the FD/ID fans). In order to compute the net power output it
+would be necessary to subtract the auxiliary consumption from the gross output. For simplicity of calculation, the useful
+power output is defined as the gross electricity (kWh) output from the generator.
+(b)
+"Useful Thermal Output" is the useful heat (steam) that is provided to the process by the cogeneration facility.
+(c)
+"Energy Consumption" of the facility is the useful energy input that is supplied by the fuel (normally bagasse or other
+such biomass fuel).
+(5)
+Solar PV and Solar Thermal Power Projects.-Based on Technologies approved by MNRE.
+Chapter 1
+General Principles
+5.
+Control Period or Review Period
+.-The Control Period or Review Period under these regulations shall be of three years, of which the first year shall be the
+period from the date of notification of these regulations to 31-3-2010:
+Provided that the benchmark capital cost for Solar PV and Solar thermal projects may be reviewed annually by the
+Commission:
+Provided further that the tariff determined as per these regulations for the RE projects commissioned during the Control
+Period, shall continue to be applicable for the entire duration of the Tariff Period as specified in regulation 6 below:
+Provided also that the revision in regulations for next Control Period shall be undertaken at least six months prior to the
+end of the first Control Period and in case regulations for the next Control Period are not notified until commencement of
+next Control Period, the tariff norms as per these regulations shall continue to remain applicable until notification of the
+revised regulations subject to adjustments as per revised regulations.
+6.
+Tariff Period
+.-(1) The Tariff Period for Renewable Energy power projects except in case of Small hydro projects below 5 MW, Solar
+PV, and Solar thermal power projects shall be thirteen (13) years.
+(2)
+In case of small hydro projects below 5 MW, the Tariff Period shall be thirty five (35) years.
+(3)
+In case of Solar PV and Solar thermal power projects the Tariff Period shall be twenty five years (25) years.
+(4)
+Tariff Period under these regulations shall be considered from the date of commercial operation of the renewable energy
+generating stations.
+(5)
+Tariff determined as per these regulations shall be applicable for Renewable Energy power projects, only for the
+duration of the Tariff Period as stipulated under regulation 6(1), (2) and (3).
+7.
+Project specific tariff
+.-(1) Project specific tariff, on case to case basis, shall be determined by the Commission for the following types of
+projects:
+(a)
+Municipal Solid Waste Projects;
+(b)
+any other new renewable energy technologies approved by MNRE;
+(c)
+the renewable energy projects which have been commissioned before the notification of these regulations but for which
+no power purchase agreement has been signed until the date of notification of these regulations;
+(d)
+Solar PV and Solar Thermal Power projects, if a project developer opts for project specific tariff:
+Page 5/29
+----- PAGE 6 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Provided that the Commission while determining the project specific tariff for Solar PV and Solar Thermal shall be
+guided by the provisions of Chapters 8 of these regulations;
+(e)
+Hybrid Solar Thermal Power plants;
+(f)
+Biomass project other than that based on Rankine Cycle technology application with water cooled condenser.
+(2)
+Determination of project specific tariff for generation of electricity from such renewable energy sources shall be in
+accordance with such terms and conditions as stipulated under relevant orders of the Commission:
+Provided that the financial norms as specified under Chapter 2 of these regulations, except for capital cost, shall be
+ceiling norms while determining the project specific tariff.
+8.
+Petition and proceedings for determination of tariff
+.-(1) The Commission shall determine the generic tariff on the basis of suo motu petition at least six months in advance
+at the beginning of each year of the Control Period for renewable energy technologies for which norms have been
+specified under the regulations.
+(2)
+A petition for determination of project specific tariff shall be accompanied by such fee as may be determined by
+regulations and shall be accompanied by-
+(a)
+information in forms 1.1, 1.2, 2.1 and 2.2 as the case may be, and as appended in these regulations;
+(b)
+detailed project report outlining technical and operational details, site specific aspects, premise for capital cost and
+financing plan, etc.;
+(c)
+a statement of all applicable terms and conditions and expected expenditure for the period for which tariff is to be
+determined;
+(d)
+a statement containing full details of calculation of any subsidy and incentive received, due or assumed to be due from
+the Central Government and/or State Government. This statement shall also include the proposed tariff calculated
+without consideration of the subsidy and incentive;
+(e)
+any other information that the Commission requires the petitioner to submit.
+(3)
+The proceedings for determination of tariff shall be in accordance with the Conduct of Business Regulations.
+9. Tariff Structure
+.-(1) The tariff for renewable energy technologies shall be single part tariff consisting of the following fixed cost
+components:
+(a)
+Return on equity;
+(b)
+Interest on loan capital;
+(c)
+Depreciation;
+(d)
+Interest on working capital;
+(e)
+Operation and maintenance expenses:
+Provided that for renewable energy technologies having fuel cost component, like biomass power projects and non-fossil
+fuel based cogeneration, single part tariff with two components, fixed cost component and fuel cost component, shall be
+determined.
+Page 6/29
+----- PAGE 7 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+10.
+Tariff Design
+.-(1) The generic tariff shall be determined on levellised basis for the Tariff Period:
+Provided that for renewable energy technologies having single part tariff with two components, tariff shall be determined
+on levellised basis considering the year of commissioning of the project for fixed cost component while the fuel cost
+component shall be specified on year of operation basis.
+(2)
+For the purpose of levellised tariff computation, the discount factor equivalent to weighted average cost of capital shall
+be considered.
+(3)
+Levellisation shall be carried out for the "useful life" of the Renewable Energy project while Tariff shall be specified for
+the period equivalent to "Tariff Period".
+11.
+Despatch principles for electricity generated from Renewable Energy Sources
+.-(1) All renewable energy power plants except for biomass power plants with installed capacity of 10 MW and above,
+and non-fossil fuel based cogeneration plants shall be treated as "MUST RUN" power plants and shall not be subjected
+to "merit order despatch" principles.
+(2)
+The biomass power generating station with an installed capacity of 10 MW and above and non-fossil fuel based
+co-generation projects shall be subjected to scheduling and despatch code as specified under Indian Electricity Grid
+Code (IEGC) and Central Electricity Regulatory Commission (Unscheduled Interchange and Related Matters)
+Regulations, 2009 including amendments thereto.
+Chapter 2
+Financial Principles
+12.
+Capital Cost
+.-The norms for the Capital Cost as specified in the subsequent technology specific chapters shall be inclusive of all
+capital work including plant and machinery, civil work, erection and commissioning, financing and interest during
+construction, and evacuation infrastructure up to inter-connection point:
+Provided that for project specific tariff determination, the generating company shall submit the break-up of capital cost
+items along with its petition in the manner specified under regulation 8.
+13.
+Debt Equity Ratio
+.-(1) For generic tariff to be determined based on suo motu petition, the debt equity ratio shall be 70 : 30.
+(2)
+For Project specific tariff, the following provisions shall apply:-
+If the equity actually deployed is more than 30% of the capital cost, equity in excess of 30% shall be treated as
+normative loan:
+Provided that where equity actually deployed is less than 30% of the capital cost, the actual equity shall be considered
+for determination of tariff:
+Provided further that the equity invested in foreign currency shall be designated in Indian rupees on the date of each
+investment.
+14.
+Loan and Finance Charges
+.-(1) Loan tenure.-For the purpose of determination of tariff, loan tenure of 10 years shall be considered.
+(2)
+Interest rate.-(a) The loans arrived at in the manner indicated above shall be considered as gross normative loan for
+calculation for interest on loan. The normative loan outstanding as on April 1st of every year shall be worked out by
+deducting the cumulative repayment up to March 31st of previous year from the gross normative loan.
+(b)
+For the purpose of computation of tariff, the normative interest rate shall be considered as average long term prime
+Page 7/29
+----- PAGE 8 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+lending rate (LTPLR) of State Bank of India (SBI) prevalent during the previous year plus 150 basis points.
+(c)
+Notwithstanding any moratorium period availed by the generating company, the repayment of loan shall be considered
+from the first year of commercial operation of the project and shall be equal to the annual depreciation allowed.
+15.
+Depreciation
+.-(1) The value base for the purpose of depreciation shall be the Capital Cost of the asset admitted by the Commission.
+The Salvage value of the asset shall be considered as 10% and depreciation shall be allowed up to maximum of 90% of
+the Capital Cost of the asset.
+(2)
+Depreciation per annum shall be based on "Differential Depreciation Approach" over loan tenure and period beyond loan
+tenure over useful life computed on "Straight Line Method". The depreciation rate for the first 10 years of the Tariff
+Period shall be 7% per annum and the remaining depreciation shall be spread over the remaining useful life of the
+project from 11th year onwards.
+(3)
+Depreciation shall be chargeable from the first year of commercial operation:
+Provided that in case of commercial operation of the asset for part of the year, depreciation shall be charged on pro rata
+basis.
+16.
+Return on Equity
+.-(1) The value base for the equity shall be 30% of the capital cost or actual equity (in case of project specific tariff
+determination) as determined under regulation 13.
+(2)
+The normative return on equity shall be:-
+(a)
+Pre-tax 19% per annum for the first 10 years.
+(b)
+Pre-tax 24% per annum 11th years onwards.
+17.
+Interest on Working Capital
+.-(1) The working capital requirement in respect of wind energy projects, small hydro power, solar PV and Solar thermal
+power projects shall be computed in accordance with the following:-
+Wind Energy/Small Hydro Power/Solar PV/Solar thermal
+(a)
+Operation & Maintenance expenses for one month;
+(b)
+Receivables equivalent to 2 (Two) months of energy charges for sale of electricity calculated on the normative CUF;
+(c)
+Maintenance spare @ 15% of operation and maintenance expenses
+(2)
+The Working Capital requirement in respect of biomass power projects and non-fossil fuel based co-generation projects
+shall be computed in accordance with the following clause:
+Biomass Power and Non-fossil fuel Co-generation
+(a)
+Fuel costs for four months equivalent to normative PLF;
+(b)
+Operation and Maintenance expense for one month;
+(c)
+Receivables equivalent to 2 (Two) months of fixed and variable charges for sale of electricity calculated on the target
+PLF;
+(d)
+Page 8/29
+----- PAGE 9 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Maintenance spare @ 15% of operation and maintenance expenses
+(3)
+Interest on Working Capital shall be at interest rate equivalent to average State Bank of India short term PLR during the
+previous year plus 100 basis points.
+18.
+Operation and Maintenance Expenses
+.-(1) "Operation and Maintenance or O&M expenses" shall comprise repair and maintenance (R&M), establishment
+including employee expenses, and administrative and general expenses.
+(2)
+Operation and maintenance expenses shall be determined for the Tariff Period based on normative O&M expenses
+specified by the Commission subsequently in these regulations for the first Year of Control Period.
+(3)
+Normative O&M expenses allowed during first year of the Control Period (i.e., FY 2009-10) under these regulations shall
+be escalated at the rate of 5.72% per annum over the Tariff Period.
+19.
+Rebate
+.-(1) For payment of bills of the generating company through letter of credit, a rebate of 2% shall be allowed.
+(2)
+Where payments are made other than through letter of credit within a period of one month of presentation of bills by the
+generating company, a rebate of 1% shall be allowed.
+20.
+Late payment surcharge
+.-In case the payment of any bill for charges payable under these regulations is delayed beyond a period of 60 days
+from the date of billing, a late payment surcharge at the rate of 1.25% per month shall be levied by the generating
+company.
+21.
+Sharing of CDM Benefits
+.-The proceeds of carbon credit from approved CDM project shall be shared between generating company and
+concerned beneficiaries in the following manner, namely:-
+(a)
+100% of the gross proceeds on account of CDM benefit to be retained by the project developer in the first year after the
+date of commercial operation of the generating station;
+(b)
+In the second year, the share of the beneficiaries shall be 10% which shall be progressively increased by 10% every
+year till it reaches 50%, where after the proceeds shall be shared in equal proportion, by the generating company and
+the beneficiaries.
+22.
+Subsidy or incentive by the Central/State Government
+.-The Commission shall take into consideration any incentive or subsidy offered by the Central or State Government,
+including accelerated depreciation benefit if availed by the generating company, for the renewable energy power plants
+while determining the tariff under these regulations:
+Provided that the following principles shall be considered for ascertaining income tax benefit on account of accelerated
+depreciation, if availed, for the purpose of tariff determination:-
+(i)
+Assessment of benefit shall be based on normative capital cost, accelerated depreciation rate as per relevant provisions
+under Income-Tax Act and corporate income-tax rate.
+(ii)
+Capitalisation of RE projects during second half of the fiscal year.
+Per unit benefit shall be derived on levellised basis at discount factor equivalent to weighted average cost of capital.
+23.
+Taxes and Duties
+Page 9/29
+----- PAGE 10 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+.-Tariff determined under these regulations shall be exclusive of taxes and duties as may be levied by the appropriate
+Government:
+Provided that the taxes and duties levied by the appropriate Government shall be allowed as pass through on actual
+incurred basis.
+Chapter 3
+Technology Specific Parameters For Wind Energy
+24.
+Capital Cost
+.-(1) The capital cost for wind energy project shall include Wind turbine generator including its auxiliaries, land cost, site
+development charges and other civil works, transportation charges, evacuation cost up to inter-connection point,
+financing charges and IDC.
+(2)
+The capital cost for wind energy projects shall be Rs. 515 Lakhs/MW (FY 2009-10 during first year of Control Period)
+and shall be linked to indexation formula as outlined under regulation 25.
+25.
+Capital Cost Indexation Mechanism
+.-The following indexation mechanism shall be applicable in case of wind energy projects for adjustments in capital cost
+over the Control Period with the changes in Wholesale Price Index for Steel and Electrical Machinery:
+CC(n) = P&M(n) * (1+F1+F2+F3)
+P&M(n) = P&M(0) * (1+d(n))
+d(n) = [a*{(SI(n-1)/SI(0)-1}+{(EI(n-1)/EI(0))-1}]/(a+b)
+Where,-
+CC(n) = Capital Cost for nth year
+P&M(n) = Plant and Machinery Cost for nth
+year
+P&M(0) = Plant and Machinery Cost for the
+base year
+Note.- P&M(0) is to computed by
+dividing the base capital cost (for the first year of the Control Period) by
+(1+F1+F2+F3),i.e., Rs. 515 Lakh per MW/1.25 = Rs. 412 Lakh per MW.
+d(n) = Capital Cost escalation factor for year
+(n)
+of Control period.
+SI(n-1) = Average WPI Steel Index prevalent for
+calendar year (n-1) of the Control Period.
+SI(0) - Average WPI Steel Index prevalent for
+calendar year (0) at the beginning of the Control Period, i.e., January
+2008.
+to December 2008.
+EI(n-1) = Average WPI Electrical Machinery Index
+prevalent for calendar year (n-1) of the Control Period
+EI(0) = Average WPI Electrical and Machinery Index prevalent for calendar year (0) at the beginning of the Control
+Period, i.e., January 2008 to December 2008
+a = Constant to be determined by Commission from time to
+time,
+(In default it is 0.6), for weight age to Steel Index
+b = Constant to be determined by Commission from time to
+time,
+(In default if its 0.4), for weight age to Electrical Machinery Index
+F1 = Factor for Land and Civil Work (0.08)
+F2 = Factor for Erection and Commissioning (0.07)
+Page 10/29
+----- PAGE 11 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+F3 = Factor for IDC and Financing Cost (0.10)
+26.
+Capacity Utilisation Factor
+.-(1) CUF norms for this Control Period shall be as follows:-
+Annual Mean Wind Wind Power Density (W /m2)
+CUF
+200-250
+20%
+250-300
+23%
+300-400
+27%
+> 400
+30%
+(2)
+The annual mean wind power density specified in sub-regulation (1) above shall be measured at 50 meter hub-height.
+(3)
+For the purpose of classification of wind energy project into particular wind zone class, the State-wise wind power
+density map prepared by Centre for Wind Energy Technology (C-WET) and enclosed as Schedule to these regulations,
+shall be considered:
+Provided that the Commission may by notification in Official Gazette, amend the schedule from time to time, based on
+the input provided by C-WET/MNRE.
+27.
+Operation and Maintenance Expenses
+.-(1) Normative O&M expenses for the first year of the Control Period (i.e., FY 2009-10) shall be Rs. 6.50 Lakh per MW.
+(2)
+Normative O&M expenses allowed under these regulations shall be escalated at the rate of 5.72% per annum over the
+Tariff Period to compute the levellised tariff.
+Chapter 4
+Technology Specific Parameters For Small Hydro Project
+28.
+Capital Cost
+.-(1) The normative capital cost for small hydro projects during first year of Control Period (FY 2009-10) shall be as
+follows:-
+Region
+Project Size
+Capital Cost
+(Rs Lakh/MW)
+Himanchal Pradesh, Uttarkhand and North Eastern States
+Below 5 MW
+5 MW to 25 MW
+700
+630
+Other States
+Below 5 MW
+5 MW to 25 MW
+550
+500
+(2)
+The capital cost for subsequent years shall be determined on the basis of indexation formula as outlined under
+regulation 29"> (2) The capital cost for subsequent years shall be determined on the basis of indexation formula as
+Page 11/29
+----- PAGE 12 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+outlined under regulation 29.
+29.
+Capital Cost Indexation Mechanism
+.-The following indexation mechanism shall be applicable in case of small hydro power projects for adjustments in
+capital cost over the Control Period with the changes in Wholesale Price Index for Steel and Electrical Machinery:
+CC(n) = P&M(n) * (1+F1+F2+F3)
+P&M(n) = P&M(0) * (1+d(n))
+d(n) = [a*{(SI(n-1)/SI(0)-1}+{(EI(n-1)/EI(0))-1}]/(a+b)
+Where,-
+CC(n) = Capital Cost for nth year
+P&M(n) = Plant and Machinery Cost for nth
+year
+P&M(0) = Plant and Machinery Cost for the
+base year
+Note.- P&M(0) is to computed by
+dividing the base capital cost (for the first year of the Control Period) by
+(1+F1+F2+F3),i.e.
+Small Hydro Project
+Base Capital
+Cost (Rs. Lakh/MW)
+Factor
+(1+F1+F2+F3)
+P&M(0)`
+(Rs. Lakh/MW)
+SHP(< 5 MW) (HP, Uttarakhand, NE States)
+700
+1.40
+500
+SHP (5-25 MW) (HP, Uttarakhand, NE States)
+630
+1.40
+450
+SHP (<5 MW) (other States)
+550
+1.40
+393
+SHP (5-25 MW) (other States)
+500
+1.40
+357
+D(n) = Capital Cost escalation factor for
+year (n) of Control period.
+SI(n-1) = Average WPI Steel Index prevalent for
+calendar year (n-1) of the Control Period.
+SI(0) - Average WPI Steel Index prevalent for
+calendar year (0) at the beginning of the Control Period, i.e., January 2008
+EI(n-1) = Average WPI Electrical Machinery Index
+prevalent for calendar year (n-1) of the Control Period
+EI(0) = Average WPI Electrical and Machinery Index prevalent for calendar year (0) at the beginning of the Control
+Period, i.e., January 2008 to December 2008
+a = Constant to be determined by Commission from time to
+Page 12/29
+----- PAGE 13 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+time,
+(In default it is 0.6), for weightage to Steel Index
+b = Constant to be determined by Commission from time to
+time,
+(In default if its 0.4), for weightage to Electrical Machinery Index
+F1 = Factor for Land and Civil Work (0.16)
+F2 = Factor for Erection and Commissioning (0.10)
+F3 = Factor for IDC and Financing Cost (0.14)
+30.
+Capacity Utilisation Factor
+.-Capacity Utilisation factor for the small hydro projects located in Himanchal Pradesh, Uttarakhand and North Eastern
+States shall be 45% and for other States, CUF shall be 30%.
+Explanation.-For the purpose of this regulation normative CUF is net of free power to the home state if any, and any
+quantum of free power if committed by the developer over and above the normative CUF shall not be factored into the
+tariff.
+31.
+Auxiliary Consumption
+.-Normative Auxiliary Consumption for the small hydro projects shall be 1.0%.
+32.
+Operation and Maintenance Expenses
+.-(1) Normative O&M expenses for the first year of the Control Period (i.e. FY 2009-10) shall be as follows:
+Region
+Project Size
+O&M Expense
+(Rs Lakh/MW)
+Himanchal Pradesh, Uttarakhand and North Eastern States
+Below 5 MW
+5 MW to 25 MW
+21
+15
+Other States
+Below 5 MW
+5 MW to 25 MW
+17
+12
+(2)
+Normative O&M expenses allowed under these regulations shall be escalated at the rate of 5.72% per annum for the
+Tariff Period for the purpose of determination of levellised tariff.
+Chapter 5
+Technology Specific Parameters For Biomass Based Power Projects
+33.
+Technology Aspect
+.-The norms for tariff determination specified hereunder are for biomass power projects based on Rankine cycle
+technology application using water cooled condenser.
+34.
+Capital Cost
+.-The normative capital cost for the biomass power projects shall be Rs. 450 Lakh/MW (FY 2009-10 during first year of
+Control Period) and shall be linked to indexation formula as outlined under regulation 35.
+35.
+Capital Cost Indexation Mechanism
+.-The following indexation mechanism shall be applicable in case of biomass power projects for adjustment in capital
+Page 13/29
+----- PAGE 14 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+cost over the Control Period with the changes in Wholesale Price Index for Steel and Electrical Machinery:
+CC(n) = P&M(n) * (1+F1+F2+F3
+P&M(n) = P&M(0) * (1+d(n)
+d(n) = [a*{(SI(n-1)/SI(0))-1}+b*{(EI(n-1)/EI(0))-1}]/(a+b)
+Where,-
+CC(n) = Capital Cost for nth year
+P&M(n) = Plant and Machinery Cost for nth
+year
+P&M(0) = Plant and Machinery Cost for the base
+year
+Note. - P&M(0) is to be computed by
+dividing the base capital cost (for the first year of the Control Period) by
+(1+F1+F2+F3), i.e., Rs. 450 Lakh per MW/1.33 =
+Rs. 338 Lakh per MW.
+d(n) = Capital Cost escalation factor for year
+(n)
+of Control Period.
+SI(n-1) = Average WPI Steel Index prevalent for calendar
+year (n-1) of the Control Period.
+SI(0) = Average WPI Steel Index prevalent for
+calendar year (0) at the beginning of the Control Period, i.e., January 2008 to December 2008
+EI(n-1) = Average WPI Electrical Machinery Index
+prevalent for calendar year (n-1) of the Control Period.
+EI(0) = Average WPI Electrical and Machinery Index prevalent for calendar year (0) at the beginning of the Control
+Period, i.e., January 2008 to December 2008
+a = Constant to be determined by Commission from time to
+time,
+b = Constant to be determined by Commission from time to
+time,
+(In default it is 0.3), for weightages to Electrical Machinery Index
+F1 = Factor for Land and Civil Works (0.10)
+F2 = Factor for Erection and Commissioning (0.09)
+F3 = Factor for IDC and Financing Cost (0.14)
+36.
+Plant Load Factor
+.-(1) Threshold Plant Load Factor for determining fixed charge component of Tariff shall be:
+1.
+During stabilization:
+60%
+2.
+During the remaining period of the first year (after stabilization):
+70%
+3.
+From 2ndyear onwards:
+80%
+37.
+Auxiliary Consumption
+.-The auxiliary power consumption factor shall be 10% for the determination of tariff.
+38.
+Station Heat Rate
+.-The Station Heat Rate for biomass power projects shall be 3800 kCal/kWh.
+Page 14/29
+----- PAGE 15 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+39.
+Operation and Maintenance Expenses
+.-(1) Normative O&M expenses for the first year of the Control Period (i.e., FY 2009-10) shall be Rs. 20.25 Lakh per
+MW.
+(2)
+Normative O&M expenses allowed at the commencement of the Control Period (i.e., FY 2009-10) under these
+regulations shall be escalated at the rate of 5.72% per annum.
+40.
+Fuel Mix
+.-(1) The biomass power plant shall be designed in such a way that it uses different types of non-fossil fuels available
+within the vicinity of biomass power project such as crop residues, agro-industrial residues, forest residues, etc., and
+other biomass fuels as may be approved by MNRE.
+(2)
+The Biomass Power Generating Companies shall ensure fuel management plan to ensure adequate availability of fuel to
+meet the respective project requirements.
+41.
+Use of Fossil Fuel
+.-The use of fossil fuels shall be limited to the extent of 15% of total fuel consumption on annual basis.
+42.
+Monitoring Mechanism for the use of fossil fuel
+.-(1) The Project developer shall furnish a monthly fuel usage statement and monthly fuel procurement statement duly
+certified by Chartered Accountant to the beneficiary (with a copy to appropriate agency appointed by the Commission for
+the purpose of monitoring the fossil and non-fossil fuel consumption) for each month, along with the monthly energy bill.
+The statement shall cover details such as-
+(a)
+Quantity of fuel (in tonnes) for each fuel type (biomass fuels and fossil fuels) consumed and procured during the month
+for power generation purposes,
+(b)
+Cumulative quantity (in tonnes) of each fuel type consumed and procured till the end of that month during the year,
+(c)
+Actual (gross and net) energy generation (denominated in units) during the month,
+(d)
+Cumulative actual (gross and net) energy generation (denominated in units) until the end of that month during the year,
+(e)
+Opening fuel stock quantity (in tonnes),
+(f)
+Receipt of fuel quantity (in tonnes) at the power plant site, and
+(g)
+Closing fuel stock quantity (in tonnes) for each fuel type (biomass fuels and fossil fuels) available at the power plant site.
+(2)
+Non-compliance with the condition of fossil fuel usage by the project developer, during any financial year, shall result in
+withdrawal of applicability of tariff as per these regulations for such biomass based power project.
+43.
+Calorific Value
+.-The Calorific Value of the biomass fuel used for the purpose of determination of tariff shall be as follows:
+State
+Calorific Value
+(kCal/kg)
+Andhra Pradesh
+3275
+Haryana
+Page 15/29
+----- PAGE 16 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+3458
+Maharashtra
+3611
+Madhya Pradesh
+3612
+Punjab
+3368
+Rajasthan
+3689
+Tamil Nadu
+3300
+Uttar Pradesh
+3371
+Other States
+3467
+44.
+Fuel Cost
+.-Biomass fuel price during first year of the Control Period (i.e., FY 2009-10) shall be as presented in the table below and
+shall be linked to index formulae as specified under regulation 45. Alternatively, for each subsequent year of the Tariff
+Period, the normative escalation factor of 5% per annum shall be applicable at the option of the biomass project
+developer.
+State
+Biomass Price
+(Rs /MT)
+Andhra Pradesh
+1301
+Haryana
+2168
+Maharashtra
+1801
+Madhya Pradesh
+1299
+Punjab
+2092
+Rajasthan
+1822
+Tamil Nadu
+1823
+Uttar Pradesh
+1518
+Other States
+1797
+45.
+Fuel Price Indexation Mechanism
+.-(1) In case of biomass power projects, the following indexing mechanism for adjustment of fuel prices for each year of
+operation will be applicable for determination of applicable variable charge component of tariff, in case developer wishes
+to opt for indexing mechanism:
+P(n) = P(n-1) * {a*(WPI(n)/WPI(n-1)+b*
+(1+IRC)(n-1)+c*(Pd(n)/Pd(n-1))}
+Where,-
+P(n) = Price per ton of biomass for the nth year
+Page 16/29
+----- PAGE 17 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+to e considered for tariff determination
+P(n-1) = Price per ton of biomass for the (n-1)th
+year to be considered for tariff determination. P1 shall be Biomass
+price for FY 2009-10 as specified under regulation 44.
+a = Factor representing fuel handling cost
+b = Factor representing fuel cost
+c = Factor representing transportation cost
+IRC(n-1) = Average Annual Inflation Rate for
+indexed energy charge component in case of captive coal mine source (in %) to
+be applicable for (n-1)th year, as may be specified by CERC for
+"Payment purpose" as per competitive Bidding Guidelines
+Pdn = Weighted average price of HSD for nth year.
+Pdn-1 = Weighted average price of HSD for (n-1)th
+year.
+WPIn = Whole sale price index for the month of April of nth year
+WPIn-1 = Wholesale price index for month of April
+of (n-1)th year.
+Where a, b & c will be specified by the Commission from
+time to time. In default, these factors shall be 0.2, 0.6 & 0.2
+respectively.
+(2)
+Variable Charge for the nth year shall be determined as
+under :
+i.e. VCn - VC1x(Pn/P1)
+or VCn = VC1x(1.05)(n-1)(optional)
+where,
+VC1 represents the Variable Charge based on Biomass Price P for FY 2009-10 as specified under regulation 44 and
+shall be
+determined as under:
+VC1=
+Station Heat Rate
+(SHR)
+x
+1
+x
+P1
+Gross Calorific Value (GCV)
+(1-Aux Consum.
+Factor)
+1000
+Chapter 6
+Technology Specific Parameters For Non-Fossil Fuel Based Cogeneration Projects
+46.
+Technology Aspect
+.-A project shall qualify as a non-fossil fuel based Co-generation project, if it is in accordance with the eligibility criteria
+as specified under regulation 4(4).
+47.
+Capital Cost
+.-The normative capital cost for the non-fossil fuel based cogeneration projects shall be Rs. 445 Lakh/MW for the first
+year of Control Period (i.e. FY 2009-10), and shall be linked to indexation formula as outlined under regulation 48.
+48.
+Page 17/29
+----- PAGE 18 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Capital Cost Indexation Mechanism
+.-The following indexation mechanism shall be applicable in case of non-fossil fuel based cogeneration projects for
+adjustments in capital cost with the changes in Wholesale Price Index for Steel and Electrical Machinery:
+CC(n) = P&M(n) * (1+F1+F2+F3)
+P&M(n) = P&M(0) * (1+d(n))
+D(n) = [a*{(SI(n-1)/SI(0))-1}
++ b*{(EI(n-1)/EI(0))-1}]/(a+b)
+Where,-
+CC(n) = Capital Cost for nth year
+P&M(n) = Plant and Machinery Cost for nth
+year
+Note. - P&M is to be computed by dividing the
+base capital cost (for the first year of the Control Period) by (1+F1+F2+F3), i.e., Rs. 445 Lakh per MW/1.33 = Rs. 335
+Lakh per MW.
+d(n) = Capital Cost escalation factor for year
+(n)
+of Control Period
+SI(n-1) = Average WPI Steel Index prevalent for
+fiscal year (n-1) of the Control Period
+SI(0) = Average WPI Steel Index prevalent for
+calendar year (0) at the beginning of the Control Period, i.e., January 2008 to December 2008
+EI(n-1) = Average WPI Electrical Machinery Index
+prevalent for calendar year (n-1) of the Control Period
+EI(0) = Average WPI Electrical and Machinery Index prevalent for calendar year (0) at the beginning of the Control
+Period, i.e., January 2008 to December 2008
+a = Constant to be determined by Commission from time to
+time,
+(In default it is 0.7), for weightages to Steel Index
+b = Constant to be determined by Commission from time to
+time,
+(In default it is 0.3), for weightages to Electrical Machinery Index
+F1 = Factor for Land and Civil Work (0.10)
+F2 = Factor for Erection and Commissioning (0.09)
+F3 = Factor for IDC and Financing Cost (0.14)
+49.
+Plant Load Factor
+.-(1) For the purpose of determining fixed charge, the plant load factor for nonfossil fuel based cogeneration projects
+shall be computed on the basis of plant availability for number of operating days considering operations during crushing
+season and off-season as specified under clause (2) below and load factor of 92%.
+(2)
+The number of operating days for different States shall be as follows:
+State
+Operating Days
+Plant Load Factor
+(%)
+Uttar Pradesh and Andhra Pradesh
+120 days (crushing)+60 days (off-season)=180 days
+Operating days
+45%
+Tamil Nadu and Maharashtra
+180 days (crushing)+60 days (off-season)=240 days
+Page 18/29
+----- PAGE 19 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Operating days
+60%
+Other States
+150 days (crushing)+60 days(off-season)=210 days
+Operating days
+53%
+50.
+Auxiliary Consumption
+.-The auxiliary power consumption factor shall be 8.5% for the computation of tariff.
+51.
+Station Heat Rate
+.-The Station Heat Rate of 3600 kCal/kWh for power generation component alone shall be considered for computation of
+tariff for non-fossil fuel based Cogeneration projects.
+52.
+Calorific Value
+.-The Gross Calorific Value for Bagasse shall be considered as 2250 kCal/kg. For the use of biomass fuels other than
+bagasse , calorific value as specified under regulation 43 shall be applicable.
+53.
+Fuel Cost
+.-(1) The price of Bagasse shall be as specified in the table below and shall be linked to index formulae as outlined
+under regulation 54. Alternatively, for each subsequent year of the Control Period, the normative escalation factor of 5%
+per annum shall be applicable at the option of the project developer.
+State
+Bagassse   Price
+(Rs./MT)
+Andhra Pradesh
+899
+Haryana
+1411
+Maharashtra
+1123
+Madhya Pradesh
+809
+Punjab
+1398
+Tamil Nadu
+1243
+Uttar Pradesh
+1013
+Other States
+1163
+(2)
+For use of biomass other than bagasse in co-generation projects, the biomass prices as specified under regulation 44
+shall be applicable.
+54.
+Fuel Price Indexation Mechanism
+.-(1) In case of non-fossil fuel based cogeneration projects, the following indexing mechanism for adjustment of fuel
+prices for each year of operation will be applicable for determination of applicable variable charge component of tariff, in
+case developer wishes to opt for indexing mechanism:
+P(n) = P(n-1) * {a*(WPI(n)/WPI(n-1))+b*(1+IRC)(n-1)+c*(pd(n)/pd(n-1)}
+Where,-
+Page 19/29
+----- PAGE 20 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+P(n) = Price per ton of Bagasse for the nth
+year to be considered for tariff determination
+P(n-1) = Price per ton of Bagasse for the (n-1)th
+year to be considered for tariff determination. P1 shall be Biomass
+price for FY 2009-10 as specified under regulation 55.
+a = Factor representing fuel handling cost
+b = Factor representing fuel cost
+c = Factor representing transportation cost
+IRC(n-1) = Average Annual Inflation Rate for
+indexed energy charge component in case of captive coal mine source (in %) to
+be applicable for (n-1)th year, as may be specified by CERC for
+"Payment purpose" as per Completive Bidding Guidelines
+Pdn = Weighted average price of HSD for nth year.
+Pdn-1 = Weighted average price of HSD for (n-1)th
+year.
+WPIn = Whole sale price index for the month of April of nth year
+WPIn-1 = Wholesale price index for month of April
+of (n-1)th year.
+Where a, b & c will be specified by the Commission from
+time to time. I default, these factors shall be 0.2, 0.6 & 0.2
+respectively.
+(2)
+Variable Charge for the nth year shall be determined as
+under  :
+i.e. VCn = VC1 x (Pn/p1)
+or VCn = VC1 x (1.05)(n-1) (optional)
+VC1 represents the Variable Charge based on
+bagasse Price P1 for FY 2009-10 as specified under regulation 55 and
+shall be determined as under:
+VC1=
+Station Heat Rate
+(SHR)
+x
+1
+x
+P1
+Gross Calorific Value (GCV)
+(1-Aux Consum.
+Factor)
+1000
+55.
+Operation and Maintenance Expenses
+.-(1) Normative O&M expenses during first year of the Control Period (i.e. FY 2009-10) shall be Rs. 13.35 Lakh per MW.
+(2)
+Normative O&M expenses allowed at the commencement of the Control Period (i.e. FY 2009-10) under these
+regulations shall be escalated at the rate of 5.72% per annum.
+Chapter 7
+Technology Specific Parameters For Solar Pv Power Project
+56.
+Technology Aspects
+.-Norms for Solar Photovoltaic (PV) power under these regulations shall be applicable for grid connected PV systems
+Page 20/29
+----- PAGE 21 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+that directly convert solar energy into electricity and are based on the technologies such as crystalline silicon or thin film,
+etc., as may be approved by MNRE.
+57.
+Capital Cost
+.-The normative capital cost for setting up Solar Photovoltaic Power Project shall be Rs. 1700 Lakh/MW for FY 2009-10:
+Provided that the Commission may deviate from above norm in case of project specific tariff determination in pursuance
+of regulation 7 and regulation 8.
+58.
+Capacity Utilisation Factor
+.-The Capacity utilisation factor for Solar PV project shall be 19%:
+Provided that the Commission may deviate from above norm in case of project specific tariff determination in pursuance
+of regulation 7 and regulation 8.
+59.
+Operation and Maintenance Expenses
+.-(1) The O&M Expenses shall be Rs. 9 Lakhs/MW for the 1st year of operation.
+(2)
+Normative O&M expenses allowed at the commencement of the Control Period under these regulations shall be
+escalated at the rate of 5.72% per annum.
+Chapter 8
+Technology Specific Parameters For Solar Thermal Power Project
+60.
+Technology Aspects
+.-Norms for Solar thermal power under these regulations shall be applicable for Concentrated solar power (CSP)
+technologies, viz., line focusing or point focusing, as may be approved by MNRE, and uses direct sunlight, concentrating
+it several times to reach higher energy densities and thus higher temperatures whereby the heat generated is used to
+operate a conventional power cycle to generate electricity.
+61.
+Capital Cost
+.-The normative capital cost for setting up Solar Thermal Power Project shall be Rs. 1300 Lakh/MW for FY 2009-10:
+Provided that the Commission may deviate from the above norm in case of project specific tariff determination in
+pursuance of regulation 7 and regulation 8.
+62.
+Capacity Utilisation Factor
+.-The Capacity utilisation factor shall be 23%:
+Provided that the Commission may deviate from the above norm in case of project specific tariff determination in
+pursuance of regulation 7 and regulation 8.
+63.
+Operation and Maintenance Expenses
+.-(1) The O&M Expenses shall be Rs 13 Lakhs/MW for 1st year operation.
+(2)
+Normative O&M expenses allowed at the commencement of the Control Period under these regulations shall be
+escalated at the rate of 5.72% per annum.
+64.
+Auxiliary Consumption
+.-The auxiliary consumption factor shall be 10%:
+Provided that the Commission may deviate from the above norm in case of project specific tariff determination in
+pursuance of regulation 7 and regulation 8.
+Chapter 9
+Miscellaneous
+65.
+Deviation from norms
+Page 21/29
+----- PAGE 22 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+.-Tariff for sale of electricity by the generating company may also be determined in deviation from the norms specified in
+these regulations subject to the conditions that the levellised tariff over the useful life of the project on the basis of the
+norms in deviation does not exceed the levellised tariff calculated on the basis of the norms specified in these
+regulations:
+Provided that the reasons for deviation from the norms specified under these regulations shall be recorded in writing.
+66.
+Power to Relax
+.-The Commission may by general or special order, for reasons to be recorded in writing, and after giving an opportunity
+of hearing to the parties likely to be affected may relax any of the provisions of these regulations on its own motion or on
+an application made before it by an interested person.
+FORM-1.1
+Form Template For (Wind Power Or Small Hydro Project Or Solar Pv/solar Thermal)
+S. No.
+AssumptionHead
+Sub-Head
+Sub-Head (2)
+Unit
+Parametervalues
+1
+Power Generation
+Capacity
+Installed Power Generation Capacity
+MW
+Capacity Utilization Factor
+%
+Commercial Operation Date
+mm/yyyy
+Useful Life
+Years
+2
+Project Cost
+Capital Cost/MW
+Normative Capital Cost
+Rs. Lakh/MW
+Capital Cost
+Rs. Lakh
+Capital subsidy, if any
+Rs. Lakh
+Net Capital Cost
+Rs. Lakh
+3
+Financial Assumptions
+Tariff Period
+Years
+Debt: Equity
+Debt
+%
+Equity
+%
+Total Debt Amount
+Rs. Lacs
+Page 22/29
+----- PAGE 23 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Total Equity Amount
+Rs. Lacs
+Debt component
+Loan Amount
+Rs. Lacs
+Moratorium Period
+Year Rs.
+Repayment Period (incld Moratorium)
+Year Rs.
+Interest Rate
+%
+Equity component
+Equity amount
+Rs. Lacs
+Return on Equity for first 10 yea Rs.
+% p.a.
+Return on Equity 11th year onwards
+% p.a.
+Discount Rate
+%
+Depreciation
+Depreciation Rate for first 12 yea Rs.
+%
+Depreciation Rate 13th year onwards
+%
+Incentives
+Generation Based Incentives, if any
+Rs. L p.a.
+Period for GBI
+Year Rs.
+4
+Operation & Maintenance
+Normative O&M expense
+Rs. Lakh/MW
+O&M expense per annum
+Rs. Lakh
+Escalation factor for O&M expense
+%
+5
+Working Capital
+O&M expense Months
+Maintenance Spare
+(% of O&M exepenses)
+%
+Receivables
+Months
+Interest on Working Capital
+% p.a.
+FORM-2.1
+Form Template For (Biomass Power Or Non-Fossil Fuel Based Cogen) : Parameter Assumptions
+S. No.
+Page 23/29
+----- PAGE 24 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Assumption Head
+Sub-Head
+Sub-Head (2)
+Unit
+Parameter values
+1
+Power Generation
+Capacity
+Installed Power Generation Capacity
+MW
+Auxiliary Consumption factor
+%
+PLF (during stabilisation upto 6 months)
+%
+PLF (during 1st yr after stabilisation)
+%
+PLF (2nd yr onwards)
+%
+Commercial Operation Date
+mm/yyyy
+Useful Life
+Years
+2
+Project Cost
+Capital Cost/MW
+Normative Capital Cost
+Rs. Lakh/MW
+Capital Cost
+Rs. Lakh
+Capital subsidy, if any
+Rs. Lakh
+Net Capital Cost
+Rs. Lakh
+3
+Financial Assumptions
+Tariff Period
+Years
+Debt: Equity
+Debt
+%
+Equity
+%
+Total Debt Amount
+Rs. Lacs
+Total Equity Amount
+Rs. Lacs
+Debt component
+Loan Amount
+Rs. Lacs
+Moratorium Period
+years
+Page 24/29
+----- PAGE 25 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Repayment Period (incld Moratorium)
+years
+Interest Rate
+%
+Equity component
+Equity amount
+Rs. Lacs
+Return on Equity for first 10 years
+% p.a
+Return on Equity 11th year onwards
+% p.a
+Discount Rate
+%
+Depreciation
+Depreciation Rate for first 12 years
+%
+Depreciation Rate 13th year onwards
+%
+Incentives
+Generation Based Incentives, if any
+Rs. L p.a.
+Period for GBI
+Years
+4
+Operation & Maintenance
+Normative O&M expense
+Rs. Lakh/MW
+O&M expense per annum
+Rs. Lakh
+Escalation factor for O&M expense
+%
+5
+Working Capital
+O&M expense
+Months
+Maintenance Spare
+(% of O&M expenses)
+%
+Receivables
+Months
+Biomass stock
+Months
+Interest on Working Capital
+% p.a.
+6
+Fuel related assumptions
+Station Heat Rate
+during stabilisation
+kcal/kWh
+post stabilisation
+kcal/kWh
+Page 25/29
+----- PAGE 26 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Fuel types & mix
+Biomass fuel type -1
+%
+Biomass fuel type -2
+%
+fossil Fuel (coal)
+%
+GCV of Biomass fuel type -1
+kCal/kg
+GCV of Biomass fuel type -2
+kCal/kg
+GCV of fossil Fuel (coal)
+kCal/kg
+Biomass Price (fuel type -1) : yr-1
+Rs/MT
+Biomass Price (fuel type -2) : yr-1
+Rs/MT
+Fossil fuel price (coal) : yr-1
+Rs/MT
+Fuel price escalation factor
+% p.a.
+FORM-1.2
+Form Template For (Wind Power Or Small Hydro Project Or Solar Pv/solar Thermal) : Determination Of Tariff
+Components
+Units Generation
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7
+Yr-8 Yr-9 Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20
+Yr-21 Yr-22 Yr-23 Yr-24
+Installed Capacity
+MW
+Net Generation
+MU
+Tariff Components (Fixed charge)
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7 Yr-8 Yr-9
+Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20 Yr-21 Yr-22
+Yr-23 Yr-24
+O&M Expenses
+RsLakh
+Depreciation
+RsLakh
+Interest on term loan
+RsLakh
+Interest on working Capital
+RsLakh
+Return on Equity
+RsLakh
+Total Fixed Cost
+RsLakh
+Per Unit Tariff components
+Page 26/29
+----- PAGE 27 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7 Yr-8 Yr-9
+Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20 Yr-21 Yr-22
+Yr-23 Yr-24
+PU O&M Expenses
+Rs/kWh
+PU Depreciation
+Rs/kWh
+PU Interest on term loan
+Rs/kWh
+PU Interest on working Capital
+Rs/kWh
+PU Return on Equity
+Rs/kWh
+PU Tariff Components
+Rs/kWh
+LevellisedTariff
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7 Yr-8 Yr-9
+Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20 Yr-21 Yr-22
+Yr-23 Yr-24
+Discount Factors
+Discounted Tariff components
+Rs/kWh
+LevellisedTariff
+Rs/kWh
+FORM-2.2
+Form Template For (Biomass Power Or Non-Fossil Fuel Based Cogen) : Determination Of Tariff Components
+Units Generation
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7
+Yr-8 Yr-9 Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20
+Yr-21 Yr-22 Yr-23 Yr-24 Yr-25
+Installed Capacity
+MW
+Net Generation
+MU
+Tariff Components (Fixed charge)
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7
+Yr-8 Yr-9 Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20
+Yr-21 Yr-22 Yr-23 Yr-24 Yr-25
+O&M Expenses
+RsLakh
+Depreciation
+RsLakh
+Interest on term loan
+RsLakh
+Interest on working Capital
+RsLakh
+Return on Equity
+Page 27/29
+----- PAGE 28 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+RsLakh
+Total Fixed Cost
+RsLakh
+Tariff Components (Variable charge)
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7
+Yr-8 Yr-9 Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20
+Yr-21 Yr-22 Yr-23 Yr-24 Yr-25
+Biomass fuel type-1
+RsLakh
+Biomass fuel type-2
+RsLakh
+Fossil fuel (coal)
+RsLakh
+Sub-total (Fuel Costs)
+RsLakh
+Fuel cost allocable to power
+%
+Total Fuel Costs
+RsLakh
+Per Unit Tariff components (fixed)
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7
+Yr-8 Yr-9 Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20
+Yr-21 Yr-22 Yr-23 Yr-24 Yr-25
+PU O&M Expenses
+Rs/kWh
+PU Depreciation
+Rs/kWh
+PU Interest on term loan
+Rs/kWh
+PU Interest on working Capital
+Rs/kWh
+PU Return on Equity
+Rs/kWh
+PU Tariff Components (Fixed)
+Rs/kWh
+PU Tariff Components (Variable)
+Rs/kWh
+PU Tariff Components (Total)
+Rs/kWh
+LevellisedTariff
+Unit
+Yr-1 Yr-2 Yr-3 Yr-4 Yr-5 Yr-6 Yr-7
+Yr-8 Yr-9 Yr-10 Yr-11 Yr-12 Yr-13 Yr-14 Yr-15 Yr-16 Yr-17 Yr-18 Yr-19 Yr-20
+Yr-21 Yr-22 Yr-23 Yr-24 Yr-25
+Discount Factors
+Discounted Tariff components (fixed)
+Rs/kWh
+Discounted Tariff components
+(variable)
+Page 28/29
+----- PAGE 29 -----
+The Central Electricity Regulatory Commission (Terms And Conditions For Tariff Determinati...
+Rs/kWh
+Discounted Tariff components (total)
+Rs/kWh
+LevellisedTariff (fixed)
+Rs/kWh
+LevellisedTariff (variable)
+Rs/kWh
+LevellisedTariff (total)
+Rs/kWh
+State-wise Wind Power Density Map
+Related AI tags, queries and research notes
+Translation
+Page 29/29

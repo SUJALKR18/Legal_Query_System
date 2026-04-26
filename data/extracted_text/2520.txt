@@ -1,0 +1,402 @@
+
+----- PAGE 1 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+Central Electricity Regulatory Commission (Furnishing Of Technical
+Details By The Generating Companies) Regulations, 2009
+Source: https://indiankanoon.org/doc/50317745/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generating Companies)
+Regulations, 2009
+UNION OF INDIA
+India
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generating Companies)
+Regulations, 2009
+Rule
+CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-FURNISHING-OF-TECHNICAL-DETAILS-BY-THE-GENERA
+TING-COMPANIES-REGULATIONS-2009 of 2009
+Published on 23 October 2009
+Commenced on 23 October 2009
+[This is the version of this document from 23 October 2009.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generating Companies)
+Regulations, 2009
+Published vide Notification Gazette of India, Extra, Part 3, Section 4, dated 23.10.2009
+1618.
+Noti. No. L-7/138/(153)/2008-CERC, dated the 14th October, 2009.- In exercise of powers conferred under Section 178
+Page 1/8
+----- PAGE 2 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+read with sub-section (3) of Section 10 of the Electricity Act, 2003 (
+36 of 2003
+) and of all other powers enabling it in this behalf, and after previous publication, the Central Electricity Regulatory
+Commission hereby makes the following regulations, namely:-
+1.
+Short Title and Commencement.-
+(1)
+These regulations may be called the Central Electricity Regulatory Commission (Furnishing of Technical Details by the
+Generating Companies) Regulations, 2009.
+(2)
+These regulations shall come into force from the date of their publication in the Official Gazette.
+2.
+Submission of information.-
+Every generating company which, on the date of commencement of these regulations is operating or setting up a
+generating station referred to in clause (a) or clause (b) of sub-section (1) of Section 79 of the Electricity Act, 2003 (
+36 of 2003
+) shall furnish to the Commission, up-to-date details prescribed in the Forms A,B and C appended to these regulations,
+as applicable to the type of the generating station, separately for each stage of the generating station owned by it,
+indicating the status as on 1st April of the year, by 30th April of every year along with soft copy of the such details.
+Provided that in case of a generating company proposing to set up a generating station after commencement of these
+regulations, the first report with the specified details shall be submitted at least three years before the projected date of
+commercial operation of the first unit of the generating station, proposed to be set up by it.
+FORM-A
+Technical Details To Be Filed By The Generating Companies In Compliance Of Sub-Section (3) Of Section 10 Of The
+Electricity Act, 2003
+Coal/Lignite Fired Thermal Generating Stations
+1. Name and address of the generating company
+2. Name of the generating station
+3.
+Location (District and State) of the generating station
+4.
+Type Coal /Lignite
+5.
+Installed capacity and configuration (number of units x MW) of existing/ under execution project :
+(i)
+Unit -I MW
+(ii)
+Unit-II MW
+(iii)
+.................MW
+iv) ..............MW
+6.
+Actual/expected dates of commercial operation, Unitwise: DD/MM/YYYY
+(i)
+Unit -I
+(ii)
+Unit-II
+(iii)
+..........
+(iv)
+.............
+Page 2/8
+----- PAGE 3 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+7.
+Details of tied up beneficiaries/target beneficiaries/merchant capacity along with percentage share with reference to the
+installed capacity for each beneficiary/category
+(i)
+Beneficiary-I
+(ii)
+Beneficiary-2
+(iii)
+...........(%)
+iv) ...........(%)
+8.
+Associated transmission system or proposed evacuation arrangement
+9.
+Name of manufacturer:
+(i)
+Steam generator
+(ii)
+Steam turbine
+(iii)
+Generator:
+10.
+Main fuel and Source .......... Indigenous/imported
+(i)
+Linked Mine
+(ii)
+Mode of Transport MGR/Rail/Road/Sea/Rail-cum-Sea
+11.
+Gross Calorific Value (GCV) of fuel used/to be used (Kcal/Kg)
+12.
+Secondary Fuel used/proposed to be used LSHS/HFO/HSD/others-specify
+13.
+Rated Main Steam Pressure at inlet to turbine kg/cm (abs.)
+14.
+Rated Main Steam Temperature at inlet to turbine Centigrade
+15.
+Rated Reheat Steam pressure at inlet to turbine Kg/cm (abs.)
+16.
+Rated Reheat Steam Temperature at inlet to turbine Centigrade
+17.
+Range of Design fuel specified
+(i)
+Ash (%) Max.
+(ii)
+Moisture (%) Min.
+(iii)
+Gross Calorific Value (GCV) Min.
+(iv)
+Volatile Matter (VM)(Kcal/Kg)Max.
+18.
+Guaranteed Turbine Cycle Heat Rate under reference conditions (Kcal/kWh)
+19.
+Page 3/8
+----- PAGE 4 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+Reference conditions for Guaranteed Turbine
+Cycle Heat Rate
+(i)
+Make up (%)
+(ii)
+MCR (%)
+(iii)
+Design inlet cooling water temperature Centigrade
+20.
+Guaranteed boiler Efficiency(on GCV Basis %)
+21.
+Reference fuel as specified for guaranteed Boiler efficiency
+(i)
+Ash (%)
+(ii)
+Moisture (%)
+(iii)
+Gross Calorific Value (GCV) (Kcal/Kg)
+(iv)
+Volatile Matter (VM) (%)
+22.
+Number and Type of Boiler Feed Pumps Steam Turbine driven/Electrical Motor driven
+23.
+Source of cooling water
+24.
+Type of cooling cycle used Once Through/Close cycle
+25.
+Type of cooling Tower Natural Draft / Induced Draft
+Note:-
+(a)
+Any other relavent information or any site specificinformation in respect of generating station e.g FGD etc. may also be
+furnished.
+(b)
+beneficiary" shall have the meaning as specified in Central Electricity Regulatory Commission (Terms and Conditions of
+Tariff) Regulation, 2009.
+(c)
+Installed capacity" shall have the meaning as specified in Central Electricity Regulatory Commission (Terms and
+Conditions of Tariff) Regulation, 2009
+(d)
+merchant capacity" means the quantum of power proposed to be sold, other than that sold through long-term power
+supply agreement;
+(e)
+Target beneficiary" means an agency who is likely to be entering into a long-term power purchase agreement with the
+generating company;
+(f)
+A soft copy of above details (Electronic form) shall also be furnished.
+FORM-B
+Technical Details To Be Filed By The Generating Companies In Compliance Of Sub-Section (3) Of Section 10 Of The
+Electricity Act, 2003
+Gas/Liquid/Diesel Generating Stations
+1. Name of the generating station
+Page 4/8
+----- PAGE 5 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+2. Location (District and State) of the generating station
+3. Type Gas /Liquid fuel/Diesel
+4. Installed capacity and configuration (number of (Capcity of GT and ST to be given separately)units x MW) of existing/
+under execution project :
+(i)
+GT-I MW
+(ii)
+GT-II MW
+(iii)
+ST & Block-I MW
+(iv)
+.......... MW
+5. Actual/expected dates of commercial operation, Unitwise: DD/MM/YYYY
+(i)
+GT-I
+(ii)
+GT-II
+(iii)
+ST & Block-I
+(iv)
+...............
+6. Details of tied up beneficiaries/target beneficiaries/merchant capacity along with percentage share with reference to
+the installed capacity for each beneficiary/category
+(i)
+Beneficiary-1 (%)
+(ii)
+Beneficiary-2 (%)
+(iii)
+.......... (%)
+(iv)
+............. (%)
+7. Associated transmission system or proposed evacuation arrangement
+8. Name of manufacturer:
+(i)
+Gas Turbine
+(ii)
+Steam Turbine
+(iii)
+Heat Recovery Steam Generator (HRSG)
+(iv)
+Generator
+9. Main fuel and Source .................(Indigenous/imported)
+(i)
+Linked Source
+(ii)
+Mode of Transport Rail/Road/Sea/Rail-cum-Sea/Pipe line
+10. Gross Calorific Value (GCV) of fuel used/to be used Kcal/SC M or Kcal/litre
+11. (i) Alternate fuel (Specify)
+(ii)
+Gross Calorific Value (GCV) of alternate fuel Kcal/SC M or Kcal/litre
+12. Rated Gas Pressure at inlet to gas turbine kg/cm (abs.)
+Page 5/8
+----- PAGE 6 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+13. Rated Temperature at inlet to gas turbine (tit) Centigrade
+14. Rated Steam pressure at inlet to steam turbine Kg/cm (abs.)
+15. Rated Steam Temperature at inlet to steam turbine Centigrade
+16. Source of Cooling water
+17. Type of Water Cooling Cycle used Once Through /Closed cycle
+18. Type of Cooling Tower Natural Draft or Induced Draft
+19. Guaranteed Gross Station Heat Rate
+(i)
+Combined cycle mode (Kcal./kWh)
+(ii)
+Open cycle mode Kcal./kWh)
+20. Reference condition for Guaranteed Gross Station Heat Rate
+(i)
+Make up %
+(ii)
+MCR %
+(iii)
+Design Inlet Cooling Water Temperature Centigrade
+(iv)
+Ambient Air Temperature Centigrade
+(v)
+Ambient Air Pressure (kg/cm)
+(vi)
+Relative Humidity %
+21. Specified Site Ambient Air Conditions:
+(i)
+Temperature Centigrade
+(ii)
+Pressure (kg/cm)
+(iii)
+Humidity %
+Note:-
+(a)
+Any other relevant information or any site specific information in respect of generating station may also be furnished.
+(b)
+beneficiary" shall have the meaning as specified in Central Electricity Regulatory Commission (Terms and Conditions of
+Tariff) Regulation, 2009.
+(c)
+Installed capacity" shall have the meaning as specified in Central Electricity Regulatory Commission (Terms and
+Conditions of Tariff) Regulation, 2009
+(d)
+merchant capacity" means the quantum of power proposed to be sold, other than that sold through long-term power
+supply agreement;
+(e)
+Target beneficiary" means an agency who is likely to be entering into a long-term power purchase agreement with the
+generating company;
+(f)
+A soft copy of above details (Electronic form) shall also be furnished.
+FORM-C
+Technical Details To Be Filed By The Generating Companies In Compliance Of Sub-Section (3) Of Section 10 Of The
+Electricity Act, 2003
+Page 6/8
+----- PAGE 7 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+Hydro Electric Generating Stations
+1. Name and address of the generating company
+2. Name of the generating station
+3. Location (District and State) of the generating station
+4. Type Run of River/Pondage
+5. Installed capacity and configuration (number of units x MW) of existing/ under execution project :
+(i)
+Unit-I MW
+(ii)
+Unit-II MW
+(iii)
+............. MW
+(iv)
+............. MW
+6. Actual/expected dates of commercial operation, Unitwise : DD/MM/YYYY
+(i)
+Unit-I MW
+(ii)
+Unit-II MW
+(iii)
+.............MW
+(iv)
+............MW
+7. Details of tied up beneficiaries/target beneficiaries/merchant capacity along with percentage share with reference to
+the installed capacity for each beneficiary/category
+(i)
+Beneficiary-1 (%)
+(ii)
+Beneficiary-2 (%)
+(iii)
+......... (%)
+(iv)
+........... (%)
+8. Associated transmission system or proposed evacuation arrangement
+9. Name of manufacturer:
+(i)
+Turbine (Francis/Kaplan/Pelton)
+(ii)
+Generator
+10. Design Energy (MU) (MU)
+11. Average Head (M)
+12. Rated Head (M)
+13. Full Reservoir Level (FRL) (M)
+14. Minimum Draw Down Level (MDDL) (M)
+15. Variation in machine output at different levels between Full Reservoir Level and Minimum Draw Down Level MW
+16. Design Silt Levels for desilting chamber:
+(i)
+Maximum at inlet (ppm)
+(ii)
+Maximum at outlet (ppm)
+17. Expected annual energy generation (MU)
+Page 7/8
+----- PAGE 8 -----
+Central Electricity Regulatory Commission (Furnishing Of Technical Details By The Generati...
+18. Design guaranteed efficiency of turbine
+Note:-
+(a)
+Any other relevant information or any site specific information in respect of hydro generating station may also be
+furnished.
+(b)
+beneficiary" shall have the meaning as specified in Central Electricity Regulatory Commission (Terms and Conditions of
+Tariff) Regulation, 2009.
+(c)
+design energy" shall have the meaning as specified in Central Electricity Regulatory Commission (Terms and Conditions
+of Tariff) Regulation, 2009
+(d)
+Installed capacity" shall have the meaning as specified in Central Electricity Regulatory Commission (Terms and
+Conditions of Tariff) Regulation, 2009
+(e)
+merchant capacity" means the quantum of power proposed to be sold, other than that sold through long-term power
+supply agreement;
+(f)
+Target beneficiary" means an agency who is likely to be entering into a long-term power purchase agreement with the
+generating company;
+(g)
+A soft copy of above details (Electronic form) shall also be furnished.
+Related AI tags, queries and research notes
+Translation
+Page 8/8

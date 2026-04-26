@@ -1,0 +1,6150 @@
+
+----- PAGE 1 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Source: https://indiankanoon.org/doc/118181941/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Rajasthan - Act
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+RAJASTHAN
+India
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Rule RAJASTHAN-CONTROL-OF-INDUSTRIAL-MAJOR-ACCIDENT-HAZARDS-RULES-1991 of 1991
+Published on 14 November 1992
+Commenced on 14 November 1992
+[This is the version of this document from 14 November 1992.]
+[Note: The original publication document is not available and this content could not be verified.]
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+G.S.R. 13. - In exercise of the powers conferred by Section 112 of the Factories Act, 1948 ( Central Act 63 of 1948 ) the
+State Government hereby makes the following Rules, the same have been previously published in Rajasthan Gazette
+Part 3(kha) dated 14 November, 1992 as required by section 115 of the said Act, namely:
+1.
+Short title and commencement.
+- (i) These rules may be called the Rajasthan Control of Industrial Major Accident Hazards Rules, 1991.
+(ii)
+They shall come into force from the date of publication.
+(iii)
+These rules supplement the rules already notified under the Factories Act , 1948.
+Page 1/114
+----- PAGE 2 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+2.
+Definitions.
+- In these rules, unless the context otherwise requires,-
+(a)
+"Hazardous Chemical " means,-
+(i)
+any chemical which satisfies any of the criteria laid down in Part I of [Schedule 1 or]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+is listed in Column 2 of Part II of this Schedule ; or
+(ii)
+any chemical listed in Column 2 of Schedule 2; or
+(iii)
+any chemical listed in Column 2 of Schedule 3;
+(b)
+[ "industrial activity" means an operation or process carried out in a factory referred to in Schedule 4 involving or likely to
+involve one or more hazardous chemicals and includes on-site storage or on-site transport which is associated with that
+operation or process, as the case may be.]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+(c)
+"isolated storage" means storage where no other manufacturing process other than pumping of hazardous chemical is
+carried out and that storage involves at least a quantity of that chemical set out Schedule 2, but does not include storage
+associated with [a factory]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+specified in Schedule 4 on the same site.
+(d)
+[ "major accident" means an incident involving loss of life inside or outside the site, or ten or more injuries inside and/or
+one or more injuries outside or release of toxic chemicals or explosion or fire or spillage of hazardous chemicals
+resulting in on-site or off-site emergencies or damage to equipment leading to stoppage of process or adverse affects to
+the environment]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+(e)
+"pipeline" means a pipe (together with any apparatus and works associated therewith) or system of pipes (together with
+any apparatus and work associated therewith) for the conveyance of a hazardous chemical, other than a flammable gas
+as set out in Column 2 of Part II of Schedule 3 at a pressure of less than 8 bars absolute.
+(f)
+"Schedule" means Schedule appended to these rules.
+(g)
+"site" means any location where hazardous chemicals are manufactured or processed, stored, handled, used, disposed
+of and includes the whole of an area under the control of an occupier .
+(h)
+Words and expressions not defined in these Rules but defined or used in the Factories Act, 1948 and the Rules made
+thereunder have the same meaning as assigned therein.
+3.
+Collection, development and dissemination of information.
+(1)
+This rule shall apply to an industrial activity [or isolated storage]
+[Inserted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+in which a hazardous chemical which satisfies any of the criteria laid down in part I of Schedule 1 [or]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+is listed in Column 2 of Part II of this Schedule is or may be involved.
+Page 2/114
+----- PAGE 3 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+(2)
+[ An occupier of an industrial activity or isolated storage in term of sub-rule 1 of this rule, shall arrange to obtain or
+develop information in the form of safety data sheet as specified in Schedule 5. The information shall be made
+accessible to workers upon request for reference]
+[Substituted by No. G,S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+(3)
+The occupier while obtaining or developing a [safety data sheet as specified]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+in Schedule 5 in respect of a hazardous chemical handled by him shall ensure that the information is recorded
+accurately and reflects the scientific evidence used in making the hazard determination. In case, any significant
+information regarding hazard of a chemical is available, it shall be added to the [safety data sheet as specified]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+in Schedule 5 as soon as practicable.
+(4)
+Every container of a hazardous chemical shall be clearly labelled or marked to identify,-
+(a)
+the contents of the container;
+(b)
+the name and address of manufacturer or importer of the hazardous chemical; and
+(c)
+the physical, chemical and toxicological data of the hazardous chemical .
+(5)
+In terms of sub rule 4 of this rule where it is impracticable to label a chemical in view of the size of the container or the
+nature of the package, provision should be made for other effective means like tagging or accompanying documents.
+3A.
+[ Duties of Inspector.
+[Inserted by No. G.S.R. 4, dated 16.4.2002 (18.4.2002).]
+(1)
+The Inspector shall,-
+(a)
+inspect the industrial activity or isolated storage at least once in a calendar year;
+(b)
+send annually status report on the compliance with the rules by the occupiers to the Ministry of Environment and Forests
+through the Directorate General Factory Advice Service and Labour Institute and Ministry of Labour, Government of
+India;
+(c)
+enforce directions and procedures in respect of industrial activities or isolated storage's covered under the Factories Act,
+1948 and in respect of pipelines up to a distance of 500m from the outside of the perimeter of the factory, regarding
+(i)
+Notice of the major accidents as per rule 5(1) and 5(2).
+(ii)
+Notification of sites as per rule 7 and 8.
+(iii)
+Safety Reports and Safety Audits as per Rules 10 and 12.
+(iv)
+Preparation of on-site emergency plans as per Rule 13.]
+4.
+General responsibility of the [occupier]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+Page 3/114
+----- PAGE 4 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+(1)
+This rule shall apply to,-
+(a)
+an industrial activity [xxx]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+in which a hazardous chemical, which satisfies any of the criteria laid down in Part I of Schedule 1 [or]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+is listed in Column 2 of Part II of this Schedule is, or may be, involved; and
+(b)
+isolated storage in which there is involved a quantity of a hazardous chemical listed in Column 2 of Schedule 2 which is
+equal to or more than the [threshold quantity]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+specified in the Schedule for that chemical in Column 3, thereof.
+(2)
+[An occupier in terms of sub-rule (1) shall provide information on demand to show that he has,-]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+(a)
+identified the major accident hazards; and
+(b)
+taken adequate steps to-
+(i)
+prevent such major accidents and to limit their consequences to persons and the environment; and
+(ii)
+provide the persons working on the site with the information, training and equipment including antidotes necessary to
+ensure their [safety and health]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+5.
+[Notice of major accident]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+(1)
+Where a major accident occurs on a site, the occupier shall [within 48 hours notify]
+[Substituted by No G.S.R. 4, dated 16.4,2002 [18.4.2002].]
+the Inspector and the Chief Inspector of that accident, and furnish thereafter to the [Inspector and the Chief Inspector]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+a report relating to the accidents in instalments, if necessary, in Schedule 6.
+(2)
+[ The Inspector and the Chief Inspector shall, on receipt of the report in accordance with sub-rule (1) of this rule
+undertake a full analysis of the major accident and send the requisite information to the Ministry of Environment and
+Forests through the Directorate General Factory Advice Service & Labour Institutes and Ministry of Labour, Government
+of India]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+(3)
+[ An occupier shall notify to the Inspector steps taken to avoid any repetition of such occurrence on a site.
+(4)
+The Inspector and the Chief Inspector shall compile information regarding major accidents and make available a copy of
+the same to the Ministry of Environment & Forests through the Directorate General Factory Advice Service & Labour
+Institutes and Ministry of Labour, Government of India.
+(5)
+The Inspector and the Chief Inspector shall inform the occupier in writing of any lacunae which in their opinion need to
+be rectified to avoid major accidents.]
+Page 4/114
+----- PAGE 5 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+[Inserted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+6.
+Industrial activity or isolated storage to which [Rules 7, 8, 10 to 13 and 15]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+apply.
+(1)
+(a)
+[Rules 7, 8, 13 and 15]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+shall apply to an industrial activity other than isolated storage, in which there is involved a quantity of hazardous
+chemical listed in Column 2 of Schedule 3 which is equal to or more than the [threshold quantity]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+specified in the entry for that chemical in Column 3 ;
+(b)
+Rule 10 to 12 shall apply to an industrial activity other than isolated storage, in which there is involved a quantity of
+hazardous chemical listed in Column 2 of Schedule 3 which is equal to or more than the [threshold quantity]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+specified in the entry for that chemical in Column 4 ;
+(c)
+Rule 7 and 8 shall apply to an isolated storage, in which there is involved a quantity of hazardous chemical listed in
+Column 2 of Schedule 3 which is equal to or more than the [threshold quantity]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+specified in the entry for that chemical in Column 3 ; and
+(d)
+[Rules 10 to 13 and 15]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+shall apply to an isolated storage in which there is involved a quantity of hazardous chemical listed in Column 2 of
+Schedule 2 which is equal to or more than the [threshold quantity]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+specified in the entry for that chemical in Column 4 ;
+(2)
+[x x x]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+7.
+[Notification of sites]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+(1)
+An occupier shall not undertake any industrial activity [or isolated storage]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+unless he has submitted a written report to the Chief Inspector containing the particulars specified in Schedule 7 at least
+[90 days]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+before commencing that activity or before such shorter time as the Chief Inspector may agree and for the purpose of this
+sub-rule, an activity in which subsequently there is or is liable to be a [threshold quantity]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+given in column 3 of Schedules 2 and 3 or more of an additional hazardous chemical shall be deemed to be a different
+activity and shall be notified accordingly.
+(2)
+[ The Chief Inspector within 60 days from the date of receipt of the report in accordance with sub-rule (1) of this rule,
+shall examine and on examination of the report if he is of the opinion that contravention of the provisions of the Act or
+Page 5/114
+----- PAGE 6 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+the rules made thereunder has taken place, he may issue notice for obtaining compliance]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+8.
+[Updating of the site notification]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+- Where an activity has been reported in accordance with rule 7(1) and the occupier makes a change in it (including an
+increase or decrease in the maximum quantity of a hazardous chemical to which this rule applies which is or is liable to
+be at the site or in the pipeline or [at the]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+] cessation of the activity) which affects the particulars specified in that report or any subsequent report made under this
+rule, the occupier shall forthwith furnish a further report to the [Inspector and the Chief Inspector]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+9.
+[x x x]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+10.
+[Safety Reports and Safety Audit Reports]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+(1)
+Subject to the following sub-rules of this rule, an occupier shall not undertake any industrial activity [or isolated storage]
+[Inserted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+to which this rule applies, unless he has prepared a safety report on that industrial activity [or isolated storage]
+[Inserted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+containing the information specified in Schedule 8 and has sent a copy of that report to the Chief Inspector at least [90
+days]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+before commencing that activity.
+(2)
+[ After the commencement of these Rules, the occupier of both the new and the existing industrial activities or isolated
+storage shall arrange to carry out safety audit by a competent agency to be accredited by an accreditation Board to be
+constituted by the Ministry of Labour, Government of India in this behalf.
+Further, such auditing shall be carried out as under, -
+(a)
+Internally once in a year by a team of suitable plant personnel.
+(b)
+Externally once in two years by a competent agency accredited in this behalf.
+(c)
+In the year when an external audit is carried out, internal audit need not be carried out.
+(3)
+The occupier within 30 days of the completion of the audit, shall send a report to the Chief Inspector with respect to the
+implementation of the audit recommendations.]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+11.
+[Updating of safety reports under rule 10]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+(1)
+Page 6/114
+----- PAGE 7 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Where an occupier has made a safety report in accordance with sub-rule (1) of rule 10, he shall not make any
+modification to the industrial activity [or isolated storage]
+[Inserted by N3. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+to which that safety report relates which could materially affect the particulars in that report, unless he has made a
+further report to take account of those modifications and has sent a copy of that report to the [Inspector and the Chief
+Inspector at least 90 days]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+before making those modifications.
+(2)
+Where an occupier has made a report in accordance with rule 10 and sub-rule (1) of this rule and that industrial activity
+[or isolated storage]
+[Inserted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+is continuing, the occupier shall within three years of the date of the last such report, make a further report which shall
+have regard in particular to new technical knowledge which has affected the particulars in the pervious report relating to
+safety and hazard assessment, and shall within [30 days]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+or in such longer time as the Chief Inspector may agree in writing, send a copy of the report to the [Inspector and the
+Chief Inspector.]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+[12. Requirement for further information to be sent to the inspector and the Chief Inspector. - Where, in accordance with
+rules 10 and 11 an occupier has sent a safety report and the safety audit report relating to an industrial activity or
+isolated storage to the Inspector and the Chief Inspector, the Inspector and the Chief Inspector may, by a notice served
+on the occupier require him to provide such additional information as may be specified in the notice and the occupier
+shall send that information to the Inspector and the Chief Inspector within 90 days]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+.
+[13. Preparation of on-site emergency plan by the occupier. - (1) The occupier shall prepare, keep up-to-date and furnish
+to the Inspector and the Chief Inspector an on-site emergency plan containing details specified in Schedule 8A and
+detailing how major accidents will be dealt with on the site on which the industrial activity or isolated storage is carried
+on and that plan shall include the name of the person who is responsible for safety on the site and the names of those
+who are authorized to take action in accordance with the plan in case of an emergency.
+(2)
+The occupier shall ensure that the emergency plan prepared in accordance with sub-rule (1) of this rule, takes into
+account any modification made in the industrial activity or isolated storage and that every person on the site who is
+concerned with the plan is informed of its relevant provisions.
+(3)
+The occupier shall prepare the emergency plan required under sub-rule (1) of this rule:-
+(a)
+Before the commencement of industrial activity or isolated storage;
+(b)
+within 90 days of coming into operation of these rules in case of an existing industrial activity or isolated storage.
+(4)
+The occupier shall ensure that a mock drill of the on-site emergency is conducted at least once in every six months;
+(5)
+A detailed report of the mock drill conducted under sub-rule (4) shall be made immediately available to the Inspector and
+the Chief Inspector.]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+14.
+[xxx]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+15.
+Page 7/114
+----- PAGE 8 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Information to be given to persons liable to be affected by a major accident.
+- [1) The occupier shall take appropriate steps to inform persons outside the site who are likely to be in an area which
+may be affected by a major accident about,-
+(a)
+the nature of the major accident hazard; and
+(b)
+the safety measures and the "Do's' and 'Don'ts" which should be adopted in the event of a major accident.
+(2)
+The occupier shall take steps required under sub-rule (1) of this rule to inform persons about an industrial activity or
+isolated storage before that activity is commenced, except that in respect of an existing industrial activity or isolated
+storage, the occupier shall comply with the requirements of sub-rule (1) of this rule within 90 days of coming into
+operation of these rules.]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+16.
+Disclosures of information notified under these rules.
+- Where for the purpose of evaluating information notified under Rule 5 or Rules 7 to 15, the Inspector or the Chief
+Inspector [xxx]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+discloses that information to some other person, that other person shall not use that information for any purpose except
+a purpose of the Inspector or the Chief Inspector [xxx]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+disclosing it, as the case may be, and before disclosing that information the Inspector or the Chief Inspector [xxx]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+, as the case may, be shall inform that other person of his obligations under this Rule.
+17.
+[x x x]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+18.
+Power of the State Government to notify the Schedules.
+- The State Government may at any time, by notification in the Official Gazette make suitable changes in the Schedules
+[Schedule 1
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+[See rule 2a (i), 3 (1), 4(1) (a)]
+Part-I
+(a)
+Toxic Chemicals. - Chemicals having the following values of acute toxicity and which owing to their physical and
+chemical properties, are capable of producing major accident hazards:
+S.No.
+Toxicity
+Oral toxicity LD50(mg/kg)
+Dermal toxicity LD50 (mg/kg)
+Inhalation toxicity LC50(mg/l)
+1.
+Extremely toxic
+>5
+<40
+<0.5
+2.
+Highly toxic
+>5-50
+>40-200
+Page 8/114
+----- PAGE 9 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+<0.5-2.0
+3.
+Toxic
+>50-200
+>200-1000
+>2-10
+(b)
+Flammable Chemicals. -
+(i)
+flammable gases: Gases which at 20°C and at standard pressure of 101.3KPa are:-
+(a)
+ignitable when in a mixture of 13 percent or less by volume with air; or
+(b)
+have a flammable range with air of at least 12 percentage points regardless of the lower flammable limits.
+Note : The flammability shall be determined by tests or by calculation in accordance with methods adopted by
+International Standards Organization ISO No. 10156 of 1990 or by Bureau of Indian Standards ISI No. 1446 of 1985.
+(ii)
+extremely flammable liquids.- chemicals which have flash point lower than or equal to 23°C and boiling point less than
+35°C.
+(iii)
+very highly flammable liquids.- chemicals which have a flash point lower than or equal to 23°C and initial boiling point
+higher than 35°C.
+(iv)
+highly flammable liquids.- chemicals which have a flash point lower than or equal to 60°C but higher than 23°C.
+(v)
+flammable liquids.- chemicals which have a flash point higher than 60°C but lower than 90°C.
+(c)
+Explosives. - Explosives mean a solid or liquid or pyrotechnic substance (or a mixture of substances) or an article:-
+(a)
+which is in itself capable by chemical reaction of producing gas at such a temperature and pressure and at such a speed
+as to cause damage to the surroundings ;
+(b)
+which is designed to produce an effect by heat, light, sound, gas or smoke or a combination of these as the result of
+non-denotative self sustaining exothermic chemical reaction.
+Part II
+List of Hazardous and Toxic Chemicals
+S. No.
+Name of Hazardous Chemicals
+1.
+Acetaldehyde
+2.
+Acetic acid
+3.
+Acetic anhydride
+4.
+Acetone
+5.
+Acetone cyanohydrin
+6.
+Acetone thiosemicarbazide
+7.
+Page 9/114
+----- PAGE 10 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Acetonitrile
+8.
+Acetylene
+9.
+Acetylene tetra chloride
+10.
+Acrolein
+11.
+Acrylamide
+12.
+Acrylonitrile
+13.
+Adiponitrile
+14.
+Aldicarb
+15.
+Aldrin
+16.
+Allyl alcohol
+17.
+Allyl amine
+18.
+Allyl chloride
+19.
+Aluminium (powder)
+20.
+Aluminium azide
+21.
+Aluminium borohydride
+22.
+Aluminium chloride
+23.
+Aluminium fluoride
+24.
+Aluminium phosphide
+25.
+Amino diphenyl
+26.
+Amino pyridine
+27.
+Aminophenol-2
+28.
+Aminopterin
+29.
+Amiton
+30.
+Amiton dialate
+31.
+Ammonia
+32.
+Ammonium chloro platinate
+Page 10/114
+----- PAGE 11 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+33.
+Ammonium nitrate
+34.
+Ammonium nitrite
+35.
+Ammonium picrate
+36.
+Anabasine
+37.
+Aniline
+38.
+Aniline 2, 4, 6-Trimethyl
+39.
+Anthraquinone
+40.
+Antimony pentafluoride
+41.
+Antimycin A
+42.
+ANTU
+43.
+Arsenic peritcodde
+44.
+Arsenic trioxide
+45.
+Arsenous trichloride
+46.
+Arsine
+47.
+Asphalt
+48.
+Azinphos-ethyl
+49.
+Azinphos-methyl
+50.
+Bacitracin
+51.
+Barium azide
+52.
+Barium nitrate
+53.
+Barium nitride
+54.
+Benzal chloride
+55.
+Benzenamine, 3-Trifluoromethyl
+56.
+Benzene
+57.
+Benzene sulfonyl chloride
+58.
+Page 11/114
+----- PAGE 12 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Benzene, 1-(Chloromethyl)-4 Nitro
+59.
+Benzene arsenic acid
+60.
+Benzidine
+61.
+Benzidine salts
+62.
+Benzimidazole, 4, 5-Dichloro-2 (Trifluoromethyl)
+63.
+Benzoquinone-P
+64.
+Benzotrichloride
+65.
+Benzoyl chloride
+66.
+Benzoyl peroxide
+67.
+Benzyl chloride
+68.
+Beryllium (Powder)
+69.
+Bicyclo (2, 2, 1) Heptane -2- carbonitrile
+70.
+Biphenyl
+71.
+Bis (2-Chloroethyl) sulphide
+72.
+Bis (Chloromethyl) Ketone
+73.
+Bis (Tert-butyl peroxy) cyclohexane
+74.
+Bis (Terbutylperoxy) butane
+75.
+Bis(2, 4, 6-Trinitrophenylamine)
+76.
+Bis (Chloromethyl) Ether
+77.
+Bismuth and compounds
+78.
+Bisphenol-A
+79.
+Bitoscanate
+80.
+Boron Powder
+81.
+Boron triclaloride
+82.
+Boron trifluoride
+83.
+Boron trifluoride comp. with methyl ether, 1, 1
+Page 12/114
+----- PAGE 13 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+84.
+Bromine
+85.
+Bromine pentafluoride
+86.
+Bromo chloro methane
+87.
+Bromodialone
+88.
+Butadine
+89.
+Butane
+90.
+Butanone-2
+91.
+Butyl amine tart
+92.
+Butyl glycidal ether
+93.
+Butyl isovalarate
+94.
+Butyl peroxymaleate tert
+95.
+Butyl vinyl ether
+96.
+Butyl-n-mercaptan
+97.
+C.I. Basic green
+98.
+Cadmium oxide
+99.
+Cadmium stearate
+100.
+Calcium arsenate
+101.
+Calcium carbide
+102.
+Calcium cyanide
+103.
+Camphechlor (Toxaphenol)
+104.
+Cantharidin
+105.
+Captan
+106.
+Carbachol chloride
+107.
+Carbaryl
+108.
+Carbofuran (Furadan)
+109.
+Page 13/114
+----- PAGE 14 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Carbon tetrachloride
+110.
+Carbon disulphide
+111.
+Carbon monoxide
+112.
+Carbonphenothion
+113.
+Carvone
+114.
+Cellulose nitrate
+115.
+Chloroacetic acid
+116.
+Chlordane
+117.
+Chlorofenvinphos
+118.
+Chlorinated benzene
+119.
+Chlorine
+120.
+Chlorine oxide
+121.
+Chlorine trifluoride
+122.
+Chlormephos
+123.
+Chlormequat chloride
+124.
+Chloroacetal chloride
+125.
+Chloroacetaldehyde
+126.
+Chloroaniline-2
+127.
+Chloroaniline-4
+128.
+Chlorobenzene
+129.
+Chloroethyl chloroformate
+130.
+Chloroform
+131.
+Chloroformyl morpholine
+132.
+Chloromethane
+133.
+Chloromethyl methyl ether
+134.
+Chloronitrobenzene
+Page 14/114
+----- PAGE 15 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+135.
+Chlorophacinone
+136.
+Chlorosulphonic acid
+137.
+Chlorothiophos
+143.
+Chloroxuron
+139.
+Chromic acid
+140.
+Chromic chloride
+141.
+Chromium powder
+142.
+Cobalt carbonyl
+143.
+Cobalt Nitrilmethylidyne compound
+144.
+Cobalt (Powder)
+145.
+Colchicine
+146.
+Copper and Compounds
+147.
+Copperoxychloride
+148.
+Coumafuryl
+149.
+Coumaphos
+150.
+Coumatertralyl
+151.
+Crimidine
+152.
+Crotenaldehyde
+153.
+Crotonaldehyde
+154.
+Cumene
+155.
+Cyanogen bromide
+156.
+Cyanongen iodide
+157.
+Cyanophos
+158.
+Cyanothoate
+159.
+Cyanuric fluoride
+160.
+Page 15/114
+----- PAGE 16 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Cyclo hexylamine
+161.
+Cyclohexane
+162.
+Cyclohexanone
+163.
+Cycloheximide
+164.
+Cyclopentadiene
+165.
+Cyclopentane
+166.
+Cyclotetramethyl enctetranitramine
+167.
+Cyclotrimethyl eterinnitranine
+168.
+Cypermethrin
+169.
+DDT
+170.
+Decaborane (1, 4)
+171.
+Demeton
+172.
+Demeton S-Methyl
+173.
+Di-n-propyl peroxydicarbonate (Conc = 80%)
+174.
+Dialifos
+175.
+Diazodinitrophenol
+176.
+Dibenzyl peroxydicarbonate (Conc>= 90%)
+177.
+Diborane
+178.
+Dichloroacetylene
+179.
+Dichlorobenzalkonium chloride
+180.
+Dichloroethyl ether
+181.
+Dichloromethyl phenylsilane
+182.
+Dichlorophenol - 2, 6
+183.
+Dichlorophenol - 1, 2, 4
+184.
+Dichlorophenoxy acetic acid
+185.
+Dichloropropane - 2, 2
+Page 16/114
+----- PAGE 17 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+186.
+Dichlorosalicylic acid-3, 5
+187.
+Dichlorvos (DDVP)
+188.
+Dicrotophos
+189.
+Dieldrin
+190.
+Diepoxy butane
+191.
+Diethyl carbamazine citrate
+192.
+Diethyl chlorophosphate
+193.
+Diethyl ethtanolamine
+194.
+Diethyl peroxydicarbonate (Conc=30%)
+195.
+Diethyl phenylene diamine
+196.
+Diethylamine
+197.
+Diethylene glycol
+198.
+Diethylene glycol dinitrate
+199.
+Diethylene triamine
+200.
+Diethylglycol butyl ether
+201.
+Diglcycidyl ether
+202.
+Digitoxin
+203.
+Dihydroperoxypropane (Conc >=30%)
+204.
+Diisobutyl peroxide
+205.
+Dimefox
+206.
+Dimethoate
+207.
+Dimethyl dichlorosilane
+208.
+Dimethyl hydrazine
+209.
+Dimethyl nitrosoamine
+210.
+Dimethyl P phenylene diamine
+211.
+Page 17/114
+----- PAGE 18 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Dimethyl phosphoramidi cyanidic acid (TABUM)
+212.
+Dimethyl phosphorochloridothioate
+213.
+Dimethyl sufolane (DMS)
+214.
+Dimethyl sulphide
+215.
+Dimethylamine
+216.
+Dimethylaniline
+217.
+Dimethylcarbonyl chloride
+218.
+Dimetilan
+219.
+Dinitro 0-cresol
+220.
+Dinitrophenol
+221.
+Dinitrotoluene
+222.
+Dinoseb
+223.
+Dinoterb
+224.
+Dioxane-p
+225.
+Dioxathion
+226.
+Dioxine N
+227.
+Diphacinone
+228.
+Diphosphoramide octamethyl
+229.
+Diphenyl methane di-isocynate (MDI)
+230.
+Dipropylene Glycol Butyl ether
+231.
+Dipropylene glycolmethyl ether
+232.
+Disec-butyl peroxydicarbonate (Conc. = 80%)
+233.
+Disufoton
+234.
+Dithiazamine iodide
+235.
+Dithiobiurate
+236.
+Endosulfan
+Page 18/114
+----- PAGE 19 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+237.
+Endothion
+238.
+Endrin
+239.
+Epichlorohydrine
+240.
+EPN
+241.
+Ergocalciferol
+242.
+Ergotamine tartarate
+243.
+Ethanesulfenyl chloride, 2 chloro
+244.
+Ethanol 1-2 dichloracetate
+245.
+Ethion
+246.
+Ethoprophos
+247.
+Ethyl acetate
+248.
+Ethyl alcohol
+249.
+Ethyl benzene
+250.
+Ethyl bis amine
+251.
+Ethyl bromide
+252.
+Ethyl carbamate
+253.
+Ethyl ether
+254.
+Ethyl hexanol-2
+255.
+Ethyl mercaptan
+256.
+Ethyl mercuric phosphate
+257.
+Ethyl methacrylate
+258.
+Ethyl nitrate
+259.
+Ethyl thiocyanate
+260.
+Ethylamine
+261.
+Ethylene
+262.
+Page 19/114
+----- PAGE 20 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Ethylene chlorohydrine
+263.
+Ethylene dibromide
+264.
+Ethylene diamine
+265.
+Ethylene diamine hydrochloride
+266.
+Ethylene flourohydrine
+267.
+Ethylene glycol
+268.
+Ethylene glycol dinitrate
+269.
+Ethylene oxide
+270.
+Ethylenimine
+271.
+Ethylene di chloride
+272.
+Femamiphos
+273.
+Femitrothion
+274.
+Fensulphothion
+275.
+Fluemetil
+276.
+Fluorine
+277.
+Fluoro2-hyrdoxy butyric acid amid salt ester
+278.
+Fluoroacetamide
+279.
+Fluoroacetic acid amide salts and esters
+280.
+Fluoroacetylchloride
+281.
+Fluorobutyric acid amide salt esters
+282.
+Fluorocrotonic acid amides salts esters
+283.
+Fluorouracil
+284.
+Fonofos
+285.
+Formaldehyde
+286.
+Formetanate hydrochloride
+287.
+Formic acid
+Page 20/114
+----- PAGE 21 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+288.
+Formoparanate
+289.
+Formothion
+290.
+Fosthiotan
+291.
+Fuberidazole
+292.
+Furan
+293.
+Gallium 'rrichloride
+294.
+Glyconitrile (Hydroxyacetonitrile)
+295.
+Guanyl-4-nitrosaminoguynyl-1-tetrazene
+296.
+Heptachlor
+297.
+Hexamethyl terta-oxyacyclononate (Cone 75%)
+298.
+Hexachlorobenzene
+299.
+Hexachlorocyclohexan (Lindane)
+300.
+Hexachlorocyclopentadiene
+301.
+Hexachlorodibenzo-p-dioxin
+302.
+Hexachloronapthalene
+303.
+Hexafluoropropanone sesquihydrate
+304.
+Hexamethyl phosphoramide
+305.
+Hexamethylene diamine N N dibutyl
+306.
+Hexane
+307.
+Hexanitrostilbene 2, 2, 4, 4, 6, 6
+308.
+Hexene
+309.
+Hydrogen selenide
+310.
+Hydrogen sulphide
+311.
+Hydrazine
+312.
+Hydrazine nitrate
+313.
+Page 21/114
+----- PAGE 22 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Hydrochloric acid (Gas)
+314.
+Hydrogen
+315.
+Hydrogen bromide
+316.
+Hydrogen cyanide
+317.
+Hydrogen fluoride
+318.
+Hydrogen peroxide
+319.
+Hydroquinone
+320.
+Indene
+321.
+Indium powder
+322.
+Indomethacin
+323.
+Iodine
+324.
+Iridium tetrachloride
+325.
+Ironpentacarbonyl
+326.
+Iso benzan
+327.
+Isoamyl alcohol
+328.
+Isobutyl alcohol
+329.
+Isobutyro nitrile
+330.
+Isocyanic acid 3, 4-dichlorophenyl ester
+331.
+Isodrin
+332.
+Isofluorophosphate
+333.
+Isophorone dlisocyanate
+334.
+Isopropyl alcohol
+335.
+Isopropyl chlorocarbonate
+336.
+Isopropyl formate
+337.
+Isopropyl methyl pyrazolyl dimethyl carbamate
+338.
+Juglone (5-11ydroxy Naphthalene-1,4 dione)
+Page 22/114
+----- PAGE 23 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+339.
+Ketene
+340.
+Lactonitrile
+341.
+Lead arsenite
+342.
+Lead at high temp (molten)
+343.
+Lead azide
+344.
+Lead styphanate
+345.
+Leptophos
+346.
+Lenisite
+347.
+Liquified petroleum gas
+348.
+Liithium hydride
+349.
+N-Dinitrobenzene
+350.
+Magnesium powder or ribbon
+351.
+Malathion
+352.
+Maleic anhydride
+353.
+Malononitrile
+354.
+Manganese Tricarbonyl cyclopentadiene
+355.
+Mechlor ethamine
+356.
+Mephospholan
+357.
+Mercuric chloride
+358.
+Mercuric oxide
+359.
+Mercury acetate
+360.
+Mercury fulminate
+361.
+Mercury methyl chloride
+362.
+Mesitylene
+363.
+Methaacrolein diacetate
+364.
+Page 23/114
+----- PAGE 24 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Methacrylic anhydride
+365.
+Methacrylonitrile
+366.
+Methacryloyl oxyethyl isocyanate
+367.
+Methanidophos
+368.
+Methane
+369.
+Methanesulphonyl fluoride
+370.
+Methidathion
+371.
+Methiocarb
+372.
+Methonyl
+373.
+Methoxy ethanol (2-methyl cellosolve)
+374.
+Methoxyethyl mercuric acetate
+375.
+Methyacrylol chloride
+376.
+Methyl 2-chloroacrylate
+377.
+Methyl alcohol
+378.
+Methyl amine
+379.
+Methyl bromide (Bromomethane)
+380.
+Methyl chloride
+381.
+Methyl chloroform
+382.
+Methyl chloroformate
+383.
+Methyl cyclohexene
+384.
+Methyl disulphide
+385.
+Methyl ethyl ketone peroxide (Conc. 60%)
+386.
+Methyl formate
+387.
+Methyl hydrazine
+388.
+Methyl isobutyl ketone
+389.
+Methyl isocyanate
+Page 24/114
+----- PAGE 25 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+390.
+Methyl isothiocyanate
+391.
+Methyl mercuric dicyanamide
+392.
+Methyl Mercaptan
+393.
+Methyl Methacrylate
+394.
+Methyl phencapton
+395.
+Methyl phosphonic dichloride
+396.
+Methyl thiocyanate
+397.
+Methyl trichlorosilane
+398.
+Methyl vinyl ketone
+399.
+Methylene bis (2-chloroaniline)
+400.
+Methylene chloride
+401.
+Methylenebis-4,4(2-chloroaniline)
+402.
+Metolcarb
+403.
+Mevinphos
+404.
+Mezacarbate
+405.
+Mitomycin C
+406.
+Molybdenum powder
+407.
+Monocrotophos
+408.
+Morpholine
+409.
+Muscinol
+410.
+Mustard gas
+411.
+N-Butyl acetate
+412.
+N-Butyl alcohol
+413.
+N-Hexane
+414.
+N- Methyl-N, 2, 4, 6-Tetranitroaniline
+415.
+Page 25/114
+----- PAGE 26 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Naphtha
+416.
+Nephtha solvent
+417.
+Naphthalene
+418.
+Naphthyl amine
+419.
+Nickel carbonyl/nickel tetracarbonyl
+420.
+Nickel powder</p>
+421.
+Nicotine
+422.
+Nicotine sulphate
+423.
+Nitric acid
+424.
+Nitric oxide
+425.
+Nitrobenzene
+426.
+Nitrocellulose (dry)
+427.
+Nitrochlorobenzene
+428.
+Nitrocyclohexane
+429.
+Nitrogen
+430.
+Nitrogen dioxide
+431.
+Nitrogen oxide
+432.
+Nitrogen trifluouide
+433.
+Nitroglycerine
+434.
+Nitropropane-1
+435.
+Nitropropane-2
+436.
+Nitroso dimethyl amine</p>
+437.
+Nonane
+438.
+Norbormide
+439.
+O-Cresol
+440.
+O-Nitro Toluene
+Page 26/114
+----- PAGE 27 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+441.
+O-Toludine
+442.
+O-Xylene
+443.
+O/P Nitroaniline
+444.
+Oleum
+445.
+OO Diethyl S ethyl suph. methyl phos
+446.
+OO Diethyl S propythio methyl phosdithioate
+447.
+OO Diethyl S ethtylsulphinyl methylphosphorothioate
+448.
+OO Diethyl S ethylsulphonyl methylphosphorothioate
+449.
+OO Diethyls ethylthiomethylphospho-rothioate
+450.
+Organo rhodium complex
+451.
+Orotic acid
+452.
+Osmium tetroxide
+453.
+Oxabain
+454.
+Oxamyl
+455.
+Oxetane, 3, 3-bis(chloromethyl)
+456.
+Oxidiphenoxarsine
+457.
+Oxy disulfoton
+458.
+Oxygen (liquid)
+459.
+Oxygen difluoride
+460.
+Ozone
+461.
+P-nitrophenol
+462.
+Paraffin
+463.
+Paraoxon (Diethyl 4 Nitrophenyl phosphate)
+464.
+Paraquat
+465.
+Paraquat methosulphate
+466.
+Page 27/114
+----- PAGE 28 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Parathion
+467.
+Parathion methyl
+468.
+Paris green
+469.
+Penta borane
+470.
+Penta chloro ethane
+471.
+Penta chlorophenol
+472.
+Pentabromophenol
+473.
+Pentachloro naphthalene
+474.
+Pentadecyl-amine
+475.
+Pentaerythaiotol tetranitrate
+476.
+Pentane
+477.
+Pentanone
+478.
+Perchloric acid
+479.
+Perchloroethylene
+480.
+Peroxyacetic acid
+481.
+Phenol
+482.
+Phenol, 2, 2-thiobis (4, 6-Dichloro)
+483.
+Phenol, 2, 2-thiobis (4 chloro 6 methyl phenol)
+484.
+Phenol, 3-(1-methyl ethyl)-methylcarbamate
+485.
+Phenyl hydrazine hydrochloride
+486.
+Phenyl mercury acetate
+487.
+Phenyl silatrane
+488.
+Phenyl thiourea
+489.
+Phenylene P-diamine
+490.
+Phorate
+491.
+Phosazetin
+Page 28/114
+----- PAGE 29 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+492.
+Phosfolan
+493.
+Phosgene
+494.
+Phosmet
+495.
+Phosphamidon
+496.
+Phosphine
+497.
+Phosphoric acid
+498.
+Phosphoric acid dimethyl (4-methyl thio)phenyl
+499.
+Phosphorthioic acid dimethyl S(2-Bis) Ester
+500.
+Phosphorothioic acid methyl (ester)
+501.
+Phosphorothioic acid, 00 Dimethyl S-(2-methyl)
+502.
+Phosphorothioic, methyl-ethyl ester
+503.
+Phosphorous
+504.
+Phosphorous oxychloride
+505.
+Phosphorous pentaoxide
+506.
+Phosphorous trichloride
+507.
+Phosphorous penta chloride
+508.
+Phthalic anhydride
+509.
+Phylloquinone
+510.
+Physostignine
+511.
+Physostignine salicylate (1, 1)
+512.
+Picric acid (2, 4, 6- trinitrophenol)
+513.
+Picrotoxin
+514.
+Piperdine
+515.
+Piprotal
+516.
+Pirinifos-ethyl
+517.
+Page 29/114
+----- PAGE 30 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Platinous chloride
+518.
+Platinum tetrachloride
+519.
+Potassium arsenite
+520.
+Potassium chlorate
+521.
+Potassium cyanide
+522.
+Potassium hydroxide
+523.
+Potassium nitride
+524.
+Potiassium nitrite
+525.
+Potassium peroxide
+526.
+Potassium silver cyanide
+527.
+Powdered metals and mixtures
+528.
+Promecarb
+529.
+Promurit
+530.
+Propanesultone
+531.
+Propargyl alcohol
+532.
+Propargyl bromide
+533.
+Propen-2-chloro-1 ,3-diou diacetate
+534.
+Propiolactone beta
+535.
+Propionitrile
+536.
+Propionitrile, 3-chloro
+537.
+Propiophenfone, 4-amino
+538.
+Propyl chloroformate
+539.
+Propylene dichloride
+540.
+Propylene glycol, allylether
+541.
+Propylene imine
+542.
+Propylene oxide
+Page 30/114
+----- PAGE 31 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+543.
+Prothoate
+544.
+Pseudocumene
+545.
+Pyrazoxon
+546.
+yrene
+547.
+Pyridine
+548.
+Pyridine, 2-methyl-3-vinyl
+549.
+Pyridine, 4-nitro-1-oxide
+550.
+Pyridine, 4-nitro-1-oxide
+551.
+Pyriminil
+552.
+Quinaliphos
+553.
+Quinone
+554.
+Rhodium trichloride
+555.
+Salcomine
+556.
+Sarin
+557.
+Selenious acid
+558.
+Selenium Hexafluoride
+559.
+Selenium oxychloride
+560.
+Semicarbazide hydrochloride
+561.
+Silane (4-amino butyl) diethoxy-meth
+562.
+Sodium
+563.
+Sodium anthra-quinone-1-sulphonate
+564.
+Sodium arsenate
+565.
+Sodium arsenite
+566.
+Sodium azide
+567.
+Sodium cacodylate
+568.
+Page 31/114
+----- PAGE 32 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Sodium chlorate
+569.
+Sodium cyanide
+570.
+Sodium fluoro-acetate
+571.
+Sodium hydroxide
+572.
+Sodium pentachloro-phenate
+573.
+Sodium picramate
+574.
+Sodium selenate
+575.
+Sodium selenite
+576.
+Sodium sulphide
+577.
+Sodium tellorite
+578.
+Stannane acetoxy triphenyl
+579.
+Stibine (Antimony hydride)
+580.
+Strychnine
+581.
+Strychnine sulphate
+582.
+Styphinic acid (2, 4,6-trinitroresorcinol)
+583.
+Styrene
+584.
+Sulphotec
+585.
+Sulphoxide, 3-chloropropyl octyl
+586.
+Sulphur dichloride
+587.
+Sulphur dioxide
+588.
+Sulphur monochloride
+589.
+Sulphur tetrafluoride
+590.
+Stilphur trioxide
+591.
+Sulphuric acid
+592.
+Tellurim (powder)
+593.
+Tellurium hexafluoride
+Page 32/114
+----- PAGE 33 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+594.
+TEPP (Tetraethyl pyrophosphate)
+595.
+Terbufos
+596.
+Tert-Butyl alcohol
+597.
+Tert-Butyl peroxy carbonate
+598.
+Tert-Butyl peroxy isopropyl
+599.
+Tert-Butyl peroxyacetate (Conc >=70%)
+600.
+Tert-Butyl peroxypivalate (Cone >=77%)
+601.
+Tert-Butyl peroxyiso-butyrate
+603.
+Terta methyl lead
+604.
+Tetra nitromethane
+605.
+Tetra-chlorodibenzo-p-dioxin, 1, 2, 3, 7, 8(TCDD)
+606.
+Tetraethyl lead
+607.
+Tetrafluoriethyne
+608.
+Tetramethylene disulphotetramine
+609.
+Thallic oxide
+610.
+Thallium carbonate
+611.
+Thallium sulphate
+612.
+Thallous chloride
+613.
+Thallous malonate
+614.
+Thallous sulphate
+615.
+Thiocarbazide
+616.
+Thiocynamicacid, 2(Benzothiazolyethio) methyl
+617.
+Thiofamox
+618.
+Thiometon
+619.
+Thionazin
+620.
+Page 33/114
+----- PAGE 34 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Thionyl chloride
+621.
+Thiophenol
+622.
+Thiosemicarbazide
+623.
+Thiourea (2 chloro-phenyl)
+624.
+Thiourea (2-methyl phenyl)
+625.
+Tirpate (2,4-dimethyl-1,3-di-thiolane)
+626.
+Titanium powder
+627.
+Titanium tetra-chloride
+628.
+Toluene
+629.
+Toluene-2, 4-di-isocyanate
+630.
+Toluene 2, 6-di-isocyanate
+631.
+Trans-1, 4-di-chloro-butene
+632.
+Tri nitro anisole
+633.
+Tri (Cyclohexyl) methylstannyl 1,2,4 triazole
+634.
+Tri (Cyclohexyl) stannyl-1H-1, 2, 3-triazole
+635.
+Triaminotrinitrobenzene
+636.
+Triamphos
+637.
+Triazophos
+638.
+Tribromophenol 2, 4, 6
+639.
+Trichloro napthalene
+640.
+Trichloro chloromethyl silane
+641.
+Trichloroacetyl chloride
+642.
+Trichlorodichlorophenyl silane
+643.
+Trichloroethyl silane
+644.
+Trichloroethylene
+645.
+Trichloromethane sulphenyl chloride
+Page 34/114
+----- PAGE 35 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+646.
+Trichloronate
+647.
+Trichlorophenol 2, 3, 6
+648.
+Trichlorophenol 2, 4, 5
+649.
+Trichlorophenyl silane
+650.
+Trichlorophon
+651.
+Triethoxy silane
+652.
+Triethylamine
+653.
+Triethylene melamine
+654.
+Trimethyl chlorosilane
+655.
+Trimethyl propane phosphite
+656.
+Trimethyl tin chloride
+657.
+Trinitro aniline
+658.
+Trinitro benzene
+659.
+Trinitro benzoic acid
+660.
+Trinitro phenetole
+661.
+Trinitro-m-cresol
+662.
+Trinitrotoluene
+663.
+Tri-orthocreysyl phosphate
+664.
+Triphenyl tin chloride
+665.
+Tris(2-chloroethyl)amine
+666.
+Turpentine
+667.
+Uranium and its compounds
+668.
+Valino mycin
+669.
+Vanadium pentaoxide
+670.
+Vinyl acetate mononer
+671.
+Page 35/114
+----- PAGE 36 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Vinyl bromide
+672.
+Vinyl chloride
+673.
+Vinyl cyclohexane dioxide
+674.
+Vinyl fluoride
+675.
+Vinyl norbornene
+676.
+Vinyl toluene
+677.
+Vinyledene chloride
+678.
+Warfarin
+679.
+Warfarin Sodium
+680.
+Xylene dichloride
+681.
+Xylidine
+682.
+Zinc dichloropentanitrile
+683.
+Zink phosphide
+684.
+Zirconium & compounds]
+[Schedule 2]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+[See rule 2(a)(ii),4(1)(b), 4(2) (1) and 6 (1) (c) and (d)]
+Isolated storage at installations other than those covered by Schedule 4
+(a)
+The threshold quantities set out below relate to each installation or group of installations belonging to the same occupier
+where the distance between installation is not sufficient to avoid in foreseeable circumstances, any aggravation of major
+accident hazards. These threshold quantities apply in any case to each group of installations belonging to the same
+occupier where the distance between the installations is less than 500 metres.
+(b)
+For the purpose of determining the threshold quantity of a hazardous chemical at an isolated storage, account shall also
+be taken of any hazardous chemical which is:-
+(i)
+in that part of any pipeline under the control of the occupier having control of the site, which is within 500 metres of that
+site and connected to it;
+(ii)
+at any other site under the control of the same occupier any part of the boundary of which is within 500 meters of the
+said site; and
+(iii)
+in any vehicle, vessel, aircraft or hovercraft, under the control of the same occupier which is used for storage purpose
+either at the site or within 500 metres of it;
+but no account shall be taken of any hazardous chemical which is in a vehicle, vessel, aircraft or a hovercraft used for
+transporting it.
+S. No.
+Page 36/114
+----- PAGE 37 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Chemicals
+Threshold quantity
+For application of Rules 4, 5, 7, 8, 13 and 15
+For application of Rules 10 to12
+1.
+Acrylonitrile
+350
+5,000
+2.
+Ammonia
+60
+600
+3.
+Ammonium nitrate (a)
+350
+2,500
+4.
+Ammonium nitrate fertilizers (b)
+1,250
+10,000
+5.
+Chlorine
+10
+25
+6.
+Flammable gases as defined in Schedule 1, paragraph (b) (i)
+50
+3000
+7. [
+[Substituted by No. G.S.R. 4, dated 16.4.2002[18.4.2002.]
+]
+Extremely flammable liquids as defined in Schedule 1,
+paragraph (b) (ii)
+5000
+50,000]
+8.
+Liquid oxygen
+200
+2000
+9.
+Sodium chlorate
+25
+250
+10.
+Sulphur dioxide
+20
+500
+11.
+Sulphur trioxide
+15
+100
+Page 37/114
+----- PAGE 38 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+12. [
+[Substituted by No. G.S.R. 4, dated. 16.4.2002 [18.4.2002]
+]
+Carbonyl chloride
+0.750
+0.750
+13.
+Hydrogen Sulphide
+5
+50
+14.
+Hydrogen Fluoride
+5
+50
+15.
+Hydrogen Cyanide
+5
+20
+16.
+Carbon disulphide
+20
+200
+17.
+Bromine
+50
+500
+18.
+Ethylene oxide
+5
+501
+19.
+Propylene oxide
+5
+50
+20.
+2-Propenal (Acrolein)
+20
+200
+21.
+Bromomethane (Methyl bromide)
+20
+200
+22.
+Methyl isocyanate
+0.150
+0.150
+23.
+Tetraethyl lead or tetramethyl lead
+5
+50
+24.
+Page 38/114
+----- PAGE 39 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+1,2 Dibromoethane (Ethylene dibromide)
+5
+50
+25.
+Hydrogen chloride (liquefied gas)
+25
+250
+26.
+Diphenyl methane di-isocyanate (MDI)
+20
+200
+27.
+Toluene di-isocyanate (TDI)
+10
+100
+28.
+Very highly flammable liquids as defined in Schedule 1,
+paragraph (b) (iii)
+7,000
+7,000
+29.
+Highly flammable liquids as defined in Schedule 1, paragraph
+(b) (iv)
+10,000
+10,000
+30.
+Flammable liquids as defined in Schedule-1, paragraph (b) (v)
+15,000
+1,00,000]
+[Schedule 3
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+[See Rule 2(a)(iii), 5 and 6(1) (a) and (b)]
+List of Hazardous Chemicals for application of Rules 5 and 7 to 15
+(a)
+The quantities set-out-below relate to each installation or group of installations belonging to the same occupier where
+the distance between the installations is not sufficient to avoid in foreseeable circumstances, any aggravation of major
+accident hazards. These quantities apply in any case to each group of installations belonging to the same occupier
+where the distance between the installations is less than 500 metres.
+(b)
+For the purpose of determining the threshold quantity of a hazardous chemical in an industrial installation, account shall
+also be taken of any hazardous chemical which is:-
+(i)
+in that part of any pipeline under the control of the occupier having control of the site, which is within 500 metres of that
+site and connected to it;
+(ii)
+at any other site under the control of the same occupier any part of the boundary of which is within 500 metres of the
+said site ; and
+(iii)
+in any vehicle, vessel, aircraft or hovercraft under the control of the same occupier which is used for storage purpose
+either at the site or within 500 metres of it;
+Page 39/114
+----- PAGE 40 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+but no account shall be taken of any hazardous chemical which is in a vehicle, vessel, aircraft or hovercraft used for
+transporting it.
+Part - I Named Chemicals
+S. No.
+Chemicals
+Threshold quantity
+CAS
+[CAS Number (Chemical Abstracts Service Number) means the number assigned to the chemical by the Chemical
+Abstracts Service.]
+Number
+For application of R 5,7,8,13 & 15
+For application of R 10-12
+(1)
+(2)
+(3)
+(4)
+(5)
+Group 1-Toxic chemicals
+1.
+Aldicarb
+100kg
+116-06-3
+2.
+4-Aminodiphenyl
+1 kg
+96-67-1
+3.
+Amiton
+1 kg
+78.53-5
+4.
+Anabasine
+100 kg
+494-52-0
+5.
+Arseinc pentoxide, Arsenic (V) acid & salts
+500 kg
+6.
+Arsenic trioxide, Arsenic (III) acid & salts
+100 kg
+7.
+Arsine (Arsenic hydride)
+10kg
+7784-42-1
+8.
+Azinphos-ethyl
+100kg
+2642-71-9
+9.
+Azinphos-methyl
+100 kg
+Page 40/114
+----- PAGE 41 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+86-50-0
+10.
+Benzidine
+1kg
+92-87-5
+11.
+Benzidine salts
+1kg
+12.
+Beryllium (powders, compounds)
+10 kg
+13.
+Bis (2-chloroethyl) sulphide
+1kg
+505-60-2
+14.
+Bis (chloromethyl) ether
+1 kg
+542-88-1
+15.
+Carbophuran
+100 kg
+1563-66.2
+16.
+Carbophenothion
+100kg
+786-19-6
+17.
+Chlorefenvinphos
+100 kg
+470-90-6
+18.
+4-(Chloroformyl) morpholine
+1 kg
+15159-40-7
+19.
+Chloromethyl methyl ether
+1 kg
+107-30-2
+20.
+Cobalt (metal, oxides, carbonates, sulphides, as
+powders)
+1 kg
+21.
+Crimidine
+100 kg
+535-89-7
+22.
+Cynthoate
+100 kg
+3734-95-0
+Page 41/114
+----- PAGE 42 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+23.
+Cycloheximide
+100 kg
+66-81-9
+24.
+Demeton
+100 kg
+8065-48-3
+25.
+Dialifos
+100 kg
+10311-84-9
+26.
+00-Diethyl S-ethylsulphinylmethyl phosphorothiate
+100 kg
+2588-05-8
+27.
+00-Diethyl S-ethylsulphonylmethyl phosphorothiate
+100 kg
+2588-06-9
+28.
+00-Diethyl S-ethylthiomethyl Phosphorodithioate
+100 kg
+2600-69-3
+29.
+00-Diethyl S-prophylthiomethyl phosphorothiate
+100 kg
+78-52-4
+30.
+00-Diethyl S-isopropylthiomethyl phosphorodithioate
+100 kg
+3309-68-0
+31.
+Dimefox
+100 kg
+115-26-4
+32.
+Dimethylcarbameyl chloride
+1 kg
+79-44-7
+33.
+Dimethylnitrosamine
+1 kg
+62-75-9
+34.
+Dimethyl phosphoromidocynicidic acid
+1t
+63917-41-9
+35.
+Diphacinone
+100 kg
+Page 42/114
+----- PAGE 43 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+82-66-6
+36.
+Disulfoton
+100 kg
+298-04-4
+37.
+EPN
+100 kg
+2104-54-5
+38.
+Ethion
+100 kg
+563-12-2
+39
+Fensulfothion
+100kg
+115-90-2
+40.
+Fluenetil
+100 g
+4301-50-2
+41.
+Fluoroacetic acid
+1 kg
+144-49-0
+42.
+Fluoroacetic acid, salts
+1 kg
+43.
+Fluoroacetic acid, esters
+1 kg
+44.
+Fluoroacetic acid, amides
+1 kg
+45.
+4-Fluorobutyric acid
+1 kg
+462-23-7
+46.
+4-Fluorobutyric acid, salts
+1 kg
+47.
+4-Fluorobutyric acid, esters
+1 kg
+48.
+4-Fluorobutyric acid, amides
+1 kg
+49.
+4-Fluorocrotonic acid
+1 kg
+37759-72-1
+Page 43/114
+----- PAGE 44 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+50.
+4-Fluorocrotonic acid, salts
+1 kg
+51.
+4-Fluorocrotonic acid, esters
+1 kg
+52.
+4-Fluorocrotonic acid, amides
+1 kg
+53.
+4-Fluoro-2-hydroxybutyric acid, amides
+1 kg
+54.
+4-Fluoro-2-hydroxybutyric acid, salts
+1 kg
+55.
+4-Fluoro-2-hydroxybutyric acid, esters
+1 kg
+56.
+4-Fluoro-2-hydroxybutyric acid, amides
+1 kg
+57.
+Glycolonitrile (Hydroxyacetonitrile)
+100 kg
+107-16-4
+58.
+1,2,3,7,8,9, Hexachlorodibenzo- p-dioxin
+100 kg
+19408-74-3
+59.
+Hexmathylphosphoramide
+1 kg
+680-31-9
+60.
+Hydrogen selenide
+10 kg
+7783-07-5
+61.
+Isobenzan
+100 kg
+297-78-9
+62.
+Isodrin
+100kg
+465-73-6
+63.
+Juglone (5-Hydroxypaphithalene 1.4 dione)
+100 kg
+481-39-0
+64.
+4,4-Methylenebis (2-chloroniline)
+Page 44/114
+----- PAGE 45 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+10 kg
+101-14-4
+65.
+Mthyl isocynate
+150 kg
+150kg
+624-83-9
+66.
+Mevinphos
+100 kg
+7786-34-7
+67.
+2-Naphthylamine
+1 kg
+91-59-9
+68.
+2-Nickel metal, oxides, carbonates, sulphides, as
+powders
+1 t
+69.
+Nickel tetracarbonyl
+10 kg
+13463-39-3
+70.
+Oxygendisulfoton
+100 kg
+2497-07-6
+71.
+Oxygen difluoride
+10 kg
+7782-41-7
+72.
+Paraxon (Diethyl 4-nitrophenyl phosphate)
+100 kg
+311-45-5
+73.
+Parathion
+100 kg
+56-38-2
+74.
+Parathion-methyl
+100 kg
+298-60-0
+75.
+Pentaborane
+100 kg
+19624-22-7
+76.
+Phorate
+100 kg
+298-02-2
+Page 45/114
+----- PAGE 46 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+77.
+Phosacetim
+100 kg
+4104-14-7
+78.
+Phosgene (carbonyl chloride)
+750 kg
+75-44-5
+79.
+Phosphamidon
+100 kg
+13171-21-6
+80.
+Phosphine (Hydrogen phosphide)
+100 kg
+7803-51-2
+81.
+Promurit (1-(3,4-dichloropheny1)- 3-
+triazenthiocarboxamide)
+100 kg
+5836-73-7
+82.
+1,3 Propanesultone
+1 kg
+1120-71-4
+83.
+1-Propen-2-chloro-1,3diol diacetate
+10 kg
+10118-72-6
+84.
+Pyrazoxon
+100 kg
+108-34-9
+85.
+Selenium hexafluoride
+10 kg
+7783-79-1
+86.
+Sodium selenite
+100 kg
+10102-18-8
+87.
+Stibine (Antimony hydride)
+100 kg
+7803-52-3
+88.
+Sulfotop
+100 kg
+3689-24-5
+89.
+Sulphur dichloride
+Page 46/114
+----- PAGE 47 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+1 t
+10545-99-0
+90.
+Tellurium
+100 kg
+7783-80-4
+91.
+TEPP hexafluoride
+100 kg
+107-49-3
+92.
+2,3,7,8,-Tetrachlorodibenzo- p-dioxin (TCDD)
+1 kg
+1746-01-6
+93.
+Tetramethylenedisulphotetra mine
+1 kg
+80-12-6
+94.
+Thionazin
+100 kg
+297-97-2
+95.
+Tirpate
+(2,4-Dimethyl-1,3-dithiolane-2-carboxaldehyde
+0-methylcarbamoyloxime)
+100 kg
+26419-73-8
+96.
+Trichloromethane sulphonyl chloride
+100 kg
+594-42-3
+97.
+1-Tri (cyclohexyl) stannyl-1 H-1,2,4-Triazole
+100 kg
+41083-11-8
+98.
+Triethylenemelamine
+10 kg
+51-18-3
+99.
+Warfarin
+100 kg
+81-81-2
+Group-2 Toxic chemicals
+(Quantity : 1 tonne)
+100
+Acetone cyanohydrin (2-Cyanopropan-2-01)
+200 t
+75-86-5
+101.
+Page 47/114
+----- PAGE 48 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Acrolein (2-Propenal)
+20 t
+[200t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+107-02-8
+102.
+Acrylonitrile
+20 t
+200t
+107-13-1
+103.
+Ally! alcohol (2-Propen-1-01)
+200 t
+107-18-6
+104.
+Alylamine
+200 t
+107-11-9
+105.
+Ammonia
+50 t
+500t
+7664-41-7
+106.
+Bromine
+40 t
+[500t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+7726-95-6
+107
+Carbon disulphide
+20 t
+75-15-0
+108
+Chlorine
+10 t
+25t
+7782-50-5
+109
+Diphneyl ethane di-isocynate (MDI)
+20 t
+[200t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+101-68-8
+110
+Ethylene dibromide (1,2-Dibromoethane)
+5 t
+[50t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+106-93-4
+111
+Page 48/114
+----- PAGE 49 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Ethyleneimine
+50 t
+151-56-4
+112
+Formaldehyde (concentration  = 90%)
+5 t
+[50t]
+[Inserted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+50-00-0
+113
+Hydrogen chloride (liquefied gas)
+25 t
+250t
+7646-01-0
+114
+Hydrogen cyanide
+5 t
+20t
+74-90-8
+115
+Hydrogen fluoride
+5 t
+50t
+7664-39-3
+116
+Hydrogen sulphide
+5 t
+50 t
+7783-06-4
+117
+Methyl bromide (Bromomethane)
+20 t
+[200 t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+74-83-9
+118
+Nitrogen oxides
+50 t
+11104-93-1
+119
+Propylineimine
+50 t
+75-55-8
+120
+Sulphur dioxide
+20 t
+250t
+7446-09-5
+121
+Page 49/114
+----- PAGE 50 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Sulphur trioxide
+15 t
+75t
+7446-11-9
+122
+Tetraethyl lead
+5t
+78-00-2
+123
+Tetra methyl lead
+5t
+[200t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+75-74-1
+124
+Toluene di-isocynate (TDI)
+10t
+[100t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+584-84-9
+Group 3-Highly Reactive Substances
+125
+Acetylene (ethylene)
+5t
+74-86-2
+126
+a.Ammonium nitrate (1) b. Ammonium nitrate in form
+of fertilizer (2)
+350t 1250t
+2500t
+6484-52-2
+127
+2,2 Bis (tert-butylperoxy butane (concentration >
+70%)
+5t
+2167-23-9
+128
+1, 1-Bis (tert-butyl peroxy
+cyclohexane((concentration = 80%)
+5t
+3006-86-8
+129
+Tert-Butyl peroxyacetate (concentration =70%)
+5t
+107-71-1
+130
+Tert-Butyl Isobutyrate (concentration=80%)
+5t
+109-13-7
+Page 50/114
+----- PAGE 51 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+131
+Tert-Butyl peroxy isopropyl carbonate
+(concentration =80%)
+5t
+2372-21-6
+132
+Tert-Butyl peroxymaletate (concentration=70%)
+5t
+1931-62-0
+133
+Tert-Butyl peroxypivalte (concentration=80%)
+50t
+927-07-1
+134
+Dibenzyl peroxydicarbonate (concentration=80%)
+5t
+2144-45-8
+135
+Di-sec-butyl peroxy dicarbonate (concentration=80%)
+5t
+19910-65-7
+136
+Diethyl peroxydicarbonate (concentration = 80%)
+50t
+14666-78-5
+137
+2-dihydroperoxypropane(concentration=30%)
+5t
+2614-76-08
+138
+di-isobutyl peroxide(concentration=50%)
+50t
+3437-84-1
+139
+di-n-propyl peroxydicarbonate
+5t
+16066-38-9
+140
+Ethylene oxide
+5t
+50t
+75-21-8
+141
+Ethyl nitrate
+50t
+625-58-1
+142
+3,3,6,6,9,9, Hexamethyl - 1,2,4,5-tert
+oxacyclononane (concentration = 75%)
+50t
+22397-33-7
+Page 51/114
+----- PAGE 52 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+143
+Hydrogen
+2t
+50t
+133-74-0
+144
+Liquid Oxygen
+200t
+[2000t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+7782-41-7
+145
+Methyl ethyl ketone peroxide (concentration =60%)
+5t
+1338-23-4
+146
+Methyl isobutyl ketone peroxide (concentration =
+60%)
+50 t
+37206-20-5
+147
+Peracetic acid (concentration = 60%)
+50 t
+79-21-0
+148
+Propylene oxide
+5 t
+[50t]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+75-56-9
+149
+Sodium chlorate
+25 t
+7775-09-9
+Group 4-Explosive chemicals
+150
+Barium azide
+[100]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]kg
+18810-58-7
+151
+Bis (2, 4, 6 - trinitrophenyl) amine
+50 t
+131-073-7
+152
+Chlorotrinitro benzene
+50 t
+28260-61-9
+Page 52/114
+----- PAGE 53 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+153
+Cellulose nitrate (containing less = 12.6%
+Nitrogen)
+50 t
+9004-70-0
+154
+Cyclotetramethylene teranitramine
+50 t
+2691-41-0
+155
+Cyclotrimethylene teranitramine
+50 t
+121-82-4
+156
+Diazodinitrophenol
+10 t
+7008-81-3
+157
+Diethylene glycol dinitrate
+10 t
+693-21-0
+158
+Dinitrophenol, salts
+50 t
+159
+Enthylene glycol dinitrate
+10 t
+628-96-6
+160
+1-Gyanyl-4-nitrosaminoguany1-1-tetrazene
+[100 kg]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+109-27-3
+161
+2, 2, 4, 4, 6, 6,-Hexanitositibene
+50 t
+20062-22-0
+162
+Hydrazine nitrate
+50 t
+13464-97-6
+163
+Lead azide
+[100 kg]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+13424-46-9
+164
+Lead Styphnate ( Lead 2,4,6-trinitroresorcinoxide)
+[100 kg]
+Page 53/114
+----- PAGE 54 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+15245-44-0
+165
+Mercury fuliminate
+[100 kg]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+20820-45-5
+166
+N-Methyl-N,2,4,6-tetranitroaniline
+50 t
+497-45-8
+167
+167 Nitroglycerine
+10 t
+10 t
+55-63-0
+168
+Pentaerythritol tetra nitrate
+50 t
+78-11-5
+169
+Picric acid, (2,3,6-Trinitrophenol)
+50 t
+88-89-1
+170
+Sodium picramate
+50 t
+831-52-7
+171
+Styphnic acid (2,4,6-Trinitroresoreinol)
+50 t
+82-71-3
+172
+1,3,5-Triamino-2,4,6-Trinitrobezene
+50 t
+3058-38-6
+173
+Trinitroaniline-
+50 t
+26952-42-1
+174
+2,4,6-Trinitroanisole
+50 t
+606-35-9
+175
+Trinitrobenze
+50 t
+25377-32-6
+176
+Page 54/114
+----- PAGE 55 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Trinitrobenzoic acid
+50 t
+35860-50-5
+177
+Trinitrocresol
+50 t
+28905-71-7
+178
+2,4,6-Trinitrophenitole
+50 t
+4732-14-3
+179
+2,4,6-Trinitrotoluene
+50 t
+118-96-7]
+[Part II
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+Classes of Substances as Defined in Part-I, Schedule-1 and not Specifically Named in Part - I of this Schedule
+S. No.
+Chemical
+Thresshold quantity
+For application of Rules 5, 7, 8,
+13, and 15
+For application of Rules 10 to 12
+1
+2
+3
+4
+Group 5 ? Flammable
+substances
+1.
+Flammabel
+Gases
+15t
+200t
+2.
+Extremely
+flammble liquids
+1000t
+5000t
+3.
+Very
+highly flammable liquids
+1500t
+10000t
+4.
+Highly
+Flammable liquids which remains liquid under pressure
+25t
+200t
+5.
+Page 55/114
+----- PAGE 56 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Highly
+Flammable liquids
+2500t
+20000t
+6.
+Flammble
+liquids
+5000t
+50000t]
+Foot Notes
+(1)
+This applies to ammonium nitrate and mixtures of ammonium nitrate where the nitrogen content derived from the
+ammonium nitrate is greater than 28% by weight and aqueous solutions of ammonium nitrate where the concentration of
+ammonium nitrate is greater than 90% by weight.
+(2)
+This applies to straight ammonium nitrate fertilizers and to compound fertilizers where the nitrogen content derived from
+the ammonium nitrate is greater than 28% by weight (a compound fertilizer contains ammonium nitrate together with
+phosphate and/or potash).
+*CAS Number ( Chemical Abstracts Service numbers ) means the number assigned to the chemical by the Chemical
+Abstracts Service]
+Schedule 4
+[See Rule 2(b) (i)]
+[Factory]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+within the meaning of Rule 2 (b ) (i)
+1. [Factories]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+for the production, processing or treatment of organic or inorganic chemicals using for this purpose, among others;
+(a)
+alkylation
+(b)
+Amination by ammonolysis
+(c)
+carbonylation
+(c)
+condensation
+(e)
+dehydrogenation
+(f)
+esterification
+(g)
+halogenation and manufacture of halogens
+(h)
+hydrogenation
+(i)
+hydrolysis
+(j)
+Oxidation
+(k)
+Polymerziation
+(l)
+Page 56/114
+----- PAGE 57 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Sulphonation
+(m)
+desulphurization, manufacture and transformation of sulphur containing compounds
+(n)
+nitration and manufacture of nitrogen containing compounds
+(o)
+manufacture of phosphorous-containing compounds
+(p)
+formulation of pesticides and of pharmaceutical products
+(q)
+distillation
+(r)
+extraction
+(s)
+solvation
+(t)
+mixing
+2. [Factories]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+for distillation, refining or other processing of petroleum or petroleum products.
+3. [Factories]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+for the total or partial disposal of solid or liquid substances by incineration or chemical decomposition.
+4. [Factories]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+for production, processing, [use]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18A.2002].]
+or treatment of energy gases, for example, LPG, LNG, SNG.
+5. [Factories]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+for the dry distillation of coal or lignite.
+6. [Factories]
+[Substituted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002].]
+for the production of metals or non-metals by a wet process or by means of electrical energy.
+Schedule 5
+[(See Rule 3( 2) and (3)]
+Safety Data Sheet
+1. Chemical Identity
+Chemical Name
+Chemical Classification
+Synonyms
+Trade Name
+Formula
+C.A.S.No
+U.N. No.:
+Regulated
+Identification......................................Shipping
+NameCodes/Lable
+Hazchem No.
+Hazardous WasteI.D. No.:
+Hazardous Ingredients
+Page 57/114
+----- PAGE 58 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+C.A.S. No.
+Hazardous Ingredients
+C.A.S No.:
+1.
+3.
+2.
+4.
+2. Physical and Chemical Data
+Boiling Range/Point °C
+Physical State
+Appearance
+Melting/Freezing Point °C
+Vapour Pressure@ 35 °C mm/Hg
+Odour
+Vapour Density (Air=1)
+Solubility in Water at 30°C
+Others
+Specific GravityWater =1
+pH
+3. Fire and Explosion Hazard Data
+Flammability ignition
+Yes/No
+LEL %
+Flash
+Auto
+Point °C
+Temperature °C
+TDG Flammability
+UEL %
+Flash Point °C
+Hazardous
+Explosion Sensitivity
+Explosion Sensitivity
+Combustion
+to Impact Products
+to Static Electricity
+Hazardous Polymerisation
+Combustible Liquid
+ExplosiveMaterial
+CorrosiveMaterial
+Flammable Material
+Oxidiser
+Others
+Pyrophoric Material
+Organic Peroxide
+4. Reactivity Data
+Chemical Stability
+Incompatibility With other Material
+Reactivity
+Hazardous Reaction Products
+5. Health Hazard Data
+Page 58/114
+----- PAGE 59 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Routes of Entry
+Effects of Exposure/Symptoms
+Emergency Treatment
+TLV(ACGIH)
+ppm
+mg/m3
+STEL
+ppm
+mg/m3
+Permissible Exposure LimitsLD50
+ppm
+mg/m3
+Odour
+Threshold
+LD5O
+ppm
+mg/m3
+NEPA Hazard Signals
+Health
+Flammability
+Stability Special
+6. Preventive Measures
+Personnel
+Protective
+Equipment
+Handling andStorage Precautions
+7. Emergency and First aid Measure
+Fire Extinguishing Media
+FIRE
+Special ProceduresUnusual
+Hazards
+EXPOSURE
+First Aid
+MeasuresAntidotes/Dosages
+SPILLS
+Steps to be
+takenWaste
+Disposal Method
+8. Additional Information/References
+9. Manufacturer/Supplier Data
+Name of Firm
+Contact Person in Emergency
+Mailing Address
+Local Bodies Involved
+Telephone/Telex
+Nos. Standard Packing
+Telegraphic Address Other
+Tremcard Details/Ref
+10. Disclaimer
+Information contained in this
+material data sheet is believed to be reliable but no
+Page 59/114
+----- PAGE 60 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+representation, guarantee or warranties of any kind are made as
+to its accuracy, suitability for a particular application or
+results to be obtained from them. It is up to the
+manufacturer/seller to ensure that the information contained in
+the material safety data sheet is relevant to the product
+manufactured/handled or sold by him as the case may be. The
+Government makes no warranties expressed or implied in respect of
+the adequacy of this document for any particular purpose.
+Schedule 6
+[See Rule 5(1)]
+Information to be Furnished Regarding Notification of a Major Accident
+Report number....................
+of the particular accident
+1.
+General data
+(a) Name of the site
+(b) Name and address of the occupier
+(Also state telephone/telex
+number)
+(c) (i) Registration number
+(ii) Licence number(as may
+have been allotted under any status applicable to the site,
+e.g.the Factories Act)
+(d) (i) Nature of industrial activity(Mention what is
+actually manufactured, stored etc.)
+(ii) National Industrial
+Classification, 1987 at the four digit level.
+{|
+|-
+| 2.
+| Type of major accident
+|-
+| Explosion
+| {|
+|-
+|
+|}
+| Fire
+| {|
+|-
+|
+|}
+| Emission of
+dangerous substance
+| {|
+|-
+|
+|}
+|-
+| Substance(s)
+emitted.............................................................................................................................
+Page 60/114
+----- PAGE 61 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+|-
+| 3.
+| Description of the major
+accident
+|-
+| (a) Date, shift and hour of the
+accident
+|-
+| (b) Department/Section and exact
+place where the accident took place
+|-
+| (c) The process/operation
+undertaken in the Department/section where the accident took
+place.(Attach a flow chart if necessary)
+|-
+| (d) The circumstances of the
+accident and the dangerous substance involved
+|-
+| 4.
+| Emergency Measures taken and
+measures envisaged to be taken to alleviate short term effects of
+the accident.
+|-
+| 5.
+| Causes of the major accident.
+|-
+| Known(to be specified)Not
+known
+| {|
+|-
+|
+|}
+|-
+| {|
+|-
+|
+|}
+|-
+| Information will be supplied as
+soon as possible
+| {|
+|-
+|
+|}
+|-
+| 6.
+| Nature and extent of damage
+|-
+| (a) Within the establishment ?
+casualties
+| ?.................Killed....................Injured.................Poisoned
+Page 61/114
+----- PAGE 62 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+|-
+| ? Persons exposed to the
+major accident
+..............................................................
+|-
+| ? material damaged
+| {|
+|-
+|
+|}
+|-
+| ? danger is still present
+| {|
+|-
+|
+|}
+|-
+| ? danger no longer exists.
+| {|
+|-
+|
+|}
+|-
+| (b) Outside the establishment ?
+casualties
+| ?.................Killed....................Injured.................Poisoned
+|-
+| ? Persons exposed to the
+major accident
+|
+|-
+| ? material damaged
+| {|
+|-
+|
+|}
+|-
+| ? damage to environment
+| {|
+|-
+|
+|}
+|-
+| ? danger is still present
+| {|
+|-
+|
+|}
+|-
+| ? danger no longer exists.
+| {|
+Page 62/114
+----- PAGE 63 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+|-
+|
+|}
+|-
+| 7.
+| Data available for assessing
+the effects of the accident on persons and environment.
+|-
+| 8.
+| Steps already taken or
+envisaged
+|
+|-
+| (a) to alleviate medium or long
+term effects of the accident(b) to prevent recurrence of
+similar major accident(c) Any other relevant information.
+|
+|}
+Signature..................
+Name and Designation of Authorised Signatory/Occupier Or Manager
+Schedule 7
+[See Rule 7(1)]
+Information to be Furnished for the Notification of [XXX]
+[Deleted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+] Sites
+Particulars to be included in a notification of a site
+1. The name and address of the occupier making the notification.
+2. The full postal address of the site where the notifiable industrial activity will be carried on.
+3. The area of the site covered by the notification and of any adjacent site which is required to be taken into account by
+virtue of b(ii) of schedule 2 and 3.
+4. The date on which it is anticipated that the notifiable industrial activity will commence or if it has already commenced a
+statement to that effect.
+5. The name and maximum quantity liable to be on the site of each dangerous substance for which notification is being
+made.
+6. Organisation structure namely organisation diagram for the proposed industrial activity and set up for ensuring safety
+and health.
+7. Information relating to the potential for major accidents, namely-
+(a)
+identification of major accident hazards ;
+(b)
+the conditions or the events which could be significant in brining one about;
+(c)
+a brief description of the measures taken.
+8. Information relating to the site namel. -
+(a)
+a map of the site and its surrounding area to a scale large enough to show any features that may be significant in the
+assessment of the hazards or risk associated with the site;
+(i)
+area likely to be affected by the major accident;
+(ii)
+Population distribution in the vicinity.
+Page 63/114
+----- PAGE 64 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+(b)
+a scale plan of the site showing the location and quantity of all significant inventories of the hazardous chemicals;
+(c)
+a description of the processes or storages involving the hazardous chemicals, and an indication of the conditions under
+which it is normally held;
+(d)
+the maximum number of persons likely to be present on site.
+9. The arrangement for training of workers and equipment necessary to ensure safety of such workers.
+Schedule 8
+[See Rule 10(1)]
+Information to be Furnished in a Safety Report
+1. The name and address of the person furnishing the information.
+2. Description of the industrial activity, namely-
+(a)
+site,
+(b)
+construction design,
+(c)
+protection zones (explosion protection), separation distances,
+(d)
+accessibility of plant,
+(e)
+maximum number of persons working on the site and particularly of those persons exposed to be hazard.
+3. Description of the processes, namel. -
+(a)
+technical purpose of the industrial activity,
+(b)
+basic principles of the technological process,
+(c)
+process and safety -related data for the individual process stages,
+(d)
+process description,
+(e)
+Safety-related types of utilities.
+4. Description of the hazardous chemicals, namel. -
+(a)
+chemicals (quantities, substance data, safety-related data, toxicological data and threshold values),
+(b)
+the form in which the chemical may occur on or into which they may be transformed in the event of abnormal conditions,
+(c)
+the degree of purity of the hazardous chemical.
+5. Information on the preliminary hazard analysis, namel. -
+(a)
+types of accident
+(b)
+system elements or events that can lead to a major accident,
+(c)
+hazards,
+(d)
+safety-relevant components.
+6. Description of safety -relevant units, among other. -
+Page 64/114
+----- PAGE 65 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+(a)
+special design criteria,
+(b)
+controls and alarms,
+(c)
+special relief systems,
+(d)
+quick-acting valves,
+(e)
+collecting tanks/dump tank,
+(f)
+sprinkler system,
+(g)
+fire protection, etc.
+7. Information on the hazards assessment, namel. -
+(a)
+identification of hazards ,
+(b)
+the cause of major accidents,
+(c)
+assessment of hazards according to their occurrence frequency,
+(d)
+assessment of accident consequences,
+(e)
+safety systems,
+(f)
+known accident history.
+8. Description of information or organizational systems used to carry on the industrial activity safety, namel. -
+(a)
+maintenance and inspection schedules,
+(b)
+guidelines for the training of personnel,
+(c)
+allocation and delegation of responsibility for plant safety,
+(d)
+implementation of safety procedure.
+9. Information on assessment of the consequences of major accidents, namel. -
+(a)
+assessment of the possible release of hazardous chemicals or of energy,
+(b)
+possible dispersion of released chemical,
+(c)
+assessment of the effects of the releases (size of the affected area, health effects, property damage).
+10. Information on the mitigation of major accidents, namel. -
+(a)
+fire brigade,
+(b)
+alarm systems,
+(c)
+emergency plan containing system of organisation used to fight the emergency, the alarm and the communication rules
+guidelines for fighting the emergency, information about hazardous chemicals, examples of possible accident
+Page 65/114
+----- PAGE 66 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+sequences,
+(d)
+coordination with the District Collector or the District Emergency authority and its off-site emergency plan,
+(e)
+notification of the nature and scope of the hazard in the event of an accident,
+(f)
+antidotes in the event of a release of a hazardous chemical.
+[Schedule -8A]
+[Inserted by No. G.S.R. 4, dated 16.4.2002 [18.4.2002]
+]
+[See Rule 13(1)]
+Details to be Furnished in the On-Site Emergency Plan
+1. Name and address of the person furnishing the information.
+2. Key personnel of the organization and responsibilities assigned to them in case of an emergency
+3. Outside organization if involved in assisting during on-site emergency:-
+(a)
+Type of accidents;
+(b)
+Responsibility assigned.
+4. Details of liaison arrangement between the organizations.
+5. Information on the preliminary hazard analysis:-
+(a)
+Type of accidents;
+(b)
+System elements or events that can lead to a major accident;
+(c)
+Hazards;
+(d)
+Safety relevant components
+6. Details about the site:-
+(a)
+Location of dangerous substances;
+(b)
+Seat of key personnel;
+(c)
+Emergency control room.
+7. Description of hazardous chemicals at plant site:-
+(a)
+Chemicals (Quantities and toxicological data) ;
+(b)
+Transformation if any, which could occur;
+(c)
+Purity of hazardous chemicals.
+8. Likely dangers to the plant.
+9. Enumerate effects of:-
+(i)
+Stress and strain caused during normal operation;
+(ii)
+Fire and explosion inside the plant and effect if any, of fire and explosion out side.
+10. Details regarding:-
+(i)
+Page 66/114
+----- PAGE 67 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+warning, alarm and safety and security systems;
+(ii)
+alarm and hazard control plans in line with disaster control and hazard control planning, ensuring the necessary
+technical and organizational precautions;
+(iii)
+reliable measuring instruments, control units and servicing of such equipments;
+(iv)
+precautions in designing of the foundation and load bearing parts of the building;
+(v)
+continuous surveillance of operations;
+(vi)
+maintenance and repair work according to the generally recognized rules of good engineering practices.
+11. Details of communication facilities available during emergency and those required for an off-site emergency.
+12.
+Details of fire fighting and other facilities available and those required for an off-site emergency.
+13.
+Details of first aid and hospital services available and its adequacy.
+Notifications
+[Notification No. F. 15(4) Lab./52.  dated 16-6-1953: Published in R.G.G. Part I.  dated 276-53. p. 303].- In exercise of
+the powers conferred under Section 8(5) of Factories Act. 1948, the Government of Rajasthan is pleased to appoint the
+Lady Labour Welfare Officer, Rajasthan, as an Additional Inspector for the enforcement of the provisions of the Act in
+Rajasthan so far they relate to female and child labour.
+[Notification No. F. 15(4) Lab./53.  dated 14-1-1953: Published in Rajasthan Rajpatra. Part I.  dated 22-8-53. p. 636].- In
+exercise of the powers conferred under subsection (5) of section 8 of the Factories Act, 1948, the Government of
+Rajasthan is pleased to appoint the Labour Officer, Bhilwara an Additional Inspector of Factories for Udaipur Division for
+all the provisions of the Act.
+The Notification No. F. 15(4) Lab./53, dated the 20th July, 1953, is hereby cancelled.
+[Notification No. F. 15(9) Lab./50.  dated 21-4-1950: Published in Rajasthan Rajpatra.Part I.  dated 29-4-50. p. 65].- In
+exercise of the powers conferred by Section 8(1) of the Indian Factories Act, 1947, Government of Rajasthan are
+pleased to appoint the Chief Advisor, Factories, and the Deputy Chief Advisors, Factories, to the Government of India,
+as Inspector for Rajasthan. In pursuance of Section 8(1) of the same Act the Government is further pleased to order that
+the visits of these officers to factories would essentially be with a view to carry out technical investigations and surveys
+of working conditions only and will not in any way affect the executive authority of the State in the matter. No instructions
+will be issued by these officers to the factories direct and in all cases reports of their bindings will be sent either to
+Government of Rajasthan or to the Chief Inspector of Factories, Rajasthan, for such action as they may consider
+necessary.
+[Notification No. F. 1(60) L&E/79,  dated 20-5-1981: Published in Rajasthan Gazette Part I-A.  dated 18-6-81. p. 24-25]-
+In exercise of the powers conferred by sub-section (2-A) of Section 8 of the Factories Act, 1948 (Central Act 63 of 1948)
+and in supersession of this department notification No. F. 1(60) L&E/79, dated 29.12.79, the State Government hereby
+appoints the following persons to be the Deputy Chief Inspector of Factories for the purpose of the said Act, for the
+areas specified against each in column 4 with Headquarters as specified in column 3 or any other areas in which they
+may hereafter be posted or asked to hold additional charge namely:-
+S. No.
+Name and Designation
+Head quarters
+Area
+1
+2
+3
+4
+1.
+Page 67/114
+----- PAGE 68 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Shri B.L. Agarwal, Dy. Chief Inspector of Jaipur
+Jaipur
+Jaipur, Alwar & Tonk Districts.
+2.
+Shri R.N. Sharma. Deputy Chief Inspector of Factories, Kota
+Kota
+Kota, Bundi, Jhalawar, Sawai-Madhopur, Bharatpur & Tehsil
+Bhainsroadgarh (Chittorgarh Distt).
+3.
+Shri R.C. Paliwal, Deputy Chief inspector of Factories.
+Udaipur
+Udaipur
+Udaipur Banswara, Bhilwara & Udaipur Chittorgarh Distt.
+except Bhainsroadgarh Tehsil.
+They shall exercise the powers vested in the Chief Inspector of Factories for the renewal of licences of the registered
+factories registered in their respective areas.
+[Notification No. F. 14(10) L & E/84.  dated 18-2-1987: Published in Rajasthan Gazette Part 4(Ga)(II).  dated 19-3-87. p.
+225].
+S.O. 280. - In exercise of the powers conferred by sub-section (1) of Section 8 of the Factories Act, 1948 (Central Act
+No. LXIII of 1948), The State Government hereby appoints the Inspector of Factories (Medical) for the purpose of said
+Act, fol- the area specified in column 4 with headquarter as specified in column 3, namely:-
+S. No.
+Name of officer/post
+Head quarters
+Area
+1
+2
+3
+4
+1.
+Inspector of Factories(Medical)
+Jaipur
+Whole of Rajasthan
+[Notification No. 14(10) L&E 184, dated 6.11.1996: Published in Rajasthan Rajpatra, Part IV(Ga). dated 12.2.97, p. 327].
+S.O. 269. - In exercise of the powers conferred by sub-section 2-A of Section 8 of the Factories Act, 1948 (Central Act
+63 of 1948) and in supersession of the department Notification No. F. 14(10) L&E/84 dated 21.1.1986, the State
+Government hereby appoints the following persons to be the Dy. Chief Inspector of Factories & Boilers for the purpose
+of this Act, for the area specified against each in column 4 with head-quarters as specified in column 3 or any other
+areas in which they may hereafter be posted or asked to hold additional charge, namely
+S. No.
+Name & Designation
+Head quarter
+Area
+1
+2
+3
+4
+1.
+Shri N.L. Salecha, Dy. Chief Inspector of Factories &
+Boilers (Hq)
+Jaipur
+Page 68/114
+----- PAGE 69 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Whole of Rajasthan
+2.
+Shri R.C. Paliwal, Dy. Chief Inspector of Factories &
+Boilers(IHL)
+Jaipur
+Whole of Rajasthan
+3.
+Shri D.C. Singhal, Dy. Chief Inspector of Factories &
+Boilers (IHL)
+Jaipur
+Whole of Rajasthan
+4.
+Shri H.S. Chittoria, Dy. Chief of Inspector, Factories &
+Boilers, Jaipur Region
+Jaipur
+Jaipur, Tonk & Dausa
+5.
+Shri R.N. Verma, Dy. Chief Inspector of Factories &
+Boilers, Kota
+Kota
+Kota, Baran, Bundi& Jhalawar Distt.
+6.
+Shri S.K. Goswaini. Dy. Chief Inspector of Factories &
+Boilers, Udaipur
+Udaipur
+Udaipur, Rajasthan Distt.
+7.
+Shri L.L. Arya, Dy. Chief Inspector of Factories &
+Boilers, Alwar
+Alwar
+Alwar Distt. Except Tijara Tehsil
+8.
+Shri R.P. Kayal, Dy. Chief & Inspector of Factories &
+Boilers,  Jodhpur
+Jodhpur
+Jodhpur Jaisalmer Distt.
+The State Government also hereby authorises the following Dy. Chief Inspector of Factories & Boilers to exercise the
+following powers of Chief Inspector of Factories & Boilers, Rajasthan, Jaipur for the area specified against each, in
+column No. 4:
+(i)
+Renewal of licences of the registered factories.
+(ii)
+Approval of the factory Building and machinery layout plan for all factories except:
+(a)
+Factories employing 150 or more workers.
+(b)
+Factories involving in hazardous process.
+S. No.
+Name & Designation
+Head quarter
+Area
+Page 69/114
+----- PAGE 70 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+1
+2
+3
+4
+1.
+Dy. Chief Inspector of Factories & Boilers (Hq.) Jaipur
+Jaipur
+Whole of Rajasthan.
+2.
+Dy. Chief Inspector of Factories & Boilers, Jaipur Region.
+Jaipur
+Jaipur, Tonk Dausa Distt.
+3.
+Dy. Chief Inspector of Factories & Boilers. Kota
+Kota
+Kota, Baran, Bundi & Jhalawar Distt.
+4.
+Dy. Chief Inspector of Factories & Boilers, Udaipur
+Udaipur
+Udaipur, Rajasthan distt.
+5.
+Dy. Chief Inspector of Factories & Boilers, Jodhpur
+Jodhpur
+Jodhpur, Distt. Jaisalmer
+6.
+Dy. Chief Inspector of Factories & Boilers, Alwar
+Alwar
+Alwar Distt. except Tijara Tehsil.
+[Notification No. 372/Lab. dated 22.2.1952: Published in Rajasthan Rajpatra, Part I dated 223-52, p. 1165].- In exercise
+of the powers conferred under Sub-section (1) of Section 10 of the Indian Factories Act, 1948 (LXIII of 1948) the
+Government of Rajasthan is pleased to appoint the Principal Medical Officers of Rajasthan as Certifying Surgeons within
+their respective areas for the purposes of the said Act in respect of those places where there are no Principal Medical
+Officers, the Government is further pleased to appoint the District Medical and Health Officers as Certifying Surgeons
+within their respective area for the purposes of the said Act.
+[Notification No. F. 1 (28) Lab./52, dated 8.9.1955: in Rajasthan Rajpatra. Part I(a). dated 7.4.56, p. 12].-In exercise of
+the powers conferred under sub-section (1) of Section 10 of the Indian Factories Act, 1948 (LXIII of 1948), the
+Government of Rajasthan is pleased to appoint all Railway doctors as indicated in the list below as Certifying Surgeons
+for each of the Railway factories mentioned in the list against them.
+List of Factories on Western Railway in the State of Rajasthan
+No.
+Name of the Factories
+Designation of Railway Doctors appointed as
+the Certifying surgeons
+Place
+1
+2
+3
+4
+1.
+Loco and Carriage Workshops, Jaipur
+Assistant Medical
+Page 70/114
+----- PAGE 71 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Bandikui
+2.
+Wagon Repair Depot, Gangapur
+-do-
+Gangapur City
+3.
+Power House, Gangapur city
+-do-
+-do-
+4.
+Loco. Carriage & Wagon workshops, Udaipur
+-do-
+Udaipur
+[Notification No. F. 1 (28) Lab./52. dated 9.9.1955: Published in Rajasthan Rajpatra Part I(a), dated 14.4.56, p. 19].- In
+exercise of the powers conferred by sub-sec. (1) of Section 10 of the Factories Act, 1948 (LXIII of 1948) the Government
+of Rajasthan is pleased to appoint the Assistant Medical Officer, Northern Railway, Jodhpur as Certifying Surgeon for
+the Northern Railways Workshops, Jodhpur.
+[Notification No. F. 1(18) Lab./52. dated 26.12.1955: Published in Rajasthan Rajpatra part I(b), dated 4.2.66, p. 1000]. -
+In exercise of the power conferred by subsection (1) of Sec. 10 Of the Factories Act, 1948 (LXIII of 1948), the
+Government of Rajasthan hereby appoints the following as ex-officio Certifying Surgeons for the areas mentioned
+against each-
+Officer appointed as Certifying Surgeon
+Area for which appointed
+1
+2
+1.
+All Principal Medical & Health Officers
+Within the Jurisdiction Area
+2.
+All District Medical & Health Officers
+-do-
+3.
+Superintendent, Sawai Man Singh Hospital
+Within the Municipal board of Jaipur City.
+This is in supersession of Notification No. 372/Lab./dated the 22nd February. 1952.
+[Notification No. 41/ F. 1(43) Lab. /56,  dated 22-5-1959].- In continuation of the Notification No. F. 1(28) Lab./53, dated
+the 29th December, 1955 and in exercise of the powers conferred by sub-Section (1) of Section 10 of the Factories Act,
+1948 (LXIII of 1948), Government of Rajasthan hereby appoints the District Medical Officer, Western Railway, Ajmer as
+the ex-officio Certifying Surgeon for the purposes of the act of the following factories:
+1. Locomotive Workshop, Ajmer.
+2. Carriage and Wagon Workshop, Ajmer.
+3. Divisional Signal and Telecommunication Engineering Workshop, Ajmer.
+4. Ticket Printing and Railway Press, Ajmer.
+5. Electrical Workshop, & Power House, Ajmer.
+6. Inspector of Works Workshop, Ajmer.
+[Notification No. D. 7689/F. 3 (58) Ind./(C)159,  dated 13-10-1959].- In exercise of the powers conferred by sub-section
+(1) of Section 10 of the Factories Act, 1948 (Central Act LXIII of 1948), the State Government hereby appoints the
+Medical Officer, Government Dispensary, Sambhar Lake as ex-officio Certifying Surgeon for the Hindustan Salt Co.,
+Sambhar Lake.
+[Notification No. F. 3(96)/Lab./60-13-49,  dated 28-10-1960].- In exercise of the powers conferred by sub-section (1) of
+Section 10 of the Factories Act, 1948 (Central Act No. 63 of 1948), the State Government hereby appoints the following
+Page 71/114
+----- PAGE 72 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Medical Practitioners as ex-officio Certifying Surgeons for the purposes of this Act for the factories mentioned against
+each, namely:
+Officer appointed as Certifying Surgeon
+Factory for which appointed
+1.
+Assistant Medical Officer, Western Railway, Bandikui.
+Power house, Bnadikui.
+2.
+Assistant Surgeon. Western Railway, Phulera.
+Power House, Phulera.
+Notification No. F. 3(55)/ Lab./61, dated 17.7.1961].- In exercise of the powers conferred by sub-section (1) of Section
+10 of the Factories Act, 1948 (Central Act No. LXIII of 1948), the State Government hereby appoints the following
+Medical Practitioners as ex-officio Certifying Surgeons for the purposes of this Act for the factory mentioned against
+each, namely:
+Officer appointed as Certifying Surgeon
+Area for which appointed
+1.
+Assistant Medical Officer, Western Railway, Gangapur City.
+Power House, Gangapur City.
+[Notification No. F. 4(10) Shram/82, dated 27.10.1986; Published in Rajasthan Rajpatra, Pt IV(Ga)(II), dated 27.11.86, p.
+151].
+S.O. 180. - In exercise of the powers conferred by sub-section (1) of Section 10 of the Factories Act, 1948 (Central Act
+63 of 1948) the State Government hereby appoints the Inspector of Factories (Medical) as ex-officio Certifying Surgeon
+for the purpose of this Act for the factories situated in Rajasthan.
+[Notification No. F. 4(1) Shram/97, dated 21.3.1997: Published in Rajasthan Rajpatra (Extraordinary), dated 25.3.97, p.
+487].
+S.O. 354. - In exercise of the powers conferred by Sub-section (1) of Section 10 of the Factories Act, 1948 (Central Act
+LXIII of 1948) the State Government hereby appoints the following Medical Officers as ex-officio Certifying Surgeons for
+the purpose of said Act for the areas mentioned against them:-
+S. No.
+Officers appointed as Certifying Surgeon
+Area
+1
+2
+3
+1.
+Medical Officer In-charge All Government Dispensaries and
+Hospitals
+Within their Jurisdiction.
+Section 40-B
+[Notification No. F. 4(10) Shram/82, dated 13.1.1984: Published in Rajasthan Rajpatra, Part 5 (Gh), dated 26.1.84, p.
+409].- In pursuance of Section 40 (B)(ii) of Indian Factories Act, 1948 the State Government directs the occupiers of the
+following factories in which the manufacturing process or operation is carried on, which in the opinion of the Government
+involves the risk of bodily injury, poisoning or disease or any other hazard to health to the persons employed in the
+factory, shall employ at least one Safety Officer in their factories:-
+S.No.
+RJ/No.
+Name of the Factory
+1
+RJ/4337
+M/s J.K. Cement Works, Nimbahera. Chittorgarh.
+Page 72/114
+----- PAGE 73 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+2
+RJ/2223
+M/s Birla Cement Works, Chittorgarh.
+3
+RJ/7997
+M/s Mangalam Cement Ltd., Modak.
+4
+RJ/3006
+M/s Udaipur Cement Works, Udaipur.
+5
+RJ/7425
+MA J.K. Acrylics, J.K. Nagar, Kota.
+6
+RJ/3392
+M/s J.K. Tyre Cord, J. K. Nagar, Kota.
+7
+RJ/2686
+M/s Shriram Fertilisers & Chemicals Ltd. Industries Shri
+Ramnagar, Kota.
+8
+RJ/3800
+M/s J.K. Steple & Tows Proprietor M/s J.K. Synthetics
+Ltd., Kota.
+9. [
+[Added by Notification No. F. 4(10) Shram/82. dated 6.2.1996; Published in Rajasthan Gazette Extraordinary Part
+IV(C)(ii), dated 8.2.1996.]
+RJ/8240
+M/s. Bharat Chemical & Fertilisers Ltd., Alwar (Sulphuric
+Acid).
+10
+RJ/11011
+M/s. Hindustan Agro Chemicals Ltd., Bichadi, Udaipur.
+11
+RJ/9987
+M/s. Modi Alkalies and Chemicals Ltd., Alwar.
+12
+RJ/1252
+M/s. Pesticides India, Udaipur.
+13
+RJ/10334
+M/s. Udaipur Phosphate & Fertilizers Ltd., Khemli,
+Udaipur.
+14
+RJ/10334
+Chambal Fertilizers & Chemicals, Kota.
+15
+RJ/12653
+M/s. Shree Cement Ltd., Beawar.
+16
+RJ/10642
+M/s. Laxmi Cement, J.K. Puram, Sirohi.
+Page 73/114
+----- PAGE 74 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+17
+RJ/13343
+M/s. Shriram Cement Works, Kota.
+18
+RJ/17425
+M/s. Hindustan Zinc Ltd., Putholi, Chittorgarh.
+19
+RJ/14926
+M/s. Shriram Fibres Ltd., Jhiwana, Alwar.]
+[Notification No. F. 4(10) Shram/82. dated 13.1.1984: Published in Rajasthan Gazette Part 5(Gh) dated 26.1.84, p.
+409].- In pursuance of Section 40(B)(i) of Indian Factories Act, 1948 the State Government directs the occupier of the
+following factories wherein 1000 or more workers are employed, to appoint number of Safety Officers in their factories
+as per rule 64(B):-
+S. No.
+RJ/No.
+Name of the Factory
+1.
+RJ/269
+M/s Samber Salt Ltd., Samberlake, Jaipur.
+2.
+RJ/2054
+M/s Kamani Engineering Corpn. Ltd., Jhotwara, Jaipur.
+3.
+RJ/38
+M/s Jaipur Spinning & Weaving Mills, Jaipur.
+4.
+RJ/22
+M/s National Engineering Industries, Khatipura, Jaipur.
+5.
+RJ/23
+M/s Jaipur Metals & Electricals Ltd., Jaipur.
+6.
+RJ/3170
+M/s Khetri Copper Project, Hindustan Copper Ltd., Khetrinagar,
+Jhunjhunu.
+7.
+RJ/11
+M/s Jaipur Udyog Ltd., Sawaimadhopur.
+8.
+RJ/2190
+M/s Instrumentation Ltd., Kota.
+9.
+11J/1261
+M/s J.K Synthetics Ltd., Kota.
+10.
+RJ/1941
+M/s Shriram Rayons, Kota.
+11.
+RJ/1464
+Mis Shriram Vinyal & Chemicals, Kota.
+12.
+Page 74/114
+----- PAGE 75 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+RJ/I030
+M/s Wagon Repairs Workshop, Western Rly., Kota.
+13.
+RJ/25
+M/s The Associated Cement Co., Lakheri (Bondi).
+14.
+RJ/1556
+M/s Rajasthan Textiles Mills, Bhawanimandi.
+15.
+RJ/682
+M/s Central India Machinery Mfg. Co., Bharatpur.
+16.
+RJ/5274
+M/s J.K. Industries, Kankroli, Udaipur.
+17.
+RJ/2285
+M/s Zinc Smelter Debari, Udaipur.
+18.
+RJ/3978
+M/s Rajasthan Spinning & Weaving Mills, Gulabpura.
+19.
+RJ/139
+M/s The Mewar Textile Ltd., Bhilwara.
+20.
+RJ/1225
+M/s Rajasthan Spinning & Weaving Mills Ltd., Bhopalganj.
+21.
+RJ/262
+M/s Loco Carriage & Wagons Workshop, Bikaner.
+22.
+RJ/156
+M/s Jagatjit Cotton Textiles Mills Ltd., Sriganganagar.
+23.
+RJ/505
+M/s Mahalaxmi Mills, Beawar, Ajmer.
+24.
+RJ/504
+M/s Krishna Mills Ltd., Beawar.
+25.
+RJ/1461
+M/s Aditya Mills Ltd., Madanganj, Kishangarh.
+26.
+RJ/488
+M/s Locomotive Central Workshop, Ajmer.
+27.
+RJ/489
+M/s Carriage & Wagons Workshop, Western Rly., Ajmer.
+28.
+RJ/503
+M/s Edward Mills, Beawar, Ajmer.
+29.
+Page 75/114
+----- PAGE 76 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+RJ/277
+M/s MahaRajasthan Shree Umaid Mills Ltd., Pali.
+30. [
+[Added by Notification No. F. 44(410) Shram/92, dated 6.2.1996; Published in Rajasthan Gazette Extraordinary Part
+IV-C(ii), dated 8.2.1996, p. 410.]
+RJ/6719
+M/s. Banswara Syntex Ltd., Banswara.
+31.
+RJ/2030
+M/s. Alcobex Metals Ltd., Jodhpur.
+32.
+RJ/2031
+Northern Railway Workshop, Jodhpur.
+33.
+RJ/9892
+M/s. Durby Textiles Ltd., Jodhpur.
+34.
+RJ/3076
+M/s. Rajasthan Co-operative Spinning Mills, Gulabpura,
+Bhilwara.
+35.
+RJ/9371
+M/s. Modem Threads (India) Ltd., Raila.
+36.
+RJ/6698
+M/s. Modern Syntex (India) Ltd., Desula, Alwar.
+37.
+RJ/2940
+M/s. HMT Ltd., Ajmer.
+38.
+RJ/319
+M/s. The Ganganagar Sugar Mills Ltd., Sriganganagar.
+39.
+RJ/10338
+M/s. Kota Thermal Power Station, Kota.
+40.
+RJ/10932
+M/s. Ganganagar Sahakari Spinning Mills Ltd., Hanumangarh.
+41.
+RJ/2731
+M/s. Shri Rajasthan Syntex Ltd., Dungarpur.
+42.
+RJ/9942
+M/s. Shruti Synthetics Ltd., Loyara, Udaipur.
+43.
+RJ/9051
+MA. Orient Syntex, Bhiwadi.
+44.
+RJ/20994
+M/s. Arham Spinning Mills, Gram-Udaipur (Bhiwadi) Alwar.
+45.
+Page 76/114
+----- PAGE 77 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+RJ/11719
+M/s. Parasrampuria Synthetics, Bhiwadi.]
+Section 41-A
+[Notification No. If 4(3) Shram/88. 9-1-1989: Published Rajasthan Gazette p 5(G11), dated 15.6.89, p. 3].- In exercise of
+the powers conferred under sub-section (1) of Section 41-A of Factories Act. 1948, the State Government appoints
+"SITE APPRAISAL COMMITTEE" consisting of the following members for the purpose of advising it to consider
+applications for grant of permission for initial location of a factory- belonging to category specified in para 2 below
+involving hazardous process or for the expansion of any such factory:
+1.
+The Chief Inspector of Factories & Boilers, Rajasthan,
+Jaipur.
+Chairman
+2.
+A representative of the Central Board for the prevention and
+control of Water Pollution, Delhi under Section 3 of the Water
+(Prevention and Control of Pollution) Act, 1974 (6 of 1974).
+Member
+3.
+A representative of Rajasthan State Board for Prevention and
+Control of Water Pollution, Jaipur appointed under Section 4 of
+the Water (Prevention and Control of Pollution) Act, 1974 (6 of
+1974).
+Member
+4.
+A representative of the Central Board for the Prevention and
+Control of Air Pollution, Delhi under Section 3 of the Air
+(Prevention and Control of Pollution) Act, 1981 (14 of 1981).
+Member
+5.
+A representative of the State Board for the Prevention and
+Control of Air Pollution, Jaipur referred to in Section 5 of the
+Air (Prevention and Control of Pollution) Act, 1981 (14 of 1981).
+Member
+6.
+A representative of the Department of Environment in State
+Member
+Member
+7.
+A representative of the Meteorological Department, Govt. of
+India Member
+Member
+8.
+A representative of Town Planning Dept. Rajasthan, Jaipur
+Member
+Member
+9.
+Dr. S. K. Baxi, Dy. Director. E.S.I.. Jaipur.
+Member
+.
+10.
+Shri S. P. Purwar, Controller of Explosives, Jaipur.
+Page 77/114
+----- PAGE 78 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Member
+11.
+Shri Abhaya Singh, Dy. Director, Directorate of Industries,
+Jaipur.
+12.
+Shri O.P. Ajmera, Asstt. Director, Directorate of Local
+Bodies, Jaipur.
+13.
+The Senior Town Planner, Jaipur Development Authority, Jaipur.
+14.
+Shri Sudhir Gupta. Dy. General Manager, Rajasthan State
+Industrial Development and Investment Corporation Ltd., Jaipur.
+15.
+Shri R.N. Saxena, Dy. Development Commissioner, Training,
+Rural Development and Panchayat, Rajasthan Jaipur.
+The Site Appraisal Committee shall advise the State Government for grant of permission for initial location for the
+following categories of factories:
+1. All Large/Medium Industries.
+2. Small Scale Industries:
+(a)
+Which are proposed to be located within Municipal limits notified under Rajasthan Municipal Act/U.I. Act. 1959.
+(b)
+Storing hazardous substances exceeding threshold quantities mentioned in enclosed annexure to this notification. All
+the Members will present views of the respective departments in meetings of the committee.
+Notification will take effect from 7-1-1989.
+Annexure
+Groups, names and Threshold quantities of Hazardous substances presenting major Accidents Hazards.
+Substance
+Threshold quantity
+Group-1-Toxic Substances.
+Aldicarb
+1 tonne
+4- Aminodiphenyl
+-do-
+Amiton
+-do-
+Anabasine
+-do-
+Arsenic pentoxide, Arsenic M acid and Salts
+-do-
+Arsenic trioxide, Arsenious (III) acid and Salts
+-do-
+Arsin (Arsenic Hydride)
+-do-
+Azinphos-ethyl
+-do-
+Azinphos-methyl
+-do-
+Benzidine
+-do-
+Benzidine Salts
+Page 78/114
+----- PAGE 79 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+-do-
+Beryllium (Powders, compounds)
+-do-
+Bis (2-choloroethyl) Sulphide
+-do-
+Bis (Chlormethyl) ether
+-do-
+Carbofuran
+-do-
+Carbophenothion Threshold quantity
+-do-
+Substance Threshold quantity
+-do-
+Chlorfenvinphos
+1 tonne
+4-(Chlorofonnyl) morpholine
+-do-
+Chloromethyl methyl ether
+-do-
+Cobalt (powders, compounds)
+-do-
+Crimidine
+-do-
+Cyanthoate
+-do-
+Cycloheximide
+-do-
+Demeton
+-do-
+Dialifos
+-do-
+00-Diethyl S-ethyl Sulphinylmethyl Phosphorothioate
+-do-
+00-Diethyl S-ethyl sulphonyl methyl Phosphorothioate
+-do-
+00-Diethyl S-ethyl thiomethyl Phosphorothioate
+-do-
+00-Diethyl S-isprophyl thiomethyl Phosphorodithioate
+-do-
+Dimefox
+-do-
+Dimethylcarbmoyl chloride
+-do-
+Dimethylnitrosamine
+-do-
+Dimethyl phosphoromidocyanidic acid
+-do-
+Diphacinone
+-do-
+Disulfoton
+-do-
+Page 79/114
+----- PAGE 80 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+EPN
+-do-
+Ethion
+-do-
+Fensulfothion
+-do-
+Fluenetil
+-do-
+Fluoroactic acid
+-do-
+Fluoroacetic acid, Salts
+-do-
+Fluroacetic acid, esters
+-do-
+Fluoroactic acid, amides
+-do-
+Flurobutyric acid
+-do-
+4-Fluorobutyric acid, salts
+-do-
+4-Fluorobutyric acid, esters
+-do-
+4-Fiuorobutyric acid, amides
+-do-
+4-Fluorocrotonic acid
+-do-
+4-Fluorocrotonic acid, salts
+-do-
+4-Fluorocrotonic acid, esters
+-do-
+4-Fluorocrotonic acid, amides
+-do-
+4-Fluoro-2-hydroxybutyric acid
+-do-
+4-Fluoro-2-hydroxybutyric acid, salts
+-do-
+4-Fluoro-2-hydroxybutyric acid, esters
+-do-
+4-Fluoro-2-hydroxybutyric acid, amides
+-do-
+Glyeolonitrile (Hydroxyacetonitrile)
+-do-
+1, 2, 3, 7, 8, 9-Gexachlorodibenzo-p-dioxin
+-do-
+Hexamethylphosphoramide
+-do-
+Hydrogen selenide
+-do-
+Isobenzan
+-do-
+Isodrin
+Page 80/114
+----- PAGE 81 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+-do-
+Juglone (5-Hydroxynaphthalene-1, 4-doine)
+tonne
+4, 4'-Methylenebis (2-chloroaniline)
+-do-
+Methyl isocyanate
+-do-
+Mevinphos
+-do-
+2- Naphthylamine
+-do-
+Nickel (powders, compounds)
+-do-
+Nickel tetracarbonyl
+-do-
+Oxydisulfoton
+-do-
+Oxygen difloride
+-do-
+Paraoxon (Dethyl 4-nitrophenyl phosphate) Parathion
+-do-
+Parathion-methye
+-do-
+Pentaborane
+-do-
+Phorate
+-do-
+Phosacetim
+-do-
+Phosphamiden
+-do-
+Phosphine (Hydroven phosphide)
+-do-
+Promurit (1-3, 4-Dichlorophenyl)-3-triazenethio Carboxamide
+-do-
+1, 3-PropanesultoneCarboxamide
+-do-
+1-Propen-2-chloro-1, 3 diol diacetate pyrazoxon
+-do-
+Selenium hexafluoride
+-do-
+Sodium selenite
+-do-
+Stibine (Antimony hydride)
+-do-
+Sulfotep
+-do-
+Sulphur dichloride
+-do-
+Tellurium hexafluoride
+-do-
+Page 81/114
+----- PAGE 82 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+TEPP
+-do-
+2, 3, 7, 8-Tetrachloridibenzo-p-dioxin (TCDD)
+-do-
+Tetramethylenedisul photetramine
+-do-
+Thionazin
+-do-
+Triphate (2-4. Dimethyl-1,
+3-dithiolane-2-Carboxaldehyde-O-methyl carbamoyloxime
+-do-
+Trichloromethanesulphenyl chloride
+-do-
+1-Tri (cyclohexyl) stanny 1-1H-1, 2, 4-azole
+-do-
+Triethylenemelamine
+-do-
+Group 2-Toxic substances
+Acetone cyanohydrin (2-Cyanopropan- 2-01)
+200 tonnes
+Acroledin (2-propenal)
+200 tonnes
+Acryloritrile
+20 tonnes
+Allyl alcohol (2-Propen-1-01)
+200 tonnes
+Allylamine
+200 tonnes
+Ammonia
+100 tonnes
+Bromine
+40 tonnes
+Carbon disulphide
+20 tonnes
+Chlorine
+10 tonnes
+Ethylene dibromide (1, 2-Dibromeethane)
+50 tonnes
+Ethyleneimine
+50 tonnes
+Formaldehyde (concentration 90%)
+50 tonnes
+Hydrogen chloride (ltquifled gas)
+250 tonnes
+Hydrogen cyanide
+20 tonnes
+Hydrogen fluoride
+10 tonnes
+Hydrogen sulphide
+50 tonnes
+Methyl bromide (Bromomethane)
+Page 82/114
+----- PAGE 83 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+200 tonnes
+Nitrogen oxides
+50 tonnes
+Phosgen (Carbonyl chloride)
+2 tonnes
+Propyleneimine
+50 tonnes
+Sulphur dioxide
+20 tonnes
+Sulphur troxide
+15 tonnes
+Tetrathyl lead
+50 tonnes
+Totramethyl lead
+50 tonnes
+Group 3-highly reactive substances
+Acetylene (Ethyne)
+50 tonnes
+Ammonium nitrate
+500 tonnes
+2, 2-Bis (tert-buty-1 peroxy) butane (concentration 70%)
+5 tonnes
+1, 1-Bis (tert-buty 1 peroxy) cyclohexane (concentration 80%)
+5 tonnes
+tert-buty 1 peroxyacetate (concentration 70%)
+5 tonnes
+tert-buty 1 peroxyisobutyrate (concentration 80%)
+5 tonnes
+tert-buty 1 peroxyisopropy 1 carbonate (concentration 80%)
+5 tonnes
+tert-buty 1 peroxymaleate (concentration 80%)
+5 tonnes
+tert-buty 1 peroxypivalate (concentration 77%)
+50 tonnes
+Dibenzy 1 peroxydicarbonate (concentration 90%)
+5 tonnes
+Di-sec-buty 1 peroxydicarbonate (concentration 80%)
+5 tonnes
+Diethyl peroxydicarbonate (concentration 30%)
+50 tonnes
+2, 2-Dihydropermcypropane (concentration 30%)
+5 tonnes
+Di-isobutyry 1 peroxide (concentration 50%)
+50 tonnes
+Di-n-propy 1 peroxydica carbonate (concentration 80%)
+5 tonnes
+Ethylene oxide
+5 tonnes
+Ethyl nitrate
+50 tonnes
+3,3,6,6,9, 9-Hexamethyl 1-1, 2, 4, 5,-tetroxacy clononane
+Page 83/114
+----- PAGE 84 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+(concentration-75%)
+50 tonnes
+Hydrogen
+2 tonnes
+Methyl ethyl ketone peroxide (concentration 60%)
+5 tonnes
+Methyl sobulyl ketone peroxide (concentration 60%)
+50 tonnes
+Peracetic acid (concentration 60%)
+50 tonnes
+Propylene oxide
+5 tonnes
+Sodium chlorate
+25 tonnes
+Liquid oxygen
+500 tonnes
+Group 4-Explosive substances
+Bairum azide
+50 tonnes
+Bis (2, 4, 6-trinitrophenyl) amine
+50 tonnes
+Chlorotrinitrobenzene
+50 tonnes
+Cellulose nitrate (containing 12.6% nitrogen)
+50 tonnes
+Cycloteramethyl enetetrarintramine
+50 tonnes
+Diszodinitrophenol
+10 tonnes
+Deithylene glycol dinitrate
+10 tonnes
+Dinitrophenol, salts
+50 tonnes
+Ethylene glycol dianirate
+10 tonnes
+1-Guanyl-4-nitrosaminoguanyl-1-tetrazone
+10 tonnes
+2, 2, 4, 4, 6, 6,-Hezanitrostilbene
+50 tonnes
+Hydrazine nitrate
+50 tonnes
+Lead azide
+50 tonnes
+Lead styphnate (Lead 2, 4, 6-trinitroresorcinoxide)
+50 tonnes
+Mercury fulminate
+10 tonnes
+N-Methyl-N, 2, 4, 6-totranitroaniline
+50 tonnes
+Nitroglycerine
+10 tonnes
+Page 84/114
+----- PAGE 85 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Pentaerythritol tetranitrate
+50 tonnes
+Picric acid (2, 4. 6- Trinitrophenol)
+50 tonnes
+Sodium picramate
+50 tonnes
+Styphnic acid (2, 4, 6- Trinitroresorcinol)
+50 tonnes
+1, 3, 5-Triamino (2. 4. 6-trinitrobenzene)
+50 tonnes
+Trinitroaniline
+50 tonnes
+2, 4, 6-Trinitroanisole
+50 tonnes
+Trinitrobenzoic acid
+50 tonnes
+Trinitrocresol
+50 tonnes
+2, 4, 6-Trinitrophenetole
+50 tonnes
+2, 4, 6-Trinitrotoluene
+50 tonnes
+Group 5-Flammable substances not specifically named in
+Group 1-4
+1.
+Gas or any mixture of gases which is flammable in air and is
+held in the installation as a gas.
+15 tonnes
+2.
+A substance or any mixture of sub-stance which is flammable in
+air and is normally held in the installation above its boiling
+point (measured at 1 bar absolute) as a liquid or as a mixture of
+liquid and gas at a pressure of more than 1.4 bar absolute.
+25 tonnes being the total quantity of substances above the
+boiling points whether held singly or in the mixtures.
+3.
+A liquefied gas or any mixture of liquifted gases. which is
+flammable in air, has a boiling point of less than 0 degree C
+(measured at 1 bar absolute) and is normally held in the
+installation under refrigeration or cooling at a pressure of 1.4
+bar absolute or less.
+50 tonnes being the total quantity of substances having
+boiling points below 0 degree C whether held singly or in mixture
+4.
+A liquid or any mixture of liquids 10,000 tonnes. not included
+in items 1 to 3 above, which has a flash point of less than 21
+degree C.
+10,000 tonnes
+Section 65
+Exemption to factories in Special Economic Zones (SEZs)
+[Notification No. F. 3(36) Legal F & B/2005, dated 24.10.2005: Rajasthan Gazette, Extraordinary Part IV-C(II), dated
+Page 85/114
+----- PAGE 86 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+26.11.2005, p. 345-A]S.O. 281-A. - Whereas, the State Government is satisfied that factories to be established in a
+"Special Economic Zone", will be regularly dealing with exceptional pressure of work and that suitable exemption from
+the provisions of the Factories Act, 1948 (No. 63 of 1948) is required to enable them to deal with such pressure of work:
+Now, therefore, in exercise of the powers conferred by sub-section (2) of Section 65 of the Factories Act, 1948 (No. 63
+of 1948), the State Government hereby exempts all the adult workers in all Factories to be established in such "Special
+Economic Zone" from the provisions of Sections 51, 52, 54 & 56 of the said Act, subject to the conditions specified in
+sub-section (3) of Section 65 of the said Act.
+Explanation.- "Special Economic Zone" means all area notified as a "Special Economic Zone" by the Government of
+India, Ministry of Commerce and Industry.
+Section 85
+[Notification No. F. 3(104) Ind (C)I 60. dated 24.2.1960: Published in Rajasthan Rajpatra Part I(b). dated 5.1.61, p. 491].-
+In exercise of the powers conferred by sub-section (1) of Section 85 of the Factories Act. 1948 (63 of 1948). and in
+supersession of notification No. F. 19 (5)/Lab/54, dated the 18th October, 1955, the Government of Rajasthan hereby
+declares that all the provisions of the said Act, except the provisions of the sections specifically mentioned below against
+each categories shall apply to the categories of places specified hereunder where a manufacturing process is being
+carried on with the aid of power or is so ordinarily carried on notwithstanding that-
+(1)
+the number of persons employed therein is less than ten, if working with the aid of power, or
+(2)
+the persons working therein are not employed by the owner thereof but are working with the permission of or under
+agreement with such owner
+Categories of places
+Provisions of the Factories Act 1948 which
+shall not apply to them
+(a)
+All places where the process of Cotton Ginning is carried on
+or ordinarily carried on.
+Sections 15, 46, 47, 48 & 49 of the Act in
+irrespect of the all workers.
+(b)
+All places where saw machines and other wood working machines
+used or ordinarily used.
+-do-
+(c)
+All places where any of the following process is carried on or
+ordinarily carried on by way of trade or purpose of gain.(i)
+Composing types for printing.(ii) Printing by letter
+press.(iii) Lithography.(v) Other similar work.
+Sections 15, 46, 47 & 49 of the Act5 in respect
+of the all workers.
+[Notification No. F. 1(157) L&E/75, dated 27.1.1976: Published in Rajasthan Gazette Part IV-C. dated 5.2.76, p. 499].
+S.O. 675. - In exercise of the powers conferred by sub-section (1) of Section 85 of the Factories Act, 1948 (LXIII of
+1948) and in supersession of Notification No. F. 1(75) L & E/75, dated 24.2.75 published in Rajasthan Gazette Part 4(II)
+dated 6.3.75, the Government of Rajasthan hereby declares that all the provisions of the said Act, except the provisions
+of sections specifically mentioned below against each category shall apply to the places specified hereunder where a
+manufacturing process is being carried on with or without the aid of power, or is so ordinarily carried on notwithstanding
+that the persons working therein are not employed by the owner thereof but are working with the permission of or under
+agreement with such owner:
+Provided that the manufacturing process is not being carried on by the owner with the aid of his family members.
+S. No.
+Categories of places
+Page 86/114
+----- PAGE 87 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Provisions of the Factories Act. 1948 which
+shall not apply to them
+1.
+All places where the Process of Dying, Bleaching, finishing
+and Printing of clothes.
+Sections 13, 14, 15, 19, 20, 46, 47, 48 & 49 of the Act. in
+respect of all workers.
+[Notification No. F. 4(1) Shram/83, dated 5.6.1984: Published in Rajasthan Gazette Extraordinary Part IV-C(I), dated
+14.6.84, p. 47] S.O. 62. - In exercise of the powers conferred by sub-Section (1) of the Section 85 of the Factories Act.
+1948 (Central Act LXIII of 1948) and in supersession of Notification No. F. 1(75) L&E/74. dated 24.2.75 published in
+Rajasthan Gazette, Part 4 (Kh),  dated 6-3-75, the State Government hereby declares that all the provisions of the said
+Act, except the provisions of the sections specifically mentioned below in Column 3 against each category shall apply to
+all places in Rajasthan where any of the manufacturing process as specified hereunder in column 2 is being carried on
+with the aid of power or is so ordinarily carried on. notwithstanding that:-
+(i)
+the number of persons employed therein is less than ten, if working with the aid of power, or
+(ii)
+the persons working therein are not employed by the owner thereof but are working with the permission of or under
+agreement with such owner:
+Provided that the manufacturing process is not being carried on by the owner with the aid of his family members.
+S. No.
+Categories of Manufacturing Process
+Provisions of the Factories Act Which shall
+not apply to them
+1.
+Where the process of Cotton Ginnings carried on.
+Sections 13, 14, 15, 19, 20, 46, 47, 48 & 49 of the
+Factories Act, 1948 and rule 3 of the Rajasthan Factories Rules,
+1951 made under Section 6 of the Act in respect of all workers.
+2.
+Where a saw machine & other wood working machine is used
+-do-
+3.
+Where power loom is used for weaving cloth
+-do
+4.
+Where oil seeds are crushed to extract oil by kohlu or
+expeller.
+-do-
+5.
+Where any of the following process is carried on:?(i)
+type foundries where lead is used.(ii) Composing types for
+printing(iii) Printing by letter press(iv)
+Lithography(v) Photogravure
+[Notification No. F. 4(10) Lab./88, dated 29.11.1988; Published in Rajasthan Gazette Extraordinary Part IV-C(II), dated
+30.11.88, p. 353]. S.O. 188. - ln exercise of the powers conferred by the sub-section (1) of Section 85 of the Factories
+Act, 1948 (Central Act LXIII of 1948), the State Government hereby makes the following amendment in this department
+Notification No. F. 4(1) Shram/83, dated 5th June, 1984 published in Rajasthan Gazette Part 4(C)(II) dated 14th June,
+1984 namely:-
+Amendment
+In the said notification the existing S. No.5 and entries thereto shall be deleted.
+Page 87/114
+----- PAGE 88 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+[Notification No. F. 4(1) Lab./85, dated 21.2.1986]. - In exercise of the powers conferred by sub-section (1) of Section 85
+of the Factories Act, 1948 (Central Act LXIII of 1948), the State Government hereby declares that all the provisions of
+the said Act, except the provisions of the sections specifically mentioned below in column 3 against each category shall
+apply to all places in Rajasthan where any of the manufacturing process as specified hereunder in column 2 is being
+carried on with the aid of power or is so ordinarily carried on, notwithstanding that:-
+(i)
+The number of persons employed therein is less then ten, if working with the aid of power, or
+(ii)
+The persons working therein are not employed by the owner thereof but are working with the permission of or under
+agreement with such owner:
+Provided that the manufacturing process is not being carried on by the owner with the aid of his family members:-
+S. No.
+Categories of manufacturing process
+Provisions of the Factories Act which shall
+not apply to them
+1.
+Where the process of cutting/ polishing/ dressing/
+sewing/grinding/ edge cutting/crushing etc. of stones except
+precious & semi precious stone is carried on.
+Sections 13, 15 & 19 of the Factories Ad 1948
+and Rule of the Rajasthan Factories Rules, 1951 made under
+Section 6 of the Act in respect of all workers.
+2.
+Where the process of manufacture of chemicals and
+process incidental thereto as covered under schedules prescribed
+under Rule 100 of the Rajasthan Factories Rules, 1951 is carried
+on.
+Nil
+3.
+Where the process of manufacture of bangles and
+other article from cinematograph film and toxic & inflammable
+solvents is carried on.
+Nil
+4.
+Where the process of compression of oxygen and
+hydrogen produced by the electrolysis of water is carried on.
+Nil
+5.
+Where the process of manufacture or manipulation of
+carcinogenic dye intermediates is carried on.
+Nil
+6.
+Where the process of manufacture handling and use
+of Banzene is carried on.
+Nil
+7.
+Where the carbondie sulphide is generated.
+condensed. refined and stored.
+Nil
+8.
+Where the process of manufacture and manipulation
+Page 88/114
+----- PAGE 89 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+of dangerous. pesticides is carried on.
+Nil
+[Notification No. F. 14(7) L & E186, dated 25.2.1986; Published in Rajasthan Gazette Extraordinary Part IV(Ga)(II),
+dated 25.2.86, p. 410]. S.O. 200. - In exercise of the powers conferred by sub-section (1) of the Section 85 of Factories
+Act, 1948 (Central Act LXIII of 1948), the State Government hereby declares that all the provisions of the said Act,
+except the provisions of the sections specifically mentioned below in column 3 against each category shall apply to all
+places in Rajasthan where any of the manufacturing process as specified hereunder in column 2 is being carried on with
+the aid of power or is so ordinarily carried on not withstanding that:-
+(i)
+The number of persons employed therein is less than ten, if working with the aid of power, or
+(ii)
+The persons working therein are not employed by the owner thereof but are working with the permission of or under
+agreement with such owner:
+Provided that the manufacturing process is not being carried on by the owner with the aid of his family members
+S. No.
+Categories of manufacturing Process
+Provisions of the Factories Act which shall
+not apply to them
+1
+Where the process of preserving and Storing of any article in
+cold storage is carried on.
+Section 15, 19 of the Factories Act. 1948 and rules made
+thereunder.
+2
+Where ammonia, chlorine and other toxic gases are used in the
+process is carried on.
+-do-
+[Notification No. F. 14(7) L & E. 186, dated 9.6.1994; Published in Rajasthan Gazette Extraordinary Part IV(Ga)(II),
+dated 13.6.94, p. 83]. S.O. 67. - In exercise of the powers conferred by sub-section (1) of section 85 of the Factories Act,
+1948 (Central Act LXIII of 1948) and in supersession of all previous notifications issued in this behalf, the State
+Government hereby declares that all the provisions of the said Act, except the provisions of the sections specifically
+mentioned below in column against each category, shall apply to all places in Rajasthan where any of the manufacturing
+process as specified hereunder in column 2 is being carried on with the aid of power or is so ordinarily carried on
+notwithstanding that:-
+(i)
+The number of persons employed therein is less than ten, if working with the aid of power, or
+(ii)
+The persons working therein are not employed by the owner thereof but are' working with the permission of or under
+agreement with such owner:
+Provided that the manufacturing process is not being carried on by the owner only with the aid of his family:-
+S. No.
+Categories of manufacturing processes
+Provisions of the Factories Act which shall
+not apply to them
+1
+2
+3
+1
+Where the process of preserving and storing of any article in
+cold storage is carried on.
+Sections 13, 15 & 19 of the Factories Act 1948 and rule 3
+Page 89/114
+----- PAGE 90 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+of Rajasthan Factories Rules, 1951 made under section 6 of the
+Act in respect of all workers.
+2
+Where a Saw Machine and other wood working machine is used
+Sections 13, 15 & 19 of the Factories Act. 1948 and rule 3
+of Rajasthan Factories Rules. 1951 made under section 6 of the
+Act in respect of all workers.
+3
+(a) Where the process of manufacturing of Chemicals and
+process incidental thereto as covered under Schedule-X (except
+manipulation) prescribed under Rule 100 of the Rajasthan
+Factories Rules, 1951 is carried on.
+Nil
+4
+(b) Where ammonia, chlorine and other toxic gases are used in
+the process.
+[Notification No. F. 14(7) L&E 186, dated 23.2.1996: Published in Rajasthan Gazette Extraordinary, Part IV-C(II), dated
+26.2.96. p. 445]. S.O. 252. - In exercise of the powers conferred by sub-section (1) of Section 85 of the Factories Act,
+1948 (Central Act LXIII of 1948) the State Government hereby declares that all the provisions of the said Act shall apply
+to all places in Rajasthan where the manufacturing process of Asbestos or its ancillary products as specified hereunder
+in column 2 is being carried on with or without the aid of power or is so ordinarily carried notwithstanding that
+1. the number of persons employed therein is less than ten, if working with the aid of power and less than twenty if
+working without the aid of power, or
+2. the persons working therein are not employed by the owner thereof but are working with the permission of, or under
+agreement with, such owner:
+Provided that the manufacturing process is not being carried on by the owner with the aid of his family members.
+S. No.
+Category of manufacturing process
+1
+Handling and processing of Asbestos, manufacture of any
+articles of Asbestos. and any other process of manufacture or
+otherwise in which asbestos is used in any form.
+Section 85
+[Notification No. F.3(1) Legal/F&B 12003, dated July 21, 2003, Jaipur. Published in Rajasthan Gazette Extraordinary
+Part 4(Gha), dated 24.7.2003]. S.O. 166. - In exercise of the powers conferred by sub-section (1) of Section 85 of the
+Factories Act, 1948 (Central Act LXIII of 1948), the State Government hereby declares that all the provisions of the said
+Act shall apply to all places in Rajasthan where manufacturing process as specified hereunder in column-2 is being
+carried on with the aid of power or is so ordinarily carried on notwithstanding that:
+1. The number of persons employed therein is less than ten, if working with the aid of power, or
+2. The persons working therein are not employed by the owner thereof but are working with the permission of, or under
+agreement with, such owner:
+Provided that the manufacturing process is not being carried on by the owner with the aid of his family.
+S. No.
+Category of manufacturing process
+(1)
+(2)
+1.
+All places where kier is used in the process of fabrics or
+yarn washing.
+2.
+All places where crushing and grinding of[quartz]
+Page 90/114
+----- PAGE 91 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+[Substituted for the word 'quartz' vide Notification F3(1) legal/F&B/2003 dated 22.10.2003.]
+is carried
+on.
+[Notification No. F.3(1) Legal I F&B I 200414392-95, dated 27.7.2004, Jaipur. Published in Rajasthan Gazette
+Extraordinary Part 4(Gha), dated 29.7.2004]. S.O. 132. - In exercise of the powers conferred by sub-section (1) of
+Section 85 of the Factories Act, 1948 (Central Act LXIII of 1948), the State Government hereby declares that all the
+provisions of the said Act shall apply to all places in Rajasthan where manufacturing process as specified hereunder in
+column-2 is being carried on with the aid of power or is so ordinarily carried on, notwithstanding that:
+1. The number of persons employed therein is less than ten, if working with the aid of power, or
+2. The persons working therein are not employed by the owner thereof but are working with the permission of, or under
+agreement with such owner:
+Provided that the manufacturing process is not being carried on by the owner with the aid of his family-
+S. No.
+Category of manufacturing process
+(1)
+(2)
+1
+all places having a licenced capacity from the Explosive
+Deptt. Govt., of India of 10 tonnes or more for storage of LPG
+(Liquefied Petroleum Gas) and carrying on the following
+activities:?(i) Bottling of LPG, or(ii) LPG is used
+in the manufacturing process.
+Section 86
+[Notification No. F. 15(4) Lab. /52. dated 8.6.1955].- In exercise of the powers conferred by Section 86 of the Factories
+Act, the Government of Rajasthan is pleased to exempt the M.B.M. Engineering College WorkShop, Jodhpur and the
+Birla Engineering College Workshop, Pilani from all the provisions except those of Sections 6, 7, 51, 52, 53, 54, 55 and
+59 of the aforesaid Act, on the condition that the workshop shall be maintained exclusively for the purposes of education
+and training.
+No fees shall be charged for registration and licensing of the aforesaid workshops under rule 5 of the Rajasthan
+Factories Rules, 1951.
+[Notification No. F. 1(5)(8) L & E 67, dated 8.10.1975: Published in Rajasthan Gazette Part IV-C, dated 16.10.75. p.
+369]., S.O. 523. - In exercise of the powers conferred by Section 86 of the Factories Act 1948 (Central Act No. 63 of
+1948) the State Government is hereby exempts the Pilot Milk Supply Scheme, Udaipur from the provisions of the said
+Act.
+Rule 29
+[Notification No. F. 15(4) Lab. 152.  dated 8-2-1955]- In exercise of the powers conferred by sub-rule (1) of Rule 29 of
+the Rajasthan Factories Rules, 1951, the Government of Rajasthan is hereby pleased to order that provisions of Rules
+29 to 33 of the said Rules shall come into force in respect of factories of the nature described under sub-rule (1) of Rule
+29 of the said Rules, situated in dark localities or carrying on manufacturing operations on cloudy days, with effect from
+the expiry of six months from the publication of this notification in the Rajasthan Gazette.
+Rule 53
+[Notification No. F. 15(4) Lab. 152.  dated 8-2-1955].- In exercise of the powers conferred by sub-rule (2) of rule 53 of
+the Rajasthan Factories Rules, 1951, the Government of Rajasthan is hereby pleased to order that rule 53 of the said
+rules shall come into force in respect of the factories described below on the dates given below:
+Description of Factories
+Date of commencement of rule 53
+Factories where machines mentioned in the Schedules I & II
+to rule 53 of the Rajasthan Factories Rules 1951 are in use.
+Six month from the publication of this notification in the
+Rajasthan Gazette.
+Factories where machines mentioned in Schedules III & IV
+Page 91/114
+----- PAGE 92 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+to rule 53 of the Rajasthan Factories Rules. 1951 are in use.
+Seven months from the publication of this notification in the
+Rajasthan Gazette.
+Rule 57-A
+[Notification No. 4(4) Shram/78. dated 17.7.1979: Published in Rajasthan Gazette Part IV-C. dated 2.8.79. p. 144]. S.O.
+179. - Whereas, in the opinion of the State Government compliance with the requirements of the provisions contained in
+sub-rule (5) of rule 57-A of the Rajasthan Factories Rules, 1951 is impracticable in respect of the overhead travelling
+cranes, which were installed before the date of this notification in the M/s. Multimetals Ltd., Kota.
+Now, therefore, in exercise of the powers conferred by sub-rule (10) of rule 57-A of the Rajasthan Factories Rules, 1951,
+the State Government hereby exempts the said M/s. Multimetals Ltd., Kota from complying with the requirements of the
+provisions of sub-rule (5) of rule 57-A of the said Rules in respect of overhead travelling cranes installed by it before the
+date of this notification subject to the following conditions, namely:
+1. No worker or person other than crane driver shall be allowed to go on the crane track as long as crane electric supply
+line is alive. The electric disconnections shall be such as to ensure that connections will not be connected as long as
+persons other than the crane driver are on the crane track or on the crane itself for repairs or otherwise.
+2. That the approach to the crane track shall be so fenced that no person other than those authorised by the
+departmental foreman can go on the crane, track.
+[Notification No. F. 8 Lab./80, dated 12.8.1980; Published in Rajasthan Gazette Part IV-C, dated 4.9.80. p. 282] S.O.
+315. - Whereas, in the opinion of the State Government compliance with the requirements of the provisions contained in
+sub-rule (5) of rule 57-A of the Rajasthan Factories Rules, 1951 is impracticable in respect of the overhead travelling
+cranes, which were installed before the date of this notification in the M/s. J.K. Staple & Tows, Kota.
+Now, therefore, in exercise of the powers conferred by sub-rule (10) of rule 57 -A of the Rajasthan Factories Rules,
+1951, the State Government hereby exempts the said M/s. J.K. Staple & Tows, Kota from complying with the
+requirements .of the provisions of sub-rule (5) of rule 57 -A of the said Rules in respect of overhead travelling cranes
+installed by it before the date of this notification subject to the following conditions, namely:
+1. No worker or person other than crane driver shall be allowed to go on the crane track as long as crane electric supply
+line is alive. The electric disconnections shall be such as to ensure that connections will not be connected as long as
+persons other than the crane driver are on the crane track or on the crane itself for repairs or otherwise.
+2. That the approach to the crane track shall be so fenced that no person other than those authorised by the
+departmental foreman, can go on the crane track.
+3. A portable ladder of sufficient height with foot rest shall be provided in order to enable a crane driver or a
+maintenance man to reach on the crane track for the maintenance of the crane track.
+[Notification No. F. 4(7) Shram/82, dated 22.1.1983: Published in Rajasthan Gazette Part V(D), dated 3.2.83. p. 299].-
+Whereas in the opinion of the State Government compliance with the requirements of the provisions contained in rule
+57-A of the Rajasthan Factories Rules, 1951, is not necessary in respect of the overhead travelling cranes of M/s.
+Mahavir Aluminium Limited, Bhiwari (Raj.).
+Now, therefore, in exercise of the power conferred by sub-rule (10) of rule 57-A of the Rajasthan Factories Rules, 1951,
+the State Government hereby exempts the overhead travelling cranes M/s. Mahavir Alumihium Limited, Bhiwari (Raj.)
+from the operation of the provisions of sub-rule (5) of the said rules subject to the following conditions namely:
+1. That the crane should be operated from the floor by the push button and no person will be allowed to go on the crane
+track.
+2. That the approach to the crane track shall be so fenced so that button and no person will be allowed to go on the
+crane track.
+3. A portable ladder of sufficient height with foot rest shall be provided in order to enable the maintenance staff to reach
+on the crane track for the maintenance of the crane track.
+[Notification No. F. 4(3) Shram/82. dated 7.5.1984, Published in Rajasthan Gazette Extraordinary Part IV-C(I), dated
+10.5.84. p. 43]. S.O. 25. - Whereas in the opinion of the State Government compliance with the requirements of the
+provisions contained in rule 57-A of the Rajasthan Factories Rules, 1951 is not necessary in respect of the overhead
+travelling cranes of M/s. Alcobex Metals (P) Ltd., Jodhpur.
+Now therefore, in exercise of the powers conferred by sub-rule (10) of rule 57-A of the Rajasthan Factories Rules, 1951,
+the State Government hereby exempts the overhead travelling cranes of M/s. Alcobex Metals (P) Ltd., Jodhpur from the
+Page 92/114
+----- PAGE 93 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+operation of the provisions of sub-rule (5) of the said rules subject to the following conditions, namely:
+1. That the crane should be operated from the floor by the push button and no unauthorised person will be allowed to go
+on the crane track.
+2. No person shall be allowed to go on the crane track unless the electricity supply lines supplying power to these
+cranes are effectively disconnected and the electric disconnection will not be connected as long as such persons are on
+the crane track or on the crane itself for any maintenance work or otherwise.
+3. That the approach to the crane track shall be so fenced so that no unauthorised person is able to go on the crane
+track.
+4. A portable ladder of sufficient height with foot rest shall be provided in order to enable the maintenance staff to reach
+on the crane track for the maintenance of the crane track.
+[Notification No. F. 4(2) Shram/84, dated 7.5.1984: Published in Rajasthan Gazette Extraordinary Part IV(C)(1). dated
+10.5.84. p.447. S.O. 26. - Whereas in the opinion of the State Government compliance with the requirements of the
+provisions contained in rule 57-A of the Rajasthan Factories Rules, 1951, is not necessary in respect of the overhead
+travelling cranes of Western Railway Workshop. Jodhpur. Now therefore in exercise of the powers conferred by sub-rule
+(10) of rule 57-A of the Rajasthan Factories Rules, 1951, the State Government hereby exempts the overhead travelling
+cranes of Western Railway Workshop, Jodhpur from the operation of the provisions of sub-rule (5) of the said rules,
+subject to the following conditions, namely:
+1. That the crane should be operated from the floor by the push button and no unauthorised person will be allowed to go
+on the crane track.
+2. No person shall be allowed to go on the crane track unless the electricity supply lines supplying power to these
+cranes are effectively disconnected and the electric disconnection will not be connected as long as such persons are on
+the crane track or on the crane itself for any maintenance work or otherwise.
+3. That the approach to the crane track shall be so fenced so that no unauthorised person is able to go on the crane
+track.
+4. A portable ladder of sufficient height with foot rest shall be provided in order to enable the maintenance staff to reach
+on the crane track for the maintenance of the crane track.
+[Notification No. F. 4(6) Shram/84, dated 14.9.1984: Published in Rajasthan Gazette Extraordinary Part IV-C(II), dated
+15.9.84. p. 179]. S.O. 94. - Whereas in the opinion of the State Government compliance with the requirements of the
+provisions contained in rule 57-A of the Rajasthan Factories Rules, 1951 is not necessary in respect of the overhead
+travelling cranes of M/s Swastik Castings Private Ltd., B-229. Road No. 9. Vishwakarma Industrial Area. Jodhpur.
+Now therefore. in exercise of the powers conferred by sub-rule (10) of rule 57-A of the Rajasthan Factories Rules, 1951,
+the State Government hereby exempts the overhead travelling cranes of M/s. Swastik Castings Private Ltd., B-229.
+Road No. 9. Vishwakarma Industrial Area, Jodhpur from the operation of the provisions of sub-rule (5) of Rule 57-A of
+the said rules. subject to the following conditions. namely:-
+1. No worker or person other than crane driver shall be allowed to work on the crane track as long as crane electric
+supply line is live. The electric disconnections shall be such as to ensure that connection will not be connected as long
+as persons other than the crane driver are on the crane itself for repairs or otherwise.
+2. That the approach to the crane track shall be so fenced that no person other than those authorised by the department
+foreman can go on the crane track.
+3. A portable ladder of sufficient height with foot rest shall be provided in order to enable a crane driver or a
+maintenance-man to reach on the crane track for the maintenance of the crane track.
+Rules 69-75
+Notification No.F. 4(9) Shram/82
+G.S.R. 88 dated 30.10.198. - In pursuance of Rule 69 of the Rajasthan Factories Rules, 1951 and in supersession of all
+the previous notifications issued in this behalf by the Government, the State Government hereby directs that rules 69 to
+75 of the said rules shall apply to the factories specified in the schedule appended hereto, with effect from the date of
+publication of this notification in Rajasthan Rajpatra.
+Schedule 6
+Factories
+S. No.
+RJ/No.
+Page 93/114
+----- PAGE 94 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Name of the factory
+Employment according to licence
+1.
+2
+3
+4
+1.
+277
+Maharaja Shri Ummaid Mills, Pali
+4000
+2.
+156
+Jagatjeet Cotton Textile Ltd., Sriganganagar
+2400
+3.
+319
+Shri Gan:ana:ar Sugar Mills, Sriganganagar
+1500
+4.
+25
+The Associated Cement Co., Lakheri, Bundi
+2000
+5.
+2890
+Keshorai Patan Sahakari Sugar Factory, Bundi
+650
+6.
+585
+Sudershan Textile, Kota
+1500
+7.
+1030
+Wagon Repari Workshop, Kota
+2896
+8.
+1261
+J.K. Synthetics Ltd. Kota
+5000
+9.
+1464
+Shri Ram Vinyal & Chemicals, Kota
+3000
+10.
+1736
+Oriental Power Cables, Kota
+1000
+11.
+1941
+Shri Ram Rayons, Kota
+2020
+12.
+Page 94/114
+----- PAGE 95 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+2190
+Instrumentation Ltd. Kota
+3000
+13.
+2385
+Stone Polishing Factory Associated Stone Ind. Kudaila, Kota
+1330
+14.
+2586
+Shri Ram Fertilisers & Chemicals, Kota
+2000
+15.
+3300
+J.K Staples & Toys, Kota
+1000
+16.
+3392
+J.K. Tyre Cord, Kota
+1000
+17.
+7425
+J.K Acrilyic Kota
+1000
+18.
+10338
+Kota Thermal Power Station R.S.E.B. Sakhtpura, Kota
+865
+19.
+171
+The Mewar Sugar Mills, Bhupalsagar, Chitorgarh
+750
+20.
+2223
+Birla Cement Works, Chittorgarh
+1500
+21.
+4337
+J.K Cement Works, Nimbhahera, Chittorgarh
+1500
+22.
+11
+Jaipur Udyog Ltd., Sawaimadhopur
+3000
+23.
+9320
+Jaipur Polyspin Ltd., Reengus, Sikar Locomotive Workshop, W.
+Rly. Ajmer
+1000
+24.
+488
+Locomotive Workshops, W. Rly. Ajmer
+Page 95/114
+----- PAGE 96 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+4045
+25.
+489
+Carriage & Wagon Workshop W. Rly. Ajmer
+4355
+26.
+503
+Edward Mills Ltd., Beawar, Ajmer
+5000
+27.
+504
+Krishna Mills Ltd., Beawar, Ajmer
+2000
+28.
+505
+Mahalaxmi Mills, NTC., Beawar, Ajmer
+1500
+29.
+516
+Vijay Cotton Mills, NTC, Vijayanagar, Ajmer
+650
+30.
+2942
+Machine Tools Corporation, HMT, Ajmer
+1500
+31.
+4672
+Central Workshop, RSRTC, Ajmer
+916
+32.
+203
+N. Rly. Workshop, Jodhpur
+3400
+33.
+2030
+Alcobex Metal Corpn., Ltd., Jodhpur
+750
+34.
+9892
+Derby Textile Ltd., Jodhpur
+1500
+35.
+3645
+Wolkem Pvt. Ltd., Sirohi
+600
+36.
+9502
+Triupati Fibres & Industries Aburoad, Sirohi
+1500
+37.
+10642
+Page 96/114
+----- PAGE 97 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Laxmi Cement A Division of Straw Products, Aburoad, Sirohi
+4500
+38.
+3170
+Hindustan Copper Ltd., Fertiliser Division Khetri
+2400
+39.
+6719
+Banswara Syntex Ltd., Banswara
+750
+40.
+262
+Loco Carriage & Wagon workshop Bikaner
+2000
+41.
+139
+Mewar Textile Miles Ltd., Bhilwara
+2256
+42.
+1225
+Bhilwara Spinners, Bhilwara
+2000
+43.
+3676
+Rajasthan Co-operative Spinning Mills, Gulabpura, Bhilwara
+2000
+44.
+3978
+Rajasthan Spinning & Weaving Khadigram Bhilwara
+1500
+45.
+4429
+Modern Woolen Pvt. Ltd., Bhilwara
+550
+46.
+9371
+Modern Thread India Ltd., Raila Bhilwara
+1000
+47.
+10036
+Super Syncotex Ltd., Bhilwara
+1000
+48.
+11621
+Gangapur Co-operative Spinning Mills, Gangapur, Bhilwara
+1000
+49.
+4404
+Kelvinator India Ltd., Alwar
+1000
+50.
+Page 97/114
+----- PAGE 98 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+6087
+Eicher Good Earth Ltd., Alwar
+650
+51.
+6698
+Modern Syntex, Desula, Alwar
+1500
+52.
+7843
+Jaipur Syntex Ltd., Behror, Alwar
+750
+53.
+9051
+Orient Syntex, Bhiwadi, Alwar
+1500
+54.
+10001
+Sarraf Syntex Ltd. Alwar
+600
+55.
+682
+Central Indian Machinery Mfg, Co. Bharatpur
+3000
+56.
+2132
+Ammunation Depot, Bharatpur
+750
+57.
+3391
+General Engineering works, Bharatpur
+950
+58.
+394
+Government Press, Jaipur
+588
+59.
+369
+Sambhar Salts Ltd., Sambherlake, Jaipur
+1076
+60.
+2094
+Poddar Spinning Mills Ltd., Jaipur
+567
+61.
+22
+National Engineering Industries, Jaipur
+2304
+62.
+23
+Jaipur Metal & Electrical, Jaipur
+1000
+Page 98/114
+----- PAGE 99 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+63.
+2054
+Kamani Engineering Corporation (K.E.C. International), Jaipur
+1159
+64.
+1173
+Udaipur Cotton Mills, Udaipur
+750
+65.
+7339
+Relience Chemetex Indsutries, Udaipur
+1000
+66.
+5274
+K.K. Industries, Kankroli, Udaipur
+1500
+67.
+3006
+Udaipur Cement Works, Udaipur
+700
+68.
+2286
+Zinc Smelter Dabari, Udaipur
+2000
+69.
+9942
+Shurti Synthetics Ltd., Udaipur
+700
+70.
+8731
+Raj. Syntex Ltd., Doongarpur
+1000
+71.
+1556
+Rajasthan Textile Mills, Bhawanimandi
+1757
+Notification No. F. 4(9) Shram/82
+S.O. 308 dated 15.2.1988. In pursuance of Rule 69 of the Rajasthan Factories Rules, 1951, the State Government
+hereby directs that rules 69 to 75 of the said rules shall apply to the Factories specified in the schedule appended
+hereto, with effect from the date of publication of this notification in Rajasthan Rajpatra.
+Schedule 7
+Factories
+S. No.
+RJ/No.
+Name of the factory
+Employment according to licence
+1
+2
+3
+4
+72.
+Page 99/114
+----- PAGE 100 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+490
+Western Railway Ticket Ptg. Press. Ajmer
+244
+73.
+491
+Electrical Engineering Workshop, Ajmer
+340
+74.
+461
+Aditya Mills Ltd., Kishangarh
+1800
+75.
+11721
+JK. White Cement Works, Gotan, Distt. Pali
+350
+76.
+6601
+Bhilwara Processors Ltd., Bhilwara
+750
+77.
+8464
+Sunil Textiles, Bhilwara
+450
+78.
+10216
+Raj. Processors India Ltd., Bhilwara
+500
+79.
+2117
+Multimetals Ltd., Kota
+500
+80.
+7997
+Mangalam Cement, Kota
+750
+81.
+9293
+Associated Stone Industries, Jhalawar Road, Jhalawar
+500
+82.
+1252
+Pesticides India, Udaipur
+500
+83.
+8824
+Siddha Synthetics Ltd., Rishabdev Distt. Udaipur
+700
+84.
+9869
+Charbhuja Sugar Works, Kankroli, Distt. Udaipur
+400
+Page 100/114
+----- PAGE 101 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+85.
+10129
+Perfect Thread Mills Ltd., Udaipur
+500
+86.
+10446
+Technowel Foundry P. Ltd. Udaipur
+500
+87.
+10896
+JK Industries, Udaipur
+750
+88.
+4179
+Khetri Copper Complex, Fertilisers Div. Khetrinagar, Distt.
+Jhunjhunu
+450
+89.
+11167
+JK Industries, Kankroli, Udaipur
+500
+90.
+4888
+The Ganganagar Sugar Mills Highteck Glass Division, Dholpur
+456
+91.
+1709
+Perfect Sanitary Pipes, Bharatpur
+350
+92.
+5
+Man Industrial Corpn., Jaipur
+500
+93.
+337
+Powerhouse, Jaipur Old Nala Power House Workshop, Jaipur
+729
+94.
+2169
+Rajasthan Rope Works, Naraina
+400
+95.
+7069
+Pratap Raj. Special Steels Ltd., Jaipur
+500
+96.
+9269
+Jaipur Dairy, Jaipur
+300
+97.
+418
+Page 101/114
+----- PAGE 102 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Government Press, Jodhpur
+278
+98.
+12425
+Modhern Insulators Ltd. Abu Road, Distt. Sirohi
+500
+99.
+56335
+Sunil Synchem Ltd., Alwar
+500
+100.
+6092
+Rathi Alloys & Steel Ltd., Alwar
+500
+101.
+8735
+Modern Suiting Ltd., Alwar
+500
+102.
+8898
+Mud Steel P. Ltd. Bhiwadi, Distt. Alwar
+500
+103.
+9202
+Bansi Lal Paper Mills, Bhiwadi
+500
+104.
+9987
+Modi Alkalies & Chemicals Ltd., Alwar
+500
+105.
+10791
+Eichers Tractors Ltd., Alwar
+500
+106.
+10795
+Toto Bubble India Ltd., Bhiwadi, Distt. Alwar
+500
+107.
+10932
+Ganganagar Sahkari Spinning Ltd., Hanumangarh, Distt. Sri
+Ganganagar
+1450
+108.
+2637
+Rana Pratap Sagar Hydel Power Station, Chitbergarh
+499
+109.
+13006
+Gopal Synthetic, Kota
+1000
+Page 102/114
+----- PAGE 103 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+[Published in Rajasthan Gazette 4 (Ga) (II) - Dated 31.3.88 Page 273.]
+[Notification No. F.4(9) Shram/82, dated 14.9.2000, Jaipur. Published In Rajasthan Gazette Extraordinary Part 4(Gha),
+dated 16-2.2001]
+S.O. 355. - In exercise of the powers conferred by sub-section (1) of Section 46 of the Factories Act, 1948 (Act LXIII of
+1948) and in continuation to notification No. F.4(9) Shram/82 dated 30-10.1986 and 15.2.1988 respectively the State
+Government hereby directs that rule 69 to 75 of the said rules shall apply to the following factories wherein more than
+250 workers are ordinarily employed as specified in the Schedule appended here to with effect from the date of its
+publication in the Official Gazetted.
+Schedule 8
+S No.
+Reg. No.
+Name
+Distt.
+1.
+2
+3
+4
+110.
+110
+Udaipur Distillery Co. Ltd.
+Udaipur
+111.
+2269
+Jaipur Glass & Potteries Ltd.
+Jaipur
+112.
+3670
+Dalmia Industries Ltd.
+Bharatpur
+113.
+3954
+Raghuvar (India) Ltd.
+Jaipur
+114.
+4448
+Bhilwara Woollen Mills
+Bhilwara
+115.
+4766
+Rajasthan Co-operative Dairy Fed.
+Jodhpur
+116.
+5103
+Suraj Daimond Industries
+Jodhpur
+117.
+6933
+Kendriya Sambhag Karya-Shala(RSRTC)
+Jodhpur
+118.
+7359
+Page 103/114
+----- PAGE 104 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Auto-Life (India) Pvt. Ltd.
+Jaipur
+119.
+8487
+Central Workshop (Leyland)
+Jaipur
+120.
+8493
+Rajasthan Explosives and Chemicals Ltd.
+Dholpur
+121.
+8608
+Orient Abrasive Ltd. (Grinding Wheel Div.)
+Alwar-Bhiwadi
+122.
+8907
+National Engineering Ind. Ltd.
+Tonk-Niwai
+123.
+9031
+Crown Ceramics Ltd.
+Alwar
+124.
+9047
+Lakhani Shoe Company Ltd.
+Alwar-Bhiwadi
+125.
+9299
+Banswara Fabrics Ltd.
+Banswara
+126.
+9509
+Mahaveer Aluminium Ltd.
+Alwar-Bhiwadi
+127.
+9700
+P.G. Foils Ltd.
+Pali
+128.
+10018
+Lustre Tiles Ltd.
+Alwar-Bhiwadi
+129.
+10213
+R.S. Industries (Rolling Mill) Ltd.
+Jaipur
+130.
+10334
+Udaipur Phosphates & Fertilisers Ltd.
+Udaipur
+131.
+Page 104/114
+----- PAGE 105 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+10755
+Samtel (India) Ltd.
+Alwar-Bhiwadi
+132.
+10938
+Cimmco Ltd. (Heavy Eng. Division)
+Bharatpur
+133.
+11378
+Unipatch Rubber Ltd.
+Alwar-Bhiwadi
+134.
+11579
+Saraf Textiles Industries Ltd.
+Jaipur
+135.
+11719
+Parasrampuria Synthetics Ltd.
+Alwar-Bhiwadi
+136.
+12101
+Swastik Suitings Ltd.
+Bhilwara
+137.
+12135
+Sapphire (India) Pvt. Ltd.
+Alwar-Bhiwadi
+138.
+12264
+Punsumi India Ltd.
+Alwar-Bhiwadi
+139.
+12445
+Rajasthan XLO Midland Ltd.
+Alwar
+140.
+12634
+Sangam Processors (Bhilwara) Ltd.
+Bhilwara
+141.
+12653
+Shree Cement Ltd.
+Ajmer
+142.
+12775
+Bhilwara Synthetics Ltd.
+Bhilwara
+143.
+13099
+Rajasthan Petro Synthetics Ltd.
+Udaipur
+Page 105/114
+----- PAGE 106 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+144.
+13170
+Chittor Cement Works
+Chittorgarh
+145.
+13306
+Vhel Industries Ltd.
+Alwar-Bhiwadi
+146.
+13313
+Shree Ram Cement Works
+Kota
+147.
+13620
+Kansara Bearing Pvt.Ltd.
+Jodhpur
+148.
+13959
+Sumer Marbles & Granites Pvt. Ld.
+Udaipur
+149.
+14000
+Hi-Tech Gears Ltd.
+Alwar-Bhiwadi
+150.
+14009
+Rajasthan Polyester Ltd.
+Alwar-Bhiwadi
+151.
+14274
+Indian Rayon & Industries Ltd.
+Jodhpur
+152.
+14388
+Tilam Sangh Rajasthan Kota Project
+Kota
+153.
+14681
+New J.K. Cement Works
+Chittorgarh
+154.
+14926
+S.R.F. Ltd.
+Alwar-Bhiwadi
+155.
+15475
+Nilion Nirman Ltd.
+Makrana (Nagaur)
+156.
+15796
+BSL Ltd. (Worsted Spinning Unit-2)
+Page 106/114
+----- PAGE 107 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Bhilwara
+157.
+15966
+National Thermal Power Corp. Ltd.
+Kota
+158.
+16476
+Rajasthan Spinning & Weaving Mills Ltd.
+Banswara
+170.
+6715
+Karal Engineering Corporation
+Chittorgarh
+160.
+16873
+Falcon Gulf Ceramic Ltd.
+Alwar
+161.
+17425
+Chanderia Lead Zinc Smelter
+Chittorgarh
+162.
+17897
+Mumal Marbles Ltd.
+Udaipur
+163.
+18038
+Maharaja International Ltd.
+Alwar
+164.
+18227
+Sriganganagar Co-operative Cotton Company
+Sriganganagar
+165.
+18848
+Shri Shyam Filaments Ltd.
+Jaipur
+166.
+18997
+Forever Diamonds Pvt. Ltd.
+Jodhpur
+167.
+19554
+Vanasthali Textile Industries
+Alwar
+168.
+19700
+Neer Shree Cement
+Kota
+169.
+20142
+Page 107/114
+----- PAGE 108 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Samcor Glass Ltd.
+Baran
+170.
+20166
+Govind Rubber Ltd.
+Alwar-Bhiwadi
+171.
+20207
+Chambal Fertilizers & Chemicals Ltd.
+Kota
+172.
+20387
+Raj Solvex Ltd.
+Alwar
+173.
+20604
+Rajasthan Polymers & Resins Ltd.
+Sirohi
+174.
+20623
+Secure Meters Ltd.
+Udaipur
+175.
+20886
+Ranisagar Cement Co. Ltd.
+Ajmer
+176.
+20895
+Rajasthan Spinning & Weaving Mills Ltd.
+Bhilwara
+177.
+20932
+Suzuki Processors (A Unit of Suzuki)
+Bhilwara
+178.
+20969
+Harvst Gold Foods India Pvt. Ltd.
+Alwar-Bhiwadi
+179.
+20994
+Arhani Spinning Mills
+Alwar-Bhiwadi
+180.
+21078
+Paras Fab. International
+Alwar
+181.
+21144
+Autopal Industries Ltd.
+Jaipur
+182.
+Page 108/114
+----- PAGE 109 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+21309
+Thapar Mills Products Ltd.
+Alwar
+183.
+21394
+Laxmi Cement Unit-II
+Sirohi
+184.
+21448
+Aditya Cement (A Unit of Grasim India)
+Chittorgarh
+185.
+21656
+Prerna Synthetics Ltd.
+Alwar
+186.
+21682
+Sangam Spinners (A Unit of Sangam India Ltd.)
+Bhilwara
+187.
+21762
+Slui Rajasthan Texchem Ltd.
+Dungarpur
+188.
+21822
+Pam Pharmaceutical (Delhi) Ltd.
+Alwar-Bhiwadi
+189.
+21856
+A.K. Spintex Ltd.
+Bhilwara
+190.
+21959
+Ginni International Ltd.
+Alwar
+191.
+22154
+Bhawal Synthetics (India) Ltd.
+Udaipur
+192.
+22270
+J.C.T. Ltd. (Unit-II)
+Sriganganagar
+193.
+22316
+Anusikha Auto-Light Ltd.
+Jaipur
+194.
+22336
+Binani Cement (A Division Of Binani)
+Sirohi
+Page 109/114
+----- PAGE 110 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+195.
+22354
+Raj Cement
+Ajmer
+196.
+22550
+Bhartiya Spinners Ltd.
+Bhilwara
+197.
+22771
+Swatantra Bharat Mills
+Tonk
+198.
+23055
+Kajaria Ceramics Ltd.
+Alwar-Bhiwadi
+199.
+23089
+Wolkem India Ltd.
+Pali
+200.
+23216
+Polymers Pvt. Ltd.
+Alwar-Bhiwadi
+201.
+23265
+Auto-Lite (India) Ltd.
+Jaipur
+202.
+23299
+Haryana Sheet Glass (Container Div.)
+Alwar
+203.
+23314
+Highland House Pvt. Ltd.
+Jhunjhunu
+Self Certificate Scheme
+[Notification No. F. 3(1) Legal/F&B/05/3043, dated 22.3.2006-Rajasthan Gazette Extraordinary, Part IV-C(II), dated
+25.3.2006, p. 547(1).] = 2007 RSCS/II/P. 304/H. 256. S.O. No. 44. - The Governor of Rajasthan is pleased to formulate
+'Self Certification Scheme' for the factories established in the State to liberalize the enforcement of the Factories Act,
+1948 and to provide option of Self Certification Scheme for various returns to be submitted under the Act.
+1. Introduction. - The Self Certification Scheme is being introduced to streamline the functioning of the Factories and
+Boilers Inspection Department for effective implementation of the Factories Act, 1948 and rules made there-under which
+is being implemented by the Chief Inspector of Factories & Boilers. The main provisions of the Factories Act, 1948 are
+related to safety, health and welfare of the workers at workplace. This Scheme aims at making the occupier conscious
+and truthful citizen and law abiding person willing to take care of the interest of workers by complying the provisions of
+the Act and to enable the Factories and Boilers Inspection Department to effectively protect the interest of the workers.
+2. Objectives. - The objectives of this Self Certification Scheme is to curtail unnecessary visits of Government officials
+for inspection of those Factories who opt for this scheme without compromising on the provisions of safety, health and
+welfare of the workers as provided in the said Act and Rules.
+3. Procedure. - The Scheme shall be optional and any occupier can opt this scheme. The occupier of the factory
+Page 110/114
+----- PAGE 111 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+covered under this scheme shall apply for Self Certification to the concerned authority of Factories & Boilers Inspection
+Department, i.e., Dy. Chief Inspector/Sr. Inspector/Inspector in the prescribed Annexure-I, along with prescribed details
+as per Annexure-II. The occupier is also required to give an undertaking in Annexure-III attached with the scheme.
+Any discrepancy in the application or enclosures shall be communicated to the applicant within 30 days from the receipt
+of the application in the office of the concerned authority of Factories & Boilers Inspection Department. If no discrepancy
+is so communicated, the applicant shall deemed to have been enrolled under the Self-Certification Scheme.
+4. Filing of Return. - After being enrolled for the Self Certification Scheme, the concerned occupier shall file the
+Self-Certification Return in the prescribed Performa given at Annexure-IV and V. The return can be filed between 1st of
+April to 30th of April every year on any working day between 10.30 A.M. to 4.30 P.M.
+5. Validity of Undertaking. - Factual information given in the prescribed return shall be the same as on the date of filing
+the return. The Undertaking to abide by all the laws as applicable to the occupier shall be valid for a period of next one
+year.
+6. Validity of Scheme. - Once opted for the Scheme the same shall be valid for five years and the occupier shall file
+annual return as prescribed. After the successful compliance under the Self-Certification for five years, the occupier shall
+have option either to remain covered under the Self-Certification Scheme or opt out of the Scheme. The option must be
+exercised in written to make before the concerned authority of Factories & Boilers Inspection Department. In case the
+occupier successfully completes five years under the Scheme and during any inspection carried out if no violation of the
+Act is detected the security so deposited shall be refunded. No interest shall be payable on the security deposited.
+7. Amount of Security to be Deposited. - Any occupier who opts for the Scheme shall deposit a security by way of
+account payee bank draft in favour of Chief Inspector of Factories & Boilers, Rajasthan, Jaipur. At the opening of this
+scheme, the security amount shall be Rs. 10,000 for Factories employing up to 100 workers, Rs. 20,000 for factories
+employing more than 100 and up to 250 workers and Rs. 50,000 for factories employing more than 250 workers.
+8. Forfeiture of Security Deposit. - In case any occupier withdraws prematurely from the Scheme, i.e., before 5 years or
+fails to follow the terms and conditions of the Self Certification Scheme or fails to file return in time under this Scheme or
+fails to abide by any undertaking given by him or any violation of the Act is detected then security so deposited shall be
+forfeited and in case of violation of the Act, further necessary action as per the law shall be initiated and he will cease to
+continue under the Scheme. However, there will no bar on fresh inclusion in the Scheme if applied afresh.
+9. Law for which the Scheme is Valid. - This self Certification Scheme shall be valid for the Factories Act, 1948 and rules
+made thereunder.
+10. Whom to Apply. - Under the Self Certification Scheme, the application for inclusion under the Self Certification
+Scheme as per Annexure-I shall be made in duplicate addressed to the concerned authority of Factories & Boilers
+Inspection Department with a copy to the Chief Inspector Factories & Boilers, Rajasthan, Jaipur. Similarly, the returns in
+Annexure-IV and V shall also be filed in duplicate complete in all respects, of which one copy shall be sent to the
+concerned authority and one copy shall be sent to the Chief Inspector Factories and Boilers Rajasthan Jaipur. The
+returns in Annexure-IV and V need to be filed well in time as per this scheme. The date shall mean the date on which
+application or return is received in the office of concerned Authority/Chief Inspector of Factories & Boilers, Rajasthan,
+Jaipur.
+Note.- The amount of security in the shape of account payee bank draft in the name of Chief Inspector of Factories &
+Boilers, Rajasthan, Jaipur shall be attached with the application (Annexure-I).
+11. Inspection Procedure Under the Scheme. - Under the Self Certification Scheme not more than 10% of the factories
+so covered under the scheme shall be picked up randomly for inspection once in a year and which shall be carried out
+only once regarding the implementation of the Act to which this scheme applies. Once Inspected the same factory is not
+likely to be inspected in the same year or in next 3 years provided that no specific violation of terms, undertaking given
+and laws by the occupier is brought to notice. However, on specific complaints, accidents, dangerous occurrences,
+inspection shall be conducted only on authorization from higher Officer/District Authority or Chief Inspector who are
+competent to order the inspection at any time.
+The inspection will be a joint inspection under all the laws which are applicable under the scheme hence it will normally
+be a one time inspection.
+The factories availing the scheme shall be free from any inspection, other than those by the team mentioned as above
+and in accident, dangerous occurrences or complaint cases.
+The factories which are not desiring to opt for the scheme will be inspected as per present system.
+Page 111/114
+----- PAGE 112 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+Factory managements will have to obtain and renew the factory license whether the scheme of Self Certification is
+obtained or not.
+The copy of scheme along with all prescribed application forms and inspection procedure shall be available with all the
+authorities in their offices and can be obtained at a price of Rs. 100. Application shall be made in forms attached with the
+scheme as printed by the Chief Inspector of Factories & Boilers, Rajasthan, Jaipur.
+Annexure-I
+From
+M/s...............................
+..................................
+..................................
+To,
+Dy.Chief/Sr./Inspector
+Factories and Boilers
+..................................
+Sub: Application for Registration under Self Certification Scheme under Laws being implemented by the Department as
+per the terms & conditions of Scheme.
+Sir,
+Reference: Government of Rajasthan Notification No ................................. dated..................regarding Self Certification
+Scheme of the Factories and Boilers Inspection Department.
+I/We have gone through the above said scheme and have understood the same. I/We wish to be covered under the said
+scheme. As such I/We request you to kindly issue me/us necessary approval for the same. The necessary information
+and other documents, as required under the Scheme, are enclosed. I/We undertake to abide by all terms and conditions
+of the Scheme. It is also certified that I/We am/are competent & duly authorized to make any statement or provide any
+information to any Central/State Government agency on behalf of this establishment.
+Kindly issue the necessary registration at the earliest.
+Yours Faithfully,
+Name & Address of the Occupier.........................
+Encls.: 1. Annexure II (List of Documents)
+2. Annexure III (Undertaking/affidavit)
+3. Bank Draft No.........................Date......................
+Acknowledgement slip
+This is to acknowledge that an application regarding Self Certification Scheme under the Factories Act, 1948 has been
+received by the under signed from M/s..................(full address in capital) and the same has been entered in the office
+receipt register at Sr. No.................dated................Any further correspondence in future in this regard may be done by
+stating this Sr. No.
+Authorized Signatory
+Dy. Chief Inspector/Sr. Inspector/Inspector
+Factories & Boilers
+Annexure-II
+1. Copy of the licence valid for the current year under the Factories Act, 1948.
+2. Manufacturing process being carried on. Details, if any, change in manufacturing process already informed.
+3. Status of Industry (SSI/MSVLSI) (attach attested copy of registration with Department of Industries).
+4. List of raw materials used and final products. Details of any change.
+5. Number of workers being employed.
+6. Horse-power installed.
+7. Date of submission of Annual Return & Half Yearly Return.
+8. Date of submission of stability certificate of factory building/buildings.
+Note.- In case any of the above is not being attached/provided, please give specific reasons.
+Annexure-III
+Undertaking
+(To be filled by Occupier on a non judicial stamp paper of Rs. 10)
+Page 112/114
+----- PAGE 113 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+I/We......................................S/o....................................R/o.....................................and Occupier of M/s ............................
+....hereby state as under:
+1. That I/We have applied for grant of coverage of unit by the name of M/s. ...............Situated at (Complete address of
+the unit)...........................under the Self Certification Scheme of Factories & Boilers Inspection Department, Govt. of
+Rajasthan as notified vide notification No.............................dated.................
+2. That I/We have gone through the scheme and have fully understood the contents of the scheme and undertake to
+abide by the same.
+3. That it is declared that I/We are complying and will continue to comply with all provisions of Factories Act, 1948
+covered under this Self Certification Scheme.
+4. That I/We agree to accept the penalty prescribed under law in case of violation detected in the unit under any law
+covered under the Scheme after filing of the return under the Scheme.
+Place
+Date
+Deponent
+Verification
+I/We the above named deponents do hereby further solemnly affirm that the contents given above are true to the best of
+my knowledge.
+Place
+Date
+Deponent
+Certified by Notary/Gazatted officer
+Annexure-IV
+(Self Certification Return under Factories Act, 1948.)
+Return Form
+Return being filed before
+1.
+.................................
+2.
+..................................
+3.
+..................................
+Assessment Year.....................
+1. Name & Designation of the Applicant ..........................
+2. (a) Name of the factory .........................
+(b)
+Address (in capital letters) ........................
+(c)
+Telephone No./Fax No ..................................
+3. Reg. No. under Factories Act, 1948
+...............................
+4. No. & date of approval of bldg. plans of the factory.........................
+5. Name & residential address of
+(a)
+Occupier.................................
+(b)
+Manager..................................
+6. Average number of workers employed during the year
+(a)
+Male..................................
+(b)
+Female..................................
+Page 113/114
+----- PAGE 114 -----
+Rajasthan Control of Industrial Major Accident Hazards Rules, 1991
+(c)
+Children..................................
+(d)
+Total..................................
+7. Nature of Industries
+Hazardous/Non-hazardous (as per Sec. 2cd)
+8. Manufacturing process
+a. Raw material..................................
+b. End product..................................
+9. Code of Industry..................................
+10. Shift timings
+General
+A. Shift
+B. Shift
+C. Shift
+Certification
+I/We do hereby certify that the contents given above are true and correct. Place
+Date
+Signature
+(Name and stamp of organization)
+Acknowledgement Slip
+This is to acknowledge that a return under Self-Certification Scheme under Factories Act, 1948 has been received by
+the undersigned from M/s........................(full address in capital) and the same has been entered in the office receipt at
+Sr. No................ dated ..................Any further correspondence in future in this regard may be done by stating this Sr.
+No.
+Signature
+Dy. Chief Inspector/Sr. Inspector/Inspector
+Factories & Boilers..............................
+Annexure-V
+(Information Regarding work force employed in the factory)
+(Give detailed information of all the workers employed in the factory in the following format and attach this annexure with
+the application)
+Sr. No.
+Name of the workers
+Father's name
+Designation
+Pay
+EPF No.
+ESI No.
+1.
+2.
+3.
+4.
+5.
+Note.-Attach a separate sheet if this is not sufficient.
+Related AI tags, queries and research notes
+Translation
+Page 114/114

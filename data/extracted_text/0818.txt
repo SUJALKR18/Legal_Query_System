@@ -1,0 +1,660 @@
+
+----- PAGE 1 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Source: https://indiankanoon.org/doc/62308620/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+UNION OF INDIA
+India
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Rule THE-MERCHANT-SHIPPING-RADIO-DIRECTION-FINDERS-RULES-1968 of 1968
+Published on 3 July 1968
+Commenced on 3 July 1968
+[This is the version of this document from 3 July 1968.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Published vide Notification Gazette in India, 1968, Part 2, Section 3(i), page 1585
+1790.
+G.S.R. 1283, dated 3rd July, 1968. - In exercise of the powers conferred by section 296 read with sub-section (2) of
+section 458 of the Merchant Shipping Act, 1958 (
+44 of 1958
+), and in supersession of the Indian Merchant Shipping (Direction Finders) Rules, 1956, the Central Government hereby
+makes the following rules, namely :-
+1.
+Short title, application and commencement.
+(1)
+Page 1/13
+----- PAGE 2 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+These rules may be called the Merchant Shipping (Radio Direction Finders) Rules, 1968.
+(2)
+They shall apply to-
+(a)
+Indian ships of sixteen hundred tons gross or more; and
+(b)
+ships other than Indian ships, of sixteen hundred tons gross or more while they are at any port or place in India or within
+the territorial waters of India.
+(3)
+They shall come into force at once.
+2.
+Definitions.
+- In these rules"
+(1)
+"Act" means the Merchant Shipping Act, 1958 (
+44 of 1958
+);
+(2)
+"existing installation" means"
+(a)
+an installation wholly installed on board a ship before the 26th May 1965; and
+(b)
+an installation part of which was installed on board a ship before the 26th May 1965 and the rest of which consists either
+of parts Installed in replacement of identical part or parts which comply with the requirements of these rules;
+(3)
+"interference" means any radiation or any induction which endangers the functioning of a radio navigation service or
+obstructs or repeatedly interrupts radio service operating in accordance with these rules;
+(4)
+"new installation" means any installation which is not an existing installation;
+(5)
+"radio inspector" means a person appointed as such under it section 10 of the Act;
+(6)
+"Schedule" means a Schedule to these rules;
+(7)
+in relation to classes of emission - "Class A-l" means telegraphy by on-off keying without the use of a modulating audio
+frequency "Class A-2" means telegraphy by the on-off keying of an amplitude-modulating audio frequency e audio
+frequencies, or by "the on-off keying of the modulated emission;
+"Class B" means damped waves;
+3.
+Provision of radio direction finders.
+- Every ship shall be provided with a radio direction complying with the requirements specified in the First Schedule.
+4.
+Climate and durability tests.
+(1)
+The radio direction-finder required to be provided by these rules shall be such that it will be free from mechanical
+defects, and, shall comply with the following tests, namely:-
+(a)
+while undergoing the vibration, dry heat and low temperature tests specified in the Second Schedule;
+(b)
+when subjected to the damp heat tests specified in paragraph 3(4) of the said Schedule, and
+(c)
+Page 2/13
+----- PAGE 3 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+the other tests specified in the said Schedule.
+(2)
+The radio direction-finder aerial system referred to in the First Schedule shall be such that after undergoing the mould
+growth tests required by the Second Schedule no mould growth will be present on it.
+5.
+Interference with Reception.
+(1)
+At no time when a ship is at sea interference or mechanical noise produced by a radio direction-finder required by these
+rules or by other equipment in the ship shall be of such intensity as to prevent the efficient determination of radio
+bearings by means of the radio direction-finder.
+(2)
+Any ship which is provided with a radio direction-finder not being an existing installation shall also be provided with a
+communal aerial system for all broadcast receivers in respect of which it is impracticable to erect efficient and properly
+installed aerials which"
+(a)
+are outside a radius of 15.2 metres from the radio direction-finder aerial, or
+(b)
+do not rise above the base of the radio direction-finder; or
+(c)
+can be lowered quickly and stowed easily when the radio direction-finder is in use.
+6.
+High voltage parts.
+(1)
+All parts and wirings of the equipment specified in these rules in which the direct and alternating voltage (other than
+radio frequency voltages) combine at any time to give an instantaneous voltage greater than fifty volts shall be protected
+from accidental access.
+(2)
+All parts and wirings of an equipment specified in these rules (other than the parts and wiring of a rotating machine) in
+which the direct and alternating voltages (other than radio frequency voltages) combine at any time to give an
+instantaneous voltage greater than two hundred and fifty volts shall be isolated automatically from all sources of
+e1ectrical energy when the means of protection are removed .
+7.
+Supply of electrical energy.
+- There shall be available in every ship while it is at sea at all reasonable times when it is not in port, a supply of
+electrical energy sufficient for the operation of the radio direction-finder in accordance with these rules, and for testing
+purposes, and for the charging of any batteries which are a source of electrical energy for the radio direction-finder.
+8.
+Charging of batteries.
+(1)
+If Batteries are provided as a source of electrical energy for the radio direction-finder, means shall be provided on every
+ship for the charging of such batteries from the ship's main source of electrical energy. The master of the ship shall
+cause to such batteries to be tested once a day by Voltmeter and once a month by Hydrometer, and shall cause any
+battery which is found not to be fully charged to be brought up to that condition as soon as possible.
+(2)
+The master of every ship shall maintain or cause to be maintained a separate record and whenever any batteries
+providing source of electrical energy for radio direction-finder are charged, or r when such batteries are tested daily by a
+Voltmeter, or when such batteries are tested monthly by a Hydrometer, as required by sub rule (1), he shall make or
+cause to be made appropriate entries in the said records in regard to such charging or testing of batteries. The said
+record shall be placed on board together with records of calibration maintained under rule 13 and shall be made
+available to the radio inspector for inspection at any reasonable time.
+9.
+Page 3/13
+----- PAGE 4 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Installation of radio direction-finder.
+(1)
+The radio-direction finder shall be installed in such a position that efficient determination of radio bearings by means of
+the radio direction-finder will not be lied hindered by extraneous noises.
+(a)
+The radio direction finder aerial system referred to in the First Schedule shall be mounted in such a manner that the
+efficient determination of radio bearings by means of the radio direction-finder is hindered as little as possible by the
+proximity of aerial, derricks, wire halyards, or other large metal objects.
+(b)
+Unless the feeder cables connecting the radio direction-finder aerial system with the receiver forming part of the radio
+direction-finder consist of solid electric screened cable, they shall be protected by metal tubes which are bonded to
+earth. The joints of the feeder cables shall be water-tight.
+10.
+Means of communication.
+(1)
+In every ship, an efficient two way means of calling and voice communication shall be provided between the receiver of
+the radio direction-finder and the bridge from which the ship is normally navigated.
+(2)
+In every such ship an efficient means of signalling shall be provided between the receiver of the radio direction-finder
+and the ship's standard compass or gyro compass repeater, if any.
+11.
+Restriction on use of the radio direction-finder.
+- The radio direction-finder shall not be used :-
+(a)
+for any purpose other than the business of the ship; or
+(b)
+for keeping the radio watch required by the rules framed under section 296 of the Act.
+12.
+Calibration.
+(1)
+The Master of every ship shall cause the radio direction finder to be calibrated in accordance with this rule as soon as
+practicable after it has been installed in the ship and whenever any change is made in the position of the radio direction
+finder aerial system.
+(2)
+The radio direction-finder shall be calibrated by two persons the one being experienced in the taking of radio bearings
+and the other experienced in the taking of visual bearings. The calibration shall be carried out by taking simultaneous
+radio and visual bearings of a calibrating transmitter, and such bearings shall be taken at intervals of not greater than 5
+degrees throughout 360 degrees on a frequency between 285 Kc/s and 315 Kc/s.
+(3)
+Calibration tables and curves shall be prepared on the basis, if the bearings taken in accordance with sub-rule (2).
+(4)
+The Master of every ship shall cause the calibration tables and curves prepared in accordance with the foregoing
+provisions of this rule to be verified by means of check-bearings"
+(a)
+at intervals not exceeding twelve months; and
+(b)
+whenever any change is made in any structure or fitting on deck which is likely to affect the "accuracy of the radio
+direction-finder.
+If such verification shows that the calibration tables or curves are materially inaccurate, the Master of the ship shall
+cause the radio direction-finder to be recalibrated as soon as practicable in the manner specified in sub-rules (2) and (3).
+13.
+Page 4/13
+----- PAGE 5 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Records of calibration and verification.
+- The Master of every ship shall cause the following records to be kept on board in a place accessible to an person
+operating the radio direction-finder, and to be available for inspection at any reasonable time by a radio inspector,
+namely".
+(a)
+a list or diagram indicating the condition and position, on the most recent occasion on which the radio direction-finder
+was calibrated, of"
+(i)
+the aerials, and
+(ii)
+all movable structures on board the ship which might affect the accuracy of the radio direction-finder;
+(b)
+the calibration tables and curves which were prepared on the most recent occasion on which the radio direction finder
+was calibrated,
+(c)
+a Certificate of Calibration in the form specified in the Third Schedule, relating to the most recent occasion on which the
+radio direction-1 as "calibrated and signed by the persons making the calibration;and
+(d)
+a record, in the form specified in the Fourth Schedule of check taken for the verification of calibration, the bearings being
+numbered in the order in which they were taken.
+14.
+Wiring, diagram and instructions.
+- A schematic wiring diagram of the radio direction-finder and a book containing adequate instructions as to the use of
+the radio direction-finder shall be available at all times on board for use by any person operating or testing the radio
+direction-finder.
+15.
+Fees.
+- Fees shall be levied under these rules at the rates and for the purposes specified in the Fifth Schedule.
+16.
+Penalty.
+- Any person who commits a breach of these rules shall be punishable with fine which may extend to one thousand
+rupees and if the breach is a continuing one, with a further fin which may extend to fifty rupees for every day after the
+first during which the breach continues.
+First Schedule
+(See rule 3)
+1. The direction-finder shall consist of a radio receiver, an associated direction-finder aerial system and Goniometer
+suitable for the determination of both bearing and sense by aural-null method.
+2. (a) The mechanical parts of the direction-finder aerial system other than ball bearings, hose clips, set screws and
+other similar small parts shall consist of non-magnetic material.
+(b)
+In all respects the mechanical and electrical construction and the finish of the equipment shall conform to good
+standards of engineering practice.
+3. No vibrators or primary cells shall be employed. The equipment shall operate from the ship's mains and shall not
+cause any of the supply leads to be earthed.
+4. The equipment shall be suitable for use with headphones.
+5. Technical characteristics of the receiver shall comply with the following:-
+(a)
+Frequency Range, -225 Kc/s to 525 Kc/s.
+(b)
+Types of reception, -Al and A2.
+(c)
+Page 5/13
+----- PAGE 6 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Sensitivity (for loop aerial system):-
+Field strength required for 20 decibel Signal/Noise ratio :-
+Frequency
+Wide
+Band
+A1
+(Microvolts
+per metre)
+A2
+30%
+mod at 400 Cycles (Microvolts per metre)
+500
+Kc/s
+10
+45
+350
+Kc.s
+12
+55
+260
+Kc/s
+15
+37
+(d)
+Selectionity
+Attention
+Band
+Width
+Wide
+Narrow
+-6
+decibels at frequencies plus or minus
+2.5
+Kc/s
+1.5
+Kc/s
+-29
+decibels at frequencies plus or minus
+4.5
+Kc/s
+3.5
+Kc/s
+-40
+decibels at frequencies plus or minus
+7.5
+Kc/s
+6.0
+Kc/s
+-60
+decibels at frequencies plus or minus
+10.0
+Page 6/13
+----- PAGE 7 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Kc/s
+9.0
+Kc/s
+(e)
+The protection against second channel or image frequency shall be over 90 decibels at 500 Kc/s.
+(f)
+The protection against LF. break-through shall be over 90 decibels at 500 Kc/s.
+(g)
+The overall gain of the receiver shall be such that the first circuit noise may be amplified to load the head-phones output
+to one milliwatt on"wide"band-width in both A and A positions of reception. -
+6. The receiver shall not produce a field exceeding 0.1 micro-volt per metre at a distance of one nautical mile from the
+receiver.
+7. Fluctuations of plus or minus 10 per cent in the supply voltages shall not produce perceptible change in output.
+8. (a) After the receiver has been switched on for 5 minutes, the tune frequency shall not change by more than one part
+in one thousand in any further period of 5 minutes.
+(b)
+a change of 5 per cent in any one of the supply voltages to the receiver or to a power unit associated therewith ha1l not
+cause the tune frequency to change by more than three parts in ten thousand.
+(c)
+a change of ambient temperature of 4 degrees "centigrade within the range of Zero degree centigrade to 50 degree
+centigrade applied after the receiver has been switched on for one hour shall not cause the tune frequency to change by
+more than one part In one thousand.
+9. The tuning scale shall be calibrated directly in frequency.
+10. The Goniometer shall be provided with a circular bearing indicator scale with marking at each one degree interval.
+Degree markings shall be distinctive at each fifth degree marking and more (instinctive at each tenth degree marking
+with numerical indication.
+11. After due allowance has been made for any site errors the bearing as indicated by the scale of the Goniometer shall
+be within one degree of the correct bearing. This requirement shall be met at all frequencies in the range of frequencies
+specified in paragraph 5 of this Schedule and throughout the 360 degrees of azimuth regardless of the previous setting
+of the bearing indicator.
+12. Changes in the setting of the bearing indicator from the position or positions of minimum output of 5 degrees and 90
+degrees in either direction shall cause the audio-frequency output to increase by not less than. .18 decibels and not less
+than 35 decibels respectively.
+Second Schedule
+[See rule 4(1)]
+Climatic and Durability Tests
+1. In this Schedule
+(a)
+references to Class X equipment shall be construed as references to the direction-finder aerial system;
+(b)
+references to Class B equipment shall be construed as references to each part of the direction-finder other than the
+direction-finder aerial system.
+2.
+(1)
+Class X equipment shall be subjected to all the tests in given in the following Table, and Class B equipment shall be
+subjected to the test named opposite the letter B thereof:
+Provided that Class X equipment shall not be subjected to the Immersion test if it is subjected to the Rain test at a static
+pressure of not less than 3.164 or more than 3.867 kg. per square centimetre.
+TABLE
+Nature
+of Test
+Page 7/13
+----- PAGE 8 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+(a)
+Vibration Test
+B
+(b)
+Bump Test
+B
+(c)
+Dry H Test
+B
+(d)
+Damp Heat Test.
+B
+(e)
+Low Temperature Test
+B
+(f)
+Rain Test.
+--
+(g)
+Immersion Test.
+--
+(h)Corrosion
+Tet Salt Water
+B
+(i)
+Corrosion Test Acid Fumes (If a battery is included In the
+equipment)
+B
+(j)
+Mould Growth Test
+--
+(2)
+All tests shall be conducted in the order in which they appear in the Table.
+(3)
+At any time when the equipment is required by paragraph 3 below to be kept working for the purposes of such tests;
+power shall be supplied thereto at the voltage at which such equipment is intended to be operated.
+3. The tests referred to in paragraph 2 above; shall be conducted in the manner specified below :-
+(a)
+Vibration Test. - The equipment, complete with its chasis covers and shock absorbers (if any) shall in its normal
+operating position be clamped to a vibration Table. The Table shall be vibrated at all frequencies between 0 and l2
+cycles per second at an amplitude of plus or minus 0.16 cm. during which period the equipment shall be kept working
+continuously. The Table shall be so vibrated for three periods each of which shall be of eight minutes duration.
+Throughout each such period, the direction of the vibrations shall b perpendicular to the direction of the vibration during
+the other two periods.
+(b)
+Bump Test. - The equipment shall be subjected to not less than 500 bumps at a constant rate of between one and four
+bumps per second with a free drop of at least 2.5cm.
+(c)
+Dry Heat Test. -(i) Class X equipments shall be placed in a chamber which is maintained for a period of ten hours at a
+constant temperature of 70(degree)_+ 1(degree) C during which period the equipment shall not be worked or tested.
+The said chamber shall then be cooled to a constant temperature of 50(degree)±11(degree) C and the equipment shall
+Page 8/13
+----- PAGE 9 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+be kept working continuously at that temperature for a period of two hours.
+(ii)
+Class B equipment shall be placed in a chamber which is maintained for a period of two hours at a constant temperature
+of 50(degree)±1(degree) C during which period the equipment shall be kept working continuously.
+(d)
+Damp Heat Test. - (1) The equipment shall be prepared for "the damp heat test in the following manner :-
+(i)
+The equipment shall be placed in a chamber which within a period not exceeding two hours shall be heated from room
+temperature to 40(degree)C, and shall be brought to a relative humidity of not less than 95 per cent.
+(ii)
+The chamber shall be kept at a temperature of 40°11(degree)C for a period of 12 hours, and at a relative humidity of not
+less than 95 per cent
+(iii)
+At the beginning of the last 60 minutes of such period, all accessible surfaces and components shall be wiped dry and
+any fans Or drying lamps provided in the equipment shall be switched on.
+After the fans or drying lamps have been in operation for 30 minutes and while the temperature of the chamber is still
+40(degree)C subject to the aforesaid tolerance, the equipment shall be tested.
+(2)
+After the equipment has been tested, the chamber shall be power prepared for the low temperature test, by allowing the
+temperature to fall below 25(degree)C, the equipment remaining in the chamber.
+(e)
+Low Temperature Test. - (1) Class X equipment shall be exposed to a temperature of minus 25*1(degree)C at normal
+atmospheric I pressure for a period of not less than twelve hours.
+(2)
+Class B equipment shall be exposed to a temperature of rating minus
+15.
+*1(degree)C at normal atmospheric pressure for a period of not less than twelve hours;
+(f)
+Rain Test. - (1) The equipment shall be placed in a chamber rated fitted with eight shower heads, the discharge end of
+each of which Shall consist of a flat, non-rustable metal plate, 0.16 cm. thick, shall having thirty-six holes each of 0.1 cm.
+diameter evenly spaced in other "concentric circles in the following manner :
+16. holes on the periphery of a circle of 5.1 cm. diameter
+8. holes on the periphery of a circle of 3.8 cm. diameter.
+8. holes on the periphery of a circle of 2.5 cm. diameter.
+4. holes on the periphery of a circle of 1.3 cm. diameter.
+(2)
+The shower heads shall be kept at a distance of not less than 50 cm. and not more than 80 cm. from the equipment in
+such manner that spray from four of such shower heads is directed down-wards at an angle of 45 "at each of the four
+uppermost corners of 11 be the equipment, and the spray from the other four shower heads is two directed horizontally
+at the centre of each area of the four sides of the equipment. Fresh water at room temperature and at static pressure in
+accordance with the following Table shall be sprayed on the equipment from the shower heads for a period of one hour
+with the of equipment in a position in which it is normally operated:"
+Minimum
+pressure (Kg./sq.cm.)
+Maximum
+pressure (Kg./sq.cm.)
+If
+the equipment is to be subjected to the immersion test
+1.055
+1.758
+If
+Page 9/13
+----- PAGE 10 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+the equipment is not to be subjected to the immersion test
+3.164
+3.867
+(3)
+Throughout the test, the equipment shall be rotated at between 12 and 22/3 revolutions per minute about a vertical axis
+passing through the centre of the equipment.
+(g)
+Immersion Test. - The equipment, in the position in which it will normally be kept on board ship, shall be immersed in
+water the surface of which is at least 10 cm. above the highest point of the equipment. The equipment shall be kept in
+the water for a period of one hour. Thereafter it shall be removed from the water and the water drained off. -
+(h)
+Corrosion Test (Salt Water). - (1) The equipment shall be placed in a chamber fitted with an apparatus capable of
+spraying in the form of a fine mist, either natural sea water or tap water con taming the following salts in the quantities
+shown below in solution:-
+Per
+cent.
+Sodium
+Chloride
+2.7
+Magnesium
+Chloride
+0.6
+Calcium
+Chloride
+0.1
+Potassium
+Chloride
+0.07
+(2)
+The quantity of each salt shall be subject to a tolerance of plus or minus 10 per cent. The spraying apparatus shall be
+such that the products of corrosion cannot mix with the sea water or solution contained, in the spray reservoir. The
+solution shall be sprayed simultaneously on all the external surfaces of the equipment, for a period of one hour. The
+equipment shall be kept working continuously for the last 30 minutes of the period. Immediately thereafter, the
+equipment shall be stored for a period of seven days at a temperature of 40 0 c at a relative humidity of not less than 60
+per cent and not more than 80 per cent. Such spraying and storing shall be carried out on four separate occasions.
+(i)
+Corrosion Test (Acid Fumes). - If the arrangements in the equipment are such that the battery can be charged without
+being removed from the equipment the battery shall be charged continuously for a period of twenty-four hours at the
+maximum rate appropriate to it. Otherwise, before the test is carried out, the battery shall be fully charged and then fitted
+into the equipment, which shall immediately thereafter be stored for a period of four weeks at a temperature 40°1'C at a
+relative humidity of not less than 60 per cent and not more than 80 per cent.
+(j)
+Mould Growth Test. - The equipment shall be inoculated by spraying with an equeous suspension of mould spores
+containing all the cultures named in Column A or all"the cultures named in Column B of the following Table :"
+A
+B
+Aspergillus
+niger
+Aspergillus
+niger
+Aspergillus
+Page 10/13
+----- PAGE 11 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Amstelodami
+Aspergillus
+Amstelodami
+Paecilomyces
+varioti
+Aspergillus
+varioti
+Stachybotrys
+atra
+Stachybotrys
+atra
+Penicillium
+brevi-compactum
+Penicillium
+brevi-compactum
+Penicillium
+cyclopium
+Cladosporum
+herbasum
+Chaetomium
+globosum
+Immediately after it has been so sprayed, the equipment shall be placed in a chamber, the temperature of which shall be
+maintained at any fixed value within the range 31(degree)C at 33(degree)C (both inclusive) and controlled within a
+tolerance of plus or minus 1(degree)C at a relative humidity of not less than 95 per cent. The equipment shall remain "in
+the said chamber for a period of twenty-eight days.
+Third Schedule
+[See rule 13(c)]
+Certificate of Calibration of Direction-Finder
+We, the undersigned, hereby certify that we have this day -
+(a)
+calibrated in accordance with the Merchant Shipping (Radio, Direction Finders) Rules, 1968 the direction-finder installed
+on the s.s./m.v.
+(b)
+handed to the Master of the aforesaid ship, tables of calibration corrections;
+(c)
+adjusted the said direction-finder so that the readings taken thereby, when corrected with such tables, differed from the
+correct bearings by no more than plus or minus two degrees.
+We hereby further certify that the Master of the said ship has been furnished with a list/diagram indicating the condition
+and positions, at the time of such calibration, of the aerials and all move-able structures on board the ship which might
+affect the accuracy of the direction-finder.
+..............Radio Observer.
+..............Visual Observer
+(Date)
+Fourth Schedule
+(See rule 15)
+Record of Check-Bearings taken by Means of the Direction-Finder
+1
+Serial Number of Bearings
+2
+Dated
+3
+Page 11/13
+----- PAGE 12 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+Time(G.M.T.)
+4
+Latitude
+Ship's
+Approximate Position
+5
+Longitude
+6
+Distance from Transmitter
+7
+Direction Bearings of (Name)
+8
+Direction Finder Bearing retatine Corrected for Q.E.
+9
+Ship's Head by Compass o/360(degree)
+10
+Total compass Error
+11
+1/2 Convergency Applied
+12
+Ship's Head Corrected (true)
+13
+True Bearing by Direction-Finder (Col. 8 and Col. 12)
+14
+True Bearing by calculation or by visual check (whether
+calculated or visual to be indicated)
+15
+Correction required to make Col. (13) equal Col (14) incidating
+whether ("or +)
+16
+Signature of Observer or Observers
+Fifth Schedule
+(See rule 15)
+Fees payable for the purposes enumerated in column A of the Table set out hereinunder shall be calculated in
+accordance with the rates specified in Column B of the said table
+TABLE
+A
+B
+1.
+For inspection o a ship made by a radio inspection with a view
+to granting the certificate under subsection (3) of purpose.
+Section 204 of the Merchant Shipping Act, 1958.
+Rs.
+60/- for each visit subject to a maximum Rs. 240 for all visits
+made for the same purpose.
+2.
+For inspection of a ship made by a radio inspector or any other
+officer authorized in this behalf in respect of any other matter
+in connection with a direction finder, on a Written application
+of the owner or master of the ship-
+(a)
+Page 12/13
+----- PAGE 13 -----
+The Merchant shipping (Radio Direction Finders) Rules, 1968.
+in the case of a ship of under 5000 tone gross
+Rs.
+60/- for each visit subject to a maximum Rs. 240 for all visits
+made for the same purpose.
+(b)
+in the case of a ship of under 5000 tone gross or more
+Rs.
+60/- for each visit subject to a maximum for all visits made for
+the same
+Related AI tags, queries and research notes
+Translation
+Page 13/13

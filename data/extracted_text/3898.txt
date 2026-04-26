@@ -1,0 +1,497 @@
+
+----- PAGE 1 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+Andhra Pradesh Electricity Regulatory Commission (Transmission
+Standards of Performance) Regulation, 2007
+Source: https://indiankanoon.org/doc/105757920/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Andhra Pradesh - Act
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) Regulation, 2007
+ANDHRA PRADESH
+India
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) Regulation, 2007
+Regulation 1 of 2006
+Published on 1 January 2006
+Commenced on 1 January 2006
+[This is the version of this document from 1 January 2006.]
+[Note: The original publication document is not available and this content could not be verified.]
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) Regulation, 2007
+(Regulation No. 1 of 2006)
+Last Updated 25th September, 2019
+In exercise of the powers conferred by Sections 181 read with Section 57(1), 57(2) and 86 (1 )(i) of the Electricity Act,
+2003 (36 of 2003), the Andhra Pradesh Electricity Regulatory Commission makes the following Regulation, namely:
+1.
+Short title and Commencement.
+- 1.1 This Regulation may be called the "Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of
+Performance) Regulation, 2007".
+Page 1/10
+----- PAGE 2 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+1.2
+This Regulation shall be applicable to the State Transmission Utility/ Transmission Licensee in the State of Andhra
+Pradesh.
+1.3
+This Regulation extends to the whole of the State of Andhra Pradesh.
+1.4
+This Regulation shall come into force on the date of its publication in the Official Gazette of Andhra Pradesh.
+2.
+Definitions.
+- 2.1 In this Regulation, unless the contest otherwise requires:
+(a)
+"Act" means the Electricity Act, 2003 (Central Act No. 36 of 2003);
+(b)
+"APTRANSCO" means Transmission Corporation of Andhra Pradesh Limited registered under the Companies Act,
+1956;
+(c)
+"CEA" means the Central Electricity Authority;
+(d)
+"Commission" means Andhra Pradesh Electricity Regulatory Commission;
+(e)
+"Consumer" in the context of this Regulation means any person who is provided with the transmission services by the
+transmission licensee and includes any person whose premises are for the time being connected for the purpose of
+providing transmission services from the licensee, and persons who have applied for availing transmission services from
+a transmission licensee.
+(f)
+"EHV/EHT" means Extra High Voltage/Extra High Tension (voltage level above 33,000 volts);
+(g)
+"Grid Code" means the set of principles and guidelines prepared in accordance with the terms of Section 86(1 )(h) of the
+Electricity Act, 2003;
+(h)
+"IEGC" means the Indian Electricity Grid Code approved by Central Electricity Regulatory Commission (CERC) and shall
+include any Grid Code specified by Central Commission under clause (h) of sub-section (1) of Section 79 of the Act;
+(i)
+"PGCIL" means Power Grid Corporation of India Limited, a Central Transmission Utility notified under sub-section (1) of
+Section 38 of the Act;
+(j)
+"Rules" means the India Electricity Rules, 1956 and/or any otherrules made under Act;
+(k)
+"State" means the State of Andhra Pradesh
+(l)
+"State Transmission System" means the system of EHV electric lines and electrical equipment operated and/or
+maintained by State Transmission Utility and/or any Transmission Licensee for the purpose of the transmission of
+electricity among generating stations, ' external interconnections, distribution systems and any other user connected to it
+with in the state of Andhra Pradesh;
+(m)
+"User" means a person including Generating Stations within the State, Transmission Licensees or Distribution Licensees
+within the State and open access customer who use the State Transmission System and who must comply with the
+provisions of the Grid Code.
+2.2
+Words and expressions used but not defined herein shall have the meaning assigned to them in Electricity Act, 2003,
+Indian Electricity Grid Code. Andhra Pradesh Electricity Grid Code and Indian Electricity Rules, 1956.
+Page 2/10
+----- PAGE 3 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+3.
+Objective.
+- This Regulation lays down the performance standards to maintain certain critical grid parameters within the permissible
+limits. These standards shall serve as guidelines for State Transmission Utility (STU)/Transmission Licensee to operate
+the Intra-State Transmission System for providing an efficient, reliable, co-ordinated and economical system of electricity
+supply and transmission. The main objectives of these performance standards are:
+(a)
+To ensure that the grid performance meets minimum standards essential for the Users' system demand and proper
+functioning of equipment;
+(b)
+To enable the Users to design their systems and equipment to suit the electrical environment that they operate in; and
+(c)
+To enhance the quality standards of the State Transmission System in order to move towards standards stipulated in or
+established under the authority of National and State Acts and Rules in the short term and gradually towards the
+international standards in the long term.
+4.
+Standards of Performance.
+- 4.1 The Transmission performance standards are classified under the following two categories:
+(a)
+Mandatory Standards - Those performance standards, the failure to maintain which attracts the provisions of sub-section
+(2) of the Section 57.
+(b)
+Desirable Standards - Those performance standards, which are desirable for providing quality, continuity and reliability
+of services by the Licensees, and though also specified by the Commission do not, unless provided otherwise by the
+Commission from time to time, attract the provisions of subsection (2) of the Section 57.
+4.2
+The following standards are the mandatory standards:
+(a)
+Voltage Variation
+(b)
+Safety Standards
+These are statutory standards to be complied with by the Licensee as per Electricity Rules, 1956 wherever not
+inconsistent with the Act. The new Rules under Section 53 of Act are yet to be issued by the CEA in consultation with
+the State Government. The standards specified in this Regulation shall therefore be revised after new Rules under the
+Act come into effect.
+4.3
+Desirable standards too have been specified herein under Section 86(1 )(i) of the Act, with the main objective of
+providing quality, continuity and reliability of services to the consumers. The Commission shall fix the time-bound
+schedule for implementation/compliance of/with each parameter of these standards. The following standards are
+specified herein as desirable of achievement:
+(a)
+Feeder Availability
+(b)
+Sub-station Availability
+(c)
+Voltage Unbalance
+(d)
+Neutral Voltage Displacement (NVD)
+(e)
+Voltage Variation Index (WI)
+(f)
+Page 3/10
+----- PAGE 4 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+System Adequacy
+(g)
+System Security
+5.
+Phasing of Implementation.
+- 5.1 The performance standards excepting the Mandatory Standards, specified herein shall be implemented in a
+phased manner in three stages as follows:
+(a)
+Preliminary Stage (Level-1): The time period of two (2) years immediately after these standards come into force shall be
+considered as Preliminary State. During this preliminary stage, Standards marked as Level 1 shall be achieved, unless
+specified otherwise.
+(b)
+Transition State (Level-2): Time period spreading up to three (3) years after the Preliminary State shall be considered as
+Transition Stage. During this period, the licensee is expected to upgrade its systems. Standards marked as Level 2 shall
+be achieved during Transition State-, unless specified otherwise.
+(c)
+Final Stage (Level-3): Two years after expiry of the Transition State when substantial improvements should have been
+carried out and the system considered to be in satisfactory condition with necessary capability improvement. Standards
+marked as Level 3 shall be achieved during this Final State.
+5.2
+In all cases, where standards are specified by appropriate authorities, for example Electricity Rules- 1956, such
+standards shall be required to be complied with as specified by that authority, maybe from the preliminary stage itself.
+Standards to be complied with:
+5.3
+The Commission specifies the following standards for STU/ Transmission Licensees:
+(a)
+Voltage Variation:
+(i)
+Voltage Variation is defined as the deviation of the root-mean-square (RMS) value of the voltage from its nominal RMS
+value, expressed in terms of percentage. Voltage Variation may be either of short duration not exceeding one minute or
+of long duration for a time greater than one minute.
+(ii)
+For the purpose of these standards, the sustained variation in steady state voltage exceeding one minute duration shall
+be considered. The specified permissible limits of sustained voltage variation shall not apply in the cases where the
+circumstances are reasonably beyond the control of State Transmission Utility/Transmission Licensee e.g. major
+break-down, grid failures, accidents, system distress conditions, etc.
+(iii)
+State Transmission Utility/ Transmission Licensee shall make all possible efforts to ensure that the grid voltages remain
+within the following voltage levels at all points of its Transmission System:
+Nominal Voltage (kV)
+Maximum Value (kV)
+Minimum Value (kV)
+400
+220
+132
+33
+11*
+420
+245
+145
+35
+Page 4/10
+----- PAGE 5 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+11.67
+360
+200
+120
+30
+10
+* 11 kV voltages to be maintained by the transmission licensee only in those cases where 11 kV supply is extended from
+the EHT substation.
+(b)
+Safety Standards:
+(i)
+State Transmission Utility/ Transmission Licensee shall observe the general safety requirements as laid down in IE
+Rules, 1956, for construction, installation, protection, operation and maintenance of electric supply lines and apparatus.
+(ii)
+Relevant rules under IE Rules, 1956 pertaining to safety standards and practices shall be followed.
+(iii)
+State Transmission Utility/ Transmission Licensee shall develop its own Operation and Maintenance Manual (including
+Safety Regulations) taking into consideration the safety requirements for the construction, operation and maintenance of
+electrical plants and electric lines as many be specified by the Central Electricity Authority under Clause © of Section 73
+read with Section 53 of the Act.
+(c)
+Feeder Availability:
+(i)
+The feeder availability gives the percentage fo time during which the feeder remained available for transmission. Feeder
+Availability shall be calculated based on following formula:
+% Availability of  feeders =| (No of feeders X 8760 - Feeder Annual outages in feeder-hours) X 100Total availability in
+feeder-hours
+Here, total availability in hours is equal to the number of hours in a year i.e. 8670 (Non-leap year)
+(ii)
+The Transmission Licensee shall achieve 99% feeder availability from the preliminary stage itself.
+(d)
+Sub-station Availability:
+(i)
+The sub-station availability expressed in percentage is the measure of the extent the power transmission capacity
+remained available from a sub-section. Sub-station availability shall be calculated based on following formula:
+% Availability of SS =| (Installed in MVA X 8760-Outages in MVA X Hours) X 100Installed capacity in MVA X 8760
+(ii)
+The Transmission Licensee shall achieve 97% Substation availability from the preliminary stage itself.
+(e)
+Voltage Unbalance:
+(i)
+The phase voltages of a 3-phase supply should be equal in magnitude and phase angle. The loads on each phase
+should be balanced. Deviations will result in decreased efficiency, negative torque, vibrations and overheating Severe
+unbalance could lead to malfunctioning of some equipment. The unbalance is computed as follows:
+% Voltage Unbalance  =| Max Deviation from Mean of {VRY, VYB, VBR}X 100{VRY, VYB, VBR}
+Where, VRY is voltage between R & Y phases, VYB is Voltage between Y & B phases and VBR is voltage between B &
+R phases.
+(ii)
+Subject to Distribution Licensee(s) observing the Grid Code Connection Conditions in this regard, the voltage unbalance
+shall not exceed the values given below:
+Implementation Stage
+Page 5/10
+----- PAGE 6 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+Voltage Level
+Limit of voltage Unbalance
+Preliminary
+State-Level 1
+Transition State-Level
+2
+Transition State-Level 2
+220kV and Above
+132kV
+33 kV and 11 kV buses in EHV Substation
+2%
+3%
+3%
+Provided that the above limit for Voltage unbalance at the interconnection point with Distribution System arc subject to
+Distribution Licensee maintaining current nubalance between phases within limit of 3% applied for all feeders of one
+voltage class emanating from a sub-station including railway traction etc. measured at 3 sub-station in a row. The
+Voltage unbalance shall be measured at sub-stations provided with measuring instruments having accuracy class within
+1% limit.
+(f)
+Neutral Voltage Displacement (NVD):
+(i)
+Unbalance in loads on three phases cause shifting of neutral from earth potential. Neutral displacement is applicable for
+transformers with 'Star Point' solidly ground. Under "solidly" grounded conditions, the potential of neutral should be equal
+to earth i.e. zero. But in actual conditions, the earthing of the star point is imperfect and so the star to ground offers small
+resistance. This results in flow of negative sequence currents because Ir + Iy + lb is not equal to zero, where, Ir is the
+current in the R-Phase, ly is the current in the Y-Phase and lb is the current in the B-Phase) through neutral to ground.
+The neutral therefore shifts from earth potential. This performance standard shall be achieved for star point of all EHT
+transformers having 33kV or 1 lkV on the low voltage side.
+(ii)
+Unbalance voltages and displacement of neutral result in decreased efficiency, negative torque, leakage currents,
+vibrations and overheating. Severe unbalance and neutral displacement could lead to malfunctioning of some
+equipment.
+(iii)
+The State Transmission Utility/ Transmission Licensee shall ensure that the neutral point voltage of the transformers
+with respect to earth will not have potential greater than 2% of the no load phase to phase voltage of the transformer.
+(iv)
+This standard shall be implemented in the Preliminary State (Level 1) itself.
+(g)
+Voltage Variation Index (WI): Voltage Variation Index representing the degree of voltage variation from nominal value (in
+%) over a specified period of time shall be computed separately by the State Transmission Utility/Transmission Licensee
+for higher than nominal system voltage and lower than nominal system voltage as per the following formula:
+N
+VVI = Square Root of {| ? (Vt-VN)/N²) X (1000/Vs)%}
+I=1
+Where,
+Vi=RMS value of measured voltage (in kV) at hour in the period for which WI is computed
+Vs=RMS value of the nominal system voltage i.e. 400kV, 220kV and 132kV etc. as may be applicable at the
+interconnection point
+N=Number of hourly measurements over the specified period of time.
+The data from defective metering or any abnormal data shall be discarded from calculations. The VVI shall be computed
+on monthly basis:
+Page 6/10
+----- PAGE 7 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+Preliminary State-Level 1
+= 10
+To be achieved for more than 90% of buses
+Transition stage Level 2
+= 6
+To be achieved for more than 90% of buses
+Final Stage-Level 3
+= 4
+To be achieved for more than 90% of buses
+(h)
+System Adequacy:
+System adequacy is the ability of the electric system to receive the generated power or supply the aggregate electrical
+demand and energy requirements of its consumers at all times, taking into account scheduled and reasonably expected
+unscheduled outage of system elements. Adequacy of the power system is usually measured in terms of Loss from
+calculations. The WI shall be computed on monthly basis:
+Of Load Probability (LOLP) LOLP is the probability of transmission system capacity not being able to meet system load.
+LOLP can also be expressed as Loss Of Load Expectation (LOLE) in hours per year. This measure does not consider
+the amount or duration of the generation capacity shortfall. State Transmission Utility/Transmission Licensee is expected
+to achieve LOLE hours in percentage as under:
+Implementation Stage
+Nos. of hours in year when  system demand
+Loss of Load Expectation
+can be fully met  subject to generation availability  (A)
+can not fully met even with generation  availability (B=8760-A)
+(LOLE) in % of hours  (C=B XI00/8760)
+Preliminary
+State-Level 1
+Transition
+Stage-Level 2
+Final Stage-Level 3
+7446
+7884
+8672.4
+1314
+876
+87.60
+15%
+10%
+1%
+(i)
+System Security:
+Security is the ability of the electric system to withstand sudden disturbance such as electric short circuit or
+unanticipated loss of system element, detailed in clause 6 of "Manual on Transmission Planning Criteria" issued by CEA.
+The State Transmission System shall be designed for a security level of "n-1" i.e. to withstand a single contingency with
+little negative effect. This means the most severe fault or tripping of a critical generator, transformer or line should not
+result in instability of the system, overloading lines and / or transformers for more than 15 minutes, voltage drop of more
+than 10% when the system import is increased by 20%. State Transmission Utility/Transmission Licensee shall maintain
+the system security level of "n-1" (single contingency) plus spinning reserve margin for Steady State Operation.
+Implementation Stage
+System Security Level of "n-1" (Single
+Contingency) plus spinning reserve margin of:
+Page 7/10
+----- PAGE 8 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+Preliminary Stage-Level 1
+Transition Stage-Level 2
+Final Stage-Level 3
+No mandatory
+requirement
+0.5% of system peak
+load
+1% of system peak load
+6.
+Reporting Requirement and Compliance.
+- 6.2 State Transmission Utility/ Transmission Licensee shall furnish to the Commission an half yearly report in the
+format prescribed at ANNECURE-A, by October 31st and April 30"' of each year on actual performance vis-a-vis the
+performance standards laid down in these standards as modified from time to time. The report shall contain all
+parameters irrespective of whether such parameters are applicable during the current reporting period. The State
+Transmission Utility/Transmission Licensee shall maintain the base data like Long Sheet, Complaint Registers and
+Interruption Register and relevant load flow studies in respect of system security etc. at sub-station level for compilation
+of monthly report at circle level. The consolidated report shall be based on circle-wise compilation for whose State
+Transmission Utility/ Transmission Licensee. The circle-wise compilation and base data at sub-station level shall be
+subject to its scrutiny as considered necessary by the Commission.
+6.2
+The Stale Transmission Utility/ Transmission Licensee shall display on their website the actual performance against the
+required standards on a monthly basis.
+6.3
+For the purpose of this Regulation, the half-year periods would be as follows:
+(a)
+lst Half year: Is1 April to 30,h September
+(b)
+2nd Half year: 1st October to March 31M.
+6.4
+The Commission may, from time to time, modify the contents of the regulation/formats or add new regulation/formats for
+additional information.
+6.5
+In addition to the hard copies, the information shall necessarily be submitted in such electronic form or through compact
+disks or e-mail as the Commission may direct.
+6.6
+Effect of default in compliance with the Standards.
+(a)
+Consequent to failure of State Transmission Utility/ Transmission Licensee to meet performance standards specified
+herein, the affected utility/ Consumers shall be entitled to seek relief/compensation from State Transmission Utility/
+Transmission Licensee, as may be determined by the Commission:
+Provided that the STU/Transmission Licensee shall be given an opportunity of being heard before such compensation is
+determined by the Commission.
+Provided further that the compensation so determined shall be payable within 90 days of its determination by the
+Commission:
+Provided also that the payment of compensation by the State Transmission Utility/Transmission Licensee shall be
+without prejudice to any penalty, which may be imposed or prosecution initiated by the Commission as provided in the
+Act.
+(b)
+The Commission at its own discretion may require the State Transmission Utility/ Transmission Licensee to furnish a
+report on actual performance levels maintained against the standards specified by the Commission with its Petitions for
+Annual Revenue Requirement (ARR) and Tariff Determination, which shall be subject to public hearing for tariff setting
+Page 8/10
+----- PAGE 9 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+by the Commission.
+7.
+Miscellaneous.
+- Annual Review of Performance Standards
+7.1
+The Commission in consultation with State Transmission Utility/ Transmission Licensee shall review the performance
+standards for Transmission System as specified above once in every 5 years or more frequently as may be required.
+Use of the Information
+7.2
+The Commission shall have the right to use the information submitted by State Transmission Utility/Transmission
+Licensee as it deems fit including publishing it or placing it on the Commission's website and/or directing the State
+Transmission Utility/ transmission Licensee to display the information in the licensee's website.
+Power to Amend
+7.3
+The Commission may, at any time add, vary alter, modify or amend any provisions of this Regulations.
+Savings
+7.4
+Nothing in this Regulation shall be deemed to limit or otherwise affect the inherent power of the Commission to make
+such orders as may lye necessary to meet the ends of justice or to prevent abuses of the process of the Commission.
+7.5
+Nothing in this Regulation shall bar the Commission from adopting in conformity with the provisions of the Act, a
+procedure, which is at variance with any of the provisions of this Regulation, if the Commission, in view of the special
+circumstances of a matter or class of matters and for reasons to be recorded in writing, deems it necessary or expedient
+for dealing with such a matter or class of matters.
+7.6
+Nothing stated in this Regulation shall, expressly or implicitly, bar the Commission from dealing with any matter or
+exercising any power under the Act for which no Regulation has been framed, and the Commission may deal with such
+matters, powers and functions in a manner it thinks fit.
+Exemption
+7.7
+The Commission may relax adherence to specific performance standard during force Majecure conditions such as war,
+mutiny, civil commotion, riot, flood, cyclone, storm, lightening, earthquake, grid failure, and strike/ curfew, lockout, fire
+affecting the State Transmission Utility's/Transmission Licensee's installations and operation activities.
+7.8
+The Commission under specific circumstances may also relax any provisions of Regulation in general or in specific
+cases for the period(s) specified in its order(s).
+Half Yearly Report on Transmission Performance Standards
+Name of State Transmission Utility/transmission Licensee
+Report for Half
+Year Ending:.......
+Date Of Submission......
+SI. No.
+Category of Standard
+Implementing Stage/level
+Performance Standard(s)
+Measurable Parameter
+Value of Measurable Parameter Specified by
+Commission
+Actual Achievement for half year
+Name of the Parameter
+Value specified
+Page 9/10
+----- PAGE 10 -----
+Andhra Pradesh Electricity Regulatory Commission (Transmission Standards of Performance) R...
+Note. - 1. The State Transmission Utility shall maintain the base data like Log Sheet, Complaint Registers and
+Interruption Register etc. at sub-station level.
+2. For compilation of monthly report at circle level base data of sub-stations shall be used.
+3. The consolidated report for whole State Transmission Utility/Transmission Licensee shall be based on circle-wise
+compilation.
+4. The circle-wise compilation and base data at sub-station level may be subject to Commission scrutiny as may be
+necessary.
+Name of Reporting Officer:
+Designation
+Related AI tags, queries and research notes
+Translation
+Page 10/10

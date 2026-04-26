@@ -1,0 +1,1172 @@
+
+----- PAGE 1 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+Central Electricity Regulatory Commission (Deviation Settlement
+Mechanism and Related Matters) Regulations, 2014
+Source: https://indiankanoon.org/doc/60351562/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matters) Regulations, 2014
+UNION OF INDIA
+India
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matters) Regulations, 2014
+Rule
+CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-DEVIATION-SETTLEMENT-MECHANISM-AND-RELATED-M
+ATTERS-REGULATIONS-2014 of 2014
+Published on 6 January 2014
+Commenced on 6 January 2014
+[This is the version of this document from 6 January 2014.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matters) Regulations, 2014
+Published vide Notification No.L-1/132/2013/CERC, dated 6.1.2014
+Last Updated 21st September, 2019
+No.L-1/132/2013/CERC. - In exercise of the powers conferred under Section 178 of the Electricity Act, 2003 (
+36 of 2003
+), and all other powers enabling it in this behalf, and after previous publication, the Central Electricity Regulatory
+Commission hereby makes the following regulations, namely: -
+Page 1/22
+----- PAGE 2 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Central Electricity Regulatory Commission (Deviation Settlement Mechanism and
+Related Matters) Regulations, 2014.
+(2)
+These regulations shall come into force on 17.2.2014.
+2.
+Definitions and Interpretation.
+(1)
+In these regulations, unless the context otherwise requires, -
+(a)
+'Act' means the Electricity Act, 2003 (
+36 of 2003
+);
+(aa)
+[ 'Absolute Error' shall mean the absolute value of the error in the actual generation of wind or solar generators which
+are regional entities with reference to the scheduled generation and the 'Available Capacity' (AvC), as calculated using
+the following formula for each 15 minute time block:
+[Added by Notification No. 1/14/2015-Reg. Aff. (FSDS) (ii)CERC, dated 7.8.2015 (w.e.f. 6.1.2014).]
+Error (%) = 100 X [Actual Generation– Scheduled Generation] / (AvC)]
+(b)
+'actual drawal' in a time-block means electricity drawn by a buyer, as the case may be, measured by the interface
+meters;
+(c)
+'actual injection' in a time-block means electricity generated or supplied by the seller, as the case may be, measured by
+the Interface meters;
+(ca)
+[ Area Clearing Price (ACP)' means the price of a time block electricity contract established on the Power Exchange
+after considering all valid purchase and sale bids in particular area(s) after market splitting, i.e. dividing the market
+across constrained transmission corridor(s).]
+[Added by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(d)
+'beneficiary' means a person purchasing electricity generated from a generating station;
+(e)
+'buyer' means a person, including beneficiary, purchasing electricity through a transaction scheduled in accordance with
+the regulations applicable for short-term open access, medium-term open access and long-term access;
+(f)
+'Connectivity Regulations' means the Central Electricity Regulatory Commission (Grant of Connectivity, Long Term
+Access and Medium Term Access in Inter-State Transmission) Regulations, 2009 as amended from time to time and
+shall include any subsequent amendment thereof.
+(g)
+'Commission' means the Central Electricity Regulatory Commission referred to in sub-section (1) of section 76 of the
+Act;
+(ga)
+[ 'Day Ahead Market (DAM)' means a market where physical delivery of electricity occurs on the next day (T+1) of the
+date of transaction (T) and is governed by the Central Electricity Regulatory Commission (Power Market) Regulations,
+2010 (as amended from time to time), the Rules and Bye- Laws of the Power Exchanges as approved by the
+Commission.]
+[Added by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(gb)
+Page 2/22
+----- PAGE 3 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+[ "Daily Base DSM Charge" means the sum of charges for deviations for all time blocks in a day payable or receivable as
+the case may be, excluding the additional charges under Regulation 7]
+[Added by Notification No. L-1/132/2013-CERC, dated 28.5.2019.]
+.
+(h)
+'Deviation' in a time-block for a seller means its total actual injection minus its total scheduled generation and for a buyer
+means its total actual drawal minus its total scheduled drawal.
+[Provided that deviation shall be calculated for the Regional Entities by the concerned RLDC/RPC which shall be
+attributed to various entities embedded within the State by SLDC.]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+(i)
+'gaming' in relation to these regulations, shall mean an intentional mis-declaration of declared capacity by any seller in
+order to make an undue commercial gain through Charge for Deviations;
+(j)
+'Grid Code' means the Grid Code specified by the Commission under clause (h) of sub-section (1) of Section 79 of the
+Act.
+(k)
+'interface meters' means interface meters as defined by the Central Electricity Authority under the Central Electricity
+Authority (Installation and Operation of Meters) Regulations, 2006, as amended from time to time.
+(l)
+'Load Despatch Centre' means National Load Despatch Centre, Regional Load Despatch Centre or State Load
+Despatch Centre, as the case may be, responsible for coordinating scheduling of the buyers and the sellers in
+accordance with the provisions of Grid Code;
+(m)
+'Open Access Regulations' means the Central Electricity Regulatory Commission (Open Access in Inter-State
+Transmission) Regulations, 2008 as amended from time to time and shall include any subsequent amendment thereof.
+[(m-i) Renewable Rich State means a State whose minimum combined installed capacity of wind and solar power is
+1000 MW or more.
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Note: Combined installed capacity shall be reckoned on the basis of the capacity installed as on the last day of the
+month for the purpose of deciding the installed capacity for the next month.]
+(n)
+'Scheduled generation' at any time or for a time block or any period means schedule of generation in MW or MWh
+ex-bus given by the concerned Load Despatch Centre;
+(o)
+'Scheduled drawal' at any time or for a time block or any period time block means schedule of despatch in MW or MWh
+ex-bus given by the concerned Load Despatch Centre;
+(p)
+'seller' means a person, including a generating station, supplying electricity through a transaction scheduled in
+accordance with the regulations applicable for short-term open access, medium-term open access and long-term
+access;
+(q)
+[ 'Time Block' means the time block as defined in the CERC (Indian Electricity Grid Code) Regulations, 2010 as
+amended from time to time]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(qa)
+[ "Time Block DSM Charge" means the charge for deviation for the specific time block in a day payable or receivable as
+the case may be, excluding the additional charges under Regulation 7]
+[Added by Notification No. L-1/132/2013-CERC, dated 28.5.2019.]
+.
+(r)
+Page 3/22
+----- PAGE 4 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+['Available Capacity (AvC)' for wind or solar generators which are regional entities is the cumulative capacity rating of the
+wind turbines or solar inverters that are capable of generating power in a given time-block.]
+[Added by Notification No. 1/14/2015-Reg. Aff. (FSDS) (ii)CERC, dated 7.8.2015 (w.e.f. 6.1.2014).]
+(2)
+Save as aforesaid and unless repugnant to the context or the subject-matter otherwise requires, words and expressions
+used in these regulations and not defined, but defined in the Act, or the Grid Code or any other regulations of this
+Commission shall have the meaning assigned to them respectively in the Act or the Grid Code or any other regulation.
+3.
+Objective.
+- The objective of these regulations is to maintain grid discipline and grid security as envisaged under the Grid Code
+through the commercial mechanism for Deviation Settlement through drawal and injection of electricity by the users of
+the grid.
+4.
+Scope.
+- These regulations shall be applicable to sellers and buyers involved in the transactions facilitated through short-term
+open access or medium-term open access or long-term access in inter-State transmission of electricity.
+5.
+Charges for Deviations.
+(1)
+The charges for the Deviations for all the time-blocks shall be payable for over drawal by the buyer and under-injection
+by the seller and receivable for under-drawal by the buyer [and over-injection by the seller, except for wind and solar
+generators which are regional entities, and shall be worked out on the average frequency of a time-block at the rates
+specified in the table below as per the methodology specified in clause (2) of this regulation]
+[Substituted 'and over-injection by the seller and shall be worked out on the average frequency of a time-block at the
+rates specified in the table below as per the methodology specified in clause (2) of this regulation' by Notification No.
+1/14/2015-Reg. Aff. (FSDS) (ii)CERC, dated 7.8.2015 (w.e.f. 6.1.2014).]
+:
+[Average Frequency of the time block(Hz)
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+Charges for Deviation (Paise/k Wh)
+Below
+Not Below
+50.05
+0.0
+50.05
+50.04
+Slope determined by joining the price at Not
+Below 50.05 Hz and identified price at 50.00 Hz, and as detailed
+in the note below this Regulation
+50.04
+50.03
+50.03
+50.02
+50.02
+50.01
+50.01
+50.00
+Daily (simple) average Area Clearing Price
+discovered in the Day Ahead Market segment of power exchange
+50.00
+49.99
+Page 4/22
+----- PAGE 5 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+Slope determined by joining the price
+identified at 50.00 Hz and price at below 49.85 Hz, and as
+detailed in the note below this Regulation
+49.99
+49.98
+49.98
+49.97
+49.97
+49.96
+49.96
+49.95
+49.95
+49.94
+49.94
+49.93
+49.93
+49.92
+49.92
+49.91
+49.91
+49.90
+49.90
+49.89
+49.89
+49.88
+49.88
+49.87
+49.87
+49.86
+49.86
+49.85
+49.85
+800.00
+Note. - i. The Deviation Settlement Mechanism (DSM) rate vector will have a dynamic slope determined by joining the
+identified price points at 50 Hz. (daily simple average ACP), frequency of 49.85 Hz (Rs. 8 per unit) and 50.05 Hz (zero)
+on a daily basis.
+ii. The maximum ceiling limit applicable for average Daily ACP discovered in the DAM segment of Power Exchange at
+50.00 Hz shall be 800 Paise/kWh.
+iii. Charges for deviation for each 0.01 Hz step shall be equivalent to the Slope determined by joining the price at 'Not
+below 50.05 Hz' and 'identified price at 50.00 Hz' in the frequency range of 50.05-50.00 Hz, and to the Slope determined
+by joining the 'price identified at 50.00 Hz' and price at 'below 49.85 Hz' in frequency range 'below 50 Hz' to 'below 49.85
+Hz'.
+iv. The daily simple average ACP of the Power Exchange having a market share of 80% or more in energy terms on a
+daily basis shall be taken into consideration for linking to the DSM price vector. If no single Power Exchange is having a
+market share of 80% or more, the weighted average day-ahead price shall be used for linking to the DSM price.
+v. Daily simple average Area Clearing Prices (ACP) in the day-ahead market (exclusive of any transmission charges and
+transmission losses) shall be used as the basis for market linked DSM price at 50 Hz.
+Provided that based on a review of the above mechanism within one year or in such time period as may be decided by
+the Commission, if the Commission is satisfied that the market conditions permit, the basis for market linked DSM price
+shall be substituted, by the time-block-wise ACP in the day ahead market or as and when the real time market is
+introduced, by the hourly ACP or the ACP of such periodicity as may be considered appropriate by the Commission.
+Page 5/22
+----- PAGE 6 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+vi. In case of non-availability of daily simple average ACP due to no-trade on a given day, daily simple average ACP of
+the last available day shall be considered for determining the DSM charge.
+vii. Deviation price shall be rounded off to nearest two decimal places.
+viii. An illustration to the DSM price vector specified in table above, is provided as Annexure-I
+ix. The National Load Despatch Centre (NLDC) shall act as the Nodal Agency to declare the daily DSM rates and shall
+display all relevant information on its website.]
+(Charges for deviation for each 0.01 Hz step is equivalent to 35.60 Paise/kWh in the frequency range of 50.05-50.00 Hz,
+and 20.84 Paise/kWh in frequency range 'below 50 Hz' to 'below 49.70 Hz')
+Provided that -
+(i)
+[ the charges for the deviation for the generating stations whose tariff is determined by the Commission, when actual
+injection is higher or lower than the scheduled generation, shall not exceed the Cap Rate as per the methodology
+specified in clause (3) of Regulation 5 of the Principal Regulations.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(ii)
+[ the charges for the deviation for the generating stations other than those covered under proviso (i) of this Regulation,
+irrespective of the fuel source, when actual injection is higher or lower than the scheduled generation, shall not exceed
+the Cap Rate of 303.04 Paise/kWh.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(iii)
+[The charges for the deviation for under-drawals by the buyer (except Renewable Rich State) in a time block in excess
+of 12% of the schedule or 150 MW, whichever is less, shall be zero.
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Provided that in case schedule of a buyer (except Renewable Rich State) in a time block is less than or equal to 400
+MW, the charges for the deviation for the under-drawal in excess of 48 MW shall be zero:
+Provided further that Deviation for the under-drawal by the Renewable Rich State in excess of the limits specified in
+Annexure-III shall be zero.]
+(iv)
+[The charges for the deviation for the over-injection by the seller (except Renewable Rich State) in a time block in
+excess of 12% of the schedule or 150 MW, whichever is less, shall be zero, except in case of injection of infirm power,
+which shall be governed by clause (5) of this regulation:
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Provided that in case schedule of a seller (except Renewable Rich State) in a time block is less than or equal to 400
+MW, the charges for the deviation for the over-injection in excess of 48 MW shall be zero:
+Provided further that charges for deviation for over-injection by a Renewable Rich State in a time block in excess of
+limits as specified in Annexure-III shall be zero.
+Provided also that charges for deviation for wind and solar generators which are regional entities, shall be governed by
+sub-clauses (v) to (vii) of this regulation.]
+(v)
+[ The wind or solar generators which are regional entities shall be paid as per schedule. In the event of actual generation
+being less than the scheduled generation, the deviation charges for shortfall in generation shall be payable by such wind
+or solar generator to the Regional DSM Pool as given in Table – 1 below:
+[Added by Notification No. 1/14/2015-Reg. Aff. (FSDS) (ii)CERC, dated 7.8.2015 (w.e.f. 6.1.2014).]
+Table – I: Deviation Charges in case of under injection
+Sr. No.
+Absolute Error in the 15-minute time block
+Deviation Charges payable to Regional DSM Pool
+1
+< = 15%
+At the Fixed Rate for the shortfall energy for
+absolute error upto 15%
+Page 6/22
+----- PAGE 7 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+2
+>15% but <= 25%
+At the Fixed Rate for the shortfall energy for
+absolute error upto 15% + 110% of the Fixed Rate for balance
+energy beyond 15% and upto 25%
+3
+>25% but <=35%
+At the Fixed Rate for the shortfall energy for
+absolute error upto 15% + 110% of the Fixed Rate for balance
+energy beyond 15% and upto 25%+ 120% of the Fixed Rate for
+balance energy beyond 25% and upto 35%
+4
+> 35%
+At the Fixed Rate for the shortfall energy for
+absolute error upto 15%+ 110% of the Fixed Rate for balance
+energy beyond 15% and upto 25%+ 120% of the Fixed Rate for
+balance energy beyond 25% and upto 35%+ 130% of the Fixed Rate
+for balance energy beyond 35%
+Where the Fixed Rate is the PPA rate as determined by the Commission under section 62 of the Act or adopted by the
+Commission under section 63 of the Act.In case of multiple PPAs, the weighted average of the PPA rates shall be taken
+as the Fixed Rate. The wind and solar generators shall furnish the PPA rates on affidavit for the purpose of Deviation
+charge account preparation to respective RPC supported by copy of the PPA.
+Fixed Rate for Open Access participants selling power which is not accounted for RPO compliance of the buyer, and the
+captive wind or solar plants shall be the Average Power Purchase Cost (APPC) rate at the National level,as may be
+determined by the Commission from time to time through a separate order. A copy of the order shall be endorsed to all
+RPCs.
+(vi)
+The wind or solar generators which are regional entities shall be paid as per schedule. In the event of the actual
+generation being more than the scheduled generation, the Deviation Charges for excess generation shall be payable to
+the wind or solar generators which are regional entities from the Regional DSM Pool as given in Table – II below:
+Table – II: Deviation Charges in case of over injection
+Sr. No.
+Absolute Error in the 15-minute time block
+Deviation Charges payable
+1
+< = 15%
+At the Fixed Rate for excess energy upto 15%
+2
+>15% but <= 25%
+At the Fixed Rate for excess energy upto 15%+
+90% of the Fixed Rate for excess energy beyond 15% and upto 25%
+3
+>25% but <=35%
+At the Fixed Rate for excess energy upto 15%+
+90% of the Fixed Rate for excess energy beyond 15% and upto 25%+
+80% of the Fixed Rate for excess energy beyond 25% and upto 35%
+4
+> 35%
+At the Fixed Rate for excess energy upto 15%+
+90% of the Fixed Rate for excess energy beyond 15% and upto 25%+
+80% of the Fixed Rate for excess energy beyond 25% and upto 35%+
+Page 7/22
+----- PAGE 8 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+70% of the Fixed Rate for excess energy beyond 35%
+Where the Fixed Rate is the PPA rate as determined by the Commission under section 62 of the Act or adopted by the
+Commission under section 63 of the Act.In case of multiple PPAs, the weighted average of the PPA rates shall be taken
+as the Fixed Rate. The wind and solar generators shall furnish the PPA rates on affidavit for the purpose of Deviation
+charge account preparation to respective RPC supported by copy of the PPA.
+Fixed Rate for Open access participants selling power which is not accounted for RPO compliance of the buyer, and the
+captive wind or solar plants shall be the Average Power Purchase Cost (APPC) rate at the National level, as may be
+determined by the Commission from time to time through a separate order.A copy of the order shall be endorsed to all
+RPCs.
+(vii)
+In reference to clauses (v) and (vi) of this Regulation, for balancing of deemed renewable purchase obligation (RPO)
+compliance of buyers with respect to schedule, deviations by all wind and solar generators which are regional entities
+shall first be netted off for the entire pool on a monthly basis and any remaining shortfall in renewable energy generation
+must be balanced through purchase of equivalent solar and non-solar Renewable Energy Certificates (RECs), as the
+case may be, by NLDC by utilising funds from the Pool Account.For positive balance of renewable energy generation,
+equivalent notional RECs shall be credited to the DSM Pool and carried forward for settlement in future.]
+(2)
+[The Charge for Deviation, except for wind and solar generators which are regional entities, shall be determined in
+accordance with the following methodology]
+[Substituted 'The Charge for Deviation shall be determined in accordance with the following methodology' by Notification
+No. 1/14/2015-Reg. Aff. (FSDS) (ii)CERC, dated 7.8.2015 (w.e.f. 6.1.2014).]
+:
+(a)
+The Charge for Deviation shall be zero at grid frequency of 50.05 Hz and above.
+(b)
+[ The Charge for Deviation corresponding to grid frequency interval of 'below 50.01 Hz and not below 50.0 Hz' shall be
+daily average Area Clearing Price discovered in the Day-Ahead Market (DAM) segment of Power Exchange. The daily
+simple average ACP of the Power Exchange having a market share of 80% or more in energy terms on a daily basis
+shall be used for linking to the DSM price. If no single Power Exchange is having a market share of 80% or more, the
+weighted average daily simple average ACP shall be considered]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(c)
+The Deviation Price Vectors shall accordingly, be in steps for a frequency interval of 0.01 Hz between grid frequency of
+(i) 50.05 Hz and 'below 50.01 Hz and not below 50.0 Hz' and (ii) 'below 50.01 Hz and not below 50.0 Hz' and '[below
+49.85 Hz]
+[Substituted 'below 49.70 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+.
+(d)
+[ The Charge for Deviation at grid frequency 'below 49.85 Hz' shall be 800 Paise/KWh.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(e)
+[ The charges for inter-regional deviation and for deviation in respect of cross-border transactions shall be computed on
+the basis of the unconstrained market clearing price in Day Ahead Market.
+[Inserted by Notification No. L-1/132/2013-CERC, dated 28.5.2019.]
+(f)
+The charges for deviation in respect of an entity falling in different bid areas, shall be computed on the basis of the daily
+average ACP of the bid area in which such entity has largest proportion of its demand.]
+(3)
+[ The Cap rate for the charges for deviation for the generating stations, irrespective of the fuel type and whether the tariff
+of such generating station is regulated by the Commission or not, shall not exceed 303.04 Paise/kWh.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 28.5.2019.]
+Page 8/22
+----- PAGE 9 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+(4)
+[ The linkage of deviation charges to frequency may be reviewed by the Commission, keeping in view the changing
+power market conditions.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+(5)
+The infirm power injected into the grid by a generating unit of a generating station during the testing, prior to COD of the
+unit shall be paid at Charges for Deviation for infirm power injected into the grid, consequent to testing, for a period not
+exceeding 6 months or the extended time allowed by the Commission in the Central Electricity Regulatory Commission
+(Grant of Connectivity, Long-term Access and Medium-term Open Access and related matters) Regulations, 2009, as
+amended from time to time, subject to ceiling of Cap rates corresponding to the main fuel used for such injection as
+specified below:
+Domestic coal/ Lignite/Hydro
+L1.78 / kWh sent out
+APM gas as fuel
+L2.82/ kWh sent out
+up to 31.3.2014 and thereafter,
+L5.64/ kWh sent out
+Imported Coal
+L3.03 / kWh sent out
+[RLNG
+[Substituted 'RLNG Rs 8.24 / kWh sent out' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+L8.00 / kWh sent out]
+(6)
+Charges for Deviation of Inter-regional Exchange between the two asynchronously inter-connected Regions shall be
+computed by the respective Regional Power Committee, based on Charges for Deviation as per the frequency of the
+respective Region. The amount to be settled for the inter-regional exchanges shall be average of the Charges for
+Deviation computed for the two regions by way of such inter-change.
+6.
+Declaration, scheduling and elimination of gaming.
+(1)
+The provisions of the Grid Code and the Central Electricity Regulatory Commission (Open Access in inter- State
+Transmission) Regulations, 2008, as amended from time to time, shall be applicable for declaration of capacity,
+scheduling and elimination of gaming.
+(2)
+The generating station, as far as possible, shall generate electricity as per the day-ahead generation schedule finalized
+by the Regional Load Despatch Centre in accordance with the Grid Code:
+Provided that the revision in generation schedule on the day of operation shall be permitted, in accordance with the
+procedure specified under the Grid Code and Central Electricity Regulatory Commission (Open Access in inter-State
+Transmission) Regulations, 2008, as the case may be.
+(3)
+The Commission, either suo motu or on a petition made by RLDC, or any affected party, may initiate proceedings
+against any generating company or seller on charges of gaming and if required, may order an inquiry in such manner as
+decided by the Commission. When the charge of gaming is established in the above inquiry, the Commission may,
+without prejudice to any other action under the Act or regulations thereunder, disallow any Charges for Deviation
+received by such generating company or the seller during the period of such gaming."
+7.
+Limits on Deviation volume and consequences of crossing limits.
+(1)
+The over-drawals / under drawals of electricity by any buyer [(except Renewable Rich States)]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+during a time block shall not exceed 12% of its scheduled drawal or 150 MW, whichever is lower, when grid frequency is
+Page 9/22
+----- PAGE 10 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+[49.85 Hz and above and below 50.05 Hz]
+[Substituted '49.70 Hz and above and below 50.10 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f.
+6.1.2014).]
+:
+[[***]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+]
+Provided that no over drawal of electricity by any buyer [(except Renewable Rich States)]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+shall be permissible when grid frequency is [49.85 Hz and above and below 50.05 Hz]
+[Substituted '49.70 Hz and above and below 50.10 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f.
+6.1.2014).]
+.
+[Provided also that from a date not earlier than one year as may be notified by the Commission, the total deviation from
+schedule in energy terms during a day shall not be in excess of 3% of the total schedule for the drawee entities and 1%
+for the generators and additional charge of 20% of the daily base DSM payable / receivable shall be applicable in case
+of said violation.]
+[Added by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+[***]
+[Deleted 'Proviso' by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Explanation. - The limits specified in this clause shall apply to the sum total of over-drawal [/under-drawal]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+by all the intra-State entities in the State including the distribution companies and other intra-State buyers, and shall be
+applicable at the inter-State boundary of the respective State.
+(2)
+[ The under-injection / over-injection of electricity shall not exceed following when grid frequency is [49.85 Hz and above
+and below 50.05 Hz]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+:
+(a)
+12% of the scheduled injection or 150 MW, whichever is lower for a seller (except Renewable Rich State).
+(b)
+Limits as specified in Annexure-III for Renewable Rich State.
+Provided that -
+(i)
+In case schedule of a seller, in a time block, is less than or equal to 400 MW, under-injection / over-injection in a
+time-block shall not exceed 48 MW, when grid frequency is [49.85 Hz and above and below 50.05 Hz]
+[Substituted '49.70 Hz and above and below 50.10 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f.
+6.1.2014).]
+(ii)
+Provided that the limits on deviation volume and consequences for crossing these limits (including the additional
+charges for deviation) as stipulated under Regulation 7 shall not apply to wind and solar generators which are regional
+entities.
+(iii)
+No under injection of electricity by a seller shall be permissible when grid frequency is [below 49.85 Hz]
+[Substituted 'below 49.70 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+and no over injection of electricity by a seller shall be permissible when grid frequency is [50.05 Hz and above]
+[Substituted '50.10 Hz and above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+.
+(iv)
+Any infirm injection of power by a generating station prior to COD of a unit during testing and commissioning activities
+Page 10/22
+----- PAGE 11 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+shall be exempted from the volume limit specified above for a period not exceeding 6 months or the extended time
+allowed by the Commission in accordance with Connectivity Regulations.
+(v)
+Any drawal of power by a generating station prior to COD of a unit for the start up activities shall be exempted from the
+volume limit specified above when grid frequency is [49.85 Hz and above]
+[Substituted '49.70 Hz and above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+]
+(3)
+In addition to Charges for Deviation as stipulated under Regulation 5 of these regulations, Additional Charge for
+Deviation shall be applicable for over-drawal as well as under-injection of electricity for each time block in excess of the
+volume limit specified in Clause (1) and (2) of this regulation when average grid frequency of the time block is [49.85 Hz
+and above]
+[Substituted '49.70 Hz and above ' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+at the rates specified in the table A & B below in accordance with the methodology specified in clause (7)of this
+regulation:
+[Table-I - for seller/buyer (except Renewable Rich State)]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+When 12% of Schedule is less than or equal to 150
+MW
+(i)
+For over drawal of electricity by any buyer in
+excess of 12% and up to 15% of the schedule in a time block
+Equivalent to 20% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(ii)
+For over drawal of electricity by any buyer in
+excess of 15 % and up to 20% of the schedule in a time block
+Equivalent to 40% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(iii)
+For over drawal of electricity by any buyer in
+excess of 20 % of the schedule in a time block
+Equivalent to 100% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(iv)
+For under injection of electricity by any seller
+in excess of 12% and up to 15% of the schedule in a time block
+Equivalent to 20% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(v)
+For under injection of electricity by any seller
+in excess of 15 % and up to 20% of the schedule in a time block
+Equivalent to 40% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(vi)
+For under injection of electricity by any seller
+in excess of 20 % of the schedule in a time block
+Equivalent to 100% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+B
+When 12% of Schedule is more than 150 MW
+Page 11/22
+----- PAGE 12 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+(i)
+For over drawal of electricity by any buyer is
+above 150 MW and up to 200 MW in a time block
+Equivalent to 20% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(ii)
+For over drawal of electricity by any buyer is
+above 200 MW and up to 250 MW in a time block
+Equivalent to 40% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(iii)
+For over drawal of electricity by any buyer is
+above 250 MW in a time block
+Equivalent to 100% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(iv)
+For under injection of electricity by any seller
+is above 150 MW and up to 200 MW in a time block
+Equivalent to 20% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(v)
+For under injection of electricity by any seller
+is above 200 MW and up to 250 MW in a time block
+Equivalent to 40% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(vi)
+For under injection of electricity by any seller
+is above 250 MW in a time block
+Equivalent to 100% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+Table-II
+When 12% of Schedule is less than or equal to 150
+MW
+(i)
+For under injection of electricity by any seller
+in excess of 12% and up to 15% of the schedule
+Equivalent to 20% of the[[Cap Rate for Deviation of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+] or the Charge for Deviation corresponding to
+average grid frequency of the time block, whichever is less.
+(ii)
+For under injection of electricity by any seller
+in excess of 15 % and up to 20% of the schedule
+Equivalent to 40% of the[[Cap Rate for Deviation of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+]  or the Charge for Deviation corresponding to
+average grid frequency of the time block, whichever is less.
+(iii)
+For under injection of electricity by any seller
+Page 12/22
+----- PAGE 13 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+in excess of 20 % of the schedule
+Equivalent to 100% of the[[Cap Rate for Deviation of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+]  or the Charge for Deviation
+corresponding to average grid frequency of the time block,
+whichever is less.
+B
+When 12% of Schedule is more than 150 MW
+(i)
+For under injection of electricity by any seller
+is above 150 MW and up to 200 MW in a time block
+Equivalent to 20% of the[[Cap Rate for Deviation of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+]  or the Charge for Deviation corresponding to
+average grid frequency of the time block, whichever is less.
+(ii)
+For under injection of electricity by any seller
+is above 200 MW and up to 250 MW in a time block
+Equivalent to 40% of the[[Cap Rate for Deviation of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+] or the Charge for Deviation corresponding to
+average grid frequency of the time block, whichever is less.
+(iii)
+For under injection of electricity by any seller
+is above 250 MW in a time block
+Equivalent to 100% of the[[Cap Rate for Deviation of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+] or the Charge for Deviation
+corresponding to average grid frequency of the time block,
+whichever is less.
+[Provided that when the schedule is less than or equal to 400 MW, the additional charges for deviation shall be based on
+percentage of deviation worked out with reference to schedule of 400 MW as per Table-I and Table-II above.]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+[Table III: For a Renewable Rich State]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+(i)
+For over-drawal/under-injection of electricity
+above L MW and up to L+50 MW in a time block
+Equivalent to 20% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(ii)
+For over-drawal / under-injection of electricity
+above L+50 MW and up to L+100 MW in a time block
+Equivalent to 40% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+(iii)
+For over-drawal / under-injection of electricity
+Page 13/22
+----- PAGE 14 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+above L+100 MW in a time block
+Equivalent to 100% of the Charge for Deviation
+corresponding to average grid frequency of the time block.
+Note: "L" shall be as specified in Annexure-III of the these Regulations.
+Provided that -
+(i)
+Additional Charge for Deviation for under-injection of electricity, during a time-block in excess of the volume limit
+specified in clause (1) and (2) of this regulation when grid frequency is [49.85 Hz and above]
+[Substituted '49.70 Hz and above ' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+, by the generating stations regulated by the CERC using coal or lignite or gas supplied under Administered Price
+Mechanism (APM) as the fuel shall be at the rates specified below in accordance with the methodology specified in
+clause (9) of this regulation:
+(ii)
+Any drawal of power by a generating station prior to COD of a unit for the start up activities shall be exempted from the
+levy of additional Charges of Deviation.
+(4)
+[ In addition to Charges for Deviation as stipulated under Regulation 5 of these regulations, Additional Charge for
+Deviation shall be applicable for over-injection/under-drawal of electricity for each time block by a buyer/seller as the
+case may be when grid frequency is 50.10 Hz and above’ at the rates equivalent to charges of deviation corresponding
+to the grid frequency of 'below 50.01 Hz but not below 50.0 Hz', or cap rate for deviation of 303.04 Paise/kWh whichever
+is lower.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 28.5.2019.]
+(5)
+Methodologies for the computation of Charges for Deviation and Additional Charges for deviation for each regional entity
+for crossing the volume limits specified for the under-drawal /over-injection and for over-drawal and under-injection in
+clause (3) of this regulation shall be as per [Annexure I, Annexure I-A and Annexure-II, Annexure-II-A]
+[Replaced 'Annexure-I and II' by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+of these Regulations respectively.
+(6)
+In addition to Charges for Deviation as stipulated under Regulation 5 of these Regulations, Additional Charge for
+Deviation shall be applicable for over-drawal or under-injection of electricity when grid frequency is [below 49.85 Hz in
+accordance with the methodology specified in clause (8) of this regulation and the same shall be equivalent to 100% of
+the Charge for Deviation of 800 Paise / kWh corresponding to the grid frequency of 'below 49.85 Hz']
+[Substituted ''below 49.70 Hz' in accordance with the methodology specified in clause (8) of this regulation and the same
+shall be equivalent to 100% of the Charge for Deviation of 824.04 Paise/kWh corresponding to the grid frequency of
+'below 49.70 Hz'' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+.
+Provided further that Additional Charge for Deviation for under-injection of electricity by a seller, during the time-block
+when grid frequency is [below 49.85 Hz]
+[Substituted 'below 49.70 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+, by the generating stations regulated by CERC using coal or lignite or gas supplied under Administered Price
+Mechanism (APM) as the fuel in accordance with the methodology specified in clause 8 of this regulation shall be
+equivalent to 100% of the [[Cap Rate of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+].
+Explanation. - Additional Charges for Deviation shall not be applicable for net over drawls by a region as a whole from
+other regions.
+(7)
+The Additional Charge for Deviation for over-drawal and under-injection of electricity for each time block in excess of the
+volume limit specified in clause (1) and (2) of this Regulation when grid frequency is [49.85 Hz and above]
+Page 14/22
+----- PAGE 15 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+[Substituted '49.70 Hz and above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+shall be as specified by the Commission as a percentage of the charges for the Deviation corresponding to average grid
+frequency of the time block with due consideration to the behaviour of the buyers and sellers towards grid discipline:
+Provided that the Commission may specify different rates for additional Charges for Deviation for over drawals and
+under injections depending upon different % deviation from the schedule in excess of the volume limit specified in clause
+(1) and (2) of this Regulation.
+(8)
+The additional Charge for Deviation for over-drawals and under-injection of electricity for each time block when grid
+frequency is [below 49.85 Hz]
+[Substituted 'below 49.70 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+shall be as specified by the Commission as a percentage of the charges for the Deviation corresponding to average grid
+frequency of the time block with due consideration to the behaviour of the buyers and sellers towards grid discipline:
+Provided that the Commission may specify different rates for Additional Charges for Deviation for over drawls and under
+injections and for different ranges of frequencies [below 49.85 Hz]
+[Substituted 'below 49.70 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+.
+(9)
+The Additional Charge for Deviation for under-injection of electricity during the time-block in excess of the volume limit
+specified in Clause (2) of this regulation when grid frequency is [49.85 Hz and above]
+[Substituted '49.70 Hz and above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+, by the generating stations regulated by CERC using coal/ lignite or gas supplied under Administered Price Mechanism
+(APM) as the fuel shall be as specified by the Commission as a percentage of the Cap Rate or the Charges for
+Deviation corresponding to the grid frequency of the time block, or both with due consideration to the behaviour of the
+generating stations regulated by CERC towards grid discipline:
+[[(10) In the event of sustained deviation from schedule in one direction (positive or negative) by any regional entity
+(buyer or seller), such entity shall correct its position in the manner as specified under clauses (a) and (b) of this
+Regulation.
+(a)
+For the period up to 31.03.2020: If the sustained deviation from schedule continues in one direction (positive or
+negative) for 12 time blocks, the regional entity (buyer or seller), shall correct its position by making the sign of its
+deviation from schedule changed or by remaining in the range of +/- 20 MW with reference to its schedule, at least once,
+latest by 13th time block, such range being a subset of volume limit as specified under Regulations 7(1) & 7(2) of these
+Regulations.
+Provided that each violation of the requirement under this clause shall attract an additional charge of 10% of the time
+block DSM charge payable or receivable as the case may be.
+(b)
+For the period from 01.04.2020: If the sustained deviation from schedule continues in one direction (positive or negative)
+for 6 time blocks, the regional entity (buyer or seller), shall correct its position, by making the sign of its deviation from
+schedule changed or by remaining in the range of +/- 20 MW with reference to its schedule, at least once, latest by 7th
+time block such range being a subset of volume limit as specified under Regulations 7(1) & 7(2) of these Regulations.
+Provided that violation of the requirement under clause (b) of this Regulation shall attract an additional charge as
+specified in the table below:
+No. of violations in a Day
+Additional Charge Payable
+From first to fifth violation
+For each violation, an additional charge @ 3% of
+daily base DSM charge payable or receivable
+From sixth to tenth violation
+For each violation, an additional charge @ 5% of
+daily base DSM charge payable or receivable
+From eleventh violation onwards
+Page 15/22
+----- PAGE 16 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+For each violation, an additional charge @ 10%
+of daily base DSM charge payable or receivable
+Provided further that counting of number of sign change violations under clauses (a) & (b) of this Regulation shall start
+afresh at 00.00 Hrs. for each day.
+Provided also that payment of additional charge for failure to adhere to sign change requirement as specified under
+clauses (a) & (b) of this regulation shall not be applicable to:
+a. renewable energy generators which are regional entities
+b. run of river projects without pondage
+c. any infirm injection of power by a generating station prior to CoD of a unit during testing and commissioning activities,
+in accordance with the Connectivity Regulations.
+d. any drawal of power by a generating station for the start-up activities of a unit.
+e. any inter-regional deviations.
+f. forced outage of a generating station in case of collective transactions on Power Exchanges.
+Illustrations: -
+(1)
+Illustration to 7(10)(a). - For the period up to 31.03.2020: A regional entity having a sustained deviation from time blocks
+t1 to t12, shall correct its position either by changing the sign of its deviation (from positive to negative or negative to
+positive as the case may be) or come back in the range of +/- 20 MW with reference to its schedule latest by the end of
+time block t13. In case, such sign change does not take place or it fails to come back in the range of +/- 20 MW by the
+end of time block t13, but such correction of position takes place from time block t14 up to time block t24, then the
+additional charge shall be levied equivalent to one violation. The above violation shall attract an additional charge at the
+rate of 10% of the time block DSM charge for t13. Further, in case, sign change does not take place or it fails to come
+back to the range as aforesaid even latest by the end of t25, but correction of position takes place from time block t26 up
+to time block t36, then the additional charge shall be levied equivalent to two violations. The above violation shall attract
+an additional charge at the rate of 10% of the time block DSM for t13 and t25 , and so on.
+(2)
+Illustration to 7(10)(b). - For the period from 01.04.2020: A regional entity having a sustained deviation from time blocks
+t1 to t7, shall correct its position either by changing the sign of its deviation (from positive to negative or negative to
+positive as the case may be) or come back in the range of +/- 20 MW with reference to its schedule latest by the end of
+time block t7. In case, such sign change does not take place or it fails to come back in the aforesaid range by the end of
+time block t7, but such correction of position takes place from time block t8 up to time block t12, then additional charge
+shall be levied equivalent to one violation. Further, in case, sign change does not take place or it fails to come back in
+the range as aforesaid latest by the end of t13, but correction in position takes place from time block t14 up to time block
+t18, then the additional charge shall be levied for two violations and so on.
+The additional charge shall be at the rate as specified in clause (b) of this Regulation.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+]
+(11)
+[ Payment of Charges for Deviation under Regulation 5 and the Additional Charges for Deviation under Clauses (3), (4)
+and (10) of this regulation, shall be levied without prejudice to any action that may be considered appropriate by the
+Commission under Section 142 of the Act for contravention of the provisions of the said regulations.]
+[Substituted by Notification No. L-1/132/2013-CERC, dated 28.5.2019.]
+[[***]
+[Added by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+]
+(12)
+The charges for over-drawal/ under-injection and under-drawal/over-injection of electricity shall be computed by the
+respective Regional Power Committee in accordance with the methodology used for preparation of 'Regional Energy
+Accounts'.
+(13)
+The Regional Load Despatch Centre shall,on monthly basis, prepare and publish on its website the records of the
+Page 16/22
+----- PAGE 17 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+Deviation Accounts, specifying the quantum of over-drawal/under-injection and corresponding amount of Charges for
+Deviation payable/receivable for each buyer and seller for all the time-blocks when grid frequency was "49.90 Hz and
+above" and "below 49.90" Hz separately."
+8.
+Compliance with instructions of Load Despatch Centre.
+- Notwithstanding anything specified in these Regulations, the sellers and the buyers shall strictly follow the instructions
+of the Regional Load Despatch Centre on injection and drawal in the interest of grid security and grid discipline.
+9.
+Accounting of Charges for Deviation.
+(1)
+A statement of Charges for Deviations including Additional Charges for Deviation levied under these regulations shall be
+prepared by the Secretariat of the respective Regional Power Committee on weekly basis based on the data provided by
+the concerned RLDC(s) by the Thursday of the week and shall be issued to all constituents by next Tuesday, for seven
+day period ending on the penultimate Sunday mid-night.
+(2)
+All payments on account of Charges for Deviation including Additional Charges for Deviation levied under these
+regulations and interest, if any, received for late payment shall be credited to the funds called the "Regional Deviation
+Pool Account Fund", which shall be maintained and operated by the concerned Regional Load Despatch Centre in each
+region in accordance with provisions of these regulations.
+Provided that -
+(i)
+the Commission may by order direct any other entity to operate and maintain the respective "Regional Deviation Pool
+Account Fund":
+(ii)
+separate books of accounts shall be maintained for the principal component and interest component of Charges for
+Deviation and Additional Charges for Deviation by the Secretariat of the respective Regional Power Committee.
+(3)
+All payments received in the "Regional Deviation Pool Account Fund" of each region shall be appropriated in the
+following sequence:
+(a)
+First towards any cost or expense or other charges incurred on recovery of Charges for deviation.
+(b)
+Next towards over dues or penal interest, if applicable.
+(c)
+Next towards normal interest.
+(d)
+Lastly, towards charges for deviation and additional charges for deviation.
+Explanation. - Any Additional Charge for Deviation collected from a regional entity shall be retained in the "Regional
+Deviation Pool Account Fund" of the concerned region where the regional entity is located.
+10.
+Schedule of Payment of Charges for Deviation.
+(1)
+The payment of charges for Deviation shall have a high priority and the concerned constituent shall pay the indicated
+amounts within 10 (ten) days of the issue of statement of Charges for Deviation including Additional Charges for
+Deviation by the Secretariat of the respective Regional Power Committee into the "Regional Deviation Pool Account
+Fund" of the concerned region.
+(2)
+If payments against the Charges for Deviation including Additional Charges for Deviation are delayed by more than two
+days, i.e., beyond twelve (12) days from the date of issue of the statement by the Secretariat of the respective Regional
+Power Committee, the defaulting constituent shall have to pay simple interest @ 0.04% for each day of delay.
+(3)
+Page 17/22
+----- PAGE 18 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+All payments to the entities entitled to receive any amount on account of charges for Deviation shall be made within 2
+working days of receipt of the payments in the "Regional Deviation Pool Account Fund" of the concerned region.
+Provided that -
+(i)
+in case of delay in the Payment of charges for Deviations into the respective Regional Deviation Pool Account Fund and
+interest there on if any, beyond 12 days from the date of issue of the Statement of Charges for Deviations the regional
+entities who have to receive payment for Deviation or interest thereon shall be paid from the balance available if any, in
+the Regional Deviation Pool Account Fund of the region. In case the balance available is not sufficient to meet the
+payment to the Regional Entities, the payment from the Regional Deviation Pool Accounts Fund shall be made on pro
+rata basis from the balance available in the Fund.
+(ii)
+the liability to pay interest for the delay in payments to the "Regional Deviation Pool Account Fund" shall remain till
+interest is not paid; irrespective of the fact that constituents who have to receive payments have been paid from the
+"Regional Deviation Pool Account Fund" in part or full.
+(4)
+All regional entities which had at any time during the previous financial year failed to make payment of Charges for
+Deviation including Additional Charges for Deviation within the time specified in these regulations shall be required to
+open a Letter of Credit (LC) equal to 110% of its average payable weekly liability for Deviations in the previous financial
+year, in favour of the concerned RLDC within a fortnight from the date these Regulations come into force.
+Provided that -
+(i)
+if any regional entity fails to make payment of Charges for Deviation including Additional Charges for Deviation by the
+time specified in these regulations during the current financial year, it shall be required to open a Letter of Credit equal to
+110% of weekly outstanding liability in favour of respective Regional Load Despatch Centre within a fortnight from the
+due date of payment.
+(ii)
+LC amount shall be increased to 110% of the payable weekly liability for Deviation in any week during the year, if it
+exceeds the previous LC amount by more than 50%.
+Illustration. - If the average payable weekly liability for Deviation of a regional entity during 2009-10 is  L20 crore, the
+regional entity shall open LC for 22 crore in 2010-11. If the weekly payable liability during any week in 2010-11 is  L35
+crore which is more than 50% of the previous financial year's average payable weekly liability of Rs 30 Crore, the
+concerned regional entity shall increase the LC amount to  L38.5 Crore (1.1* L35.0) by adding  L16.5 Crore.
+(5)
+In case of failure to pay into the "Regional Deviation Pool Account Fund" within the specified time of 12 days from the
+date of issue of statement of charges for Deviations, the RLDC shall be entitled to encash the LC of the concerned
+constituent to the extent of the default and the concerned constituent shall recoup the LC amount within 3 days.
+11.
+Application of fund collected through Deviations.
+- The surplus amount, if any in the Deviation Pool Account Fund as on last day of the month, shall be transferred to a
+separate fund namely "Power Systems Development Fund" specified by the Commission in the first week of the next
+month and shall be utilized, for the purpose specified by the Commission.
+12.
+Power to Relax.
+- The Commission may by general or special order, for reasons to be recorded in writing, and after giving an opportunity
+of hearing to the parties likely to be affected by grant of relaxation, may relax any of the provisions of these regulations
+on its own motion or on an application made before it by an interested person.
+13.
+Power to issue directions.
+- If any difficulty arises in giving effect to these regulations, the Commission may on its own motion or on an application
+filed by any affected party, issue such directions as may be considered necessary in furtherance of the objective and
+purpose of these regulations.
+Page 18/22
+----- PAGE 19 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+14.
+Repeal and Savings.
+(1)
+On commencement of these Regulations, Central Electricity Regulatory Commission (Unscheduled Interchange charges
+and related matters) Regulation, 2009 shall stand repealed.
+(2)
+On commencement of these Regulations, any reference to the Central Electricity Regulatory Commission (Unscheduled
+Interchange charges and related matters) Regulations, 2009 in any of the Regulations, Standards, Codes or Procedures
+of the Central Electricity Regulatory Commission shall deemed to be replaced by Central Electricity Regulatory
+Commission (Deviation Settlement Mechanism and related matters) Regulations, 2013.
+(3)
+On commencement of these Regulations, the "Regional Unscheduled Interchange Pool Account Funds" shall continue
+to operate till the UI accounts settlement for the period prior to commencement of these Regulations is completed and
+balance if any, in UI Pool account shall be transferred to the Power System Development Fund.
+Annexure-I
+Methodologies for the computation of Charges of Deviation and Additional Charges for deviation for each regional entity
+for crossing the volume limits specified for the over-drawal/under injection by Buyer/Seller [(except Renewable Rich
+State)]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+1. When the grid frequency is [49.85 Hz and above]
+[Substituted '49.70 Hz and above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+A. When Dtb i.e. Deviation from schedule in a time block in MW is less than (+/-)12% of the schedule in MW or 150 MW
+whichever is lower in each time block, Dtb to be payable by the regional entity at normal Charges for Deviation;
+B. When Dtb i.e. Deviation from schedule in a time block in MW is more than (+/-)12% of the schedule in MW or 150
+MW whichever is lower in each time block
+(i)
+Dtb = D0 + D12/150
+Where
+D0   =      (+/-)12% of Scheduled Generation (SG) or 150 MW whichever is lower,
+D12/150   =      Deviation in excess of (+/-)12% of the SG or 150 MW,whichever is lower in each time block
+(ii)
+D12/150 = Dtb - D0
+(iii)
+The Charges for Deviation corresponding to Dtb shall be payable by the regional entity at normal Charges of Deviation;
+In addition, graded Additional Charges for the Deviation for D12/150 shall be payable by the regional entity for over
+drawal/under injection for crossing the volume limit on the basis of percentage term or MW terms as the case may @
+20%, 40%, 100% of Charge of Deviation for the incremental deviation in each slab. The same is illustrated as under:
+Illustrations "A" When 12% of Schedule is less than or equal to 150 MW
+Category
+Additional Charges for Deviation
+Dtbis above12% and up to
+15% of schedule in MW
+50 x (Dtb- 12% of
+schedule) x Charge for Deviation corresponding to average
+grid frequency of the time block
+Dtbis above15% and up to
+20% of schedule in MW
+[100 x (Dtb- 15% of
+schedule) + 1.50 x schedule] x Charge for Deviation
+corresponding to average grid frequency of the time block
+Dtbis above20%
+Page 19/22
+----- PAGE 20 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+[250 x (Dtb- 20% of
+schedule) + 6.50 x schedule] x Charge for Deviation
+corresponding to average grid frequency of the time block
+[Provided that when the schedule is less than or equal to 400 MW, the additional charges for deviation shall be based on
+percentage of deviation worked out with reference to schedule of 400 MW.]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Illustrations "B" When 12% of Schedule is more than 150 MW
+Category
+Additional Charges for Deviation
+Dtbis above 150 MW and
+up to 200 MW
+50 x (Dtb- 150) x
+Charge for Deviation corresponding to average grid frequency of
+the time block
+Dtbis above 200 MW and
+up to 250 MW
+[100 x (Dtb- 200) +
+2500] x Charge for Deviation corresponding to average grid
+frequency of the time block
+Dtbis above 250 MW
+[250 x (Dtb- 250) +
+7500] x Charge for Deviation corresponding to average grid
+frequency of the time block
+Note: The Additional Charge for Deviation for under-injection of electricity, during the time-block in excess of the volume
+limit specified in clause 7 (1) and (2) of the Regulation when grid frequency is [49.85 Hz and above]
+[Substituted '49.70 Hz and above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+, by the generating stations regulated by the CERC using coal or lignite or gas supplied under Administered Price
+Mechanism (APM) as the fuel shall be calculated with the [[Cap Rate for Deviations of 303.04 Paise/kWh]
+[Substituted 'Cap Rate for Deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+] or the Charge for Deviation corresponding to average grid frequency of the time block, whichever is less.
+2. When the grid frequency is [below 49.85 Hz]
+[Substituted 'below 49.7 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+and above. - The charges for deviation corresponding to Dtb shall be payable by the regional entity at 1648.08
+Paise/kWh including additional charges for the deviation payable by the regional entity at [800 Paise / kWh]
+[Substituted '824.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+.
+Note: The charges for Deviation and the additional charges for Deviation for under injection, during the time block when
+grid frequency is [below 49.85 Hz]
+[Substituted 'below 49.70 Hz' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+, by the generation station regulated by the Commission using coal or lignite or gas supplied under Administrative Price
+Mechanism (APM) as the fuel shall be calculated corresponding to the [Cap Rate as specified in clause 5(3) of these
+Regulations]
+[Substituted 'cap rate for deviations of 303.04 Paise/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018
+(w.e.f. 6.1.2014).]
+.
+[Annexure-I-A]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Methodologies for the computation of Charges for Deviation and Additional Charges for Deviation applicable to
+Renewable Rich States for crossing the volume limits specified for the over-drawal/under-injection:
+A. When Dtb i.e. Deviation from schedule in a time block in MW is less than limits specified in Annexure-III, in each time
+Page 20/22
+----- PAGE 21 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+block, Dtb to be payable by the regional entity at normal Charges for Deviation;
+B. When Dtb i.e. Deviation from schedule in a time block in MW is more than limits specified in Annexure-III , in each
+time block
+(i)
+DL = Dtb – L
+Where
+L = Limit as specified in Annexure-III
+DL = Deviation in excess of limits specified in Annexure-III , in each time block
+(iii)
+The Charges for Deviation corresponding to Dtb shall be payable by the regional entity at normal Charges of Deviation;
+In addition, graded Additional Charges for the Deviation for DL shall be payable by the regional entity for over-drawal for
+crossing the volume limit on the basis of percentage term or MW term, as the case may be @ 20%, 40%, 100% of
+Charge of Deviation for the incremental deviation in each slab. The same is illustrated as under:
+Illustration
+Category
+Additional Charges for Deviation
+Dtbis above L MW and up to L+50 MW
+50 x (Dtb- L) x Charge for Deviation
+corresponding to average grid frequency of the time block
+Dtbis above L+50 MW and up to L+100 MW
+(100 x (Dtb-(L+50)) + 2500) x Charge for
+Deviation corresponding to average grid frequency of the time
+block
+Dtbis above L+100 MW
+(250 x (Dtb- (L+100)) + 7500) x Charge for
+Deviation corresponding to average grid frequency of the time
+block
+2. When the grid frequency is below [below 49.85 Hz]
+[Substituted '49.85 Hz and above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+:
+The charges for deviation corresponding to Dtb shall be payable by the regional entity at [800 Paise / kWh]
+[Substituted '824.04 Paisa/kWh' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+. In addition, additional deviation charges for deviation for Dtb shall be payable by the regional entity at 824.04
+Paise/kWh.
+Annexure-II
+Methodologies for the computation of Charges of Deviation and Additional Charges for deviation for each regional entity
+for crossing the volume limits specified for the under drawal/over-injection by buyer/Seller
+A. When Dtb i.e. Deviation from schedule in a time block in MW is less than (+/-)12% of the schedule in MW or 150 MW,
+whichever is lower in each time block, Dtb to be payable by the regional entity at normal Charges for Deviation;
+B. When Dtb i.e. Deviation from schedule in a time block in MW is more than (+/-)12% of the schedule in MW or 150
+MW, whichever is lower in each time block:
+(i)
+Dtb = D0 + D12/150
+Where
+D0 =       (+/-)12% of SG or 150 MW whichever is lower,
+D12/150 =       Deviation in excess of (+/-)12% of SG or 150 MW whichever is lower in each time block,
+(ii)
+D12/150 = Dtb - D0
+(iii)
+The Charges for Deviation corresponding to D0 shall be receivable by the regional entity at normal Charges of Deviation
+or the ceiling rate whichever is lower; the regional entity shall not be entitled to any receivable for D12/150.
+Page 21/22
+----- PAGE 22 -----
+Central Electricity Regulatory Commission (Deviation Settlement Mechanism and Related Matt...
+C. Additional Charges for the Deviation D12/150 shall be payable by the regional entity for under drawal/over injection
+when grid frequency is [50.05 Hz or above]
+[Substituted '50.10 Hz or above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+in accordance with clause 7 (4) of this Regulation.
+[Annexure-II-A]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Methodologies for computation of Charges for Deviation and Additional Charges for Deviation applicable to Renewable
+Rich State for crossing the volume limits specified for the under-drawal/over-injection
+A. When Dtb i.e. Deviation from schedule in a time block in MW is less than limits specified in Annexure-III in each time
+block, Dtb to be receivable by the regional entity at normal Charges for Deviation;
+B. When Dtb i.e. Deviation from schedule in a time block in MW is more than Limit as specified in Annexure-III
+(i)
+DL = Dtb – L
+Where
+L = Limit as specified in Annexure-III
+DL = Deviation in excess of limits specified in Annexure-III, in each time block
+(ii)
+The Charges for Deviation corresponding to L shall be receivable by the regional entity at normal Charges of Deviation
+or the ceiling rate whichever is lower; the regional entity shall not be entitled to any receivable for DL
+C. Additional Charges for the Deviation DL shall be payable by the regional entity for under-drawal/over-injection when
+grid frequency is [50.05 Hz or above]
+[Substituted '50.10 Hz or above' by Notification No. L-1/132/2013-CERC, dated 20.11.2018 (w.e.f. 6.1.2014).]
+in accordance with clause 7 (4) of this Regulation.
+[Annexure-III]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 6.5.2016 (w.e.f. 6.1.2014).]
+Deviation Limits for Renewable Rich States
+S.No
+States having combined installed capacity of
+Wind and Solar projects
+Deviation Limits (MW) - "L"
+1
+1000 ? 3000 MW
+200
+2
+> 3000 MW
+250
+Related AI tags, queries and research notes
+Translation
+Page 22/22

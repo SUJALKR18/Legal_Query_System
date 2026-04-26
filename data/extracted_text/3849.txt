@@ -1,0 +1,506 @@
+
+----- PAGE 1 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+Andhra Pradesh Electricity Regulatory Commission (Electricity
+Supply Code) Regulation 2004
+Source: https://indiankanoon.org/doc/71477794/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Andhra Pradesh - Act
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+ANDHRA PRADESH
+India
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+Act 5 of 2004
+Published on 17 March 2004
+Commenced on 17 March 2004
+[This is the version of this document from 17 March 2004.]
+[Note: The original publication document is not available and this content could not be verified.]
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+(Regulation No. 5 of 2004)
+Last Updated 26th October, 2019
+A.P. Gazette Part II (Extraordinary) dated 17-03-2004.
+Introduction. - Section 50 of the Electricity Act, 2003 requires the State Commissions to specify an Electricity Supply
+Code to provide for the following:
+(i) Recovery of electricity charges,
+(ii) Intervals for billing of electricity charges,
+(iii) Disconnection of supply for nonpayment thereof,
+Page 1/10
+----- PAGE 2 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+(iv) Restoration of supply of electricity.
+(v) Tampering, distress or damage to electrical plant, electric lines or meter,
+(vi) Entry of Licensee's officials for disconnecting supply and removing the meter, and
+(vii) Entry for replacing, altering or maintaining of electric lines, or electric plant or meter.
+The Commission published a draft Regulation on 18-12-2003 inviting comments/suggestions. A press release was also
+issued on 20-12-2003 inviting comments and suggestions from interested persons. Three Licensees have offered their
+comments and suggestions. The Commission considered the same and made suitable changes in the draft Regulation
+wherever necessary.
+In exercise of the powers conferred by clause (x) of sub-section (2) of Section 181 read with Section 50 of the Electricity
+Act 2003 (36 of 2003) and all powers enabling it in that behalf, the Andhra Pradesh Electricity Regulatory Commission
+hereby makes the following Regulation, namely: -
+1.
+Short title, commencement and interpretation.
+- (i) This Regulation may be called the Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code)
+Regulation 2004.
+(ii)
+The Regulation shall be applicable to all Distribution Licensees in their respective licensed areas, in the State of Andhra
+Pradesh.
+(iii)
+This Regulation shall come into force 3 months after the date of its publication in the Andhra Pradesh Gazette.
+2.
+Definitions.
+- In This Regulation, unless the context otherwise requires: -
+(a)
+"Act" means the Electricity Act, 2003:
+(b)
+"Commission" means the Andhra Pradesh Electricity Regulatory Commission:
+(c)
+"consumption charge" means charges payable for the consumption of electrical energy in Kwhrs multiplied by
+appropriate tariff rates and also includes Demand/Fixed charges, Fuel Surcharge Adjustment (FSA) and customer
+charges etc., wherever applicable.
+(d)
+"high tension (HT) consumer" means a consumer who is supplied electricity at a voltage higher than 440 volts.
+(e)
+"HT rates" means the consumption charges payable by HT consumers.
+(f)
+"low tension {LT} consumer" means a consumer who is supplied electricity at a voltage up to 440 volts.
+(g)
+"LT rates" means the consumption charges payable by LT consumers.
+(h)
+"month" means the calendar month. The period of about 30 days between the two consecutive meter readings shall also
+be regarded as a month for purpose of billing;
+(i)
+"premises" includes any land, building or structure;
+(j)
+All other expressions used herein but not specifically defined herein but defined in the Act shall have the meaning
+assigned to them in the Act. The other expressions used herein but not specifically defined in this regulation or in the Act
+but defined in the Andhra Pradesh Electricity Reform Act, 1998 shall have the meaning assigned to them under the said
+Act, provided that such definitions in the Andhra Pradesh Electricity Reform Act, 1998 are not inconsistent with the
+provisions of the Electricity Act, 2003
+3.
+Page 2/10
+----- PAGE 3 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+Recovery of Electricity Charges from consumers.
+- 3.1. The distribution licensee shall recover the electricity charges for the electricity supplied to the consumer as per the
+tariff determined by the Commission from time to time in accordance with the provisions of Electricity Act 2003.
+Provided that where there are more than one Licensee in the same distribution area the Licensees may be allowed by
+the Commission to recover the charges at such tariffs as the licensee may consider appropriate subject to the maximum
+ceiling of tariff fixed by the Commission.
+3.2
+Unless otherwise specified, all HT and LT rates refer to one point of supply and each separate establishment will be
+given separate point of supply.
+3.3
+The consumer shall pay to the distribution licensee within the time specified for the purpose under clause 4 every month/
+billing period at the appropriate office of the distribution licensee or any other place allowed by the distribution licensee,
+charges for the electrical energy supplied to the consumer during the preceding billing period at the tariff in force from
+time to time.
+3.4
+The consumer shall pay, in addition to the charges fixed in the Tariff determined by the Commission, all surcharges,
+additional charges if any and any other charges payable relating to the supply of energy to the consumer as per the tariff
+conditions in force from time to time. The consumer shall also pay all the amounts chargeable by the Government by
+way of tax/duty etc. to the appropriate authority as specified by the Government.
+3.5
+When supply to a new consumer is commenced in the middle of a billing period, the demand charges, or any other
+similar fixed charges shall be levied pro rata for the number of days for which supply is given during the billing period. In
+the case of energy, prorata minimum charge or the charges at appropriate tariff for the energy actually consumed,
+whichever is higher shall be payable by the consumer.
+4.
+Electricity Bills.
+- 4.1. Intervals of Electricity Bills
+4.1.1
+. Bills shall be issued at a periodicity of not more than 2 months in respect of domestic commercial, agricultural services
+(metered cases) and general purpose consumers. Flat rate agricultural consumers shall be provided with pass books
+and electricity charges shall be collected monthly on prorata basis in respect of annual flat rate tariff fixed for this
+category. In respect of all other categories of consumers, the bills shall be issued monthly.
+4.1.2
+. The consumer shall be informed in advance of the periodicity of billing for his service (monthly or bimonthly), dated in
+the calendar month when his meter will be read, bill date in the calendar month and due date for payment in the
+calendar month. It shall be obligatory on the part of Licensee to read meter of a service on prescribed date. But in
+unforeseen circumstances, the licensee may record the meter reading two days before or after the prescribed date.
+The bill date shall be the date of meter reading for spot billing system and in other cases it shall be within one week from
+the date of the meter reading. The bill shall be served to a consumer immediately after the meter reading in case of spot
+billing system and in other cases within a period of one week from the bill date.
+The licensee shall obtain the acknowledgement of the consumer or some other inmate of the premises after issue of the
+bill and the authorized meter reader shall also enter the meter reading and the date of reading in the passbook/or meter
+card provided to the consumer.
+4.1.3
+. Bills shall be sent to the Consumers, other than HT category, either by post or by hand delivery and in case of HT
+consumers, either by certificate of posting or by hand delivery. The fact of dispatch of bills to the consumers of a
+particular area will be displayed by appropriate notice on the notice board of the Licensee's revenue office of the area
+concerned. Loss in transit of the bill if sent by post shall not be the responsibility of the licensee. However in case of
+hand delivery, proof of service of the bill shall be maintained at the concerned Revenue Office of the Licensee. It shall
+be the responsibility of the Licensee to ensure prompt delivery of bills to the consumer. However, if the consumer does
+not receive the bill within 14 days from the date of meter reading, he should approach the Revenue Office concerned to
+Page 3/10
+----- PAGE 4 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+obtain a duplicate copy of the bill.
+4.1.4
+. The Licensee shall issue the first bill for all services energised during a billing cycle, before end of next billing cycle. In
+case, the consumer does not receive the first bill before end of next billing cycle from date of energizing the connection,
+he may report to the designated Officer of the Licensee who shall arrange for issue of the bill within next 14 days.
+4.1.5
+. Change of occupancy/vacancy of premises
+(i)
+It shall be the responsibility of the owner of the connection to get a special reading done by the licensee at the time of
+change of occupancy or on the premises falling vacant.
+(ii)
+The owner / user of the connection may request in writing to the licensee for special reading at least 15 days in advance
+of the said vacancy of the premises by the existing user or change of the occupancy, as the case may be.
+(iii)
+The Licensee shall arrange a special reading to be done and deliver the final bill, including all arrears till the date of
+billing, at least 7 days before the vacancy of the premises. The final bill shall also include payment for the period
+between the date of special reading and date of vacancy of premises on prorata basis.
+(iv)
+Once the final bill is raised, the licensee shall not have any right to recover any charge(s), other than those in the final
+bill, for any period prior to the date of such bill.
+(v)
+The licensee may charge reasonable fee for the above service.
+4.2
+The following information shall be included on the body of the bill. - (a) Bill Number.
+(b)
+Consumer No., name and address.
+(c)
+Name of Sub-division/Section.
+(d)
+(i)
+Type of supply (i.e. single phase, three-phase LT or HT).
+(ii)
+Contracted load/Connected load
+(e)
+Category of consumer (i.e. domestic, commercial etc.).
+(f)
+Status of meter (OK/defective/ missing/Door Lock etc.).
+(g)
+Meter No. In case replacement of energy meter is involved during the billing period, the meter numbers of old and the
+new meters, date of replacement, final reading of old meter and initial reading of new meter at the time of replacing the
+meter shall also be indicated on the bill.
+(h)
+Billing period (dates to be mentioned)
+(i)
+Initial meter reading of the billing period/cycle with date.
+(j)
+Final meter reading of the billing period/cycle with date.
+(k)
+Multiplying Factor of the meter.
+(l)
+Number of units consumed during the billing period.
+Page 4/10
+----- PAGE 5 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+(m)
+Date of the bill and due date of payment,
+(n)
+Billing details: - The details for the current month demand and arrears shall be furnished in the bills.
+(1)
+Energy/Monthly Minimum Charges.
+(2)
+Fixed Charges
+(3)
+Capacitor Surcharge
+(4)
+Customer Charges
+(5)
+Electricity Duty
+(6)
+Fuel cost adjustment charges
+(7)
+Surcharge for low power factor
+(8)
+Additional charges for belated payment
+(9)
+Interest on installments due
+(10)
+Total current month demand
+(11)
+Arrears - (i) Preceding Financial year
+(ii)
+Current Financial year
+(12)
+Others
+(13)
+Total amount due
+(14)
+Adjustment
+(15)
+Net Amount
+(o)
+Mode of payment.
+(p)
+Designation and address of authorities with whom complaints or grievances can be lodged and addresses and
+telephone numbers of the Forum and the Vidyut Ombudsman constituted under Section 42 of the Act.
+(q)
+In case of cheques and bank drafts, the receiving authority in whose favour the amount should be drawn.
+(r)
+Telephone No. of Customer Service Centre and Revenue Unit.
+(s)
+Address/Details of concerned local collection centres and Electricity Revenue Offices of licensee with working hours
+where payment of Electricity Bill shall be made.
+Details of cost to serve for the category, cross-subsidy and Government subsidy per unit, slab-wise, and information
+from (p) to (s) may be printed on the reverse of the Bill.
+4.3
+Page 5/10
+----- PAGE 6 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+Payment of Electricity Bill. - 4.3.1. The payment of bill shall normally be made at the specified local collection center of
+the Licensee on any working day during prescribed hours, or through any other facility like e-seva, banks, post offices,
+internet etc. as may be provided by the licensee.
+4.3.2
+. The Licensee may, however, specify any collection centers for making payment for a group of consumers in addition to
+the concerned Revenue Office of the Licensee, where arrangement shall be made by licensee to accept payment of Bills
+both by cash and DD/Cheque.
+4.3.3
+. If due date/ disconnection date for default indicated in the bill for payment of the amount is a Sunday or a Public
+Holiday, the succeeding working day shall be treated as the due date/disconnection date for default.
+4.3.4
+. The consumer shall present his bill at the time of payment without which payment will not be normally accepted.
+However if the consumer is unable to present his bill due to non-receipt of the same sand if the consumer applies for
+duplicate bill at the concerned Electricity Revenue Office to enable him to make payment of his electricity bill, the
+Licensee shall arrange to accept payment of bill duly issuing duplicate bill on the spot. In other cases, if the consumer
+applies for a duplicate bill it shall be supplied within 3 days of receipt of application in writing in the office of issue.
+Non-receipt of the bill shall not entitle the consumer to delay the payment beyond the due date.
+4.3.5
+. The Billed amount shall be paid by the consumer as under:
+(i)
+Up to Rs. 5,000/ By cash:
+Provided that the licensee may accept higher amounts up to the limit(s) specified by him in rural areas, wherever the
+availability of banking facilities is considered to be inadequate.
+(ii)
+Above Rs. 5,000/ By Cheque/Banker's Cheque/D.D. payable at local branch of any Scheduled Bank as indicated on the
+Electricity Bill.
+(iii)
+Any Consumer, if he so desires, where the amount is less than Rs. 5,000/-, can also pay the same by way of Crossed
+Cheque/Banker's Cheque/D.D. payable at local branch of any Scheduled Bank as indicated on the Electricity Bill.
+(iv)
+Where specifically allowed by the Licensee, the amount can also be paid by credit cards, Internet payment and through
+'E-Seva' centers.
+4.3.6
+. The Licensee shall issue a receipt to the consumer for the payment of electricity bills made by way of cash or
+DD/Banker's Cheque drawn on any scheduled bank. In case of payment made by way of personal cheques, the licensee
+shall issue an acknowledgement to the consumer for the receipt of cheque. Bank certificate that money is transferred to
+licensee's account is sufficient proof of payment.
+4.3.7
+. All consumers shall pay the Current Consumption charges within 15 days from the date of the bill and the Licensee
+shall ensure distribution of Electricity Bills to the consumers not less than 10 days before the due date for payment.
+4.3.8
+. In case a cheque given by the consumer is not honoured and payment is not made, action may be initiated by the
+Licensee for disconnection, treating it as a case of non-payment as detailed in clause 4.8. The licensee may not accept
+payment through cheques from such consumer for a period of one year from the billing month for which the cheque
+given by the consumer has bounced. For that particular one year, the consumer may be required to pay his bill in
+cash/by DD only. This shall be without prejudice to other rights of the Licensee to proceed against the consumer for
+dishonour of the cheque.
+4.3.9
+. Advance payment of anticipated bills by consumer: - The consumer shall have the facility to make advance payments
+towards the Consumption Charges and require the Licensee to adjust the amount against bills that may be raised by the
+Licensee from time to time. Such advance payments do not attract any interest.
+Page 6/10
+----- PAGE 7 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+4.4
+Additional charges for belated payment of bills. - In case the consumers do not pay the bills by the due date mentioned
+in the bills, additional charges for delayed payment of bills shall apply as per tariff orders issued from time to time.
+4.5
+Adjustment of amount paid. - The amount paid by the consumer shall first be adjusted as per the priorities stated
+hereunder:
+(a)
+Arrears as on 31st March of previous financial year.
+(b)
+Arrears accrued from 1st April of the current financial year till the date of bill.
+(c)
+Current month Consumption charges.
+4.6
+Installment facility. - Licensee may grant at its discretion, the facility of payment of arrears bills by installments.
+4.6.1
+. Grant of installment facility shall not affect the liability of the consumer to pay additional charges for delayed payment
+as per tariff notifications issued from time to time, till full clearance of arrears. Apart from the additional charges leviable
+for belated payment, such consumer shall be required to pay the interest charges at 24% per annum on the amount
+outstanding out of the charges allowed to be paid in installments.
+4.6.2
+. The Licensee shall designate and notify the authorities who may grant installment facilities for LT and HT services from
+time to time.
+4.7
+Erroneous/Disputed Bills. - 4.7.1. The consumer shall make the full payment of the electricity bill amount:
+Provided that the supply of electricity shall not be cut off if such consumer deposits, under protest-
+(a)
+an amount equal to the sum claimed from him, or
+(b)
+the electricity charges due from him for each month calculated on the basis of average of amounts for electricity paid by
+him during the preceding six months, whichever is less, pending disposal of any dispute raised by the consumer on the
+bills.
+4.7.2
+. The Licensee shall normally resolve the billing disputes as per the standards of performance notified by the
+Commission under Section 57(1) of the Act, failing which the consumer shall be entitled for compensation as prescribed
+by the Commission under Section 57(2) of the Act, without prejudice to his right to seek relief through the Forum for
+redressal of grievances of consumers under Section 42(5) of the Act.
+4.7.3
+. On examination of the complaint, if the Licensee finds the bill to be erroneous, a revised bill shall be given to the
+consumer indicating a revised due date of payment, which should be fixed not earlier than seven days from the date of
+delivery of the revised bill to the consumer. If the consumer has paid any excess amount, it shall be refunded by way of
+adjustment In the subsequent bills. The licensee shall pay to the consumer interest charges at 24% per annum on the
+excess amount outstanding on account of such wrong billing.
+4.7.4
+. If the Licensee finds the bills to be correct, the consumer shall be intimated accordingly and notified to pay the amount
+with additional charges for belated payment from the due date.
+4.8
+Disconnection of Service. - 4.8.1. Disconnection due to nonpayment: - Where a consumer neglects to pay any
+consumption charge for electricity or any other sum due from him to a Licensee, by the due date mentioned in the bill, in
+respect of supply of energy to him or in respect of supply, transmission or distribution or wheeling of electricity to him,
+the licensee may, after giving not less than fifteen (15) clear days' notice in writing to such person and without prejudice
+to his rights to recover such charge or other sum by suit, cut off supply of electricity and for that purpose disconnect any
+Page 7/10
+----- PAGE 8 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+electric supply line or other works being the property of such licensee or the generating company through which
+electricity may have been supplied, transmitted, distributed or wheeled and may discontinue the supply until such charge
+or other sum, together with any expenses incurred by him in cutting off and reconnecting the supply, are paid, but no
+longer.
+4.8.2
+. Notwithstanding anything contained in any other law for the time being in force, no sum due from any consumer, under
+this section shall be recoverable after a period of two years from the date when such sum became first due unless such
+sum has been shown continuously as recoverable as arrears of charges for electricity supplied and the licensee shall
+not cut off the supply of the electricity.
+4.8.3
+. In case of continued default in payment of electricity charges and any sum due to licensee by any consumer, the
+Licensee shall be entitled to terminate the agreement executed by the consumer as per the terms and conditions of
+supply of the Licensee as approved by the Commission.
+5.
+Restoration of supply of electricity.
+- If any service is disconnected on account of non-payment of electricity charges or any other charges due to licensee,
+the consumer has to pay the charges for reconnection. The licensee shall restore the electrical supply in not more than
+four working hours after production of the proof of payment of charges by consumer is towns and cities, and within 12
+working hours after production of proof of payment of charges by consumer in rural areas. However restoration of power
+supply will be attended to only between 8.00 AM to 6.00 PM except in case of supply of electricity for essential services
+like water supply, hospitals etc., and other important government services. Such requests of consumers seeking
+reconnection after 6.00 PM, shall be attended the following day before 12 noon.
+6.
+Right of licensee to enter consumer premises and to remove fittings or other apparatus of licensee.
+- 6.1. A licensee or any other person duly authorised by him may, at any time, and on informing the occupier of his
+intention, enter any premises or land, under, over, along, across, in or upon which the electric supply-lines or other
+works have been lawfully placed by him for the purpose of -
+(a)
+inspecting, testing, repairing or altering the electric supply-lines, meters, fittings, works and apparatus for the supply of
+electricity belonging to the licensee: or
+(b)
+ascertaining the amount of electricity supplied or the electrical quantity contained in the supply: or
+(c)
+removing any electric supply-lines, meters, fittings, works or apparatus belonging to the licensee where a supply of
+electricity is no longer required, or the licensee is authorised to take away and cut off such supply.
+6.2
+A licensee or any person authorised as aforesaid may also, in pursuance of a special order in this behalf made by an
+Executive Magistrate and after giving not less than twenty-four hours notice in writing to the occupier enter:
+(a)
+any premises or land referred to in clause for any of the purposes mentioned therein, or
+(b)
+any premises to which electricity is to be supplied by him, for the purpose of examining and testing the electric wires
+fittings, works and apparatus for the use of electricity belonging to the consumer.
+6.3
+Where a consumer refuses to allow a licensee or any person authorised as aforesaid to enter his premises or land in
+pursuance of the provisions of clause 6.1, or clause 6.2, refuses to allow him to perform any act which he is authorised
+by those clauses to perform, or fails to give reasonable facilities, the Licensee may after expiry of twenty-four hours from
+the service of a notice in writing on the consumer, disconnect the supply to the consumer till such refusal or failure
+continues, but no longer:
+7.
+Tampering, distress or damage to electrical plant, lines or meter.
+Page 8/10
+----- PAGE 9 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+- 7.1. If the equipment i.e. electrical plant, lines or meter etc, of the licensee placed in the consumer premises is found
+tampered, distressed/ damaged, the licensee shall be entitled to recover the expenses incurred for restoration of such
+plant, line, meter etc., without prejudice to his right to take action under appropriate provisions of the Act, including
+disconnection of supply under Section 56 of the provisions of the Act, including disconnection of supply under Section
+56 of the Act for non-payment of the cost for replacement/rectification.
+7.2
+Wherever un-authorised use of electricity is involved, the provision of Section 126 shall apply and where theft of
+electricity is involved, the provisions of Section 135 shall apply.
+7.3
+Wherever un-authorised use of electricity is detected and a final order is issued by the assessing officer, the consumer
+shall be entitled to file an appeal to the appellate authority under Section 127 of the Act.
+7A.
+[ Measure to be taken by distribution licensees for control of theft of electricity.
+[Added by Regulation No. 5 of 2004, dated 15.2.2006.]
+(1)
+The Distribution Licensees shall follow the Procedure approved by the Commission in the Terms and conditions of
+Supply of Distribution Licensees under Clause 21 of their Distribution Licences for assessment of electricity charges
+payable in the case of theft of electricity, pending adjudication by the appropriate court.
+(2)
+The District Licensees shall be entitled to disconnect supply of electricity in the case of theft or unauthorized use of
+electricity as provided in the Terms and Conditions of Supply of Distribution Licensees approved by the Commission
+under Clause 21 of the Licence granted to the Distribution Licensees.
+(3)
+The Licensees shall take measures to prevent diversion of electricity, theft or unauthorised use of electricity, or
+tempering distress or damage to electrical plant, electric lines or meter in accordance with the provisions of the Act and
+clauses 7 and 7-A herein.
+(4)
+The Provisions of this clause 7-A shall be without prejudice to the other rights of the Licensee under the Act, or any
+other applicable laws to recover the sums due, and to protect the assets and interests of the Licensees.]
+8.
+Service of notice.
+- 8.1. Any order/notice to the consumer by the licensee including the notice under Section 56 of the Electricity Act, 2003
+shall be deemed to be duly served by the licensee of it is:
+(a)
+Sent by registered post, under certificate of posting, by courier, or other similar means, or
+(b)
+Delivered by hand to the person residing at the address notified to the licensee by the consumer, or
+(c)
+Affixed at a conspicuous part of such premises in case there is no person, to whom the same can with reasonable
+diligence, be delivered.
+8.2
+Documents or notices so posted under clause 8.1(a) above, shall be presumed to have been duly received by the
+consumer on the date on which he could be reasonably expected to receive the same.
+9.
+Meter Card/Pass Books.
+- A meter reading card/pass book shall be maintained by the licensee at consumers' premises in appropriate form and
+all periodical readings taken for billing purposes, all check readings and meter changes should be recorded on the meter
+card /pass book.
+The consumer shall ensure safe custody of such pass book/meter card and keep it in an easily accessible place for
+recording the meter readings and meter charge particulars etc.
+10.
+Page 9/10
+----- PAGE 10 -----
+Andhra Pradesh Electricity Regulatory Commission (Electricity Supply Code) Regulation 2004
+Interpretation.
+- This Regulation shall be read and cons!rued in all respects as being subject to the provisions of the Electricity Act,
+2003 and Andhra Pradesh Electricity Reform Act 1998, the provisions of any other law relating to supply of electricity for
+the time being in force and nothing herein above contained in this Regulation shall abridge or prejudice the rights of the
+Licensee and the consumer under any Central or State Act or rules made thereunder.
+11.
+Savings.
+- Nothing contained in this Regulation shall affect the rights and privileges of the consumer under any other law for the
+time being in force, including the Consumer Protection Act, 1986 (68 of 1986).
+12.
+Powers to remove difficulties.
+- If any difficulty arises in giving effect to any of the provisions of this Regulation, the Commission may by general or
+special order, direct the Distribution Licensee, the Forum and the Ombudsman to take suitable action, not being
+inconsistent with the Electricity Act, 2003, which appears to the Commission to be necessary or expedient for the
+purpose of removing difficulties.
+13.
+Power to amend.
+- The Commission may, at any time vary, alter, modify or amend any provision of this Regulation.
+Related AI tags, queries and research notes
+Translation
+Page 10/10

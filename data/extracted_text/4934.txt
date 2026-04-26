@@ -1,0 +1,3503 @@
+
+----- PAGE 1 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Bihar Electricity Regulatory Commission (Multi Year Distribution
+Tariff) Regulations, 2015
+Source: https://indiankanoon.org/doc/106326854/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Bihar - Act
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+BIHAR
+India
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Rule
+BIHAR-ELECTRICITY-REGULATORY-COMMISSION-MULTI-YEAR-DISTRIBUTION-TARIFF-REGULATIONS-2015 of
+2015
+Published on 15 September 2015
+Commenced on 15 September 2015
+[This is the version of this document from 15 September 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Published vide Notification No. BERC-Suo Motu Proceeding No. 30/2014/06, dated 15.9.2015
+Last Updated 15th February, 2020
+No. BERC-Suo Motu Proceeding No. 30/2014/06. - In exercise of powers conferred by sub section (1) of section 181
+and clauses (zd), (ze) and (zf) of sub-section (2) of section 181, read with sections 61, 62, and 86, of the Electricity Act,
+2003 (36 of 2003) and all other powers enabling it in that behalf, the Bihar Electricity Regulatory Commission hereby
+makes the following Regulations.
+Page 1/65
+----- PAGE 2 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+1.
+Short Title and Commencement.
+- 1.1 These regulations shall be called the Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff)
+Regulations, 2015.
+1.2
+These Regulations shall come into force from the date of their notification in the Official Gazette.
+2.
+Scope and Extent of Application.
+- 2.1 These Regulations shall apply to all the Distribution Licensees in the State of Bihar.
+2.2
+These Regulations shall be applicable for determination of tariff in all cases covered under these Regulations from 1st
+April 2016 and onwards up to FY 2021 i.e., till 31st March 2021] or till these Regulations are amended.
+2.3
+These Regulations shall be applicable where the cost based/Aggregate Revenue Requirement (ARR) based tariff is
+determined by the Commission.
+2.4
+These Regulations shall extend to the whole of the State of Bihar.
+3.
+Definitions.
+- 3.1 In these regulations, unless the context otherwise requires, -
+(1)
+"Act" means the Electricity Act, 2003 (36 of 2003);
+(2)
+"Aggregate Revenue Requirement" or "ARR" means the costs pertaining to the licensed business which are permitted,
+in accordance with these Regulations, to be recovered from the tariffs and charges determined by the Commission;
+(3)
+"Base Year" means the financial year immediately preceding first year of the control period and used for the purposes of
+these Regulations;
+(4)
+"Commission" means the Bihar Electricity Regulatory Commission;
+(5)
+"Conduct of Business Regulations" means the Bihar Electricity Regulatory Commission (Conduct of Business)
+Regulations, 2005, and its amendments from time to time.
+(6)
+"Control Period" means a multi-year period normally comprising of five financial years or as may be determined by the
+Commission, for submission of forecast in accordance with these Regulations;
+(7)
+"Expenditure" Reasonable and required expenditure actually incurred on the following:
+(a)
+purchase of energy;
+(b)
+salaries and wages of staff, welfare expenses excluding management remuneration covered below;
+(c)
+Directors remuneration, fees, expenses including facilities;
+(d)
+salaries and wages of corporate office / registered office;
+(e)
+financing cost excluding penal interest / charges;
+(f)
+interest charges on loan(s) borrowed for capitalized assets;
+(g)
+Page 2/65
+----- PAGE 3 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+interest on temporary accommodation to the extent of approved unrealized arrears from the consumers
+(h)
+interest on working capital
+(i)
+Return on equity;
+(j)
+Income Tax
+(k)
+financing charges applicable to operational account;
+(l)
+interest on cash security deposits from consumers;
+(m)
+interest on advance against sales from consumers, if any;
+(n)
+Impact of variation in foreign exchange rate in case of foreign currency loan taken with due approval and is not
+capitalized;
+(o)
+Depreciation
+(p)
+Rents, rates and taxes, other than all taxes relating to income / profits;
+(q)
+Legal charges;
+(r)
+Auditor's expenses, Auditor's fees; auditor's expenses; Payment to Auditors in any other capacity or for any work which
+is necessary to be got done from them in connection with audit;
+(s)
+Consultancy charges for work which cannot be done in house or is uneconomical in doing in-house or is essential to be
+done from outside sources;
+(t)
+Bad debts actually written off subject to Commission's clearance;
+(u)
+Other expenses necessary which are ancillary or incidental to the business of electricity except penalty etc levied under
+the Act or any other law in force;
+(8)
+"Financial Year" means a period commencing on 1st April of a calendar year and ending on 31st March of the
+subsequent calendar year;
+(9)
+"Income" shall include all income from any sources but shall not be limited to the following:
+(a)
+sale of energy or gross receipts from sale of energy less discounts / rebates given based on the orders of the
+Commission;
+(b)
+Rental of meters, plant, equipment and other apparatus hired to the consumers;
+(c)
+Income from services to consumers by way of repair or any sale or other service other than capital receipts;
+(d)
+Interest on investments, bank balances including fixed and call deposits and any other income in the form of interest;
+(e)
+Profit on sale of assets;
+(f)
+Wheeling of energy;
+Page 3/65
+----- PAGE 4 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+(g)
+Non tariff income;
+(h)
+Income from other business;
+(i)
+Transmission of energy;
+(j)
+Cross subsidy surcharge u/s 42(2) of the Act;
+(k)
+Additional surcharge u/s 42(4) of the Act;
+(l)
+Any receipt or refund from other sources against any expense or likely expense which has been earlier allowed as
+expense in the tariff;
+(m)
+All other general receipts arising from and ancillary or incidental to the business of electricity supply;
+(n)
+Other general receipts in terms of Act / Regulations including use of assets for other business whether actually
+recovered or not;
+(10)
+"Licence" means a licence granted under clause (b) of section 14 of the Act;
+(11)
+"Licensed Business" means the functions and activities, which the licensee is required to undertake in terms of the
+licence granted by the Commission or being a deemed licensee as referred under sections 14 and 172 of the Act;
+(12)
+"Licensee" means a person who has been granted a licence and shall include a deemed licensee;
+(13)
+"Non-Tariff Income" means income relating to the licensed business other than from tariff (wheeling and retail supply),
+and excluding any income from other business, cross-subsidy surcharge and additional surcharge;
+(14)
+"Other Business" means any other business of the distribution licensee for optimum utilization of its assets within the
+meaning of Section 51 of the Act;
+(15)
+"Retail Supply Business" means the business of sale of electricity by a distribution licensee to the consumers within the
+area of supply in accordance with the terms of the licence for distribution and retail supply of electricity;
+(16)
+"Wheeling" means the operation whereby the distribution system and associated facilities of a distribution licensee are
+used by another person for the conveyance of electricity on payment of charges to be determined under section 62 of
+the Act, and in the event where use of the distribution system and associated facilities is by a consumer, on payment of
+a surcharge in addition to the charges for wheeling as may be determined by the Commission under the first proviso to
+sub-section (2) of Section 42 of the Act, an additional surcharge on the charges of wheeling, as may be specified by the
+Commission, if applicable, to meet the fixed cost of such distribution licensee arising out of his obligation to supply,
+under Sub-section (4) of Section 42 and wheeling charges under clause (c) of sub-section (1) of Section 62;
+(17)
+"Wheeling Business" means the business of operating and maintaining a distribution system for conveyance of electricity
+in the area of supply of the distribution licensee.
+3.2
+The words and expressions used and not defined in these Regulations, but defined in the Act, shall have the meanings
+respectively assigned to them in the Act.
+3.3
+The words "Application" or "Petition" shall be interpreted synonymously.
+Part - II General Principles
+Page 4/65
+----- PAGE 5 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+4.
+Multi-Year Tariff Framework.
+- 4.1 The Commission shall determine the tariff for distribution business under a Multi-Year Tariff framework with effect
+from April 1st of each financial year subject to provisions under regulations 8,12,13 and 14 of these Regulations..
+4.2
+The Multi-Year Tariff framework shall be based on the following elements, for calculation of Aggregate Revenue
+Requirement and expected revenue from tariff and charges for Distribution Business:
+i. Control Period, before commencement of which a forecast of the Aggregate Revenue Requirement and expected
+revenue from existing tariff and charges shall be submitted by the applicant and approved by the Commission;
+ii. A detailed Business Plan based on the Operational Norms and trajectories of performance parameters specified in the
+MYT Regulations, for each year of the Control Period, shall be submitted by the applicant for the Commission's
+approval, subject to provisions under regulations 8,12,13,and 14 of these Regulations;
+iii. Based on the Business Plan, the applicant shall submit a petition with the forecast of Aggregate Revenue
+Requirement and expected revenue from existing tariff for each year of the Control Period, and the Commission shall
+approve the tariff for each year of the Control Period;
+iv. The mechanism for pass-through of approved gains or losses on account of uncontrollable factors as specified by the
+Commission in these Regulations;
+v. The mechanism for sharing of approved gains or losses arising out of controllable factors as specified by the
+Commission in these Regulations;
+5.
+Business Plan.
+- 5.1 The Distribution Licensee shall file a Business Plan, for the Control Period which shall comprise but not be limited
+to detailed category-wise sales and demand projections, power procurement plan, capital investment plan, financing
+plan and physical targets.
+Provided that in case the Commission issues guidelines and formats, from time to time, the same shall be adhered to by
+the Distribution Licensee.
+5.2
+(a)
+The capital investment plan shall show separately, on-going projects that will spill into the year(s) under review and new
+projects (along with justification) that will commence but may be completed within or beyond the tariff period. The
+Commission shall consider and approve the capital investment plan for which the Distribution Licensee shall provide
+relevant technical and commercial details.
+Provided that for schemes involving capital expenditure greater than INR 5 Crore, the Distribution Licensee shall seek
+prior approval of the Commission.
+(b)
+The Distribution Licensee shall submit detailed supporting documents while seeking approval from the Commission.
+Provided that supporting documents shall include but not be limited to purpose of investment, capital structure,
+capitalization schedule, financing plan and cost-benefit analysis:
+(c)
+The approval of the capital expenditure by the Commission for the ensuing year shall be in accordance with load growth,
+system extension, rural electrification, distribution loss reduction or quality improvement as proposed in the Distribution
+Licensee's supporting documents.
+(d)
+The Commission may also undertake a detailed review of the actual works compared with the works approved in the
+previous Tariff Order while approving the capital expenditure for the ensuing year.
+(e)
+In case the capital expenditure is required for emergency work, the licensee shall submit an application, containing all
+relevant information along with reasons justifying the emergent nature of the proposed work, seeking post facto approval
+by the Commission.
+(f)
+The Distribution Licensee shall take up the work prior to receiving the approval from the Commission provided that the
+Page 5/65
+----- PAGE 6 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+emergent nature of the scheme has been certified by its Board of Directors.
+(g)
+If the scheme involves capital expenditure of less than INR 5 Crore, and included in the capital investment plan referred
+in regulation 5.2, the Distribution Licensee shall undertake the execution of the scheme with simultaneous notification to
+the Commission with all of the relevant supporting documents.
+(h)
+Consumer's contribution towards cost of capital asset shall be treated as capital receipt and credited in current liabilities
+until transferred to a separate account on Commissioning of the assets.
+(i)
+An amount equivalent to the depreciation charge on such assets for the year shall be appropriated from this account as
+income to the profit and loss account over the useful life of the asset.
+5.3
+The Distribution Licensees shall project the power purchase requirement after considering effect of target set for Energy
+Efficiency (EE) and Demand Side Management (DSM) schemes.
+6.
+Forecast.
+- 6.1 The applicant, based on the Business Plan, shall submit the forecast of Aggregate Revenue Requirement and
+expected revenue from tariff, for the Control Period by a Petition in accordance with BERC (Conduct of Business)
+Regulations, 2005 and its amendments from time to time, by 15th November of the year prior to the commencement of
+the Control Period and accompanied by such fee payable, as specified in the BERC (Fees, Fines and Charges)
+Regulations, 2005 as amended from time to time.
+6.2
+The forecast of Aggregate Revenue Requirement shall be developed using the assumptions relating to the behaviour of
+individual variables that comprise the Aggregate Revenue Requirement during the Control Period.
+6.3
+The forecast of expected revenue from tariff and charges shall be developed based on the following:
+(a)
+Estimates of quantum of electricity to be supplied to consumers and wheeled on behalf of Distribution System Users for
+each financial year within the Control Period; and
+(b)
+Prevailing tariff as on the date of making the application.
+7.
+Specific trajectory for certain variables.
+- 7.1 The Commission shall stipulate a trajectory while approving the Business Plan, for certain variables having regard
+to the reorganization, restructuring and development of the electricity industry in the State:
+Provided that the variables for which a trajectory may be stipulated shall include, but are not limited to, Operation &
+Maintenance expense norms, supply availability, wires availability and distribution losses.
+7.2
+In case the Commission has approved the business plan by 31st October of current year, the trajectory stipulated by the
+Commission in the order approving the Business Plan submitted by the applicant, shall be incorporated by the applicant,
+in its forecast of Aggregate Revenue Requirement and/or expected revenue from tariff and charges under regulation 6.3
+of these Regulations.
+8.
+Annual Review of Performance and True-up.
+- 8.1 Where the Aggregate Revenue Requirement and expected revenue from tariff and charges of a Distribution
+Licensee are covered under a Multi-Year Tariff framework, such Distribution Licensee shall be subject to an annual
+review of performance and True-up during the Control Period in accordance with these Regulations.
+Provided that in case of excruciating and extra-ordinary circumstances, at any time notwithstanding the Annual Review,
+the Distribution Licensee may file appropriate application before the Commission.
+9.
+Controllable and uncontrollable factors.
+Page 6/65
+----- PAGE 7 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+- 9.1 The "uncontrollable factors" shall comprise the following factors which are beyond the control of, and could not be
+mitigated by the applicant:
+(a)
+Force Majeure events, such as acts of war, fire and natural calamities.
+(b)
+Change in law;
+(c)
+Taxes and Duties;
+(d)
+Variation in sales; if the Distribution Licensee has adequate power availability.
+(e)
+Supply availability beyond the control of Distribution Licensee, subject to prudence check and finding of the Commission
+during True-up exercise.
+(f)
+Variation in the cost of power generation and/or power purchase due to the circumstances specified in regulations 19 (d)
+and 20 of these Regulations.
+9.2
+Some illustrative variations or expected variations in the performance of the applicant, which may be attributed by the
+Commission to controllable factors include, but are not limited to the following:
+(a)
+Variations in capital expenditure on account of time and/or cost overruns/ efficiencies in the implementation of a capital
+expenditure project not attributable to an approved change in scope of such project, change in statutory levies or force
+majeure events;
+(b)
+Variations in distribution losses which shall be measured as the difference between the units input into the distribution
+system and the units billed for the same year.
+(c)
+Variations in Return on Equity (RoE), depreciation and working capital requirements; However, if the Commission is
+satisfied that the variation in the working capital requirement is attributable to any uncontrollable factors, the same may
+be considered as uncontrollable factor.
+(d)
+Failure to meet the standards specified in the Standards of Performance Regulations, except where exempted;
+(e)
+Variation in operation & maintenance expenses, except those attributable to directions of the Commission or to change
+in Government policy/law
+(f)
+Variation in Wires Availability and Supply Availability, within the control of Distribution Licensee.
+10.
+Mechanism for pass-through of gains or losses on account of uncontrollable factors.
+- 10.1 The approved aggregate gain or loss to the Distribution Licensee on account of uncontrollable factors shall be a
+passed through, as an adjustment in the tariff of the Distribution Licensee, as specified in these Regulations and as may
+be determined in the Order of the Commission passed under these Regulations.
+11.
+Mechanism for sharing of gains or losses on account of controllable factors.
+- 11.1 The approved aggregate gain or loss to the Distribution Licensee on account of controllable factors including
+distribution losses shall be on account of the Distribution Licensee.
+Part - III Procedure
+12.
+Procedures relating to making of an application for determination of Tariff.
+- 12.1 An application for approval of the Business Plan shall be made by 15th September of the year prior to the
+commencement of the Control Period, in accordance with the BERC (Conduct of Business) Regulations, 2005 and its
+Page 7/65
+----- PAGE 8 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+amendments from time to time, and accompanied by such fee payable, as specified in the BERC (Fees, Fines and
+Charges) Regulations, 2005" as amended from time to time.
+Provided that where no separate fee has been specified for filing of a Business Plan, the applicant shall pay fees as may
+be determined by the Commission.
+12.2
+An application for determination of tariff shall be made by 15th November every year, for Truing up of expenses of
+previous years, for Annual Performance Review (APR) of the Aggregate Revenue Requirement (ARR) for the current
+year and determination of ARR and tariff for retail sale of electricity for the ensuing years of the control period. The
+application should contain the data relating to each item of the ARR supported with the information/data in the formats 1
+to 36 appended to these Regulations, revenue income on existing tariff, revenue income on proposed tariff, tariff design,
+structure and rates for retail sale of electricity, etc with explanatory notes and accompanied by such fees as may be
+specified under the BERC (Fees, Fines and Charges) Regulations, 2005 as amended from time to time. All the
+information as required in the formats appended to these Regulations along with justification shall be provided in the
+main petition and submission of information separately in the formats is not mandatory.
+Provided the Commission may require submission of additional information/data required for determination of ARR and
+tariff.
+Proceedings held by the Commission for determination of ARR and tariff shall be in accordance with the BERC
+(Conduct of Business) Regulations, 2005, as amended from time to time.
+12.3
+The petition for determination of tariff shall be accompanied by information for the previous year, current year (RE) and
+the ensuing years of the entire control period capturing the expected revenues from the tariff and charges including
+miscellaneous charges at existing rates along with detailed assumptions, parameters required in annual true-up, Annual
+Performance Review exercise, etc.
+Provided that the application shall be accompanied where relevant, by a detailed tariff revision proposal showing
+category-wise tariff and how such revision would meet the gap, if any, in Aggregate Revenue Requirement for each year
+of the Control Period.
+Provided further that the information for the previous year shall be based on audited accounts and in case audited
+accounts for previous year are not available, audited accounts for the immediately preceding year should be filed along
+with annual accounts for the previous year adopted by the Board of Directors of the licensee company.
+12.4
+The Distribution Licensee shall along with the aforesaid petition submit a statement on the status of compliance of
+directives, if any, issued by the Commission in its last tariff order.
+12.5
+The petition for determination of tariff shall include the details of actual subsidy received from the State Government
+vis-a-vis claimed by the Distribution Licensee in the True-up petition for the previous year:
+12.6
+The Commission may seek clarification and additional information on inadequacies in the application, if any, within 14
+days or as may be practicable, of filing of the application for approval of the Business Plan and application for
+determination of tariff, as the case may be.
+12.7
+The Distribution Licensee shall respond within the next 10 days to the Commission with all clarification and information
+as required.
+12.8
+The Commission shall admit the application for approval of the Business Plan and application for determination of tariff,
+as the case may be, within seven days or as may be required, of submission of response to the clarifications, if any, by
+the Distribution Licensee.
+12.9
+Upon receipt of a complete application accompanied by all requisite information, particulars and documents in
+compliance with all the requirements specified in these Regulations, the application for approval of the Business Plan
+and application for determination of tariff, as the case may be, shall be deemed to be received and the Commission or
+the Secretary or the designated Officer shall intimate to the applicant with the abridged form of application for publication
+Page 8/65
+----- PAGE 9 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+of public notice in the daily newspapers. In case of non-submission or delay in submission of additional information, the
+Commission may take suo-motu decision to formulate this abridged form of application as it deem appropriate.
+12.10
+The applicant shall, within three (3) days of the intimation given to him in accordance with Regulation 12.9, publish a
+notice inviting suggestions and objections from the public, in at least two (2) English and two (2) Hindi language daily
+newspapers widely circulated in the area to which the application pertains, outlining the proposed Business Plan or the
+proposed ARR and tariff, as the case may be, and such other matters as may be stipulated by the Commission.
+Provided that the applicant shall make available a hard copy of the complete application, to any interested party, at such
+locations and at such rates as may be stipulated by the Commission:
+Provided further that the applicant shall also put up on its internet website, in downloadable spreadsheet format showing
+detailed computations, the application made to the Commission along with all regulatory filings, information, particulars
+and documents in the manner so stipulated by the Commission:
+Provided further that the web-link to the information mentioned in the second proviso above shall be easily accessible,
+archived for downloading and shall be prominently displayed on the applicant's internet website:
+Provided also that the applicant may not provide or put up any such information, particulars or documents, which are
+confidential in nature, with the prior approval of the Commission.
+Explanation. - for the purpose of this Regulation, the term "downloadable spreadsheet format" shall mean one (or
+multiple, linked) spreadsheet software files containing all assumptions, formulae, calculations, software macros and
+outputs forming the basis of the application.
+12.11
+Notwithstanding anything contained in these Regulations, in case of delay/ non-submission of the application for
+approval of the Business Plan and application for determination of tariff, as the case may be, the Commission may
+initiate suo-motu proceedings mandating the filing of the said applications.
+Provided that in the event of the licensee not filing the application despite the aforesaid proceeding, the Commission
+may on its own, decide the tariff based on previous year's tariff details and after incorporating suitable adjustments.
+However before issuing tariff order under such circumstances, comments/ suggestions/ objections from the public and
+stake holders including the licensee will be invited and same will be considered for the tariff order.
+Provided further that the Commission may also pass directions under Section 129 and/or Section 142 of the Act, if
+required.
+13.
+Order approving the Business Plan and Tariff Order.
+- 13.1 An Order approving with such modifications or such conditions as may be specified in that order or rejecting the
+Business Plan shall, as far as practicable, be issued before the issue of tariff order separately or with the tariff order as
+the Commission may deem fit and practicable.
+13.2
+The Commission shall, within one hundred and twenty (120) days from receipt of a complete application for
+determination of ARR and tariff and after considering all suggestions and objections received from the public and after
+hearing all stakeholders and general public:-
+(a)
+issue a Tariff Order accepting the application with such modifications or such conditions as may be specified in that
+Order;
+(b)
+reject the application for reasons to be recorded in writing, if such application is not in accordance with the provisions of
+the Act and the Rules and Regulations made thereunder or the provisions of any other law for the time being in force:
+Provided that an applicant shall be given a reasonable opportunity of being heard before rejecting its application.
+13.3
+The applicant shall publish the tariff approved by the Commission within seven days of issue of tariff order in at least two
+(2) English and two (2) Hindi daily newspapers having wide circulation in the area of supply of the applicant and shall put
+up the approved tariff / tariff schedule on its internet website and make available for sale, a booklet containing such tariff
+schedule to any person upon payment of reasonable reproduction charges.
+13.4
+Page 9/65
+----- PAGE 10 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+The tariff so published shall be in force from the date specified in the said Order and shall, unless amended or revised,
+continue to be in force for such period as may be stipulated therein.
+14.
+True-Up Order.
+- The Commission shall True-Up expenses of the previous year either as part of the Tariff order or issue Order/s for
+True-Up of expenses preceding the Tariff order of ensuing year.
+(a)
+An order for True-Up of expenses shall be issued on annual basis.
+(b)
+An order for True-Up of expenses shall be on the basis of expense estimates made in the beginning of the year under
+consideration, actual expenses booked in the audited books of accounts of the Distribution Licensee for the year, and
+after prudence check of data by the Commission.
+(c)
+Where audited books of account are not available at the time of true-up provisional books of accounts duly approved by
+the Board of Directors of the applicant company shall be used for the provisional True-up process.
+(d)
+Estimates of expenses for the ensuing year shall be on the basis of corresponding figures in the order for True-up of
+expenses of the previous year and Annual Performance Review or Tariff Order of the current year, as the Commission
+may consider reasonable and deem fit.
+(e)
+Notwithstanding anything contained in regulation 4 of these Regulations, the Revenue gap/surplus arising out of Truing
+up shall be considered by the Commission while determining the ARR of ensuing year(s).While approving adjustments
+towards revenue/expenses in future years, arising out of Truing up exercises, the Commission may allow the carrying
+costs as determined by the Commission of such expenses/revenues. However the revised estimated gap/surplus as a
+result of APR shall not be passed in the ARR of ensuing year.
+15.
+Adherence to Tariff Order.
+- 15.1 If a Distribution Licensee recovers a price or charge exceeding the tariff determined under Section 62 of the Act
+and in accordance with these Regulations, the excess amount shall be payable to the person who has paid such price or
+charge, along with interest equivalent to the Bank Rate of the Reserve Bank of India without prejudice to any other
+liability that may be incurred by such Distribution Licensee.
+15.2
+The Distribution Licensee shall submit periodic returns as may be required by the Commission, containing operational
+and cost data to enable the Commission to monitor the implementation of its Order.
+Part - IV Sales, Power Purchase Quantum and Cost
+16.
+Metered Sales forecast.
+- 16.1 Forecasting Methodology Metered sales shall be treated as an uncontrollable parameter:
+Provided that open access transactions shall not form part of the sales:
+Provided further that sales forecast shall be based on past trends in each of the slabs of consumer categories. The
+cumulative annual growth rate (CAGR) of past 3 years of sales within each of the slabs of a consumer category as
+approved in True-up orders shall be used to forecast up to short and medium (5 years) time range:
+Provided also that in case of following occurrences, prudent adjustment of fore casted metered sales shall be carried
+out:
+(a)
+Abnormal trend or variation in the growth rate of particular category / slab consumer mix in any given area (on the basis
+of proposed city plan, tax holidays, Government incentives for industrial establishments, migration of consumers due to
+open access, etc.)
+(b)
+Abnormal trend in the growth rate of a particular slab/category of consumers.
+(c)
+Page 10/65
+----- PAGE 11 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Inflection point in economic cycle (boom, slowdown, recession or expansion)
+(d)
+Variations in weather conditions
+(e)
+Materially significant findings during audit check as per Regulation 16.2 of these regulations.
+Provided also that in cases where slab-wise sales to each consumer category are not available in audited books of
+accounts and only consolidated sales are available, the Distribution Licensee shall include the slab-wise sales along
+with the Business Plan and Tariff petition.
+16.2
+Overhaul Exercise
+(a)
+A team shall be formed by Distribution Licensee to validate the status of meters, load of metered consumers and
+category classification of consumers in the area of operations of Distribution Licensee.
+(b)
+The overhaul exercise shall be a year-long assessment study conducted on monthly basis for the first year subsequent
+to the notification of these Regulations.
+(c)
+For the overhaul exercise, consumers shall be sampled for a monthly overhaul from the circles served by the
+Distribution Licensee.
+Provided that the sample so chosen shall be close representation of geographic, demographic, industrial/ commercial/
+residential/ agricultural spread served by the Distribution Licensee:
+(d)
+In the event, inconsistencies are found in the number of metered consumers, status of the meters, load at consumer
+premises or category classification of the consumers, the forecast arrived at in Regulation 16.1 on the basis of CAGR of
+historical (3 years) audited sales shall be adjusted accordingly as specified in Regulation 16.1.
+17.
+Un-metered Sales Forecast.
+- 17.1 Methodology for determination of un-metered sales
+(a)
+Till the time 100% metering of electricity consumers is achieved in area of operation of Distribution Licensee, an
+independent study shall be conducted by the Distribution Licensee to assess actual consumption of power by
+un-metered consumer segment:
+(b)
+For three years including the date of notification of these Regulations, yearlong, month-wise, block-wise study referred in
+Clause (a) of Regulation 17.1 above shall be conducted by the Distribution Licensee and submitted to the Commission.
+(c)
+The study referred to in clause (b) of this Regulation shall cover actual consumption in the block (hours of usage,
+specifications of motor power etc.) demonstrating seasonal impact, economic development, demographics, consumption
+pattern, etc. This would aid to develop baseline norms pertaining to electricity consumption in un-metered consumer
+segments.
+(d)
+Baseline norms shall be established after completion of study in the first year which shall be revised/fine-tuned in the
+remaining two subsequent years.
+(e)
+After three years of annual study leading to streamlining of processes, study shall be conducted on alternate year basis.
+(f)
+Stratified random sampling shall be used to identify consumers in block/district of study which would be, well distributed
+representation of the block under purview such that sampled consumers shall exhibit same demographic profile, energy
+consumption pattern, water level etc. of the block.
+Provided that the sample selected shall be from all the subdivisions in the state.
+17.2
+Page 11/65
+----- PAGE 12 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Study of Agricultural feeders not segregated in significant numbers
+(a)
+The sample of consumers selected shall be monitored and the readings of consumption can be taken from the meters
+installed at each DT in the sample area.
+(b)
+The load of all the consumers connected on the DT in each of the sample area shall be validated each month to account
+for any additional load or replacement of old motor with new motor by the consumers.
+(c)
+Based on the result of yearlong month-wise study, the consumption pattern for selected subdivisions shall be
+established.
+(d)
+The results of the study shall be extrapolated to adjoining areas with similar water level and the same cropping patterns.
+(e)
+The month-wise analysis of the sample selected for the establishment of baseline shall be submitted to the Commission
+at regular intervals so that the directions of the Commission are incorporated before the completion of study.
+17.3
+Study of Agricultural feeders segregated in significant numbers
+(a)
+During the study, meters shall be installed at input points of the feeder at the sub-station and based on the load flow
+study the technical loss of the feeder will be evaluated.
+(b)
+The difference of the feeder meter consumption and technical losses will be agricultural consumption.
+Provided that such computation of agricultural consumption may include commercial losses the percentage of which
+shall be worked out by the Distribution Licensee during the annual study.
+(c)
+From every subsequent year, the study report shall be submitted to the Commission by 31st October for the
+Commission to have enough time to conduct validation check and analysis in collaboration with an independent agency
+and with due assistance of team designated by the Distribution Licensee.
+(d)
+The Distribution Licensee shall be informed as late as morning of the day scheduled for inspection by the Commission to
+have reality check and to ensure that power supply and the Distribution Licensee's personnel are available.
+(e)
+Any significant deviation in the parameters reported in annual study from the baseline study may necessitate revision of
+norms by the Commission.
+18.
+Treatment of Distribution Loss.
+- 18.1 Distribution Loss Distribution loss shall be considered as a controllable parameter. Based on the assessment of
+metered and un-metered sales as per Regulations 16 and 17 of these regulations, the Commission shall update existing
+baseline of distribution losses:
+Provided that circle-wise distribution loss reduction targets shall be approved by the Commission on the basis of
+circle-wise distribution loss, circle-wise differential tariff by way of separate and distinct distribution loss surcharge may
+also be considered by the Commission, if the Commission considers it appropriate and practicable.
+19.
+Power Purchase Quantum and Cost.
+(a)
+Based on the demand estimates, the power purchase quantum and cost shall be calculated.
+(b)
+The approved Power Purchase Quantum and cost shall be net of expected revenue from sale of surplus power, if any,
+during lean period.
+(c)
+Revenue from sale of surplus power shall be estimated at per unit weighted average price of bilateral purchases.
+Page 12/65
+----- PAGE 13 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+(d)
+If there is a short term requirement of power by the Distribution Licensee and such requirement is on account of any
+factor beyond the control of the Licensee (shortage/non-availability of fuel, snow capping of hydro resources inhibiting
+power generation in sources stipulated in the plan, unplanned/forced outages of power generating units or acts of God),
+then the cost shall be passed on to the customers with the approval of the Commission.
+Provided that the extra cost of the power so purchased shall normally be allowed subject to maximum rate of average
+cost of power purchase from long term and medium term sources. However notwithstanding any provisions under these
+Regulations, Commission may consider to allow a rate higher than the average cost of power purchase from long term
+and medium term sources for extra power so purchased on the basis of actual cost incurred subject to the maximum of
+the rate at which transaction of energy has taken place in the energy exchange, provided the licensee justifies the rate
+before the Commission with all relevant documents.
+19.1
+Power Purchase Planning. - (a) Comprehensive Power Procurement Plan shall be submitted as part of MYT petition to
+the Commission.
+(b)
+The Distribution Licensee shall prepare a short term (less than 1 year) and a medium term (5 years) plan, separately
+stated for peak and off peak periods, for unrestricted demand of electricity for each consumer category in its area of
+operation as per Regulation 16 and Regulation 17 of these regulations.
+(c)
+The demand projected shall be grossed-up with distribution losses (as determined by Regulation 18 of these
+regulations) and transmission losses to arrive at power purchase requirement for the Distribution Licensee.
+(d)
+The Distribution Licensee shall assess quantum of power available at its disposal from state's generating plants, central
+generating utilities, IPPs etc. and month-wise deficit/surplus schedule shall be developed, separately stated for both
+peak and off-peak period:
+(e)
+The procurement plan for medium term shall be through competitive bidding.
+(f)
+Long-term procurement plan shall include proposals about acquisition of demand side resources through "standard bid"
+or "competitive demand side resource bidding process". The procurement shall also include power from plants using
+renewable sources of energy at least to the extent stipulated by the Commission.
+(g)
+Due to in-firm nature of power from renewable sources of energy, alternate firm source of power (equivalent in terms of
+energy units) may be specified in the procurement plan (over and above total energy required).
+(h)
+Fixed cost pertaining to such alternate firm source of power, if any, shall be allowed to the Distribution Licensee and
+actual cost shall be Trued-up.
+20.
+Treatment of Incremental Power procurement cost.
+- 20.1 Identification of Incremental cost and process of recovery
+(a)
+The Distribution Licensee shall recover the incremental cost incurred due to the following:
+1. Own generation if the Distribution Licensee has its own generation.
+2. Cost due to variation in cost of power purchase on account of increase in fuel cost.
+(b)
+The incremental cost on own generation and power purchase shall be computed and charged on the basis of actual
+variation in fuel cost and power purchase cost vis-a-vis the cost approved in the tariff order and shall not be computed
+on the basis of estimated or expected variation in fuel/power purchase cost and shall be computed on the basis of
+formula provided in regulation 20.2 below, and shall be charged with prior approval of the Commission.
+(d)
+The Distribution Licensee shall submit details of the incremental cost incurred and to be charged to all consumers for the
+Page 13/65
+----- PAGE 14 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+entire month, along with the detailed computations and supporting documents as may be required for approval and
+verification by the Commission within first 15 days of the month end.
+(e)
+The Commission shall examine the incremental cost proposed by the Distribution Licensee with supporting documents
+submitted by the Licensee.
+(f)
+The Distribution Licensee shall upgrade the billing and IT systems to incorporate Incremental Costs (IC) as a component
+in tariff design.
+20.2
+Formula for computation of Incremental cost. - The formula and terms and conditions for calculation of the incremental
+charge on account of increase in fuel cost and power purchase cost namely fuel and power purchase cost adjustment
+(FPPCA) charges shall be as under:
+FPPCA (Paise / kWh)
+=
+Qc(Rc2-Rc1)+Qo(Ro2-Ro1)+Qpp(Rpp2-Rpp1)+Vz+A
+x100
+(Qpg 1 + Qpp 1+Qpp 2) x
+[
+1
+-
+L
+]
+100
+Where,
+Qc = Quantity of coal consumed during the adjustment period in Metric Tons (MT)
+= (SHR x QPg) (1+TSL)x1000 / GCV, or actual whichever is less Rc1 = Weighted average base rate of coal supplied
+ex-power station coal yard as approved by the Commission for the adjustment period in Rs. / MT
+Rc1 = Weighted average actual rate of the coal supplied ex-power station coal yard for the adjustment period in Rs. / MT
+Rc2 = Weighted average actual rate of the coal supplied ex-power station coal yard for the adjustment period in Rs. / MT
+Qo = Actual Quantity of oil (in KL) consumed during the adjustment period or normative oil consumption as per Tariff
+order whichever is less.
+Ro1 = Weighted average base rate of oil ex-power station (Rs./KL) approved by the Commission for the adjustment
+period.
+Ro2 = Weighted average actual rate of oil ex-power station supplied (Rs. / KL) during the adjustment period.
+Qpp = Total power purchased from different sources (kWh) = Qpp2+Qpp3
+QPP1
+=
+QPP3
+[
+1
+-
+TL
+]
+in Kwh
+100
+TL = Transmission loss (CTU) (in percentage terms).
+Qpp2 = Power purchase from sources with delivery point within the state transmission or distribution system (in kWh)
+Qpp3 = Power purchase from sources on which CTU transmission loss is applicable (in kWh)
+Rpp1 = Average rate of power purchase as approved by the Commission (Rs. / kWh)
+Rpp2 = Average rate of power purchased during the adjustment period (Rs. / kWh)
+Qpg = Own power generation (kWh)
+Page 14/65
+----- PAGE 15 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Qpg1 = Own power generation (kWh) at generator terminal - approved auxiliary consumption
+L = Percentage T&D loss as approved by the Commission or actual, whichever is lower.
+SHR = Station Heat Rate as approved by the Commission (Kcal / kWh)
+TSL = Percentage Transit and Stacking Loss as approved by the Commission.
+GCV = Weighted average gross calorific value of coal as fired basis during the adjustment period (Kcal / Kg).
+VZ = Amount of variable charges on account of change of cost of unknown factors like water charges, taxes or any other
+unpredictable and unknown factors not envisaged at the time of tariff fixation subject to prior approval of the Commission
+(Rs.)
+A = Adjustment, if any, to be made in the current period to account for any excess / shortfall in recovery of fuel or power
+purchase cost in the past adjustment period, subject to the approval of the Commission (Rs.)
+If there are more than one power stations owned by the Licensee Qc, Rc1, Rc2, Qo, Ro1, Ro2, Qpg and Qpg1 will be
+computed separately for each power station and sum of the increase/decrease of cost of all power stations shall be
+taken into consideration.
+Terms and conditions for application of the FPPCA formula
+(1)
+The basic nature of FPPCA is 'adjustment' i.e. passing on the increase or decrease in the fuel costs and power
+purchase costs, as the case may be, compared to the approved fuel costs and power purchase costs in the Tariff Order.
+(2)
+The operational parameters / norms fixed by the Commission in the Tariff Regulations / Tariff Order shall be the basis of
+calculating FPPCA charges.
+(3)
+The FPPCA will be recovered every month in the form of an incremental energy charge (Rs/kwh) in proportion to the
+energy consumption of the month in which incremental cost has been incurred and shall not exceed 10% of the
+approved avg. cost of supply in the Tariff order and balance amount, if any, in the FPPCA over and above this ceiling
+shall be carried forward to be billed in subsequent month.
+(4)
+Incremental cost of power purchase due to deviation in respect of generation mix or power purchase at higher rate shall
+be allowed only if it is justified to the satisfaction of the Commission.
+(5)
+Any cost increase by the licensee by way of penalty, interest due to delayed payments, and due to operational
+inefficiencies shall not be allowed.
+(6)
+FPPCA charges shall be levied on all categories of consumers.
+(7)
+Distribution licensee shall file detailed computation of actual fuel cost in Rs./kWh for each month for each of power
+stations of the state generators as well as cost of power purchase (Fixed and Variable) from each source/station and a
+separate set of calculations with reference to permitted level of these costs.
+(8)
+The data in support of the FPPCA claims shall be duly authenticated by an officer of the licensee, not below the rank of
+Chief Engineer on an affidavit supported with the certified copy of energy bills of power purchase, transmission and
+RLDC charges, bill for coal purchase and its transportation cost, oil purchase bill and the quantity of coal and oil
+consumed during the month.
+(9)
+Levy of FPPCA charge will be allowed only when it is ten (10) paise or more per unit. If it is less than 10 (ten) paise/unit,
+the same may be carried forward for adjustment in the next month.
+(10)
+The incremental cost per kWh due to the FPPCA arrived for a month shall be recovered in the energy bill of the month
+subsequent to the order of the Commission approving FPPCA with full details of rate and unit(s) on which FPPCA
+charges have been billed. The Generating Company and the Distribution Licensee shall provide along with the proposal
+of FPPCA (as applicable to them) for a month, a compliance report of the previous order of the commission in respect of
+FPPCA.
+Page 15/65
+----- PAGE 16 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+20.3
+Incremental cost realisation per unit of electricity consumption. - The Commission may approve recovery of incremental
+cost on account of fuel and power purchase cost from the consumers in one or more monthly installment.
+Part - V Financial Principles
+21.
+Components of ARR.
+- The Aggregate Revenue Requirement (ARR) for the Distribution Business of the Distribution Licensee for each year of
+the Control Period, shall contain the following financial parameters:
+A. Quantum and Cost of power procurement from various sources
+B. Transmission and load dispatch charges
+C. Operation and Maintenance expenses;
+D. Depreciation
+E. Contingency Reserves;
+F. Interest on Loan;
+G. Interest on Working Capital;
+H. Return on Equity;
+I. Bad debts, if any
+J. Income Tax;
+K. Non-Tariff Income; and
+L. Income from Other Business
+M. Interest on security deposit.
+22.
+Operation & Maintenance Expenses.
+(a)
+The Commission shall stipulate a separate trajectory of norms for each of the components of O&M expenses viz.,
+Employee cost, Repair and Maintenance (R&M) expense and Administrative and General (A&G) expense.
+Provided that such norms may be specified for a specific Distribution Licensee or a class of Distribution Licensees.
+(b)
+Norms shall be defined in terms of combination of number of personnel per 1000 consumers and number of personnel
+per substation along with annual expenses per personnel for Employee expenses; combination of A&G expense per
+personnel and A&G expense per 1000 consumers for A&G expenses and R&M expense as percentage of gross fixed
+assets for estimation of R&M expenses:
+(c)
+One-time expenses such as expense due to change in accounting policy and arrears paid due to pay commission
+recommendation shall be excluded from the norms in the trajectory.
+(d)
+The unforeseen expenses beyond the control of the Distribution Licensee such as pay revision, shall be excluded from
+the norms in the trajectory.
+(e)
+The One-time expenses and the expenses beyond the control of the Distribution Licensee shall be allowed by the
+Commission over and above normative Operation & Maintenance Expenses after prudence check.
+(f)
+The norms in the trajectory shall be specified over the control period with due consideration to productivity
+improvements.
+(g)
+The norms shall be determined at constant prices of base year and escalation on account of inflation shall be over and
+above the baseline.
+(h)
+The Distribution Licensee specific trajectory of norms shall be identified by the Commission on the basis of absolute and
+relative analysis.
+(i)
+Page 16/65
+----- PAGE 17 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+In absolute analysis, Distribution Licensee's audited accounts of operations for last three years, expenses claimed for
+control period, historically approved cost, and prudence check shall be used by the Commission to estimate values of
+norms.
+(j)
+In relative analysis, performance parameters of other Distribution Licensees within the same state or in other states,
+shall be considered by the Commission to estimate norms.
+Provided that other Distribution Licensees so chosen shall have similar profile as that of the Distribution Licensee under
+consideration in terms of consumer mix, type of license area (city, state, etc.) type of distribution networks, viz.,
+underground/overhead, High Tension (HT) consumer, Low Tension (LT) consumer ratio, etc.
+(i)
+Suitable average of outcomes of absolute and relative analysis shall be taken by the Commission to fix the norms over
+the control period for the Distribution Licensee.
+22.1
+Employee Cost. - Employee cost shall be computed as per the approved norm escalated by consumer price index (CPI),
+adjusted by provisions for expenses beyond the control of the Distribution Licensee and one time expected expenses,
+such as recovery/adjustment of terminal benefits, implications of pay commission, arrears and Interim Relief, governed
+by the following formula:
+EMPn = (EMPb * CPI inflation) + Provision
+Where:
+EMPn : Employee expense for the year n
+EMPb : Employee expense as per the norm
+CPI inflation : is the average increase in the Consumer Price Index (CPI) for immediately preceding three years
+Provision : Provision for expenses beyond control of the Distribution Licensee and expected one-time expenses as
+specified above.
+Till the norms is specified by the Commission the employee cost shall be determined on the basis of actual historical
+cost.
+22.2
+Repairs and Maintenance (R&M) Expense. - Repairs and Maintenance expense shall be calculated as percentage (as
+per the norm determined) of Opening Gross Fixed Assets for the year governed by following formula:
+R&Mn = Kb * GFAn
+Where:
+R&Mn : Repairs & Maintenance expense for nth year
+GFAn : Opening Gross Fixed Assets for nth year
+Kb : Percentage point as per the norm
+22.3
+Administrative and General (A&G) Expense. - A&G expense shall be computed as per the norm escalated by wholesale
+price index (WPI) and adjusted by provisions for confirmed initiatives (IT etc. initiatives as proposed by the Distribution
+Licensee and validated by the Commission) or other expected one-time expenses, and shall be governed by following
+formula:
+A&Gn = (A&Gb * WPI inflation) + Provision Where:
+A&Gn: A&G expense for the year n
+A&Gb: A&G expense as per the norm
+WPI inflation: is the average increase in the Wholesale Price Index (WPI) for immediately preceding three years
+Provision: Cost for initiatives or other one-time expenses as proposed by the Distribution Licensee and validated by the
+Commission.
+Till the norms of A&G expenses is specified by the Commission, the actual historical cost will be considered for
+determination of A&G expenses.
+23.
+Treatment of Depreciation.
+(a)
+Depreciation shall be calculated for each year of the control period on the original cost of the fixed assets of the
+Page 17/65
+----- PAGE 18 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+corresponding year.
+(b)
+Depreciation shall not be allowed on assets funded by capital subsidies, consumer contributions or grants.
+(c)
+Depreciation shall be calculated annually on the basis of assets capitalized and put to use based on the straight line
+method over the useful life of the asset and at the rate specified by the Central Electricity Regulatory Commission.
+(d)
+The residual value of assets shall be considered as 10% and depreciation shall be allowed to a maximum of 90% of the
+original cost of the asset.
+The Distribution Licensee shall submit separate detail of fully depreciated asset along with year of commissioning and
+year of attaining ninety percent depreciation with the tariff petition..
+Provided that Land shall not be treated as a depreciable asset and its cost shall be excluded while computing 90% of
+the original cost of the asset:
+(e)
+Depreciation shall be charged from the first year of commercial operation of the asset.
+Provided that in case the operation of the asset is for a part of the year, depreciation shall be charged on proportionate
+basis:
+(f)
+A provision of replacement of assets shall be made in the capital investment plan.
+24.
+Contribution to Contingency Reserve.
+(a)
+If the Distribution Licensee has made an appropriation to the Contingency Reserve, a sum not less than 0.25 per cent
+and not more than 0.5 per cent of the original cost of fixed assets shall be allowed annually towards such appropriation
+in the calculation of ARR:
+(b)
+The amount so appropriated shall be invested in securities authorized under the Indian Trusts Act, 1882 within a period
+of six months of close of the financial year.
+Provided that no diminution in the value of contingency reserve shall be allowed to be adjusted as a part of tariff.
+(c)
+The Contingency Reserve shall not be drawn upon during the term of the license except to meet such charges as may
+be approved by the Commission, such as following:
+(i)
+Expenses or loss of profits arising out of accidents, strikes or circumstances which the management could not have
+prevented;
+(ii)
+Expenses on replacement or removal of plant or works other than expenses required for normal maintenance or
+renewal;
+(iii)
+Compensation payable under any law for the time being in force and for which no other provision is made:
+Provided that such drawl from contingency reserve shall be computed after making due adjustment for any other
+compensation that may have been received by the Licensee as part of an insurance cover:
+25.
+Treatment of Interest on loan.
+(a)
+The Distribution Licensee shall provide detailed loan-wise, project-wise and utilization-wise details of all the loans.
+(b)
+If the equity actually deployed is more than 30 % of the capital cost, equity in excess of 30 % shall be treated as
+normative loan:
+Provided that where equity actually deployed is less than 30% of the capital cost, the actual loan shall be considered for
+determination of interest on loan:
+Page 18/65
+----- PAGE 19 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+(c)
+Actual loan or normative loan, if any, shall be referred as gross normative loan in this Regulation.
+(d)
+The normative loan outstanding as of 1st April of control period shall be computed by deducting the cumulative
+repayment as approved by the Commission (basis as mentioned below) up to 31st March of current period (a year
+before control period) from the gross normative loan.
+(e)
+The repayment for the control period shall be deemed to be equal to the depreciation allowed for the year.
+(f)
+Notwithstanding any moratorium period availed by the Distribution Licensee, the repayment of the loan shall be
+considered from the first year of the control period as per annual depreciation allowed.
+(g)
+The rate of interest shall be the weighted average rate of interest calculated on the basis of actual loan portfolio at the
+beginning of each year of the control period, in accordance with terms and conditions of relevant loan agreements, or
+bonds or non-convertible debentures:
+Provided that if no actual loan is outstanding but normative loan is still outstanding, the last available weighted average
+rate of interest shall be applicable.
+Provided further that the interest on loan shall be calculated on the normative average loan of the year by applying the
+weighted average rate of interest:
+Provided also that exception shall be made for the existing loans which may have different terms as per the agreements
+already executed if the Commission is satisfied that the loan has been contracted for and applied to identifiable and
+approved projects:
+(h)
+The Distribution Licensee shall make every effort to refinance the loan as long as it results in net benefit to the
+consumers.
+Provided that the cost associated with such refinancing shall be eligible to be passed through in tariffs and the benefit on
+account of refinancing of loan and interest on loan shall be shared in the ratio of 50:50 between the Distribution
+Licensee and the consumers.
+Provided further that the Distribution Licensee shall submit the calculation of such benefit to the Commission for its
+approval.
+(i)
+The Distribution Licensee shall enable tracking of the loans converted into grants under schemes like APDRP,
+R-APDRP, RGGVY, RSVP, etc or any other loan from the Central or State Government by providing information and
+data regularly to the Commission, for enabling the Commission to recover from Distribution Licensee the amount of
+interest on loans which have been passed on to the consumers in the earlier years and have been converted into grant
+subsequently so that the recovered amount is passed on to the consumers.
+(j)
+Addition to loan during the year for interest purpose will be restricted to the quantum of assets capitalized and put to
+use.
+26.
+Interest on Working Capital.
+- The Distribution Licensee shall be allowed interest on estimated level of working capital for the financial year,
+computed as follows:
+(a)
+O&M expenses for one month
+(b)
+Two months equivalent of expected revenue
+(c)
+Maintenance spares @ 40% of R&M expenses for one month:
+Less:
+(i)
+Page 19/65
+----- PAGE 20 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Power purchase cost, transmission charges and load dispatch charges of one month
+(ii)
+Depreciation, return on equity and contribution to contingency reserves
+(iii)
+Security deposits from consumers, if any.
+Provided that the interest on working capital shall be on normative basis and rate of interest shall be equal to the State
+Bank Advance Rate (SBAR) as of the date on which petition for determination of tariff is accepted by the Commission.
+Provided further that interest shall be allowed on consumer security deposits and security deposits from Distribution
+System users at the Bank Rate as of the date on which the petition for determination of tariff is accepted by the
+Commission.
+Provided further that if the State Government is providing resource gap grant or subsidy, working capital shall be
+reduced by that amount.
+27.
+Treatment of Return on equity.
+(a)
+Return on equity shall be computed on 30% of the capital base or actual equity, whichever is lower:
+Provided that assets funded by consumer contribution, capital subsidies/ grants and corresponding depreciation shall
+not form part of the capital base. Actual equity invested in the Distribution Licensee as per book value shall be
+considered as perpetual and shall be used for computation in this Regulation:
+(b)
+The return on the equity invested shall be allowed from the date of start of commercial operation:
+(c)
+The project which will be commissioned w.e.f. 01.04.2016 will be allowed RoE of 15.5% and if project is completed in
+schedule period 0.5% incentives in form of RoE will be allowed.
+28.
+Bad and Doubtful Debts.
+- Bad and Doubtful Debts shall be allowed as a legitimate business expense provided the distribution licensee actually
+identifies and writes off bad debts as per the transparent policy approved by the Commission. In case there is any
+recovery of bad debts already written off, the recovered bad debt will be treated as other income.
+29.
+Income Tax.
+(a)
+Income Tax, if any, on the Licenced business of the Distribution Licensee shall be treated as expense and shall be
+recoverable from consumers through tariff. However, tax on any income other than that through its Licenced business
+shall not be a pass through, and it shall be payable by the Distribution Licensee itself.
+(b)
+The income tax actually payable or paid shall be included in the ARR. The actual assessment of income tax should take
+into account benefits of tax holiday, and the credit for carry forward losses applicable as per the provisions of the Income
+Tax Act 1961 shall be passed on to the consumers.
+(c)
+Tax on income, if any, liable to be paid shall be limited to tax on return on the equity component of capital employed.
+However any tax liability on incentives due to improved performance shall not be considered.
+30.
+Non-Tariff Income.
+(a)
+All incomes being incidental to electricity business and derived by the Licensee from sources, including but not limited to
+profit derived from disposal of assets, rents, delayed payment surcharge, meter rent (if any), income from investments
+other than contingency reserves, miscellaneous receipts from the consumers, other miscellaneous receipts, income to
+Licensed business from the Other Business of the Distribution Licensee and any other income mentioned in Schedule-5
+of The Electricity (Supply)Annual Accounts Rule 1985 shall constitute Non-Tariff Income of the Licensee
+(b)
+Page 20/65
+----- PAGE 21 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+The amount received by the Licensee on account of Non-Tariff Income shall be deducted from the Aggregate Revenue
+Requirement in calculating the net revenue requirement of Distribution Licensee.
+31.
+Income from Other Business.
+- Where the Distribution Licensee is engaged in any other business, the income from such business will be deducted
+from the Aggregate Revenue Requirement in calculating the revenue requirement of the Licensee in the manner and in
+proportion as may be specified by the Commission in BERC (Treatment of Income of Other Businesses of Transmission
+Licensees and Distribution Licensees) Regulations, 2013 and its amendments from time to time.
+Provided that the Licensee shall follow a reasonable basis for allocation of all joint and common costs between the
+Distribution Business and the Other Business and shall submit the Allocation Statement as approved by the Board of
+Directors to the Commission along with the application for determination of tariff;
+Provided further that where the sum total of the direct and indirect costs of such Other Business exceed the revenues
+from such Other Business or for any other reason, no amount shall be allowed to be added to the Aggregate Revenue
+Requirement of the Distribution Licensee on account of such Other Business.
+32.
+Treatment of Regulatory Assets.
+(a)
+Regulatory assets shall not normally be created against cost/loss incurred in normal course of business.
+(b)
+The amortization schedule corresponding to the regulatory asset shall be approved by the Commission and put in effect
+along with creation of the regulatory asset. The amortization schedule shall normally provide for recovery of the
+regulatory asset within a period not exceeding three years.
+(c)
+The carrying cost of the regulatory asset shall be in line with the State Bank Advance Rate (SBAR) for the tenure for
+which regulatory asset has been created.
+(d)
+There shall not be a long gap in truing up of accounts of the Distribution Licensee so as to prevent the need for creation
+of the regulatory asset.
+Part - VI Wheeling and Retail Supply Business
+33.
+Segregation of Wheeling Business and Retail Supply Business.
+- The Distribution Licensee shall maintain separate books of accounts for Wheeling Business and Retail Supply
+Business. For such period until accounts are segregated and separate books of accounts are maintained, the
+Commission shall stipulate the ratio of allocation of all expenses and return component, based on data obtained from
+the Distribution Licensees. The following broad principles shall be followed for allocation of costs towards wheeling
+business and supply business, out of the total annual Aggregate Revenue Requirements determined:
+(a)
+Power purchase cost shall be allocated to the Retail Supply business
+(b)
+Operation and Maintenance expenses shall be segregated between wheeling and retail supply businesses in such
+manner as may be determined by the Commission;
+(c)
+Majority of the capital expenditure related expenses, viz., depreciation, interest and return on equity, shall be included
+under the wheeling business;
+Note. - The Retail Supply Business would require only a small component of the capital expenditure towards billing and
+collection activity.
+Part - VII Norms of Operation
+34.
+Target Availability and Recovery of ARR.
+(a)
+Recovery of the annual Aggregate Revenue Requirement determined as per the norms under these regulations shall be
+Page 21/65
+----- PAGE 22 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+based on achievement of the target availability index as under:
+The Availability index shall be computed for both Wheeling Business and Retail Supply Business of the Distribution
+Licensee on yearly basis as per following:
+For Wheeling Business:
+Wheeling Network Availability Index (%) = (1-(SAIDI/8760)) X 100
+Where,
+SAIDI = Sum of all customer interruption durations/Total number of consumers served
+For Retail Supply Business:
+The Supply Availability shall be measured on the basis of power contracted by the Distribution Licensee on a long-term
+basis as per the power procurement plan under following heads:
+Base Load Supply Availability = ((Actual Contracted Base Load Supply (MW)) X (Number of Off-Peak hours)) / ((Base
+Load in MW) X (Number of Off-Peak hours)) Peak Load Supply Availability = ((Actual Contracted Peak Load Supply
+(MW)) X (Number of Peak hours)) / ((Peak Load in MW) X (Number of Peak hours)) Supply Availability Index = 75% of
+Base Load Supply Availability + 25% of Peak Load Supply Availability
+(b)
+The Distribution Licensee shall maintain data on planned maintenance outages, load shedding, force majeure outages
+and tripping's.
+(c)
+The incentive/disincentive shall exclude the circumstances when the actual supply differs from the contracted supply
+due to force majeure situations, weather conditions, extreme monsoon failure, station outages, etc. which are beyond
+the control of the Distribution Licensee.
+(d)
+The Commission shall specify progressively increasing normative levels of Availability for Wheeling and Supply
+Business of the Distribution Licensee on the basis of past performance over the control period.
+Provided that the Availability of Retail Supply Business shall not be lower than 90% and shall gradually increase to 95%
+or 98% in no less than three years 1
+(e)
+The additional ARR shall be considered as +/- 0.2% of ARR for every percentage point increase/decrease in Availability
+vis-a-vis the normative levels of availability.
+Provided that the maximum additional return that can be earned/reduced shall be +/- 2% of ROE
+Part - VIII Subsidy, Cross Subsidy and Tariff Design
+35.
+Subsidy.
+(a)
+The Commission shall determine the ARR and Tariff without considering subsidy.
+Provided that if the State Government declares subsidy for the categories of consumers after notification of Tariff Order,
+the licensee shall incorporate the same in the tariff and intimate the Commission with the revised Tariff Schedule that
+shall be charged if the subsidy is received in advance:
+Provided further that in case the State Government declares subsidy in advance or during tariff filing proceedings and
+the licensee incorporates the subsidy in the petition, the Commission shall notify two tariff schedules, one with subsidy
+and the other without subsidy:
+Provided also that the Government's subsidy provided for or declared shall be supported by documentary evidence of
+time schedule of payment, mode of the payment of the subsidy and categorization of the subsidy amount into subsidized
+consumer categories:
+(b)
+The Commission may clarify in the tariff order, post the declaration from the Government, the quantum of Government's
+subsidy as applicable to the fuel cost adjustment along with the range (%) of variable cost upto which the fuel
+adjustment cost shall not be passed to the consumers, category wise classification, mode of payment and schedule of
+payment etc.
+(c)
+In case of no disbursement or delayed disbursement of subsidy by the Government, the licensee shall charge
+Page 22/65
+----- PAGE 23 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+consumers as per the tariff schedule which is approved by the Commission without consideration of subsidy.
+(d)
+In case the amount of subsidy by the Government is not utilized in full, the balance amount of subsidy amount shall be
+used for adjusting in ARR of the ensuing year(s)
+36.
+Cross Subsidy, Allocation of Cost to Serve and Tariff Design.
+(a)
+The Commission shall notify a road map for reduction of cross subsidies within control period. The road map shall also
+have intermediate milestones, based on the approach of a gradual reduction in cross subsidy.
+(b)
+The Distribution Licensee shall compute the consumer category-wise cost of supply as per the methodology elaborated
+below.
+(c)
+Allocation of Cost: The Cost to serve shall be allocated to the consumer categories in the following manner:
+Step 1: Functionalization of Cost. - Total cost shall be divided on the basis of functions performed such as power
+purchase, distribution etc.
+Step 2: Classification of Cost. - Each of the functionalized costs shall be further classified, based on its intrinsic nature
+into Demand related cost, Energy related cost and Customer related cost. Demand related costs shall generally be of
+fixed nature, related to capacity creation and shall include interest on capital borrowing, depreciation etc. Energy cost
+shall be related to quantum of electricity consumption of consumer, such as fuel cost, interest on working capital, etc.
+Consumer related cost shall include operating expenses associated with meter reading, billing and accounting.
+Step 3: Allocation of Cost. - i. Allocation of Demand Costs: Demand costs of all three functions shall be allocated among
+consumer categories on the basis of average coincident peak demand of the tariff categories (average of past 12
+months). To facilitate determination of average coincident peak demand for the various tariff categories, load research
+shall be made an integral part of the operations of the DISCOMs and systematic load research exercises shall be
+initiated.
+ii. Allocation of Energy Costs: Energy related costs of Distribution functions shall be allocated to consumer categories on
+the basis of ratio of electricity consumption of each consumer category to the total electricity consumption under the
+purview of the Distribution Licensee. Energy related costs of Power purchase shall be allocated to various tariff
+categories on the basis of block approach on merit order dispatch and incremental principle, where each tariff category
+shall be allocated the incremental (energy related) power purchase cost on the basis of their respective share in the
+incremental power purchase. For the purpose of operationalising the block approach and incremental principle, the
+Commission shall identify and notify a suitable year as the "base year".
+iii. Allocation of Customer Costs: Customer related costs shall be allocated to consumer categories on the basis of the
+ratio of number of consumers in each category to total number of consumers under the purview of the Distribution
+Licensee.
+(d)
+Summation of allocated Demand cost, Energy cost and Customer cost across functions shall be total Cost to serve for
+respective consumer categories. Cost to serve reduced by revenue from a consumer category shall give total subsidy
+for that category. Total subsidy for a consumer category reduced by Government subsidy, if any, shall be cross-subsidy
+for that consumer category.
+(e)
+The consumers below poverty line who consume power below a specified level, say 30 units per month, shall receive a
+special support through cross subsidy.
+(f)
+Cross-subsidy surcharge and additional surcharge in Open Access - (1) The amount received or to be received by the
+licensee on account of cross-subsidy surcharge and additional surcharge, as approved by the Commission from time to
+time in accordance with the Regulations specified by the Commission, shall be shown separately against the consumer
+category that is permitted open access as per the phasing plan.
+(2)
+Cross-subsidy surcharge and additional surcharge shall be shown as revenue from the tariff from the consumer
+Page 23/65
+----- PAGE 24 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+categories who have been permitted open access and such amount shall be utilized to meet the cross-subsidy
+requirements of subsidized categories and fixed costs of the Distribution Licensee arising out of his obligation to supply.
+Provided that the licensee shall provide such details in its annual filings.
+(g)
+Tariff Design - (1) The Commission shall be guided by the objective that the tariff progressively reflects the efficient and
+prudent cost of supply of electricity.
+(2)
+After the costs have been allocated based on the method specified in clauses (c) and (d) above, tariffs for different
+consumer categories shall be designed with due regard to factors provided under section 62(3) of the Act.
+(3)
+The time of day tariff would be structured across three time slabs to denote normal, peak and off-peak periods. The
+time-periods would vary according to different seasons of the year i.e. summer, winter and the monsoon season. The
+peak tariff would be 20%-30% higher than the normal tariff and the off-peak tariff would be priced 15%-20% lower than
+the normal tariff.
+(4)
+The peak and off-peak hours during seasons shall be as notified by the State Load Dispatch Centers in advance.
+(5)
+Time of Day tariff shall be introduced in a phased manner, wherein in phase 1 it would be compulsory for HT
+Consumers, in phase 2 - compulsory for LT consumers consuming more than 25 KW and in phase 3 compulsory for LT
+consumers consuming more than 10 KW.
+Part - IX Miscellaneous
+37.
+Power to amend.
+- The Commission may, at anytime, amend, alter or modify any provision of these Regulations.
+38.
+Power to remove difficulties.
+- If any difficulty arises in giving effect to the provisions of these Regulations, the Commission may, by general or
+specific order, make such provisions not inconsistent with the provisions of the Act, as may appear to be necessary for
+removing the difficulty.
+39.
+Right to vary terms and conditions.
+- The terms and conditions for determination of tariff specified in these regulations are in the nature of general
+framework on the basis of which the tariff shall be determined. The Commission reserves its right to vary these terms
+and conditions, as and when deems fit.
+40.
+Limitation of Power of Commission.
+- Nothing in these regulations shall be deemed to limit the powers of the Commission to deal with any matter or exercise
+any power under the relevant Acts for which no regulations have been made / framed and to make such orders as it may
+consider appropriate to meet the ends of justice in any case.
+41.
+Repeal and savings.
+(a)
+Save as otherwise provided in these regulations, regulations 79 to 93 under chapter 5 & 6 of the BERC (Terms and
+Conditions for Determination of Tariff) Regulations, 2007, and its amendments from time to time are hereby repealed.
+(b)
+The other part of BERC (Terms and Conditions for determination of Tariff) Regulations, 2007 and its amendments shall
+remain applicable and where a difference is found in the Regulation relating to MYT of distribution licensee the provision
+of these Regulations shall prevail
+(c)
+Notwithstanding such repeal, any proceedings before the Commission pertaining to the period prior to the
+commencement of the Control Period, including Petitions for True up of expenses, annual performance review, etc. shall
+Page 24/65
+----- PAGE 25 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+be governed by BERC (Terms and Conditions of Determination of Tariff) Regulations 2007 and its amendments from
+time to time.
+Sl.No.
+Format Sl.
+Particulars
+Page No.
+1.
+Format-1
+Energy Sales
+35
+2.
+Format-2
+Distribution Losses
+36
+3.
+Format-3
+Source-wise Quantum of Power Purchase
+37
+4.
+Format-4
+Energy Requirement and Energy Balance
+38
+5.
+Format-5
+Power Purchase Cost
+39-40
+6.
+Format-6
+Employee Details
+41
+7.
+Format-7
+Employee Cost
+42
+8.
+Format-8
+Employees Productivity Parameters
+43
+9.
+Format-9
+Repair and Maintenance Expenses
+44
+10.
+Format-10
+Administration and General Expenses
+45
+11.
+Format-11
+Investment Plan (Scheme-wise)
+46
+12.
+Page 25/65
+----- PAGE 26 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Format-12
+Investment Plan (Year-wise)
+47
+13.
+Format-13
+Fixed Assets
+48
+14.
+Format-14
+Gross Fixed Assets (GFA)
+49
+15.
+Format-15
+Value of Assets and Depreciation Charges
+50
+16.
+Format-16
+Depreciation Charges
+51
+17.
+Format-17
+Capital Work-In-Progress
+52
+18.
+Format-18
+Details of Loans for the year
+53
+19.
+Format-19
+Information Regarding Restructuring of
+Outstanding Loans During the Year
+54
+20.
+Format-20
+Interest and Finance Charges
+55
+21.
+Format-21
+Interest Capitalized
+56
+22.
+Format-22
+Lease details
+57
+23.
+Format-23
+Interest on Working Capital
+58
+24.
+Format-24
+Contribution to Contingency Reserve
+Page 26/65
+----- PAGE 27 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+59
+25.
+Format-25
+Information Regarding Amount of Equity &
+Loan
+60
+26.
+Format-26
+Information Regarding Amount of Income Tax Paid
+(for previous financial years)
+61
+27.
+Format-27-A
+Non Tariff Income (on existing rates)
+62
+28.
+Format-27-B
+Non Tariff Income (on proposed tariff)
+63
+29.
+Format-28
+Information Regarding Revenue from Other
+Business
+64
+30.
+Format-29
+Aggregate Revenue Requirement (ARR)
+65
+31.
+Format-30-A
+Revenue from Existing Tariff
+66
+32.
+Format-30-B
+Revenue from Proposed Tariff
+67
+33.
+Format-31
+Revenue Gap (Ensuing Year)
+68
+34.
+Format-32
+Information Regarding Grant/Subsidy from State
+Govt/Central Govt.
+69
+35.
+Format-33
+Voltage-wise Cost of Supply
+70-71
+36.
+Format-34
+Page 27/65
+----- PAGE 28 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Tariff Structure and Rate
+72-73
+37.
+Format-35
+Computation of Cross Subsidy
+74
+38.
+Format-36
+Wheeling & Open Access Charges
+75
+Format - 1
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Energy Sales
+(Separately for previous, current and ensuing financial years of control period)
+S.N
+Category of Consumers
+No. of Consumers at the end of the year (Nos.)
+Connected Load at the end of the year(KW)
+Energy Sale / Demand (MUs)
+1
+2
+3
+4
+5
+1
+Domestic
+(a) 'Kutir Jyothi'
+Metered
+Un-metered
+(b) Domestic Service
+I (DS I)
+Metered
+Un-metered
+(c) Domestic Service II (DS II) Metered
+(d) Domestic Service III (DS III) Metered
+Sub - Total
+2
+Non Domestic Services
+(NDS)
+(a) NDS-I
+(b) NDS-II
+(d) NDS-III
+Sub - Total
+3
+Irrigation and Agricultural Service (I.A.S)
+IAS - I Metered
+IAS - I Un-metered-
+IAS - II Metered -
+IAS - II Un-metered -
+Sub - Total
+Page 28/65
+----- PAGE 29 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+4
+L.T. Industrial
+Service (L.T.I.S)
+(a) LTIS-I
+(b) LTIS-II
+5
+Street light Service
+SS-I Metered
+SS-II Un-metered
+Sub - Total
+6
+11 kV High Tension Service (HTS I)
+7
+33 kV High Tension Service (HTS II)
+8
+132 kV High Tension Service (HTS III)
+9
+High Tension specified service (HTSS)
+Sub - Total
+10
+Railway Traction Service (RTS)
+Sub - Total
+Grand Total
+11
+Total Sale 1 to 10)
+12
+Sales to Electricity Traders, if any
+13
+Sales to Other Distribution Licensees, if any
+14
+Total Sales in the State.
+15
+Sales outside State/UI
+16
+Sales to Nepal
+17
+Gross Sales
+Note. - (1) Month-wise agriculture consumption data as per sample meters may also be supplied for different years
+separately for mono block and submersible agricultural pump sets.
+(2)
+The information shall be given as required by the Commission to determine the tariff.
+(3)
+Category of consumers in column 2 should be as per tariff structure proposed in the tariff petition.
+(4)
+Slab-wise and connected load-wise consumption in those categories in which tariff rate is provided slab-wise shall be
+submitted separately.
+Format - 2
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Distribution Losses
+[In Percentage]
+Page 29/65
+----- PAGE 30 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Particular
+Previous FY
+Current FY
+Ensuing Years
+Distribution Losses
+Format - 3
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee:
+Source-wise Capacity Allocation (in MW) and Power Purchase (in MU)
+From Different Sources
+S.N
+Name of Source
+Total Capacity (MW)
+Share of Discom (MW)
+Previous year (Actuals)
+Current Year (R.E) (MU)
+Ensuing year (s) (Projection)
+MW
+MU
+MW
+MU
+MW
+MU
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+A
+Through Inter-State Transmission
+(i) .........
+(ii) ........
+(iii) ........
+(iv) .........
+(v) .......
+......
+Sub Total
+B
+Through Intra-State Transmission
+(i) .........
+(ii) ........
+(iii) ........
+(iv) .........
+(v) .......
+........
+Sub Total
+Page 30/65
+----- PAGE 31 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+C
+Distributed Generation
+D
+TOTAL (A+B+C)
+Format - 4
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Energy Requirement and Energy Balance for FY _______
+Particular
+Unit
+Previous FY
+Current FY
+Ensuing Years
+A.
+Energy Requirement
+(1)
+Energy, Sales within the area
+MU
+(2)
+Distribution loss
+%
+(3)
+Distribution losses
+MU
+(4)
+Energy required at distribution periphery
+MU
+(5)
+Energy transferred to other discom
+MU
+(6)
+Energy transferred to other states/UI
+MU
+(7)
+Total Energy required (4+5+6)
+MU
+(8)
+State Transmission losses
+%
+(9)
+State Transmission losses
+MU
+(10)
+Energy required at state transmission periphery
+(7+9)
+MU
+B.
+Energy Availability
+(1)
+From Central Sector
+MU
+Page 31/65
+----- PAGE 32 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+(2)
+From State Generating Stations
+MU
+(3)
+From Renewable Sources
+MU
+(4)
+Others
+MU
+(5)
+Total Power Available (MU)
+MU
+(6)
+CTU Transmission losses on (1)
+%
+(7)
+CTU Transmission losses
+MU
+(8)
+Net Power Available at state periphery (5-7)
+MU
+(9)
+Surplus / (Deficit) Energy at Distribution
+peripheral (B8-A10)
+MU
+Format - 5
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Power Purchase Cost
+SI. No.
+Power Purchase Sources
+% age allocation MW
+Previous Year
+Energy MU
+Fixed Charge rate (Rs/MW)
+Fixed charge Rs. Cr.
+Energy Rate Rs./kWh
+Energy charge Rs. Cr.
+Total Charges Rs. Cr.
+Avg. Tariff Rate Rs./kWh
+Energy MU
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Page 32/65
+----- PAGE 33 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Central Sector Stations
+1
+NTPC Stations
+Farakka 1,2 & 3
+Talchar
+Kahalgoan 1 & 2
+Barh - Stg 2U #1
+Nabinagar - NTPC
+NTPC Total
+2
+NHPC Stations
+Rangit
+Teesta
+NHPC Total
+3
+PTC Stations
+Chukka
+Tala
+PTC Total
+4
+DVC
+Sub Total Central Stations
+5
+State Generating Stations
+BTPS
+KBUNL Stage 1 U #1
+KBUNL Stage 1 U #2
+SGS Total
+6
+Medium/ Short Term/ Others
+......
+......
+.......
+Others Total
+7
+Renewable Power Purchase
+BSHPC
+Sugar Mills
+Solar Power Purchase
+REC (Solar)
+REC (Non- Solar)
+Renewable Total
+Total Power Purchase
+Current Year
+Ensuing Year (s)
+Fixed Charge rate (Rs/MW)
+Fixed charge Rs. Cr.
+Energy Rate Rs./kWh
+Energy charge Rs. Cr.
+Total Charges Rs. Cr.
+Avg. Tariff Rate Rs./kWh
+Page 33/65
+----- PAGE 34 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Energy MU
+Fixed Charge rate (Rs/MW)
+Fixed charge Rs. Cr.
+Energy Rate Rs./kWh
+Energy charge Rs. Cr.
+Total Charges Rs. Cr.
+Avg. Tariff Rate Rs./kWh
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+This is to certify that no earlier year purchase cost have been included in this table. The above table is only for current
+year transactions pertaining to power purchase.
+Format - 6
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Employee Details
+S.N
+Particulars
+Previous year (Actuals)
+Current Year (R.E)
+Ensuing years (Projection)
+1
+2
+3
+4
+5
+6
+7
+1
+Number of employees at the beginning of FY
+_______
+2
+No. of employees added during FY ______
+3
+Number of employees retiring/ leaving during the
+FY_____
+4
+Number of employees at the end of the FY (1+2-3)
+Format - 7
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Employee Cost
+(Rs. in Cr.)
+Page 34/65
+----- PAGE 35 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+S.N
+Particulars
+Previous Year
+Current Year
+Ensuing Year (s)
+1.
+Salaries & Allowances
+(i)
+Existing Employees
+(ii)
+New Employees
+(ii)
+Total
+2.
+Contribution to Terminal Benefits (Accrual
+Basis)
+3.
+Total of Salary & Allowances and Terminal
+Benefits
+4.
+Amount Capitalized
+5.
+Net Amount
+6.
+Grand Total
+Note. - (i) No terminal benefits shall be paid before the date of reorganisation i.e. 01.11.2012.
+(ii)
+In respect of continuing employees as on the date of reorganisation and newly appointed employees after reorganisation
+date the terminal benefits shall be allowed.
+(iii)
+In respect of item 6, a brief description to be appended.
+Format - 8
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Employees Productivity Parameters
+S.N
+Particulars
+Previous year (Actuals)
+Current Year (R.E)
+Ensuing years (Projection)
+1
+2
+3
+4
+5
+6
+7
+1
+Number of consumers (in Lakh)
+2
+Connected load in kW
+Page 35/65
+----- PAGE 36 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+3
+Distribution line in circuit KM
+4
+Energy sold in MU
+5
+Employees per MU of energy sold
+6
+Employees per 1000 consumers
+7
+Share of employees cost in total costs
+8
+Employees cost in paise / kWh of energy sold
+9
+Distribution line circuit KM per employee
+Format - 9
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Repair and Maintenance Expenses
+(Rs. in lakhs)
+S.N
+Particulars
+Previous year (Actuals)
+Current year (RE)
+Ensuing years (Projections)
+1
+2
+3
+4
+5
+6
+7
+1
+Plant & Machinery
+2
+Building
+3
+Hydraulic works & civil works
+4
+Line cable & network
+5
+Vehicles
+6
+Furniture & fixtures
+7
+Office equipments
+8
+Total expenses
+9
+Less capitalized
+10
+Net Expenses
+Page 36/65
+----- PAGE 37 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+11
+Total expenses charged to revenue
+* Year-wise details of these charges may be provided with documentary evidence
+Format - 10
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Administration and General Expenses
+(Rs. in lakhs)
+S.N
+Particulars
+Previous year (Actuals)
+Current year (RE)
+Ensuing years (Projections)
+1
+2
+3
+4
+5
+6
+7
+1
+Rent, rates & taxes
+2
+Insurance
+3
+Telephone, postage & Telegrams
+4
+Consultancy fees
+5
+Technical fees
+6
+Other professional charges
+7
+Conveyance & travel expenses
+8
+Electricity & Water charges
+9
+Freight
+10
+Other material related expenses
+11
+Penalty/Fine Paid (if any)
+12
+any other expenses
+13
+Total expenses
+14
+Less Capitalized
+15
+Net expenses
+16
+Page 37/65
+----- PAGE 38 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Total expenses charged to revenue
+* Year-wise details of these charges may be provided with documentary evidence.
+Format - 11
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Investment Plan (Scheme-wise)
+(Rs. in lakhs)
+S.N
+Name of scheme / Project
+Approved Outlay
+Previous year (actuals)
+Current year (RE)
+Ensuing Years (Projection)
+Progressive Expenditure upto ensuing year (s)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+Note. - The amount of grants and loans shall be furnished separately scheme wise and funding agency wise.
+Format - 12
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Investment Plan (Year-wise)
+(Rs. in lakhs)
+S.N
+Year
+Originally proposed by the Discom
+Approved by the Commission
+Revised by the Discom
+Revised approval by the Commission in review
+Actual expenditure
+1
+2
+3
+4
+5
+Page 38/65
+----- PAGE 39 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+6
+7
+Note. - (i) Information for previous year to be given in columns 1 to 7
+(ii)
+Information for the current year to be given in columns 1 to 5
+(iii)
+Amount of grants and loans shall be furnished separately funding Agency wise and year wise.
+Format - 13
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Fixed Assets
+(Rs. in lakhs)
+S.N
+Particulars
+Previous Year
+Current Year
+Ensuing Years of the control period
+1
+2
+3
+4
+1
+Gross fixed asset (GFA) at beginning of the year
+2
+Less accumulated depreciation
+3
+Net GFA at beginning of the year
+4
+Less accumulated consumer contribution
+5
+Net fixed asset at beginning of the year
+S.N
+Particulars
+WIP
+Fixed Assets
+1
+2
+3
+4
+1
+As on 31st March of previous year Add capital
+expenditure during current year Total:
+Less transferred to fixed assets
+2
+As on 31st March of current year Add capital
+expenditure during ensuing year Total:
+Less transferred to fixed assets
+3
+As on 31st March of ensuing year
+S.N
+Particulars
+Page 39/65
+----- PAGE 40 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Amount
+1
+2
+3
+1
+Accumulated Depreciation
+2
+As on 31st March of previous year
+3
+Add: Depreciation for current year
+4
+As on 31st March of current year
+5
+Consumers Contribution
+6
+As on 31st March of previous year
+7
+Addition during current year
+8
+As on 31st March of current year
+9
+Asset created from grants
+10
+As on 31st March of previous year
+11
+Addition during current year
+12
+As on 31st March of current year
+Note. - (1) Compiled and audited Annual Account should be submitted for the previous year.
+(2)
+The Actual figures / data from April to September and budgeted figures / data from October to March relating to the year
+in which the tariff petition is submitted should be submitted
+Format - 14
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Gross Fixed Assets (GFA)
+(Rs. in lakhs)
+S.N
+Assets group
+GFA at the beginning of previous year
+Addition during previous year
+Closing balance at the end of previous year
+Addition during the current year
+Closing balance at the end of current year
+Addition during ensuing year
+Closing balance at the end of ensuing year
+1
+2
+3
+4
+5
+Page 40/65
+----- PAGE 41 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+6
+7
+Total
+Format - 15
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Value of Assets and Depreciation Charges
+(Information to be supplied for the previous year (actuals), current year (RE) and the ensuring year (s) (projections)
+Rs. Crores
+S.N
+Particulars
+Assets value at the beginning of the year
+Rate of depreciation
+Depreciation charges
+Accumulated depreciation
+Consumer Contribution
+By grants
+Loan
+Consumer Contribution
+By grants
+Loan
+Consumer Contribution
+By grants
+Loan
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1
+Land and land rights
+2
+Buildings
+3
+Hydraulic works
+4
+Other civil works
+5
+Plant and Machinery
+6
+Lines and cable network
+7
+Vehicles
+8
+Page 41/65
+----- PAGE 42 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Furniture and Fixtures
+9
+Office equipment
+10
+Total
+(vii) Other
+Grand Total (i to vii)
+Format - 16
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Depreciation Charges
+Sl.No.
+Particulars
+Previous Year
+Current Year
+Ensuing Year (s)
+1
+Gross fixed assets of the beginning of the year
+2
+Additions during the year
+3
+IDC
+4
+Closing GFA
+5
+Average GFA
+6
+Weighted Average Rate of Depreciation
+7
+Gross Depreciation
+8
+Opening grants
+9
+Grants during the year
+10
+Total Grants
+11
+Average Grants
+12
+Weighted Average rate of Depreciation
+13
+Depreciation for GFA on Grants
+14
+Net Depreciation of GFA on loans (7-13)
+Note. -  In the case of assets utilized which have reached the residual value, after recovery of depreciation in full, details
+of such assets shall be furnished separately along with their residual value, so as to enable the Commission to pass on
+the required benefit to the consumers through tariff.
+Format - 17
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Capital Work-In-Progress (CWIP)
+Page 42/65
+----- PAGE 43 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+(Rs. in lakhs)
+S.N
+Particulars
+Previous year (Actuals)
+Current year (RE)
+Ensuing year (s) (Projections)
+1
+2
+3
+4
+5
+1
+Opening CWIP
+2
+New Investment
+3
+Less Capitalization
+(a)
+CWIP
+(b)
+New Investment
+4
+Closing CWIP (1+2-3)
+5
+Funding
+(a)
+CWIP Capitalization
+(i)
+Grant
+(ii)
+Loan
+(b)
+New Investment Capitalization
+(i)
+Grant
+(ii)
+Loan
+6
+Total capitalization
+(i)
+Total Grant
+(ii)
+Total Loan
+Format - 18
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Details of Loans for the year
+(Information to be supplied separately for the previous year (actuals), current year(RE) and ensuing years (projections)
+(Rs. in lakhs)
+S.N
+Particulars
+Page 43/65
+----- PAGE 44 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Opening balance
+Rate of Interest
+Addition during the year
+Repayment during the year
+Closing balance
+Amount of interest paid
+1
+2
+3
+4
+5
+6
+7
+8
+Note. - The amount of penal interest, if any, to be shown separately.
+Format - 19
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Information Regarding Restructuring of Outstanding Loans During the Year
+(Rs. in lakhs)
+S.N
+Source of loan
+Amount of original loan
+Old rate of interest
+Amount already restructured
+Revised rate of interest
+Amount now being restructured
+New rate of interest
+1
+2
+3
+4
+5
+6
+7
+8
+Format - 20
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Interest and Finance Charges
+(Rs. in lakhs)
+S.N.
+Source of loan
+Previous year (Actuals)
+Current year (RE)
+Ensuing year (s) (Projections)
+1
+2
+3
+4
+5
+Page 44/65
+----- PAGE 45 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+1
+SLR Bonds
+2
+Non SLR Bonds
+3
+LIC
+4
+REC
+5
+Commercial Banks
+6
+Bills discounting
+7
+Lease rental
+8
+PFC
+9
+Others
+10
+Total
+11
+Add State Govt. Loan
+12
+Total (10 +11)
+13
+Less capitalization
+14
+Net Interest
+15
+Add prior period adjustment *
+16
+Total Interest
+17
+Finance charges
+18
+Total Interest and finance charges
+* Year-wise details should be submitted with documentary evidence.
+Rate of interest of various loans to be indicated in a separate sheet, as part of Format-20
+Format - 21
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Interest Capitalized
+(Rs. in lakhs)
+S.N.
+Interest capitalized
+Previous year (Actuals)
+Current year (RE)
+Ensuing year (s) (Projections)
+1
+2
+3
+Page 45/65
+----- PAGE 46 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+4
+5
+1
+2
+3
+4
+5
+Format - 22
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Lease details
+(Rs. in lakhs)
+S.N
+Name of Lesser
+Gross Assets (Rs. in crores)
+Lease earned on
+Lease Rentals
+Primary Period ended / ending by
+Secondary period ending by
+1
+2
+3
+4
+5
+6
+7
+Format - 23
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Interest on Working Capital
+(Rs. in lakhs)
+S.N
+Particulars
+Amount
+Previous Year
+Current Year
+Ensuing Year (s)
+1
+2
+3
+4
+5
+1
+O&M expenses for one month
+2
+Two months equivalent of expected revenue: After
+deducting:
+3
+Maintenance spares @ 40% of R&M expenses for
+one month
+4
+Page 46/65
+----- PAGE 47 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Less:
+(i) Power purchase cost, Load dispatch charges and transmission
+charges for one month.
+(ii) Depreciation, ROE, and contribution to contingency reserve.
+(iii) Security deposit from consumer if any
+(iv) grant received from the State Govt. for power purchase and
+other O&M expenses.
+6
+Net working capital
+7
+Interest rate
+8
+Interest on working capital
+Format - 24
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Contribution to Contingency Reserve
+(Rs. in lakhs)
+S.N
+Particulars
+Amount
+1
+2
+3
+1
+Fixed Assets
+2
+%age appropriation to the contingency reserve
+3
+Appropriation to the contingency amount
+4
+Amount invested in securities
+5
+Drawal from the
+contingency reserve
+(i)
+(ii)
+(iii)
+Total drawl
+Format - 25
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Information Regarding Amount of Equity & Loan
+(Rs. in lakhs)
+S.N
+Particulars
+Amount of equity
+Amount of loan
+Ratio of equity & loan
+1
+2
+Page 47/65
+----- PAGE 48 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+3
+4
+5
+1
+Amount of total asset
+2
+Less asset created from grant
+3
+Less asset created from consumer contribution
+4
+Net asset
+5
+Amount of loan (debt)
+6
+Amount of equity
+7
+Debt equity ratio
+8
+Amount of equity eligible for return
+9
+Rate of return on equity
+10
+Amount of return on equity
+Note. - Any change in equity balance from previous year must be Supported with documentary evidence.
+Details of Capital Base
+S.N
+Particulars
+Previous Year
+Current Year
+Ensuing Year
+1
+2
+3
+4
+5
+1
+Gross Capital at beginning of the year
+2
+Less accumulated depreciation
+3
+Net capital at beginning of the year
+4
+Less accumulated consumer contribution
+5
+Net capital at beginning of the year
+Format - 26
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Information Regarding Amount of Income Tax Paid
+(for previous financial years)
+(Rs. in lakhs)
+Page 48/65
+----- PAGE 49 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+S.N
+Particulars
+During previous financial year
+1
+2
+3
+1
+Amount of taxable income from the licensed
+business
+(i)
+Amount of Income Tax paid
+(ii)
+Challan No. & Date through which Income Tax
+paid
+(iii)
+Name of Banks in which the amount was deposited
+(iv)
+PAN No. of the depositor
+2
+Amount of income from other than licensed
+business
+(i)
+Amount of Income Tax paid
+(ii)
+Challan No. & Date through which Income Tax
+paid
+(iii)
+Name of Banks in which the amount was deposited
+(iv)
+PAN No. of the depositor
+Format - 27 - A
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Non Tariff Income
+(on existing rates)
+(Rs. in crores)
+S.N.
+Source of loan
+Previous year (Actuals)
+Current year (RE)
+Ensuing year (s) (Projections)
+1
+2
+3
+4
+5
+1
+Meter / Service rent
+2
+Delayed payment surcharge
+3
+Page 49/65
+----- PAGE 50 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Amount assessed in cases of UUE/Theft
+4
+Misc. receipts
+5
+Misc. charges
+6
+Wheeling charges
+7
+Interest on staff loans & advance
+8
+Income from trading
+9
+Income from welfare activities
+10
+Excess on verification
+11
+Interest on investments & bank balances
+12
+Total Income
+13
+Add Prior period income *
+14
+Total Non tariff income
+* Year wise details of prior period income may be provided
+Format - 27 - B
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Non Tariff Income
+(on proposed tariff)
+(Rs. in crores)
+S.N.
+Source of loan
+Current year (RE)
+Ensuing year (s) (Projections)
+1
+2
+4
+5
+1
+Meter / Service rent
+2
+Delayed payment surcharge
+3
+Amount assessed in cases of unauthorized use of
+energy
+4
+Misc. receipts
+5
+Misc. charges
+6
+Wheeling charges
+Page 50/65
+----- PAGE 51 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+7
+Interest on staff loans & advance
+8
+Income from trading
+9
+Income from welfare activities
+10
+Excess on verification
+11
+Interest on investments & bank balances
+12
+Total Income
+13
+Add Prior period income *
+14
+Total Non tariff income
+* Year wise details of prior period income may be provided
+Format - 28
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Information Regarding Revenue from Other Business
+(Rs. in lakhs)
+S.N
+Particulars
+Amount
+1
+2
+3
+1
+Total Revenue from other business
+2
+Income from other business to be considered for
+licensed business as per regulations
+Note. - To be supplied for previous year, current year and ensuing year for which licence for other business was
+operating
+Format - 29
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Aggregate Revenue Requirement (ARR)
+(Rs. Crore)
+Sl.No.
+Particulars
+Previous Year
+Current Year
+Ensuing Years
+1.
+Power purchase cost
+2.
+PGCIL & other transmission charges
+3.
+State Transmission charges
+Page 51/65
+----- PAGE 52 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+4.
+O&M Expenses
+(i)
+Employee Cost
+(ii)
+R&M expenses
+(iii)
+A&G expenses
+5.
+Share of Holding Company expenses
+6.
+Depreciation
+7.
+Interest and Finance charges
+8.
+Interest on working capital
+9.
+Return on equity
+10.
+Income Tax
+11.
+Interest on security deposit
+12.
+Bad debts (if any)
+13.
+Contingency reserves (if any)
+14.
+Total Revenue Requirement
+15.
+Less: Non-tariff income
+16.
+Aggregate Revenue Requirement
+Format - 30-A
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Revenue from Existing Tariff
+S.N
+Particulars
+Previous yr. (Actuals) Rs. Cr.
+Current yr. (RE) Rs. Cr.
+Ensuing yr. (Projections)
+% Realisation
+Unit sold (MU)
+Avg. Tariff Rate (Rs. kWh)
+Amount (Rs. Cr.)
+1
+2
+3
+4
+5
+6
+Page 52/65
+----- PAGE 53 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+7
+8
+1
+Domestic
+(a)
+(i) 'Kutir Jyothi'
+Scheme Metered
+(ii) Un-metered
+(b)
+Domestic Service I
+(DS I)
+(i) Metered
+(ii) Un-metered
+(c)
+Domestic Service II (DS II) Metered
+(d)
+Domestic Service III (DS III) Metered
+Sub - Total
+2
+Non Domestic
+Services (NDS)
+NDS-I : Un-metered
+NDS-I: Metered
+NDS-II : Metered
+NDS-III : Metered
+Sub - Total
+3
+Irrigation and Agricultural Service (IAS)
+(a)
+IAS - I : Metered
+IAS - I : Un-metered -
+(b)
+IAS - II : Metered
+IAS - II : Un-metered -
+Sub - Total
+4.
+Low Tension Industrial Service (LTIS)
+LTIS-I : Metered
+LTIS-II : Metered
+5.
+Public Water WorksMetered
+6.
+Street light
+Service
+SS-I : Metered
+SS- II : Un-metered
+Sub - Total
+7.
+High Tension
+7.1
+11 kV High Tension Service (HTS I)
+Page 53/65
+----- PAGE 54 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+7.2
+33 kV High Tension Service (HTS II)
+7.3
+132 kV and above High Tension Service (EHTI)
+7.4
+High Tension specified service (HTSS)
+Sub - Total
+8.
+Railway Traction Service (RTS)
+8.1
+RTS 132 KV
+8.2
+RTS 25 KV
+Sub - Total
+9
+Sales to Other Distribution Licensees
+10
+Outside State, (including UI) if any *
+11
+Discoms own use
+12
+Add MMC and Other Charges
+Grand Total
+Note. - (1) Month-wise agriculture assessment data as per sample meters may also be supplied for different years
+(2)
+The information shall be given as specified by the Commission to determine the tariff.
+(3)
+Category of consumers in column 2 should be as per tariff structure proposed in the tariff petition.
+* State-wise details to be provided.
+Format - 30 - B
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee :
+Revenue from Proposed Tariff
+Ensuing year (Projections)
+S.N
+Particulars
+Unit Sold (MU)
+Average Tariff Rate (Rs./kWh)
+Amount (Rs. Cr.)
+% Realisation
+1
+2
+3
+4
+5
+1
+Domestic
+(a)
+(i) 'Kutir Jyothi'
+Scheme Metered
+(ii) Un-metered
+Page 54/65
+----- PAGE 55 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+(b)
+Domestic Service I
+(DS I)
+(i) Metered
+(ii) Un-metered
+(c)
+Domestic Service II
+(DS II)
+Metered
+(d)
+Domestic Service III
+(DS III)
+Metered
+Sub - Total
+2
+Non Domestic
+Services (NDS)
+NDS-I : Un-metered
+NDS-I Metered
+NDS-II : Metered
+NDS-III : Metered
+Sub - Total
+3
+Irrigation and Agricultural Service (IAS)
+(a)
+IAS - I : Metered
+IAS - I : Un-metered -
+(b)
+IAS - II : Metered
+IAS - II : Un-metered -
+Sub - Total
+4.
+Low Tension
+Industrial Service (LTIS)
+LTIS-I
+: Metered
+LTIS-II : Metered
+5.
+Public Water Works
+Metered
+6.
+Street light Service
+SS-I : Metered
+SS- II : Un-metered
+Sub - Total
+7.
+High Tension
+7.1
+11 kV High Tension Service (HTS I)
+7.2
+33 kV High Tension Service (HTS II)
+Page 55/65
+----- PAGE 56 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+7.3
+132 kV and above High Tension Service (EHTI)
+7.4
+High Tension specified service (HTSS)
+Sub - Total
+8.
+Railway Traction Service (RTS)
+8.1
+RTS 132 KV
+8.2
+RTS 25 KV
+Sub - Total
+9
+Sales to Other Distribution Licensees
+10
+Outside State, (including UI) if any *
+11
+Discoms own use
+12
+Add MMC and Other Charges
+Grand Total
+Note. - (1) Month-wise agriculture assessment data as per sample meters may also be supplied for different years
+(2)
+The information shall be given as specified by the Commission to determine the tariff.
+(3)
+Category of consumers in column 2 should be as per tariff structure proposed in the tariff petition.
+* State-wise details to be provided.
+Format - 31
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Revenue Gap (Ensuing Year)
+(A)
+At Existing Tariff for Ensuing Year (FY ............................)
+(Rs. Crore)
+Sl.No.
+Particulars
+Amount
+1.
+Aggregate Revenue Requirement (ARR)
+2.
+Less : Non Tariff Income
+3.
+Add : Recovery of revenue gap / (Surplus) of
+past period, if any
+4.
+Net ARR
+5.
+Less : Power Purchase Cost disallowed, if any
+6.
+Less : Revenue from Existing Tariff
+7.
+Page 56/65
+----- PAGE 57 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Less : Revenue from sale of power to other
+Agency
+8.
+Gap (4-5-6)
+9.
+Total grant from State Govt.
+10.
+Grant used for compensating disallowed power
+11.
+Balance resource grant assistance from Stat
+Govt. (9-10)
+12.
+Net Gap/(Surplus) at existing tariff (8-11)
+13.
+(B)
+At Proposed Tariff for Ensuing Year (FY ............................)
+(Rs. Crore)
+Sl.No.
+Particulars
+Amount
+1.
+Aggregate Revenue Requirement (ARR)
+2.
+Less : Non Tariff Income
+3.
+Add : Recovery of revenue gap / (Surplus) of
+past period, if any
+4.
+Net ARR
+5.
+Less : Power Purchase Cost disallowed, if any
+6.
+Less : Revenue from Existing Tariff
+7.
+Less : Revenue from sale of power to other
+Agency
+8.
+Gap (4-5-6)
+9.
+Total grant from State Govt.
+10.
+Grant used for compensating disallowed power
+11.
+Balance resource grant assistance from Stat
+Govt. (9-10)
+12.
+Net Gap/(Surplus) at existing tariff (8-11)
+13.
+Format - 32
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Page 57/65
+----- PAGE 58 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Information Regarding Grant/Subsidy from State Govt/Central Govt.
+(Rs. Crore)
+S.N
+Particulars
+Previous Year
+Current Year
+Ensuing Years
+1
+2
+3
+4
+5
+A
+Amount from State Govt.
+(i) Purpose for which grant received
+(a)
+(b)
+(c)
+(d)
+(ii) Targeted categories for subsidy
+(a)
+(b)
+(c)
+(d)
+B
+Amount from Central Govt.
+(i) Purpose for which grant received
+(a)
+(b)
+(c)
+(d)
+Note. - The details of commitment of the government and the guidelines for utilisation of the amount received as grant or
+subsidy is to be supported by documentary evidence with separate explanation in the tariff petition.
+Format - 33
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+(for ensuing financial year FY.....)
+(A)
+Voltage-wise Technical Loss and Energy Sale
+SI. No.
+Voltage Level (KV)
+Technical Losses (%)
+Cumulative Loss (%)
+Energy Sale (MU)
+Energy input (MU)
+Technical Loss (MU)
+1
+2
+3
+4
+5
+Page 58/65
+----- PAGE 59 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+6
+7=(6-5)
+1
+220
+2
+132
+3
+33
+4
+11
+5
+0.4
+Total
+(B)
+Voltage-wise Commercial Loss
+SI. No.
+Voltage Level KV
+Energy Sale (MU)
+Technical Loss (MU)
+Sales + Tech Loss (MU)
+Commercial Loss (MU)
+Energy Sales + Tech. Loss + Commercial Loss
+(energy input at state periphery) (MU)
+1
+2
+1
+220
+2
+132
+3
+33
+4
+11
+5
+0.4
+Total
+(C)
+Voltage-wise Allocation of Power Purchase Cost
+SI. No.
+Voltage Level KV
+Energy Sale (MU)
+Energy Sales + Technical loss + Comml. loss
+(MU)
+Unit cost of power purchase approved by the
+Commission (Rs./unit)
+Power Purchase Cost (Rs. Crore)
+Cost of Power per unit sale of Energy
+(Rs./unit)
+1
+2
+3
+Page 59/65
+----- PAGE 60 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+4
+5
+6 = (4*5)
+7= (6÷3)
+1
+220
+2
+132
+3
+33
+4
+11
+5
+0.4
+Total
+(D)
+Total Network Cost
+SI. No.
+Particulars
+Amount (Rs. Cr)
+1
+Employee Cost
+2
+R&M costs
+3
+A&G expenses
+4
+Holding Company
+5
+Depreciation
+6
+Interest & Finance Charges
+7
+Interest on Working Capital
+8
+RPO fund
+9
+Return on Equity
+10
+Less: IDC
+11
+Total (1 to 7)
+12
+Transmission cost
+13
+Total cost
+14
+Energy Sales (MU)
+15
+Network Cost per unit sale of energy
+(Distribution + Transmission) (Rs./kWh)
+Page 60/65
+----- PAGE 61 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+(E)
+Voltage-wise Allocation of Network Cost
+SI.No.
+Voltage Level
+Energy Sale (MU)
+Network Cost (Rs./Unit)
+Total Network Cost (Rs. Cr)
+1
+220
+2
+132
+3
+33
+4
+11
+5
+0.4
+Total
+(F)
+Voltage-wise Cost of Supply
+Sl.No.
+Supply Voltage
+Cost of power purchase (Rs./unit)
+Network cost (Rs./unit)
+Cost of supply (Rs./unit)
+1
+2
+3
+4
+5
+1
+220/132
+2
+33
+3
+11
+4
+LT
+Note. - The detailed work-out of energy sales, technical losses, commercial losses and network cost at different voltage
+levels should be submitted separately with the tariff petitions.
+Format - 34(1/2)
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Tariff Structure and Rate
+Sl No.
+Category & Consumption
+Rates on Existing Tariff
+Rates on Proposed Tariff
+FC Rs./kVA
+EC ps./Unit
+MMC Unit
+Page 61/65
+----- PAGE 62 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+FC Rs./kVA
+EC ps./Unit
+MMC Unit
+A
+Low Tension Supply
+1.0
+Domestic
+1.1
+Kutir Jyoti
+K.J. Rural (Un-metered)
+K.J. Rural (Metered)
+K.J. Urban (Metered)
+1.2
+DS-I (Rural)- I-ph 2kW
+Un-metered
+Metered -
+First 50 Units
+51 - 100 Units
+Above 100 Units
+1.3
+DS - II (Metered)
+Single Phase - Upto 7 kW
+Three Phase - 5kW and above
+1-100 U/Month
+101 - 200 U/Month
+201 -300 U/Month
+above 300 U/Month
+1.4
+DS-III Metered for multi store
+2.0
+Non Domestic
+2.1
+NDS - I - for Rural
+Un-metered
+Metered
+1-100 U/Month
+101 - 200 U/Month
+above 200 U/Month
+2.2
+NDS - II (Metered)
+1 - 7kW - Single Phase
+5kW and above -Three Phase
+1-100U/m
+101-200 U/m
+above 200 U/m
+2.3
+NDS-III- Places of Worships
+1-100U/M
+101-200U/M
+Above 200U/M
+3.0
+Page 62/65
+----- PAGE 63 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Irrigation & Agriculture
+3.1
+(i) Pvt. Agriculture - IAS - I
+(a) Un-metered Supply
+per HP per month
+(b) Metered Supply Units Rate - Paise / U
+3.2
+(ii) State Tube-well IAS - II
+(a) Un-metered Supply
+per HP per month
+(b) Metered Supply Units Rate - Paise / U
+4.0
+Low Tension Industrial
+4.1
+(i) LTIS - I
+4.2
+(ii) LTIS - II
+5.0
+Pubic Water Works
+6.0
+Street Light Services
+6.1
+SS-I Metered Supply units rate
+6.2
+SS-II Un-metered
+Fixed Charges
+Light Point Wattage
+per 100W per month (Rs.)
+Format-34 (2/2)
+B
+High Tension Supply
+7.1
+(i) HTS - I (11 / 6.6 kV)
+7.2
+(i) HTS - II (33kV)
+7.3
+HTS - III (132kV)
+7.4
+HTSS- (33kV/ 11kV)
+8.0
+Railways
+(i) RTS - I (132kV)
+(ii) RTS - II (25kV)
+FC - Fixed Charge
+EC - Energy Charge
+Format - 35
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Computation of Cross Subsidy
+Sl.
+Category of consumers
+Page 63/65
+----- PAGE 64 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+At existing tariff rate
+At proposed tariff rate
+Avg. Tariff rate (Rs./kWh)
+Avg. Cost of Supply (Rs./kWh)
+% of average cost
+Avg. Tariff rate (Rs./kWh)
+Avg. Cost of Service (Rs./kWh)
+% of average cost
+1
+Kutir Jyoti
+2
+DS-I
+3
+DS-II
+4
+DS-III
+5
+NDS - I
+6
+NDS-II
+7
+NDS - III
+8
+Irrigation IAS - I
+9
+Irrigation IAS - II
+10
+L.T.I.S.-I
+11
+L.T.I.S.-II
+12
+Public Water work
+13
+Street light-I (Metered)
+14
+Street light-II (Un-metered)
+15
+H.T.S.-I
+16
+H.T.S.-II
+17
+H.T.S.-III
+18
+H.T.S.S.
+19
+R.T.S.
+Format - 36
+Tariff Petition for Financial Year ____________
+Name of the Distribution Licensee : _______
+Wheeling & Open Access Charges
+Sl. No.
+Page 64/65
+----- PAGE 65 -----
+Bihar Electricity Regulatory Commission (Multi Year Distribution Tariff) Regulations, 2015
+Particulars
+Total Fixed Cost
+33kV Wire cost
+11kV
+Wire business
+Retail supply business
+Wire business
+Retail supply business
+1
+Employee cost
+2
+R&M Cost
+3
+A&G expenses
+4
+Depreciation
+5
+Interest and finance charges
+6
+Interest on working capital
+7
+Return on equity
+8
+Less: Non-tariff income
+9
+Total Cost (Rs. Cr.)
+10
+Energy input (MU)
+11
+Wheeling charges (sl. no. 9/10)
+12
+Cross Subsidy
+surcharge category of consumers
+(i) HTS-I
+(ii) HTS-II
+(iii) HTSS
+13
+Reactive energy charge
+14
+SLDC charges
+15
+Additional surcharge, if any
+Note. - The detailed work-out of costs towards wire business and retail supply business, wheeling charges, cross
+subsidy surcharge for each category of consumers, reactive energy charges, SLDC charges and additional surcharge
+should be submitted separately with the tariff petition.
+Related AI tags, queries and research notes
+Translation
+Page 65/65

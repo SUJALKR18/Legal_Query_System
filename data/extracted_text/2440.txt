@@ -1,0 +1,2351 @@
+
+----- PAGE 1 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Petroleum and Natural Gas Regulatory Board (Determination of
+Natural Gas Pipeline Tariff) Regulations, 2008
+Source: https://indiankanoon.org/doc/97787276/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) Regulations, 2008
+UNION OF INDIA
+India
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) Regulations, 2008
+Rule
+PETROLEUM-AND-NATURAL-GAS-REGULATORY-BOARD-DETERMINATION-OF-NATURAL-GAS-PIPELINE-TARIF
+F-REGULATIONS-2008 of 2008
+Published on 20 November 2008
+Commenced on 20 November 2008
+[This is the version of this document from 20 November 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) Regulations, 2008
+Published vide Notification No. G.S.R. 807(E), dated 20th November, 2008
+Last Updated 26th November, 2020
+Petroleum and Natural Gas Regulatory Board
+G.S.R. 807(E). - In exercise of the powers conferred by Section 61 of the Petroleum and Natural Gas Regulatory Board
+Act, 2006 (
+19 of 2006
+Page 1/44
+----- PAGE 2 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+), the Petroleum and Natural Gas Regulatory Board hereby makes the following regulations, namely : -
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas
+Pipeline Tariff) Regulations, 2008.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires, -
+(a)
+"Act" means the Petroleum and Natural Gas Regulatory Board Act, 2006;
+(b)
+"appointed day" means the date of October 1, 2007;
+(ba)
+[ "approved tariff" means zone-wise natural gas pipeline tariff determined under regulation 4 or zone-wise tariff as per
+regulation 11 of the Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand
+Natural Gas Pipelines) Regulations, 2008;]
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(c)
+"Board" means the Petroleum and Natural Gas Regulatory Board established under sub-section (1) of section 3 of the
+Act;
+(d)
+"capacity of natural gas pipeline" means the capacity of natural gas pipeline as specified under the Petroleum and
+Natural Gas Regulatory Board (Authorizing Entities for Laying, Building, Operating or Expanding Natural Gas Pipelines)
+Regulations, 2008:
+Provided that the capacity of natural gas pipeline in respect of entity authorized by the Central Government for laying,
+building, operating or expanding natural gas pipelines before the appointed day shall be as approved by the Board as
+per the basis specified in the relevant regulations for determining the capacity of natural gas pipeline;
+(da)
+[ "Imbalance Management Services" shall have the same meaning as assigned to it in the Petroleum and Natural Gas
+Regulatory Board (Imbalance Management Services) Regulations, 2016;]
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(e)
+"initial unit natural gas pipeline tariff" means the unit natural gas pipeline tariff determined for a period commencing from
+-
+(i)
+the date of commissioning of the natural gas pipeline in any financial year and ending on the last day of that financial
+year in case the natural gas pipeline is commissioned on or after the notification of these regulations; or
+(ii)
+the date of coming of the natural gas pipeline within the purview of these regulations in any financial year and ending on
+the last day of that financial year in case the natural gas pipeline is commissioned before the notification of these
+regulations:
+Provided that in case the period between the date of commissioning of the natural gas pipeline or the date of coming of
+the natural gas pipeline within the purview of these regulations in any financial year, as the case may be, and the last
+day of that financial year is less than one hundred and eighty three days, the initial unit natural gas pipeline tariff shall be
+for a period commencing from the date of commissioning of the natural gas pipeline or the date of coming of the natural
+Page 2/44
+----- PAGE 3 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+gas pipeline within the purview of these regulations in the financial year and extend up to the last day of the immediately
+succeeding financial year:
+Provided further that the initial unit natural gas pipeline tariff shall be fixed on a provisional basis first and then finalized
+as per the basis and in the time frame specified under clause 9 of Schedule A.
+(ea)
+[ "invoicing entity" means the authorised entity laying, building, operating or expanding natural gas pipeline, where
+natural gas is evacuated by the shipper at unified exit point, or which is part of national gas grid system;
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(eb)
+"MMBTU" means million British Thermal Units on gross calorific value ("GCV") basis;
+(ec)
+"national gas grid system" means network of all such natural gas pipelines within India which are fully interconnected
+with each other (including those which are partly commissioned and so interconnected) and as enlisted in Schedule C to
+these regulations and the Board may, by order, amend the said Schedule C from time to time;]
+(f)
+"natural gas pipeline" means any pipeline including spur lines for transport of natural gas and includes all connected
+equipments and facilities, such as, compressors, storage facilities, metering units but excludes -
+(i)
+dedicated pipeline laid to transport natural gas to a specific customer to meet his requirement and not for resale;
+(ii)
+pipelines in a city or local natural gas distribution network which are regulated by the Petroleum and Natural Gas
+Regulatory Board (Authoring Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks)
+Regulations, 2008;
+(g)
+"natural gas pipeline tariff" means the unit rate of tariff for a natural gas pipeline (excluding statutory taxes and levies) in
+rupees per million British Thermal Units (Rs./ MMBTU) for transport of natural gas;
+(h)
+[ "tariff review" means the review of the unit natural gas pipeline tariff after every five consecutive years by the Board
+with the first tariff review to be done after the end of five consecutive years after the end of the initial unit natural gas
+pipeline tariff period as specified under clause (e):
+[Substituted by Notification F.No. PNGRB/COM/2-NGPL Tariff (3)/2019, dated 27.5.2019 (w.e.f. 20.11.2008).]
+Provided that the unit natural gas pipeline tariff so determined at the time of any tariff review shall apply for the period up
+to the next tariff review:
+Provided further that the gap between two tariff reviews shall not be less than two consecutive financial years after the
+end of the financial year in which last tariff fixation occurred:
+Provided also that the tariff review can be done earlier in terms of provisions of sub-clause (9) of clause 9 of Schedule
+A.]
+(i)
+[ "tariff zone" means the zone-
+[Substituted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(i)
+of a length of three hundred kilometers each along the route of the natural gas pipeline from the point of injection to the
+end point:
+Provided that the last zone of the natural gas pipeline may be of a length of three hundred kilometers or less:
+Provided further that any natural gas pipeline of a length less than three hundred kilometers shall be counted as a zone;
+and
+(ii)
+a corridor along the natural gas pipeline with a width of up to ten percent of the total length of the natural gas pipeline
+without including the length of the spur lines or fifty kilometers measured from the nearest point on the surface of the
+Page 3/44
+----- PAGE 4 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+natural gas pipeline on both sides, and includes the point of origin and the end point of the natural gas pipelines,
+whichever is less, and -
+(a)
+the first tariff zone shall be counted with reference to any zone in which the point of injection of natural gas into the
+natural gas pipeline falls; and
+(b)
+the subsequent tariff zone or tariff zones, as the case may be, shall be counted separately on either side along the
+contractual path for delivery of natural gas in the natural gas pipeline;
+Provided that natural gas pipeline tariff for transport of natural gas from the same source shall be uniform for all the
+customers located within the zone:
+Provided further that the entity shall supply natural gas to any customer located in the zone subject to the
+techno-commercial feasibility of laying, building, operating or expanding a new spur line from the natural gas pipeline.
+Explanation. - For the purposes of this clause, the entity shall submit to the Board information regarding various tariff
+zones and their sequential numbering in the natural gas pipeline from each point of injection.]
+(j)
+[ "tariff zones for unified tariff" means the -
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(i)
+first tariff zone for unified tariff of a length of three hundred kilometres from the unified entry point on either side of the
+national gas grid system; or
+(ii)
+second tariff zone for unified tariff, being the remaining length of the national gas grid system on either side of first tariff
+zone for unified tariff:
+(k)
+"unified tariff" means unit natural gas pipeline tariff, in respect of the national gas grid system determined in accordance
+with regulation 5A, for transportation of natural gas (excluding statutory taxes and levies) denominated in rupees per
+MMBTU;
+(l)
+"unified contractual path" means the route on the national gas grid system between the unified entry point and the
+unified exit point for a shipper;
+(m)
+"unified entry point" means the point on the national gas grid system where a shipper injects natural gas;
+(n)
+"unified exit point" means the point on the national gas grid system from where a shipper evacuates natural gas.]
+(2)
+Words and expressions used and not defined in these regulations, but defined in the Act or in the rules or regulations
+made thereunder, shall have the meanings respectively assigned to them in the Act or in the rules or regulations, as the
+case may be.
+3.
+Application.
+- These regulations shall apply to an entity -
+(1)
+authorized by the Central Government under regulation 17 of the Petroleum and Natural Gas Regulatory Board
+(Authorizing Entities to Lay, Build, Operate or Expand Natural Gas Pipelines) Regulations, 2008 for laying, building,
+operating or expanding a natural gas pipeline before the appointed day;
+(2)
+laying, building, operating or expanding a natural gas pipeline before the appointed day and authorized by the Board for
+such activities under regulation 18 of the Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay,
+Build, Operate or Expand Natural Gas Pipelines) Regulations, 2008; and
+(3)
+Page 4/44
+----- PAGE 5 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+laying, building, operating or expanding a dedicated pipeline which is converted into a natural gas pipeline under the
+provisions of sub-regulation (1) or (2) of regulation 19 of Petroleum and Natural Gas Regulatory Board (Authorizing
+Entities to Lay, Build, Operate or Expand Natural Gas Pipelines) Regulations, 2008.
+(4)
+[ authorized by the Board pursuant to a policy directive issued by the Central Government under sub-section (2) of
+section 42 of the Act;
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(5)
+authorised by the Board under regulation 9 of the Petroleum and Natural Gas Regulatory Board (Authorizing Entities to
+Lay, Build, Operate or Expand Natural Gas Pipelines) Regulations, 2008 and whose tariff is fixed under regulation 11 of
+the Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand Natural Gas
+Pipelines) Regulations, 2008, for the limited applicability of unified tariff in accordance with regulation 5A.]
+4.
+Determination of natural gas pipeline tariff.
+- The natural gas pipeline tariff in respect of an entity covered under clause (1), clause (2) or clause (3) of regulation 3
+shall be determined as per the procedure at Schedule A.
+5.
+Form for data submission by entity for determination of natural gas pipeline tariff.
+- Every entity shall submit to the Board the financial costs and other data in the form at Attachment 1 of Schedule A, if,
+as on the day of the notification of these regulations, the natural gas pipeline -
+(1)
+is not in operation, then at least six months before the likely date of commissioning of the natural gas pipeline, or within
+ninety days of the date of notification of these regulations, whichever is later; or
+(2)
+is already in operation, then, in relation to an entity referred to in -
+(a)
+clause (1) of regulation 3, within ninety days of the notification of these regulations;
+(b)
+clause (2) of regulation 3, within ninety days of the grant of authorization by the Board; or
+(c)
+clause (3) of regulation 3, within ninety days of the date of authorization by the Board:
+Provided that the entity shall charge initial unit natural gas pipeline tariff "on account basis" based on these regulations
+from the date of commissioning of natural gas pipeline referred to in clause (1) of regulation 3 or the date of
+authorization by the Board of natural gas pipeline referred to in clause (2) or clause (3) of regulation 3, as the case may
+be, till the date the Board provisionally fixes the initial unit natural gas pipeline tariff:
+Provided further that the entity shall carry out adjustments, with a retrospective effect with the customers for the
+difference between the initial unit natural gas pipeline tariff that the entity had so charged and that provisionally fixed by
+the Board.
+5A.
+[ Procedure for Determination of Unified Tariff and matters incidental thereto.
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(1)
+Notwithstanding anything contained in these regulations, Petroleum and Natural Gas Regulatory Board (Authorizing
+Entities to Lay, Build, Operate or Expand Natural Gas Pipelines) Regulations, 2008 and any other regulation made
+under the Act and for the time being in force, invoicing entity shall raise invoice towards and collect the unified tariff for
+unified contractual path instead of the approved tariff from the shipper and the shipper shall be liable to pay such unified
+tariff to such invoicing entity.
+(2)
+The invoice referred to in sub-regulation (1), shall be raised for the quantity of gas delivered to the shipper by the
+Page 5/44
+----- PAGE 6 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+transporter at the unified exit point and the ship or for pay quantity: Provided that the entity laying, building, operating or
+expanding natural gas pipeline other than the one which is part of national gas grid system shall continue to charge the
+approved tariff from the shipper and the shipper shall continue to pay the approved tariff to such entity.
+(3)
+Revenue entitlement of the entities laying, building, operating or expanding natural gas pipelines which are part of the
+national gas grid system under unified tariff system, shall be the revenue with reference to approved tariff for such
+natural gas pipelines, that is to say that the entities shall remain revenue neutral and the procedure for determination of
+unified tariff shall be as specified in Part A of Schedule B of these regulations and the procedure for settlement amongst
+the pipeline entities shall be as specified in Part B of Schedule B.
+(4)
+Considering the experience and suggestions, if any, received from the stakeholders during the initial period of six
+months from the date of the commencement of the Petroleum and Natural Gas Regulatory Board (Determination of
+Natural Gas Pipeline Tariff) Second Amendment Regulation, 2020, the Board may, by order notified in the official
+gazette, suitably modify the provisions of this regulation, wherever considered necessary, and on the issue of such
+order, this regulation shall be deemed to be modified accordingly.]
+6.
+Miscellaneous.
+- If any dispute arises with regards to the interpretation of any of the provisions of these regulations, the decision of the
+Board shall be final.
+A
+[see regulations 4 and 5]
+Procedure for determination of natural gas pipeline tariff.
+The natural gas pipeline tariff shall be determined by considering a reasonable rate of return on normative level of
+capital employed plus a normative level of operating expenses in the natural gas pipeline.
+Explanation. - The expression "normative level" shall be with reference to a level, which is both reasonable and
+justifiable in terms of incurrence of capital and operating expenditure required for laying, building, operating or
+expanding an efficient natural gas pipeline over its economic life.
+1. Financial feasibility. - The entity to which these regulations apply shall submit all technical, operating, financial and
+cost data of the natural gas pipeline project that may be required by the Board in determination of the natural gas
+pipeline tariff.
+2. Methodology for determination of natural gas pipeline tariff. - The unit rate of natural gas pipeline tariff to be charged
+for a period shall be the calculated based on the "Discounted Cash Flow" (DCF) methodology1 considering the
+reasonable rate of return as specified in clause 3 to be the project's internal rate of return. The parameters relevant to
+the applicability of the DCF methodology have been described in detail in clauses 4 to 6 below.
+3. Reasonable rate of return. - The rate of return on capital employed shall be the rate of return on capital employed
+equal to twelve percent post-tax. The rate of return on capital employed once applied to a natural gas pipeline project
+shall remain fixed for the entire economic life of the project.
+Note: - The pre-tax rate of return on capital employed shall be computed by grossing-up twelve percent by the nominal
+rate of income tax applicable for corporate assesses as per the provisions of the Income Tax Act, 1961, as amended
+from time to time.
+[Explanation.
+[Inserted by Notification No. F.No. PNGRB/COM/2-NGPL/Tariff (3)/2019 Vol-II, dated 27.3.2020 (w.e.f. 20.11.2008).]
+- For removal of doubt, it is clarified that in case more than one nominal rates of income tax are available as an option to
+the entity under the law relating to income tax, the lowest of such nominal rates of income tax shall be considered for the
+purpose of grossing-up the post-tax rate of return of twelve per cent for computing pre-tax rate of return on capital
+employed.]
+4. Return on total capital employed. - (1) The reasonable rate of return shall be applied on the total capital employed to
+determine the return on  capital employed in the project over its economic life and the authorized entity is free to
+leverage the financing of the project in any suitable manner.
+(2)
+The total capital employed shall be equal to the gross fixed assets in the project less accumulated depreciation2 plus
+Page 6/44
+----- PAGE 7 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+normative working capital (equal to thirty days of operating costs excluding depreciation and eighteen days natural gas
+pipeline tariff receivables).
+(3)
+The gross fixed assets shall be equal to their actual historical cost of acquisition (including the cost of any subsequent
+replacement or improvement or modification) or that normatively assessed by the Board, whichever is lesser and
+required in the natural gas pipeline project over its economic life based on the principles3 to create and sustain an
+efficient infrastructure namely:-
+(a)
+treatment of an investment in the fixed asset in determination of total capital employed shall be as per the basis
+indicated in Attachment 2;
+(b)
+capital costs in similar projects, if any, elsewhere in India benchmarked on a "like-to-like" basis;
+(c)
+appropriateness of the pipeline design and the operating philosophy with regards to maximum allowable operating
+pressure;
+(d)
+optimization of the equipments and facilities such as, compressors, metering systems, SCADA, fire fighting required,
+based on an assessment of the appropriate available technology;
+(e)
+spur lines;
+(f)
+design parameters for compressors; and
+(g)
+assessment of the costs of major equipments and facilities in the natural gas pipeline, laying or building costs, project
+management consultancy and pre-operative expenditure.
+5. Operating costs. - Operating costs4 required in the operation and maintenance of the natural gas pipeline over its
+economic life shall be computed, on an actual basis or based on a normative assessment by the Board, whichever is
+lower, over the following functional cost heads, namely: -
+(1)
+consumables;
+(2)
+utilities -
+(a)
+power;
+(b)
+fuel (including the cost of natural gas and the natural gas pipeline tariff not recovered on the volume of system-use
+natural gas consumed in the natural gas pipeline);
+(c)
+water;
+(3)
+salaries and wages;
+(4)
+repairs and maintenance;
+(5)
+insurance premia on assets (excluding the value of loss of profit) and on line-pack volumes;
+(6)
+administrative overheads [to the extent not classifiable under sub-clause (1) to sub-clause (5)], related and also
+commensurate to the level of operations in the natural gas pipeline;
+(7)
+depreciation on fixed assets on straight line basis based on rates as per Schedule VI to the Companies Act, 1956); and
+(8)
+Page 7/44
+----- PAGE 8 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+[ Miscellaneous income realizable from a fixed asset included in the capital employed or out of an expense considered
+as an operating cost, including income from imbalance management services in accordance with the provisions of
+Petroleum and Natural Gas Regulatory Board (Imbalance Management Services) Regulations, 2016, but excluding
+interest income, profit or loss on sale or transfer of any fixed or other asset, shall be netted from the operating cost.]
+[Substituted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+6. Volumes to be considered in determination of the unit natural gas pipeline tariff. - (1) The volumes of natural gas to be
+considered as divisor in the determination of the unit natural gas pipeline tariff over the economic life of the project shall
+be computed on a normative basis as indicated below:-
+(a)
+the divisor for each of the first five years of operations of the natural gas pipeline shall be arrived by multiplying the
+applicable percentage utilization for the year, as per the basis indicated below, with the sum of the capacity requirement
+of the entity and the firmed-up contracted capacity with other entities as specified under the Petroleum and Natural Gas
+Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand Natural Gas Pipelines) Regulations, 2008:-
+Year of natural gas pipeline operations
+Percentage utilization
+First
+60%
+Second
+70%
+Third
+80%
+Fourth
+90%
+Fifth
+100%
+(b)
+the divisor for the sixth and the subsequent years of operation of the natural gas pipeline shall be equal to:
+(i)
+one hundred percent of the sum of the capacity requirements of the entity and the firmed-up contracted capacity with
+other entities as specified under the Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build,
+Operate or Expand Natural Gas Pipelines) Regulations, 2008; and
+(ii)
+the actual volume of natural gas transported on common carrier basis against the extra capacity as specified under the
+Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand Natural Gas
+Pipelines) Regulations, 2008 during the immediately preceding year of operation of the natural gas pipeline.
+Explanation. - The adjustment for the difference between the actual volume transported on common carrier basis in any
+year and that included in the divisor under sub-item (ii) to item (b) of sub-clause (1) shall be carried out on a prospective
+basis in the DCF calculations for unit natural gas pipeline tariff.
+(c)
+and (d) [-]
+(e)
+[ notwithstanding anything contained in any other regulation including regulation 12 and regulation 21 of Petroleum and
+Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand Natural Gas Pipelines)
+Regulations, 2008, in case it is proposed to expand the capacity of the natural gas pipeline by more than ten percent of
+that authorized by the Board, the entity shall submit a proposal for consideration of the Board and the Board may allow
+for expansion of the capacity in the natural gas pipeline, but the tariff of the pipeline so determined based on the capex,
+opex and volumes of expanded natural gas pipeline shall be capped at the levels of the applicable tariff based on the
+capex, opex and volumes of the pipeline without expansion.
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+Page 8/44
+----- PAGE 9 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+It is clarified that any interconnection between two natural gas pipelines shall not be considered as extension or
+expansion or tie in connectivity.]
+(2)
+The volume of natural gas determined under sub-clause (1) shall be converted into its energy equivalence in MMBTU
+terms for the purpose of-
+(a)
+determination of the provisional unit natural gas pipeline tariff by considering the weighted average of heat value of
+different natural gases which are likely to be transported by the entity during this period;
+(b)
+determination of the final initial unit natural gas pipeline tariff by considering the weighted average heat value of the
+natural gas delivered to customers during the initial unit natural gas pipeline tariff period;
+(c)
+first tariff review by considering the weighted average heat value of natural gas delivered to the customers between the
+period from the end of the initial unit natural gas pipeline tariff period and the due date of the first tariff review;
+(d)
+any subsequent tariff review by considering the weighted average heat value of the natural gas delivered to the
+customers during the period between that tariff review and the immediate previous tariff review.
+(3)
+[ Notwithstanding anything contained in any regulations made under the Act, 350 working days shall be considered in a
+year for the purpose of tariff determination under these regulations.]
+[Substituted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+7. [ Economic life.
+[Substituted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+- Notwithstanding anything contained in any regulations made under the Act, economic life of the pipeline shall be
+considered as thirty years from the date of commissioning for the purpose of tariff determination under these regulations.
+In case, the natural gas pipeline has been authorized for more than thirty years or its authorisation has been
+subsequently extended beyond thirty years or is in operation beyond thirty years, the DCF model for the tariff
+computation may be made for the entire period of authorization or operation till the next tariff review, including the
+extended period. Any replacement of the pipeline, in excess of five per cent of the length of the pipeline including
+spur-lines and tie-in lines, before the completion of the aforesaid economic life, shall not be considered for tariff
+determination if approval of the Board has not been obtained by the entity for such replacement.]
+8. Procedure for apportioning of unit natural gas pipeline tariff over the tariff zones. - [(1) The entity shall submit for the
+Board’s approval, the calculations in respect of apportioning of the unit natural gas pipeline tariff over all the tariff zones
+during the economic life of the project in the form specified in Part II of Attachment 1(i), where X% shall be a single
+number lower than one hundred per cent and Y% shall be a single number lower than fifty per cent.
+In case the entity fails to submit the required information within the time determined by the Board for such purpose, the
+Board may apportion the unit natural gas pipeline tariff over all the tariff zones in the ratio of tariff for various tariff zones
+during the immediate preceding zonal tariff determination in respect of that pipeline or in any other manner as may be
+deemed fit by the Board.]
+[Substituted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+(2)
+No adjustment shall be made by the entity with the customers for any over-achievement or under-achievement in the
+recovery of the natural gas pipeline tariff by the entity due to the volumes actually transported in different tariff zones
+being different than the volumes considered by the entity for apportioning the unit natural gas pipeline tariff for each of
+the tariff zones during-
+(a)
+the period of initial unit natural gas pipeline tariff;
+(b)
+Page 9/44
+----- PAGE 10 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+the first five and consecutive years after the end of the initial unit natural gas pipeline tariff; and
+(c)
+the period between any two consecutive tariff reviews.
+9.
+Determination of initial unit natural gas pipeline tariff and review of unit natural gas pipeline tariff. - (1) The unit natural
+gas pipeline tariff shall be determined for the natural gas pipeline over its economic life and levelized during-
+(a)
+the period applicable for the initial unit natural gas pipeline tariff;
+(b)
+the period of five consecutive years after the end of the initial unit natural gas pipeline tariff; and
+(c)
+the period between any two consecutive tariff reviews.
+(2)
+The initial unit natural gas pipeline tariff including its apportioning over all tariff zones shall be determined based on
+provisional computations.
+(3)
+The final computations in respect of the initial unit natural gas pipeline tariff shall be made considering the adjustments
+required for-
+(a)
+the actual capital and operating costs or that normatively assessed by the Board, whichever is lower as specified under
+clause 4 and clause 5;
+(b)
+volume consideration as per item (a) of sub-clause (1) of clause 6; and
+(c)
+volume conversion into its energy equivalence as per item (b) of sub-clause (2) of clause 6.
+(4)
+[ The adjustment on account of variation in the provisional initial unit natural gas pipeline tariff, final initial unit natural gas
+pipeline tariff and tariff determined under tariff review shall be made in the DCF calculations and the derived tariff shall
+be charged from the customers on prospective basis till next review, that is, the tariff shall be applicable from the first
+day of the month, following the month, in which the tariff order (zonal tariff in case of applicability of zonal tariff) is issued
+by the Board.]
+[Substituted by Notification F.No. PNGRB/COM/2-NGPL Tariff (3)/2019, dated 27.5.2019 (w.e.f. 20.11.2008).]
+(5)
+The final unit natural gas pipeline tariff as specified under sub-clause (3) shall apply for the period upto the first tariff
+review until the time the same is revised by the Board;
+(6)
+The entity shall submit for Board's approval the data for determination of the unit natural gas pipeline tariff after the
+notification of these regulations in the form and time frame specified under regulation 5 alongwith the provisional
+computations of the initial unit natural gas pipeline tariff including the apportioning of the same over all tariff zones;
+Provided that the final computations of the initial unit natural gas pipeline tariff including apportioning of the same over
+all tariff zones shall be submitted three months before the last date of the period applicable for the initial unit natural gas
+pipeline tariff.
+(7)
+The entity shall submit computation of the unit natural gas pipeline tariff including apportioning of the same over all tariff
+zones in the form specified under regulation 5 at the time of each tariff review within three months of the-
+(a)
+end of the last year of the five consecutive years after the initial unit natural gas pipeline tariff; or-
+(b)
+end of the preceding tariff review period:
+Provided that the computation shall consider the actual cost, financial and operational data or that normatively assessed
+by the Board, whichever is lesser as per clauses 4 and 5 in respect of the period specified under sub-clause (a) or (b),
+Page 10/44
+----- PAGE 11 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+as the case may be.
+(8)
+Adjustments on account of the following variations during the five consecutive years after the initial unit natural gas
+pipeline tariff or any tariff review shall be made in the DCF calculations on a prospective basis by considering the
+remaining period of the economic life of the project, namely:-
+(a)
+the variations on account of the actual performance with respect to the capital and operating costs which when
+compared with the normative parameters identified under clauses 4 and 5;
+(b)
+the variations in respect of the volumes under Explanation to sub-item (ii) of sub-clause (1) of clause 6; and
+(c)
+the variations in the energy equivalence under sub-clause (2) to clause 6.
+(9)
+The Board may, either on its own or on the entity's request, carry out a review of the unit natural gas pipeline tariff any
+time between two tariff reviews, as the case may be, considering-
+(i)
+applicable nominal rate of income tax used for grossing-up the rate of return on capital employed;
+(ii)
+sudden change in any parameter used in the determination of the unit natural gas pipeline tariff.
+(10)
+The provisional and final initial unit natural gas pipeline tariff, unit natural gas pipeline tariff for the period of five
+consecutive financial years after the initial unit natural gas pipeline tariff and the unit natural gas pipeline tariff fixed after
+any tariff review thereafter shall continue to apply till the time the same is revised by the Board.
+1. Discounted Cash Flow methodology refers to equating the inflows from the projected revenue earnings out of natural
+gas pipeline tariff with the outflows of capital and operating expenditures over the economic life of the project by
+discounting these flows at the project's reasonable rate of return. The volumes and outflows are estimated over the
+economic life which results in the determination of the natural gas pipeline tariff required to be earned by the project to
+achieve the internal rate of return.
+2. Depreciation shall be calculated by applying the rates of depreciation as specified in Schedule VI to the Companies
+Act, 1956 on the value of gross fixed assets on a straight line basis.
+3. The basis and parameters identified here are not exhaustive and may vary depending upon the specific natural gas
+pipeline project under consideration which the Board may apply in a transparent manner.
+4. Operating costs are those which are necessary for a proper upkeep and maintenance of a tangible asset created for
+operation of the natural gas pipeline and does not include any financial cost, like, interest on loans, bad-debts, sales
+promotion, advertisement expenses (except for tenders), expenditure incurred in raising or servicing of capital or
+debenture or bond or any debt, exchange variation on revenue account, but includes normal bank charges, bank
+guarantee charges, LC charges and bank charges for bid and performance bonds required as per the terms of
+authorization.
+Attachment 1
+[see regulation 5]
+Project capital cost summary (Capex outflows).
+INR
+FE
+Sr. No.
+Description
+Indian rupees
+Foreign exchange
+Total (*)
+A
+Plant and machinery
+1
+Page 11/44
+----- PAGE 12 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Receiving terminal [see attachment 1 (a)]
+2
+Compressor [see attachment 1 (b)]
+3
+Intermediate terminal [see attachment 1 (c)]
+4
+Delivery terminal [see attachment 1 (d)]
+5
+Pipeline [see attachment 1 (e)]
+Subtotal (A)
+B
+Engineering costs
+1
+Detailed engineering, procurement, construction, supervision
+and project management
+2
+Service Tax on above
+Subtotal (B)
+C
+Site related costs
+1
+Land
+2
+Any other (details to be given)
+Subtotal (C)
+D.
+Owner's cost start-up expenses
+1
+Start-up and commissioning expenses
+2
+Owner's management expenses
+Subtotal (D)
+E
+Other Costs
+1
+Contingencies and escalation
+2
+Preliminary and pre-operative expenses
+3
+Interest during construction period and financing charges
+4
+Margin money for working capital
+Subtotal (E)
+Total (A+B+C+D+E)
+(*) INR + FE converted to INR
+Note : Detailed assumption / calculations to be
+given for them E.
+Attachment 1(a)
+[see regulation 5]
+Capital cost of receiving terminal
+Sr. No.
+Page 12/44
+----- PAGE 13 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Description
+INR
+FE
+Total(*)
+Technical specifications
+Indian rupees
+Foreign exchange
+A
+Major Items
+1
+Scrapper traps and pig signallar
+Rated capacity as per supplier
+2
+Metering system
+3
+Cartridge filters
+4
+Fire protection system
+5
+Power supply arrangement
+6
+Compressors
+Rated capacity as per supplier
+7
+Any other item (details to fee given)
+Subtotal
+B
+Bulk Materials
+1
+Piping
+2
+Electrical
+3
+Instrumentation
+4
+Any other item (details to be given)
+Subtotal
+C
+Spares (details to be given)
+Subtotal
+D
+Erection
+1
+Mechanical
+2
+Electrical
+3
+Instrumentation
+4
+Civil Works
+5
+Page 13/44
+----- PAGE 14 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Land
+6
+Any other item (details to be given)
+Subtotal
+E
+Taxes and duties
+1
+Ocean freight
+2
+Customs duty
+3
+Port handling
+4
+Inland freight
+5
+Excise & CST
+6
+Works contract tax
+7
+Insurance
+8
+Any other applicable tax and duty (give details)
+Subtotal
+Total (A to E)
+(*) INR + FE converted to INR
+Attachment 1(b)
+[see regulation 5]
+Capital cost of compressors
+Sr. No.
+Description
+INR
+FE
+Total(*)
+Technical specifications
+Indian rupees
+Foreign exchange
+A
+Major Items
+1
+Compressors
+Rated capacity as per supplier
+2
+Scrapper traps and pig signallar
+3
+Metering system
+4
+Cartridge filters
+5
+Fire protection system
+6
+Power supply arrangement
+Page 14/44
+----- PAGE 15 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+7
+Any other item (details to fee given)
+Subtotal
+B
+Bulk Materials
+1
+Piping
+2
+Electrical
+3
+Instrumentation
+4
+Any other item (details to be given)
+Subtotal
+C
+Spares (details to be given)
+Subtotal
+D
+Erection
+1
+Mechanical
+2
+Electrical
+3
+Instrumentation
+4
+Civil Works
+5
+Land
+6
+Any other item (details to be given)
+Subtotal
+E
+Taxes and duties
+1
+Ocean freight
+2
+Customs duty
+3
+Port handling
+4
+Inland freight
+5
+Excise & CST
+6
+Works contract tax
+7
+Insurance
+8
+Any other applicable tax and duty (give details)
+Subtotal
+Page 15/44
+----- PAGE 16 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Total (A to E)
+(*) INR + FE converted to INR
+Attachment 1(c)
+[see regulation 5]
+Capital cost of intermediate terminal
+Sr. No.
+Description
+INR
+FE
+Total(*)
+Technical specifications
+Indian rupees
+Foreign exchange
+A
+Major Items
+1
+Scrapper traps and pig signallar
+Rated capacity as per supplier
+2
+Metering system
+3
+Cartridge filters
+4
+Fire protection system
+5
+Power supply arrangement
+6
+Any other item (details to fee given)
+Subtotal
+B
+Bulk Materials
+1
+Piping
+2
+Electrical
+3
+Instrumentation
+4
+Any other item (details to be given)
+Subtotal
+C
+Spares(details to be given)
+Subtotal
+D
+Erection
+1
+Mechanical
+2
+Electricals
+3
+Instrumentation
+Page 16/44
+----- PAGE 17 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+4
+Civil Works
+5
+Land
+6
+Any other item (details to be given)
+Subtotal
+E
+Taxes and duties
+1
+Ocean freight
+2
+Customs duty
+3
+Port handling
+4
+Inland freight
+5
+Excise & CST
+6
+Works contract tax
+7
+Insurance
+8
+Any other applicable tax and duty (give details)
+Subtotal
+Total (A to E)
+(*) INR + FE converted to INR
+Attachment 1(d)
+[see regulation 5]
+Capital cost of delivery terminal
+Sr. No.
+Description
+INR
+FE
+Total(*)
+Technical specifications
+Indian rupees
+Foreign exchange
+A
+Major Items
+1
+Scrapper traps and pig signallar
+Rated capacity as per supplier
+2
+Metering system
+3
+Cartridge filters
+4
+Fire protection system
+5
+Page 17/44
+----- PAGE 18 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Power supply arrangement
+6
+Any other item (details to fee given)
+Subtotal
+B
+Bulk Materials
+1
+Piping
+2
+Electrical
+3
+Instrumentation
+4
+Any other item (details to be given)
+Subtotal
+C
+Spares(details to be given)
+Subtotal
+D
+Erection
+1
+Mechanical
+2
+Electricals
+3
+Instrumentation
+4
+Civil Works
+5
+Land
+6
+Any other item (details to be given)
+Subtotal
+E
+Taxes and duties
+1
+Ocean freight
+2
+Customs duty
+3
+Port handling
+4
+Inland freight
+5
+Excise & CST
+6
+Works contract tax
+7
+Insurance
+8
+Any other applicable tax and duty (give details)
+Page 18/44
+----- PAGE 19 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Subtotal
+Total (A to E)
+(*) INR + FE converted to INR
+Attachment 1(e)
+[see regulation 5]
+Capital cost of pipelines
+Sr.No.
+Description
+INR
+FE
+Total(*)Technical specifications
+A
+Major items
+1
+Survey and soil investigation
+2
+Land ROU and crop compensation
+3
+Line pipes
+Outer diameter and wall thickness
+4
+Line materials
+5
+Coating and pipe transportation
+6
+Pipeline laying
+7
+Cathodic protection
+8
+OFC, telecom and telesupervisory system
+9
+SCADA & APPS system
+10
+Power source
+11
+Any other item (details to be given)
+Subtotal
+B
+Minor items
+1
+Ocean freight
+2
+Customs duty
+3
+Port handling
+4
+Inland freight
+5
+Excise & CST
+6
+Works contract tax
+Page 19/44
+----- PAGE 20 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+7
+Insurance
+8
+Any other cost (details to be given)
+Subtotal
+Total (A+B)
+(*) INR + FE converted to INR
+Attachment 1(f)
+[see regulation 5]
+Profit and Loss Account ($)
+Rs.
+Sr. No.
+Description
+Year 1
+Year 2
+Year 3
+Year 4
+......
+Year 25
+1
+Total inflows
+a
+Revenue from natural gas pipeline tariff
+2
+Total operating cost outflows
+a
+Consumables and chemicals
+b
+Utilities- (Power, fuel and water)
+c
+Salaries
+d
+Repair and maintenance
+e
+Gen administrative expenses (including bank charges on bond
+and performance bond as per grant of authorization) .
+f
+Any other expenses (to be detailed)
+g
+Insurance (including on line-pack volumes)
+3
+Profit before depreciation interest and tax (PBDIT) (1-2)
+4
+Interest on working capital
+borrowings to the extent utilised in working capital requirement
+for above expenses (with rates)
+5
+Interest on term loans (with rates)
+6
+Profit before depreciation and Sax (PBDT) (3-4-5)
+7
+Page 20/44
+----- PAGE 21 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Depreciation on SLM basis and miscellaneous expenses Written
+off (give details of each)
+8
+Profit before tax (PBT) (6-7)
+9
+Tax provision (provide as per Income tax rules in force)
+10
+Profit after tax (PAT) (8-9)
+Cash from operation (CFO) (10+7) - To be
+transferred to cash flow sheet
+($) Actuals or estimates, wherever applicable.
+(*) Excluding all direct indirect and allocated common cost beyond transportation of natural gas in natural gas pipeline.
+Financial costs and selling expenses to be excluded.
+Note
+1. The natural gas pipeline tariff shall be based on the actual volumes of natural gas transported in natural gas pipeline
+by DCF methodology adopted by considering a PIRR, at which level the net inflows equal the net outflows over the
+economic life of the project.
+2. For expansion or extension of natural gas pipeline - data in the above format as applicable for project post expansion
+or extension.
+3. Non-operating income (such as, interest on interest-free refundable security deposit from PNG domestic customers)
+not to be considered as project inflows.
+4. Modvat benefit, if available, is to be reflected separately alongwith the calculations.
+5. Copy of Audited Profit and Loss Account to be attached, wherever applicable.
+Attachment 1(g)
+[see regulation 5]
+Cash flow statement
+Rs.
+Construction period
+Economic Life
+Sr.No.
+Year
+Year-3
+Year-2
+Year-1
+Year 1
+Year 2
+Year 3
+Year 4
+-----------
+Year 25
+1
+Sources of funds
+a
+Equity or Preference Equity (*)
+b
+Term Loans and short term loans
+c
+Cash from operations
+d
+Bank borrowings for working capital
+e
+Page 21/44
+----- PAGE 22 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Others (please specify)
+2
+Uses of funds
+a
+Capital expenditure
+b
+Normal / additional capital expenditure
+c
+Increase or (decrease) in net working capital
+d
+Repayment of loans
+e
+Dividends to equity holders
+f
+Tax on distributable profits
+g
+Others (please specify)
+3
+Cash surplus or (deficit)
+a
+Opening cash balance
+b
+Closing cash balance
+(*) Redemption details to be given.
+Attachment 1(h)
+[see regulation 5]
+Balance Sheet ($)
+Rs.
+Construction period
+Economic Life
+Year
+Year-3
+Year-2
+Year-1
+Year 1
+Year 2
+Year 3
+Year 4
+---------
+Year 25
+Assets
+Gross fixed assets
+Less:Accumulated depreciation (*)
+Net fixed assets
+Net current assets
+Cash and bank balance
+Investments
+Miscellaneous fixed assets
+Deferred revenue expenditure
+Others (please specify)
+Liabilities
+Page 22/44
+----- PAGE 23 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Net worth
+Equity capital
+Preference share capital (**)
+Reserves
+Debt
+Rupee term loans
+FC term loans
+Bank borrowings for working capital
+Others (please specify)
+($) Actuals or estimates, wherever applicable
+(*) Asset head-wise depreciation calculations to be provided.
+(**) To the extent non-redeemable, redeemable preference capital to be shown under debt.
+Note - (a) Copy of audited Balance Sheet to be attached, wherever applicable.
+Attachment 1(i)
+[see regulation 5 and clause 8 and clause 9 of Schedule A]
+Part I ? Computations for natural gas pipeline tariff based on project IRR.
+Construction period
+Economic Life
+Year
+Year (-) 3
+Year (-) 2
+Year (-) 1
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Year 7
+Year 8
+Year 9
+Year 10
+----
+Year 25
+(a) Capital and operating cost outflows (including margin
+money)
+(b) Inflows (Profit before depreciation, interest and income
+tax as per item 3 of estimated profit and loss account in
+Attachment 1(f)
+Net Inflow / (outflows)
+Cumulative inflows / (outflows)
+Levelized unit natural gas pipeline tariff calculated based on
+the reasonable rate of return as specified in clauses 2 and 3 of
+Schedule A for :
+a) the period of initial unit natural gas pipeline tariff (T1)
+T1 : For Year 1
+b) the period of five consecutive years after the initial unit
+natural gas pipeline tariff (T2)
+T2 for year 2 to year 6
+c) the period of each of the tariff review period (T3 and
+onwards) calculated based on reasonable rate of return as
+Page 23/44
+----- PAGE 24 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+project's internal rate of return as specified in clause 2 of
+Schedule A.
+T3 for year 7 to year 11
+? And so on ...
+Notes :
+1. The calculations for natural gas pipeline tariff alongwith the date are required to be submitted by the entity to the
+Board each time the same is due for fixation or review.
+2. The adjustments required in the DCF calculations for the variations in capital cost operating cost and volumes as per
+the basis specified under 9 of schedule A shall be clearly specified at the time of submission of such computations to the
+Board.
+3. Capital outflows includes outflows on account of capital work-in-progress.
+Part II ? Apportionment of unit natural gas pipeline tariff over natural gas pipeline tariff zones.
+[see regulation 5 and clause 8 and clause 9 of Schedule A]
+(in Rs. / MMBTU)
+Period applicable for initial unit natural gas
+pipeline tariff / Review period
+Unit natural gas pipeline tariff
+Tariff zone 1
+Tariff zone 2
+Tariff zone3
+Tariff zone4
+Tariff zone5
+?.till last tariff zone...
+X% = [indicate one number towards %age increase
+over Tariff zone 1]
+Y% = [indicate %age increase (lower than 100%)
+over preceding tariff zone]
+TZ1 = [one number to be indicated for the period
+applicable to initial unit natural gas pipeline tariff]
+Incremental increase over TZ1 = [TZ1 X % / 100]
+Incremental increase over TZ1 = Y% X X% X TZ1
+Incremental increase over TZ1 = Y% X Y% X X% X
+TZ1
+Incremental increase over T1 = Y% X Y% X Y% X X%
+X   TZ1
+...and so on...
+Unit natural gas pipeline tariff as per part I
+For the period applicable to initial unit natural
+gas pipeline tariff
+TZ2 = TZ1 + Above incremental increase over TZ1
+TZ3 = TZ2 + Above incremental Increase over TZ1
+TZ4 = TZ3 + Above incremental increase over TZ1
+TZ5 = TZ4 + Above
+incremental increase over
+TZ1
+...and so on...
+Unit natural gas pipeline tariff as per Part I
+Second (*)
+Unit natural gas pipeline tariff as per Part I
+Third (*)
+:
+Page 24/44
+----- PAGE 25 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+:
+Unit natural gas pipeline tariff as per Part I
+Last (*)
+(*) The process shall be followed on the sam ebasis as described for the period application for initial natural gas pipeline
+tariff period.
+(in Rs. / MMBTU)
+Period
+Tariff zone 1
+Tariff zone 2
+Tariff zone 3
+Tariff zone 4
+last Tariff zone
+Total
+Volumes considered in each tariff zone
+Initial Period
+Volumes considered in each tariff zone
+First Review Period
+Volumes considered in each tariff zone
+Second Review Period
+:
+:
+Volumes considered in each tariff zone
+Last Review Period
+Note :
+1. The calculations for apportionment of natural gas pipeline tariff over natural gas pipeline tariff zones are required to be
+submitted for every tariff review period.
+2. The basis followed in bifurcating the unit natural gas pipeline tariff over each of the natural gas pipeline tariff zone to
+be specified.
+3. The basis for considering the volumes in each natural gas pipeline tariff zone to be provided (including copies of
+contracts to be enclosed).
+4. Volumes in MMSCM to be provided in respect of above and the basis for conversion of volume of natural gas into
+energy equivalence in MMBTU to be indicated.
+Attachment 1(j)
+[see regulation 5]
+Assumptions
+1. Exchange rate used for determining the capital costs in Indian currency to be indicated.
+2. Format for providing annual operating cost by the entity.
+Description of cost elements
+Rs.
+A.
+Variable cost
+1
+Consumables
+Fuel (quantity and rates)
+2
+Utilities (quantity and rates)
+a)
+Power (*)
+b)
+Water
+c)
+Page 25/44
+----- PAGE 26 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Any other expenses (to be specified)
+Sub Total
+B.
+Fixed and semi variable cost
+1
+Salary and wages
+2
+General administration
+3
+Repairs and maintenance
+4
+Any other expenses (to be specified) (£)
+Sub Total
+C
+Insurance (%)
+Total (A+B+C)
+(*) Break-up of purchased power (over fixed charge & variable charge) & own generation to be provided.
+($) Break-up over routing & turnaround as well as function-wise over electrical civil mechanical, etc. to be provided.
+(£) Basis of direct & indirect administrative expenses (alongwith basis of allocation to be provided).
+(%) Break-up of premium on loss of profit policy, facilities & line-fill quantity to be provided.
+Note :
+a. For each items of operating cost, detailed assumptions and workings to be attached.
+b. For common overheads, complete basis of apportionment and allocation of costs to be provided.
+3. Project implementation schedule to be given along with break up of expenditure for each year.
+4. Loan schedule to be provided for each type of loan, interest rates, repayments etc.
+5. Depreciation schedule as per the Companies Act and Income Tax Act should be provided.
+6. Section-wise capacity of the natural gas pipeline alongwith length of each section.
+7. Pipeline design capacity and rated capacity of compressors to be provided.
+8. Capacity utilisation proposed and the basis to be provided.
+9. Implementation period of project in phases to be provided.
+10.
+Economic life of the project.
+11.
+Applicable income tax rates and the exemption, if any available under the Income Tax Act, 1961 to be provided.
+12.
+Details of volumes of natural gas estimated to be transported in the natural gas pipeline over the economic life alongwith
+copies of the contracts for booking pipeline capacity to be provided in following format :
+(MMSCMD)
+{|
+|-
+|
+| Year 1
+| Year 2
+| Year 3
+| Year 4
+| -----
+| Year 25
+|-
+| Own Requirement
+|
+|
+Page 26/44
+----- PAGE 27 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+|
+|
+|
+|
+|-
+| Firm Contracted
+|
+|
+|
+|
+|
+|
+|-
+| Extra capacity (*)
+|
+|
+|
+|
+|
+|
+|-
+| Total
+|
+|
+|
+|
+|
+|
+|}
+(*) to be made available on common carrier open access and non-discriminatory basis
+13.
+Basis for conversion of natural gas volumes into its energy equivalence in MMBTU to be provided.
+14.
+All assumptions with reference to the estimates of capital or operating costs and any other assumption which has a
+material impact on the determination of the unit natural gas pipeline tariff are to be separately indicated along with the
+financial impact of the same.
+Attachment 2 to Schedule A
+[see clause 4 (3)(a) of the Schedule]
+Treatment of a fixed asset in the determination of return on total capital employed for natural gas pipeline tariff.
+The basis of considering fixed assets in a natural gas pipeline in the determination of the return on total capital
+employed shall be as per the following norms :-
+(1)
+A fixed asset in a natural gas pipeline is a tangible asset having a useful operating life of more than one year and is
+integral to the generation of revenues through natural gas pipeline tariff. Investment in securities, goodwill, current
+assets, accumulated loss not written-off, work-in-progress, etc. are not fixed assets.
+(2)
+Any change in the historical cost of the fixed asset due to revaluation or capitalization of losses shall not be considered.
+However, cost incurred in improvements, modification, expansion or replacement of any fixed asset shall be considered
+in line with the treatment prescribed in the mandatory accounting of The Institute of Chartered Accountants of India.
+(3)
+Only the cost of land purchased and used for putting the facilities essential to the natural gas pipeline shall be
+Page 27/44
+----- PAGE 28 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+considered. Land purchased for any future use (such as for putting-up facilities required for expansion of capacity in
+natural gas pipeline or its extension) shall be considered only when used.
+(4)
+Any change in the value of the fixed asset due to capitalization of interest on loan (including foreign exchange variation
+in case of any loan in any foreign currency) during the pre-commissioning phase of the fixed asset shall be considered
+provided such loan was utlized for creation of the said fixed asset only.
+(5)
+A fixed asset shall be considered for return on capital employed on a "rolling basis" till the end of the economic life of the
+natural gas pipeline project, provided it is not de-commissioned. On de-commissioning of the fixed asset, the value
+realized on its sale or scrapping shall be considered as a project inflow in the DCF calculations. In the terminal year of
+the economic life, the residual value of the fixed asset, which is the difference between the original cost less the amount
+of accumulated depreciation shall be treated as a project inflow in the DCF calculations for natural gas pipeline tariff.
+(6)
+Treatment of line-pack volume in natural gas pipeline shall be as per the procedure indicated below :-
+(a)
+Assessment of the volume of natural gas required as line pack in the natural gas pipeline as and when commissioned
+shall be as specified in the relevant regulations for technical standards and specifications, including safety standards.
+(b)
+The line-pack value of natural gas in natural gas pipelines and included in the total capital employed or determination of
+the unit natural gas pipeline tariff shall be considered as a non-depreciating fixed assets and the value to remain fixed
+over the economic life of the project.
+(c)
+The value of the line-pack volume shall be derived by multiplying the volume of line-pack by the average cost of natural
+gas at the point of injection of natural gas into the natural gas pipeline at the time of commissioning of the natural gas
+pipeline.
+(d)
+The salvage value of the line-pack volume at the end of the economic life of the project shall be equal to its value
+assessed at the time of its capitalization specified under sub-clause (b) and shall be considered as a project inflow.
+[Schedule B]
+[Inserted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020
+(w.e.f. 20.11.2008).]
+[See regulations 5A]
+Part A ? . Procedure for determination of Unified Tariff:
+1. Unified tariff shall be determined by the Board in respect of the national gas grid system for each financial year before
+start of such financial year. Financial year for this purpose shall mean a period commencing on the first day of April and
+ending on thirty-first day of March immediately following it:
+Provided that in the event the date on which the Petroleum and Natural Gas Regulatory Board (Determination of Natural
+Gas Pipeline Tariff) Second Amendment, Regulation, 2020 comes into force is between first April and thirtieth
+September, the first unified tariff shall be determined for the period commencing from the date on which the said
+regulations of 2020 comes into force and ending on the immediately following thirty-first March.
+Provided further that in the event, the date on which the Petroleum and Natural Gas Regulatory Board (Determination of
+Natural Gas Pipeline Tariff) Second Amendment, Regulation, 2020 comes into force is between first October and
+thirty-first March, the first unified tariff shall be determined for the period commencing from the date on which the said
+regulations of 2020 comes into force and ending on the thirty-first March next from the one immediately following. That is
+to say that the first unified tariff could be determined for a period ranging between six months to eighteen months.
+2. The Board may determine revised unified tariff during the financial year in case it deems it necessary to do so.
+Without prejudice to the generality of the foregoing provision, the Board may do so in case any new interconnected
+pipeline is added or an existing interconnected pipeline is removed, or approved tariff in respect of any interconnected
+pipeline is revised, or the quantity of gas estimated to be transported including ship or pay quantity considered by the
+Board for determining the unified tariff undergoes a significant change.
+3. Unified tariff shall be the weighted average of approved zonal tariffs in respect of all the pipelines forming part of the
+Page 28/44
+----- PAGE 29 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+national gas grid system, considering the summation of quantity of gas transported and the quantity of ship or pay for
+which the pipeline entity is contractually entitled to recover approved tariff for each such pipeline.
+Provided that the quantities of gas transported and quantities of ship or pay through multiple pipelines shall be
+considered only once.
+4. The Board shall determine the unified tariff applying -
+(i)
+the zone-wise approved tariffs applicable on the date of determination; and
+(ii)
+the quantity of gas estimated by it to be transported including ship or pay quantity by each pipeline forming part of the
+national gas grid system during the financial year for which such tariff is being determined and while making such
+estimates, the Board may consider the actual quantities during the twelve months preceding the date of determination,
+for which data may have been made available by the pipeline entities, the estimates of the quantities which may have
+been submitted by the pipeline entities and any other factor as it may deem fit. Such estimation by the Board shall be
+final and binding on all, including pipeline entities and shippers. The impact of the difference, if any, between the
+estimates considered by the Board and the actual quantities, shall be adjusted by the Board in the next determination of
+the unified tariff.
+5.
+(1)
+Each pipeline entity shall -
+(i)
+provide to the Board monthly zone-wise information of approved tariff, actual volume and quantity of gas transported
+and the quantity of ship or pay (expressed in terms of standard cubic meters (SCM) and MMBTU and the calorific value
+of such gas) for each such natural gas pipeline forming part of the national gas grid system. Such information shall be
+provided within a period of thirty days from the date of the commencement of Petroleum and Natural Gas Regulatory
+Board (Determination of Natural Gas Pipeline Tariff) Second Amendment Regulations, 2020, for immediately preceding
+twelve calendar months and month-wise estimates of the data-points described in this clause (other than estimates for
+the ship or pay quantities) for a period of next twelve calendar months, from the end of that month.
+(ii)
+continue to provide to the Board information described in clause (i) for each calendar month within fifteen days from the
+end of that month;
+(iii)
+provide to the Board estimates of the data-points described in clause (i) (other than estimates for the ship or pay
+quantities) for the next twelve months from the end of each calendar month, on a rolling basis, within fifteen days from
+the end of that month and the said information shall also include the data on unified zone-wise volumes and quantities of
+gas after the commencement of Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline
+Tariff) Second Amendment Regulations, 2020.
+(iv)
+provide every month reasons for variation (either positive or negative exceeding five per cent) between estimates and
+actuals of previous month; and
+(v)
+submit such other one-time or periodic regular information as may be required by the Board from time to time.
+(2)
+The Board may issue such directions to the pipeline entities as it may deem fit regarding the manner in which
+information described in sub-paragraph (1) shall be submitted by them, including specifying or modifying formats,
+designating emails for submission of the information to the Board and specifying the portals on which the information is
+to be uploaded by the entities.
+(3)
+In case of non-submission of any information by any entity within the specified time in this regard in this paragraph, the
+Board may consider the information as per its best judgement for the purpose of determination of unified tariff.
+6. In terms of a formula, unified tariff shall be determined is provided in the following table, namely: -
+UFT
+Page 29/44
+----- PAGE 30 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+=
+{(((AT1*EEV1) + (AT2*EEV2) + (AT3*EEV3)??+
+(ATn*EEVn)) + Adj) / ((EEV1+ EEV2+ EEV3??+ EEVn)
+- EDVn)}
+Where:
+UFT
+=
+unified tariff
+AT1........ATn
+=
+approved tariff in respect of pipelines 1 to n
+applicable on the date of determination
+EEV1.......EEVn
+=
+Quantity of natural gas estimated to be
+transported plus estimated ship or pay quantity for pipelines 1
+to n during the financial year for which unified tariff is being
+determined
+Adj
+Impact of the difference, if any, between the
+estimated quantities considered by the Board and the actual
+quantities during the previous determination of the unified
+tariff
+EDVn
+=
+Quantities of natural gas estimated to be
+transported plus estimated ship or pay quantities through more
+than one pipelines during the financial year for which unified
+tariff is being determined
+*
+:
+Denotes multiplication sign
+/
+:
+Denotes division sign
+Notes: - (i) the approved tariff for pipelines 1 to n, as referred above table, denotes zone-wise approved tariff for such
+pipelines. Similarly, the quantities of natural gas estimated to be transported including ship or pay quantity for pipeline 1
+to n, as referred to above, denotes the estimated quantity of gas transported and the estimated quantity of ship or pay
+for such pipelines zone;
+(ii)
+the formula provided in the above table shall determine the levelised unified tariff. Unified tariff for the two unified tariff
+zones shall be determined by the Board in a manner that the tariff for first tariff zone for unified tariff shall be 40% of the
+tariff for second tariff zone for unified tariff;
+(iii)
+in these regulations the volume of gas refers to gas expressed in terms of SCM and the quantity of gas refers to gas
+expressed in terms of MMBTU on GCV basis.
+7. The workings of levelised unified tariff and the zonal unified tariffs are shown with the help of a numerical example in
+Attachment 2 to this Schedule.
+Part B ? . Settlement
+Difference between revenue entitlement of natural gas pipeline entities and unified tariff invoiced by such entities shall
+be settled amongst such pipeline entities on a periodic basis for which settlement mechanism shall be developed by
+Page 30/44
+----- PAGE 31 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+pipeline entities, facilitated by a representative from the Board within a period of two months from the date of the
+commencement of Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) Second
+Amendment Regulations, 2020.
+1. Revenue entitlement of natural gas pipelines that is to say the revenue entitlement for a natural gas pipeline entity in
+respect of a pipeline which forms part of national gas grid system shall be equal to the sum of pipeline-wise
+transportation charges calculated based on zone-wise actual quantity of gas transported including ship or pay quantities
+of each such pipeline, multiplied by the respective zone-wise approved tariff for that pipeline.
+2. Amount charged by invoicing entity that is to say the amount charged by the invoicing entity in respect of natural gas
+pipelines which are part of national gas grid system shall be equal to the sum of amounts invoiced to the shippers, for
+natural gas transported including ship or pay quantities in respective unified tariff zones of each such pipeline, multiplied
+by the respective approved unified zonal tariff for the period.
+3. In terms of a formula, entity-wise revenue entitlement and revenue charged by way of unified tariff shall be worked out
+as provided in the table below, namely: -
+i) RE
+=
+(EEV1*AT1+ EEV2*AT2+........+ EEVn*ATn)
+Where:
+RE
+=
+Revenue entitlement of the entity as per the
+approved tariff
+EEV1.......EEVn
+=
+Actual quantities of natural gas transported and
+the quantity of ship or pay during the period by pipeline 1 to n
+AT1.......ATn
+=
+approved tariff in respect of pipelines 1 to n
+for the period
+ii) RU
+=
+?AVn* UFT
+Where:
+RU
+=
+Tariff charged by the invoicing entity for
+quantities of gas evacuated at unified exit point including ship
+or pay quantities for the unified contractual path
+AV1........ AVn
+=
+Actual quantities transported and the quantity
+of ship or pay during the period based on the unified exit points
+falling on the unified contractual path irrespective of number of
+natural gas pipelines falling on contractual path
+UFT
+=
+unified tariff determined for the respective
+period
+*
+:
+Denotes multiplication sign
+Page 31/44
+----- PAGE 32 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Notes: The approved tariff for pipeline 1 to n, as referred to in above table, denotes the approved tariff considered for
+each tariff zone for pipeline 1 to n. Similarly, the actual quantities of natural gas transported and the quantity of ship or
+pay by pipeline 1 to n, as referred to in above table, denotes the actual gas transported and the quantity of ship or pay in
+each of such zones.
+4. The workings of revenue entitlement and tariff invoiced are shown with the help of a numerical example in Attachment
+2 to this Schedule.
+5. Settlement of difference in the revenue entitlement and amount charged between various entities shall be carried out
+by such entities.
+6. The Board may issue such further instructions and guidelines as it may deem fit including, without limiting, on
+periodical submission of information by the entities, working of revenue entitlement and amount charged and inter-se
+settlement between the entities.
+7. In case any dispute regarding interpretation arises among the entities relating to these regulations, such entities may
+approach the Board and Board's decision in this regard shall be final.
+Attachment 1 to Schedule B
+(see Attachment 2 to Schedule B)
+Format 1
+Format for submission of actual month-wise and pipeline-wise data
+Name of the Pipeline: ................
+Month/ Year:................
+Date ................
+Zone
+Approved Tariff (a)
+Actual volume of gas transported (b)
+Gross Calorific Value (c)
+Actual quantity of gas transported (d)
+Ship or pay volumes (e)
+Total Actual Volumes (f)=(d) +(e)
+Transportation tariff (g)=(f)*(a)
+(INR/MMBTU)
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+(MMBTU)
+INR
+Zone-1
+Zone-2
+Zone-3
+Zone-n
+Zone
+Unified Zonal Tariff (a)
+Actual volume of gas transported (b)
+Gross Calorific Value (c)
+Actual quantity of gas transported (d)
+Ship or pay volumes (e)
+Total Actual Volumes (f)=(d) +(e)
+Transportation tariff (g)=(f)*(a)
+(INR/MMBTU)
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+Page 32/44
+----- PAGE 33 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+(MMBTU)
+(MMBTU)
+INR
+Zone-1
+Zone-2
+Format 2
+Format for submission of Gross Volumes Received from Upstream Pipelines Based on the Contractual Path Tariff
+(*Refer Note)
+Name of the Pipeline: ................
+Month/ Year:................
+Date ................
+From Up-stream Pipeline
+Up-stream Pipeline (a)
+Actual volume of gas transported (SCM) (b)
+Gross Calorific Value (Kcal/SCM) (c)
+Actual quantity of gas transported (MMBTU) (d)
+Quantity of ship or pay (MMBTU) (e)
+Pipeline 1
+Pipeline 2
+Note: Respective entities owning Upstream and Downstream pipelines shall provide the information after reconciling
+natural gas volumes (in SCM) and quantities in MMBTU for respective pipelines with other pipeline entities, if any, within
+the specified timelines.
+Format 2A
+Format for submission of Gross Volumes delivered to Downstream Pipelines Based on the Contractual Path Tariff
+(Refer Note)
+Name of the Pipeline: ................
+Month/ Year:................
+Date ................
+To Down-stream Pipeline
+Down-stream Pipeline (a)
+Actual volume of gas transported (SCM) (b)
+Gross Calorific Value (Kcal/SCM) (c)
+Actual quantity of gas transported (MMBTU) (d)
+Quantity of ship or pay (MMBTU) (e)
+Pipeline 1
+Pipeline 2
+Note: Respective entities owning Upstream and Downstream pipelines shall provide the information after reconciling
+natural gas volumes (in SCM) and quantities in MMBTU for respective pipelines with other pipeline entities, if any, within
+the specified timelines.
+Format 3
+Actual gas volumes transported to end consumers from the Unified Entry Point to Unified Exit Point and the ship or pay
+volumes for the calculation of zonal unified tariff
+Name of the Pipeline: ................
+Month/ Year:................
+Date ................
+Unified Tariff Zone*
+Actual Volumes (MMSCM)
+Gross Calorific Value (Kcal/SCM)
+Actual Volumes (MMBTU)
+Ship or pay Volumes (MMBTU)
+Zone 1
+Page 33/44
+----- PAGE 34 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Zone 2
+*Refer definition of tariff zones i.e. "tariff zones" for Unified Tariff
+Note: Above formats shall be used for providing estimated quantities also.
+Attachment 2 to Schedule B
+{See note 4 to paragraph 3 of Part B to Schedule B}
+Example for Determination of Unified Tariff, Revenue Entitlement, Amount Charged and Settlement of differences within
+entities
+Data to be submitted in format 1.
+Table 1
+Approved Tariff (a)
+Actual volume of gas transported (b)
+Gross Calorific Value (c)
+Actual quantity of gas transported (d)
+Ship or pay volumes (e)
+Total Actual Volumes (f)=(d) +(e)
+Transportation tariff (g)=(f)*(a)
+Pipelines
+Zones
+(INR/ MMBTU)
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+(MMBTU)
+INR
+Pipeline A
+Zone-1
+10.00
+30,000
+9,500.00
+1,130.95
+200.00
+1,330.95
+13,309.52
+Zone-2
+20.00
+40,000
+9,400.00
+1,492.06
+1,492.06
+29,841.27
+Zone-3
+30.00
+50,000
+9,300.00
+1,845.24
+1,845.24
+55,357.14
+Zone-4
+40.00
+80,000
+Page 34/44
+----- PAGE 35 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+9,600.00
+3,047.62
+100.00
+3,147.62
+1,25,904.76
+Total
+2,00,000
+7,515.87
+300.00
+7,815.87
+2,24,412.70
+Pipeline B
+Zone-1
+10.00
+45,000
+9,300.00
+1,660.71
+1,660.71
+16,607.14
+Zone-2
+11.00
+42,000
+9,400.00
+1,566.67
+1,566.67
+17,233.33
+Zone-3
+12.00
+38,000
+9,500.00
+1,432.54
+150.00
+1,582.54
+18,990.48
+Total
+1,25,000
+4,659.92
+150.00
+4,809.92
+52,830.95
+Pipeline C
+Zone-1
+30.00
+58,000
+9,546.00
+2,197.10
+2,197.10
+65,912.86
+Zone-2
+40.00
+34,000
+Page 35/44
+----- PAGE 36 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+9,645.00
+1,301.31
+1,301.31
+52,052.38
+Zone-3
+45.00
+30,000
+9,852.00
+1,172.86
+350.00
+1,522.86
+68,528.57
+Zone-4
+50.00
+68,000
+9,900.00
+2,671.43
+2,671.43
+1,33,571.43
+Zone-5
+55.00
+85,000
+9,500.00
+3,204.37
+150.00
+3,354.37
+1,84,490.08
+Total
+2,75,000
+10,547.06
+500.00
+11,047.06
+5,04,555.32
+Data to be submitted in format 2
+Data for Inter-pipeline volume flow
+Table 2
+Data by Pipeline A
+From Up-stream P/L
+Up-stream P/L
+Actual Volumes
+Gross Calorific Value
+Actual Volumes
+Ship or pay Volumes
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+Pipeline C
+1,825.00
+9,500.00
+68.80
+Page 36/44
+----- PAGE 37 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+0.50
+To Down Stream P/L
+Down-stream P/L
+Actual Volumes
+Gross Calorific Value
+Actual Volumes
+Ship or pay Volumes
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+Pipeline B
+549.00
+9,500.00
+20.70
+Data by Pipeline B
+From Up-stream P/L
+Up-stream P/L
+Actual Volumes
+Gross Calorific Value
+Actual Volumes
+Ship or pay Volumes
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+Pipeline A
+549.00
+9,500.00
+20.70
+Pipeline C
+4,392.00
+9,500.00
+165.57
+To Down Stream P/L
+Down-stream P/L
+Actual Volumes
+Gross Calorific Value
+Actual Volumes
+Ship or pay Volumes
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+NIL
+Data by Pipeline C
+From Up-stream P/L
+Up-stream P/L
+Actual Volumes
+Gross Calorific Value
+Actual Volumes
+Page 37/44
+----- PAGE 38 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Ship or pay Volumes
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+Nil
+To Down Stream P/L
+Down-stream P/L
+Actual Volumes
+Gross Calorific Value
+Actual Volumes
+Ship or pay Volumes
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+Pipeline A
+1,825.00
+9,500.00
+68.80
+0.50
+Pipeline B
+4,392.00
+9,500.00
+165.57
+Summary of the duplicate volume flows
+Pipeline From
+Pipeline to
+Actual Volumes (SCM)
+Gross Calorific Value (Kcal/SCM)
+Actual Volumes (MMBTU)
+Ship or pay Volumes (MMBTU)
+Pipeline C
+Pipeline A
+1,825.00
+9,500.00
+68.80
+0.50
+Pipeline A
+Pipeline B
+549.00
+9,500.00
+20.70
+0.00
+Pipeline C
+Pipeline B
+4,392.00
+9,500.00
+165.57
+0.00
+Total
+Page 38/44
+----- PAGE 39 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+6,766.00
+255.07
+0.50
+Data to be submitted in format 3
+Data for Unified Zonal volume flows to be provided by Entities:
+Data provided by Pipeline A
+Table 3
+Unified Tariff Zone*
+Actual Volumes (SCM)
+Gross Calorific Value (Kcal/SCM)
+Actual Volumes (MMBTU)
+Ship or pay Volumes (MMBTU)
+Zone 1
+30,000.00
+9,500.00
+1,130.95
+200.00
+Zone 2
+1,67,626.00
+9,464.21
+6,295.42
+99.50
+Data provided by Pipeline B
+Unified Tariff Zone*
+Actual Volumes (SCM)
+Gross Calorific Value (Kcal/SCM)
+Actual Volumes (MMBTU)
+Ship or pay Volumes (MMBTU)
+Zone 1
+45,000.00
+9,300.00
+1,660.71
+-
+Zone 2
+80,000.00
+9,447.50
+2,999.21
+150.00
+Data provided by Pipeline C
+Unified Tariff Zone*
+Actual Volumes (SCM)
+Gross Calorific Value (Kcal/SCM)
+Actual Volumes (MMBTU)
+Ship or pay Volumes (MMBTU)
+Zone 1
+53,608.00
+9,549.77
+2,031.52
+Zone 2
+2,17,000.00
+9,696.73
+Page 39/44
+----- PAGE 40 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+8,349.96
+500.00
+Consolidated Volumes
+Unified Tariff Zone*
+Actual Volumes (SCM)
+Gross Calorific Value (Kcal/SCM)
+Actual Volumes (MMBTU)
+Ship or pay Volumes (MMBTU)
+Zone 1
+1,28,608.00
+9,450.77
+4,823.19
+200.00
+Zone 2
+4,64,626.00
+9,569.93
+17,644.59
+749.50
+Table 4
+Calculation of Unified Tariff
+Pipelines
+Revenue Entitlement
+Quantity for Revenue Entitlement
+Duplicate Volumes
+UFT
+INR
+in MMBTU
+in MMBTU
+Rs./ MMBTU
+(a)
+(b)
+(c)
+a/(b-c)
+Pipeline A
+2,24,412.70
+7,815.87
+255.57
+33.39
+Pipeline B
+5,04,555.32
+11,047.06
+Pipeline C
+52,830.95
+4,809.92
+Total Revenue
+7,81,798.97
+23,672.85
+Calculation of amount charged by entities way of charging unified tariff:
+Table 5
+Amount charged by Pipeline A
+Zone
+Page 40/44
+----- PAGE 41 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+Unified Zonal Tariff
+Actual volume of gas transported
+Gross Calorific Value
+Actual quantity of gas transported
+Ship or pay volumes
+Total Actual Volumes
+Transportation tariff
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)=(d) +(e)
+(g)=(f)*(a)
+(INR/MMBTU)
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+(MMBTU)
+INR
+Zone 1
+X
+30,000.00
+3,769.84
+1,130.95
+200.00
+1,330.95
+Zone 2
+Y
+1,67,626.00
+3,755.64
+6,295.42
+99.50
+6,394.92
+Total
+7,426.38
+299.50
+7,725.88
+Amount charged by Pipeline B
+Zone
+Unified Zonal Tariff
+Actual volume of gas transported
+Gross Calorific Value
+Actual quantity of gas transported
+Ship or pay volumes
+Total Actual Volumes
+Transportation tariff
+(a)
+(b)
+(c)
+Page 41/44
+----- PAGE 42 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+(d)
+(e)
+(f)=(d) +(e)
+(g)=(f)*(a)
+(INR/MMBTU)
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+(MMBTU)
+INR
+Zone 1
+X
+45,000.00
+3,690.48
+1,660.71
+-
+1,660.71
+Zone 2
+Y
+80,000.00
+3,749.01
+2,999.21
+150.00
+3,149.21
+Total
+4,659.92
+150.00
+4,809.92
+Amount charged by Pipeline C
+Zone
+Unified Zonal Tariff
+Actual volume of gas transported
+Gross Calorific Value
+Actual quantity of gas transported
+Ship or pay volumes
+Total Actual Volumes
+Transportation tariff
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)=(d) +(e)
+(g)=(f)*(a)
+(INR/MMBTU)
+(SCM)
+(Kcal/SCM)
+(MMBTU)
+(MMBTU)
+(MMBTU)
+Page 42/44
+----- PAGE 43 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+INR
+Zone 1
+X
+53,608.00
+3,789.59
+2,031.52
+-
+2,031.52
+Zone 2
+Y
+2,17,000.00
+3,847.91
+8,349.96
+500.00
+8,849.96
+Total
+10,381.48
+500.00
+10,881.48
+Statement of settlement of differences among entities:
+Table 6
+Pipelines
+Revenue Entitlement
+Amount Charged (from table 5)
+Amount to be Paid/ (Received)
+(a)
+(b)
+(b-a)
+Pipeline A
+2,24,412.70
+Pipeline B
+52,830.95
+Pipeline C
+5,04,555.32
+Total
+7,81,798.97
+7,81,798.97
+0.00
+[Schedule C]
+[Substituted by Notification No. F. No. PNGRB/COM/2-NGPL/Tariff (3)/2014 Vol-IV(Part-1) (P-1439), dated 23.11.2020.]
+{See regulation 2(1) (ec)}
+List of natural gas pipelines which are part of national gas grid system for calculation of Unified Tariff
+S.No.
+Entity Authorized
+Pipeline Name
+1
+GAIL (India) Limited
+Hazira-Vijaipur-Jagdishpur-GREP-Dahej-Vijaipur,
+Dahej-Uran-Dabhol-Panvel
+Natural Gas Pipeline,
+Dahej-Vijaipur
+Page 43/44
+----- PAGE 44 -----
+Petroleum and Natural Gas Regulatory Board (Determination of Natural Gas Pipeline Tariff) ...
+(DVPL)-Vijaipur-Dadri (GREP) capacity augmentation,
+Jagdishpur-Haldia-Bokaro-Dhamra
+Natural Gas Pipeline network,
+Dadri-Bawana-Nangal
+Natural Gas Pipeline,
+Chainsa-Jhajjar-Hissar
+Natural Gas Pipeline,
+Dabhol-Bangalore Natural Gas Pipeline.
+2
+Indian Oil Corporation Limited
+Dadri-Panipat.
+3
+Pipeline Infrastructure Limited
+East West Natural Gas Pipeline.
+4
+Gujarat State Petronet Limited
+GSPL's High Pressure Gujarat Gas Grid.
+5
+Reliance Gas Pipelines Limited
+Shahdol-Phulpur.
+6
+GSPL India Gasnet Limited
+Mehsana ? Bhatinda, Bhatinda - Jammu ?
+Srinagar.
+7
+GSPL India Transco Limited
+Mallavaram-Bhopal-Bhilwara-Vijaipur.
+Related AI tags, queries and research notes
+Translation
+Page 44/44

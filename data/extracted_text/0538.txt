@@ -1,0 +1,533 @@
+
+----- PAGE 1 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+Source: https://indiankanoon.org/doc/8622705/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+UNION OF INDIA
+India
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+Rule INDIAN-WIRELESS-TELEGRAPHY-AMATEUR-SERVICE-RULES-1958 of 1958
+Published on 24 September 1958
+Commenced on 24 September 1958
+[This is the version of this document from 24 September 1958.]
+[Note: The original publication document is not available and this content could not be verified.]
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+Published vide Notification Gazette of India, 1958, Part 2, Section 3(i), p. 904
+1720.
+G.S.R. 939, dated the 24th September, 1958. -  In exercise of the powers conferred by sections 4 and 7 of the Indian
+Telegraph Act, 1885 (
+13 of 1885
+), and in supersession of all existing orders on the subject, the Central Government hereby makes the following rules for
+the conduct of Wireless telegraph transmitting and receiving stations, in the amateur service, established, maintained or
+worked in India by persons licensed under the said, Act.
+Rules
+1.
+Page 1/10
+----- PAGE 2 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+Short title and commencement.
+-  (i) These rules may be called the Indian Wireless Telegraphy (Amateur Service) Rules, 1958.
+(ii)
+They shall come into force on the 1st day of January, 1959.
+2.
+Definitions.
+-  In these rules, unless the context otherwise requires :-
+(i)
+"amateur service" means a service of self training, intercommunication and technical investigations carried on by
+amateurs that is by persons duly authorised under these rules interested in radio technique solely with a personal aim
+and without pecuniary interest;
+(ii)
+"amateur licence" means a licence for a type of wireless telegraph transmitting and receiving station in the amateure
+service;
+(iii)
+"wireless telegraphy" or "radio telegraphy" includes wireless telephony or radio telephony.
+3.
+Necessity for licence.
+-  No person shall operate an Amateur wireless telegraph station except under and in accordance with the terms and
+conditions of the appropriate licence under these rules.
+4.
+Categories of Amateur Licenses.
+-  There shall be two categories of licences in the amateur service, namely :
+(i)
+Amateur Wireless Telegraph Station Licence, Grade I;
+(ii)
+Amateur Wireless Telegraph Station Licence, Grade II.
+5.
+Application for licence.
+-  Every application for a licence, whether Grade I or Grade II, shall be made to the Central Government in Annexure I
+and shall be accompanied by an undertaking to the effect that the transmitting apparatus shall be operated in
+accordance with these rules and that the installation shall not be made accessible to any unauthorised person at any
+time.
+6.
+Eligibility for licence.
+-  A person who -
+(a)
+is a citizen of India,
+(b)
+is not less than 18 years of age, and
+(c)
+is in possession of valid first, second or special class Radio Telegraph Operator's Certificate and Licence, or a
+non-commercial certificate of competency issued by the Director General, Posts & Telegraphs or the Central
+Government or has passed the examination for Amateur Station Operators' Certificate, Grade I or Grade II, as the case
+may be.
+shall be eligible for a licence :
+Provided that :
+(i)
+The Central Government may grant a licence to nationals of foreign countries subject to such conditions as it may
+determine;
+(ii)
+Page 2/10
+----- PAGE 3 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+[ "applications for the grant of licences from bona fide experimenters between the ages of 16 and 18 years in the case of
+Grade I, and 14 and 18 years in the case of Grade II, may be considered.]
+[Substituted by G.S.R. 883, dated 26.5.1967]
+If they are accompanied by a certificate from the head of the educational institution attended by the candidate or from
+his legal guardian that the applicant is interested in and competent to conduct experiments in wireless telegraphy and if
+they are otherwise qualified;
+(iii)
+a Grade II license shall not be granted to an amateur club.
+*The syllabi for the examinations for both the grades of the certificate are printed as Appendix I and Appendix II.
+7.
+Grant of Licence.
+-  Every licence, Grade I or Grade II, shall be in the form in Annexure II.
+8.
+[ Period of Validity.
+[Substituted by G.S.R. 883, dated 26.5.1967]
+-  A licence granted under these rules shall be valid upto the 31st December of the year mentioned in the licence.]
+Provided that licence issued between the 1st November and the 31st December of any year shall be valid up to the 31st
+December of the following year.
+9.
+[ Fee.
+[Substituted by the G.S.R. 883, dated 26.5.1967]
+-  A fee of -
+(i)
+Rs. 15.00 shall be payable for a licence per year or portion thereof in Grade I and Rs. 10.00 for a licence per year or
+portion thereof in Grade II.
+(ii)
+Rs. 42.00 shall be payable for a grade I licence in case the applicant desires the same for a period of three years.]
+The fee shall be paid to the Central Government on receipt of instructions from that Government and in the manner
+directed by it. No holder of a licence shall be entitled to a refund of fees paid therefor on the ground of his inability to
+make full use of the license.
+10.
+Renewal of licence.
+-  A licence may be renewed for one year at a time on payment of a fee of Rs. 15 of Rs. 10 [A Grade I licence may also
+be renewed for a period of three years on payment of a fee of Rs. 42.00]
+[Substituted by G.S.R. 883, dated 26.5.1967]
+. An application for renewal shall be made at least one month before the expiry of the licence and the fee shall be paid
+along with the application. It shall not be obligatory for the Central Government to send a notice to the licensee to the
+renewal fees :
+Provided that a licence in Grade II shall not be renewed if it has been in force for a total period of three years.
+11.
+Loss of licence.
+-  In the event of loss of a licence, the licensee shall immediately send a report to the Central Government of the
+circumstances in which the licence was lost.
+12.
+Duplicate licence.
+-  Where a licence is lost, a duplicate licence may be granted on payment of a fee of Rs. 5.
+13.
+Cancellation of licence.
+-  A licence may be cancelled, if -
+(1)
+the licence is lost on account of the negligence of the licensee, or
+Page 3/10
+----- PAGE 4 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+(2)
+it has not been renewed, or the renewal fee not paid, within the prescribed time :
+Provided that, before canceling a licence, the licensee shall be given an opportunity to make his objections.
+14.
+Licence when transferable.
+-  A licence shall not be transferable; but the Central Government may permit the transfer of a Grade I licence granted to
+the Executive Officer of a Wireless Telegraph Amateur Club in favour of his successor, if such successor is eligible to
+hold a Grade I licence.
+15.
+Operation of Station.
+-  lo person other than the licensee shall operate an Amateur Wireless Telegraph Station:
+Provided that -
+(a)
+in the presence of the licensee himself, the station may be operated by another licensee holding a valid grade I or grade
+II licence,
+(b)
+The amateur wireless telegraph station established by a person in his capacity as an executive of an Amateur Wireless
+Telegraphy club may also be operated by a person holding a valid first, second or special class Radio Telegraph
+Operator's Certificate and license or non-commercial certificate of competency or an Amateur Station Operator's
+Certificate (Grade I) or an Amateur Station Operator's Certificate (Grade II) with the prior permission of the Central
+Government in writing, in respect of every such person.
+16.
+Surrender of licence.
+-  A licence which is cancelled or which has expired shall be surrendered to the Central Government.
+17.
+Only one licence to be granted.
+-  No person shall be granted more than one licence at a time :
+Provided that the Central Government may relax this rule in the case of a person who is the Executive Officer of an
+amateur club and who is eligible to hold a licence in Grade I.
+18.
+Penalty for breach of these rules.
+-  Any breach of these rules, other than a breach which is an offence under sections 20 or 21 of the Indian Telegraph
+Act, 1885, shall be punishable with fine which may extend :
+(i)
+when the person is licensed under the Indian Telegraph Act, 1885, to one thousand rupees and in the case of a
+continuing breach a further fine of two hundred rupees for every day after the first during the whole or any part of which
+the breach continues;
+(ii)
+when a servant of the person so licensed or another person is punishable for the breach, to one-fourth of the amounts
+specified in clause W.
+Annexure I
+Application For A Licence To Establish, Maintain And Work An Amateur Wireless Telegraph Station
+(See Rule 5)
+1. Name of Applicant (in Block Capitals):
+Address :
+Age :
+Occupation :
+Nationality (evidence of nationality and two written references as to character should be enclosed).
+Father's name & home address :
+2. Scientific qualification (if any) of applicant.
+Particulars of any experience in working wireless telegraph transmitting apparatus.
+Page 4/10
+----- PAGE 5 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+Particulars of certificates of Competency as wireless operator held by applicant.
+Speed at which applicant can send and receive in the Morse Code.
+Particulars of Amateur Licence, if any, held by the applicant.
+Particulars of previous applications, if any, made by the applicant for issue of Amateur Licence.
+3. Type of licence applied for:
+Amateur wireless telegraph station licence (Grade I).
+Amateur wireless telegraph station licence (Grade II).
+4. Particulars of apparatus to be used :-
+(a)
+Transmitting :-
+The trades name of the set in the case of a standard set bearing a recognised trade name. (Diagrams to be furnished
+and attached to this form).
+(b)
+Receiving :-
+(c)
+Antenna :-
+(Including sketch & dimensions and means of support).
+5. (i) Power in watts to be used for transmission (A)
+(ii)
+Maximum watts at input to aerial (if measured).
+(iii)
+Source of power supply (B).
+(a)
+Measured at input:-
+Volts ............Ampress.........
+(b)
+D/C or A/C..........
+(c)
+Cycles per second (A/C).........
+(A)
+Power is measured at the input to the anode circuit of the final RF amplifier.
+(B)
+If batteries are used, state kind :
+(in the case of secondary cells, state capacity and maximum discharge rate. If a local generator is used. state maximum
+power available, voltage and type of current (AC/DC) and in the case of AC, state periodicity also. If commercial mains
+power source type employed, maximum power available, voltage and type of current (AC/DC) and in the case of A/C,
+state periodicity also).
+6. Exact location of station :
+Transmitting..........................Kc/s
+............................Kc/s
+............................Kc/s
+7. Frequencies it is desired to use.
+Receiving...................Kc/s
+.........................Kc/s
+.........................Kc/s
+Transmitting.........................Kc/s
+8. Frequency range over which apparatus is capable of being adjusted.
+Receiving .................Kc/s
+.................Kc/s
+.................Kc/s
+9. Centre at which the applicant desires to be examined in his proficiency as Amateur Wireless Station Operator :
+Page 5/10
+----- PAGE 6 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+(Grade I)
+(Grade II)
+BOMBAY/CALCUTTA /DELHI MADRAS NAGPUR.
+Declaration
+I undertake to observe the conditions of the licence and hereby certify that the apparatus herein described can and will
+be worked in accordance with the provisions of the Indian Wireless Telegraphy (Amateur Service) Rules, 1958.
+Signature of the Applicant .................
+Date.....................
+Declaration to Observe Secrecy
+I .....................do solemnly and sincerely declare that I will not, without authorisation, divulge to any person the purport
+of any message, other than a message intended for the general use of the public, which I may transmit or receive by
+means of any radio-telegraph or radio-telephone apparatus operated by me or which may come to my knowledge in
+connection with the operation of the said apparatus.
+Place : ...........
+Witness : ..............
+Signature of Declarant...........
+Date .........................
+This application, when completed, should be forwarded to the Adviser, Wireless Planning & Coordination, Ministry of
+Transport and Communications, Government of India, New Delhi.
+Annexure II
+Licence No. .............
+Dated New Delhi the ........
+India Telegraph Act, 1885
+Licence to establish, maintain and work an Amateur Wireless Telegraph Station in India
+[See Rule 7]
+Shri ..........of..........is hereby licensed to establish, maintain and work a wireless telegraph transmitting and receiving
+station in the Amateur Service as per details stated below.
+The license is granted under the authority of Section 4 of the Indian Telegraph Act, 1885.
+The license is governed by the Indian Wireless Telegraphy (Amateur Service) Rules, 1958.
+Particulars of the licence :
+(i)
+Type of the licence granted in the Amateure Service.
+(ii)
+Location of the Station.
+(iii)
+Authorised operators.
+(iv)
+Call Sign.
+Power
+Allotted bands for Amateur Service (Kc/s)
+Frequencies Kc/s
+Designation of emission permitted.
+Issued on behalf of the Central Government.
+Wireless, Planning & Co-ordination.
+Ministry of Transport & Communications,
+(Departments of Commns. & Civ. Aviation).
+Instructions :- To establish, maintain or work an Amateur Station without a valid licence or the failure to comply with any
+conditions of the licence constitutes an offence under the Indian Telegraph Act, 1885.
+2. Prior permission of the Central Government should be obtained before the station is established at a new address.
+The licence should be sent to the Central Government for amendment of the Address in such case.
+3. Use of Supply Mains. -  If power for the working of the wireless station is taken from a public electricity supply whether
+Page 6/10
+----- PAGE 7 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+or not a battery eliminator is used, no direct connection should be made between the supply mains and the aer,l.
+4. This licence does not cover reception of broadcast programme. (Broadcast Receiving Licence of the appropriate
+category may be obtained.)
+5. Copyright. -  This licence does not authorise the Licensee to do any act which is an infringement of any copyright
+which may exist in the matter transmitted.
+6. Nothing contained herein shall be deemed to relieve the licensee of any responsibility for any infringement of patent
+rights which may be incurred by the use of the licensed apparatus.
+Conditions of the amateur wireless telegraph station licence (Grade I & Grade II)
+I. Radio-telegraph Conventions. -  The licensee shall comply with the provisions of the International Telecommunication
+Convention in force relating to Amateur Stations.
+II. Power and Frequencies. -  The power measured at the input to the anode circuit of final H.F. amplifier shall not
+exceed that specified against each band in the licence. The communications shall be sent only by the type of emission
+designated and on the frequency or frequencies within the bands specified in the Licence.
+III. Frequency Control and Measurement. -  The Station shall be equipped for reception as well as transmission. The
+transmitting apparatus shall invariably by tuned as accurately as possible to the particular authorized frequency on
+which it is proposed to send, and for this purpose there shall be kept at the station, and used whenever necessary (and
+on all occasions when the frequency used for sending is changed), a reliable instrument of an approved type for
+measuring the frequencies of the emissions from the station. The licensee shall take alJ practicable steps to maintain
+the accuracy of such measuring instrument.
+IV. Non-interference. -  The station shall be used in such a manner as not to cause interference with other stations
+outside the authorised bands. Sending shall at once be discontinued or postponed at the request of any Government or
+Commercial station.
+When telegraphy is being used the arrangement employed for 'keying' the sender shall be such as to reduce to a
+minimum the risk of interference due to key clicks being produced in neighbouring apparatus. Whenever for any reason,
+the carrier wave of the sender is being modulated by any system of modulation, care shall be taken to avoid ever
+modulation. Particular care must be taken to avoid unwanted frequency modulation of the carrier frequency. At all times
+every precaution shall be taken to prevent the radiation of energy of frequencies other than those which are necessary
+for the type of emission in use. The use of spark sending apparatus is specifically forbidden.
+V. Sending Periods. -  The station may be operated at any time, provided that no period of sending shall exceed 10
+consecutive minutes. Sending shall not commence without listening on the frequency which is to be used in order to
+ascertain, as far as possible, whether interference is likely to be caused thereby to any other station which may be
+working.
+VI. Log. -  A running record shall be kept in a bound book, of a transmissions (See condition II), in the following
+proforma;
+No gaps shall be left between entries in the log :-
+Date
+Time
+Type of emission
+Freq.
+From
+To
+Record of tests or experiments
+Signature
+VII. Receiver. -  The station shall always be equipped for the reception of signals sent on frequencies in current use at
+the station at any time by means of continuous wave telegraphy, telephony and any other type of emission authorised in
+Condition II.
+VIII. (a) Messages. -  Communications shall be sent only to stations which are actually cooperating in the Licensee's
+experiments. They may be sent to such amateur station in this country and also in countries abroad (except where the
+Administration of a country has prohibited communications of this nature). Communication shall be in plain language
+and limited to messages of (i) a technical nature relating to tests and (ii) to remarks of a personal character for which, by
+reason of their unimportance recourse would not normally be made to the public telecommunication systems. Special
+Page 7/10
+----- PAGE 8 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+gramophone records for reproducing modulations of other types of definite tons may be used for test purposes.
+Gramophone records may also be used on the condition that only one such record is used during the course of any day
+and the period of any transmission shall be limited as in condition (VI).
+(b)
+The use of the apparatus for sending false or misleading calls, or signals, news, advertisements, communications of
+business statements on topics of political or industrial controversy or any matter which is indecent or obscene or of a
+seditious tendency or such as is likely to arouse racial, religious, or communal animosity, messages for pecuniary
+reward or any messages for, or on behalf of, a third party is expressly forbidden. Messages like the reproduction of
+broadcast programmes or transmissions of entertainment value shall not be sent over the licensed apparatus.
+(c)
+The Licensee shall not receive any payment (either direct or indirect) for the use of the station or allow the station to be
+controlled by or used for the purposes of any social or political organization.
+IX. Secrecy of Correspondence. -  If any message which the Licensee is not entitled to receive is, nevertheless, received
+the Licensee shall not make known or allow to be made known its contents, its origin or destination, its existence or the
+fact of its receipt to any person (other than a duly authorised Officer of the I I Central Government or a competent legal
+tribunal) and shall not reproduce in writing, copy or make any use of such message or allow the same to be reproduced
+in writing, copied or made use of.
+X. Call Signal. -  The prefix of nationality, i.e. "VU" shall invariable be included in the call sign which may be sent either
+morse telegraphy at a speed not greater than ( ..............) words per minute or telephonically if the station is authorized
+to use telephony.
+The call signal shall be sent for identification purpose at the beginning and at the end of each period of sending.
+In calling another station the call signal of that station shall be sent and may be repeated throughout a period of not
+more than one minute, after which the signal "DE" shall be sent once and the call signal of the calling station three times.
+This procedure may be repeated but the time taken in calling shall not exceed three minutes without an interval during
+which the operator shall listen in the band of frequencies in which the call has been made.
+In answering a call the call signal of the calling station shall be sent three times, the signal "DE" once and call signal of
+the answering station three times.
+The use of the general call "CQ" is permitted. The word 'test' followed by word 'from' of the procedure signal "DE" and
+the call signal of the Licensee's station may be sent out when essential for the Licensee's experiments, but this method
+of calling shall not be continued in any case when a reply is not received from another experimental station within 15
+minutes.
+When telephony is used the letters of the call signals may be confirmed by the pronunciation of well-known words of
+which the initial letters are the same as those in the call signals, but words used, in this manner shall not be of facetious
+character nor be capable of undesirable misinterpretation.
+XI. Inspection. -  The station shall be subject to the approval of the Central Government and together with the license
+and the record of transmissions shall be open to inspection at all times by duly authorised officers of the Central
+Government who shall prove their identity on request. Record of transmissions, this license, and any other data or
+information pertaining to the station shall be sent to the Central Government, whenever called upon to do so.
+XII. Aerial. -  Installations shall not cause hazard to flight of aircraft and their heights shall be within the limits specified in
+Annex. 10 to the Convention of International Civil Aviation published by the International Civil Aviation Orgnisation. If the
+Central Government so directs, the licensee of an amateure station shall install and maintain beacon lights on and paint
+the masts of the station. The jobs shall be executed in the manner prescribed by Govt. and at the cost of the licensee.
+An aerial which crosses above or is liable to fall upon or to be blown on to an overhead power wire (including electric
+lighting and tramway wires) or power apparatus shall be guarded to the reasonable satisfaction of the owner of the
+power wire or power apparatus concerned.
+XIII. Control in Emergency. -  (a) If and wherever in the opinion of the Central Government a situation shall have arisen
+in which it is expedient for the public service that the Central Government shall have control over the sending of
+messages by means of the station, it shall be lawful for them to direct and cause the station to be taken possession of
+and to direct any duly authorized person to work the apparatus in any manner thought fit and to prevent the Licensee
+from using it and for these purposes or any of them to cause any part of or all the apparatus forming the station to be
+removed to such place as they may think fit and any person authorized by them, may from time to time enter the
+Page 8/10
+----- PAGE 9 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+premises at which the station is maintained for any such purpose as aforesaid.
+(b)
+The Licensee shall not be entitled to any compensation in respect of the exercise by the Central Government of the
+powers conferred by this condition, which shall remain in force notwithstanding the withdrawal or modification of the
+license.
+XIV. (a) The Licensee shall not assign, under-let or otherwise dispose of or admit any person to participate in the
+benefits of this license.
+(b)
+The Licensee shall indemnify the Central Government against all actions, claims and demands which may be brought or
+made by any person, body corporate or company in respect of any injury arising from any act licensed or permitted by
+this license.
+(c)
+The Central Government may by notice in writing but without assigning any reason revoke and determine these
+presents or modify them at any time, either by specific notice in writing sent to eh Licensee by registered letter post at
+the address given in the License, or by means of a general notice in the official gazette addressed to any or all holders
+of licenses for Amateur Wireless Stations.
+(d)
+In the event of revocation or cancellation, no part of any fee paid [* * * * *]
+[Omitted by G.S.R. 883, dated 26.5.1967]
+will be returned.
+[XV.
+[Substituted by G.S.R. 883, dated 26.5.1967]
+If any question arises in respect of any matter relating to the licence, it shall be referred to the Central Government for
+decision].
+Appendix I
+The examination for the Amateure Station Operator's Certificate (Grade 1) shall comprise in :-
+(i)
+ability to send and receive correctly by ear messages in plain language in the international morse code at 12 words per
+minute;
+(ii)
+Knowledge of radio theory and practice; and
+(iii)
+Knowledge of regulation applicable to radio communication and operation of amateur stations. Knowledge of prevention
+of interference (articles 42 and 43 of the Atlantic City Radio Regulations and paras 1-17 of Section XXVI of Indian
+Wireless Instructions Vol. II).
+For the propose of assessing the receiving ability of the application, the test examination will be made for five minutes at
+the prescribed speed and if the applicant receives the material transmitted correctly for a continuous period of one
+minute during the transmission, he shall be considered to be successful in the test.
+For tests as under items (ii) and (iii) above, a candidate may have to appear for written and/or oral examination.
+A fee of Rupees ten shall be charged for the purpose of this examination.
+A certificate shall be awarded to the successful candidate in the preforma shown in Appendix III.
+Appendix II
+The examination for the Amateur Station Operator's Certificate (Grade II) shall comprise in :-
+(i)
+Ability to send and receive correctly by ear messages in plain language in the international morse code at five words per
+minute;
+(ii)
+elementary knowledge of radio theory and practice; and
+(iii)
+elementary knowledge of regulations applicable to radio communication and operation of amateur stations.
+For the purpose of assessing the receiving ability of the applicant, the-test examination will be made for five minutes at
+Page 9/10
+----- PAGE 10 -----
+Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+the prescribed speed and if the applicant receives the material transmitted correctly for a continuous period of one
+minute during the transmission, he shall be considered to be successful in the test.
+For tests as under items (ii) and (iii) above, a candidate may have to appear for written and/or oral examination.
+A fee of Rupees five shall be charged for the purpose of this examination.
+A certificate shall be awarded to the successful candidate in the proforma shown in Appendix III.
+Obverse
+Appendix III
+No. ______________
+Seal Government of India Ministry of Transport & Communications (Deptts. of Comms. & Civil Aviation)
+Amateur Station Operator's Certificate*| (Grade I)(Grade II)
+(Issued under the India Wireless Telegraphy Amateur Service Rules, 1958).
+This is to certify that Shri.................... has been examined and has qualified in sending and receiving International Morse
+Code on tone signals at *twelve/five words per minute in clear English and has a *general/elementary knowledge of
+operating procedure and the regulations regarding the prevention of harmful interference and *general/elementary
+knowledge of Radio Theory and Practice.
+It is also certified that the holder has made a declaration than he will preserve the secrecy of correspondence.
+New Delhi:
+Signature.
+Designation.
+Wireless Planning & Coordination, Ministry of Transport & Communications, (Deptts. of Commns. & Civil Aviation).
+*To be struck off whenever unnecessary.
+ENDORSEMENTS.
+REVERSE
+valid up to _______________________________________________
+Signature of holder...............
+Date of birth .....................
+Place of birth .....................
+Declaration of Holder
+Age..................years.
+Height ................Feet............Inches.
+Colour of eyes ..............................
+Colour of hair .................................
+Complexion ................................
+Any special peculiarities or marks .................
+This Certificate does not constitute a licence to establish, maintain or work a radio station; for that purpose a licence
+must be obtained from the Ministry of Transport & Communication, New Delhi.
+This Certificate may be endorsed, suspended or cancelled at the discretion of the Central Government, if the holder
+commits a breach of the Indian Wireless Telegraphy (Amateur Service) Rules, 1958, or any regulation lawfully
+applicable to him in respect of radio-communication or radio-telegraphy or radio-telephone apparatus.
+This Certificate should be carefully preserved. In case of loss through gross carelessness, the Central Government may
+withhold the issue of duplicate copy thereof. In other cases, the Central Government may issue duplicate copies on
+payment of prescribed fees.
+Any person other than the owner thereof becoming possessed of this Certificate is requested to send it to the Adviser,
+Wireless Planning & Co-ordination, Ministry of Transport and Communications, New Delhi.
+Related AI tags, queries and research notes
+Translation
+Page 10/10

@@ -1,0 +1,1111 @@
+
+----- PAGE 1 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+Prevention of Money-Laundering (Maintenance of Records) Rules,
+2005
+Source: https://indiankanoon.org/doc/30530407/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+UNION OF INDIA
+India
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+Rule PREVENTION-OF-MONEY-LAUNDERING-MAINTENANCE-OF-RECORDS-RULES-2005 of 2005
+Published on 1 July 2005
+Commenced on 1 July 2005
+[This is the version of this document from 1 July 2005.]
+[Note: The original publication document is not available and this content could not be verified.]
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+Published vide Notification G.S.R. 444(E), dated 1.7.2005, published in the Gazette of India, Extraordinary, Part 2,
+Section 3(1), dated 1.7.2005
+Last Updated 14th November, 2019  [20/898]
+In exercise of the powers conferred by [section 73 read with section 11A and section 12AA]
+[Substituted 'sub-section (1) read with clause (h), clause (i), clause (j) and clause (k) of sub-section (2) of section 73' by
+Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+of the Prevention of Money-Laundering Act, 2002 (
+15 of 2003
+Page 1/21
+----- PAGE 2 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+), the Central Government in consultation with the Reserve Bank of India, hereby makes the following rules for
+maintenance of records of the nature and value of transactions, the procedure and manner of maintaining and time for
+furnishing of information and verification of records of the identity of the clients of the banking companies, financial
+institutions and intermediaries, namely:-
+1.
+Short title and commencement.
+(1)
+These rules may be called The [Prevention of Money-Laundering (Maintenance of Records Rules]
+[Substituted 'Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the
+Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records
+of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules' by Notification
+No. G.S.R. 481(E), dated 24.6.2011 (w.e.f. 1.7.2005).]
+, 2005.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Prevention of Money-Laundering Act, 2002 (
+15 of 2003
+);
+[[(ac)]
+[Inserted by Notification No. G.S.R. 544(E), dated 7.7.2015 (w.e.f. 1.7.2005).]
+"Central KYC Records Registry" means a reporting entity, substantially owned and controlled by the Central
+Government, and authorised by that Government through a notification in the Official Gazette to receive, store,
+safeguard and retrieve the KYC records in digital form of a client as referred to in clause (ha) in such manner and to
+perform such other functions as may be required under these rules:]
+[[[(aa)]
+[Inserted by Notification No. G.S.R. 538(E), dated 1.6.2017 (w.e.f. 1.7.2005)]
+"Aadhaar number" shall have the meaning assigned to it in clause (a) of section 2 of the Aadhaar (Targeted Delivery of
+Financial and Other Subsidies, Benefits and Services) Act, 2016 (
+18 of 2016
+);]
+(ab)
+[]
+[Renumbered '(aab)' by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+"authentication" means the process as defined under sub-section (c) of section 2 of the Aadhaar (Targeted Delivery of
+Financial and Other Subsidies, Benefits and Services) Act, 2016;
+(aac)
+[ and (aad) ***]
+[Omitted '(aac) and (aad)' by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+(ca)
+[]
+[Renumbered '(aae)' by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+"e - KYC authentication facility" means an authentication facility as defined in Aadhaar (Authentication) Regulations,
+2016;
+(cb)
+[ "equivalent e-document" means an electronic equivalent of a document, issued by the issuing authority of such
+document with its valid digital signature including documents issued to the digital locker account of the client as per rule
+Page 2/21
+----- PAGE 3 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+9 of the Information Technology (Preservation and Retention of Information by Intermediaries Providing Digital Locker
+Facilities) Rules, 2016;]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(i)
+[]
+[Renumbered '(aaf)' by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+"Yes/No authentication facility" means an authentication facility as defined in Aadhar (Authentication) Regulations,
+2016;]
+(aag)
+[ "Depository Receipt" means a foreign currency denominated instrument, whether listed on an international exchange or
+not, issued by a foreign depository in a permissible jurisdiction on the back of eligible securities issued or transferred to
+that foreign depository and deposited with a domestic custodian and includes 'global depository receipt' as defined in the
+Companies Act, 2013 (
+18 of 2013
+);]
+[Inserted by Notification No. G.S.R. 669(E), dated 18.9.2019 (w.e.f. 1.7.2005).]
+(b)
+[ "client due diligence" means due diligence carried out on a client referred to in clause (ha) of sub-section (1) of section
+2 of the Act;]
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(ba)
+[ "Designated Director" means a person designated by the reporting entity to ensure overall compliance with the
+obligations imposed under chapter IV of the Act and the Rules and includes -
+[Inserted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(i)
+the Managing Director or a whole-time Director duly authorized by the Board of Directors if the reporting entity is a
+company,
+(ii)
+the managing partner if the reporting entity is a partnership firm,
+(iii)
+the proprietor if the reporting entity is a proprietorship concern,
+(iv)
+the managing trustee if the reporting entity is a trust,
+(v)
+a person or individual, as the case may be, who controls and manages the affairs of the reporting entity if the reporting
+entity is an unincorporated association or a body of individuals, and
+(vi)
+such other person or class of persons as may be notified by the Government if the reporting entity does not fall in any of
+the categories above.
+Explanation. - For the purpose of this clause, the terms "Managing Director" and "Whole-time Director" shall have the
+meaning assigned to them in the Companies Act, 1956 (1 of 1956);]
+(bb)
+[ "Designated Officer" means any officer or a class of officers authorized by a banking company, either by name or by
+designation, for the purpose of opening small accounts.]
+[Inserted by Notification No. G.S.R. 980 (E) dated 16.12.2010 (w.e.f. 1.7.2005)]
+(bba)
+[ "digitial KYC" means the capturing live photo of the client and officially valid document or the proof of possession of
+Aadhaar, where offline verification cannot be carried out, along with the latitude and longitude of the location where such
+live photo is being taken by an authorised officer of the reporting entity as per the provisions contained in the Act;
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(bc)
+Page 3/21
+----- PAGE 4 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+Digital Signature shall have the same meaning as assigned to it in clause (p) of subsection (1) of section (2) of the
+Information Technology Act, 2000 (
+21 of 2000
+);]
+(c)
+"Director" means the Director appointed under sub-section (1) of section 49 of the Act for the purposes of [sections 12,
+12A and 13]
+[Substituted 'sections 12 and 13' by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+of the Act;
+[[(cc)]
+[Inserted by Notification No. G.S.R. 544(E), dated 7.7.2015 (w.e.f. 1.7.2005).]
+"Know Your Client (KYC) Identifier" means the unique number or code assigned to a client by the Central KYC Records
+Registry;
+(cd)
+[]
+[Renumbered '(cb)' by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+"Know Your Client (KYC) Identifier" means the records, including the electronic records, relied upon by a reporting entity
+in carrying out client due diligence as referred to in rule 9 of these rules;
+(ce)
+[]
+[Renumbered '(cc)' by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+"last KYC verification or updation" means the last transaction made by a reporting entity in the Central KYC Records
+Registry by which the KYC records of a client were recorded, changed or updated by a reporting entity;]
+[[(cf)]
+[Inserted by G.S.R. 816(E), dated 12-11-2009 (w.e.f. 12.11.2009).]
+"non-profit organisation" means any entity or organisation that is registered as a trust or a society under the Societies
+Registration Act, 1860 (21 of 1860) or any similar State legislation or a company registered under [section 8 of the
+Companies Act, 2013 (
+18 of 2013
+);]
+[Substituted 'section 25 of the Companies Act, 1956 (1 of 1956)' by Notification No. G.S.R. 544(E), dated 7.7.2015
+(w.e.f. 1.7.2005).]
+]
+(d)
+"officially valid document" means [the passport, the driving licence [proof of possession of Aadhaar number]
+[Substituted 'the passport, the driving licence' by Notification No. G.S.R. 538(E), dated 1.6.2017 (w.e.f. 1.7.2005)]
+, the Voter's Identity Card issued by Election Commission of India, job card issued by NREGA duly signed by an officer
+of the State Government, the letter issued by the National Population Register containing details of name, address or
+any other document as notified by the Central Government in consultation with the Regulator], the Permanent Account
+Number (PAN) Card, the Voter's Identity Card issued by [Election Commission of India, job card issued by NREGA duly
+signed by an officer of the State Government, the letter issued by the Unique Identification Authority of India [or the
+National Population Register]
+[Substituted for the words "the Election Commission of India or any other document as may be required by the banking
+company, or financial institution or intermediary;" by Notification No. G.S.R. 980 (E) dated 16.12.2010 (w.e.f. 1.7.2005)]
+containing details of name, address and Aadhaar number or any other document as notified by the Central Government
+in consultation with the [regulatory.]
+[Substituted 'Reserve Bank of India or any other document as may be required by the banking companies, or financial
+institution or intermediary' by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+]
+[Provided that where simplified measures are applied for verifying the identity of the clients the following documents
+shall [also]
+Page 4/21
+----- PAGE 5 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+[Inserted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+be deemed to be 'officially valid documents:
+(a)
+identity card with applicant's Photograph issued by Central/State Government Departments, Statutory/Regulatory
+Authorities, Public Sector Undertakings, Scheduled Commercial Banks, and Public Financial Institutions;
+(b)
+letter issued by a gazetted officer, with a duly attested photograph of the person;]
+[Provided further that where simplified measures are applied for verifying the limited purpose of proof of address of the
+clients, where a prospective customer is unable to produce any proof of address, the following documents shall [also]
+[Inserted by Notification No. G.S.R. 288(E), dated 15.4.2015 (w.e.f. 1.7.2005).]
+be deemed to be 'officially valid document':
+(a)
+utility bill which is not more than two months old of any service provider (electricity, telephone, post-paid mobile phone,
+piped gas, Water bill);)
+(b)
+property or Municipal tax receipt;
+(c)
+bank account or Post Office savings bank account statement;
+(d)
+pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public
+Sector Undertakings, if they contain the address;
+(e)
+letter of allotment of accommodation from employer issued by State or Central Government Departments or Public
+Sector Undertakings, scheduled commercial banks, financial institutions and listed companies. Similarly, leave and
+licence agreements with such employers allotting official accommodation; and
+[***]
+[Omitted by Notification No. G.S.R. 1318(E), dated 23.10.2017, (w.e.f. 1.7.2005).]
+]
+[Provided also that in case the officially valid document presented by a foreign national does not contain the details of
+address, in such case the documents issued by the Government departments of foreign jurisdictions and letter issued by
+the Foreign Embassy or Mission in India shall be accepted as proof of address.]
+[Inserted by Notification No. G.S.R. 1318(E), dated 23.10.2017, (w.e.f. 1.7.2005).]
+[Provided also that where the client submits his proof of possession of Aadhaar number as an officially valid document,
+he may submit it in such form as are issued by the Unique Identification Authority of India;]
+[Inserted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+[Explanation.
+[Inserted by Notification No. G.S.R. 730(E), dated 22.9.2015 (w.e.f. 1.7.2005).]
+- For the purpose of this clause, a document shall be deemed to an "officially valid document" even if there is a change
+in the name subsequent to its issuance provided it is supported by a marriage certificate issued by the State
+Government or Gazette notification, indicating such a change of name.]
+(da)
+[ "offline verification" shall have the same meaning as assigned to it in clause (pa) of section 2 of the Aadhaar (Targeted
+Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (
+18 of 2016
+);]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(e)
+"prescribed value" means the value of transaction prescribed under these rules;
+(f)
+"Principal Officer" means an officer designated by a [reporting entity]
+[Substituted 'banking company, financial institution and intermediary, as the case may be' by Notification No. G.S.R.
+Page 5/21
+----- PAGE 6 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+;
+(fa)
+[ "Regulator" means a person or an authority or a Government which is vested with the power to license, authorise,
+register, regulate or supervise the activity of]
+[Inserted by G.S.R. 816(E), dated 12-11-2009 (w.e.f. 12-11-2009).]
+[reporting entities or the Director as may be notified by the Government for a specific reporting entity or a class of
+reporting entities or for a specific purpose;]
+[Substituted 'banking companies, financial institutions or interme-diaries, as the case may be' by Notification No. G.S.R.
+576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+[[(fb)]
+[Inserted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+"Rules" means the Prevention of Money-laundering (Maintenance of Records) Rules, 2005;]
+[[(fc)]
+[Inserted by Notification No. G.S.R. 980 (E) dated 16.12.2010 (w.e.f. 1.7.2005)]
+'small account' means a savings account in a banking company where -
+(i)
+the aggregate of all credits in a financial year does not exceed rupees one lakh,
+(ii)
+the aggregate of all withdrawals and transfers in a month does not exceed rupees ten thousand, and
+(iii)
+the balance at any point of time does not exceed rupees fifty thousand.]
+[Provided that this limit on balance shall not be considered while making deposits through government grants, welfare
+benefits and payment against procurements.]
+[Inserted by Notification No. G.S.R. 1038(E), dated 21.8.2017, (w.e.f.1.7.2005).]
+(g)
+[ "Suspicious transaction" means a transaction referred to in clause (h), including an attempted transaction, whether or
+not made in cash, which to a person acting in good faith-
+[Substituted by G.S.R. 816(E), dated 12-11-2009 (w.e.f. 1.7.2005).]
+(a)
+gives rise to a reasonable ground of suspicion that it may involve proceeds of an offence specified in the Schedule to the
+Act, regardless of the value involved; or
+(b)
+appears to be made in circumstances of unusual or unjustified complexity; or
+(c)
+appears to have no economic rationale or  bona fide purpose; or
+(d)
+gives rise to a reasonable ground of suspicion that it may involve financing of the activities relating to terrorism;]
+[Explanation. - Transaction involving financing of the activities relating to terrorism includes transaction involving funds
+suspected to be linked or related to, or to be used for terrorism, terrorist acts or by a terrorist, terrorist organisation or
+those who finance or are attempting to finance terrorism.]
+[Inserted by Notification No. G.S.R. 508 (E) dated 16.6.2010 (w.e.f. 1.7.2005)]
+(h)
+[ "transaction" means a purchase, sale, loan, pledge, gift, transfer, delivery or the arrangement thereof and includes -
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(i)
+opening of an account;
+(ii)
+deposits, withdrawal, exchange or transfer of funds in whatever currency, whether in cash or by cheque, payment order
+or other instruments or by electronic or other non-physical means;
+(iii)
+Page 6/21
+----- PAGE 7 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+the use of a safety deposit box or any other form of safe deposit;
+(iv)
+entering into any fiduciary relationship;
+(v)
+any payment made or received in whole or in part of any contractual or other legal obligation;
+(vi)
+any payment made in respect of playing games of chance for cash or kind including such activities associated with
+casino; and
+(vii)
+establishing or creating a legal person or legal arrangement.]
+(2)
+All other words and expressions used and not defined in these rules but defined in the Act shall have the meaning
+respectively assigned to them in the Act.
+3.
+Maintenance of records of transactions (nature and value).
+- [(1) Every reporting entity shall maintain the record of all transactions including, the record of-
+(A)
+all cash transactions of the value of more than ten lakh rupees or its equivalent in foreign currency;
+(B)
+all series of cash transactions integrally connected to each other which have been individually valued below rupees ten
+lakh or its equivalent in foreign currency where such series of transactions have taken place within a month and the
+monthly aggregate exceeds an amount of ten lakh rupees or its equivalent in foreign currency;]
+(BA)
+[ all transactions involving receipts by non-profit organisations of value more than rupees ten lakh, or its equivalent in
+foreign currency;]
+[Inserted by G.S.R. 816(E), dated 12-11-2009 (w.e.f. 12-11-2009).]
+(C)
+[ all cash transactions where forged or counterfeit currency notes or bank notes have been used as genuine or where
+any forgery of a valuable security or a document has taken place facilitating the transactions;]
+[Substituted by G.S.R. 389(E), dated 24-5-2007 (w.e.f. 24-5-2007).]
+(D)
+all suspicious transactions whether or not made in cash and by way of:
+(i)
+deposits and credits, withdrawals into or from any accounts in whatsoever name they are referred to in any currency
+maintained by way of:
+(a)
+cheques including third party cheques, pay orders, demand drafts, cashiers cheques or any other instrument of payment
+of money including electronic receipts or credits and electronic payments or debits, or
+(b)
+travellers cheques, or
+(c)
+transfer from one account within the same banking company, financial institution and intermediary, as the case may be,
+including from or to Nostro and Vostro accounts, or
+(d)
+any other mode in whatsoever name it is referred to;
+(ii)
+credits or debits into or from any non-monetary accounts such as d-mat account, security account in any currency
+maintained by the banking company, financial institution and intermediary, as the case may be;
+(iii)
+money transfer or remittances in favour of own clients or non-clients from India or abroad and to third party beneficiaries
+in India or abroad including transactions on its own account in any currency by any of the following:-
+Page 7/21
+----- PAGE 8 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+(a)
+payment orders, or
+(b)
+cashiers cheques, or
+(c)
+demand drafts, or
+(d)
+telegraphic or wire transfers or electronic remittances or transfers, or
+(e)
+internet transfers, or
+(f)
+Automated Clearing House remittances, or
+(g)
+lock box driven transfers or remittances, or
+(h)
+remittances for credit or loading to electronic cards, or
+(i)
+any other mode of money transfer by whatsoever name it is called;
+(iv)
+loans and advances including credit or loan substitutes, investments and contingent liability by way of:
+(a)
+subscription to debt instruments such as commercial paper, certificate of deposits, preferential shares, debentures,
+securitised participation, inter bank participation or any other investments in securities or the like in whatever form and
+name it is referred to, or
+(b)
+purchase and negotiation of bills, cheques and other instruments, or
+(c)
+foreign exchange contracts, currency, interest rate and commodity and any other derivative instrument in whatsoever
+name it is called, or
+(d)
+letters of credit, standby letters of credit, guarantees, comfort letters, solvency certificates and any other instrument for
+settlement and/or credit support;
+(v)
+collection services in any currency by way of collection of bills, cheques, instruments or any other mode of collection in
+whatsoever name it is referred to.
+(E)
+[ all cross border wire transfers of the value of more than five lakh rupees or its equivalent in foreign currency where
+either the origin or destination of fund is in India;
+[Inserted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(F)
+all purchase and sale by any person of immovable property valued at fifty lakh rupees or more that is registered by the
+reporting entity, as the case may be.]
+4.
+Records containing information.
+- The records referred to in rule 3 [shall contain all necessary information specified by the Regulator to permit
+reconstruction of individual transaction, including]
+[Substituted for the words "shall contain" by Notification No. G.S.R. 76 (E) dated 12.2.2010 (w.e.f. 1.7.2005)]
+the following information: -
+(a)
+the nature of the transactions;
+(b)
+Page 8/21
+----- PAGE 9 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+the amount of the transaction and the currency in which it was denominated;
+(c)
+the date on which the transaction was conducted; and
+(d)
+the parties to the transaction.
+5.
+[ Procedure and manner of maintaining information.
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(1)
+Every reporting entity shall maintain information in respect of transactions with its client referred to in rule 3 in
+accordance with the procedure and manner as may be specified by its regulator from time to time.
+(2)
+Every reporting entity shall evolve an internal mechanism for maintaining such information in such form and manner and
+at such intervals as may be specified by its regulator from time to time.
+(3)
+It shall be the duty of every reporting entity, its designated director, officers and employees to observe the procedure
+and the manner of maintaining information as specified by its regulator under sub-rule (1).]
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+6.
+[
+[Omitted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+***]
+6. [ Retention of records of transactions.
+[Substituted by G.S.R. 816(E), dated 12-11-2009 (w.e.f. 12-11-2009).]
+- The records referred to in rule 3 shall be maintained for a period of ten years from the date of transactions between the
+client and the banking company, financial institution or intermediary, as the case may be.]
+7.
+[ Procedure and manner of furnishing information.
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(1)
+Every reporting entity shall communicate to the Director the name, designation and address of the Designated Director
+and the Principal Officer.
+(2)
+The Principal Officer shall furnish the information referred to in clauses (A), (B), (BA), (C), (D), (E) and (F) of sub-rule (1)
+of rule 3 to the Director on the basis of information available with the reporting entity. A copy of such information shall be
+retained by the Principal Officer for the purposes of official record.
+(3)
+Every reporting entity shall evolve an internal mechanism having regard to any guidelines issued by regulator, for
+detecting the transactions referred to in clauses (A),(B),(BA),(C),(D), (E) and (F) of sub-rule (1) of rule 3 and for
+furnishing information about such transactions in such form as may be directed by its Regulator.
+(4)
+It shall be the duty of every reporting entity, its designated director, officers and employees to observe the procedure
+and the manner of furnishing information as specified by [the Director in consultation with] its Regulator.]
+8.
+[ Furnishing of information to the Director.
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(1)
+The Principal Officer of a reporting entity shall furnish the information in respect of transactions referred to in clauses
+(A), (B), (BA), (C) and (E) of sub-rule (1) of rule 3 every month to the Director by the 15th day of the succeeding month.
+(2)
+The Principal Officer of a reporting entity shall furnish the information promptly in writing or by fax or by electronic mail to
+Page 9/21
+----- PAGE 10 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+the Director in respect of transactions referred to in clause (D) of sub-rule (1) of rule 3 not later than seven working days
+on being satisfied that the transaction is suspicious.
+(3)
+The Principal Officer of a reporting entity shall furnish, the information in respect of transactions referred to in clause (F)
+of sub-rule (1) of rule 3, every quarter to the Director by the 15th day of the month succeeding the quarter.
+(4)
+For the purpose of this rule, delay of each day in not reporting a transaction or delay of each day in rectifying a
+mis-reported transaction beyond the time limit as specified in this rule shall constitute a separate violation.]
+9.
+[ Client Due Diligence.
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(1)
+Every reporting entity shall-
+(a)
+at the time of commencement of an account-based relationship -
+(i)
+identify its clients, verify their identity, obtain information on the purpose and intended nature of the business
+relationship; and
+(ii)
+determine whether a client is acting on behalf of a beneficial owner, and identify the beneficial owner and take all steps
+to verify the identity of the beneficial owner:
+Provided that where the Regulator is of the view that money laundering and terrorist financing risks are effectively
+managed and where this is essential not to interrupt the normal conduct of business, the Regulator may permit the
+reporting entity to complete the verification as soon as reasonably practicable following the establishment of the
+relationship; and
+(b)
+in all other cases, verify identity while carrying out-
+(i)
+transaction of an amount equal to or exceeding rupees fifty thousand, whether conducted as a single transaction or
+several transactions that appear to be connected, or
+(ii)
+any international money transfer operations.]
+[Provided that where a client is subscribing or dealing with depository receipts or equity shares, issued or listed in
+jurisdictions notified by the Central Government, of a company incorporated in India, and it is acting on behalf of a
+beneficial owner who is a resident of such jurisdiction, the determination, identification and verification of such beneficial
+owner, shall be as per the norms of such jurisdiction and nothing in the sub-rules (3) to (9) of these rules shall be
+applicable for due-diligence of such beneficial owner.
+Explanation. - For the purposes of this proviso, the expression "equity share" means a share in the equity share capital
+of a company and equity share capital shall have the same meaning as assigned to it in the Explanation to section 43 of
+the Companies Act, 2013.]
+[Inserted by Notification No. G.S.R. 669(E), dated 18.9.2019 (w.e.f. 1.7.2005).]
+(1A)
+[ Subject to the provisions of sub-rule (1), every reporting entity shall within [ten days]
+[Inserted by Notification No. G.S.R. 544(E), dated 7.7.2015 (w.e.f. 1.7.2005).]
+after the commencement of an account-based relationship with a client, file the electronic copy of the client's KYC
+records with the Central KYC Records Registry;
+(1B)
+The Central KYC Records Registry shall process the KYC records received from a reporting entity for de-duplicating and
+issue a KYC Identifier for each client to the reporting entity, which shall communicate the KYC Identifier in writing to their
+client;
+(1C)
+Page 10/21
+----- PAGE 11 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+Where a client, for the purposes of clause (a) and clause (b), submits a KYC Identifier to a reporting entity, then such
+reporting entity shall retrieve the KYC records online from the Central KYC Records Registry by using the KYC Identifier
+and shall not require a client to submit the same KYC records or information or any other additional identification
+documents or details, unless -
+(i)
+there is a change in the information of the client as existing in the records of Central KYC Records Registry;
+(ii)
+the current address of the client is required to be verified;
+(iii)
+the reporting entity considers it necessary in order to verify the identity or address of the client, or to perform enhanced
+due diligence or to build an appropriate risk profile of the client.
+(1D)
+A reporting entity after obtaining additional or updated information from a client under subrule (1C), shall as soon as
+possible furnish the updated information to the Central KYC Records Registry which shall update the existing KYC
+records of the client and the Central KYC Records Registry shall thereafter inform electronically all reporting entities who
+have dealt with the concerned client regarding updatation of KYC record of the said client.
+(1E)
+The reporting entity which performed the last KYC verification or sent updated information in respect of a client shall be
+responsible for verifying the authenticity of the identity or address of the client.
+(1F)
+A reporting entity shall not use the KYC records of a client obtained from the Central KYC Records Registry for
+purposes other than verifying the identity or address of the client and shall not transfer KYC records or any information
+contained therein to any third party unless authorised to do so by the client or by the Regulator or by the Director;
+(1G)
+The regulator shall issue guidelines to ensure that the Central KYC records are accessible to the reporting entities in
+real time.]
+(2)
+[ For the purpose of clause (a) of sub-rule (1), a reporting entity may rely on a third party subject to the conditions that-
+(a)
+the reporting entity immediately obtains necessary information of such client due diligence carried out by the third party;
+(b)
+the reporting entity takes adequate steps to satisfy itself that copies of identification data and other relevant
+documentation relating to the client due diligence requirements will be made available from the third party upon request
+without delay;
+(c)
+the reporting entity is satisfied that such third party is regulated, supervised or monitored for, and has measures in place
+for compliance with client due diligence and record-keeping requirements in line with the requirements and obligations
+under the Act;
+(d)
+the third party is not based in a country or jurisdiction assessed as high risk;
+(e)
+the reporting entity is ultimately responsible for client due diligence and undertaking enhanced due diligence measures,
+as applicable; and
+(f)
+where a reporting entity relies on a third party that is part of the same financial group, the Regulator may issue
+guidelines to consider any relaxation in the conditions (a) to (d).
+(3)
+The beneficial owner for the purpose of sub-rule (1) shall be determined as under -
+(a)
+where the client is a company, the beneficial owner is the natural person(s), who, whether acting alone or together, or
+through one or more juridical person, has a controlling ownership interest or who exercises control through other means.
+Page 11/21
+----- PAGE 12 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+Explanation. - For the purpose of this sub-clause-
+1. "Controlling ownership interest" means ownership of or entitlement to more than twenty-five percent of shares or
+capital or profits of the company;
+2. "Control" shall include the right to appoint majority of the directors or to control the management or policy decisions
+including by virtue of their shareholding or management rights or shareholders agreements or voting agreements;
+(b)
+where the client is a partnership firm, the beneficial owner is the natural person(s), who, whether acting alone or
+together, or through one or more juridical person, has ownership of/entitlement to more than fifteen percent of capital or
+profits of the partnership;
+(c)
+where the client is an unincorporated association or body of individuals, the beneficial owner is the natural person(s),
+who, whether acting alone or together, or through one or more juridical person, has ownership of or entitlement to more
+than fifteen percent of the property or capital or profits of such association or body of individuals;
+(d)
+where no natural person is identified under (a) or (b) or (c) above, the beneficial owner is the relevant natural person
+who holds the position of senior managing official;
+(e)
+where the client is a trust, the identification of beneficial owner(s) shall include identification of the author of the trust, the
+trustee, the beneficiaries with fifteen percent or more interest in the trust and any other natural person exercising
+ultimate effective control over the trust through a chain of control or ownership; and
+(f)
+[ where the client or the owner of the controlling interest is an entity listed on a stock exchange in India, or it is an entity
+resident in jurisdictions notified by the Central Government and listed on stock exchanges in such jurisdictions notified
+by the Central Government, or it is a subsidiary of such listed entities, it is not necessary to identify and verify the identity
+of any shareholder or beneficial owner of such entities.]]
+(4)
+[ Where the client is an individual, he shall for the purpose of sub-rule (1) submit to the reporting entity, -
+(a)
+the Aadhaar number where,
+(i)
+he is desirous of receiving any benefit or subsidy under any scheme notified under section 7 of the Aadhaar (Targeted
+Delivery of Financial and Other subsidies, Benefits and Services) Act, 2016 (
+18 of 2016
+); or
+(ii)
+he decides to submit his Aadhaar number voluntarily to a banking company or any reporting entity notified under first
+proviso to sub-section (1) of section 11A of the Act; or
+(aa)
+the proof of possession of Aadhaar number where offline verification can be carried out; or
+(ab)
+the proof of possession of Aadhaar number where offline verification cannot be carried out or any officially valid
+document or the equivalent e-document thereof containing the details of his identity and address; and
+(b)
+the Permanent Account Number or the equivalent e-document thereof or Form No. 60 as defined in Income-tax Rules,
+1962; and
+(c)
+such other documents including in respect of the nature of business and financial status of the client, or the equivalent
+e-documents thereof as may be required by the reporting entity:]
+(4A)
+[ ***]
+[Omitted '(4A) Where the client is an individual, who is not eligible to be enrolled for an Aadhaar number, he shall for the
+Page 12/21
+----- PAGE 13 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+purpose of sub-rule (1), submit to the reporting entity, the Permanent Account Number or Form No. 60 as defined in the
+Income-tax Rules, 1962' by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+Provided that if the client does not submit the Permanent Account Number, he shall submit one certified copy of an
+'officially valid document' containing details of his identity and address, one recent photograph and such other
+documents including in respect of the nature or business and financial status of the client as may be required by the
+reporting entity.
+[Explanation. - Obtaining a certified copy by reporting entity shall mean comparing the copy of officially valid document
+so produced by the client with the original and recording the same on the copy by the authorised officer of the reporting
+entity in a manner prescribed by the regulator.]
+[Inserted by Notification No. G.S.R. 1300(E), dated 16.10.2017, (w.e.f. 1.7.2005).]
+(5)
+Notwithstanding anything contained in sub-rules (4) [and as an alternative thereto]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+[***]
+[Omitted 'and (4A)' by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+, an individual who desires to open a small account in a banking company may be allowed to open such an account on
+production of a self-attested photograph and affixation of signature or thumb print, as the case may be, on the form for
+opening the account:
+Provided that-
+(i)
+the designated officer of the banking company, while opening the small account, certifies under his signature that the
+person opening the account has affixed his signature or [thumb]
+[Substituted 'thump' by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+print, as the case may be, in his presence;
+[Provided that where the individual is a prisoner in a jail, the signature or thumb print shall be affixed in presence of the
+officer in-charge of the jail and the said officer shall certify the same under his signature and the account shall remain
+operational on annual submission of certificate of proof of address issued by the officer in-charge of the jail.]
+[Inserted by Notification No. G.S.R. 381(E), dated 28.5.2019 (w.e.f. 1.7.2005).]
+(ii)
+the small account shall be opened only at Core Banking Solution linked banking company branches or in a branch
+where it is possible to manually monitor and ensure that foreign remittances are not credited to a small account and that
+the stipulated limits on monthly and annual aggregate of transactions and balance in such accounts are not breached,
+before a transaction is allowed to take place;
+(iii)
+the small account shall remain operational initially for a period of twelve months, and thereafter for a further period of
+twelve months if the holder of such an account provides evidence before the banking company of having applied for any
+of the officially valid documents within twelve months of the opening of the said account, with the entire relaxation
+provisions to be reviewed in respect of the said account after twenty-four months;
+(iv)
+the small account shall be monitored and when there is suspicion of money laundering or financing of terrorism or other
+high risk scenarios, the identity of client shall be established [as per the provisions of sub-rule (4)]
+[Substituted 'through the production of officially valid documents, as referred to in sub-rule (4) and Permanent Account
+Number or Form No.60, as the case may be' by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+;
+[***]
+[Omitted 'Provided further that if the client is not eligible to be enrolled for an Aadhaar number, the identity of client shall
+be established through the production of an officially valid document;' by Notification No. G.S.R. 108(E), dated 13.2.2019
+(w.e.f. 1.7.2005).]
+(v)
+[ the foreign remittance shall not be allowed to be credited into the small account unless the identity of the client is fully
+established as per provision of sub-rule (4):]
+Page 13/21
+----- PAGE 14 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+[Substituted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+]
+[***]
+[Omitted 'Provided that if the client is not eligible to be enrolled for the Aadhaar number, the identity of client shall be
+established through the production of an officially valid document.' by Notification No. G.S.R. 108(E), dated 13.2.2019
+(w.e.f. 1.7.2005).]
+(6)
+[ Where the client is a company, it shall for the purposes of sub-rule (1), submit to the reporting entity the certified copies
+of the following documents [or the equivalent e-documents thereof]
+[Substituted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+, namely:-
+(i)
+certificate of incorporation;
+(ii)
+Memorandum and Articles of Association;
+(iii)
+Permanent Account Number of the company;
+(iv)
+a resolution from the Board of Directors and power of attorney granted to its managers, officers or employees, as the
+case may be, to transact on its behalf; [and]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(v)
+[ such documents as are required for an individual under sub-rule (4) relating to beneficial owner, managers, officers or
+employees, as the case may be, holding an attorney to transact on the company's behalf;]
+[Substituted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(7)
+[ Where the client is a partnership firm, it shall, for the purposes of sub-rule (1), submit to the reporting entity the certified
+copies of the following documents [or the equivalent e-documents thereof]
+[Substituted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+, namely: -
+(i)
+registration certificate;
+(ii)
+partnership deed;
+(iii)
+Permanent Account Number of the partnership firm; and
+(iv)
+[ such documents as are required for an individual under sub-rule (4) relating to beneficial owner, managers, officers or
+employees, as the case may be, holding an attorney to transact on its behalf;]
+[Substituted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+]
+(8)
+[ Where the client is a trust, it shall, for the purposes of sub-rule (1), submit to the reporting entity the certified copies of
+the following documents [or the equivalent e-documents thereof]
+[Substituted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+, namely:-
+(i)
+registration certificate;
+(ii)
+trust deed;
+(iii)
+Page 14/21
+----- PAGE 15 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+Permanent Account Number or Form No.60 of the trust; and
+(iv)
+[ such documents as are required for an individual under sub-rule (4) relating to beneficial owner, managers, officers or
+employees, as the case may be, holding an attorney to transact on its behalf;]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+]
+(9)
+[ Where the client is an unincorporated association or a body of individuals, it shall submit to the reporting entity the
+certified copies of the following documents [or the equivalent e-documents thereof]
+[Substituted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+, namely:-
+(i)
+resolution of the managing body of such association or body of individuals;
+(ii)
+Permanent account number or Form No.60 of the unincorporated association or a body of individuals;
+(iii)
+power of attorney granted to him to transact on its behalf; [and]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(iv)
+[ such documents as are required for an individual under sub-rule (4) relating to beneficial owner, managers, officers or
+employees, as the case may be, holding an attorney to transact on its behalf;]
+[Substituted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(v)
+such information as may be required by the reporting entity to collectively establish the existence of such association or
+body of individuals.]
+(10)
+[ Where the client is a juridical person, the reporting entity shall verify that any person purporting to act on behalf of such
+client is so authorized and verify the identity of that person.
+(11)
+No reporting entity shall allow the opening of or keep any anonymous account or account in fictitious names or account
+on behalf of other persons whose identity has not been disclosed or cannot be verified.
+(12)
+(i)
+Every reporting entity shall exercise ongoing due diligence with respect to the business relationship with every client and
+closely examine the transactions in order to ensure that they are consistent with their knowledge of the client, his
+business and risk profile and where necessary, the source of funds.
+(ii)
+When there are suspicions of money laundering or financing of the activities relating to terrorism or where there are
+doubts about the adequacy or veracity of previously obtained client identification data, the reporting entity shall review
+the due diligence measures including verifying again the identity of the client and obtaining information on the purpose
+and intended nature of the business relationship, as the case may be.
+(iii)
+The reporting entity shall apply client due diligence measures also to existing clients on the basis of materiality and risk,
+and conduct due diligence on such existing relationships at appropriate times or as may be specified by the regulator,
+taking into account whether and when client due diligence measures have previously been undertaken and the
+adequacy of data obtained.
+(13)
+(i)
+Every reporting entity shall carry out risk assessment to identify, assess and take effective measures to mitigate its
+money laundering and terrorist financing risk for clients, countries or geographic areas, and products, services,
+transactions or delivery channels that is consistent with any national risk assessment conducted by a body or authority
+Page 15/21
+----- PAGE 16 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+duly notified by the Central Government.
+(ii)
+The risk assessment mentioned in clause (i) shall -
+(a)
+be documented;
+(b)
+consider all the relevant risk factors before determining the level of overall risk and the appropriate level and type of
+mitigation to be applied;
+(c)
+be kept up to date; and
+(d)
+be available to competent authorities and self-regulating bodies.
+(14)
+(i)
+The regulator shall issue guidelines incorporating the requirements of sub-rules (1) to (13) above and may prescribe
+enhanced or simplified measures to verify the client's identity taking into consideration the type of client, business
+relationship, nature and value of transactions based on the overall money laundering and terrorist financing risks
+involved.
+Explanation. - For the purpose of this clause, simplified measures are not acceptable whenever there is a suspicion of
+money laundering or terrorist financing, or where specific higher-risk scenarios apply or where the risk identified is not
+consistent with the national risk assessment.
+(ii)
+Every reporting entity shall formulate and implement a Client Due Diligence Programme, incorporating the requirements
+of sub-rules (1) to (13) and guidelines issued under clause (i) above.
+(iii)
+the Client Due Diligence Programme shall include policies, controls and procedures, approved by the senior
+management, to enable the reporting entity to manage and mitigate the risk that have been identified either by the
+reporting entity or through national risk assessment.]
+(15)
+[ Where the client has submitted -
+(a)
+his Aadhaar number under clause (a) of sub-rule (4) to the banking company or a reporting entity notified under first
+proviso to sub-section (1) of section 11A, such banking company or reporting entity shall carry out authentication of the
+client's Aadhaar number using e-KYC authentication facility provided by the Unique Identification Authority of India;
+(b)
+proof of possession of Aadhaar under clause (aa) of sub-rule (4) where offline verification can be carried out, the
+reporting entity shall carry out offline verification;
+(c)
+an equivalent e-document of any officially valid document, the reporting entity shall verify the digital signature as per the
+provisions of the Information Technology Act, 2000 (
+21 of 2000
+) and any rules issues thereunder and take a live photo as specified under Annexure 1.
+(d)
+any officially valid document or proof of possession of Aadhaar number under clause (ab) of sub-rule (4) where offline
+verification cannot be carried out, the reporting entity shall carry out verification through digital KYC as specified under
+Annexure 1:
+Provided that for a period not beyond such date as may be notified for a class of reporting entity, instead of carrying out
+digital KYC, the reporting entity pertaining to such class may obtain a certified copy of the proof of possession of
+Aadhaar number or the officially valid document and a recent photograph where an equivalent e-document is not
+submitted.
+Explanation. - Obtaining a certified copy by the reporting entity shall mean comparing the copy of the proof of
+Page 16/21
+----- PAGE 17 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+possession of Aadhaar number where offline verification cannot be carried out or officially valid document so produced
+by the client with the original and recording the same on the copy by the authorised officer of the reporting entity as per
+the provisions contained in the Act.;]
+[Substituted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+(16)
+[ Every reporting entity shall, where its client [submits a proof of possession of Aadhaar Number containing Aadhaar
+Number, ensure that such client redacts or blacks out]
+[Substituted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+his Aadhaar number through appropriate means where the authentication of Aadhaar number is not required under
+sub-rule (15).]
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(17)
+[ (i) A client already having an account based relationship with a reporting entity, shall submit his Permanent Account
+Number [or equivalent e-document thereof]
+[Substituted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+or Form No.60, on such date as may be notified by the Central Government, failing which the account shall temporarily
+cease to be operational till the time the Permanent Account Number or Form No. 60 is submitted by the client:
+Provided that before temporarily ceasing operations for an account, the reporting entity shall give the client an
+accessible notice and a reasonable opportunity to be heard.
+Explanation. - For the purpose of this clause, "temporary ceasing of operations" [in relation to an account]
+[Substituted 'in relation an account' by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+means the temporary suspension of all transactions or activities in relation to that account by the reporting entity till such
+time the client complies with the provisions of this clause;
+(ii)
+if a client having an existing account based relationship with a reporting entity gives in writing to the reporting entity that
+he does not want to submit his Permanent Account Number [or equivalent e-document thereof]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+or Form No.60, as the case may be, the client's account with the reporting entity shall be closed and all obligations due
+in relation to the account shall be appropriately settled after establishing the identity of the client in the manner as may
+be determined by the regulator.]
+(18)
+[ In case of officially valid document furnished by the client does not contain updated address, the following documents
+[or their equivalent e-documents thereof]
+[Substituted by Notification No. G.S.R. 108(E), dated 13.2.2019 (w.e.f. 1.7.2005).]
+shall be deemed to be officially valid documents for the limited purpose of proof of address:-
+(a)
+utility bill which is not more than two months old of any service provider (electricity, telephone, post-paid mobile phone,
+piped gas, water bill);
+(b)
+property or Municipal tax receipt;
+(c)
+pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public
+Sector Undertakings, if they contain the address;
+(d)
+letter of allotment of accommodation from employer issued by State Government or Central Government Departments,
+statutory or regulatory bodies, public sector undertakings, scheduled commercial banks, financial institutions and listed
+companies and leave and licence agreements with such employers allotting official accommodation:
+Provided that the client shall submit updated officially valid document [or their equivalent e-documents thereof]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+with current address within a period of three months of submitting the above documents.]
+[Substituted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+Page 17/21
+----- PAGE 18 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+(19)
+[ Where a client has provided his Aadhaar number for identification under clause (a) of sub-rule (4) and wants to provide
+a current address, different from the address as per the identity information available in the Central Identities Data
+Repository, he may give a self-declaration to that effect to the reporting entity.]
+[Inserted by Notification No. G.S.R. 840(E), dated 13.11.2019 (w.e.f. 1.7.2005).]
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(4) Where the client is a partnership firm, it shall, for the purposes of sub-rule (1), submit to the banking company, or the
+financial institution, or the intermediary[one certified copy]
+[Substituted by G.S.R. 389(E), dated 24-5-2007 (w.e.f. 24-5-2007).]
+of the following documents:
+(i) registration certificate;
+(ii) partnership deed; and
+(iii) an officially valid document in respect of the person holding an attorney to transact on its behalf.
+(5) Where the client is a trust, it shall, for the purposes of sub-rule (1), submit to the banking company, or the financial
+institution, or the intermediary[one certified copy]
+[Substituted by G.S.R. 389(E), dated 24-5-2007 (w.e.f. 24-5-2007).]
+of the following documents:
+(i) registration certificate;
+(ii) trust deed; and
+(iii) an officially valid document in respect of the person holding an attorney to transact on its behalf.
+(6) Where the client is an unincorporated association or a body of individuals, it shall submit to the banking company, or
+the financial institution or the intermediary[one certified copy]
+[Substituted by G.S.R. 389(E), dated 24-5-2007 (w.e.f. 24-5-2007).]
+of the following documents:
+(i) resolution of the managing body of such association or body of individuals;
+(ii) power of attorney granted to him to transact on its behalf;
+(iii) an officially valid document in respect of the person holding an attorney to transact on its behalf; and
+(iv) such information as may be required by the banking company or the financial institution or the intermediary to
+collectively establish the legal existence of such an association or body of individuals.
+[(6-A) Where the client is a juridical person, the banking company, financial institution and intermediary, as the case may
+be, shall verify that any person purporting to act on behalf of such client is so authorised and verify the identity of that
+person.]
+[Inserted by G.S.R. 816(E), dated 12-11-2009 (w.e.f. 12-11-2009).]
+(7) [(i) The regulator shall issue guidelines incorporating the requirements of sub-rules (1) to (6-A) above and may
+prescribe enhanced measures to verify the client's identity taking into consideration type of client, business relationship
+or nature and value of transactions.
+(ii) Every banking company, financial institution and intermediary as the case may be, shall formulate and implement a
+Client Identification Programme to determine the true identity of its clients, incorporating requirements of sub-rules (1) to
+(6-A) and guidelines issued under clause (i) above.]
+[Substituted by G.S.R. 816(E), dated 12-11-2009 (w.e.f. 12-11-2009).]
+9A.
+[ Functions and obligations of the Central KYC Records Registry.
+[Inserted by Notification No. G.S.R. 544(E), dated 7.7.2015 (w.e.f. 1.7.2005).]
+(1)
+The Central Government shall within a period of [one hundred eighty days] from the date of coming into force of the
+Prevention of Money-laundering (Maintenance of Records) Amendment Rules, 2015 set-up a Central KYC Records
+Registry having its own seal for the purpose of receiving, storing, safeguarding and retrieving electronic copies of KYC
+records obtained by the reporting entities from their clients in accordance with these rules.
+(2)
+The Central KYC Registry shall perform the following functions and obligations, namely : -
+(a)
+Page 18/21
+----- PAGE 19 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+shall follow any operating instructions issued by the Regulator, consistent with the guidelines referred to in clause (g)
+and issue the same to implement the requirements of these rules;
+(b)
+shall be responsible for storing, safeguarding and retrieving the KYC records and making such records available online
+to reporting entities or Director;
+(c)
+shall take all precautions necessary to ensure that the electronic copies of KYC records are not lost, destroyed or
+tampered with and that sufficient back up of electronic records are available at all times at an alternative safe and secure
+place;
+(d)
+shall cause an annual audit of its controls, systems, procedures and safeguards and shall undertake corrective actions
+for deficiencies, if any;
+(e)
+shall provide information only to the reporting entities which are registered with it on payment of fees as specified by the
+Regulator;
+(f)
+shall appoint a compliance officer who shall be responsible for monitoring the compliance of the Act, the rules made and
+the notifications issued thereunder and also the guidelines and instructions issued by the Central Government and the
+Regulator and for redressal of client's grievances; the compliance officer shall immediately and independently report to
+the Central Government any noncompliance observed by him;
+(g)
+the Regulator in consultation with the Central Government and the Central KYC Records Registry may issue guidelines
+to be followed by the reporting entities for filing the KYC records with the Central KYC Records Registry or any other
+matter in connection with or incidental thereto;
+(h)
+the Central Government, in consultation with Regulator, may by notification in the public interest and in the interest of
+the regulated entities, direct that any of the provisions of rule 9 or rule 9A,-
+(i)
+shall not apply to a class or classes of regulated entities; or
+(ii)
+shall apply to the class or classes of regulated entities with such exceptions, modifications and adaptations as may be
+specified in the notification.]
+10. [ Maintenance of the records of the identity of clients.
+[Substituted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+- [(1) Every reporting entity shall maintain the physical copy of records of the identity of its clients obtained in accordance
+with rule 9, after filing the electronic copy of such records with the Central KYC Records Registry.]
+(2)
+[ The records of the identity of clients shall be maintained by a reporting entity in the manner as may be specified by the
+Regulator from time to time.]
+[Substituted by Notification No. G.S.R. 544(E), dated 7.7.2015 (w.e.f. 1.7.2005).]
+(3)
+Where the reporting entity does not have records of the identity of its existing clients, it shall obtain the records within the
+period specified by the regulator, failing which the reporting entity shall close the account of the clients after giving due
+notice to the client.
+Explanation. - For the purpose of this rule, the expression "records of the identity of clients" shall include updated
+records of the identification data, account files and business correspondence.]
+10A.
+[ Furnishing of Report to Director.
+[Inserted by Notification No. G.S.R. 576(E), dated 27.8.2013 (w.e.f. 1.7.2005).]
+(1)
+The persons referred to in clause (c) of sub-section (2) of section 13 of the Act shall furnish reports on the measures
+Page 19/21
+----- PAGE 20 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+taken to the Director every month by the 10th day of the succeeding month.
+(2)
+The Director may relax the time interval in sub-rule (1) above to every three months on specific request made by the
+reporting entity based on reasonable cause.
+10B.
+Expenses for audit.
+(1)
+The expenses of, and incidental to, audit referred to in sub-section (1A) of section 13 of the Act (including the
+remuneration of the accountant, qualified assistants, semi-qualified and other assistants who may be engaged by such
+accountant) shall be paid in accordance with the amount specified in sub-rule (2) of rule 14B of the Income-tax Rules,
+1962 for every hour of the period as specified by the Director.
+(2)
+The period referred to in sub-rule (1) shall be specified in terms of the number of hours required for completing the
+report.
+(3)
+The accountant referred to in sub-section (1A) of section 13 of the Act shall maintain a time sheet and submit it to the
+Director, along with the bill.
+(4)
+The Director shall ensure that the number of hours claimed for billing purposes is commensurate with the size and
+quality of the report submitted by the accountant.]
+11. Interpretation.
+- If any question arises relating to the interpretation of these rules, the matter shall be referred to the Central
+Government and the decision of the Central Government shall be final.
+[Annexure 1]
+[Inserted by Notification No. G.S.R. 582(E), dated 19.8.2019 (w.e.f. 1.7.2005).]
+Digital KYC Process
+A. The reporting entities shall develop an application for digital KYC process which shall be made available at customer
+touch points for undertaking KYC of their customers and the KYC process shall be undertaken only through this
+authenticated Application of the Reporting Entities.
+B. The access of the Application shall be controlled by the Reporting Entities and it should be ensured that the same is
+not used by unauthorized persons. The Application shall be accessed only through login-id and password or Live OTP
+or Time OTP controlled mechanism given by Reporting Entities to its authorized officials.
+C. The client, for the purpose of KYC, shall visit the location of the authorized official of the Reporting Entity or
+vice-versa. The original Officially Valid Document (OVD) shall be in possession of the client.
+D. The Reporting Entity must ensure that the Live photograph of the client is taken by the authorized officer and the
+same photograph is embedded in the Customer Application Form (CAF). Further, the system Application of the
+Reporting Entity shall put a water-mark in readable form having CAF number, GPS coordinates, authorized official's
+name, unique employee Code (assigned by Reporting Entities) and Date (DD:MM:YYYY) and time stamp (HH:MM:SS)
+on the captured live photograph of the client.
+E. The Application of the Reporting Entities shall have the feature that only live photograph of the client is captured and
+no printed or video-graphed photograph of the client is captured. The background behind the client while capturing live
+photograph should be of white colour and no other person shall come into the frame while capturing the live photograph
+of the client.
+F. Similarly, the live photograph of the original officially valid document or proof of possession of Aadhaar where offline
+verification cannot be carried out (placed horizontally), shall be captured vertically from above and water-marking in
+readable form as mentioned above shall be done. No skew or tilt in the mobile device shall be there while capturing the
+live photograph of the original documents.
+G. The live photograph of the client and his original documents shall be captured in proper light so that they are clearly
+readable and identifiable.
+H. Thereafter, all the entries in the CAF shall be filled as per the documents and information furnished by the client. In
+those documents where Quick Response (QR) code is available, such details can be auto-populated by scanning the
+Page 20/21
+----- PAGE 21 -----
+Prevention of Money-Laundering (Maintenance of Records) Rules, 2005
+QR code instead of manual filing the details. For example, in case of physical Aadhaar/e-Aadhaar downloaded from
+UIDAI where QR code is available, the details like name, gender, date of birth and address can be auto-populated by
+scanning the QR available on Aadhaar/e-Aadhaar.
+I. Once the above mentioned process is completed, a One Time Password (OTP) message containing the text that
+'Please verify the details filled in form before sharing OTP' shall be sent to client's own mobile number. Upon successful
+validation of the OTP, it will be treated as client signature on CAF. However, if the client does not have his/her own
+mobile number, then mobile number of his/her family/relatives/known persons may be used for this purpose and be
+clearly mentioned in CAF. In any case, the mobile number of authorized officer registered with the Reporting Entity shall
+not be used for client signature. The Reporting Entity must check that the mobile number used in client signature shall
+not be the mobile number of the authorized officer.
+J. The authorized officer shall provide a declaration about the capturing of the live photograph of client and the original
+document. For this purpose, the authorized official shall be verified with One Time Password (OTP) which will be sent to
+his mobile number registered with the Reporting Entity. Upon successful OTP validation, it shall be treated as authorized
+officer's signature on the declaration. The live photograph of the authorized official shall also be captured in this
+authorized officer's declaration.
+K. Subsequent to all these activities, the Application shall give information about the completion of the process and
+submission of activation request to activation officer of the Reporting Entity, and also generate the
+transaction-id/reference-id number of the process. The authorized officer shall intimate the details regarding
+transaction-id/reference-id number to client for future reference.
+L. The authorized officer of the Reporting Entity shall check and verify that: -
+(i)
+information available in the picture of document is matching with the information entered by authorized officer in CAF.
+(ii)
+live photograph of the client matches with the photo available in the document.; and
+(iii)
+all of the necessary details in CAF including mandatory field are filled properly.;
+M. On Successful verification, the CAF shall be digitally signed by authorized representative of the Reporting Entity who
+will take a print of CAF, get signatures/thumb-impression of customer at appropriate place, then scan and upload the
+same in system. Original hard copy may be returned to the customer.
+Related AI tags, queries and research notes
+Translation
+Page 21/21

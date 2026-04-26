@@ -1,0 +1,144 @@
+
+----- PAGE 1 -----
+The Use of Very Low Power Radio Frequency Devices or Equipments Including the Radio Freque...
+The Use of Very Low Power Radio Frequency Devices or Equipments
+Including the Radio Frequency Identification Devices (Exemption
+from Licensing Requirement) Rules, 2009
+Source: https://indiankanoon.org/doc/127396483/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Use of Very Low Power Radio Frequency Devices or Equipments Including the Radio Frequency Identification
+Devices (Exemption from Licensing Requirement) Rules, 2009
+UNION OF INDIA
+India
+The Use of Very Low Power Radio Frequency Devices or Equipments Including the Radio Frequency Identification
+Devices (Exemption from Licensing Requirement) Rules, 2009
+Rule
+THE-USE-OF-VERY-LOW-POWER-RADIO-FREQUENCY-DEVICES-OR-EQUIPMENTS-INCLUDING-THE-RADIO-FR
+EQUENCY-IDENTIFICATION-DEVICES-EXEMPTION-FROM-LICENSING-REQUIREMENT-RULES-2009 of 2009
+Published on 10 February 2009
+Commenced on 10 February 2009
+[This is the version of this document from 10 February 2009.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Use of Very Low Power Radio Frequency Devices or Equipments Including the Radio Frequency Identification
+Devices (Exemption from Licensing Requirement) Rules, 2009
+Published vide Notification G.S.R. 90(E), dated 10.2.2009, published in the Gazette of India, (Extraordinary), Part 2,
+Page 1/3
+----- PAGE 2 -----
+The Use of Very Low Power Radio Frequency Devices or Equipments Including the Radio Freque...
+Section 3(i), No. 78, dated 10.2.2009
+1518.
+G.S.R. 90(E).- In exercise of the powers conferred by sections 4 and 7 of the Indian Telegraph Act, 1885 (
+13 of 1885
+) and Sections 4 and 10 of the Indian Wireless Telegraphy Act, 1933 (
+17 of 1933
+) the Central Government hereby makes the following rules, namely -
+1.
+Short title and commencement.-
+(1)
+These rules may be called the Use of Very Low Power Radio Frequency Devices or Equipments Including the Radio
+Frequency Identification Devices (Exemption from Licensing Requirement) Rules, 2009.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Application.-
+These rules shall be applicable in the 50-200 kHz frequency band.
+3.
+Definitions.-
+In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Indian Telegraph Act, 1885 (
+13 of 1885
+), and the Indian Wireless Telegraphy Act, 1933 (
+17 of 1933
+);
+(b)
+words and expressions used in these rules and not defined, but defined in the Acts shall have the same meanings
+respectively assigned to them in those Acts.
+4.
+Use of very low power radio frequency devices or equipments Including Radio Frequency Identification Devices, in the
+50-200 kHz frequency band.-
+Notwithstanding anything contained in any law for the time being in force, no licence shall be required by any person to
+establish, maintain, work possess or deal in any wireless equipment for the purpose of usage of very low power radio
+frequency devices, or equipments including Radio Frequency Identification Devices, in the 50-200 kHz frequency band,
+with Integral, Dedicated or External antenna (In case of external antenna, only loop coil antenna may be employed) on
+non-interference, non-protection and shared (non-exclusive) basis, with the maximum Radiated Power or Field Strength
+Limits as specified in the Table below, namely:
+TABLE
+Technical Characteristics Of Inductive Applications Using The Following Frequency Bands
+Frequency Band
+Maximum Radiated Power or Field Strength Limits
+50-59.750 kHz
+72 dBuA/m or 123.5 dBuV/m at 10 metres
+59.750-60,250 kHz
+42 dBuA/m or 93.5 dBuV/m at 10 metres
+60.250-70 kHz
+69 dBuA/m or 120.5 dBuV/m at 10 metres
+70-119 kHz
+42 dBuA/m or 93.5 dBuV/m at 10 metres
+119-135 kHz
+Page 2/3
+----- PAGE 3 -----
+The Use of Very Low Power Radio Frequency Devices or Equipments Including the Radio Freque...
+66 dBuA/m or 117.5 dBuV/m at 10 metres
+135-140 kHz
+42 dBuA/m or 93.5 dBuV/m at 10 metres
+140-148.5 kHz
+37.7 dBuA/m or 89,2 dBuV/m at 10 metres
+148.5-200 kHz
+30.0 dBuA/m or 81.5 dBuV/m at 10 metres
+5.
+Interference.-
+The effect of unwanted energy due to one or a combination of emissions, radiations or induction upon reception in a
+radio communication system, manifested by any performance degradation misinterpretation, or loss of information which
+could be extracted in the absence of such unwanted energy, where any person whom a licence has been issued under
+section 4 of the Act, informs that his licensed system is getting harmful interference from any other radio communication
+system exempted under these rules, the user of such unlicensed wireless equipment shall take necessary steps to avoid
+interference by relocating the equipment, reducing the power, using special type of antennae including discontinuation of
+such wireless use, if required:
+Provided that, before such discontinuation, a reasonable opportunity to explain the circumstances shall be offered to
+such unlicensed user of wireless equipment.
+6.
+Equipments.-
+(1)
+These very low power Radio Frequency wireless devices or equipments or Radio Frequency Identification Devices shall
+be type approved and designed and constructed in such a manner so that the bandwidth of emission and other
+parameters shall conform to the limits specified in the Table referred to in Rule 4 above.
+(2)
+The application for obtaining equipment type approval shall be made to the Central Government in such application
+format which shall be available on website; www.wpc.dot.gov.in.
+7.
+Conditions.-
+These rules,
+(i)
+do not in any way, affects the licensing rights or procedures of existing and planned wireless operations, in this
+frequency band;
+(ii)
+are not applicable, wherever specific service licence is required from the Central Government.
+Related AI tags, queries and research notes
+Translation
+Page 3/3

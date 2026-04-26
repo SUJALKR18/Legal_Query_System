@@ -1,0 +1,194 @@
+
+----- PAGE 1 -----
+Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation) Regulations, 200...
+Rajasthan Electricity Regulatory Commission (Renewable Energy
+Obligation) Regulations, 2007
+Source: https://indiankanoon.org/doc/81294859/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Rajasthan - Act
+Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation) Regulations, 2007
+RAJASTHAN
+India
+Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation) Regulations, 2007
+Rule
+RAJASTHAN-ELECTRICITY-REGULATORY-COMMISSION-RENEWABLE-ENERGY-OBLIGATION-REGULATIONS-2
+007 of 2007
+Published on 23 March 2007
+Commenced on 23 March 2007
+[This is the version of this document from 23 March 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation) Regulations, 2007
+Published vide Notification No. RERC/Secy/Reg/66, dated 23.3.2007
+No. RERC/Secy/Reg/ 66. - In exercise of the powers conferred by section 86(1) (e) read with section 181 of the
+Electricity Act, 2003 (Act 36 of 2003) after previous publication, the Rajasthan Electricity Regulatory Commission makes
+the following Regulations, namely:
+1.
+Short title and commencement.
+Page 1/4
+----- PAGE 2 -----
+Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation) Regulations, 200...
+- These regulations will be called the Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation)
+Regulations, 2007 and will come into force from the date of their publication in the Official Gazette or 01-04-2007
+whichever is later.
+2.
+[ Definitions.
+[Substituted by Notification No. RERC/Secy/Regulation-108, dated 30.5.2014.]
+(1)
+In these regulations unless the context otherwise requires;
+(I)
+'Captive Power Plants' or CPP shall have meaning as assigned in RERC (Tariff for CPP) Regulations, 2010.
+[II. Renewable Energy or 'RE' is the energy generated from the Renewable Energy Sources defined in
+RERC(Renewable Energy Certificate and Renewable Purchase Obligation Compliance Framework)Regulations,2010 as
+amended from time to time and shall include cogeneration.]
+[III. Capacity for the purpose of regulation 4(2)(A) and 4(2)(B) of these Regulations shall mean the aggregate Contract
+Demand for a person availing supply from CPP or Discoms or through Open Access or combination thereof.]
+[Inserted by Notification No. RERC/Secy./Regulation-112, dated 18.3.2015.]
+(2)
+All words & expressions appearing in these regulations shall bear the same meaning assigned to them in the following
+order:
+(I)
+The RERC (CPP) Regulations, 2010
+(II)
+[The Rajasthan Electricity Regulatory Commission (Terms and Conditions for Open Access) Regulations, 2016 as
+amended from time to time.]
+[Substituted by Notification No. RERC/Secy/Regulation-118, dated 7.6.2017.]
+(III)
+The Electricity Act, 2003.]
+(3)
+'Renewable Energy Surcharge' ('RE Surcharge') means the weighted average rate of renewable energy purchased by
+the distribution licensee.
+(4)
+All words and expressions appearing in these regulations shall bear the meaning assigned to them in the following
+order:
+(a)
+The RERC (Tariff for CPP) Regulations, 2007.
+(b)
+The RERC (Terms and Conditions for Open Access) Regulations, 2004.
+(c)
+The Electricity Act 2003.
+3.
+Applicability.
+- These Regulations will be applicable to the following;
+(1)
+Distribution licensee including deemed licensee;
+(2)
+Open access consumer;
+(3)
+Captive Power Plant of installed capacity 1 MW and above.
+4.
+Renewable Energy Obligation (RE Obligation).
+(1)
+Page 2/4
+----- PAGE 3 -----
+Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation) Regulations, 200...
+The RE Obligation shall be applicable on the electricity drawn from the CPP and through Open Access.
+(2)
+RE Obligation for the minimum purchase of RE shall be as under;
+(A)
+[ CPP & OA Consumers with total capacity of 10 MW & above:
+[Substituted by Notification No. RERC/Secy/Regulation-108, dated 30.5.2014.]
+S.No.
+Year
+Obligation expressed as percentage of energy
+consumption(%) excluding consumption met from hydro sources of
+power.
+Non-Solar
+Solar
+Total
+1
+2014-15
+7.5
+1.5
+9
+2
+2015-16
+8.2
+2
+10.2
+3
+2016-17
+8.9
+2.5
+11.4
+[4
+[Added by Notification No. RERC/Secy/Regulation-118, dated 7.6.2017.]
+2017-18
+9.50%
+4.75%
+14.25%
+5
+2018-19
+10.25%
+6.75%
+17.00%]
+(B)
+CPP & OA Consumers with capacity of 1MW and above, but less than 10 MW:
+S.No.
+Year
+Obligation expressed as percentage of energy
+consumption(%) excluding consumption met from hydro sources of
+power.
+1
+2014-15
+9
+2
+Page 3/4
+----- PAGE 4 -----
+Rajasthan Electricity Regulatory Commission (Renewable Energy Obligation) Regulations, 200...
+2015-16
+10.2
+3
+2016-17
+11.4]
+[4
+[Added by Notification No. RERC/Secy/Regulation-118, dated 7.6.2017.]
+2017-18
+14.25%
+5
+2018-19
+17.00%]
+[Note: For the purpose of conversion of contract demand in MVA to capacity in MW, unity power factor shall be
+considered.]
+[Inserted by Notification No. RERC/Secy./Regulation-112, dated 18.3.2015.]
+(3)
+The RE Obligation for a distribution licensee including deemed licensee shall be governed by the Rajasthan Electricity
+Regulatory Commission (Power purchase & procurement process of distribution licensee) Regulations, 2004
+5.
+Payment of Renewable Energy surcharge for short fall in Obligation.
+(1)
+Any short fall to meet the RE obligation shall be subject to payment of RE surcharge by the distribution licensee, open
+access consumer and Captive Power Plant. The payment of renewable energy surcharge shall be made to State
+Transmission Utility (STU).
+(2)
+The surcharge collected by STU will be credited to a fund to be utilized for creation of transmission system infrastructure
+of Renewable Energy power plants.
+(3)
+RE surcharge will be as notified by the Commission from time to time. For the year 2007-08 the RE surcharge shall be
+Rs. 3.59/kwh and shall continue until revised.
+Related AI tags, queries and research notes
+Translation
+Page 4/4

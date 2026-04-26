@@ -1,0 +1,1369 @@
+
+----- PAGE 1 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Bihar Electricity Regulatory Commission (Standards of Performance
+of Distribution Licensee) Regulations, 2006
+Source: https://indiankanoon.org/doc/87821298/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Bihar - Act
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee) Regulations, 2006
+BIHAR
+India
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee) Regulations, 2006
+Rule
+BIHAR-ELECTRICITY-REGULATORY-COMMISSION-STANDARDS-OF-PERFORMANCE-OF-DISTRIBUTION-LICEN
+SEE-REGULATIONS-2006 of 2006
+Published on 18 January 2007
+Commenced on 18 January 2007
+[This is the version of this document from 18 January 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee) Regulations, 2006
+Published vide Notification No. BERC/Regl-9/2006, dated 18th January, 2007
+Bihar Electricity Regulatory Commission Standards of Performance of Distribution Licensee Notification No. 1/2007
+No. BERC/Regl-9/2006. - In exercise of powers conferred under Section 181 (1) and 181 (2) (za) read with Sections 57,
+58 and 59 of the Electricity Act, 2003 (36 of 2003) and all other powers enabling it in this behalf, the Bihar Electricity
+Regulatory Commission hereby makes the following Regulations:-
+Chapter 1
+Page 1/26
+----- PAGE 2 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Preliminary and General Matters
+1.
+Short Title, Extent, Applicability, and Commencement.
+(1)
+These Regulations shall be called the "Bihar Electricity Regulatory Commission (Standards of Performance of
+Distribution Licensee) Regulations, 2006."
+(2)
+These Regulations extend to the whole State of Bihar.
+(3)
+These Regulations shall be applicable to all distribution licensees in their respective licensed areas in the State of Bihar.
+(4)
+These Regulations shall come into force after three months from the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these Regulations, unless the context otherwise requires:-
+(a)
+"Act" means the Electricity Act, 2003 (36 of 2003).
+(b)
+"Area of Supply" means the area within which a licensee is authorised by his licence to distribute and supply electricity.
+(c)
+"Commission" means the Bihar Electricity Regulatory Commission.
+(d)
+"Consumer" means any person who is supplied with electricity for his own use by a licensee or the Government or by
+any other person engaged in the business of supplying electricity to the public under the Act, or any other law for the
+time being in force and includes any person whose premises are for the time being connected for the purpose of
+receiving electricity.
+(e)
+"Danger" means danger to the health or life or any part of the body from shock burn or other injury to person or to
+property originating from the electricity distribution or utilization system and includes danger from electricity originated
+fire or explosion in distribution and utilization systems.
+(f)
+"Emergency Periods" means the periods declared such by the Government due to war, mutiny, strikes, natural
+calamities, severe drought, heavy floods and similar abnormal periods.
+(g)
+"Extra High Tension/Extra High Voltage" means the voltage exceeding 33000 volts under normal conditions.
+(h)
+"High Tension or High Voltage" means the voltage exceeding 440 volts but not exceeding 33,000 volts under normal
+conditions.
+(i)
+"Licensee" means the Distribution Licensee who has been granted licence by the Commission under Section 14 of the
+Act, including a deemed Licensee.
+(j)
+"Low Tension or Low Voltage" means the voltage that does not exceed 230/440 volts (phase to neutral and phase to
+phase respectively) under normal conditions.
+(k)
+"Period of Load Shedding" means a period during which the power has to be Switched off to certain feeders to match
+the demand and supply as per the instructions of the respective load despatch centres.
+(l)
+"Period of Scheduled Outage" means a period wherein certain equipment and lines are under pre-arranged shut-down
+for maintenance during which it may or may not be possible to make alternative arrangements for maintaining supply to
+Page 2/26
+----- PAGE 3 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+consumers.
+(m)
+"Period of Forced Outage" means a period wherein certain equipment or a line breaks down during which alternative
+arrangements by using standby equipment for maintaining supply to consumers may or may not be possible.
+(n)
+"Rural Areas" means areas covered by Gram Panchayats.
+(o)
+"Urban Areas" means cities, towns, cantonments, industrial estates, and areas covered by municipalities, municipal
+corporations, urban development authorities, and cantonment authorities.
+Words and expressions used but not defined herein but defined in the Act, shall have the meaning assigned to them in
+the Act.The terms defined neither here nor in the Act, shall have the meaning as used in electricity industry and
+electrical engineering practice.
+3.
+Interpretation.
+- In the interpretation of these Regulations, unless the context otherwise requires.
+(i)
+words in the singular or plural term, as the case may be, shall also be deemed to include the plural or the singular terms.
+(ii)
+references herein to these Regulations shall be construed as references to these Regulations as amended or modified
+by the Commission from time to time in accordance with the applicable Act, and Rules made thereunder.
+(iii)
+the headings inserted in these Regulations are for convenience only.
+(iv)
+reference to the statutes, Regulations or guidelines shall be construed as including all provisions consolidated, amended
+or replaced by such other statutes, Regulations or guidelines as the case may be from time to time.
+4.
+Other Statutes.
+- These Regulations shall be read with, relevant provisions of the Act, and also the Electricity Supply Code notified by
+the Commission, as may be amended from time to time.
+5.
+Legal Provision.
+- (i) The Commission in pursuance to provisions of Section 57 read with Section 86 (1) (i) of the Act, is specifying these
+standards for Distribution Licensees in the State of Bihar. The standards of performance specified herein are intended to
+serve as guidelines for Distribution Licensees to operate their distribution and supply business for providing quality,
+continuity and reliability of service.
+(ii)
+The sub-section (1) of Section 57 of the Act, stipulates that the Commission after consultation with Licensees and
+persons likely to be affected shall specify standards of performance of a Licensee or a class of Licensees.
+(iii)
+The sub-section (2) of Section 57 of the Act, provides that if a Licensee fails to meet the standards specified under
+sub-section (1), without prejudice to any penalty, which may be imposed, or prosecution be initiated, he shall be liable to
+pay such compensation to a person affected as may be determined by the Appropriate Commission;
+Provided that before determination of compensation, the concerned Licensee shall be given reasonable opportunity of
+being heard.
+(iv)
+Under the provisions of Section 86 (1) (i) of the Act, the Commission is required to specify and enforce standards with
+respect to quality continuity and reliability of service by the Licensees.
+(v)
+In terms of stipulations made in Section 59 of the Act, provision has been made in Regulation 30(1) for furnishing
+information with respect to level of performance and quarterly report on performance standards and publication of
+Annual Report.
+Page 3/26
+----- PAGE 4 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+(vi)
+The penal provision for imposition of penalty on the licensee for any shortfall or deviation from overall standards
+prescribed under Chapter 7 & 8 of the Regulation and non payment of compensation to aggrieved consumer has been
+made in terms of provisions of Section 142 of the Act.
+6.
+Information to the consumers.
+- The licensee shall always keep in his office adequate number of printed copies of Standards of Performance and shall
+on demand, sell such copies to any applicant at a price fixed on cost basis. The salient features of Standards of
+Performance shall also be displayed on notice board in offices of Licensee which are frequently visited by the
+consumers.
+7.
+Co-operation from Consumers.
+- The licensee shall inform the consumers through media like television and radio about action to be taken by them
+during abnormal circumstances to prevent total collapse of the system or those deviations there being if standards of
+supply are minimal (eg. reduction of load when generating and trip).
+8.
+Maintenance of Records.
+(1)
+The licensee shall maintain consumer-wise record regarding Guaranteed Standards of Performance in order to give a
+fair treatment to all consumes and avoid any dispute regarding violation of standard.
+(2)
+The system of maintaining records, correspondence with consumers and applicants for new service connection,
+monitoring and recording system conditions especially at inter-connection points, recording weather conditions and
+recording law and order situations shall be maintained by the licensee to provide accurate date without delay.
+(3)
+Beside other registers/records as required, the licensee shall also maintain the following registers/records, at the local
+offices.
+(a)
+Separate register of application for new service connection, enhancement of load, temporary supply, reduction of load,
+change of name, etc.
+(b)
+Service connection register
+(c)
+Security Deposit register
+(d)
+Connection charges collection register
+(e)
+Fuse call register
+(f)
+Interruption in power supply register
+(g)
+Disconnection and Reconnection of service connection register
+(h)
+Meter replacement register
+(i)
+Distribution transformer register with load details
+(j)
+Estimates register
+(k)
+Work order register
+(4)
+Page 4/26
+----- PAGE 5 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Whenever delay occurs in respect of any action to be taken by the licensee the reason for delay must be recorded
+clearly on the relevant papers and registers. The employees of the licensee must be trained and instructed to fulfil this
+obligation.
+(5)
+The parameters at the interface points between the distribution system and the transmission system and between the
+distribution system and small generating station shall be noted down and recorded continuously. These data shall be
+preserved for reasonable periods.
+9.
+Stand Alone Systems, Non-conventional Energy Systems and Local Distribution Systems in Rural Areas.
+(1)
+Since persons/organizations owning such Distribution system such as Stand alone System and Non-conventional
+Energy System are governed by Section 4 of the Act, these Regulations shall not be applicable to them. However
+system owner shall formulate his own standards and obtain approval of the Commission.
+(2)
+(a)
+These Regulations do not apply immediately also to local distribution systems in rural areas managed by Panchayat
+institutions, user's associations, cooperative societies, non-governmental organisations or establishment.
+(b)
+The organization owning or managing such rural distribution systems shall prepare their own standards and obtain
+approval of the Commission.
+(c)
+Such organizations shall gradually improve their operating standards and move towards the standards of performance
+prescribed in these Regulations. After a period of five years from the date of coming into being, these standards shall
+also be applicable to such rural distribution systems.
+Chapter 2
+Safety
+10.
+(1)
+Safety Standards to be complied with, by the Licensee.
+- (i) The licensee shall carry out construction, operation and maintenance of the distribution lines strictly in accordance
+with the Indian Electricity Rules 1956, (IER 1956) except those parts of IER 1956, which have been superseded by the
+safety Regulations notified by the Central Electricity Authority (CEA) under Section 53 of the Act. On subjects and areas
+(segments of power system) on which CEA's Regulations do not exist, the licensees shall follow IER 1956. In respect of
+matters not covered by IER 1956 or CEA's Regulations, the licensee shall develop his own written Rules and
+procedures and communicate them to his officers and staff after getting approved by the Commission. No relaxation or
+exemption shall be allowed by the licensee to his officers/employees in complying with the safety Rules in force. When
+CEA's Regulations or Rules on safety of any part of power system are notified, the procedures of the licensee to the
+extent of those notified will stand superseded.
+(ii)
+The grounding provided for the equipment and lines and earthing grid for sub-stations shall be in accordance with latest
+version of IS : 3043-Code of Practice for Earthing.
+(iii)
+The Licensee shall erect and maintain earthing systems by following best standards and connect all those points of the
+system which are required to be connected to earth.
+(iv)
+The earthing connections shall be maintained in a sound and healthy state at all times. The licensee shall take all
+necessary steps for testing the same and maintain the record of each test in accordance with the provisions under
+relevant Rules of IER 1956.
+(v)
+The Licensee shall follow provisions of IER 1956 and would ensure that no live parts of any overhead line or distribution
+transformer are so exposed as to cause danger. The Licensee shall also adhere with the provisions under relevant
+Page 5/26
+----- PAGE 6 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Rules of IER 1956 regarding clearances in the construction of overhead lines, erection of transformers, sub-stations and
+other equipment and guarding must be provided for the lines where necessary.
+(vi)
+The licensee shall adopt prescribed mechanical factor for safety of components of overhead lines and must provide
+guys and stays where necessary. The structures and overhead lines must be capable to withstand the storms, wind and
+rain that occur every year in his area.
+(vii)
+At places of high density population and wherever heavy traffic exists the Licensee shall maintain higher degree of
+safety by insulating live parts and by providing adequate guarding although the clearances may be adequate.
+(viii)
+Leakage current means the difference between phase current and return path. The Licensee shall take necessary steps
+to measure leakage current at various points in the system.
+(ix)
+The earth wires and earth electrodes provided in the Distribution System shall be maintained in good condition to ensure
+instantaneous operation of the protective equipment, either a fuse or a circuit breaker as the case may be, in case of
+accidental snapping of a conductor. In case of failure in the operation of the protective system during any accidental
+snapping of conductors, the circuit shall be de-energised manually, immediately after it comes to the notice of the
+concerned employee of the Distribution Licensee. A detailed investigation shall be done to determine cause for
+non-operation of the protective systems and remedial measures should be taken promptly by the Licensee.
+(x)
+The Licensee must install lightning arresters at appropriate points of the system to protect the system from lightning.
+(xi)
+The Licensee shall fix danger warning boards and display voltage level at appropriate points of the system.
+(xii)
+The safety precautions to be followed in respect of the Licensee's installations in the consumer's premises at the point of
+supply and for the system part downstream and adjacent to the point of supply i.e. in the consumer's system shall be
+conveyed by the Licensee to the consumer both in writing and verbally at the time of release of supply to a new service
+connection.
+(xiii)
+The Licensee shall take alt necessary action to spread awareness among the consumers for safe usage of the
+electricity.
+(xiv)
+The Licensee shall educate the public through press notifications regarding precautions to be taken and methods to
+protect themselves when an overhead line conductor snaps or when a pole falls or when a structure collapses and other
+similar events occur.
+(xv)
+The Licensee may disconnect supply to such consumer, in the event of consumer's non compliance even after due
+notice, or any specific condition or direction if such non compliance can reasonably be expected to affect system
+operations and safety. In cases of emergency, disconnection may be effected immediately in the interest of system
+operation and safety. The connection should be immediately restored as soon as the cause(s) leading to the
+disconnection are removed or rectified.
+(2)
+Electrocution Accidents. - (i) Departmental/Non-Departmental fatal electrocution accidents to human or animal life shall
+be reported by the Area Distribution Engineer to Chief Electrical Inspector (CEI) and to all concerned officials of the
+State Government/Licensee within 24 hours and confirmed by a post copy within 48 hours.
+(ii)
+The records of all the fatal electrocution accidents shall be maintained along with the investigation report of the CEI. A
+copy of the action taken on report of CEI alongwith safety measures taken for avoiding recurrence of such accidents
+shall be submitted to the Commission every six months i.e. by 31st October and 30th April of each financial year.
+Chapter 3
+Handling of Complaints
+Page 6/26
+----- PAGE 7 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+11.
+Handling of Consumer's Complaints.
+(1)
+The Licensee shall register every complaint made by a consumer, either verbally or in writing, regarding failure/
+interruption of power supply, quality of power supply, meters/meter boxes/metering system's service line, payment of
+bills and other services relating to power supply, in a register in a format appended at Appendix A to these Regulations
+to be maintained for this purpose. A unique number shall be allotted to each complaint. This complaint number shall be
+conveyed to the consumer except in the case of postal complaints received. However the consumer may, subsequent to
+the delivery of postal complaint, inquire regarding the complaint number/status telephonically or in person. The number
+shall be communicated by the Licensee to the complainant in such a case. In case of major failure of supply due to
+tripping of EHV or failure of upstream power systems, the reason needs to be communicated to the consumer in addition
+to the likely restoration time. In such case, such complaints shall be recorded separately under single complaint number.
+The Licensee shall ensure redressal of all complaints promptly.
+(2)
+Complaints in respect of supply of electricity covering metering, billing and payment, shall be made at specified offices of
+the Licensee. The Licensee shall convey information of the name of office(s), address(s) with the electricity bills and also
+display it at the sub-division offices or equivalent distribution unit designated by whatever name. If the phone services for
+recording complaints, if outsourced by the Licensee, the phone numbers of such call center shall be displayed in
+electricity bills and sub-divisional offices. The Licensee shall also endeavour to publicise these contact details through
+local newspapers/TV/Radio.
+(3)
+The office, where a complaint is registered, shall dispose it of, and if any instruction/sanction is to be obtained from a
+higher authority, it shall be obtained by the complaint registering office. The complainant is not required to approach
+such higher authority. Similarly in case an outsourced phone service is engaged, such center itself shall forward the
+complaints to the concerned officer. The Licensee shall ensure proper compliance by the outsourced service by
+arranging visits of its officers to such centers to streamline responses.
+(4)
+Grievances regarding non-registration of complaints and failure to perform within the time limits and/or meet the
+performance targets, as specified in these Regulations, shall be made to the concerned officer in-charge of the division
+or to equivalent distribution unit designated by any other name. In case of unsatisfactory disposal of grievance,
+complaint should be made to the officer in charge of the circle or equivalent similar functionary by whatever name
+designated.
+(5)
+The Licensee shall also compile the complaints classification-wise in a separate register(s) in a format appended at
+Appendix B to these Regulations.
+Chapter 4
+Quality of Power and System Reliability
+12.
+Power Quality Standards.
+(a)
+Voltage Variation: - The Licensee shall maintain voltages at the point of commencement of supply to consumer within
+the limits stipulated hereunder with reference to declared voltage.
+(i)
+Low tension/Low Voltage
++ 6% and -6%
+(ii)
+High tension/High Voltage
++ 6% and -9%, and
+(iii)
+Extra High tension/Extra High Voltage
++ 10% and -12.5%
+Page 7/26
+----- PAGE 8 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+The above voltage standards are applicable subject to voltage availability at transmission-distribution interfaces within
+specified limit.
+Whenever an EHT consumer complain that abnormal voltage prevails in his premises, the distribution Licensee shall
+convey the complaint to the SLDC and the transmission Licensee concerned and request them to restore the voltage to
+normal range.
+(b)
+Frequency variation. - The frequency variation shall be governed by the Indian Electricity Grid Code (IEGC)/State Grid
+Code. IEGC stipulates operating frequency range between 49.0 Hz and 50.5 Hz.The transmission utility, transmission
+Licensee and the State load despatch centre shall jointly maintain the operating frequency between 49.0 and 50.5 Hz.
+The distribution Licensee shall co-operate with the State load despatch centre and the transmission utility/transmission
+Licensee by reducing load whenever requisitioned.
+(c)
+[ Harmonics: - (i) Harmonics generated by one consumer may affect the normal operation of another consumer.
+Therefore on receipt of a complaint from a consumer who cannot carry out normal operations due to large harmonics,
+the licensee shall investigate the cause and eliminate or reduce the harmonics. This may involve identification of
+harmonic generating consumers and serving notices on them to instalfilters. Harmonics may cause temporary over
+voltages and ferro-resonance. These harmonics may cause large neutral current.
+[Substituted by Bihar Notification No. BERC-SMP 47/2016-04, dated 23.8.2017 (w.e.f. 18.1.2007).]
+(ii)
+The Licensee shall monitor the voltage harmonics and current harmonics in terms of "Total Harmonic Distortion" (THD),
+a measure of distortion of the voltage or current wave form (which shall ideally be sinusoidal) and is the square root of
+the sum of squares of all voltage or current harmonics expressed as a percentage of the magnitude of the fundamental.
+(iii)
+In any installations the voltage and current Harmonic Distortion (THD) shall not exceed the limit as specified in the
+Central Electricity Authority (Technical Standards for connectivity to the Grid) Regulations, 2007, as amended from time
+to time, applicable to the Distribution Systems. The Consumer will take appropriate measures to restrict the THD to the
+stipulated limit.
+(iv)
+The total harmonic distortion for voltage at the connection point shall not exceed 5% with no individual harmonic higher
+than 3% and the total harmonic distortion for current drawn from the transmission/sub-transmission system at the
+connection point shall not exceed 8%.
+(v)
+The Licensee shall submit a quarterly report on THD of voltage and current harmonic to the Commission of following
+type of loads:
+(a)
+Salient Pole synchronous generators
+(b)
+Power Transformers of more than 15 years old
+(c)
+Rolling Mills
+(d)
+Induction Furnaces
+(e)
+Welding Equipment
+(f)
+Static Power Loads
+(g)
+Inverters / power rectifiers
+(h)
+Railway Traction Load
+(vi)
+Page 8/26
+----- PAGE 9 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+All the users operating the power generating plant in parallel with the grid shall comply with the terms and conditions of
+the agreement for such connectivity laid down by the Distribution Licensee. Such units shall also promptly comply with
+any direction that may be issued by the SLDC or the Distribution Licensee in the interest of orderly operation of the grid.
+(vii)
+The Consumer shall not keep connected to the Distribution Licensee’s supply system any apparatus including phase
+splitters which in the Distribution Licensee’s opinion may interfere with or effect injuriously the Distribution Licensee’s
+supply to other Consumers and may disturb the supply system in short or long term.]
+13.
+System Reliability.
+(1)
+It shall be the endeavour of the Licensee to maintain uninterrupted supply to consumers and minimize breakdowns and
+interruptions.
+(2)
+The consumers shall be given advance intimation regarding interruptions in supply due to pre-arranged shutdowns
+through media. The maximum duration of interruption per day shall not exceed ten hours and supply shall be restored
+invariably before 6.00 p.m.
+(3)
+[ Adequate data shall be recorded to calculate the following reliability indices. The licensee shall calculate the values of
+these indices as per the formula and methodology specified below:
+(a)
+System Average Interruption Frequency Index (SAIFI). It is the average number of interruptions (longer than 5 minutes)
+that a customer would experience and is calculated as:
+nSAIFI  =    ?i = 1| (Ai* Ni)/NT
+(b)
+System Average Interruption Duration Index (SAIDI). -  It is the average outage duration for each customer served and
+is calculated as:
+nSAIDI  =    ?i = 1| (Bi* Ni)/NT
+(c)
+Momentary Average Interruption Frequency Index (MAIFI). - It is the average number of interruptions (less than 5
+minutes) that a customer would experience and is calculated as:
+nMAIFI  =    ?i = 1| (Ci* Ni)/NT
+Where
+Ai = total number of sustained interruptions (each longer than 5 minutes) on ith feeder for the month.
+Bi = total duration of all sustained interruptions on ith feeder for the month.
+Ci = total number of momentary interruptions (each less than or equal to 5 minutes) on ith feeder for the month.
+Ni = Number of Consumer connected to ith feeder affected due to each interruption.
+Nt = total number of Consumers in the distribution licensee’s supply areas.
+n = number of 11 kV feeders in the licensed area of supply (excluding those serving predominantly agricultural loads).]
+(4)
+The indices shall be calculated by the Licensee separately for Urban and Rural feeders and submitted to the
+Commission every quarter. After three years (from the date these Regulations come into force) the Commission will fix
+the target levels of the reliability indices annually based on the information provided by the Licensees.
+14.
+Interruptions and Restoration of Supply to Essential Services.
+(1)
+The Licensee shall endeavour to maintain uninterrupted supply for Railways Traction, water supply and hospitals.
+Whenever there is an interruption, supply shall be restored oh top priority and the rectification work carried out on round
+the clock basis. During periods of generation shortage, traction loads may be exempted from load relief and power cut.
+(2)
+The Licensee shall maintain uninterrupted power supply to process industries. When interruptions occur to process
+industries, restoration shall be done on top priority and rectification work shall be carried out on round the clock basis.
+Page 9/26
+----- PAGE 10 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+However at the time of release of supply such consumers shall be advised to avail alternate supply from an independent
+source and also to install captive generators as a standby.
+Chapter 5
+New Service Connection/Additional Load and Other Service Connection Related Matters
+15.
+New Service Connection.
+(1)
+It shall be the duty of the Licensee to extend the supply of electricity to any applicant in the area of licence.
+(2)
+For release of supply to new service connection the relevant provisions of the Electricity Supply Code shall apply.
+(3)
+Where distribution mains have been laid down, the Licensee, shall, on as application by the owner or occupier of any
+premises, located in the area of supply, give supply of electricity to such premises, within one month after receipt of
+completed application and requisite charges.
+(4)
+Where extension works are to be carried out by the Licensee, the time frame for different tasks is given below.
+(A) L.T. Connection :
+(a)
+Intimation regarding acceptance of application from the date
+of receipt of application
+- 5 days
+(b)
+Intimation of estimated charges and amount of security
+deposit from date of acceptance of application involving
+extension of dist., network and addition/enhancement of
+distribution transformers
+- 30 days
+(c)
+For providing service connection after payment of charges
+involving extension of dist, network and addition/enhancement of
+distribution transformers
+- 30 days
+(B) H.T. Connection:
+(a)
+Issue of feasibility certificate from the date or receipt of
+application
+- 10 days
+(b)
+Intimation of estimated charges and amount of security
+deposits payable by the applicant for providing new connection
+- Involving erection of new 33 KV sub-station (S/S), lines
+etc. up to Contract Demand of 7500 KVA
+- 45 days
+- Involving erection of EHT S/S, lines etc. for Contract
+Demand above 7500 KVA
+- 60 days
+(c)
+Completion of works from payment of Service Line/Development
+Charges, security deposit and execution of agreement
+- Involving erection of new 11 KV line
+- 45 days
+Page 10/26
+----- PAGE 11 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+- Involving erection of new 33 KV line
+- 75 days
+- Involving erection of new EHT line
+- 150 days
+- Involving augmentation or addition of transformers (33/11 or
+132/33 KV)
+- 30 days additional
+(d)
+Release of supply from the date of furnishing of Chief
+Electrical Inspector's approval
+- 11 KV & 33 KV loads
+- 15 days
+- 132 KV loads
+- 30 days
+(e)
+The Licensee may approach Commission for extension of time specified above in cases where the magnitude of work
+requires more time with furnishing details and justification in support of such request for extension. Such request shall
+be made within 5 days from the preparation of the estimate.
+(f)
+The Licensee shall however, not be held responsible for delay in providing connection, if the same is on account of
+special circumstance such as right of way, acquisition of land, delay in permission for road cutting, over which Licensee
+has no reasonable control provided that the reason for expected delay are communicated to the applicant within the
+period specified for. Additional period required on account of special circumstances mentioned above shall be added to
+the normal period as specified under Regulation 15(4) i.e. the period within which the Licensee has to release new
+service connection.
+(g)
+The time limit shall be extended by the period which the consumer delays in fulfilling the following tasks beyond the due
+date intimated by the Licensee:-
+(i)
+Payment of service connection charges and security deposit.
+(ii)
+Certificate that the internal wiring/consumer's electrical system including machinery, equipment and appliances are in
+goods condition, comply with the standards including safety standards and the insulation resistance of the system.
+(iii)
+Signing of Agreement between the Licensee and the consumer.
+(iv)
+Filling ownership certificate of the premises.
+(v)
+Settlement of dues if the applicant had availed supply of electricity earlier.
+(vi)
+Providing of space for installation of transformer or metering equipment, if required.
+16.
+Temporary Supply/Connection.
+(a)
+Consumers shall requisition for temporary supply for construction and other purposes in the prescribed application form.
+(b)
+The Licensee shall collect the cost for effecting temporary service connection and the cost towards expected energy
+consumption as per tariff order in force.
+(c)
+The Licensee shall release supply on the date required by the consumer in case where distribution lines are laid down.
+(d)
+Page 11/26
+----- PAGE 12 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Where extension of distribution main is required, the time schedule as mentioned in Regulation 15(4) shall apply.
+(e)
+The Licensee shall refund the balance deposit, if any within one month from the date of dismantling the temporary
+service connection, after adjustment of the dues payable by the consumer
+17.
+Enhancement of Load of Existing Consumer.
+(a)
+On receipt of an application in the prescribed form for enhancement of the contract demand, the Licensee's engineer
+shall inspect the premises within seven (7) days of receipt of application and shall allow the enhancement of load within
+twenty (20) days if no extension and alteration of distribution network is required.
+(b)
+If extension and alteration of distribution network is required, the time schedule under Regulation 15(4) shall apply for
+allowing load enhancement.
+Other Service Connection Related Matters
+18.
+Shifting of Service Wire, Line and Equipment.
+(1)
+On receipt of an application for shifting a service wire, line, pole, underground cable (U.G.) or transformer, the Licensee
+shall ensure that the desired new position does not violate any statute and does not encroach on the land of a third
+party.
+(2)
+The time period for preparation of estimate and intimation of charges to be paid by the consumer after receipt of
+application in each case is specified below :
+(i) Shifting of Meter or service line
+7 days
+(ii) Shifting of LT line
+15 days
+(iii) Shifting of 11 KV line
+30 days
+(iv) Shifting of 33 KV line
+45 days
+(v) Shifting of U.G. cable
+45 days
+(vi) Shifting of Distribution Transformer
+30 days
+(3)
+On receipt of payment from the consumer the Licensee shall complete the work within the following time periods.
+(a) Shifting of meter/service wire
+15 days
+(b) Shifting of pole, LT or HT Line
+60 days
+(c) Shifting of underground Cable
+45 days
+(d) Shifting of Distribution Transformer alongwith the
+structure
+90 days
+(4)
+The additional expenditure shall be recovered from the consumer or the balance deposit shall be refunded as the case
+may be, within three (3) months from the time of completion of the work.
+19.
+Reduction of Load of Existing Consumer.
+Page 12/26
+----- PAGE 13 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+- On receipt of application in prescribed form for reduction of load by a consumer, the Licensee shall inspect the
+premises within the notice period as specified in the Electricity Supply Code and if the load is actually reduced by the
+consumer, the Licensee shall effect the reduction of load from next calendar month of the notice period.
+Provided the consumer has completed the period of compulsory availing of supply as specified in the Electricity Supply
+Code (ESC) and has executed fresh agreement on reduced load.
+20.
+Change of Tariff.
+(1)
+If the consumer wishes to use electricity for a different purpose which fails in a different category and therefore different
+tariff, the consumer shall apply for the same in the prescribed form.
+(2)
+The Licensee shall inspect and prepare a revised test report.
+(3)
+The Licensee shall effect the change of tariff within seven (7) days from the date of application, if the change is from
+lower tariff to higher tariff.
+(4)
+Tariff change from higher rate to lower rate shall be done only after completion of compulsory period of availing of
+supply.
+(5)
+Tariff change from any I.T. category to Agricultural category shall not be permissible
+21.
+Change of name of Service Connection.
+- On receipt of application in the prescribed form along with the requisite fee for change of service connection from one
+person to another person, the Licensee shall intimate within seven (7) days from the date of receipt of application, to
+deposit the security money against the new name and execute the agreement.
+Within Seven (7) days from the date of deposit of security amount and execution of agreement the name shall be
+changed in the record of the licensee.
+22.
+Defective Meters.
+(1)
+On intimation by the consumer or meter reader, any staff/officer or the Licensee that a meter is defective, the Licensee
+shall arrange for inspection and site testing for its accuracy within seven (7) days in urban areas and within fifteen (15)
+days in rural areas.
+(2)
+If the meter has failed due to causes attributable to the distribution system like high voltage, loose contacts and ageing,
+the meter shall be replaced by the Licensee at his cost within seven (7) days.
+(3)
+If the meter has failed due to lapse on part of the consumer like over loading, exposure to water or tampering, the
+Licensee shall serve a notice to deposit the cost for new meter or to deposit a meter of appropriate capacity alongwith
+testing fees within seven (7) days. The Licensee shall replace the meter within fourteen (14) days of receiving
+payment/meter as the case may be from the consumer.
+(4)
+If the Meter's seals have been tampered, the Licensee shall investigate and take necessary action under Sections 126,
+135 and 133 of the Act.
+(5)
+Energy bills shall not be raised on erroneous reading of the meter. The bills in such case may be raised on the basis of
+the energy consumption for the last six (6) months or if provided otherwise, in the Tariff Order in force, the later shall
+prevail.
+23.
+Erroneous Bills.
+(1)
+Page 13/26
+----- PAGE 14 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+If an error in the bill is brought to the notice of the Licensee by the consumer and no additional information is required for
+revision, the revised bill shall be issued within twenty four (24) working hours of receipt of complaint.
+(2)
+If additional information or inspection of meter, load etc. is required, the revised bill shall be issued within seven (7)
+working days of receipt of complain in case of LT consumer and within fifteen (15) days of receipt of complain in case of
+HT consumers.
+(3)
+If the original bill is correct the fact shall be explained to the consumer.
+24.
+(a) Reconnection of Service.
+(1)
+Where a service connection has been disconnected for non payment of bills and the consumer pays all dues including
+reconnection charges, the Licensee shall arrange reconnection same day and for unavoidable reasons, the next day.
+The consumer may also produce proof of payment to the local area Engineer of the Licensee for speedy reconnection of
+electric line.
+(2)
+If service connection is disconnected for malpractice like pilferage, the service connection shall be restored after the
+case is settled and consumer pays the entire assessment amount. In such cases the Licensee shall not pay any
+compensation for delay in reconnection.
+(b)
+Permanent disconnection on request of consumer - If a consumer desires to get his service connection disconnected
+permanently, he shall given prior notice as specified in the Electricity Supply Code (ESC) or as otherwise provided in the
+Tariff Order which is in force. The Licensee shall serve final bill along with disconnection charges and after payment of
+the final bill the service connection shall be disconnected and the agreement shall be terminated.
+Chapter 6
+Overall Standard of Performance and Level of Performance
+25.
+(1)
+The overall standard of performance to be achieved by the Distribution Licensee shall be as specified below :
+(a)
+Normal Fuse of Calls - The Licensee shall ensure rectification of fuse-off calls within the time limits as specified in
+Schedule in Chapter 7. The Licensee shall achieve this standard of performance in atleast 95% of the cases.
+(b)
+Line Breakdowns - In case of line breakdowns, the Licensee shall ensure restoration of power supply within the time
+period as specified in Schedule in Chapter 7. The Licensee shall achieve such standard of performance in atleast 95%
+of the cases.
+(c)
+Distribution Transformer Failure - The Licensee shall maintain the percentage of distribution transformers replacement
+within the time period as specified in Schedule in Chapter 7 in atleast 95% of the cases.
+(d)
+Period of Scheduled Outages - Interruptions in power supply due to scheduled outages have to be notified in advance
+and shall not exceed such number of hours in a day as specified in Schedule in Chapter 7 and the licensee shall ensure
+that the supply is restored by such time as specified in the Schedule. The Licensee shall achieve both of these
+standards of performance in atleast 95% of the cases.
+(e)
+Street Lights - The Licensee shall as soon as possible attend to complaints relating to non working of street lights or not
+operating property, to the extent the matter lies within the purview of the Licensee, atleast 90% of the cases be attended
+and resolved within the time limit as specified in Schedule in chapter 7.
+(f)
+Billing Mistakes - Billing mistakes shall not exceed 1% of the total bills prepared, 99% of the cases related to billing
+mistakes should be resolved within the time period as specified in Schedule in Chapter 7.
+Page 14/26
+----- PAGE 15 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+(g)
+Faulty Meters - The licensee shall maintain the percentage of faulty Meters not greater than 3% of the total number of
+meters in service 99% of the cases in urban areas and 33% of the cases in rural areas shall be resolved within the time
+period as specified in Schedule in Chapter 7.
+(h)
+Voltage Unbalance - The licensee shall ensure that the voltage unbalance does not exceed 3% at the point of
+commencement of supply.
+Atleast 98% of the cases related to voltage unbalance shall be resolved within the time period as specified in Schedule
+in Chapter 7.
+(i)
+Release of new connections/ Additional Load/Temporary Connection - All cases (100%) of release of new connection,
+additional load and temporary connection on application by the applicant/consumer should be resolved within specified
+time limits.
+(k)
+Transfer of Ownership and Conversion of Service - At least 98% of the cases related to transfer of ownership and
+conversion of service should be resolved within specified time limits.
+(2)
+The summary of overall performance standards is as follows :
+Service area
+Overall standard of performance
+a
+Normal fuse-off calls
+At least 95% calls received should be rectified within
+prescribed time limits
+b
+Line Breakdowns
+At least 95% of cases should be resolved within prescribed
+time limits.
+c
+Distribution Transformer (DTR) failure
+At least 95% of DTRs to be replaced within prescribed time
+limits.
+d
+Period of scheduled outage
+Maximum duration in a single stretch
+At least 95% of cases resolved within time limit
+Restoration of supply by 6.00 PM
+e
+Street Light Faults
+Rectification of line faults
+At least 90% of cases resolved within time limits
+Replacement of fused/defective unit
+f
+Billing mistakes
+Not exceeding 1%
+g
+Faulty meters
+Not exceeding 3%
+h
+Voltage unbalance
+Maximum of 3% at the point of commencement of supply.
+Page 15/26
+----- PAGE 16 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+i
+Release of new connection/additional load/Temporary connection
+100% cases within specified time limits
+k
+Transfer of Ownership and Conversion of Service
+At least 98% of cases within specified time limits.
+Chapter 7
+Guaranteed Standards of Performance and Compensation for under performance
+26.
+Guaranteed Standards of Performance.
+- The standards of performance specified in the Schedule mentioned hereinafter, shall be the Guaranteed Standards of
+Performance being the minimum standards of service that a Distribution Licensee shall achieve in discharge of his
+obligations as a Distribution Licensee.
+27.
+Compensation for Under Performance.
+(1)
+In cases of failure of the Licensee to meet standards of performance specified in these regulations, without prejudice to
+any penalty, which may be imposed, the Licensee shall be liable to pay such compensation to the affected consumer(s)
+as stipulated in the Schedule for Guarantee of Performance, pertaining to a particular standard of performance unless
+exempted in accordance with Regulation (28) mentioned hereinafter.
+However, if a consumer defaults in making payment of three consecutive energy bills, he shall not be eligible for
+payment of compensation, notwithstanding the fact that he shall not loose his right in getting the proper service from the
+Licensee guaranteed under the Standard of Performance Regulations.
+(2)
+Whenever there is a deviation from the standards of performance by the Licensee for which compensation is provided in
+these Regulations, the affected consumer shall demand for compensation by sending a written communication to the
+Licensee.
+(3)
+Failure of the Licensee to pay compensation in accordance with Regulation 27 (1) above shall constitute a grievance
+which shall be dealt with in accordance with the procedure set out in the Consumer Grievance Redressal Forum and
+Electricity Ombudsman Regulation notified by the Commission.
+(4)
+The amount of penalty and compensation paid by the licensee shall not be passed through in the annual revenue
+requirement of the Licensee while determining the tariff.
+28.
+Exemption.
+(1)
+The standards of performance specified in these Regulations shall remain suspended during 'Force Majeure' conditions
+such as war, mutiny, civil commotion, riot, flood, cyclone, lightning, earthquake, lockout, fire affecting the Licensee's
+installations.
+(2)
+Non-compliance of standard of performance contained in these Regulations shall not be treated as violation, and the
+Distribution Licensee shall not be required to pay any compensation to affected consumer(s), if such violation is caused
+due to grid failure, a fault on the Transmission Licensee's network or on account of instruction given by SLDC, over
+which the Distribution Licensee has no reasonable control.
+(3)
+The Commission may, by a general or special order after hearing the Licensee and affected consumer(s)/consumer
+groups, exempt the Licensee from liability to compensate the consumers for any default in the performance of any
+standard if the Commission is satisfied that such default is for reasons other than those attributable to the Licensee and
+further than the Licensee has otherwise made efforts to fulfill his obligation.
+29.
+Page 16/26
+----- PAGE 17 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Manner of Payment of Compensation.
+(1)
+All payments of compensation shall be made by the Licensee to the affected consumer by adjusting electricity bills
+within 90 (ninety) days considering the likely amount of the bill of where the person to be compensated is not a
+consumer or ceases to be a consumer the compensation shall be paid by the Licensee to the affected consumer by
+cash/cheque/demand draft.
+(½)
+Guaranteed Standards of Performance and Compensation to Affected Consumers in case of Default
+Sl. No.
+Service Area
+Standard
+Compensation payable in case of violation of
+Standard
+Compensation payable to Individual Consumer if the
+event affects a single Consumer
+Compensation payable in individual Consumer if the
+event affects more that one Consumer
+Normal Fuse-off
+1
+Cities and Towns
+Within 4 hours
+Rs. 25 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Rural Areas
+Within 24 hours
+Overhead Line/Cable breakdowns
+2
+Cities and Towns
+Within 6 Hours
+Rs. 25 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Rural Areas
+Within 36 Hours
+Underground Cable breakdowns
+3
+Cities and Towns
+Within 24 Hours
+Rs. 25 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Rural Areas
+Within 48 Hours
+Distribution Transformer failure
+4
+Cities and Towns
+Within 24 Hours
+Rs. 50 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Rural Areas
+Within 72 Hours
+Period of Scheduled outage
+5
+Page 17/26
+----- PAGE 18 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+maximum-duration a single stretch
+Not to exceed 12 hours
+Rs. 50 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Restoration of Supply
+By not later than 6.00 P.M.
+Voltage Fluctuations
+6
+No expansion/enhancement of network involved
+Within 10 days
+Rs. 50 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Up-gradation of distribution system required
+Within 120 days
+Rs. 50 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Erection of Sub-Station
+Within the time period as approved by the Commission
+Rs. 250 for each day of default
+Rs. 25 to each Consumer affected for each day of default
+Meter Complaints
+7
+Inspection and replacement of slow, fast/creeping, stuck-up
+Meters
+Inspection within 7 days in towns and cities and within 15
+days in rural areas and replacement within 15 days thereafter
+Rs. 50 for each day of default
+Not Applicable
+Replacement of burnt meters if cause attributable to Licensee
+Within 7 days
+Rs. 50 for each days of default
+Not Applicable
+Replacement of burnt meter if cause attributable to Consumer
+Within 14 days of receiving payment/ meter from Consumer
+Not Applicable
+Reconnection of supply following disconnection due to
+non-payment of bills
+8
+Cities and Towns
+Same day on which payment was accepted
+Rs. 25 for each day of default
+Not Applicable
+Rural areas
+Upto next day of payment
+(2/2)
+Sl. No.
+Service Area
+Standard
+Compensation payable in case of violation of
+Standard
+Compensation payable to Individual Consumer if the
+Page 18/26
+----- PAGE 19 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+event affects a single Consumer
+Compensation payable in individual Consumer if the
+event affects more that one Consumer
+9
+New Service connection/enhancement of
+load/Temporary Connection
+Connection feasible from existing network
+Release of Supply
+Within 30 days of receipt of application (along
+with prescribed charges) and for temporary connections as per
+Regulation 16(c)
+Rs. 50 for each day of default
+Not Applicable
+10
+Network expansion/enhancement required to
+release supply
+Release of supply-Low Tension
+Within 30 days of receipt of prescribed charges
+Rs. 50 for each day of default
+Release of supply-High Tension 11 KV
+Within 60 days of receipt of prescribed charges
+Rs. 250 for each day of default
+Not Applicable
+Release of supply High Tension 33 KV
+Within 90 days of receipt of prescribed charges
+Release of supply-Extra High Tension
+Within 180 days of receipt of prescribed charges
+Erection of sub-station required for release of
+supply
+Within the time period approved by the Commission
+Rs. 500 for each day of default
+11
+Transfer of Ownership and Conversion of Service
+Title transfer of ownership
+Within 7 days along with necessary documents and
+prescribed fee, if any
+Rs. 50 for each day of default
+Not Applicable
+Change of Category
+Within 7 days along with necessary documents and
+prescribed fee, if any
+Reduction of load
+Within the notice period after awaiting compulsory
+period of supply.
+Rs. 25 for each day of default
+Not Applicable
+12
+Shifting of meter, lines and transformer
+(a) Meter/service wire
+Within 15 days of payment of charges
+Rs. 50 for each day of default
+Page 19/26
+----- PAGE 20 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Not Applicable
+(b) Pole, line
+Within 60 days of payment of charges
+(c) UG cable
+Within 45 days of payment of charges
+(d) Transformer
+Within 90 days of payment of charges
+13
+Resolution of Complaints on Consumers, bill
+If no additional information is required
+Within 24 working hours of receipt of complaint
+Rs. 25 for each day of default
+Not Applicable
+If additional information is required
+Within 7 working days of receipt of Complaint
+Chapter 8
+Miscellaneous
+30.
+Reporting to the Commission.
+(1)
+The Licensee shall furnish to the Commission, a quarterly report, and a consolidated annual report containing following
+information.
+(a)
+The levels of overall performance standards achieved by the Licensee with reference to the standards specified in
+Regulation (25) of these Regulations in the format given at Appendix C to these Regulations.
+(b)
+The number of consumer complaints, redressed and cases in which compensation was paid and the aggregate amount
+of the compensation payable and amount paid by the Licensee in the format given at Appendix D to these Regulations.
+(c)
+The number of claims made by the consumers against the Licensee for failure to meet the guaranteed standards of
+performance and the action taken by the Licensee including the reasons for delay in payment, and non-payment of
+compensation for such claims, and
+(d)
+The measures taken by the Licensee to improve performance in the areas covered by guaranteed standards and
+Licensee's to improve performance in the areas covered by guaranteed standards and Licensee's assessment of the
+targets to be fixed for the ensuing year.
+(2)
+The quarterly report under Regulation 30(1) shall be furnished by the Licensee to the Commission within fifteen days at
+the end of every quarter and the annual report within thirty days of the close of the financial year.
+(3)
+The Commission shall at such intervals as it may deem fit, and not inconsistent with the provisions of the Act, arrange
+for the publication of the information furnished by the Licensee under these Regulations.
+31.
+Repeal.
+- (i) All orders and directions pertaining to the standards of performance of distribution Licensee issued so far by the
+Licensee shall stand repealed from the date of publication of these Regulations.
+(ii)
+Notwithstanding such repeal, the action taken under the earlier Regulations, orders and directions shall remain valid.
+32.
+Savings.
+- Nothing contained in these Regulations shall affect the rights and privileges of the consumers under or any other Law
+Page 20/26
+----- PAGE 21 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+including the Consumer Protection Act, 1986.
+33.
+Power to Remove Difficulties.
+- If any difficulty arises in giving effect to any of the provisions of these Regulations, the Commission may, be general or
+special order do or undertake or direct the Licensee to do things not inconsistent with the provisions of the Act as may
+appeal to be necessary or expedient for the purpose of removing the difficulties.
+34.
+Power to Amend.
+- The Commission may at any time add, vary, alter, modify or amend any provisions of these Regulations, as it may
+deem fit.
+Appendix-A
+Register of Complaints at Complaint Centres and Offices of Junior Engineer/ Assistant Engineer
+[See Regulation 11(1)]
+Name of Office.............................
+Sl. No.
+Time & Date
+Name, Address, & Consumer No. of the
+complainant
+Unique no. of complaint
+Complaints classification
+nature of complaint
+Complaint Classification & its no.
+1
+2
+3
+4
+5
+6
+Time & Date of redressal of grievance
+Total time taken (in Hrs/mts)
+No. of consumers affected
+Total duration of interruption (8x9) = 10 (in
+hrs/mts)
+Whether redressed within stipulated time as per
+standards of performance (Yes/No.)
+7
+8
+9
+10
+11
+Instructions :
+(i)
+Separate register shall be maintained for complaints of Type-A & other than Type-A
+(ii)
+Compilation will be made every month. Unattended complaints may be brought forward after each interval, so that a true
+picture of the pendency is reflected.
+Classification of Complaints :
+(A)
+Interruption in power supply
+(i)
+Loose connections from pole
+Page 21/26
+----- PAGE 22 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+(ii)
+Interruption due to line breakdown
+(iii)
+Interruption due to failure of transformer
+(B)
+Quality of power supply
+(i)
+Ordinary case, which requires no augmentation
+(ii)
+Where augmentation is required
+(C)
+Meters
+(i)
+Stopped/Defective Meters
+(ii)
+Billing on average basis for more than two bills
+(D)
+Overhead lines
+(i)
+Loose Wires
+(ii)
+Inadequate ground clearance
+(E)
+Bills
+(i)
+For current bills where no additional information is required
+(ii)
+Where additional information is relating to correctness of reading etc. is required
+(F)
+Service connections (Domestic & Non Domestic)
+(i)
+Where extension of mains is not required
+(ii)
+Where extension of mains is required
+(iii)
+Modification in connected load
+(iv)
+Name of change/reconnection
+(G)
+Refund of amount due in regard to temporary connection
+(H)
+Others
+Appendix-B
+Register for Compiling the Complaints Classification-Wise
+[See Regulation 11(5)]
+Month:
+Name of Office:
+Classification
+Pending complaints of previous month
+Complaints received during the month
+Total Complaints
+Page 22/26
+----- PAGE 23 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+No. of Complaints redressed during the month
+Balance Complaints to be redressed (4)-(9)
+in stipulated time
+Beyond stipulated time
+Total (5) to (8)
+Within 50% of stipulated time
+Within stipulate of time
+Up to double the stipulated time
+More than double the stipulated time
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+A (i)
+A (ii)
+A (iii)
+B (i)
+B (ii)
+C (i)
+C (ii)
+D (i)
+D (ii)
+E (i)
+E (ii)
+F (i)
+F (ii)
+F (iii)
+F (iv)
+G
+H
+Appendix-C
+Report on Overall Level of Performance Standards
+[See Regulation 30(1)(a)]
+Name of the Licensee
+Full office address (HQ) of the Licensee
+Report for the (1) quarter ending.........  for Financial Year...........
+(2)
+Financial Year.
+Sl. No.
+Service area
+No. of complaints received
+No. of complaints attended
+Overall standard of performance
+Variance (%)
+Achievement (%)
+Page 23/26
+----- PAGE 24 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Target (%)
+1
+Normal Fuse-off calls
+2
+Line Breakdowns
+3
+Distribution Transformer failure
+4
+Period of Scheduled outage
+Maximum duration in a single stretch
+Restoration of supply by 6.00 Pm
+5
+Street Light Faults
+Rectification of line faults
+Replacement of fused/ defective unit
+6
+Billing Mistakes
+7
+Faulty Meters
+8
+Voltage unbalance
+9
+New connection/additional load/temporary connection
+10
+Transfer of ownership and conversion of service
+11
+Others
+Appendix-D (½)
+Report on Consumer Complaint
+[See Regulation 30 1(b)]
+Name of the Licensee
+Full Office address (HQ) of the Licensee
+Report for the (1) quarter ending......... for the Financial Year........
+(2)
+Financial Year..................
+1. Number and type of the consumer complaints received, redressed and balance to be attended :
+Sl. No.
+Type of complaints
+Pending complaints of previous quarter
+Complaints received during the current quarter
+Total complaints cumulative
+No. of complaints redressed during the quarter
+Balance complaints to be redressed
+Within stipulated time
+Beyond stipulated time
+Total
+1
+New connections where distribution mains already exist
+2
+New connections where extension of distribution mains was
+required
+Page 24/26
+----- PAGE 25 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+3
+New connections where commissioning of a new sub-station was
+required
+4
+Modification of load
+5
+Transfer of ownership and conversion of service
+6
+Complaints on consumer's bill
+7
+8
+unplanned interruptions Voltage related complaints
+9
+Meter related complaints
+10
+Others
+Total
+Planned interruptions in Power supply
+1. No. of instances of planned interruptions in power supply in
+LT Network-HT Network-
+2. Total duration in hours of planned interruptions in power supply in
+LT Network-HT Network-
+Appendix-D (2/2)
+(2)
+Number and type of consumer complaints received, redressed and compensation paid.
+Sl. No.
+Type of complaints
+Pending No. of complaints of previous quarter
+No. of complaints received during the quarter
+No. of complaints redressed during the quarter
+No. of cases where compensation was payable
+No. of cases where compensation was paid during
+the quarter
+Total amount (in Rs.) of compensation paid
+1
+2
+3
+4
+5
+6
+7
+8
+1
+New connections where distribution mains already existed
+2
+New connections where extension of distribution mains was
+required
+3
+New connections where commissioning of a new sub-station was
+required
+4
+Page 25/26
+----- PAGE 26 -----
+Bihar Electricity Regulatory Commission (Standards of Performance of Distribution Licensee...
+Modification of load
+5
+Transfer of ownership and conversion of service
+6
+Complaints on consumer's bill
+7
+Unplanned interruptions
+8
+Voltage related complaints
+9
+Meter related complaints
+10
+Others
+Total
+Signature of the authorised person
+With seal
+[Substituted by Bihar Notification No. BERC-SMP 47/2016-04, dated 23.8.2017 (w.e.f. 18.1.2007).]
+Related AI tags, queries and research notes
+Translation
+Page 26/26

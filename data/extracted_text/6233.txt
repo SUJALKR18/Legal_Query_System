@@ -1,0 +1,1088 @@
+
+----- PAGE 1 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Rajasthan Electricity Regulatory Commission (Metering) Regulations
+2007
+Source: https://indiankanoon.org/doc/124033281/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Rajasthan - Act
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+RAJASTHAN
+India
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Rule RAJASTHAN-ELECTRICITY-REGULATORY-COMMISSION-METERING-REGULATIONS-2007 of 2007
+Published on 29 May 2007
+Commenced on 29 May 2007
+[This is the version of this document from 29 May 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Published vide Notification No. RERC/Secy/Reg 70, dated 29.5.2007
+Last Updated 20th May, 2019
+No.RERC/Secy/Reg 70. - In exercise of the powers conferred under section 50 read with section 171 (zp), of the
+Electricity Act 2003 (No. 36 of 2003),the Rajasthan Electricity Regulatory Commission hereby makes the following
+regulations to supplement the Central Electricity Authority (Installation and Operation of Meters) Regulations 2006 to
+specify the requisite standards and to bring about uniformity in practice by the licensees , generating companies and
+other stake-holders within the State.
+1.
+Page 1/21
+----- PAGE 2 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Short title and Commencement.
+(1)
+These regulations may be called the Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007 in short
+RERC (Metering) Regulations and shall come into force from the date of their publication in the Gazette.
+(2)
+Metering codes for distribution licensees issued by Ajmer Vidhyut Vitran Nigam limited, Jaipur Vidhyut Vitran Nigam
+limited and Jodhpur Vidhyut Vitran Nigam limited and Metering code for transmission licensee, incorporated as part III of
+state grid code shall cease to be operative.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires;
+(i)
+"Apparent Energy" means the integral with respect to time of the Apparent Power.
+(ii)
+"Base Computer" (BC) means computer with a provision of a Base Computer Software (BCS) meant to handle the data
+down loaded from meter(s), to process the data into desired output and to synchronise the time with GPS signal.
+(iii)
+"CEA meters Regulations" or "metering Regulation" means the Central Electricity Authority (Installation and Operation of
+Meters) Regulations 2006.
+(iv)
+Central Data Collection System (CDCS) means the computer system located at a central point containing a data base
+regularly updated from the Settlement In-stations to which it has dedicated communication links.
+(v)
+"Common Meter Reading Instruments (CMRI or MRI) or Hand held terminal (HHT)" means a meter reading instrument
+with necessary accessories capable of interrogating various makes of alternating current (AC) static electrical energy
+meters when loaded with the corresponding meter specific soft-ware(s) called meter reading instrument program(s).
+The CMRI shall be capable to extract information about energy data, load survey data, meter status and meter anomaly
+data from the memory of the meter as stored in preset cyclic order for retrieval at later stage.
+(vi)
+"CT-VT or CT-PT Set" means equipment comprising of both Current Transformer and Voltage Transformer.
+(vii)
+"Data Concentrator" means a center to club the processed data received from the connected meter(s)/stations for
+onward transmission through dedicated communication channels to CDCS.
+(viii)
+"Demand Period" means the period over which Active Energy, Reactive Energy or Apparent Energy is integrated to
+produce average Demand Values. For settlement purpose, unless the context requires otherwise, each Demand Period
+shall be of 15 minutes duration, and shall finish at 24:00 hours.
+(ix)
+"Demand Values" in the context off
+(a)
+"Demand value energy" means active energy, reactive energy or apparent energy drawn during one demand period
+commencing at 00.00 hours.
+(b)
+"Demand value power" expressed in MW, MVAr or MVA, means four times the value of MWh, MVArh or MVAh recorded
+during the 15 minutes demand period or two times the value of MWh, MVArh or MVAh recorded during the 30 minutes
+demand period. The demand values are quarter hour or half hour demands and these are identified by the time of the
+end at the Demand Period, one of which shall finish at 24:00 hours.
+(x)
+"Load Survey" means a database of load values stored in energy meter during predefined time interval. Load survey
+contains database for different parameters for predefined number of days.
+Page 2/21
+----- PAGE 3 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+(xi)
+"Maximum Demand [MD]" means the average kVA delivered at Metering point of the consumer, during any demand
+period of maximum use during the month as specified by the Commission. The Licensee, however reserves the right to
+shorten this time period, with the approval of the Commission.
+(xii)
+"Metering System" means the System which shall comprise of meter (instrument) along with associated equipments and
+accessories like wiring, meter cabinet/meter box, test terminals blocks etc. required for measurements.
+(xiii)
+"NABL" means National Accreditation Board for Testing & Calibration Laboratories.
+(xiv)
+"Remote Transmitting Unit (RTU)" means a data transmission unit in digital and sequential mode i.e. to transmit low
+level analogue/digital signals from transducers, switches, relays etc. connected to it and to transmit received signal to
+devices connected to it.
+(xv)
+"Settlement In-station" means a computer-based system, which collects or receives data on routine basis from selected
+out-station system linked to CDCS.
+(xvi)
+"Supply Code" means RERC (Supply code & connected matters) Regulation 2004.
+(xvii)
+"Transducer" means a device to convert high-level parameters (MW, MVA, Amp, and Volt etc.) into low-level
+transmission signal.
+(2)
+Words and expressions used and not defined in these regulations shall have the meaning assigned to them in CEA
+meters Regulations, State Grid Code and the Electricity Act 2003.
+3.
+Scope.
+(1)
+To supplement CEA Meter Regulation, these regulations specify the national / international standards, requirements of
+calibration and testing of metering equipments, practices that shall be employed and the facilities that shall be provided
+for the measurement and recording of various parameters.
+(2)
+In case of any inconsistency in these Regulations with CEA meters Regulations, the latter shall prevail.
+4.
+Standards.
+- The standards (as amended up to date) for meters and Associated equipment shall be as under:
+i
+IS 13799
+Indian Standard for AC static watt hour meters
+class 1&2
+ii
+IS 14697
+Indian Standard for AC Static transformer
+operated watt hour & VAR Meter class 0.2S& 0.5S
+iii
+IS 2705
+Indian Standard for Current Transformers
+iv
+IS 3156
+Indian Standard for Voltage Transformers
+v
+IS 9348
+Page 3/21
+----- PAGE 4 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Indian Standard for Coupling Capacitor and
+Capacitor Divider
+vi
+IS 5547
+Indian Standard for Capacitor Voltage
+Transformers
+vii
+CBIP  Technical Report - 88
+Specification for AC static electrical energy
+meters
+viii
+CBIP  Technical Report - 111
+Specifications for Common Meter Reading
+Instrument.
+5.
+Ownership.
+(1)
+It will be the responsibility of the consumer or generating company or licensee to keep the meter intact, in whose
+premises it is installed for example where the meter for the high voltage consumer is installed at supplier's substation, it
+shall be the responsibility of the supplier to keep the system intact. However the responsibility of burning or any damage
+to the meter on part of the consumer will depend on merits of the case.
+(2)
+Where a consumer elects to provide his own meter, he shall procure the meter conforming to the specification and other
+features as notified by the licensee from time to time. All such meters shall be tested/calibrated and sealed by the
+licensee or accredited test laboratory before installation at consumer's premises.
+(3)
+Where the consumer do not provide the complete metering system(s), ownership of consumer shall be limited to part of
+the system provided by him.
+6.
+Facility for Metering System.
+- (1) Interface and Energy Accounting Meter. - Each generating company or licensee, in whose premises a meter is to
+be installed, shall make available the required space for the meter and metering system to facilitate the installation in the
+premises and shall provide access to the licensee for meter readings (including data downloading and communication),
+its operation, maintenance and testing.
+(2)
+Consumer Meter. - (i) The consumer in whose premises the meter is installed shall provide space for location of meter at
+the main entrance or working entrance of the premises for ease of access to the Licensee for meter readings (including
+data down loadings and communication), its inspection, maintenance and testing.
+(ii)
+Where access is denied to licensee's employees, agents/duly authorized representative for inspecting, testing,
+calibrating, sealing, replacing the damaged meter, collecting the data, joint meter reading, recording, other functions
+necessary and other mutually agreed functions, a notice will be served as per provisions of Supply Code to provide the
+same. In case access to consumer meter (including open access consumer) is not provided within notice period, his
+supply can be disconnected. In case of repeated failures, premises/location of installation of meter may be altered.
+7.
+Type of Meter Instruments and Metering Capability.
+(1)
+"Interface meters" and "Energy accounting & audit meters". - (a) The Meter instrument and its capability shall conform to
+the specifications as per Annexure-1.
+(b)
+Interface meters shall be draw-out type modular unit(s) and have feature of automatic CT short circuiting so that meter
+Page 4/21
+----- PAGE 5 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+can be taken out for testing without shut down requirements. Check and Standby meters shall also meet this
+requirement.
+(c)
+Separate test terminal blocks for testing of main and check meters shall be provided so that when one meter is under
+testing, the other meter continues to record the energy consumptions during the test period.
+(d)
+Interface meters shall be capable of powered with 230 volt AC supply and 110 volt or 220 volt DC supply of the
+substation so that metering core of PT/CVT is never loaded and in case of shut down on feeder/breaker, meter can be
+interrogated locally or remotely. It will normally be powered by AC supply and switched over automatically to DC supply
+only when AC supply fails.
+(e)
+The meter shall have the battery back-up of 12 years for its Real Time Clock (RTC) while meter in service.
+(f)
+The meters shall be equipped with necessary configurable software to suit tariff requirements as may be called for from
+time to time.
+(g)
+Accuracy of check and stand by meters shall be same as that of the main meter.
+(h)
+The meter shall be capable of measuring fundamental energy as well as total energy including harmonics separately.
+(i)
+Energy measurement during demand period will be such that sampling in the meter is synchronized with that of the time
+block ending otherwise energy measured in a demand period but not stored in that period shall be carried forward.
+(j)
+A light emitting diode (LED) glow or pulse output coincident with end of each demand period shall be provided for inter
+face meters to ensure that demand integration coincides the preset time block.
+(k)
+Any interrogation / read operation shall not delete or alter any stored data in the meter.
+(2)
+Consumer Meter. - (a) The meter instrument shall be of following types complying the requirements as specified in
+Annexure-2.
+(i)
+Meter Type A-
+(a) Single-phase
+whole current meters
+(b) Poly phase whole current meters.
+(ii)
+Meter Type B-
+LT Tri-vector CT Operated meters.
+(iii)
+Meter Type C-
+HT Tri-vector CT-VT operated meters.
+(b)
+The meter Type B and Meter Type C shall be capable of measuring fundamental energy as well as total energy
+including harmonics separately.
+(c)
+Whenever additional meter is to be provided with the main meter by a licensee, its accuracy shall be same as that of the
+main meter.
+8.
+Instrument Transformers.
+(1)
+The current transformers and voltage transformers (including CT-PT set) shall meet the relevant Indian Standard (IS)
+Page 5/21
+----- PAGE 6 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+requirements and the accuracy class shall not be inferior to that of the meter instrument vide Annexure-1 & Annexure-2.
+(2)
+The total burden connected to each Instrument transformer shall not exceed its rated burden. The rated burden and
+connected burden of the Instrument transformer may normally be such that actual burden remains between 25% to
+"100% of the rated burden.
+(3)
+Dedicated Instrument Transformers or its dedicated core shall be provided for metering.
+(4)
+The errors of the instrument transformers shall be checked in the laboratory or at site. If such facilities are not available,
+test certificates issued by the supplier or by the accredited test laboratory shall be referred to.
+(5)
+11kV/33kV CT-PT sets may preferably be of dry type, if available. EHV grade oil shall be used in oil filled CT-PT sets.
+Inhibitors like DBC Powder may be added to the oil.
+(6)
+Current Transformers:
+(i)
+"Interface meters" and "Energy accounting and audit meters" shall have three single phase current transformers. The
+secondary current rating of the CTs shall normally be 5.0 Amp or 1 Amp except for 400kV and 220kV sub-stations
+where it shall be 1 Amp.
+(ii)
+Consumer meter.
+External current transformers, where required to be provided, on consumer meters shall generally have 5 Amps
+secondary current rating. The licensee shall prepare norms for selection of the CT ratio for consumer connections.
+(7)
+Voltage transformers.
+(i)
+The secondary voltage shall be 110/?3 volts per phase.
+(ii)
+No fuse whether on HT or LT side of the VT/CVT shall be provided in consumer meters. In case of existing installations
+also, the PT fuses shall be dispensed with
+9.
+Memory of meter instrument.
+(1)
+Memory of meter instrument for all meters excluding single-phase whole current meters shall be as follows,
+(i)
+The data stored in the meter memory shall be available for retrieving by CMRI through meter communication port and
+for down loading to Base Computer.
+(ii)
+The memory in a meter shall not get "erased" after reading or retrieving data through CMRI. Data shall be stored on first
+in first out basis for a minimum of 75 days.
+(iii)
+The data retrieved in CMRI shall be erasable, once the memory of a CMRI becomes full, after downloading the data.
+(2)
+Memory in Type A single-phase meters shall be as per requirement of the licensee.
+10.
+Inspection Testing and Calibration.
+(1)
+Calibration and testing in laboratory
+(A)
+"Interface meters" and "Energy accounting & audit meters".
+(i)
+Page 6/21
+----- PAGE 7 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Test facility for Interface meter instrument and Energy accounting & audit meter instrument testing shall be as under:
+(a)
+The STU will have at least one Automatic meter test bench with high accuracy, static source and 0.02 class electronic
+reference standard meter. This bench with 0.02 class reference standard shall also be used for testing and calibration of
+portable test sets.
+(b)
+Portable test set with static source and electronic reference meter of 0.10 class or one class better accuracy than meter
+under test shall be used for verification and joint testing of accuracy of static meters at site on regular/routine basis.
+(ii)
+The routine testing of meter instrument shall have the following periodicity. While testing of the meter instruments, the
+correctness of functionality of CTs and PT' shall also be verified:
+(a)
+Interface meters -                   1 year
+(b)
+Energy accounting and audit meters                    2 years.
+(B)
+Consumer Meter
+(i)
+Testing facility with the licensee for the consumer meters instruments testing shall be as follows.
+(a)
+Meters may be tested by the licensee at its own or on the request of a consumer.
+Such testing may be at the site or licensee's laboratory or accredited test laboratory. Site testing may be carried out by
+the licensee or by an accredited laboratory having accreditation for site calibration/testing.
+(b)
+Each distribution licensee shall have at least one automatic meter test bench with high accuracy static source and 0.02
+class electronic reference standard meter for testing and calibration. The bench with 0.02 class reference standard shall
+also be used for checking and calibration of portable testing equipments. Additionally the licensee may have test
+benches of lower accuracy class as per their requirements
+(c)
+Portable test set with static source and electronic reference meter of 0.1 class or one class better accuracy than meter
+under test, shall be used for testing of meters at site.
+(d)
+The routine testing of meter instrument shall have the following periodicity. While testing the meters, the functionality
+correctness of CTs and PTs shall be verified separately.
+i.
+Extra High Voltage consumers.
+1 Year
+ii.
+High voltage consumers.
+(a) Above 500 KVA contract demand
+1 year
+(b) Upto 500 KVA contract demand
+2 years
+iii
+Industrial Low Tension consumers
+2 years
+iv.
+Low Tension consumers other than domestic
+services
+3 years
+v.
+Page 7/21
+----- PAGE 8 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Domestic service consumers
+5 years
+(c)
+Instrument Transformers.
+(i)
+The periodicity of testing of Instrument transformers shall be at least once in five years .
+(ii)
+Testing of Instrument transformers shall be carried out separately during the testing of the metering scheme.
+(iii)
+Laboratory of the Licensee shall be accredited by NABL for calibration in Laboratory and calibration and testing at site.
+(iv)
+Test bench reference standards of the Licensee shall be calibrated periodically at NABL accredited test laboratory
+having suitable measurement uncertainty.
+(2)
+Inspection and Testing at site
+(A)
+Testing of Interface meters: -
+(i)
+The inspection, testing & calibration of the interface meters shall be carried out by licensees in the presence of the other
+concerned parties involved for dispatch and receipt of energy by giving advance notice.
+(ii)
+During joint inspection, accuracy of the meters by secondary injection and functioning shall be verified and certified
+jointly by both the agencies.
+(iii)
+The meters provided at the sending end and at the receiving end will be jointly tested/calibrated on all loads and power
+factors as per relevant standard through static phantom load.
+(iv)
+Calibration of meter shall not be attempted through CMRI.
+(v)
+After inspection, testing, or calibration the meter shall be sealed and a joint inspection report shall be prepared giving
+details of testing work carried out, old seals removed, new seals affixed, error as found.
+(B)
+Testing of Consumer meters: -
+(i)
+The inspection, testing & calibration of the consumer meters (including interface meters of open access consumers),
+wherever applicable, shall be carried out by licensee by giving advance notice, in the presence of the consumer's
+representative if he wish to be present,
+(ii)
+The Meter before installation at premises of the consumer shall be tested as per norms in the Laboratory and will carry
+seal(s).
+(iii)
+) Installation and testing of EHV consumers shall be same as that of interface meters.
+(iv)
+The Meter/Metering system shall be functionally checked at site and shall be sealed after commissioning and after each
+time the seal is broken.
+(v)
+Calibration of meter shall not be attempted through the CMRI.
+(vi)
+Routine testing norms with procedures and details/format etc shall be framed by the licensee for testing of consumer
+meters and will be submitted to the Commission.
+(C)
+Page 8/21
+----- PAGE 9 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Testing of Energy accounting & audit meters. - Testing of Energy accounting and audit meters shall be on running load
+of the feeder/circuit without removing the CT's and VT's connections. If the load of the feeder/circuit varies substantially,
+meter may be tested on other running loads over a period of the day.
+11.
+Metering System Requirement.
+(1)
+Interface Meters: -
+(a)
+Meter location:
+(i)
+For Open access consumers, main & check meters shall be installed at delivery point or relevant to termination point of
+service line at outgoing isolator of licensee's sub station. The standby meter shall be installed at other end of line. This is
+applicable to open access interface meters having inter connection with transmission system/distribution system.
+(ii)
+For Mini Hydel stations, main and check meters shall be provided at energy transfer points, preferably at the generating
+station out going feeders.
+(b)
+Communication:
+(i)
+Metering equipment shall have external / internal modem for remote transmission of the data available in the meter
+memory through any one or more of the communication links such as Radio frequency, PLCC (Power Line Carrier
+Communication), PSTN (Public Switched Telephone Network), VSAT,OFC(Optical fiber cable), Mobile or any other
+means of tele-metering like private network of licensee or low power radio.
+(ii)
+The meter shall be capable of data transmission to Data concentrator/ Intelligent Electronic Device (IED). Application
+Programming Interface (API) and output file format shall be provided to the owner by the supplier, to enable data
+retrieval and interoperability of meters of different makes. Any additional specific requirement of the owner in this
+respect, shall be fulfilled by the supplier.
+(c)
+Time synchronization. - The time synchronization in the meters shall be from base computer (BC) through
+communication system and modem. The BC shall be equipped with GPS signal receiver for time synchronization of the
+meters connected through relevant communication system and modem. As a standby measure, the CMRI will be used
+for time synchronization of the individual meter. There shall also be a provision in the BC to synchronize with preset time
+delay with the GPS clock of SLDC or CDCS.
+(2)
+Consumer meter.
+(a)
+Location: Consumer meters shall be provided as per provisions of Supply Code. Meters shall generally be installed
+inside the consumer's premises near the main/working entrance where sufficient space for meter box (for LT consumers
+up to 50 kVA connected load) or a suitable lockable enclosure for HT consumer is reserved by the consumer. The
+meters shall be installed at proper place, height and in shade to prevent damage to the meter by rainwater etc.
+(b)
+Metering cabinet (Box).
+(i)
+Meters for LT consumers shall be housed in the meter-box and for HT consumers in metering cabinet provided/
+approved by the licensee.
+(ii)
+No fuse will be provided inside the meter box in order to keep the meters and CTs free from the external tampering. The
+meter box shall be opened only in the presence of the authorized Engineer of the licensee. Fuses may be in series with
+line isolator for HT supply, where considered necessary from protection point of view.
+(iii)
+Page 9/21
+----- PAGE 10 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+The iron clad switch or MCB/MCCB shall be provided with the meter and connected after the meter.
+(iv)
+All terminals shall be made by lugs and crimping.
+(v)
+For 11kV HT consumers arrangement of meter cabinet/box which houses CT/PT units and metering equipment inside,
+shall be installed at consumer's premises in a room exclusively meant for the purpose. The connections from licensee's
+line and the consumer's premises shall be through 11kV Cables.
+(vi)
+For supply at 33kV, the CT-PT set shall be outdoor type panel mounted / double pole structure mounted and the
+connections from licensee's line to consumer's premises if so required shall be through 33kV cables.
+(vii)
+Standard wiring diagrams for LT and HT metering, as prescribed by the distribution licensee/STU and approved by the
+metering committee, shall only be used.
+(viii)
+Secondary wires connections shall be through armoured cable to the meter cabinet in case of HT consumers on 33kV or
+11kV, having outdoor CTs and PTs or CT-PT set, .The cable shall be laid in G.I. pipe/flexible conduit pipe and not
+embedded in the ground.
+(ix)
+Cable entry into the marshalling box of the instrument transformers as also the meter box/control panel shall be through
+glands and check nuts, which may further be sealed with epoxy compound.
+(x)
+Tight fitting PVC sleeves, Raychem or any other equivalent make, press &heat shrinkable type epoxy sleeves, shall be
+applied for at least 1.5 meter on connections/jumpers from out door instrument transformers bushing terminals.
+(xi)
+Meters shall be kept as near to the instrument transformers as possible.
+(xii)
+HT metering unit including instrument transformer, shall be mounted on double pole/ housed in H.T. cubicle so that
+licensee's officers can approach the location without assistance of the HT consumers.
+12.
+Meter reading and Data Collection.
+(1)
+Interface Meters: Meter reading and data collection procedure for interface meters shall be specified separately through
+an order by Commission. Till then, existing practice shall continue.
+(2)
+Consumer meters.
+(a)
+The licensee shall arrange meter reading of various category of consumers through authorized representative.
+Depending upon category of consumer meters or it's stored data meter may be read manually or using CMRI through
+meter communication port.
+(b)
+The periodicity and other provisions of meter reading of various category of consumers shall be governed by the
+provisions contained in the Supply code.
+(3)
+Accounting cum energy audit meters shall be read monthly by the STU and licensee in their respective area of supply
+and a copy of the readings will be supplied to all concerned. The Tele-metered data shall be retrieved from the
+communication port of the meter.
+13.
+Maintenance of the Metering System.
+(1)
+The proper operation and maintenance of the meters shall be the exclusive responsibility of the licensee or generating
+company or STU as under,
+Page 10/21
+----- PAGE 11 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+Distribution Licensee
+:
+All consumer meters including open access
+consumers. Inter-discom interface meters. Energy accounting and
+audit meters of distribution system
+State Transmission Utility
+:
+All interface meters, Energy accounting &
+audit meters of transmission system.
+Generating Companies
+:
+Energy accounting & audit meters of
+generating stations.
+(2)
+The operation and maintenance of the metering system includes proper installation, regular maintenance of the metering
+system, checking of errors of the CTs, VTs and meters, besides proper laying of cables and protection thereof and
+attending to any breakdown/fault on the metering system etc.
+(3)
+Breaking of the seals before maintenance and replacement of seals after maintenance shall be carried out by the
+respective agency as under,
+(a)
+Interface meters. - by the authorized persons jointly and/or with mutual consent of concerned parties.
+(b)
+Energy accounting and audit meters. - by the generating company or the licensee as the case may be.
+(c)
+Consumer meters. - by the authorized person in presence of the consumer
+(4)
+After replacement and rectification (if any) of meter(s)/seal(s)/metering system, the meter shall be sealed and report
+prepared giving details of testing work carried out, errors as found, old seals removed and new seals affixed etc. with
+complete observation(s), and reason(s).
+(5)
+The consumer or his authorized representative may sign such report if present during testing. In case of Interface
+meters, the joint report shall be prepared and signed by representatives of concerned parties. One copy of report shall
+be delivered to other concerned party/consumer.
+14.
+Sealing.
+(1)
+All the meters, irrespective of ownership, shall be tested, installed and sealed by the licensee or accredited test
+laboratory.
+(2)
+Sealing points of meters shall be as per CEA meters regulations. Following additional points of the meter shall also be
+sealed as applicable.
+(a)
+CT secondary terminal blocks by double seals.
+(b)
+PT/CVT secondary terminal blocks by double seal.
+(3)
+Licensee/STU shall replace old seal by new seals as per requirement of CEA meter Regulation in a phased manner as
+under:
+(a)
+LT consumers other than domestic, non-domestic
+Page 11/21
+----- PAGE 12 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+and agricultural category:
+6 months.
+(b)
+LT consumers of domestic, non-domestic and
+agricultural category:
+(i)
+Identification of quantum of seals required
+-by 31.3.2007
+(ii)
+Replacement of seals For non-Domestic:
+- Not less than 5000 per month
+For domestic consumers and agricultural
+consumers:
+- 5000 per month
+(c)
+Interface Meters-
+3 months.
+(d)
+Energy accounting & Audit meters:
+3 month
+(4)
+Tracking and recording software for all new seals shall be obtained by the licensee from the meter manufacturer to track
+movement of seals starting from manufacture, procurement, storage, record keeping, installation, series of inspections,
+removal and disposal. Similar provision in the tracking software may be made for meter movement also.
+15.
+Meter Replacement.
+(1)
+The correct meter instrument of required specifications as specified in these regulations read with CEA meters
+Regulation shall be installed by the licensee within specified time as per Annexure-III appended herewith.
+(2)
+CTs and VT's of required accuracy class shall be replaced within timeframe as per Annexure-III appended herewith.
+16.
+Prepaid, Time of Day (ToD) / Time of Use ( ToU) Meters.
+(1)
+The distribution licensee shall introduce prepaid meters or time of day or time of use meters for temporary connections,
+festival lighting to begin with.
+(2)
+In case of prepaid meters, a consumer shall be able to consume electricity as per advance payment amount. The
+payment shall be made at local banks/cash collection centers of licensee. These meters shall have the facility by which
+the payment credit made for card/token shall be communicated to the meter electronically.
+(3)
+The licensee may consider provision of configurable ToD register(s) in all consumer meters on merits. The term ToD
+meter may be used for all meters except ABT meters, having provision of ToD registers irrespective of applicable tariff.
+17.
+Mechanism For Dispute Resolution.
+(1)
+Any dispute of metering accuracy shall be resolved by testing the meter at accredited licensees laboratory or an
+independent NABL accredited laboratory approved by the Commission. The aggrieved parties may depute their
+representative to witness the testing.
+(2)
+Based on the report of meter testing, the power consumption of a consumer for the dispute period shall be assessed
+Page 12/21
+----- PAGE 13 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+under the provision of Supply code and Terms and Conditions of Supply framed by the respective distribution licensees.
+As regards disputes the consumer may approach grievance redressal forum or other settlement mechanism constituted
+by the Licensee with a right to appeal before the Ombudsman without prejudice to other rights which consumer may
+otherwise have.
+(3)
+The metering disputes between the generating companies (including RVUN, CPPs), transmission licensees (including
+RVPN), distribution licensees or a trader shall be settled in accordance the with procedures given in relevant PPAs or
+Bulk Supply Agreements as the case may be or by reference to the Commission.
+(4)
+In case of interface meters, in the event of main meter or more than one meter provided becoming defective, the order
+of precedence for billing shall be (a) main (b) check (c) standby.
+18.
+Remote Transmitting Units and Transducers.
+(1)
+The RTU and Transducers shall be used for SLDC/Sub SLDC data acquisition and monitoring of grid operation and the
+data so obtained may be used as standby to automatic/remote metering schemes and vice versa.
+(2)
+Instantaneous value of following data shall be made available either directly by the meter or through transducers and
+RTUs from selected individual stations to sub-load dispatch center and load dispatch center continuously.
+(a)
+MW (Import/export).
+(b)
+MVAr (Lag and lead).
+(c)
+Voltage.
+(d)
+Current.
+(e)
+Frequency.
+(f)
+the status of various isolators, circuit breakers and transformer tap positions shall be communicated through RTUs .
+Note. - The RTUs & Transducers requirement shall not be considered where the meters are capable of transmitting
+various parameters to SLDC / sub LDC.
+(3)
+The transducers shall be suitable for 3 phase 4 wire MW and MVAr measurement. Single transducer giving output of
+MW, MVAr, voltage, frequency and ampere shall be preferred in place of individual transducers for each metering point.
+(4)
+The RTU shall be located in the PLCC room or at location as per optimum cabling requirement. The size of the CT & VT
+cable to the transducer shall be the same as provided in the metering circuit.
+(5)
+The data collected by transducers and fed to RTU shall be processed in the RTU and output will be provided in the
+digital telegraphic form. Transmission of these data to the load dispatch center can be through any of the communication
+links or private network of licensee or low power radio. The data shall again be processed at the load dispatch end in
+Data Concentrator Unit and converted to analog data and displayed on the monitor screen. The RTU shall be utilized for
+monitoring and for remote control of feeders / breakers, located at remote sub-stations.
+19.
+Quality assurance of meters.
+- The distribution licensee shall put in place a system of quality assurance for meter, starting from receipt, storage
+in-house testing (if any), installation, periodic testing lab and site testing procedure, removal/replacement and disposal of
+meters including sealing practices and submit plan/program to the Commission for approval. Any change or amendment
+in quality assurance program shall be with the permission of the Commission.
+Page 13/21
+----- PAGE 14 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+20.
+Review of regulations.
+(1)
+These regulations can be reviewed by the commission of its own or on the merits of a reference from a person or on the
+recommendation of metering committee constituted as here-under as per the Rajasthan Electricity Grid Code:-
+(a)
+The Chief Engineer (PPM&R) of RVPN as Chairman.
+(b)
+The Superintending Engineer (Protection) of RVPN as Member (Secretary).
+(c)
+The Officer at the level of Superintending Engineer nominated by RVUN as member.
+(d)
+The Officer at the level of Superintending Engineer nominated by AVVNL as member
+(e)
+The Officer at the level of Superintending Engineer nominated by JVVNL as member
+(f)
+The Officer at the level of Superintending Engineer nominated by JdVVNL as member
+(g)
+One Engineer, connected with Metering, from IPPs Operating within the State, to be nominated by the Chairman of the
+Panel.
+(h)
+One Engineer, connected with metering, from CPPs (installed capacity exceeding 50 MW& connected to the RVPN's
+transmission system), to be nominated by the Chairman of the Panel.
+(2)
+The committee shall formulate the rules of conducting its business and shall meet at least once in six months and
+conduct the following functions.
+(a)
+To resolve difficulties in the implementation of these regulations.
+(b)
+To consider requests for amendments in these regulations including introduction of new technology which is economical,
+secure, safe, reliable, upgradeable, proven and having enabling provisions for revision of tariff and to make
+recommendations for changes and inclusion in these regulations with reasons and objections, if acceptable to the
+Commission.
+Annexure-1
+Minimum Acceptable Specification for Interface and Energy Accounting & Audit Meters SA
+S.No.
+Particulars
+Interface Meters
+Energy ACcounting and Audit Meters above 33KV
+1
+2
+3
+4
+1
+Meter Type (Number phases and wries)
+AC Static HT TVM 3 Phase-4 Wire type ABT
+compliant
+AC Static HT TVM 3 Phase-4Wire TOD type
+2
+Measurand(s)
+Wh (Imp/Exp), V Arh at 103% voltage and 97%
+Page 14/21
+----- PAGE 15 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+voltage & Vah during Wh (Imp/Exp), V Arh (Lag/lead) &
+PF(lag/lead), W, VA, phase voltage, Line current, frequency,
+instantaneous load in W, Anomaly Data, Power On hours and
+measurement in four quadrants.
+kWh (Imp/Exp), kV Arh at 103% voltage and 97%
+voltage & kVArh (lag/lead) & kVAh during KWh (Imp/Exp),
+PF (lag/lead), kW, kVA, Phase Voltage, Line current, frequency,
+instantaneous load in kW, Anomaly Data, Power on hours, and
+measurement in four quadrants
+3
+Indian Standard or IEC to which confirming
+IS 14697, IEC 62052?11 IEC 62053?22
+&, CBIP Report No. 88
+4
+Rated Current.
+3x-/1 Amp or 3x-/5 Amp (Ib)
+5
+Reference frequency, Hz & variation
+50 Hz, (+/-)5%
+6
+(a) Accuracy class of meter.(b) Classification
+angle for Var meters
+0.2SFour quadrants
+7
+Maximum demand recording period (for MDI only)
+15 Min.
+8
+Display of measurands
+Wh (Imp/Exp), Varh (lag/lead) & Vah during
+Wh (Imp/Exp) Cumulative reactive energy at 103% voltage and 97%
+voltage PF (leg/lead), W, VA, Phase Voltage, Line current,
+frequency instantaneous load In W, Anomaly Data, BP Wh (I/E), BP
+PF (I/E) Power On hours. Measurement in four quadrants
+KWh (Imp/Exp), KV Arh (lag/lead) & KVAh
+during KWh (Imp/Exp), Cumulative reactive energy at 103% voltage
+and 97% voltage, PF (lag/lead), W, KVA, Phase voltage, Line
+current frequency , instantaneous load in KW, KVR, KVAR, Anomaly
+Data, BP KWh (I/E), BP PF (I/E) Power On hours. Measurement in
+four quadrants.
+9
+Storage of measurands
+Load Survey for 75 days with integration period
+of 15 min. for W (Imp/Exp) VA (Imp/Exp), coded frequency wise Wh
+(Imp/Exp), Vah (Imp/Exp), Billing parameters for last 3 months
+including Power On hours and anomaly information meter reading
+count, MD reset count.
+Load Survey for 75 days with integration period
+of 15 min. for KW (Imp/Exp), KVA (Imp/Exp), KWh (Imp/Exp), KVAh
+(Imp/Exp), Billing parameters for last three (3) months including
+Power On Hours and anomaly information, meter reading count, MD
+reset count.
+Page 15/21
+----- PAGE 16 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+10
+Any other displays
+Total energy i.e. Fundamental energy plus
+Harmonic energy, self-diagnostic features.
+11
+a) Output device (for
+readings)
+(b) Whether remote reading feasible.
+For calibration
+Yes
+12
+Immunity to external
+factors
+(a) Heat & Fire
+(b) Shock &
+vibration
+(c) Dust & Water
+(d) Electro magnetic
+fields
+(e) Radio
+interference
+(f) Electro static fields
+As per IS: 11000
+As per IS: 9000
+IP: 51
+As per IS: 61 0000
+As per IS: 6842
+As per IS: 61000-4-2
+13
+Any other feature/requirement.
+(a) 2 ports suitable
+for local & remote communication.
+(b) Draw out type modular metering units with
+facility of automatic CT shorting. Meter mounting shall be either
+of projection type or rack type as per space and site
+requirement.
+14
+Common Meter Reading Instrument, (CMRI)
+CBIP report No. 111, IP67, IEC 529, IS 12063,
+CISPA R22, IEC 61000-4
+Note. - Type ‘C’ meters provided in annexure-II shall be used for energy accounting & audit meters up to 33kV supply.
+Annexure-2
+Salient Technical Specification For Consumer Meters
+S.No.
+Particulars
+Specification of Meters
+Meter Type 'A'
+Meter Type 'B'
+Meter Type C
+Single Phase
+Poly Phase
+Page 16/21
+----- PAGE 17 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+LT Tri-vector
+HT Tri-vector
+1
+2
+3
+4
+5
+6
+1
+Meter Type
+Electro-static
+Electro-static
+Electro-static
+Electro-static
+2
+Applicable
+Upto 5.0 Kw connected load of LT supply.
+Normally upto 18.65 kW connected load of LT
+supply.
+Normally above 18.65 KW connected load and upto
+50 kVA contact demand
+HT/EHV Supply
+3
+Number of phases and wires
+Single Phase 2 Wire
+Three Phase 4 Wire
+Three Phase 4 Wire
+Three Phase 4 Wire except traction supply.
+4
+Measurand[s]
+KWH
+KWH
+KWH, KVAH, KVA, PF
+kWH (Imp/Exp), kVAh, kVARh
+5
+Indian standard or IEC to which confirming
+IS 13779-1999
+IS 13779-1999
+IS 14697, IS 13779
+IS 14697, IS 13779
+6
+Reference frequency, HZ and variation
+50 HZ + 5%
+50 HZ + 5%
+50 HZ + 5%
+50 HZ + 5%
+7
+Accuracy Class of meter
+1.0 or better
+1.0 or better
+0.5S or better
+Page 17/21
+----- PAGE 18 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+up to 33 kV supply 0.2s above 33kV supply
+8
+Meter operation or CT/PT
+Whole Current
+Whole Current
+CT Operated
+CT-PT Operated
+9
+Demand period
+-
+-
+30 Min
+30 Min
+10
+Minimum Starting current as % of base
+0.2
+0.2
+0.1
+0.1
+11
+Import-export feature
+Forward Import
+Forward Import
+Import and Export
+Import and Export
+12
+Load Anti-creeping device
+Not more than one Pulse
+Not more than one Pulse
+Not more than one Pulse
+Not more than one Pulse
+13
+a. Out-put device [for readings] b. Whether
+remote reading feasible
+Visual
+Not Required
+Visual
+Not Required
+Visual as well as
+through MRI
+Not Required
+Visual as well as
+through MRI
+Required
+14
+Immunity to External
+factors:
+a. Heat and fire
+b. Shock and
+vibration
+c. Dust and Water [IP
+Page 18/21
+----- PAGE 19 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+class]
+d. Electro Magnetic
+Fields
+e. Radio Interference
+f. Electro Static Fields
+As per IS 11000
+As per IS 9000
+As per IS 12063
+As per IEC 61000
+As per IS 6842
+As per IEC 61000-4-2
+As per IS 11000
+As per IS 9000
+As per IS 12063
+As per IEC 61000
+As per IS 6842
+As per IEC 61000-4-2
+As per IS 11000
+As per IS 9000
+As per IS 12063
+As per IEC 801-3
+As per IS 6842
+As per IEC 61000-4-2
+As per IS 11000
+As per IS 9000
+As per IS 12063
+As per IEC 801-3
+As per IS 6842
+As per IEC 61000-4-2
+15
+Any Other feature/ requirement
+i. Communication
+capability
+ii. Up gradation capability (preferred)
+i. Communication
+capability
+ii. Up gradation capability (preferred)
+i. Communication
+capability
+ii. Up gradation capability (preferred)
+i. Communication
+capability
+ii. Up gradation capability (preferred)
+16
+LED indication
+i. Visual signal to
+indicate the operation of the meter
+ii. Line load
+reversal indication
+iii. Earth loading indication
+i. Visual signal to
+Page 19/21
+----- PAGE 20 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+indicate the operation of the meter
+ii. Line load
+reversal indication
+i. Visual signal to
+indicate the operation of the meter
+ii. Line load reversal indication
+i. Visual signal to
+indicate the operation of the meter
+ii. Line load reversal indication
+Note. - Railway Traction supply meter shall be three phase three wire type to read measurand (s) of 132 kV double
+circuit two phase two wire traction supply.
+Annexure-3
+Salient Technical Specification for Consumer Meters Specification of Meters
+Particulars
+Year
+A.
+Meter instruments
+(1) Consumer Meters:
+(i) Extra High Voltage consumers.
+1
+(ii) High Voltage consumers
+(a) Above 500 KVA contract demand
+1
+(b) Up to 500 KVA contract demand
+1
+(iii) Industrial Low Tension consumers
+1
+(iv) Low Tension consumers other than domestic services
+2
+(v) Domestic service consumers
+5
+(2). Interface meters
+1
+(1) Energy accounting and audit meters (including Station
+auxiliary metering)
+5
+B.
+Instrument Transformers for:
+(1) Consumer meter
+(i) Extra High Voltage consumers
+2
+(ii) High Voltage consumers
+(a) Above 500 KVA contract demand
+2
+(b) Up to 500 KVA contract demand
+2
+(iii) Industrial Low Tension consumers
+2
+(iv) Low Tension consumers other than domestic services
+2
+(v) Domestic Service consumer
+Page 20/21
+----- PAGE 21 -----
+Rajasthan Electricity Regulatory Commission (Metering) Regulations 2007
+5
+(2) Interface meters
+2
+(3) Energy accounting and audit meters (including Station
+auxiliary metering)
+5
+Related AI tags, queries and research notes
+Translation
+Page 21/21

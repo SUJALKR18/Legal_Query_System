@@ -1,0 +1,1554 @@
+
+----- PAGE 1 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+Jharkhand State Electricity Regulatory Commission (Electricity
+Supply Code) Regulations 2005
+Source: https://indiankanoon.org/doc/55382192/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Jharkhand - Act
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 2005
+JHARKHAND
+India
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 2005
+Rule
+JHARKHAND-STATE-ELECTRICITY-REGULATORY-COMMISSION-ELECTRICITY-SUPPLY-CODE-REGULATIONS-
+2005 of 2005
+Published on 28 July 2005
+Commenced on 28 July 2005
+[This is the version of this document from 28 July 2005.]
+[Note: The original publication document is not available and this content could not be verified.]
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 2005
+Published vide Notification No. JSERC/Regulation/64/268, dated 28.07.2005
+No.JSERC/Regulation/64/268, dated 28.07.2005. - In exercise of the power conferred by Clause (x) of sub-section (2) of
+Section 181 read with Section 50 of the Electricity Act 2003 (36 of 2003) and all power enabling it in that behalf, the
+Jharkhand State Electricity Regulatory Commission, hereby makes the following Regulations, namely: -
+Chapter 1
+1.
+Page 1/29
+----- PAGE 2 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+Short Title, Commencement and Interpretation.
+- 1.1 These Regulations may be called the Jharkhand State Electricity Regulatory Commission (Electricity Supply Code)
+Regulations 2005.
+1.2
+These Regulations shall be applicable to all Distribution Licensees in their respective licensed areas, in the State of
+Jharkhand.
+1.3
+These Regulations shall come into force after expiry of 3 months from the date of its publication in the Jharkhand State
+Gazette.
+Chapter 2
+2.
+Definitions.
+- 2.1 In these Regulations, unless the context otherwise requires:
+(a)
+"Act" means the Electricity Act, 2003;
+(b)
+"Commission" means the Jharkhand State Electricity Regulatory Commission;
+(c)
+"Consumption charges" means charge payable for the consumption of electrical energy in Kwh multiplied by appropriate
+tariff rates and also includes Demand /Fixed charges, Fuel Surcharge Adjustment (FSA) and customer charges etc,
+wherever applicable.
+(d)
+"High Tension (HT) (all kinds HT) consumer" means a consumer who is supplied electricity at a voltage higher than 440
+volts.
+(e)
+"HT (All Kinds of HT) rates" means the consumption charges payable by HT consumers.
+(f)
+"Low Tension (LT) Consumer" means a consumer who is supplied electricity at a voltage up to 440 volts.
+(g)
+"LT Rates" means the consumption charges payable by LT consumers.
+(h)
+"Month" means the calendar month. The period of about 30 days between the two consecutive meter readings shall also
+be regarded as month for purpose of billing;
+(i)
+"Premises" includes any land, building, or structure.
+(j)
+"Dedicated Distribution Facilities" means such facility not including a service line, forming part of distribution system of
+the licensee which are clearly and solely dedicated to the supply of electricity to a single consumer or group of
+consumers on the same premises or on contiguous premises.
+(k)
+"Authorised Representative" refers to all officers, staff or representative of the Distribution licensee discharging function
+under general or specific authority of the licensee.
+(l)
+"Contract Demand" means demand in Kilowatt (KW) or Kilo Volt amperes (KVA) or H.P (Horse Power) mutually agreed
+between the Distribution Licensee and the consumer as entered into agreement or agreed through other written
+communication.
+(m)
+"Occupier" means the person in occupation of the premises where energy is used or is proposed to be used.
+(n)
+"Consumer" means any person who is supplied with electricity for his own use by a licensee or the Government or by
+any other person engaged in business of supplying electricity to the public under this Act or any other law for the time
+Page 2/29
+----- PAGE 3 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+being in force and includes any person whose premises are for the time being connected for the purpose of receiving
+electricity with the works of a licensee, the Government or such other person, as the case may be;.
+(o)
+All other expression used herein but not specifically defined herein but defined in the Act shall have the meaning
+assigned to them in the Act.
+(p)
+[ "Assessing officer" means an officer of a State Government or Board or licensee or supplier, as the case may be,
+designated as such by the State Government as per provisions of section 126 of the Act;
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 501 Dated - 01/09/2010.]
+(q)
+"Authorized officer" means an officer of the licensee or supplier as the case may be, authorized in this behalf by the
+State Government as per provisions of section 135 of the Act;
+(r)
+"Appellate Authority" means the authority prescribed under subsection (1) of section 127 of the Act.]
+Chapter 3
+3.
+Recovery of Charges.
+- 3.1 The Distribution Licensee shall be authorized to recover charges for the supply of electricity from any person
+requiring such supply in accordance with the provisions of the Act and these Regulations and such charges shall
+include-
+(a)
+Recovery of such expenses as may be reasonably incurred by the licensee in providing electric line or electrical plant
+used for giving such supply in accordance with Clause 17 of these Regulations below.
+(b)
+Charges for electricity supplied by licensee in accordance with the tariff order issued by the Commission.
+3.2
+Cost of Service Connection/Extension/Upgradation. - 3.2.1 The licensee shall be authorized to recover from the
+applicant all expenses reasonably incurred in laying service line from the distribution mains to the point of supply based
+on the schedule of charges approved by the Commission as per Clause 17 of these Regulations.
+3.2.2
+Where the provision of supply to an applicant requires works of installation of dedicated distribution facilities, the
+licensee shall be authorized to recover all expenses reasonably incurred on such works from the applicant based on the
+schedule of charges approved by the commission as per Clause 17 of these Regulations.
+Where the provisions of supply to an applicant entails works, not being works referred to in Clause 3.2.1 and 3.2.2
+above of these Regulations, for augmentation/up gradation of the distribution system, the licensee shall be authorized to
+recover from the applicant such portion of the expenses reasonably incurred on such works as the load or additional
+load applied for bears to the incremental capacity that will be created by augmentation of the distribution system as per
+the schedule of charges approved by the Commission in accordance with Clause 17 of these Regulations.
+Provided that where the load or additional load applied for by the applicant does not exceed one third of the capacity
+that will be created by augmentation of the distribution system, the licensee shall not be entitled to recover any
+expenses under this Clause 3.2.3 of these Regulations form such applicant.
+3.2.3
+Where the licensee permits the applicant to carry out works of laying service line and/or dedicated distribution facilities
+for the power supply requisitioned by him, the licensee shall not be entitled to recover expenses relating to such portion
+of work so carried out by the applicant.
+Provided how ever that the licensee shall be entitled to recover from the applicant, supervision charges as per schedule
+of charges approved by the Commission in accordance with Clause 17 of these Regulations, not exceeding 15 percent
+of the labor cost that would have been incurred by licensee in carrying out such work.
+Provided further that the applicant shall have to get the works carried out by licensed electrical contactor as per the
+estimate and lay-out approved by the licensee. The material purchased by the applicant in such cases should conform
+to relevant BIS specification or its equivalent and should bear its mark where applicable. The licensee may ask for
+Page 3/29
+----- PAGE 4 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+documentary evidence to verify the quality of material. The consumer should get the work done within time frame
+provided in these Regulations failing which the licensee may on giving fifteen days notice treat this application for supply
+as cancelled.
+3.2.4
+The service line and /or the dedicated distribution facility, not withstanding that it has been paid for by the consumer,
+shall remain the property of the licensee who shall maintain it and who shall have the right to use the same for supply of
+electricity to any other person provide that such supply should not adversely affect the supply to the consumer who has
+paid for it.
+3.3
+Charges of Electricity Supplied. - 3.3.1 The distribution licensee shall recover the electricity charges for the electricity
+supplied to the consumer as per the tariff determined by the Commission from time to time in accordance with the
+provision of Electricity Act 2003.
+3.3.2
+Unless otherwise specified all service category wise tariff (HT and LT rates) refer to one point of supply and each
+separate establishment and service category (tariff) will be given separate point supply.
+3.3.3
+The consumer shall pay to the distribution licensee within the time specified for the purpose under Clause 4 every
+month/ billing period at the appropriate office of the distribution licensee or any other place specified by distribution
+licensee, charges for the electricity supply to the consumer during the preceding billing period as per the tariff in force
+from time to time.
+3.3.4
+The charges for electricity supplied may include fixed charges, energy charges, minimum charges and all other
+surcharges including fuel price adjustment surcharge, delayed payment surcharge as per tariff in force from time to time.
+3.3.5
+The licensee is also authorized to recover such surcharge and charges for wheeling as may be specified under
+provisions of Sub-Section 2 and Sub-Section 3 of Section 42 of the Act and such additional surcharge as may be
+specified under provisions of Sub-Section(4) of Section 42 of the Act.
+3.3.6
+The consumer shall also pay in addition to the charges fixed by the Commission all taxes and duties as required under
+any law for the time being in force.
+Chapter 4
+4.
+System of supply.
+- 4.1 The licensee shall supply electricity on AC system with a frequency of 50 cycles per second on the following
+voltage levels and number of Phases:-
+(a)
+Low Tension
+(i)
+Single Phase: 230 volts between phases and neutral.
+(ii)
+Three Phase: 400 volts between phases.
+(b)
+High Tension (H.T) - Three Phase: 11KV or 33 KV between phases.
+(c)
+Extra High Tension (EHT)-Three Phase: 132 KV or 220 KV between phases.
+(d)
+For Railway Traction Two phase HT supply with 25 KV between phases and EHT supply with 132 KV supply between
+phases may be given.
+Chapter 5
+5.
+Requisition for supply.
+Page 4/29
+----- PAGE 5 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+- 5.1 [Requisition for a new supply of electricity shall be made by the owner/occupier of the premises in duplicate in the
+prescribed form of the licensee which shall be available at a cost from the local office of the licensee. The model format
+of the application form is provided in Schedule I & II of these Regulations. The Licensee shall necessarily supply two
+copies of agreement format, one copy of tariff schedule and one copy of Electricity supply code along with the
+application forms. Copies of application form and other necessary required documents as mentioned above down
+loaded from the website of licensee may also be used by applicant and shall be accepted by the licensee.
+On the application form there shall be clearly mentioned the names with address and telephone numbers of the offices
+from where the application form can be obtained and where the filled up application form will be submitted.
+Any assistance or information required in filling up the form will be provided to the applicant at the local office of the
+licensee.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 214 Dated - 16/04/2007.]
+5.2
+The application shall indicate in the application for electricity supply his full name and address (permanent if any) with
+telephone number and also detail address of the premises for which requisition of supply has been made including
+Khata no, Khesra no, Municipal holding no, house/plot no etc, as applicable. The applicant shall also provide following
+information's/particulars in the application:-
+(a)
+Name and address of the licensed Electrical contractor through whom the wiring/installation will be/have been carried
+out.
+(b)
+Purpose of usages of electricity and load for each such usage.
+(c)
+Whether application is for new connection, temporary connection, shifting of service, additional load, change of name or
+change of type (category) of service (tariff)
+(d)
+Whether the applicant wants to carry out the works of laying service line and / or dedicated distribution facility for the
+electricity supply requisitioned.
+5.3
+The applicant shall furnish, along with application for requisition of electricity supply following documents
+(a)
+Two photographs affixed one each in the duplicate copies of the application form
+(b)
+Proof of legal occupancy in the form of copies of sale deed or partition deed or succession certificate or power of
+attorney or lease/ rent agreement or allotment order or in case of agricultural connection "Khata nakal" giving khesar no.
+(c)
+In case of a partnership firm, partnership deed, authorization in the name of the applicant for signing the requisition form
+and agreement.
+(d)
+In case of Public and/or Private limited Company, Memorandum and Articles of Association and Certificate of
+incorporation together, with an authorization in the name of the applicant for signing the requisition form and agreement.
+The licensee may ask for the original documents from the consumer for verification.
+5.4
+The application for requisition of supply shall be submitted to the notified local office of the licensee along with
+non-refundable application fee in cash or Demand Draft as per the schedule of charges approved by the Commission
+under Clause 17 of, these Regulations.
+[5.5 If the applicant, in respect of an earlier agreement executed in his name or in the name of a firm or company with
+which he was associated either as a partner, director or managing director, has any arrears of electricity dues or other
+dues for the premises where the new connection is applied for and such dues are payable to the licensee, the requisition
+for supply may not be entertained by the licensee until the dues are paid in full. But if the old consumer who had
+committed default in payment of the dues has left the premises for good and the concerned premises has come in legal
+possession of a new occupant through transfer or purchase of the concerned property and where the new incumbent is
+Page 5/29
+----- PAGE 6 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+not connected with the previous owner/occupant in any manner applies for re-connection of the electrical line in the
+same disconnected premises, in that event the distribution licensee shall be obliged to order reconnection without
+realization of the arrear dues of concerned premises from the new incumbent, as the purchaser of the premises would
+not be held liable to meet the liability of the previous consumer in order to secure reconnection.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 214 Dated - 16/04/2007.]
+5.6
+For the purpose of these terms and conditions of supply, establishments/premises
+(a)
+Having distinct set up and staff, or
+(b)
+Owned or leased by different persons, or
+(c)
+Covered by different licensee or registrations under any law where such procedures are applicable, and
+(d)
+For domestic category households having relevant document from the local authorities, identifying the premises as
+separate, will be deemed to be separate establishments and each separate establishment will be given separate point of
+supply.
+Chapter 6
+6.
+Procedure for providing fresh Electricity Service Connection.
+- 6.1 Receipt of application
+6.1.1
+It shall be duty of the Licensee to:
+(i)
+Issue a duly authorized acknowledgement of each application form accepted.
+(ii)
+Inform an applicant upon request of the status of his application and the reasons if any, for non-disposal of the
+application.
+6.1.2
+The licensee shall maintain a permanent record of the applications received in application and Service Connection
+Register and shall enter in to the same stage wise status of disposal of the application till energization of service
+connection and allotment of consumer no.
+Each application shall be allotted permanent application number (for identification) serially in order in which they are
+received. Separate registers for different category of consumers may be maintained. Unless the Act or the Rules and
+Regulations framed there under or any other law for the time being in force require, the licensee shall dispose the
+application in each tariff category "on a first come, first served" basis as per serial priority in the application register.
+6.2
+Processing Application and effecting Electricity supply. - 6.2.1 Within days prescribed in Clause 6.2.10 of these
+Regulations from the date of the receipt of the application the licensee shall send notice to the applicant to be present on
+the stipulated date along with the licensed electrical contractor who is to or has undertaken the electrical installation or
+his representative at the premises for which requisition for electricity supply or additional supply has been made for the
+purpose of inspection and fixing the point of entry of the electricity supply line (service line) and position of fixing meters
+and accessories and lay out of the service line as agreed upon with the applicant.
+Provided that the service line shall be laid at an accessible location and the meter shall be fixed at the entry point of the
+premises in such a manner that it is protected form elements like rain etc. and is easily accessible without getting the
+premises unlocked or opened for this purpose.
+6.2.2
+The applicant along with the licensed electrical contractor or his representatives shall be present on the stipulated date
+as per the aforesaid notice under Clause 6.2.1 of these Regulations for the inspection failing which the application may
+be rejected by the licensee. In case the application is rejected, written information in this respect shall be sent by the
+licensee to the applicant, within 7 days of the notified date of inspection.
+Page 6/29
+----- PAGE 7 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+6.2.3
+When the consumer's premises has no frontage on a street and the service line from the licensee's mains has to go
+upon, over or under the adjoining premises of any other person (whether or not the adjoining premises is owned jointly
+by the applicant and such other person), or in any other case the consumer shall bring at his own expense any
+necessary way-leave, consent or license for laying of distribution mains and service line upon, over or under such
+premises and furnish to the licensee. The licensee shall not arrange supply of power until the way-leave, consent or
+license is received. Any extra expense incurred in placing the supply line in accordance with the terms of the way-leave,
+consent or sanction shall be borne by the consumer. In the event of the way-leave, consent or sanction being cancelled
+or withdrawn, the consumer shall, at his own cost arrange for or in case the work is carried out by the licensee at the
+consumer's request pay full cost of, any diversion of the service line or the provision of any new service line thus
+rendered necessary.
+6.2.4
+It shall not be incumbent on the licensee to ascertain the validity or adequacy of way-leave, consent or sanction
+obtained by the consumer.
+6.2.5
+Where in the opinion of the distribution licensee, the provision of supply requires installation of distribution transformer
+within the applicant premises; the applicant's shall make available to the distribution licensee a suitable piece of land or
+a suitable room within such premises for the period of supply for installation of the distribution transformer.
+6.2.6
+After the inspection referred to in Clause 6.2.1 above is carried out the distribution licensee shall intimate to the
+applicant within prescribed period as per time scheduled provided in Clause 6.2.11 of these Regulations of the details of
+the works (including service line) to be undertaken for providing electricity supply, the charges to be borne by the
+applicant thereon in accordance with these Regulations, list of additional documents/consent/statutory permissions
+required to be submitted by the applicant and the amount of security and any other charges as per the Act or
+Regulations notified by the Commission to be deposited by the applicant and to execute agreement after deposit of the
+charges and security amount with the licensee within the due date as prescribed in time schedule provided in Clause 17
+of these Regulations.
+Provided that if licensee permits the applicant to carry out the works as per Clause 3.2.4 of these Regulations the
+applicant shall bear only supervision charges as per these Regulations.
+6.2.7
+Not withstanding any thing contained in these regulations an application shall be deemed to be received on the date of
+receipt of duly completed application containing all necessary information and documents and consents/permissions as
+required under any law for the time being in force along with the payment of charges and security amount as per these
+Regulations.
+6.2.8
+Upon receipt of required charges as above, deposit of security amount and availability of suitable piece of land or room
+within the premises of the applicant if required for installation of distribution transformer as per Clause 6.2.5 of the
+regulation, and completion of formalities as above the Distribution licensee shall carry out or permit the applicant to carry
+out the works for providing electricity supply.
+If the applicant fails to deposit charges and security by the due date a second 15 days notice shall be sent by the
+licensee within 15 days of the supply of the first notice to deposit the charges and security amount and to complete
+formalities and if the applicant fails to deposit the amount within the notice period the application of the applicant shall
+stand cancelled after expiry of the notice period.
+6.2.9
+After completion of the works as referred to in Clause 6.2.6 of these Regulations and receipt of inspection report of the
+electrical installation and permission of the Electrical inspector if applicable and permission of the inspector of mines in
+case of mines, within 3 days the licensee shall intimate the date of testing of the electrical installation of the applicant. It
+shall be duty of the applicant to be present during inspection along with licensed Electrical contractors who has
+undertaken the installation or his representative.
+6.2.10
+On testing of the consumers' installation by the licensee's representative if the same is found satisfactory the licensee
+Page 7/29
+----- PAGE 8 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+shall arrange to install meter and accessories and seal the meter, meter box, and accessories in the presence of the
+consumer and provide electricity supply within next two working days of the date of testing.
+If the licensee is not satisfied he shall intimate the applicant of the faults/shortcoming in the installation. The applicant
+after rectification of the defects intimate the licensee upon which the licensee shall fix a date of next testing within 7 days
+of such intimation and on testing of the installation and after payment of prescribed fee as per Clause 17 of these
+Regulations (No charge shall be made by the licensee for the first test but subsequent tests due to fault or short coming
+found in initial test shall be charged for); if the same is found satisfactory by the licensee, he shall provide, electricity
+supply after fixing meter and accessories and sealing the same in the presence of the applicant within next two working
+days of such testing.
+6.2.11.1
+The application for fresh electricity supply service connection or additional connection shall be disposed as per the
+provision under chapter 6.0 of these Regulations within the time frame as prescribed in the following schedule.
+Time schedule for disposal of application for fresh electricity supply or additional supply.
+Sl.No.
+Item of Disposal
+Category of service
+Time limit for disposal
+1
+Notice of inspection on receipt of application.
+(a) L.T service
+Within 3 days of receipt of application.
+(b) H.T service
+Within 7 days of receipt of application.
+(c) E.H.T service
+Within 15 days of receipt of application.
+2
+Inspection for fixing position of distribution
+line/service line and meter and accessories in consumer premises.
+(a) L.T service
+Urban
+Within 10 days of receipt of application.
+Rural
+Within 15 days of receipt of application.
+(b) H.T service
+Within 15 days of receipt of application.
+(c) E.H.T service
+Within 30 days of receipt of application.
+3
+Issue of 15 days notice for deposit of charges
+and security amount and execution of agreement.
+(a) LT service without extension &
+upgradation
+Within 3 days after inspection
+(b) LT service with LT extension &
+installation of D/S/S and or upgradation.
+Within 7 days after inspection
+(c) L.T. service with extension &
+installation of D/S/S and /or upgradation of system.
+Within 15 days after inspection
+(d) H.T. service
+Within 30 days after inspection
+Page 8/29
+----- PAGE 9 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+(e) E.H.T service
+Within 45 days after inspection
+4
+Time allowed for deposit of charges and security
+amount and execution of agreement.
+All categories L.T, H.T and EHT.
+Within 15 days of issue of notice.
+5
+Notice for intimation that supply is available
+and testing consumer for installation.
+(a) L.T. service
+without Ext. and upgradation.
+(i) Urban
+Within 7 days of deposit of charges
+(ii) Rural
+Within 15days of deposit of charges
+(b) L.T service with L.T line EXT only
+(i) Urban
+30 days of deposit of charges
+(ii) Rural
+45 days of deposit of charges
+(c) L.T Service with L.T extension installation
+of and Dist Sub-station and/or upgradation.
+(i) Urban
+45 days of deposit of charges
+(ii) Rural
+60 days of deposit of charges
+(d) HT without Extension
+Within 27 days of deposit of charges.
+(e) HT with Extension
+Within 90 days of deposit of charges.
+(f) EHT (this will necessarily entail Extension)
+Within 180 days
+6
+Energization and commencement of electricity
+supply.
+L.T. service
+Within 2 days after testing
+HT service Within
+3 days after testing
+EHT service Within
+3 days after testing
+[Note - The time for providing new connection which does not require any extension should be limited to 30 days from
+the receipt of application.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 214 Dated - 16/04/2007.]
+6.3
+Temporary supply. - 6.3.1 Any person requiring electricity supply for the purpose that is temporary in nature i.e for period
+of less than one year may apply for temporary electricity supply.
+Where an applicant requires temporary supply then notwithstanding anything contained to the contrary in this Section 6
+of these Regulations, if after inspection of premises/site the supply is found feasible, the distribution licensee shall send
+written intimation to the applicant to deposit in advance the total cost of laying and dismantling extension work , service
+Page 9/29
+----- PAGE 10 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+line, meters and accessories as per schedule of charges approved by the Commission together with the estimated
+charges for electricity supply for the period applied for provided that where the works for such temporary supply are
+carried out by the licensee and paid by the consumer requiring such supply, the consumer shall receive credit in the final
+bill for the cost of materials dismantled and returned to the licensee in working condition less the rental for these material
+for the period of supply after termination of such temporary supply.
+Provided however that where the works for such temporary supply are carried out by the person requiring such supply,
+then such person shall be entitled to retain such works at the time of termination of supply.
+Provided further that the person requiring such temporary supply shall not be require to deposit any security as per
+Clause 10 of these Regulations other than the aforesaid advance.
+6.3.2
+Not withstanding any thing contained to the contrary in this section 6 of these Regulations the application for temporary
+supply shall be disposed of on priority basis as per the following time frame.
+(a)
+Premises/site inspection and issue of notice to
+deposit charges in advance.
+LT service within 7 days of receipt of
+application. H.T service within 15 days of receipt of application
+(b)
+Maximum time allowed to the applicant to deposit
+charges.
+LT service 7 days from the date of notice. HT
+service 15 days from the date of notice.
+(c)
+Carrying out works, testing of installation and
+effecting electricity supply.
+LT without extension within 7 days of deposit
+of charges. LT with extension within 15 days of deposit of
+charges. HT without extension within 15 days of deposit of
+charges HT with extension within 30 days of deposit of charges.
+6.3.3
+After the period of temporary supply is over and after disconnection and termination of the supply the licensee shall
+prepare final bill on the basis of Actual consumption and allowing credit for the materials dismantled and received back
+in working condition less the rental for the same for the period of supply as per the schedule of charges approved by the
+Commission as per Clause 17 of these Regulations and send it to the consumer and return the balance amount (against
+the advance deposit) if any to the consumer within 30 days of the termination of such supply. For any delay in refund of
+the balance amount beyond the said time limit of 30 days the licensee shall have to pay interest for the period of such
+delay at the rate equivalent to the delay payment surcharge as per tariff.
+Chapter 7
+7.
+Agreement.
+- 7.1 The distribution licensee may require the applicant to execute agreement for obtaining new connection, for change
+of name, and for enhancement or reduction of sanctioned load.
+7.2
+The agreement format shall be supplied by the Distribution licensee along with application form and shall also be
+available on licensee website in downloadable mode.
+7.3
+The agreement shall include the following
+(i)
+Name and address of the consumer/ applicant.
+(ii)
+Address of the premises for which electricity supply has been requisioned and for which the agreement is being
+Page 10/29
+----- PAGE 11 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+executed.
+(iii)
+Sanctioned load/ contract demand.
+(iv)
+Purpose of usage of electricity.
+(v)
+Declaration by the applicant/consumer.
+(a)
+To abide by provisions of Act and these Regulation.
+(b)
+To pay for the supply of electricity based on the prevailing tariff rates.
+(c)
+To pay for all other charges payable in accordance with these Regulations. and schedule of charges of the distribution
+licensee approved by the Commission.
+(d)
+To deposit such security money as the distribution licensee may be entitled to recover from him under the Act and these
+Regulations
+7.4
+A copy of the agreement executed shall be given to the consumer/ applicant.
+7.5
+A Consumer may terminate the agreement after expiry of the initial period of agreement after giving 30 days notice to
+the distribution licensee. However if the agreement is to be terminated before expiry of the initial period of agreement,
+the consumer shall be liable to pay charges as per tariff for the balance period of the initial period of agreement.
+Provided that whenever an agreement is terminated on notice given by the consumer the distribution licensee shall give
+a written intimation within 15 days after termination failing which such intimation shall be deemed to have been given to
+the consumer.
+Provided further that if the service of the consumer remains continuously disconnected for 180 days not being a
+temporary disconnection upon request of the consumer the agreement shall be deemed to be terminated on the expiry
+of 180 days or after expiry of the initial period of agreement which ever is later without prejudice to the rights of the
+distribution licensee or of the consumer under the Act for recovery of any amount due under the agreement.
+Chapter 8
+8.
+Change of Name.
+- 8.1 A connection may be transferred in the name of another person upon death of the consumer or in case of transfer
+of the ownership or occupancy of the premises, upon application in the prescribed application from for change of name
+by the new owner or occupier.
+Provided that such change of name shall not entitle the applicant to require shifting of the connection from the present
+location.
+8.2
+The application for change of name shall be accompanied by :
+(i)
+Consent letter of the transferor for transfer of connection in the name of transferee. In the absence of consent letter any
+one of the following documents in respect of premises- (a) proof of ownership of premises (b) in case of partition,
+partition deed. (c) registered deed (d) succession certificate.
+(ii)
+Photocopy of license/permission with respect, to the purpose for which electricity is being supplied in the premises if
+applicable.
+(iii)
+Application fee and charges for the change of name as required under the schedule of charges of the Distribution
+Licensee approved by the commission.
+8.3
+Page 11/29
+----- PAGE 12 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+The Distribution licensee shall consider the application and communicate the decision on change of name to the
+consumer within 30 days and if the change of name has been allowed the change of name shall come into effect in the
+billing cycle next to the cycle in which decision has been taken.
+Provided where the Distribution licensee disallows or refuses the change of name, it shall do so after affording the
+consumer concerned a reasonable opportunity of being heard in the matter and after communicating the consumer the
+reasons of refusal in writing.
+8. [4. Deleted.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 214 Dated - 16/04/2007.]
+Chapter 9
+9.
+Enhancement and Reduction of Contract Demand/Sanctioned Load.
+- 9.1 Enhancement of Contract Demand/Sanctioned load
+9.1.1
+The application for enhancement of contract demand /sanctioned load shall be made in the prescribed form and in the
+manner as specified in new service connection in Clause 5 of these Regulations.
+9.1.2
+The application for enhancement of load shall be disposed of in the manner and within the time frame as prescribed for
+new service connection in Clause 6.2.11 of these Regulations.
+Provided that the application for enhancement of Contract Demand /Sanctioned Load may be outright rejected by the
+distribution licensee if the consumer is in arrears of licensee's dues and the same have not been stayed by a court of
+law or the Commission.
+9.2
+Reduction of Contract Demand/Sanctioned Load. - 9.2.1 The application for reduction of contract Demand sanctioned
+load shall made in the prescribed form specified for the new service connection. Provided that no reduction of load shall
+be allowed by the Distribution Licensee before expiry of the initial period of agreement.
+9.2.2
+The application for reduction of load shall be accompanied by-
+(i)
+Details of modification, alteration and removal of electrical installation with completion certificate and test report of the
+Licensed Electrical contractor.
+(ii)
+Any other reason for reduction of load
+(iii)
+Details of generator if any installed by the consumer with safety clearance certificate form competent authority as
+applicable.
+9.2.3
+The Distribution Licensee shall consider the application verify the same and communicate in writing its decision on
+reduction of Contract Demand/Sanctioned Load in writing within 30 days of the application. Provided that if the
+distribution licensee rejects or refuses the reduction of contract demand/sanctioned load it shall do so after affording the
+consumer reasonable opportunity of being heard in the matter and after communicating in writing the reasons for such
+refusal.
+9.2.4
+If the decision of the application for reduction of Contract Demand Sanctioned Load is not communicated by the licensee
+within 30 days of the application, the consumer shall send a notice to the licensee requesting for disposal in the matter
+and if the decision is still not communicated within 15 days of the notice. The reductions of contract demand/sanctioned
+load shall be deemed to have been sanctioned, from the 16th day after the issue of notice to the licensee by the
+consumer.
+9.2.5
+The reduction of Contract Demand/Sanctioned Load shall come into effect from the first day of the month following the
+month in which the reduction of load has been sanctioned or have been deemed to be sanctioned.
+9.2.6
+Page 12/29
+----- PAGE 13 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+After the sanction of the reduction of Contract Demand/Sanctioned Load the consumer shall execute a supplementary
+agreement and the licensee shall recalculate the Security Deposit excess Security Deposit if any shall be refunded by
+way of adjustment in the minimum number of succeeding bills of the consumer.
+9.3
+Change of Service (Tariff) Category, Shifting of Service Connection. - 9.3.1 Consumer may get done the change of
+Service (tariff) Category or Shifting of Service Connection on mutually agreed terms and conditions with the Distribution
+Licensee if the licensee agrees to do so.
+Chapter 10
+10.
+Security Deposit.
+- 10.1 Distribution Licensee may require any person to whom supply or additional supply of electricity has been
+sanctioned to deposit security amount.
+Provided that a person to whom supply of electricity has been sanctioned through prepayment meter shall not be
+required to deposit any security amount.
+Provided further that a consumer who has deposited security amount and subsequently opts and is allowed to receive
+supply through a prepayment, shall be refunded such security deposit by way of adjustment to the prepayment credit to
+the account of such consumer from which the value of his future consumption is to be deducted.
+10.2
+The amount of security mentioned in Clause 10.1 of these Regulations above shall be equal to the three months
+average billing amount. For the purpose of determining the average billing under these Regulations, the average of the
+billing of the consumer for the last twelve months or in case where supply has been given for the shorter period, the
+average of the billing of such shorter period, shall be calculated.
+Provided that in the case of seasonal consumer, the average of the billing for the season for which supply is provided
+shall be calculated.
+Explanation. - "seasonal consumer" means consumer who normally use electricity supply for a purpose which operates
+for a particular part of the year not exceeding nine (9) months.
+10.3
+Where the distribution licensee requires security from a consumer at the time of commencement of service, the amount
+of such security shall be estimated by distribution licensee based on the tariff, Contract Demand /Sanctioned Load, Load
+Factor, Diversity Factor, and number of working shifts.
+10.4
+The Distribution Licensee shall recalculate the amount of security based on the Actual billing of the consumer once in
+each financial year.
+Where the amount of security deposited by the consumer is more than 110% of such calculated security for the financial
+year the licensee shall refund the excess amount over the calculated security amount to the consumer by way of
+adjustment in the minimum possible number of succeeding bills of the consumer.
+In case where the amount of security deposited by the consumer is less than 90% of the such security calculated for the
+financial year the licensee shall be entitled to serve notice to the consumer to deposit the amount of shortfall in security
+from the calculated security amount within 30 days and if the consumer fail to deposit the security amount within due
+date his service connection may be disconnected.
+10.5
+The Distribution Licensee may adjust and debit any amount which is due or owing from the consumer against the
+security deposited by him.
+[10.6 The Distribution Licensee shall pay interest on the amount of security deposit by the consumer at a rate prevalent
+to bank rate of the Reserve Bank of India.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 214 Dated - 16/04/2007.]
+10.7
+Upon termination of supply, the Distribution licensee after adjusting and debiting any amount due or owing form the
+consumer against the security deposited by him refund the balance amount of security within 60 days to the person who
+deposited the security under intimation to the consumer if different from such person. Provided that if the Distribution
+Licensee fails to make payment of balance amount of security payable to the consumer upon termination of supply
+Page 13/29
+----- PAGE 14 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+within 60 days of termination of supply, the licensee shall pay interest to the consumer for the period of delay over 60
+days at a rate 2% higher than the Bank rate.
+Chapter 11
+11.
+Electricity Billing.
+- 11.1 Intervals of Electricity Bills
+11.1.1
+Bills shall be issued at periodicity of not more than 2 months in respect of meter reading based billing of domestic,
+commercial, agricultural services and other category of services.
+11.1.2
+The consumer shall be informed in advance of the periodicity of billing for his service (monthly or bimonthly), and period
+in the calendar month when his meter will be read.
+11.1.3
+The due date for payment shall be for the L.T Domestic, Commercial and Agricultural consumers minimum 15 days after
+the issue date of bills and in case of all other categories of consumers minimum 21 days after the issue date. The
+licensee shall ensure distribution of bills within 5 days of the issue of bills. The licensee shall obtain acknowledgement of
+the receipt of bills by the consumer.
+11.1.4
+Generally there should be fixed schedule of billing date and due date for each area. The licensee shall through a general
+notice provide information regarding time schedule of dispatch and due date of bills issued for a particular area and
+location and address of the billing office and collection centre.
+11.1.5
+The Licensee shall issue the first bill for all services energized during a billing cycle, in the third billing cycle counting the
+billing cycle in which service has been energized as first. In case, the consumer does not receive the first bill in the 3rd
+billing cycle from date of energizing the connection, he may report to the billing officer of the Licensee who shall issue
+the bill within next 17 days.
+11.2
+Billing in absence of meter reading. - 11.2.1 In case for any reason the meter is not accessible and hence has not been
+read during any billing period the distribution licensee shall send bill on the basis of consumption of the last billing period
+in which the meter reading was taken. No such bill on average basis due to non-availability of reading will be issued for
+more than two consecutive billing cycles. Provided that the amount paid shall be adjusted after the readings are taken in
+subsequent billing period.
+11.2.2
+If the meter remains inaccessible for reading for two consecutive billing cycles, the Distribution licensee shall serve 7
+days notice to the consumer to make meter accessible on the days stipulated in the notice. If the consumer fails to keep
+the meter accessible on the days stipulated in the notice, the same shall be treated as refusal of entry under provision of
+Subsection (3) of Section 163 of the Act and service line of the consumer may be disconnected under provisions of this
+section.
+11.2.3
+Without prejudice to the provisions of the Act nothing in Clause 11.2.2 of the Regulation shall apply where consumer has
+provided prior information to the licensee, with cogent reasons for temporary inaccessibility to the meter and has agreed
+to make payment on the basis of consumption estimated by the licensee.
+11.3
+Billing in the event of Defective meters. - 11.3.1 Subject to the provisions of Part XII and Part XIV of the Act in case of a
+defective meter not recording accurately (slow or fast) the bill of the consumer shall be adjusted on the basis of the test
+report of the meter for the period of the meter was defective subject to a maximum period of three months prior to the
+date on which the defect was detected.
+Provided that before testing the meter licensee shall give 7 days notice to the consumer to be present during testing of
+meter intimating date, time and place of testing and if the consumer or his representative is present the testing shall be
+done in his presence and he will sign the report as a token of witness.
+Provided further that in case the meter is defective or burnt and has stopped recording or lost, the consumer shall be
+Page 14/29
+----- PAGE 15 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+billed on the basis of the average consumption of the last twelve months immediately preceding the month in which
+meter was last read (including that month) for the period for which meter was stopped recording subject to maximum
+period of 3 months.
+Provided that in case of tampering the assessment shall be carried out as per provisions of Section 126 or Section 135
+of the Act, depending on the circumstance of each case.
+11.4
+Change of Occupancy/ Vacancy of Premises. - 11.4.1 For the reason of change of occupancy or otherwise if the
+premises is to be unoccupied for long period the consumer or occupier of the premises may seek final bill for payment of
+the charges till the date of occupancy and temporary disconnection thereafter. In such cases consumer or the occupier
+of the premises shall inform in writing to the billing officer of the licensee at least 30 days before the date of vacation to
+take final reading and issue final bills for payment. The licensee shall arrange to take final reading at least 15 days
+before vacation of the premises and issue final bill at least 7 days before vacancy date including the charge for the
+period from final reading (15 days) to vacancy date on prorata basis along with arrears if any, and disconnection
+charges. The consumer or occupier of the premises shall pay the final bills before the date of vacancy and the licensee
+shall disconnect the service connection on the date next to vacancy date.
+The line may be reconnected only after written request for the same after payment of reconnection charges along with
+fixed charges/minimum monthly charges if any for the period from date of disconnection to the date of reconnection.
+After payment of final bills the licensee shall not have right to recover any charges for any period prior to the date of
+disconnection or date of vacancy.
+11.5
+The following information shall be included in the bill. - (a) Name and Address of the billing office.
+(b)
+Bill Number.
+(c)
+Consumer No. , name and address.
+(d)
+Name of the sub-division / section.
+(e)
+Tariff/Category of consumer (i.e. domestic /commercial etc.).
+(f)
+Status of meter OK/defective/not available.
+(g)
+(i)
+Type supply (i.e. single phase, three-phase LT or HT).
+(ii)
+Contracted load/ Connected load.
+(h)
+Meter No. - in case replacement of energy meter is involved during the billing period, the meter number of old and the
+new meters, date of replacement, final reading of old meter and initial reading of new meter at the time of replacement of
+the meter shall also be indicated on the bill.
+(i)
+Billing period (dates to be mentioned).
+(j)
+Initial meter reading with date.
+(k)
+Final meter reading with date.
+(l)
+Multiplying Factor of the meter if any.
+(m)
+Units consumed.
+(n)
+Page 15/29
+----- PAGE 16 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+Date of the bill and due date of payment.
+(o)
+Billing details: - The item wise details for the current month demand and arrears shall be furnished in the bill. A
+representative list is given below:
+(1)
+Energy / Monthly Minimum Charges.
+(2)
+Fixed Charges.
+(3)
+Capacitor surcharges
+(4)
+Other Charges if any
+(5)
+Electricity Duty
+(6)
+Fuel Cost adjustment charges
+(7)
+Surcharge for low power factor
+(8)
+Surcharge for delay.
+(9)
+Interest on installments due
+(10)
+Total current month demand Arrears - With details.
+(11)
+Others (With details)
+(12)
+Total amount due
+(13)
+Adjustment
+(14)
+Net amount
+(p)
+Mode of payment with details of collection centre including working hours.
+(q)
+Designation addresses and telephone no. of authorities with whom complaints or grievances can be lodged and address
+and telephone numbers of the Forum and Electricity Ombudsman constituted under Section 42 of the Act.
+(r)
+In case of cheques and bank drafts, the receiving authority in whose favour the amount should be drawn.
+11.6
+Payment of Electricity Bill. - 11.6.1 All consumer shall pay the bills/charges for supply of electricity by due date failing
+which the licensee may disconnect the electricity service subject to provision of Clause 11.11 of these Regulations. The
+payment of bill shall normally be made at the specified local collection center of the Licensee on any working day during
+prescribed hours or through any other facility like e-service (if available), banks , post offices, Internet etc. as may be
+provided by the licensee. Licensee shall establish sufficient number of collection centers at suitable locations with
+necessary facilities where consumer can deposit the bill amount with ease and without undue congestion. Wherever
+necessary a separate collection centers should be provided for Senior Citizens, physically challenged person and
+women.
+11.6.2
+The licensee may, however, specify any collection centers for making payment for group of consumers in addition to
+specified collection centre of the Licensee, where arrangement shall be made by licensee to accept payment of bills
+Page 16/29
+----- PAGE 17 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+both by cash and DD/Cheque.
+11.6.3
+In case the due date in the bill for payment of the amount is a Sunday or Public Holiday, the next working day shall be
+treated as the due date.
+11.6.4
+The consumer shall present his bill at the time of payment without which payment will not be normally accepted.
+However if the consumer is unable to present his bill due to non-receipt of the same and if the consumer applies for
+duplicate bill at the concerned Billing Office to enable him to make payment of his electricity bill, the licensee shall issue
+duplicate bill within 3 days of receipt of application. Non-receipt of the bill shall not entitle the consumer to delay the
+payment beyond the due date.
+11.6.5
+The consumer shall be issued proper receipt for the payment made by him to the licensee. Bank certificate that money
+is transferred to licensee's account is sufficient proof of payment.
+In case payment of by credit card, the statement of account of the said credit card may be accepted as proof of
+payment.
+11.6.6
+In case a cheque given by the consumer is not honored and payment is not made, Action may be initiated by the
+Licensee for disconnection, treating as a case of non-payment as per Clause 11.11 The Licensee may not accept
+payment through cheque from such consumer for period of one year from the billing month for which the cheque given
+by the consumer has bounced. For that particular one year, the consumer may be required to pay his bill in cash/ by DD
+only. This shall be without prejudice to other rights of the Licensee to proceed against the consumer for dishonor of the
+cheque.
+11.6.7
+Advance payment of anticipated bills by consumer: - The consumer shall have the facility to make advance payments of
+the Charges for supply of electricity and require the Licensee to adjust the amount against bills that may be raised by the
+licensee in subsequent months. Such advance payments shall not attract any interest.
+11.7
+Additional Charges for Belated Payment of bills.- In case the consumers do not pay the bill by the due date mentioned in
+the bills, delay payment surcharge for delayed payment of bills shall apply as per tariff orders issued from time to time.
+11.8
+Adjustment of the Amount of paid by the Consumer.- The amount paid by the consumer shall first be adjusted as per the
+priorities stated hereunder:
+(1)
+Against arrears.
+(2)
+Against Delay payment surcharge.
+(3)
+Against current month charges
+11.9
+Installment facility. - Licensee may grant the facility of payment of arrear bill in installments.
+11.9.1
+Grant of installment facility shall not affect the liability of the consumer to pay surcharge for delayed payment as per tariff
+notifications issued from time to time, till full payment and clearance of arrears.
+11.9.2
+The Licensee shall designate and notify the authorities that may grant installment facilities for different service category,
+(HT& EHT).
+11.10
+Erroneous/Disputed Bills. - 11.10.1 In case the bills are wrong the consumer shall make the full payment of the
+electricity bill amount under protest by due date to avoid disconnection.
+Provided that the supply of electricity shall not be cut off if such consumer deposits, under protest -
+(a)
+Page 17/29
+----- PAGE 18 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+An amount equal to the sum claimed from him, or
+(b)
+The electricity charges due from him for each month calculated on the basis of average of amount for electricity paid by
+him during the preceding six months, whichever is less, pending disposal of any dispute raised by the consumer on the
+bills.
+11.10.2.1
+In case of wrong bills the consumer will make written complaint to the notified office of the distribution licensee for
+necessary correction. The Licensee shall resolve the billing disputes as per the Act and the Regulations notified by the
+Commission failing which the consumer shall be entitled for compensation as prescribed by the Commission under
+Section 57(2) of the Act.
+11.10.3
+On examination of the complaint, if the Licensee finds the bill to be erroneous, a revised bill shall be issued to the
+consumer indicating a revised due date of payment, which should be fixed not earlier than seven days from the date of
+delivery of the revised bills to the consumer. If the consumer has paid any excess amount, it shall be refunded to the
+consumer within 15 days or if consumer opts, be adjusted in the minimum possible number of subsequent bills. The
+licensee shall pay to the consumer interest charges at the rate equivalent to the delay payment surcharge as per tariff
+on the excess amount outstanding on account of such wrong billing from the date of payment till the date of refund or
+adjustment in subsequent bills.
+11.10.4
+If the Licensee finds the bills to be correct, the consumer shall be intimated accordingly.
+11.11
+Disconnection of Service. - 11.11.1 Disconnection due to non-payment: Where a consumer neglects to pay any charge
+for supply electricity or any other sum due from him to the Licensee, by the due date mentioned in the bill, the licensee
+may, after giving not less than fifteen (15) clear days' notice in writing to such person and without prejudice to his rights
+to recover such charge or other sum by suit, cut off supply of electricity and for that purpose disconnect any electric
+supply line or other works being the property of such licensee through which electricity may have been supplied,
+distributed or wheeled and may discontinue the supply until such charge or other sum, together with any expenses
+incurred by him in cutting off and reconnecting the supply, are paid, but no longer.
+11.11.2
+Notwithstanding anything contained in any other law for the time being in force, no sum due from any consumer, under
+this section shall be recoverable after a period of two years from the date when such sum became first due unless such
+sum has been shown continuously as recoverable as arrears of charges for electricity supplied and the licensee shall
+not cut off the supply of the electricity.
+11.11.3
+In case of continued default in payment of electricity charges and any sum due to licensee by any consumer, the
+Licensee shall be entitled to terminate the agreement executed by the consumer as per the terms and conditions of
+supply of the Licensee as approved by the Commission.
+Chapter 12
+12.
+Restoration of supply of electricity.
+- If any service is disconnected on account of non-payment of electricity charges by the consumer or any other charges
+due to licensee from him the consumer has to pay the charges due from him in addition to charges for disconnection
+and reconnection. The licensee shall restore the electrical supply within 24 hours of payment of charges along with
+disconnection and reconnection charges by consumer in towns and cities, and within 48 hours after the payment of
+charges along with disconnection and reconnection charges by consumer in rural areas.
+Chapter 13
+13.
+Meters.
+- 13.1 No new connection shall be given without a correct meter of prescribed specification as per the Act.
+13.2.1
+The distribution licensee shall supply the meter and accessories unless the consumer elects to purchase a meter.
+Page 18/29
+----- PAGE 19 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+Provided that the consumer shall have to pay monthly rent for the meter installed in his service connection as per the
+schedule of charges approved by the Commission as per Clause 17 of these Regulations.
+Provided further that the distribution licensee may require the consumer to provide security for the price of the meter.
+13.2.2
+Consumer shall have to accept installation of appropriate metering device, load limiter, meter box and other accessories
+if the Distribution Licensees approaches him to install one for the purpose of electricity supply to him and the consumer
+shall provide suitable site/place for fixing such meter and accessories to the satisfaction of the licensee. Wherever
+required the consumer shall provide and maintain at his expense a locked and weather proof enclosure of a design
+approved by the licensee for the purpose of housing meter and other terminal structure and accessories.
+13.2.3
+Where consumer elects to purchase meter he shall be entitled to purchase it from any supplier of correct meter with
+specification laid down by the Authority under Section 55 of the Act.
+Provided that till the regulations specified by the Authority under Section 55 of the Act, the consumer may purchase the
+meter in accordance with the specification laid down by the licensee.
+Provided further that where the consumer elects to purchase meter from supplier other than the distribution Licensee,
+the Distribution licensee shall be entitled to test the meter for correctness prior to installation.
+13.3
+Lost, Burnt or Defective and Inoperative Meter. - 13.3.1 Consumer shall be responsible for the safe custody of the meter
+and accessories installed in their premises. Where upon complaint of the consumer or inspection by the authorized
+representative of the Distribution Licensee, the meter is found to be burnt, lost or defective and inoperative, it shall be
+replaced and supply restored to the consumer.
+Provided that the Distribution Licensee may recover the price of new meter from the consumer.
+Provided further that in case of lost meter the replacement of meter and restoration of supply shall be done by the
+licensee after a copy of F.I.R lodged in this regards by the consumer in respective police station is provided by the
+consumer to the licensee.
+13.4
+Testing and Maintenance of Meter. - 13.4.1 The distribution licensee shall be responsible for maintenance of correct
+meters for providing electricity supply to consumer and its periodic testing.
+13.4.2
+Upon written request of the consumer or otherwise if the authorized representative of the Distribution Licensee finds the
+meter defective and not recording accurately on inspection, the meter shall have to be tested for accuracy at a third
+party facility approved by the Commission.
+Provided that in case of testing on the request of consumer, the consumer shall have to pay the testing fee approved by
+the Commission as per clause 17 of these regulations. Provided further that, if the meter is found to be recording more
+than the actual consumption, the test fee shall be refunded to the consumer by the licensee by adjustment in the
+subsequent bill.
+13.4.3
+Before testing the meter of a consumer 7 (seven) days notice shall be issued to the consumer intimating date, time and
+place of testing for the consumer or his authorized representative to be present during the testing. Consumer or his
+authorized representative present during testing will sign the test report as a token of witness.
+13.4.4
+The Distribution Licensee shall issue rectified bills on the basis of the test report with a copy of the Test Report to the
+consumer within one month of the testing.
+Chapter 14
+14.
+Right of licensee to enter consumer premises and to remove fittings or other apparatus of licensee.
+- 14.1 A licensee or any other person duly authorized by him may, at any reasonable time, and on informing the occupier
+of his intention, enter any premises or land, under, over, along, across, in or upon which the electric supply-lines or other
+works have been lawfully placed by him for the purpose of :
+(a)
+Inspecting, testing, repairing or altering the electric supply-lines, meters, fittings, works and apparatus for the supply of
+Page 19/29
+----- PAGE 20 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+electricity belonging to the licensee; or
+(b)
+Ascertaining the amount of electricity supplied or the electrical quantity contained in the supply; or
+(c)
+Removing any electric supply-lines, meters, fitting, works or apparatus belonging to the licensee where a supply of
+electricity is no longer required, or the licensee is authorized to take away and cut off such supply.
+14.2
+A licensee or any person authorized as aforesaid may also, in pursuance of a special order in this behalf made by an
+Executive Magistrate and after giving not less than twenty-four hours notice in writing to the occupier enter:
+(a)
+Any premises or land referred to in Clause 14.1 for any of the purposes mentioned therein, or
+(b)
+Any premises to which electricity is to be supplied by him, for the purpose of examining and testing the electric wires
+fittings, works and apparatus for the use of electricity belonging to the consumer.
+14.3
+Where a consumer refuses to allow a licensee or any person authorized as aforesaid to enter his premises or land in
+pursuance of the provisions of Clause 14.1 or Clause 14.2 refuses to allow him to perform any Act which he is
+authorized by those Clauses to perform, or fails to give reasonable facilities, the Licensee may after expiry of twenty-four
+hours from the service of a notice in writing on the consumer, disconnect the supply to the consumer till such refusal or
+failure continues, but no longer.
+14.4
+Where there is reason to believe that electricity has been, is being or is likely to be used un-authorizedly in place of
+premises, an officer authorized by the State Govt. under Section 135 of the Act may
+(a)
+Enter, inspect break open and search any place or premises in which he has to believe that electricity has been, is
+being, or is likely to be, used unauthorizedly;
+(b)
+Search, seize and remove all such devices, instrument, wires and any other facilitator or article which has been, is
+being, or is likely to be, used for unauthorized use of electricity;
+(c)
+Examine or seize any books of account or documents which in his opinion shall be useful for or relevant to , any
+proceedings in respect or the offence under sub-section (1) and allow the person from whose custody such books of
+account or documents are seized to make copies thereof or take extracts there from in his presence.
+The occupant of the place of search or any person on his behalf shall remain present during the search and a list of all
+things seized in the course of such search shall be prepared and delivered to such occupant or person who shall sign
+the list.
+14.5
+No inspection, search and seizure of any domestic place or premises shall be carried out after sunset till sunrise except
+in the presence of an adult male member occupying such premises.
+Chapter 15
+15.
+Tampering, distress or damage to electrical plant, lines or meter.
+- 15.1 No person other than the authorized representative of the Distribution Licensee or any other person authorized
+under the Act and rules and regulations made there under shall be authorized to operate, handle, remove or interfere
+with any electrical plant, electric lines, meters equipment etc. of the Distribution Licensee or break remove erase or other
+wise interfere with the seals, name plates and identification numbers or marks affixed on such property of the
+Distribution License , placed in the consumer premises.
+15.2
+If any consumer adopts any electrical appliance which is likely to affect injuriously the supply of other consumers or uses
+the energy supplied or deals with it in any manner so as to unduly or improperly interfere with the efficient supply of
+energy to any other person by the licensee; the licensee may discontinue the supply so long as such an appliance is so
+Page 20/29
+----- PAGE 21 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+adopted or the energy is so used or dealt with.
+15.3
+If the equipment i.e. electrical plant, lines or meter etc. of the licensee placed in the consumer premises is found
+tampered, distressed/damaged, the licensee shall be entitled to recover the expenses incurred for restoration of such
+plant, line, meter etc., without prejudice to his right to take Action under appropriate provisions of the Act, including
+disconnection of supply under Section 56 of the Act for non-payment of the cost for replacement/rectification.
+[15.4  Wherever un-authorized use of electricity is being indulged in, the licensee may discontinue the electricity supply
+so long as such unauthorized use of electricity is being done without prejudice to the right of licensee to take action
+under law including Section 126 of the Act.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 348 Dated - 29/04/2008.]
+[15.5 Section 126 of the Electricity Act 2003 is for assessment of the charges for unauthorized use of electricity. This
+provision would also be applicable to those cases where action is taken for offences under Section - 135 of the
+Electricity Act 2003 and the situation of alleged commitment of offence is covered under the provisions of Section 126 of
+the Electricity Act 2003.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 579 Dated - 08/08/2008.]
+15.6
+Wherever un-authorised use of electricity is detected and the assessing officer issues a final order, the consumer shall
+be entitled to file an appeal to the appellate authority under Section 127 of the Act.
+[15.7 Method for assessment of electricity charges in case of Unauthorized Use of Electricity (UUE) - (i) If on an
+inspection of any place or premises or after inspection of the equipments, gadgets, machines, devices found connected
+or used, or after inspection of records maintained by any person, the Assessing officer comes to the conclusion that
+such person is indulging in unauthorised use of electricity, he shall provisionally assess the electricity charges payable
+by such person or by any other person benefited by such use as per the procedure in the following sections:
+(ii)
+Unauthorised use of electricity shall be as defined in 'Explanation (b) 'under section 126 of the Electricity Act 2003,
+reproduced as under:
+(b)
+"unauthorised use of electricity " means the usage of electricity-
+(i)
+by any artificial means; or
+(ii)
+by a means not authorised by the concerned person or authority or licensee; or
+(iii)
+through a tampered meter; or
+(iv)
+for the purpose other than for which the usage of electricity was authorised; or
+(v)
+for the premises or areas other than those for which the supply of electricity was authorized.
+(iii)
+Exemption: Following activities shall not be considered as unauthorized use of electricity:
+(a)
+Where a consumer is billed on demand basis but the connected load exceeds the sanctioned load. In such cases one
+month notice is to be served by the Licensee indicating additional load to be regularised by the consumer.
+(b)
+Use of supply for a religious, social function or any other non-commercial activity by the consumer himself, not
+exceeding three days, in his own or adjoining premises, provided total operating load does not exceed the sanctioned
+load of the consumer.
+Procedure for booking a case of Unauthorized Use of Electricity
+(iv)
+The Licensee shall publish the list of Assessing officers, prominently in all the Offices and the Photo Identity Card issued
+to such officers shall indicate so.
+Page 21/29
+----- PAGE 22 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+(v)
+An Assessing officer, suo motu or on receipt of reliable information regarding unauthorized use of electricity shall
+promptly conduct inspection of such premises and shall be present at the time of conducting inspection of such
+premises.
+(vi)
+The inspection team of the Licensee, headed by such Assessing officer shall carry along with them their Visiting Cards
+and Photo Identity Cards. Photo Identity Card should be shown and Visiting Card handed over to the consumer before
+entering the premises.
+(vii)
+The Assessing officer shall prepare a report giving details such as connected load, condition of seals, working of meter
+and mention any irregularity noticed (such as, artificial means adopted for unauthorized use of electricity).
+(viii)
+The report shall clearly indicate whether sufficient evidence substantiating the fact that unauthorized use of electricity
+was found or not. The details of such evidence should be recorded in the report and the material utilised for the purpose
+shall be kept as a proof.
+(ix)
+The report shall be signed by the Assessing officer, each member of the inspection team and by the consumer, if the
+consumer fails to sign the report then the same has to be recorded in the inspection report and the report must be
+handed over to the consumer or his/her representative at site immediately under proper receipt. In case of refusal by the
+consumer or his/her representative to either accept or give a receipt, a copy of inspection report shall be pasted at a
+conspicuous place in/outside the premises and photographed. Simultaneously, the report shall be sent to the consumer
+under Registered Post/Speed post on the day or the next day of the inspection.
+(x)
+Within three working days of the date of inspection, the Assessing officer shall, analyze the case after carefully
+considering all the evidence including the consumption pattern, wherever available and the report of inspection. If it is
+concluded that no unauthorized use of electricity has taken place, no further action will be taken.
+Notice to consumer
+(xi)
+If the Assessing officer as per clause 15.7 (x) suspects that the unauthorized use of electricity has taken place, he shall
+serve a provisional assessment order assessed as per clause 15.7 (xx) and (xxi) of these Regulations alongwith show
+cause notice to the consumer, giving reasons as to why a case of unauthorized use of electricity should not be booked
+against such consumer. The show cause notice should clearly state the time, date and place at which the reply has to
+be submitted and the designation of the person to whom it should be addressed.
+(xii)
+The person, on whom an order has been served under clause 15.7 (xi) of these Regulations shall be entitled to file
+objections, if any, against the provisional assessment before the Assessing officer, who shall, after affording a
+reasonable opportunity of hearing to such person, pass a final order of assessment.
+(xiii)
+If the provisional assessment amount is deposited within seven days of the service of such provisional assessment
+order on the consumer, the reply to the notice shall not be necessary.
+Consumer's reply submission
+(xiv)
+The consumer shall submit his/ her reply within fifteen days of receipt of show cause notice to the concerned officer
+mentioned in clause 15.7 (xi) of these Regulations.
+(xv)
+In such cases where the consumer files objections against the provisional assessment order, the process of hearing
+shall be as per clause 15.7 (xvi) and
+(xvii)
+of these Regulations.
+Hearing
+(xvi)
+Page 22/29
+----- PAGE 23 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+Within five days from the date of submission of consumers' reply, the Licensee shall arrange a hearing with the
+consumer.
+(xvii)
+During the hearing, the Assessing officer shall give due consideration to the facts submitted by the consumer and pass,
+within five working days, a speaking order as to whether the case of unauthorized use of electricity is established or not.
+The order shall contain the brief of inspection report, submissions made by consumer in his written reply and oral
+submissions during hearing and reasons for acceptance or rejections of the same.
+Assessment
+(xviii)
+In cases where unauthorized use of electricity is not established based on consumer's reply submission / hearing,
+further proceedings shall be discontinued and case of unauthorized use of electricity shall be dropped immediately.
+(xix)
+Where it is established that there is a case of unauthorized use of electricity based on consumer's reply submission/
+hearing , the Assessing officer shall assess the energy consumption taking into consideration the following:
+(xx)
+The Assessing officer shall assess the energy consumption considering the following:
+(a)
+Period of assessment: If the Assessing officer reaches to the conclusion that unauthorised use of electricity has taken
+place, the assessment shall be made for the entire period during which such unauthorized use of electricity has taken
+place and if, however, the period during which such unauthorised use of electricity has taken place cannot be
+ascertained, such period shall be limited to a period of twelve (12) months immediately preceding the date of inspection.
+(b)
+Assessment charge: The assessment for the units assessed as per clause 15.7 (xxi) of these Regulations shall be made
+at a rate equal to twice (2 times) the tariff rates applicable for the consumer as per the latest Tariff order, excluding the
+consumption recorded by the meter or already billed during the assessment period at applicable tariffs.
+(c)
+If a consumer is found indulging in more than one act of unauthorized use of electricity, the charges payable by the
+consumer in respect of each such unauthorized use shall be separately assessed and billed accordingly.
+(xxi)
+The methodology for assessment of consumption for unauthorized use of electricity shall be as follows:
+Assessment shall be based on the data obtained from the meter (in case of electronic meter through MRI) and shall be
+given as:
+= (Average Monthly consumption for the Period of assessment (units)) x (Period of assessment (in months or fraction
+thereof), assessed as per clause 15.7 (xx) (a) of these Regulations)
+Provided the meter has been in working condition for at least nine months of the assessment period;
+Provided further that the connection of the consumer has been energized for at least nine months prior to the date of
+inspection for unauthorised use of electricity;
+If the above conditions are not satisfied then the assessment shall be as per the assessment formula given in clause 1.1
+of ANNEXURE-I to these Regulations.
+(xxii)
+The final assessment order shall be served on the consumer under proper receipt. The consumer shall be required to
+make the payment within seven days of its proper receipt. A copy of the speaking order shall also be handed over to the
+consumer under proper receipt.
+(xxiii)
+The order of final assessment shall be served upon the person in occupation or possession or in charge of the place or
+premises in such manner as prescribed by the State Government under section 126(2) of the Act.
+(xxiv)
+Any person served with the order of final assessment, may, accept such assessment and deposit the assessed amount
+with the Licensee within seven days of service of assessment order upon him.
+(xxv)
+In case of non-payment of bill amount within seven days of serving the final assessment order, the connection will be
+Page 23/29
+----- PAGE 24 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+disconnected by serving a fifteen days notice, which will not be reconnected until the assessed amount is deposited. In
+case of non-payment, the amount will be shown as arrear in the regular bill.
+(xxvi)
+When a person defaults in making payment of assessed amount, he, in addition to the assessed amount shall be liable
+to pay, on the expiry of thirty days from the date of order of assessment, an amount of interest at the rate of sixteen per
+cent, per annum compounded every six months.
+(xxvii)
+Appeal to Appellate Authority: Any person aggrieved by the final order served by the Assessing officer may, within 30
+days of the said order, prefer an appeal in such form, verified in such manner and be accompanied by such fee as
+specified by the Commission in the Jharkhand State Electricity Regulatory Commission (miscellaneous provision) Order,
+2003 and subsequent amendments, to an Appellate Authority.
+(xxviii)
+No appeal against an order of assessment under section (xxvii) above shall be entertained unless an amount equal to
+half of the assessed amount is deposited in cash or by way of bank draft with the licensee and documentary evidence of
+such deposit has been enclosed along with the appeal.
+(xxix)
+The Appellate Authority will dispose of the appeal after hearing the parties and pass appropriate order and send copy of
+the order to the Assessing officer and the appellant. The order of the Appellate Authority shall be final and shall not be
+appeal-able
+(xxx)
+The consumer will be served with a revised bill as per final order of the Appellate Authority to be paid in seven days.
+(xxxi)
+If a consumer defaults in making the payment within seven days of serving the final order of the Appellate Authority, the
+connection will be disconnected after serving a fifteen days notice which will not be reconnected until the bill amount is
+cleared. In case of non-payment, the amount will be indicated as arrear in regular bill and action will be taken for
+recovery.
+(xxxii)
+An interest of 16% per annum will be charged on the amount as per final order of the Appellate Authority after thirty days
+from the date of final order, compounded every six months as per section 127(6) of the Act.]
+[15.8 Method for assessment of electricity charges in case of theft of electricity. - (i). Whenever a case of theft of energy
+is detected, the Authorized officer shall carry out assessment, in accordance with the procedure as laid down in the
+sections below:
+Procedure for booking a case of theft of electricity
+(ii)
+The Licensee or supplier shall publish the list of the Authorized officers prominently in all the Offices and the Photo
+Identity Card issued to such officers shall indicate so.
+(iii)
+An Authorized officer, suo motu or on receipt of reliable information regarding theft of electricity shall promptly conduct
+inspection of such premises.
+(iv)
+The inspection team of the Licensee or supplier, headed by such Authorised officer shall carry along with them their
+Visiting Cards and Photo Identity Cards. Photo Identity Card should be shown and Visiting Card handed over to the
+consumer before entering the premises. Photo Identity Card of the Authorised Officer shall clearly indicate that he has
+been nominated as Authorized officer as per provisions of Section 135 of the Act.
+(v)
+The Authorised officer shall prepare a report giving details such as connected load, condition of meter seals, working of
+meter and mention any irregularity noticed (such as tampered meter, artificial means adopted for theft of energy).
+(vi)
+The report shall clearly indicate whether sufficient evidence substantiating the fact that theft of energy was found or not.
+The details of such evidence should be recorded in the report.
+(vii)
+Page 24/29
+----- PAGE 25 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+No case for theft shall be booked only on account of seals on the meter missing or tampered or breakage of glass
+window, unless corroborated by consumption pattern of consumer and such other evidence as may be available.
+(viii)
+In case sufficient evidence is found to establish direct theft of electricity, Licensee or Supplier as per Section 135
+sub-clause (1A) of the Act shall disconnect the supply and seize all material evidence including wires/cables, meter,
+service line etc., from the premises and shall lodge a complaint in writing relating to the commission of such offence in
+police station having jurisdiction within twenty four hours from the time of such disconnection. The Authorized officer of
+the Licensee or Supplier shall within two days from date of inspection, file a case against the consumer in designated
+Special Court as per the provisions of Section 135 of the Act. Copy of filing shall be served on the consumer under
+proper receipt within two days of such filing.
+(ix)
+The Authorized officer shall assess the energy consumption as per the assessment formula given in ANNEXURE-I to
+these Regulations, for the entire period during which such theft of electricity has taken place and if, however, the period
+during which such theft of electricity has taken place can not be ascertained, such period shall be limited to 12 (twelve)
+months immediately preceding the date of inspection and prepare assessment order on twice (2) the rates as per
+applicable tariff and serve on the person under proper receipt.
+In case of a regular metered connection, where a case of theft of electricity is detected, units allowed to be recorded in
+the meter for which bills have been raised by the licensee to the person during the period, for which the assessment is
+made, shall be duly credited to the consumer.
+(x)
+In case of suspected theft, the Authorised officer shall remove the old meter under a seizure memo and seal it in the
+presence of the consumer/ his representative and the Authorised officer and the consumer have to sign on the seal
+borne on the meter. The Licensee or supplier shall continue the supply to the consumer with a new meter. The old meter
+shall be tested in the presence of the consumer and the Authorised officer at a third party facility approved by the
+Commission which shall give a test report, in writing, which alongwith photographs/ videographs shall constitute
+evidence thereof. The Authorised officer shall record reasons to suspect theft in the premises in his report.
+(xi)
+The report shall be signed by the Authorized officer and each member of the inspection team and the same must be
+handed over to the consumer or his/her representative at site immediately under proper receipt. In case of refusal by the
+consumer or his/her representative to either accept or give a receipt, a copy of inspection report must be pasted at a
+conspicuous place in/outside the premises and photographed. Simultaneously, the report shall be sent to the consumer
+under Registered Post/Speed Post on the day or the next day of the inspection.
+Provided that, in case of suspected theft, if the consumption pattern for last one year is reasonably uniform and is not
+less than 75% of the assessed consumption, no further proceedings shall be taken and the decision shall be
+communicated to the consumer under proper receipt within three days and connection shall be restored through original
+meter.
+(xii)
+After detailed examination of the evidence and the consumption pattern of the consumer, if the Licensee or supplier is
+convinced that a prima-facie case is made out for the abstraction, consumption or use of electricity dishonestly against
+the consumer, the Licensee or supplier shall, within seven days of inspection, serve a provisional assessment order
+assessed as per clause 15.8
+(xxi)
+of these Regulations alongwith show cause notice to the consumer,giving reasons, as to why a case of theft should not
+be booked against such consumer giving full details for arriving at such decision and points on which reply has to be
+submitted. The notice should clearly state the time, date and place at which the reply has to be submitted and the
+designation of the person to whom it should be addressed.
+(xiii)
+Incase show cause notice is not served even after thirty days from date of inspection by the Licensee or supplier, the
+case of suspected theft shall be considered as dropped and no further action can be initiated against the consumer.
+(xiv)
+Theft shall not be limited to physical interference with the meter found during physical inspection. It shall also include
+Page 25/29
+----- PAGE 26 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+theft committed by resorting to external methods such as remote control/ high voltage injection etc. which interfere with
+the accurate registration of energy consumed. Theft of electricity may be established by analysis of metering data
+down-loaded by a third party facility approved by the Commission. In case theft of energy is determined by way of meter
+down load, the provisional assessment order assessed as per clause 15.8 (xxi) of these Regulations alongwith show
+cause notice will be sent to the consumer/user. The notice should clearly state the time, date and place at which the
+reply has to be submitted and the designation of the person to whom it should be addressed.
+(xv)
+The person, on whom an order has been served under clause 15.8 (xii) and
+(xiv)
+of these Regulations shall be entitled to file objections, if any, against the provisional assessment before the Authorized
+officer, who shall, after affording a reasonable opportunity of hearing to such person, pass a final order of assessment.
+Consumer's reply submission
+(xvi)
+The consumer shall submit his/ her reply within fifteen days of receipt of show cause notice to the concerned officer
+mentioned in clause 15.8 (xii) and (xiv) of these Regulations.
+(xvii)
+In such cases where the consumer files objections against the provisional assessment order, the process of hearing
+shall be as per clause 15.8 (xviii) and
+(xix)
+of these Regulations.
+Hearing in case of suspected theft
+(xviii)
+Within five days from the date of submission of consumers' reply, the Licensee or supplier shall arrange a hearing with
+the consumer. The consumer may be given another opportunity in case he fails to appear for the hearing. In case, the
+consumer fails to appear for the second time, the Licensee may proceed against the consumer.
+(xix)
+During the hearing, the Authorized officer shall give due consideration to the facts submitted by the consumer and pass,
+within five working days, a speaking order as to whether the case of theft is established or not. The order shall contain
+the brief of inspection report, submissions made by consumer in his written reply and oral submissions during hearing
+and reasons for acceptance or rejections of the same.
+Assessment
+(xx)
+In case of the decision based on the consumer's reply / hearing wherein the case of theft is not established, no further
+proceedings shall be required and electricity connection shall be restored through original meter.
+(xxi)
+Where it is established that there is a case of theft of energy based on the consumer's reply / hearing, the Authorized
+officer shall assess the energy consumption as per the assessment formula given in ANNEXURE-I to these Regulations,
+for the entire period during which such theft of electricity has taken place and if, however, the period during which such
+theft of electricity has taken place can not be ascertained, such period shall be limited to 12 (twelve) months immediately
+preceding the date of inspection and prepare assessment order on twice (2) the rates as per applicable tariff and serve
+on the person under proper receipt.
+In case of a regular metered connection, where a case of theft of electricity is detected, units allowed to be recorded in
+the meter for which bills have been raised by the licensee to the person during the period, for which the assessment is
+made, shall be duly credited to the consumer.
+(xxii)
+The consumer shall be required to make the payment within seven days of its proper receipt.
+(xxiii)
+The Licensee or supplier, as the case may be, on deposit or payment of the assessed amount or electricity charges in
+accordance with the provision of these regulations, shall, without prejudice to the obligation to lodge the complaint as
+referred to in the second proviso to the clause 13(A) (1A) of the Electricity (Amendment) Act, 2007, restore the supply
+line of electricity within forty eight hours of such deposit or payment.
+Page 26/29
+----- PAGE 27 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+(xxiv)
+If the person does not make payment within the stipulated time, the Licensee or supplier shall proceed to recover its
+dues against the assessment order.
+(xxv)
+In all cases where theft of electricity has been detected, the Licensee or supplier shall file the case with Appropriate
+Court for decision in the matter unless the offence is compounded under Section 152 of the Act.
+(xxvi)
+In case of default by the person in payment of assessed amount, the person, in addition to the assessed amount, shall
+be liable to pay, on expiry of thirty days from the date of order of assessment, an amount of interest at the rate of sixteen
+per cent per annum compounded every six months pending adjudication by Appropriate Court.]
+Chapter 16
+16.
+Wiring of Consumer Premises.
+- 16.1 The work of electrical wiring and electrical installation at the consumer premises beyond the point of supply shall
+be carried out by the consumer and shall conform to the standards and specifications as prescribed in Indian Electricity
+Rules 1956 until the rules and regulations for the same are notified under the provisions of the Act.
+Chapter 17
+17.
+Schedule of Charges.
+- 17.1 Every Distribution licensee including the deemed licensee shall within three (3) months from the date of
+notification of these regulations or within three(3) months of the grant of licensee, which ever is later, file with the
+Commission for approval, a Schedule of Charges for matters contained in these Regulations and for such other matters
+required by the Distribution Licensee to fulfill his obligations to supply electricity to the consumers under the Act or rules
+and regulations there under.
+Provided that the Distribution licensee shall file the Schedule of Charges along with every application for determination
+of tariff under Section 64 of the Act together with such particulars as Commission may require.
+17.2
+The Commission shall after examining the schedule of charges filed by the licensee and after considering the views of
+all interested parties issue an order granting its approval thereon with such modifications, alterations or such conditions
+as may be specified in that order.
+Provided that the schedule of charges approved by the Commission shall unless and otherwise amended or revoked,
+continue to be in force.
+17.3
+The existing Schedule of Charges of the Distribution Licensee shall continue to be in force until such time as the
+schedule of charges submitted by the Distribution Licensee under Clause 17.1of these Regulations is approved by the
+Commission.
+Chapter 18
+18.
+Service of Notice.
+- 18.1 Any order/ notice to the consumer by the licensee including the notice under Section 56 of the Electricity Act,
+2003 shall be deemed to be duly served by the licensee if it is:
+(a)
+Sent by registered post, under certificate of posting, by courier, or other similar means, or
+(b)
+Delivered by hand to the person residing at the address notified to the licensee by the consumer, or
+(c)
+Affixed at a conspicuous part of such premises in case there is no person, to whom the same can with reasonable
+diligence, be delivered.
+Chapter 19
+19.
+Information to Consumers.
+Page 27/29
+----- PAGE 28 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+- It shall be duty of the Distribution Licensee to Supply Copy the following.
+(a)
+The Electricity Supply Code Regulations.
+(b)
+Standards of Performance of Distribution Licensee.
+(c)
+Tariff and schedule of charges approved by the Commission.
+(d)
+Application Forms for connection, reconnection, etc.
+(e)
+Consumer complaints handling rules and procedures of the Distribution Licensee.
+(f)
+Safety rules and precautions.
+(i)
+To each applicant for new connection along with the application form
+(ii)
+To the consumer upon request upon payment of reasonable price approved by the Commission.
+(iii)
+By making of available on website of the licensee in downloadable format.
+Chapter 20
+20.
+Saving & Interpretation.
+- These Regulations shall be read and construed in all respects as being subject to the provisions of the Electricity Act
+2003, and nothing herein above contained in these Regulations shall affect, abridge or prejudice the rights of the
+Licensee and the consumer under any other Law for the line being in force including the consumer protections Act,
+1986.
+Chapter 21
+21.
+Powers to remove difficulties.
+- If any difficulty arises in giving effect to any of the provisions of these Regulations, the Commission may be general or
+special order, direct the Distribution Licensee, the Forum and the Ombudsman to take suitable Action, not being
+inconsistent with the Electricity Act, 2003, which appears to the Commission to be necessary or expedient for the
+purpose of removing difficulties.
+Power to amend:-
+The Commission may, at any time vary, alter, modify or amend any provision of these Regulations.
+[ANNEXURE-I
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 501 Dated - 01/09/2010.]
+]
+Assessment of energy in cases of theft
+1.1
+The assessment formula for calculation of the consumption due to theft of electricity shall be as under:-
+Units assessed = L x D x H x F
+Where,
+L is load (Connected load found in the consumer's premises during the course of inspection) in kW;
+D is the period of assessment in days;
+H is the average number of hours per day of power supply made available in the distribution mains feeding the
+consumer. It will be based on hours of supply recorded in the meter of the consumer/ check meter of the consumer
+/meter of the distribution transformer, supplying power to the assessee/ meter on the feeder installed in the power
+sub-station, supplying power to the assessee/ records available in the power sub-station or grid sub-station;
+F is load factor, which shall be taken for different categories of use as given below:
+S. No.
+Page 28/29
+----- PAGE 29 -----
+Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations 20...
+Particulars
+Load factor (%)
+1
+HT (including load above 75 kW for non domestic
+and above107 HP or 100 kVA for industries on LT)
+100.00%
+2
+LT Industrial(107 HP or 100 kVA)
+75.00%
+3
+Non- domestic (upto 75kW)
+50.00%
+4
+Domestic (upto 75 kW)
+40.00%
+5
+Domestic HT (including load above 75kW on LT)
+40.00%
+6
+Agriculture
+50.00%
+7
+Water supply
+50.00%
+8
+Street light
+50.00%
+9
+Direct theft - All categories
+100.00%
+Assessment of energy in case of temporary connection
+1.2
+In the case of temporary connection, the assessment of units consumed for theft of electricity shall be done as under:
+Units assessed = L x D x H
+Where,
+L = Load (found connected at the time of inspection) in kW;
+D = Period of assessment in days; and
+H = 6 hours for agriculture connections and 12 hours for others.
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 501 Dated - 01/09/2010.]
+[As per Amendment issued by Jharkhand State Gazette Notification No.- 501 Dated - 01/09/2010.]
+Related AI tags, queries and research notes
+Translation
+Page 29/29

@@ -1,0 +1,202 @@
+
+----- PAGE 1 -----
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme, 2003
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme,
+2003
+Source: https://indiankanoon.org/doc/131048087/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme, 2003
+UNION OF INDIA
+India
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme, 2003
+Rule ELECTRONIC-FILING-OF-RETURNS-OF-TAX-DEDUCTED-AT-SOURCE-SCHEME-2003 of 2003
+Published on 26 August 2003
+Commenced on 26 August 2003
+[This is the version of this document from 26 August 2003.]
+[Note: The original publication document is not available and this content could not be verified.]
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme, 2003
+Published vide Notification Gazette of India, Extra, Part 2, Section 3(ii), dated 26.8.2003
+1612.
+S.O. 974 (E), dated 26.8.2003.- In exercise of the powers conferred by sub-section (2) of section 206 of the Income-tax
+Act, 1961 (43 of 1961), the Central Board of Direct Taxes hereby specifies the following Scheme for electronic filing of
+return of tax deducted at source, namely:-
+1.
+Short title, commencement and application.-
+(1)
+Page 1/4
+----- PAGE 2 -----
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme, 2003
+This Scheme may be called the "Electronic Filing of Returns of Tax Deducted at Source Scheme, 2003".
+(2)
+It shall come into force on the date of its publication in the Official Gazette.
+(3)
+It shall be applicable to all persons filing returns of tax deducted at source on computer media under sub-section (2) of
+section 206 of the Income-tax Act, 1961.
+2.
+Definitions.-
+In this Scheme, unless the context otherwise requires,-
+(1)
+"Act" means the Income-tax Act, 1961 (43 of 1961);
+(2)
+"Board" means the Central Board of Direct Taxes constituted under the Central Board of Revenues Act, 1963 (
+54 of 1963
+);
+(3)
+"computer media" means a floppy (3 ½ inch and 1.44 MB capacity) or CD-ROM, and includes on-line data transmission
+of electronic data to a server designated by e-filing Administrator for this purpose;
+(4)
+"e-deductor" means the person responsible for deduction of tax at source who is required to furnish e-TDS Return under
+this scheme;
+(5)
+"e-filing Administrator" means an officer not below the rank of Commissioner of Income-tax designated by the Board for
+the purpose of administration of this scheme;
+(6)
+"e-TDS Intermediary" means a person, being a company, authorised by the Board to act as e-TDS Intermediary under
+this scheme;
+(7)
+"e-TDS Return" means a return to be filed under section 206 of the Act duly supported by a declaration in Form No. 27A
+as prescribed under the Rules;
+(8)
+"Rules" means the Income-tax Rules, 1962;
+(9)
+All other words and expressions used herein but not defined and defined in the Act shall have the meanings respectively
+assigned to them in the Act.
+3.
+Preparation of e-TDS Return.-
+(1)
+The e-deductor shall use the relevant Forms prescribed under the Rules for preparing e-TDS Returns.
+(2)
+The e-deductor shall prepare his e-TDS Return according to the data structure to be provided by the e-filing
+Administrator.
+(3)
+While preparing e-TDS Return, the e-deductor shall quote his permanent account number and tax deduction account
+number as also the permanent account number of all persons in respect of whom tax has been deducted by him except
+in respect of cases to which the first proviso to sub-section (5A) or the second proviso to sub-section (5B) of section
+139A of the Act applies.
+(4)
+The e-deductor shall ensure that all columns of the Forms of the return for tax deduction at source, prescribed under the
+Rules, are duly and correctly filled in.
+(5)
+Page 2/4
+----- PAGE 3 -----
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme, 2003
+Each computer media used for preparation of the e-TDS Return shall be affixed with a label indicating name, permanent
+account number, tax deduction account number and address of the e-deductor, the period to which the return pertains,
+the Form Number of the return and the volume number of the said media in case more than one volume of such media
+is used.
+(6)
+Separate computer media shall be used for each Form of e-TDS Return by the e-deductor.
+4.
+Furnishing of e-TDS Return.-
+(1)
+The e-deductor shall furnish e-TDS Return on computer media to the e-TDS Intermediary duly supported by a
+declaration in Form No.27A, as prescribed in the Rules, in paper format:
+Provided that in case any compression software has been used by the e-deductor for preparing the e-TDS Return, he
+shall also furnish such compression software alongwith the e-TDS Return on the same computer media.
+(2)
+In case the e-deductor has on-line connectivity with the server of the e-TDS Intermediary, as may be designated by
+e-filing Administrator for this purpose, he may transmit the electronic data of the e-TDS Return directly to such server
+and send Form No. 27A on paper format separately to the e-TDS Intermediary.
+5.
+Procedure to be followed by e-TDS intermediary.-
+(1)
+The e-TDS Intermediary shall receive the e-TDS Return from edeductors alongwith the declaration in Form No. 27A in
+paper format.
+(2)
+The e-TDS Intermediary shall perform format level validation and control checks on the e-TDS Returns received by him
+and on successful completion of the same, the e-filing Administrator shall issue provisional receipt to the e-deductor.
+(3)
+The e-TDS Intermediary shall upload the data on e-TDS Return on the server designated by the e-filing Administrator for
+the purpose of e-TDS Return and check whether the prescribed particulars relating to deposit of the tax deducted at
+source in bank and the permanent account number of the deductee have been given in the e-TDS Return.
+(4)
+On successful completion of the check, the data of e-TDS Return shall be transmitted by the e-TDS Intermediary to the
+e-filing Administrator together with the declaration in Form No.27A and the provisional receipt issued shall be deemed to
+be the acknowledgement of the e-TDS Return.
+(5)
+Where the details of deposit of tax deducted at source in bank, the permanent account number, tax deduction account
+number or any other relevant details are not given in the e-TDS Return, the e-filing Administrator shall forward a
+deficiency memo to the e-deductor with a request to remove the deficiencies within seven days of receipt of the same.
+(6)
+In case the deficiency indicated in the deficiency memo is removed within seven days, the data on e-TDS Return shall
+be transmitted by the e-TDS Intermediary to the e-filing Administrator and the provisional receipt shall be deemed to be
+acknowledgement of the e-TDS Return. The date of issue of provisional receipt shall be deemed to be the date of filing
+of the e-TDS Return.
+(7)
+In case no deficiency memo is issued by the e-filing Administrator within thirty days of issue of the provisional receipt,
+the provisional receipt issued shall be deemed to be the acknowledgement of the e-TDS Return and the date of issue of
+provisional receipt shall be deemed to be the date of filing of e-TDS Return.
+(8)
+Where the deficiencies indicated in the deficiency memo are not removed by the e-deductor within seven days, the
+e-TDS Intermediary shall communicate the same to the e-filing Administrator and transmit the data to the e-filing
+Administrator whereupon Assessing Officer may take action for declaring the return as an invalid return after giving due
+opportunity to the deductor as required under sub-section (4) of section 206 of the Act.
+Page 3/4
+----- PAGE 4 -----
+Electronic Filing Of Returns Of Tax Deducted At Source Scheme, 2003
+(9)
+In case the defects intimated by the Assessing Officer are rectified within the period of fifteen days or such further period
+as may be allowed by the Assessing Officer, the date of issue of provisional receipt shall be deemed to be the date of
+filing of e-TDS Return.
+6.
+General responsibilities of e-TDS Intermediary.-
+(1)
+The e-TDS Intermediary shall ensure accurate transmission of the e-TDS Return to the e-filing Administrator:
+Provided that the e-TDS Intermediary shall not be responsible for any errors or omissions in the return of tax deducted
+at source prepared by the e-deductor.
+(2)
+The e-TDS Intermediary shall retain for a period of one year from the end of the relevant financial year in which the
+return is required to be filed, the electronic data of the TDS Return in the format as specified by the e-filing
+Administrator.
+(3)
+The e-TDS Intermediary shall retain for a period of one year from the end of the relevant financial year in which the
+return is required to be filed, the information relating to deficiency memo and provisional receipts issued in respect of the
+returns filed through it.
+(4)
+The e-TDS Intermediary shall ensure confidentiality of information that comes to his possession during the course of
+implementation of this scheme, save with the permission of the e-deductor, Assessing Officer or e-filing Administrator.
+(5)
+The e-TDS Intermediary shall ensure that all his employees, agents, franchisees, etc., adhere to all provisions of this
+scheme as well as all directions issued by the e-filing Administrator.
+7.
+Powers of e-filing Administrator.-
+Without affecting the generality of the foregoing provisions, the e-filing Administrator shall-
+(1)
+specify the procedures, data structures, formats and standards for ensuring secure capture and transmission of data, for
+the day to day administration of this scheme;
+(2)
+ensure compliance by e-TDS Intermediary with the technical requirements of this scheme, including review of the
+functioning of e-return Intermediary, verification of any complaints, scrutinising advertising material issued by them and
+such other matters as he deems fit.
+8.
+Powers of the Board.-
+The Board may revoke the authorisation of an e-filing Intermediary on grounds of improper conduct, misrepresentation,
+unethical practices, fraud or established lack of service to the e-deductors or such other ground as it may deem fit.
+Related AI tags, queries and research notes
+Translation
+Page 4/4

@@ -1,0 +1,424 @@
+
+----- PAGE 1 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+International Financial Services Centres Authority (Management
+Control, Administrative Control and Market Conduct of insurance
+business) Regulations, 2023
+Source: https://indiankanoon.org/doc/44389915/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+International Financial Services Centres Authority (Management Control, Administrative Control and Market Conduct of
+insurance business) Regulations, 2023
+UNION OF INDIA
+India
+International Financial Services Centres Authority (Management Control, Administrative Control and Market Conduct of
+insurance business) Regulations, 2023
+Regulation IFSCA-2022-23-GN-REG035 of 2023
+Published on 3 May 2023
+Not commenced
+[This is the version of this document from 3 May 2023.]
+[Note: The original publication document is not available and this content could not be verified.]
+In exercise of the powers conferred by Section 28 read with Sections 12 and 13 of the International Financial Services
+Centres Authority Act, 2019, and clause (zd) of sub-section (2) of Section 114A of the Insurance Act, 1938,the
+International Financial Services Centres Authority hereby makes the following regulations, namely -
+Chapter I General
+1.
+Page 1/8
+----- PAGE 2 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+Short title, commencement and applicability.
+(1) These regulations may be called the International Financial Services Centres Authority (Management Control,
+Administrative Control and Market Conduct of insurance business) Regulations, 2023.
+(2) They shall come into force on the date of their publication in the Official Gazette.
+(3) These regulations shall be applicable to all International Financial Services Centres Insurance Offices (IIOs), and
+also to the International Insurance Intermediary Offices (IIIOs), to the extent specified hereunder.
+2.
+Objective.
+These regulations aim to put in place the regulatory framework related to Management Control, Administrative Control
+and Market Conduct of insurance business carried out by an IIO or IIIO.
+3.
+Definitions
+(1) In these regulations, unless the context otherwise requires -
+(a)
+'Act'
+means the International Financial Services Centres Authority Act, 2019 (50 of 2019);
+(b)
+'Authority'
+or
+'IFSCA'
+means the International Financial Services Centres Authority established under sub-section (1) of Section 4 of the Act;
+(c)
+'benefits'
+refers to any promise or payment of incentive, direct or indirect, or both, in the nature of commissions, compensations,
+coupons, incentives, performance-based bonuses, rewards, remunerations, stock options, gratuity, insurance protection,
+cost of setting up infrastructure, competition prizes etc. and includes any other payment or incentive of similar nature;
+(d)
+'Board'
+means the board of directors of an IIO; or the Board of the Parent Entity of an IIO, in case the IIO is in an unincorporated
+form;
+(e)
+'capital'
+means the capital of an IIO, and includes equity share capital, preference share capital and subordinated debt;
+(f)
+'commission'
+means any benefit payable to an insurance agent, intermediary or insurance intermediary in consideration of availing
+their services in relation to solicitation, procurement, retention or conversion of insurance policies;
+(g)
+'control'
+means and include the right to appoint majority of the directors or to control the management or policy decisions
+exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their
+shareholding or management rights or shareholders agreements or voting agreements or in any other manner;
+(h)
+'confidential information'
+-
+(i) in relation to a foreign entity, means the information obtained from a foreign entity that cannot be made available in
+public domain regarding which the concerned foreign entity has requested that secrecy be maintained either explicitly or
+under any agreement or Memorandum of Understanding to which both the foreign entity and the Authority are
+signatories,
+(ii) in relation to domestic entity, means the information defined as such in the applicable domestic laws;
+(i)
+Page 2/8
+----- PAGE 3 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+'custodian of information'
+shall mean an officer, not below the rank of Deputy General Manager, of the Authority in whose custody the confidential
+information is kept;
+(j)
+'domestic entity'
+for the purposes of these regulations shall mean an entity registered with the Authority for carrying out insurance or
+re-insurance business in an International Financial Services Centre;
+(k)
+'expenses of management'
+or
+'EoM'
+includes all operating expenses such as commission, remuneration payable to the insurance agents, intermediaries or
+insurance intermediaries; Explanation: charges against profit such as income tax, wealth tax, service tax and other taxes
+borne by the IIO shall not form part of EoM;
+(l)
+'Foreign entity'
+means an entity incorporated and registered outside India and includes a foreign financial regulatory authority;
+(m)
+'information'
+-
+(i) in relation to aforeign entity, means information in any material form relating to a foreign authority being a foreign
+financial regulatory authority and/or information relating to any other foreign financial entity;
+(ii) in relation to a domestic entity,shall be as defined in Section 2 (f) of The Right to Information Act 2005;
+(n)
+'regulated entity'
+means an entity registered with the Authority for carrying insurance or reinsurance business in the International
+Financial Services Centre and includes an entity which has applied for carrying out insurance or re-insurance business
+in the International Financial Services Centre;
+(o)
+'requesting authority'
+means the authority making request to other authority for information under these regulations;
+(p)
+'requested authority'
+means the authority to whom request for information is made under these regulations;
+(q)
+'subordinated debt'
+for the purposes of these regulations means "Debenture" as defined in Section 2(30) of the Companies Act, 2013 and
+includes any other debt instrument permitted by the Authority.
+(2) Words and expressions used and not defined in these regulations but defined in the Act or Acts mentioned in the
+First Schedule to the Act or any rules, regulations or notifications made thereunder, shall have the same meanings
+respectively assigned to them in those Acts, rules or regulations or any statutory modification or re-enactment thereto,
+as the case may be.
+Chapter II Change in Shareholding Pattern and Management Control
+4.
+The provisions of this Chapter shall not be applicable to an IIO set up in an unincorporated form;
+Provided that the Parent Entity of such IIO shall immediately notify the Authority about the changes, if any, in its
+Shareholding Pattern or Management Control;
+Provided further that the Parent Entity of such IIO shall ensure that the undertakings given to the Authority regarding
+maintenance of assigned capital or solvency margin and for meeting all liabilities arising out of insurance or re-insurance
+business carried out by such IIO, shall continue to remain valid even after change in shareholding pattern or
+management control.
+Page 3/8
+----- PAGE 4 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+5.
+An IIO shall endeavour to prevent any entity from exercising control over it, directly or indirectly, by acquiring significant
+ownership or interest in the IIO, through portfolio transfers,leading to change in shareholding pattern.
+6.
+In case of any proposed change in shareholding pattern or management control, an IIO shall-
+(1) inform the Authority of the proposal that could lead to change in control;
+(2) not issue and allot capital in any form, without obtaining prior approval of the Authority;
+(3) inform the Authority about proposed change of portfolios;
+Provided that in case the proposed change is beyond the limit specified by the Authority, prior approval from the
+Authority shall be obtained by the IIO.
+(4) ensure that the proposed changes in portfolio, shareholding pattern or management control do not affect the seniority
+of claims;
+(5) ensure seniority of the claims in the following order of priority:
+(a) policyholders,
+(b) creditors,
+(c) subordinated debt holders,
+(d) preference shareholders, and
+(e) equity shareholders.
+(6) not guarantee any instrument which may affect seniority of claims;
+(7) not pay dividends on Preference Shares, or pay interest on any Subordinated Debt, without prior approval of the
+Authority, where -
+(a) the solvency ratio is below the minimum Control Level of Solvency, as specified by the Authority;
+(b) the impact of such accrual/ payment would result in the Control Level of Solvency falling or remaining below the
+specified regulatory requirement; or
+(c) payment of dividend or interest (including accrued interest) would result in net loss or increase the net loss.
+(8) provide complete details to the Authority in advance, about the shareholders or any other entities which may be
+eligible for compensation due to portfolio transfer or change in control;
+7.
+The Authority may specify the hair-cut norms on different type of instruments for the purposes of computing 'Available
+Solvency Margin';
+8.
+The Authority may issue guidelines in relation to issuance and allocation of capital of the IIOs;
+9.
+In case of a merger, amalgamation or transfer involving an IIO, such IIO shall obtain prior approval of the Authority and
+shall also ensure that
+(a) the available solvency margin of the proposed merged entity will not be lower than the required solvency margin;
+(b) the scheme is compliant with all applicable laws and regulations; and
+(c) the scheme does not compromise on the best interests of the policyholders.
+Chapter III Internal Administrative Controls
+10.
+Expenses of Management.
+(1) Every IIO shall formulate a policy, duly approved by its Board, for allocation of direct expenses and apportionment of
+indirect expenses of management under respective insurance segments;
+(2) Such policy shall, inter-alia, include the following -
+(a) the expenses that shall be allocated and the basis thereof;
+(b) the expenses which shall be apportioned and the basis thereof;
+(c) the expenses of acquisition and renewal of policies, and the manner of such allocation and / or apportionment; and
+(d) the manner in which the Policy shall be implemented and adhered to.
+(3) The approved policy on expenses of management shall be submitted to the Authority, as and when directed by it.
+(4) The Authority may specify the manner and form for submission of details of expenses of management.
+Provided that an IIO in an unincorporated form, may adopt Board approved policy of its parent entity, if the standards
+Page 4/8
+----- PAGE 5 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+specified under these regulations are covered thereunder.
+11.
+Payment of Commissions.
+(1) Every IIO shall formulate a policy, duly approved by its Board, for payment of commissions to insurance agents,
+intermediary or insurance intermediary.
+(2) Such policy shall consider the interests of policyholders and inter-alia include the following -
+(a) specify the services that qualify for commissions and/ or incentives, including the minimum and maximum
+entitlements payable to the insurance agents, intermediaries or insurance intermediaries; and
+(b) cost efficiency measures.
+(3) The payment of commission shall be commensurate with policy on expenses of management of the IIO;
+(4) The approved policy on payment of commission shall be submitted to the Authority, as and when directed by it;
+(5) Every IIO shall also comply with other requirements as may be specified by the Authority in this regard.
+12.
+Places of Business.
+(1) Every IIO shall formulate a policy, duly approved by its Board,for procedures to be followed for opening or closing of
+a place of business;
+(2) Every IIO shall obtain prior approval of the Authority before opening or closing of a place of business;
+(3) Every IIO, while closing a place of business, shall mitigate the risks involved on account of such closure, including
+but not limited to, providing alternate facilities to existing policyholders ensuring uninterrupted access to insurance
+services, as well as servicing of their claims.
+13.
+Outsourcing of Activities.
+(1) Every IIO shall ensure -
+(a) that it follows prudent practices on management of risks arising out of outsourcing with a view to preventing negative
+systemic impact and to protect the interests of the policyholders;
+(b) that sound and responsive management practices are followed for effective oversight and adequate due diligence is
+maintained while outsourcing the activities;
+(c) the privacy of data in respect of all policyholders.
+(2) Every IIO shall, prior to sharing of data related to policyholders, either execute a non-disclosure agreement (NDA)
+with the outsourcing agency or include relevant clauses of NDA in the service level agreement executed with such
+agency.
+(3) Every IIO shall comply with other requirements regarding outsourcing arrangements, as may be specified by the
+Authority.
+14.
+Sharing of confidential information concerning domestic or foreign entity.
+(1) Disclosure of information related to a regulated entity shall be subject to the following -
+(a) The disclosure of information can be made only on receipt of a written request from the requesting authority for the
+sole purpose of the lawful performance of its duties;
+(b) The IFSCA shall appoint an official as Custodian of Information to preserve, protect and maintain the confidentiality
+of information received from requested authority;
+(c) Where IFSCA has received confidential information from a requested authority and such information is sought from
+IFSCA under a legally enforceable request, the IFSCA will notify and seek consent of such requested authority prior to
+sharing such information;
+(d) In case the requested authority does not give consent for sharing of such information, the IFSCA shall use all
+reasonable legal means to resist such a demand to protect the confidentiality of the information;
+(e) All present and past employees and agents of the IFSCA having access to confidential information, received either
+from a requested authority or a regulated entity,in the course of their duties while working with the IFSCA, shall be
+bound by an obligation of professional secrecy;
+(f) The IFSCA may specify additional requirements, obligations and procedures for maintenance of confidentiality of
+information received from regulated entities or any requested authority.
+(2) The information that can be sought under section 20 of the Insurance Act, 1938 is non-commercial and largely in
+Page 5/8
+----- PAGE 6 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+public domain. All requests under this provision shall be examined to ensure that no information which may affects
+competition or stability of the regulated entities or the insurance industry, are shared.
+(3) Information sought for carrying our statutory and regulatory purposes by -
+(a) domestic regulators, including the regulators mentioned in column (2) of the First Schedule of the Act,
+(b) International supervisors and agencies;
+(c) various public authorities, Government of India, Judiciary, law enforcement agencies in the lawful performance of
+their functions, shall be individually examined to assess whether it is (a) sharable information; or (b) non sharable
+information.
+(4) The assessment on shareability of the information not available in the public domain would be guided by the
+following broad consideration -
+(a) convincing reason for the request made - whether such reasons are to assist the lawful performance of the duties of
+such authorities;
+(b) nature of information sought (not proprietary);
+(c) maintenance of confidentiality of the information sought; and
+(d) reciprocity of the request made.
+(5) (i) Each request for information under these regulations shall be considered on its merit.
+(ii) While taking a decision on whether to share the information sought regarding an entity or not, the IFSCA shall be
+guided by the following principles-
+(a) whether the information sought is confidential and is likely to adversely affect the entity, commercially or otherwise;
+or
+(b) whether the information sought could be used by the competitors of the entity for their gain.
+(6) The requested authority may not share any information which in its opinion could possibly impact the stability of its
+regulated entity or the insurance industry.
+(7) In the event of any inconsistency between any clause or clauses of this regulation and the obligations cast on the
+IFSCA under the Multilateral Memorandum of Understanding with International Association of Insurance Supervisors,
+the latter shall prevail to the extent of such inconsistency.
+Chapter IV Market Conduct
+15.
+Distribution of Surplus to Policyholders.
+(1) Every IIO permitted to transact life insurance business shall separately maintain -
+(a) a life insurance fund for participating policy holders; and
+(b) a life insurance fund for non-participating policy holders;
+(2) Every IIO permitted to transact life insurance business shall have a Board approved policy regarding Distribution of
+Surplus to Policyholders of Participating or Non-Participating Policies;
+(3) Every IIO shall disclose the relevant provisions in this regard to the policyholders as well as make provisions for the
+same in their book of accounts;
+(4) Every IIO shall submit the approved policy on distribution of surplus to the policyholders to the Authority, as and
+when directed by it.
+16.
+Acquisition of Surrender and Paid-up Values of Life Insurance Policies.
+(1) Every IIO permitted to transact life insurance business, shall disclose to the policyholders about the conditions under
+which a Life Insurance Policy would acquire a Surrender Value, and the formula to be used for computing the Surrender
+Value from the Paid-Up Value.
+(2) Every IIO shall maintain provisions for making timely payments of Surrender Value of Linked and Non-Linked Life
+Insurance policies based on the Paid-up Values.
+17.
+Minimum Limits for Annuities and other Benefits.
+(1) Every IIO permitted to transact life insurance business and dealing with pension and annuities product, shall design
+such products in such a way that it addresses the actual need of the policyholder and should not be merely symbolic;
+(2) An IIO dealing with pension and annuities products shall not pay or undertake to pay amounts less than the amount
+as may be specified by the Authority.
+Page 6/8
+----- PAGE 7 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+18.
+Advertisements.
+(1) Every IIO and IIIO, as the case may be, shall adopt fair, honest and transparent practices while issuing
+advertisements and avoid practices that tend to impair the confidence of the general public;
+(2) All advertisements issued by an IIO and IIIO, as the case may be, through any mode or medium shall -
+(a) be relevant, fair and be in simple language, enabling informed decision making by prospect;
+(b) contain truthful and honest representation;
+(c) contain accurate data and be capable of substantiation;
+(d) ensure that the advertisement is in compliance with all applicable advertisement standards and relevant laws in
+India.
+(3) An IIO and IIIO, as the case may be, shall be responsible for the accuracy of the communications in all forms of
+advertisements issued on its behalf;
+(4) An IIO shall ensure that policy issued to the policyholder is in conformity with the advertisements issued on its behalf.
+19.
+Policyholders' Protection.
+(1) The provisions of this regulation shall be applicable to every IIO for all their direct insurance businesses.
+(2) Every IIO and IIIO shall formulate a policy, duly approved by its Board,for protection of interest of the policyholders;
+(3) Such policy shall, inter-alia, include the following -
+(a) steps to be taken for enhancing insurance awareness so as to educate policyholders about insurance products,
+benefits and their rights and responsibilities;
+(b) provisions to ensure that IIO and IIIO, fulfil their obligations towards policyholders;
+(c) steps to be taken to prevent mis-selling and unfair business practices at point of sale and service;
+(d) steps to be taken to ensure that during policy solicitation and sale stages, the prospects are fully informed and made
+aware of the benefits of the product being sold vis-a-vis the product features and the terms and conditions of the
+product, so that the benefits / returns of the product are not mis-stated / mis-represented;
+(e) service parameters including turnaround times for various services rendered;
+(f) policyholder-centric governance by the IIO with emphasis on grievance redressal and to fulfil their obligations towards
+policyholders;
+(g) procedure for expeditious resolution of complaints;
+(h) standard procedures and best practices in the sale and service of insurance policies;
+(i) simple and transparent claims settlement procedures.
+(4) Every IIO shall display the service parameters and turnaround times, as approved by its Board, on its website and
+keep the same updated as and when these are revised by the Board.
+(5) The approved policy on protection of interest of the policyholders shall be submitted to the Authority, as and when
+directed by it.
+Provided that the IIOs, set up in unincorporated form, may adopt Board approved policies of their parent entities, if the
+standards specified in these regulations are covered thereunder.
+Chapter V Miscellaneous
+20.
+Reporting and general requirements.
+(1) Every IIO shall furnish information relating to the requirements under these regulations to the Authority or
+policyholders in such manner, interval and forms as may be specified by the Authority;
+(2) Every IIO shall be guided by norms of fairness to the policyholder, international best practices and transparency to
+build trust in the insurance mechanism and to build insurance awareness and insurance literacy.
+21.
+Power to specify procedure, etc.
+For the purpose of implementation of these regulations and matters incidental thereto, the Authority may specify norms,
+procedures, processes and manners for compliance by the IIOs or IIIOs, as the case may be.
+22.
+Power to remove difficulties and relax strict enforcement of the regulations.
+(1) In order to remove any difficulty in the application or interpretations of the provisions of these regulations, the
+Page 7/8
+----- PAGE 8 -----
+International Financial Services Centres Authority (Management Control, Administrative Con...
+Authority may issue clarifications through guidance notes or circulars;
+(2) On an application, received along with the specified non-refundable processing fees, the Authority, may for the
+reasons to be recorded in writing, relax the strict enforcement of any of the provisions of these regulations.
+23.
+Non-applicability of certain regulations and savings.
+(1) On and from the commencement of these regulations, following regulations, circulars or guidelines issued thereunder
+shall cease to apply in International Financial Services Centres.
+(i) the Insurance Regulatory and Development Authority (Distributions of Surplus) Regulations, 2002;
+(ii) the Insurance Regulatory and Development Authority (Scheme of Amalgamation and Transfer of General Insurance
+Business) Regulations, 2011;
+(iii) the Insurance Regulatory and Development Authority (Sharing of Confidential Information Concerning Domestic or
+Foreign Entity) Regulations, 2012;
+(iv) the Insurance Regulatory and Development Authority (Scheme of Amalgamation and Transfer of Life Insurance
+Business) Regulations, 2013;
+(v) the Insurance Regulatory and Development Authority of India (Places of Business) Regulations, 2015;
+(vi) the Insurance Regulatory and Development Authority of India (Issuance of Capital by Indian Insurance Companies
+transacting Life insurance business) Regulations, 2015;
+(vii) the Insurance Regulatory and Development Authority of India (Issuance of Capital by Indian Insurance Companies
+transacting other than Life Insurance Business) Regulations, 2015;
+(viii) the Insurance Regulatory and Development Authority of India (Minimum Limits for Annuities and other Benefits)
+Regulations, 2015;
+(ix) the Insurance Regulatory and Development Authority of India (Acquisition of Surrender and Paid up values)
+Regulations, 2015;
+(x) the Insurance Regulatory and Development Authority of India (Protection of Policyholders? Interests) Regulations,
+2017;
+(xi) the Insurance Regulatory and Development Authority of India (Outsourcing of Activities by Indian Insurers)
+Regulations, 2017;
+(xii) the Insurance Regulatory and Development Authority of India (Insurance Advertisements and Disclosure)
+Regulations, 2021;
+(xiii) the Insurance Regulatory and Development Authority of India (Manner of Assessment of Compensation to
+Shareholders or Members on Amalgamation) Regulations, 2021
+(xiv) the Insurance Regulatory and Development Authority of India (Other Forms of Capital) Regulations, 2022;
+(xv) the Insurance Regulatory and Development Authority of India (Expenses of Management of Insurers transacting life
+insurance business) Regulations, 2023;
+(xvi) the Insurance Regulatory and Development Authority of India (Expenses of Management of Insurers transacting
+General or Health Insurance Business) Regulations, 2023;
+(xvii) the Insurance Regulatory and Development Authority of India (Payment of Commission) Regulations, 2023.
+(2) Notwithstanding anything contained in sub-regulation (1), anything done or any action taken or purported to have
+been done or taken under the regulations, circulars or guidelines mentioned in sub regulation (1), before the
+commencement of these regulations, shall be deemed to have been done or taken under the corresponding provisions
+of these regulations;
+(3) An IIO or IIIO, as the case may be, operating in International Financial Services Centre prior to the commencement
+of these regulations, shall comply with the additional requirements specified in these regulations, if any, within a period
+of three months from the of commencement of these regulations or within such extended period as may be specified by
+the Authority.
+Related AI tags, queries and research notes
+Translation
+Page 8/8

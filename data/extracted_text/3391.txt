@@ -1,0 +1,513 @@
+
+----- PAGE 1 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+Joint Electricity Regulatory Commission for the UT of Jammu &
+Kashmir and the UT of Ladakh (Electricity Trading) Regulations, 2023
+Source: https://indiankanoon.org/doc/88972892/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh (Electricity Trading)
+Regulations, 2023
+UNION OF INDIA
+India
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh (Electricity Trading)
+Regulations, 2023
+Published on 2 May 2023
+Not commenced
+[This is the version of this document from 2 May 2023.]
+[Note: The original publication document is not available and this content could not be verified.]
+In exercise of powers vested under Section 181 read with Section 15, 16, 18 and 52 of the Electricity Act, 2003 (36 of
+2003) and all other powers enabling it in that behalf, the Joint Electricity Regulatory Commission for Union Territory of
+Jammu and Kashmir & Union Territory of Ladakh hereby makes the following Regulations specifying the eligibility
+criteria for grant of trading licence, the duties of the electricity trader and other related matters:
+1.
+Short Title, Extent and Commencement.
+a. These Regulations shall be called the Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and
+the UT of Ladakh (Electricity Trading) Regulations, 2023.
+Page 1/10
+----- PAGE 2 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+b. These Regulations shall be applicable to Trading within Union Territory of Jammu and Kashmir & Union Territory of
+Ladakh.
+c. These Regulations shall come into force from the date of notification in the Official Gazette.
+2.
+Definitions and Interpretation.
+2.1. In these Regulations, unless the context otherwise requires:
+a.
+"Act"
+means the Electricity Act, 2003 (36 of 2003);
+b.
+"Applicant"
+means a person who has made an application to the Commission for grant of Licence for Trading in electricity;
+c.
+"Agreement"
+means agreement(s) entered into by the electricity trader with the seller of electricity, buyer of electricity, other licensees
+and State Load Despatch Centre, that enables the trading transactions;
+d.
+"Auditors"
+means the auditors appointed by the Trading Licensee;
+e.
+"Commission"
+means the Joint Electricity Regulatory Commission; for UT of J&K and UT of Ladakh;
+f.
+"Electricity Trader"
+means a person who has been granted a licence to undertake trading in electricity under Section 14 of the Act;
+g.
+"Licence"
+means a licence granted under Section 14 of the Act;
+h.
+"Licensee"
+means a person who has been granted a Licence under Section 14 of the Act to undertake trading in electricity as an
+Electricity Trader.
+i.
+"Licensed Business"
+means the business of trading in electricity in the State as authorized under the licence;
+j.
+"Net worth"
+at any point of time is the sum total of paid up capital (including Share Premium) and free reserves minus accumulated
+losses, but shall not include reserves created out of revaluation of assets, write back of depreciation provisions and
+amalgamations;
+k.
+"Other Business"
+means any business of the trader other than the licenced business of trading;
+l.
+"Person"
+shall include any company or body corporate or association or body of individuals, whether incorporated or not, or
+artificial juridical person;
+m.
+"Quarter"
+means a three-month period starting from 1st day of April, July, October or January and ending respectively on the last
+day of June, September, December or March of a financial year;
+Page 2/10
+----- PAGE 3 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+n.
+"Trading"
+means purchase of electricity for resale thereof and the expression "trade" shall be construed accordingly;
+o.
+"Year"
+means a financial year ending on 31st March.
+2.2. Words and expressions occurring in these Regulations and not defined above shall have the same meaning as in
+the Act.
+3.
+Eligibility Conditions for being an Electricity Trader.
+3.1. Capital Adequacy Requirement and Credit Worthiness:
+a. The applicant shall be categorized depending upon the volume of trading proposed to be undertaken and accordingly
+the net worth of the Applicant shall not be less than the amounts specified hereunder:
+S.No.
+Category of the Trading Licence
+Volume of Electricity proposed to be traded per year (in MU)
+Net worth (Rs. in crores)
+1
+A
+Up to 50 MU
+1.0
+2
+B
+51 MU to 100 MU
+2.0
+3
+C
+101 MU to 200 MU
+4.0
+4
+D
+201 MU to 500 MU
+8.0
+5
+E
+Above 500 MU
+10.0
+b. The Applicant, and if the Applicant is a company, the promoters of the company, and if the Applicant is a partnership
+firm, the partners of the firm, shall at no point of time have been classified as-wilful defaulter by the Reserve Bank of
+India or other relevant authority.
+c. The Applicant will demonstrate his net worth duly certified by an auditor to the satisfaction of the Commission at the
+time of making the application.
+d. The Commission may from a date as may be specified by it, vary requirement of the net worth from time to time for
+new applicants.
+3.2. Technical Requirements
+a. The applicant will engage at least one full-time professional having minimum 5 years' experience in each of the
+following disciplines, namely: -
+i. Power System Operations and commercial aspects of power transfer, and
+ii. Finance, commerce and accounts.
+The minimum qualification for (i) above shall be a graduate in Electrical Engineering and for (ii) above shall be
+CA/ICWA.
+Page 3/10
+----- PAGE 4 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+b. The applicant will furnish to the Commission details of the professional and supporting staff engaged by him on full
+time basis before undertaking trading.
+c. The aforesaid information shall be filed along with the supporting documents.
+i. The applicant shall justify to the satisfaction of the Commission that the technical capability and resources exhibited by
+the applicant are adequate to manage the intended volume of trading.
+ii. The applicant shall comply with the technical requirements when applying for the licence for trading:
+Provided that the Commission may grant the trading licence to the applicant subject to the trader furnishing the details
+and exhibiting compliance to the technical requirements, in accordance with regulations 3.2 above, before undertaking
+the trading.
+4.
+Procedure for Grant of Licence for Trading.
+a. The application for grant of licence for trading will be submitted to the Commission in the manner specified in the
+Conduct of Business Regulations in the form contained in Annexure-1A to these Regulations and will be accompanied
+by such fee as may be prescribed by the UT of J&K and UT of Ladakh. The application will be processed by the
+Commission as per the provisions of Joint Electricity Regulatory Commission, Jammu & Kashmir and Ladakh (Conduct
+of Business) Regulations 2022 which will include publication of notice of application, inviting objections from
+stakeholders and seeking response of the applicant thereto and shall be finally disposed of within a period of 45 days.
+b. The application shall be accompanied by:
+i. a statement of the capital proposed to be expended in carrying on the Licensed Business and such other particulars as
+the Commission may require;
+ii. a copy of the Memorandum and Articles of Association of the company, where the Applicant is a body corporate, and
+similar applicable documents of incorporation, registration or agreement in case of other business entities;
+iii. a receipt for payment of the application fee specified in accordance with clause (a) above;
+iv. an affidavit by the Applicant verifying the information disclosed in the application;
+v. where the Applicant is a body corporate, details of any group company(ies) engaged in the business of generation,
+distribution, transmission or trading of electricity, whether within the UT of J&K and UT of Ladakh or in any other State;
+vi. where the Applicant is not a body corporate, details of any business of generation, distribution, transmission or
+trading of electricity, whether within the UT of J&K and UT of Ladakh or in any other State, in which the Applicant is
+directly or indirectly interested;
+vii. Details of any financial holdings of the Applicant in the power sector;
+viii. Brief history of the promoters in case the Applicant is a body corporate;
+ix. Such other documents or information as the Commission may seek.
+c. After the applicant has published the notice of the application and after considering the objections received, if any, the
+Commission may decide, provisionally, to grant or refuse the licence and if it decides to grant the licence it may do so on
+such specific terms and conditions and with such modifications to the general conditions as the Commission may
+decide.
+d. When the Commission decides to grant the Licence, the Commission shall publish notice informing the name and
+address of the person to whom it intends to grant the Licence and other details as considered necessary and seek
+suggestions/objections from public and also indicate a date for hearing those who desire to be heard in person.
+e. After considering all suggestions/objections and after hearing those desiring to be heard in person, the Commission
+may finally decide either to grant or refuse the Licence.
+f. If the Commission grants the Licence, the Secretary of the Commission shall immediately after issue of a licence,
+forward a copy of the licence to the State Government, Central Electricity Authority, Central Electricity Regulatory
+Commission, and to such other persons as the Commission considers necessary.
+g. The Licensee will pay to the Commission licence fee as per Fees, Fines and Charges Regulations for the grant of
+Trading Licence. Full licence fee would be payable for the year whether licence is operative for full or part of the year.
+The fee will be remitted in the form and manner as mentioned in the Fees, Fines and Charges Regulations. The licence
+fee will be paid by first week of April of each year.
+Provided that the licence fee for the first year of operation will be paid within one week of the Commission informing the
+applicant of its in principle approval for the issue of a licence.
+5.
+Page 4/10
+----- PAGE 5 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+Applicability of Trading Margin.
+Trading margin shall be applicable to the following transactions undertaken by the Trading Licensee:
+(a) Transactions under short term contracts (where period of the contract of the Trading Licensee with both the seller
+and the buyer, including transactions undertaken through power exchanges, is up to one year);
+(b) Transactions under long term contracts (where period of the contract of the Trading Licensee with either the seller or
+the buyer or both is more than one year);
+(c) Banking of electricity, irrespective of duration of the contract;
+(d) Transactions under Back to Back contracts, irrespective of duration of the contract;
+5.1 Trading Margin
+1. Trading Licensee shall comply with the trading margin as given below:
+a. The trading margin shall be charged on the scheduled quantity of electricity
+b. The trading margin shall include all charges, except the charges for scheduled energy, open access and transmission
+losses:
+Provided that the charges for open access include the transmission charge, operating charge and the application fee.
+c. For transactions under
+short term and Long term
+contracts and contracts through power exchanges up to one year, the Trading Licensee shall charge a trading margin of
+not less than zero (0.0) paisa/kWh and not exceeding four (4.0) paisa/kWh:
+f. The Licensee will, within one month of the beginning of each year of trading operations, furnish his auditor's report
+regarding his net worth;
+g. The Licensee will be subject to trading margins for Trading as notified by the Commission from time to time;
+h. The Licensee will maintain an up to date record of all business transactions undertaken by him. He will also render
+necessary assistance to any person authorized by the Commission to inspect the records of the Licensee;
+i. The Licensee will ensure that all trading is carried out after entering into appropriate agreements with the seller of
+electricity or buyer of electricity as the case may be. Necessary safeguards concerning supply of electricity through
+trading and payment for the electricity traded will be included in the agreements between the parties. All financial
+transactions will be through letters of credit of scheduled banks;
+j. The trader shall pay to the Commission the non-refundable annual licence fee as mentioned in Fees, Fines and
+Charges Regulations.
+k. The Licensee will ensure that meters installed for the purpose of energy accounting comply with the specifications of
+the Grid Code; Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006.
+l. The Licensee will have requisite Agreements with the Transmission Licensee (s) and Distribution Licensee (s) for
+transmission and/or wheeling of electricity as the case may be;
+m. The licensee will provide his annual business plan to the Commission, the State Transmission Utility and the SLDC
+within one month of the beginning of each year of trading operations;
+n. The trader shall maintain separate accounts for his trading business, prepare and maintain the same in accordance
+with the provisions of the Companies Act, 1956/2013, as amended from time to time and such other particulars in details
+in the manner as the Commission may direct from time to time.
+o. The trader shall submit to the Commission copies of the accounting statements and Auditor's report thereon not later
+than six months after the close of the financial year to which they relate. Any person authorised by the Commission shall
+be entitled to inspect and verify the accounts of the trader and the trader shall render all necessary assistance to such
+person.
+p. The Licensee will duly comply with the orders and directions of the State Load Dispatch Centre, (SLDC), State
+Transmission Utility and Central Electricity Authority issued in the discharge of their functions under the Act;
+q. The Licensee will comply with the requirements specified by the Commission from time to time under Section 66 of
+the Act.
+r. The trader shall not engage in the business of transmission of electricity.
+s. The trader shall not, without prior approval of the Commission assign or transfer his licence to any person, by sale,
+lease, exchange or otherwise. Wherever prior approval of the Commission is required, the trader shall file an appropriate
+petition before the Commission, in accordance with the Conduct of Business Regulations.
+8.
+Page 5/10
+----- PAGE 6 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+Supply of Information to the Commission and others.
+a. The Licensee will supply such information as may be prescribed by the Commission from time to time.
+b. The Licensee will supply information in the format prescribed at
+Annexure-3
+to these Regulations to the State Load Dispatch Centre (SLDC) or any other utility as may be specified by the
+Commission with a copy to the Commission, on quarterly basis and also post on the website.
+The SLDC will verify the correctness of the quantum of energy traded, as indicated in the said quarterly information and
+report to the Commission.
+9.
+Standards of Performance.
+a. The Commission may, after consultation with the licensee, specify the standards of performance of the licensee.
+b. The licensee will furnish performance details to the Commission on quarterly basis in the format prescribed in
+Annexure-4
+to these Regulations.
+10.
+Contravention of terms and conditions of licence.
+The Commission may pass such orders as it deems fit in accordance with the provisions of the Act, if there is a
+contravention or the likelihood of a contravention of the terms and conditions of licence by the Licensee.
+11.
+Refusal of Licence.
+If the Commission is not inclined to grant the Licence, the Commission shall give an opportunity to the Applicant for
+being heard in person before rejecting the application.
+12.
+Revocation of a Licence.
+a. The proceedings for revocation of a Licence and/or for issuing any other orders under section 19 of the Act shall be
+initiated by the Commission by means of an order. The Commission may initiate such proceedings suo motu or on
+application of the licensee or on receiving any complaint or information from any person.
+b. The Commission shall give notice of the proceedings for the revocation of the licence to the licensee and to such
+other person, authority or body as the Commission may consider appropriate.
+c. Subject to the provisions of the Act and the procedure prescribed therein, the inquiry by the Commission for
+revocation of the licence, in so far as it is applicable, shall be in the same manner as provided in the Conduct of
+Business Regulations of the Commission in force.
+d. If the Commission decides to revoke the licence, the Commission shall communicate the order of revocation to the
+licensee stating the date from which such revocation shall take effect.
+e. The Commission may instead of revoking the licence pass any other order imposing such terms or conditions subject
+to which the Licensee is permitted to operate thereafter.
+13.
+Issue of orders and practice directions.
+Subject to the provisions of the Act, and these Regulations, the Commission may, from time to time, issue orders and
+practice directions in regard to the implementation of these Regulations, the procedure to be followed etc., and other
+matters, which the Commission has been empowered by these Regulations to specify or direct.
+14.
+Power to Remove Difficulties.
+If any difficulty arises in giving effect to any of the provisions of these Regulations, the Commission may, by general or
+special order, do anything, not being inconsistent with the provisions of the Act or rules framed thereunder, which
+appears to be necessary or expedient for the purpose of removing such difficulty.
+15.
+Power to Amend.
+The Commission may, from time to time, add, modify or amend any provisions of these Regulations after following the
+necessary procedures.
+Annexure - 1A
+Page 6/10
+----- PAGE 7 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+(See Regulation-4)
+Joint Electricity Regulatory Commission
+Application form for the Grant of Trading Licence in the UT of J&K and UT of Ladakh
+The applicant must submit the completed application in six (6) copies to the Secretary, Joint Electricity Regulatory
+Commission for UT for J&K and UT of Ladakh, Ambedkar Chowk (Panama Chowk), Railway Line, Jammu along with
+application fee of Rs............ (Rupees ............... only) as prescribed by Appropriate Government in the form of DD /Pay
+Order drawn in favour of Joint Electricity Regulatory Commission for UT of J&K and UT of Ladakh, and payable at
+Jammu.
+Part - A:
+General Information on Applicant
+1. Details of Applicant
+(a) Full Name of the Applicant:
+(b) Full Address of the Applicant:
+(c) Name, Designation & Address of the Contact Person :
+(d) Contact Telephone Numbers:
+Fax Number(s):
+Email ID:
+2. Details of Ownership
+(a) Company/ Firm/ Co-op Society/ Individual/ Others(specify):
+(b) Particulars of Incorporation/ Registration
+Place of Incorporation/ Registration:
+Year of Incorporation/Registration:
+Registration Number:
+(c) Name and Address of Directors:
+3. Principal Shareholders/ Partners/ Members:
+4. (a). Details of the area of operation
+(b). Nature of other electricity licenses / authorisation, if any, of the applicant for electricity transmission,distribution or
+trading already granted:
+5. Details of Operation:
+Maximum trading volume proposed to be undertaken by the applicant on a monthly basis for the first five years;
+6. Funding arrangements (sources and application) to meet the obligations:
+7. Arrangement for purchase of energy:
+8. Arrangement, if any, proposed with other existing licensees
+(a) Resume of the Organisation with details of
+(b) Management capability
+(c) Financial strength
+(d) Ability to attend to the activities in a sustainable manner
+9. Prior experience (Past 5 years' details for related business)
+[To be filled in by the applicant or by each participant separately in case of JVC/ consortium (as applicable)]
+General Information
+Name & Address of the project(s) developed
+Brief description of project(s) developed
+Cost of the project(s) developed - Rs. Lakhs
+Name(s) & Address(s) of the client(s) for whom the project(s) were developed
+Name(s), Designation(s) & Address(es) of reference persons of client(s)
+10. Financial details of other business ventures of the applicant)
+[To be filled in by the applicant or by each participant separately in case of JVC/ consortium (as applicable)]
+General Information
+Names of Subsidiary Business Units
+1.2.3.4.5.
+Products manufactured/ services provided1.2.3.4.5.
+Page 7/10
+----- PAGE 8 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+Financial Indicator
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Fixed Assets:
+Gross Fixed AssetsAccumulated DepreciationNet Fixed Assets
+Equity:
+Promoters'Government/ Financial InstitutionsPublicOthers (specific)
+Liabilities:
+Long TermShort Term
+Income:
+Sale of PowerOthers
+Expenses:
+Admin. & General ExpensesRepairs & Maintenance ExpensesEmployee costs:Interest & Financial ChargesLong
+TermShort TermOthers
+Financial Indicator
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Overall turnover (Rs. Lakhs)
+Profits & Returns (Rs. Lakhs)
+Net ProfitsDividends Paid
+Operating Ratios:
+Return on EquityReturn on Capital Employed Return on NetFixed Assets
+Liquidity Ratio:
+Debt Service Coverage RatioCurrent Ratio Quick Ratio
+Capital Adequacy & Credit worthiness:
+Debt/ Net worthDebt/ Equity
+Turnover Ratio:
+Total Asset TurnoverFixed Asset Turnover
+11. Baseline Information (Business for which Licence is sought)
+General Information
+Part - B: List of Documents to Accompany Licence Application
+1. Information relating to pre-existing licence (if any), with copy of licence / sanction.
+2. Copies of Company's Articles of Association, Memorandum of Association, Partnership deeds and similar
+constitutional documents.
+3. Certification of incorporation/registration.
+4. Certification for commencement of business.
+5. Original Power of Attorney of the Signatory to commit the Applicant or its Promoters.
+6. Details of Income Tax registration.
+7. Data relating to Management and Financial capability
+a. Managerial
+i. Senior management's curriculum vitae
+ii. Cadre strength for different categories (technical and non-technical)
+b. Financial
+i. Bank references asserting that the Applicant is financially solvent
+ii. Most recent Annual Financial Statements (Balance Sheet)
+Page 8/10
+----- PAGE 9 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+iii. Annual Audited Accounts for the past 3 years for the Applicant and any Holding Company, Subsidiary or affiliated
+company
+iv. Any accompanying notes and certifications on the above statements from reputable chartered accountant
+c. Any other documentary evidence to substantiate the financial capabilities, technical competence and others.
+8. Data relating to the Applicant's Business proposals.
+9. Five-year Business Plan (with projections) for the proposed business for which the application relates.
+10.Five-year annual forecasts of costs, revenues, project financing and funding arrangements (clearly specifying the
+assumptions involved)
+11. An affidavit that the Applicant is not engaged in the business of transmission of electricity.
+Date
+Signature of the Applicant
+Annexure - 1B
+(See Regulation-5)
+Joint Electricity Regulatory Commission
+(Application Form for seeking amendment to Trading Licence in the UT of J&K and UT of Ladakh)
+The applicant must submit the completed application in ten copies to the Secretary, Joint Electricity Regulatory
+Commission, along with application fee as determined by the Commission from time to time in the form of a DD drawn in
+favour of the Joint Electricity Regulatory Commission payable at Jammu.
+Part-A
+The applicant hereby submits to the Commission the following particulars for making alterations or amendments to the
+terms and conditions of his existing Licence for trading in electricity under section 18 of the Electricity Act, 2003:
+1. Particulars of existing Licence
+Licence No.____________
+_Dated
+_________
+2. Changes, if any, proposed in area of trading Existing area proposed area
+3. Specific amendment/alteration proposed in other clauses Existing conditions Proposed amendment/alteration
+(a)
+(b)
+(c)
+4. Reasons for the alteration/amendment sought
+5.If the proposed amendment/alteration will lead to additional investment, arrangements for funding it.
+6. Any other particulars considered relevant/necessary.
+Dated :
+Signature of the Applicant
+Part-B List of documents to accompany an application for amendment/alteration to an existing licence.
+1. Copy of existing licence.
+2. Relevant resolution of Company/Society/Local authority.
+3. Original Power of Attorney of the Signatory confirming the authorization from the Applicant or its Promoter.
+4. Any other document.
+Annexure - 2
+Proforma For Publication
+Joint Electricity Regulatory Commission
+Public Notice Inviting objections in Respect of Application Filed By----- For Amendment To an Existing Licence For
+Trading in Electricity
+Notice is hereby given under Section 18 of the Electricity Act, 2003 to all the interested parties that Messrs--- ------(name
+and address of the applicant), holding trading Licence No.----- dated-------for the following area :-
+Description of area
+(As per Licence)
+Has applied to the Joint Electricity Regulatory Commission, Ambedkar Chowk (Panama Chowk), Railway Line, Jammu
+for making following alterations in the terms and conditions of his licence mentioned above.
+Page 9/10
+----- PAGE 10 -----
+Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh...
+(Give existing provisions of the terms and conditions and the amendment/alteration sought)
+Existing conditions
+Proposed Amendment
+1.
+2.
+3.
+The application along with proposed amendments/alterations can be inspected at the office of the Commission at the
+address mentioned above and at the main office of the applicant, at-----------
+The application with proposed amendments/alterations can also be downloaded from the Website of the Commission
+www.jercjkl.nic.in
+Copies of the application along with proposed amendments/alterations can also be obtained from the applicant Messes
+either in person or by post, on payment of Rs.100/-.
+Any person interested in objecting to or otherwise making representation in regard to the proposed
+amendment/alteration may within 30 days of the publication of this notice forward the objections/representation to the
+Secretary, Joint Electricity Regulatory Commission in seven copies by hand delivery or by registered post and should
+serve a copy of the objection/representation to Messrs-------at any of the offices mentioned above.
+The person filing the objection/representation should give the following particulars:-
+1. Name and full address
+2. Grounds/reasons in support of the objection/representation together with documents or evidence, if available.
+3. Whether he wishes to be heard in person or through authorized representative at the time of hearing.
+Annexure - 3
+Proforma For Submission of Quarterly Information
+(To be Submitted to The Commission and Sldc by 10th Day of The Month Following The Quarter)
+Name of the Electricity Trader :
+Licence details(No. & Date) :
+Related AI tags, queries and research notes
+Translation
+Page 10/10

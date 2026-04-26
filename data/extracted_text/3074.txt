@@ -1,0 +1,3429 @@
+
+----- PAGE 1 -----
+The Oil Mines Regulations, 2017
+The Oil Mines Regulations, 2017
+Source: https://indiankanoon.org/doc/77498954/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Oil Mines Regulations, 2017
+UNION OF INDIA
+India
+The Oil Mines Regulations, 2017
+Rule THE-OIL-MINES-REGULATIONS-2017 of 2017
+Published on 14 August 2017
+Commenced on 14 August 2017
+[This is the version of this document from 14 August 2017.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Oil Mines Regulations, 2017
+Published vide Notification No. G.S.R. 1029(E), dated 14th August, 2017
+Ministry of Labour and Employment
+G.S.R. 1029(E). - Whereas the draft of certain regulations which the Central Government proposes to make, in exercise
+of the powers conferred by section 57 of the Mines Act, 1952 (
+35 of 1952
+) and on the recommendations of the Committee constituted under section 12 of the said Act, were published in the
+Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R 632(E), dated the 27th June,
+2016, as required by sub-section (1) of section 59 of the said Act, inviting objections and suggestions from all persons
+likely to be affected thereby on or before the expiry of a period of three months from the date of publication of the said
+notification in the Official Gazette;
+Page 1/64
+----- PAGE 2 -----
+The Oil Mines Regulations, 2017
+And whereas the objections and suggestions received on the said draft have been considered by the Central
+Government;
+Now, therefore, in exercise of the powers conferred by section 57 of the said Act and in supersession of the Oil Mines
+Regulations,1984, except as respects things done or omitted to be done before such supersession, the Central
+Government hereby, makes the following regulations, namely:
+Chapter - I
+Preliminary
+1.
+Short title, commencement, application and extent.
+(1)
+These regulations may be called the Oil Mines Regulations, 2017.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+(3)
+They shall apply to every oil mine.
+(4)
+They shall extend to the whole of India.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires:
+(a)
+"Act" means the Mines Act, 1952 (
+35 of 1952
+);
+(b)
+"acidising" means the treatment of hydrocarbon bearing formation by chemical reaction with acid in order to increase
+productivity or injectivity;
+(c)
+"annular space" means the space surrounding pipe suspended in the well, in which the outer wall of the annular space
+may be an open hole or it may be a string of larger pipe;
+(d)
+"bleed" means to drain off liquid or gas generally through a valve and to bleed off means a controlled release of the
+pressure of a well or the pressurised equipment;
+(e)
+"blowout" means uncontrolled sudden violent escape of fluid from a well;
+(f)
+"blowout preventer" means a device attached above the well head-
+(i)
+to control pressure or to prevent uncontrolled escape of fluid from the annular space between tubing and casing or
+between drill pipe and casing or between wire line and tubing; or
+(ii)
+to shut-off the well if no drill pipe or tubing is in the hole; in case a kick or blowout occurs;
+(g)
+"casing" means a steel pipe lowered into a well during drilling to prevent caving of the well and to hold back fluids from
+entering the well;
+(h)
+"casing line" means steel wire rope used for lowering and raising of pipes in the well through crown block and travelling
+block;
+(i)
+"cat-head" means a device mounted on the draw-works for making or breaking pipe connections or for operation of
+Page 2/64
+----- PAGE 3 -----
+The Oil Mines Regulations, 2017
+cat-line with the help of power from draw-works;
+(j)
+"cat-line" means a rope used to lift a pipe, drilling tool and other equipment from ground or base, pipe rack, tool platform
+or cat-walk on to the derrick floor;
+(k)
+"cat-walk" means a ramp giving access to rig floor for drill pipe, tubing, casing and drilling or other tools;
+(l)
+"cellar" means an excavation under the derrick to provide space for items or equipment at the top of the well which
+serves as a pit to collect drainage of water and other fluids under the floor for subsequent disposal;
+(m)
+"cementing" means an operation by which cement and water mixture is pumped down through the casing in such a way
+that it fills the space between casing and walls of the well to a pre-determined height above the bottom of the well;
+(n)
+"christmas tree" means the valves and fittings assembled at the top of a well head to control the flow of the fluid;
+(o)
+"coal bed methane" means a natural gas trapped in a coal seam or adjacent strata;
+(p)
+"cold work" means an activity which does not produce adequate heat to ignite a flammable airhydrocarbon mixture or a
+flammable substance;
+(q)
+"competent person" in relation to any work or any machinery, plant or equipment means a person who has been duly
+appointed in writing by the manager as a person competent to supervise or perform that work, or to supervise the
+operation or maintenance of that machinery, plant or equipment, and who is responsible for the duties assigned to such
+person;
+(r)
+"completed well" means a well in which the petroleum bearing formations or effluent disposal formation is open to the
+well, complete with equipment installed in the well and at the well-head thereby it is physically able to perform as a
+petroleum producer, injector or disposal well;
+(s)
+"contractor" means an individual, association of individuals, company, firm, local authority or local body who on contract
+basis provides for the services or operations in an oil mine, and includes a sub-contractor;
+(t)
+"crown block" means a multi-sheaved assembly mounted at the top of the derrick or mast and used in conjunction with a
+travelling block for raising and lowering of equipment in drilling and servicing a well;
+(u)
+"day light hours" means the period from sunrise to sunset;
+(v)
+"deputy manager" means a person possessing qualifications as provided under these regulations and who is appointed
+in writing by the owner, agent or manager of a mine to assist the manager in the control, management, direction and
+supervision of the mine or part thereof, and who takes rank immediately below the manager;
+(w)
+"derrick" means a compound latticed structure used over the well for drilling or well servicing purposes, and includes a
+mast;
+(x)
+"designer" means an individual, association of individuals, company or institution who designs an oil or gas mining
+system, method of oil or gas mining, machinery, plant, equipment, appliance or substances for use in oil or gas mines;
+(y)
+"District Magistrate" in relation to any mine means the District Magistrate or the Collector or the Deputy Commissioner,
+as the case may be, who is vested with the executive powers of maintaining law and order in the revenue district in
+which the mine is situated;
+(z)
+Page 3/64
+----- PAGE 4 -----
+The Oil Mines Regulations, 2017
+"draw-works" means an assembly of shafts, sprockets, chains, pulleys, belts, clutches, cat-heads or other mechanical
+devices, suitably mounted and provided with control for hoisting, operating and handling the equipment used for drilling
+a well or servicing a producing well;
+(za)
+"drilling" means perforation of the earth's crust by mechanical or other means and includes all operations for preventing
+collapse of the sides of such hole or for preventing such hole from being filled with extraneous material including water;
+(i)
+the percentage of flammable gas does not exceed the limit specified under the Central Electricity Authority (Measures
+Relating to Safety and Electric Supply) Regulations, 2010 for cutting off power supply in case of existence of such gas;
+(i)
+any apparatus, appliance or combination of appliances intended for developing, storing, transmitting, converting or
+utilising energy, which is; or
+(i)
+made or being made by drilling, boring or in any other manner from which petroleum is obtained or obtainable or for the
+purpose of obtaining petroleum or;
+(ii)
+used, drilled or being drilled for the purpose of water injection or for injecting natural gas, air, water or any other
+substance into underground formation;
+(zzzq)
+"wellhead" means an assembly on the top of the well casing strings with outlets and valves for controlling flow of fluid;
+(zzzr)
+"well perforation" means perforating well casing, or tubing, or cementing to provide flow passage for production or for
+testing or well activation purposes;
+(zzzs)
+"well servicing" means one or more type of remedial operations in well with the intention of restoring or increasing
+production without involving any work-over rig or outfit;
+(zzzt)
+"work-over" means one or more of a variety of remedial operations on a well with the intention of restoring or increasing
+production;
+(zzzu)
+`zone "0" hazardous area' means an area in which hazardous atmosphere is continuously present;
+(zzzv)
+`zone "1" hazardous area' means an area in which a hazardous atmosphere is likely to occur under normal operating
+conditions;
+(zzzw)
+`zone "2" hazardous area' means an area in which a hazardous atmosphere is likely to occur only under abnormal
+operating conditions.
+(ii)
+any stationery or portable engine, air or gas compressor, boiler or steam apparatus, which is; or
+(iii)
+any such apparatus or appliance if any power developed, stored, transmitted, converted or utilised thereby, is, under use
+or intended for use in connection with mining operations;
+(zze)
+"major accident" means an occurrence including in particular, a major emission of fire or explosion from uncontrolled
+developments in the course of drilling and for production, storage, handling or transportation of petroleum or machinery
+or owing to natural events leading to serious effects (both immediate and delayed and inside or outside the installation)
+causing or likely to cause substantial loss of life or property;
+(zzf)
+"major fire" means any incident of fire not extinguished within fifteen minutes;
+(zzg)
+"manager" means a person appointed under regulation 14;
+Page 4/64
+----- PAGE 5 -----
+The Oil Mines Regulations, 2017
+(zzh)
+"manufacturer" means an individual, association of individuals, company or institution who manufactures machinery,
+plant, equipment, appliance or substances for use in oil mines;
+(zzi)
+"monkey board" means a movable or fixed platform installed above derrick floor on which work-persons stand to handle
+pipes or other equipment racked on the derrick;
+(zzj)
+"mud" means a liquid that is circulated through the well during drilling or work-over operations or in case of temporary
+closure so that the hydrostatic pressure of the fluid column overbalances the formation pressure to prevent leakage of
+petroleum at the wellhead;
+(zzk)
+"mud-pump" means a pump used to circulate mud or well fluid on a drilling rig or Work-over rig;
+(zzl)
+"mud tank" means the reservoir or tank through which the drilling mud is cycled to allow sand and fine sediments to
+settle out where additives are mixed with mud and where the fluid is temporarily stored before being pumped back into
+the well;
+(zzm)
+"official" means a person appointed in writing by the owner, agent or manager to perform duties of supervision in a mine
+or part thereof and includes deputy manager, installation manager, safety officer, fire officer and surveyor;
+(zzn)
+"oil" means mineral oil which includes natural gas and petroleum;
+(zzo)
+"oilfield" shall have the meaning assigned to it in the Oilfields (Regulation and Development) Act, 1948 (53 of 1948);
+(zzp)
+"oilfield pipeline" means a pipeline or pipeline network used for transporting petroleum or other commodities in an
+oilfield;
+(zzq)
+"Oil Industry Safety Directorate-Standard (OISD-STD)", "Oil Industry Safety Directorate- Recommended Practice
+(OISD-RP)" and "Oil Industry Safety Directorate- Guideline (OISD-GDN)" means respectively, the standard,
+recommended practice and guidelines formulated by the Oil Industry Safety Directorate constituted by the Government
+of India, Ministry of Petroleum and Natural Gas, which have been concurred and notified by the Chief Inspector of Mines
+by a general order;
+(zzr)
+"oil well" means a well which is producing or is capable of producing petroleum;
+(zzs)
+"out-line" means a rope used to carry pipes, drilling tools or other equipment from a derrick to the derrick walk or other
+location outside the derrick;
+(zzt)
+"petroleum" means naturally occurring hydrocarbons in a free state whether in the form of natural gas or in a liquid,
+viscous or solid form but does not include helium occurring in association with petroleum;
+(zzu)
+"pipe-rack" means a structure located adjacent to but usually below the level of the rig floor, on which pipe or casing may
+be stored or racked;
+(zzv)
+"platform" means a working space for persons, elevated above the surrounding floor or ground or sea for the operation
+of machinery and equipment;
+(zzw)
+"racked" refers to tubular goods or rods standing in the derrick or mast or stored on a pipe rack;
+(zzx)
+"racking platform" means a platform in the derrick or mast at an elevation where a derrick man is normally required to
+handle stands being racked;
+Page 5/64
+----- PAGE 6 -----
+The Oil Mines Regulations, 2017
+(zzy)
+"railway" means a railway as defined in the Railways Act, 1989 (
+24 of 1989
+);
+(zzz)
+"Regional Inspector" means the inspector of mines in-charge of the region or local area or areas in which the mine is
+situated or the group or class of mines to which the mine belongs, over which he exercises his powers under the Act;
+(zzza)
+"rigging-up" means an act of assembling a drilling or work-over rig and auxiliary equipment prior to commencement of
+drilling or work-over operation and includes jacking up and positioning;
+(zzzb)
+"river" means any stream or current of water whether seasonal or perennial and includes its banks extending up to the
+highest known flood level;
+(zzzc)
+"rotary hose" means the hose that conducts the circulating fluid from the stand pipe to the swivel and kelly;
+(zzzd)
+"rotary table" means a power operated turn-table on the rig floor primarily used for rotating the drilling string;
+(zzze)
+"safety management system" means, collectively, those elements in the management system that are applied to identify
+or assess or control a hazard or recover therefrom;
+(zzzf)
+"Schedule" means the Schedule appended to these regulations;
+(zzzg)
+"stand" means sections of pipe consisting of two or more made-up lengths which are racked in a derrick;
+(zzzh)
+"standard railing" means a vertical barrier erected along exposed edges of a floor opening, wall opening, ramps, platform
+or walk-way to prevent fall of person;
+(zzzi)
+"sub-structure" means the foundation on which normally the derrick and engines are placed;
+(zzzj)
+"supplier" means an individual, association of individuals, company or institution who supplies a technology, machinery,
+plant, equipment, appliance or substance for use in an oil mine;
+(zzzk)
+"surface casing" means a steel pipe to cover unconsolidated formations, to provide protection against shallow gas flow,
+seal off water bearing formations, protect fresh water sands from contamination, case-off lost circulations zones and to
+provide structural support for the well head;
+(zzzl)
+"swabbing" means the operation of activation on a wire-line to bring well fluid to the surface when the well does not flow
+naturally;
+(zzzm)
+"toe board "means a vertical barrier at floor level erected along exposed edges of a floor opening, wall opening, platform,
+walk-way or ramp to prevent fall of materials;
+(zzzn)
+"toxic gas" means any gas which may cause a reversible or irreversible disturbance of the normal physiological process
+of one or more bodily systems;
+(zzzo)
+"travelling block" means a multi-sheaved pulley block used in conjunction with the fixed crown block for raising and
+lowering the drilling string, casing, tubing rods and other tools;
+(zzzp)
+"well" means a hole in the earth crust-
+(ii)
+Page 6/64
+----- PAGE 7 -----
+The Oil Mines Regulations, 2017
+the percentage of oxygen is not less than nineteen, and
+(iii)
+noxious gas is within the permissible limit specified in accordance with the Oil Industry Safety Directorate Standard, that
+is, OISD-STD-114 or its revised version;
+(zp)
+"gas well" means a well which is on continuous production from a gas bearing zone or a well in which casing is run for
+continuous production of gas;
+(zq)
+"hazardous area" means an area where hazardous atmosphere exists or is likely to occur;
+(zr)
+"hazardous atmosphere" means an atmosphere containing any flammable gas in a concentration capable of ignition or
+containing noxious gas beyond permissible limits specified as per the Oil Industry Safety Directorate Standard, that is,
+OISD-STD-114 or its revised version;
+(zs)
+"hot work" means an activity that can produce a spark or flame or other source of ignition having adequate energy to
+cause ignition, where the potential for flammable vapours, gas, or dust exist;
+(zt)
+"Indian Standards (IS)" means the standards formulated by the Bureau of Indian Standards under the Bureau of Indian
+Standard Act, 1986 (63 of 1986) which have been concurred by the Chief Inspector of Mines by a general order;
+(zu)
+"installation" means any fixed set up or structure or vessel or part thereof which is maintained within the mine or is to be
+established therein in connection with exploration or with exploitation of petroleum or natural gas with a view to such
+exploitation, production, storage or transport thereof;
+(zv)
+"installation manager" means a person appointed in writing by the owner, agent or manager of a mine to be in-charge of
+and responsible for all operations and activities on or in connection with the installation;
+(zw)
+"ionising radiation" means emission due to self-disruptive fission of atomic nucleus of any radioactive substance which is
+hazardous to health;
+(zx)
+"kelly cock" means a valve installed between swivel and kelly or kelly and drill pipe to control pressure, should a high
+pressure backflow of fluids occur, and to keep the pressure off the swivel and rotary hose;
+(zy)
+"kick" means a sudden pressure-surge of short duration caused by influx of formation fluids entering well being drilled;
+(zz)
+"lifting appliance" means a combined unit with or without horizontal movement used for hoisting or lowering cargo;
+(zza)
+"lifting gear" means every type of equipment placed on loading hook of a lifting appliance and includes container, steel
+basket, lifting yoke, multi slings or chain or wire;
+(zzb)
+"living accommodation" means the part of the installation comprising of personnel living rooms, conference room, gallery
+and offices attached thereto;
+(zzc)
+"lubricator" means a device fitted on top of a christmas tree and consists of a pressure sealing device at its upper end
+thereby afford an effective seal on the wire-line or other connection attached to tools run into the well;
+(zzd)
+"machinery" means -
+(zb)
+"drilling rig" means the complete structure and machinery required for drilling purposes at the bore hole site;
+(zc)
+"elevator" means a steel mechanical device used in connection with the hoisting equipment suspended from the
+Page 7/64
+----- PAGE 8 -----
+The Oil Mines Regulations, 2017
+travelling block, for holding in suspension, pipe or rod being lowered into or pulled from a well;
+(zd)
+"emergency-escape device" means an inclined wire line to carry a safety carriage or slide running from a point above the
+monkey board to a ground anchor and includes such carriage or slide;
+(ze)
+"explosimeter" means an instrument to measure the concentration of flammable gas;
+(zf)
+"explosive" shall have the same meaning as assigned to that term in the Explosives Act, 1884 (4 of 1884);
+(zg)
+"flame proof enclosure" shall have the same meaning as assigned to it under the Central Electricity Authority (Measures
+Relating to Safety and Electric Supply) Regulations, 2010;
+(zh)
+"flammable" means capable of being easily ignited, burning intensely or having a rapid rate of flame spread;
+(zi)
+"flash point" means the lowest temperature at which any petroleum liquid yields vapour in sufficient concentration to form
+an ignitable mixture with air and gives a momentary flash on application of a small pilot flame under specified conditions
+of test as per standard, that is, IS 1448 [P:21] or its revised version;
+(zj)
+"flare" means a flame used to dispose off gas as per process requirement;
+(zk)
+"floor block" means a single sheave pulley or snatch block fixed at or near floor level by means of which the direction of
+pull on a rope may be varied;
+(zl)
+"form" means a form specified by the Chief Inspector of Mines under these regulations;
+(zm)
+"fracturing" means the process of forcing a fluid in the sub-surface strata with the purposes of enhancing flow passages;
+(zn)
+"gas" means the vapour state of the hydrocarbons occurring in or derived from petroleum and includes natural gas;
+(zo)
+"gas free" means an environment in which-
+(2)
+The words and expressions used but not defined in these regulations, but defined in the Act shall have the meanings
+respectively assigned to them in the Act.
+Chapter-II
+Returns, Notices and Plans
+3.
+Notice of opening.
+(1)
+The owner, agent or manager of a mine shall give notice of commencement of any mining operation under section 16 of
+the Act to the Chief Inspector of Mines, the Regional Inspector and the District Magistrate in the Form and method
+specified by the Chief Inspector of Mines for the purpose, accompanied by a plan showing the geographical boundaries
+of the mine including locations of the installations and other prominent and permanent surface features and a copy of
+the Safety Management Plan prepared under regulation 131:
+Provided that no fresh notice shall be required in case of drilling of a new well or performing workover activity in a well of
+the existing mine in mining area:
+Provided further that at the beginning of the year a drilling and Work-over plan in a mine shall be submitted to the Chief
+Inspector of Mines:
+Provided also that subsequently the actual well drilled with respect to drilling and work-over plan shall be intimated to the
+Regional Inspector along with annual return.
+(2)
+When a mine is opened the owner, agent or manager of the mine shall communicate forthwith the actual date of opening
+Page 8/64
+----- PAGE 9 -----
+The Oil Mines Regulations, 2017
+to the Chief Inspector of Mines, the Regional Inspector and the District Magistrate.
+4.
+Annual returns.
+(1)
+The owner, agent or manager shall submit to the Chief Inspector of Mines, the Regional Inspector and the District
+Magistrate annual returns in respect of preceding year in the Form and method specified by the Chief Inspector of Mines
+for the purpose on or before the 1st day of February every year.
+(2)
+If a mine is abandoned or closed or working thereof is discontinued over a period exceeding four months or if a change
+occurs in the ownership of a mine, the owner, agent or manager of the mine shall submit returns required under
+sub-regulation (1) to the Chief Inspector of Mines, the Regional Inspector and the District Magistrate within thirty days of
+abandonment, or closure, or change, of ownership, or within five months of discontinuance, as the case may be.
+5.
+Notice of abandonment, closure or discontinuance or reopening of mine.
+(1)
+When it is intended to abandon or close a mine or discontinue a mine or working thereof for a period exceeding four
+months, the owner, agent or manager of the mine shall give a notice in the Form and method specified by the Chief
+Inspector of Mines for the purpose, to the Chief Inspector of Mines, the Regional Inspector and District Magistrate
+stating the reasons for such abandonment or closure or discontinuance and the number of persons likely to be affected
+thereby, not less than thirty days before such closure or discontinuance:
+Provided that where the mine is abandoned or closed or discontinued before giving the notice for a period exceeding
+four months in an unforeseen circumstance, the owner, agent or manager of the mine shall give notice forthwith.
+(2)
+When a mine is abandoned or closed or working thereof has been discontinued for a period exceeding four months, the
+owner, agent or manager of the mine shall, within fourteen days of closure or expiry of such discontinuance, give to the
+Chief Inspector of Mines, the Regional Inspector and the District Magistrate, notice in the Form and method specified by
+the Chief Inspector of Mines for the purpose.
+(3)
+When it is intended to reopen a mine after abandonment, closure or discontinuance for a period exceeding four months,
+the owner, agent or manager of the mine shall, not less than thirty days before resumption of mining operations, give to
+the Chief Inspector of Mines, the Regional Inspector and the District Magistrate, notice in the Form and method specified
+by the Chief Inspector of Mines for the purpose.
+(4)
+When a mine is reopened, the owner, agent or manager of the mine shall forthwith communicate the actual date of
+reopening to the Chief Inspector of Mines, the Regional Inspector and the District Magistrate.
+6.
+Notice of change in ownership, appointments, etc.
+(1)
+(a)
+When a change occurs in the name or ownership of a mine or in the address of the owner, the owner, agent or manager
+of the mine shall, within fourteen days from the date of the change, give to the Chief Inspector of Mines and the
+Regional Inspector a notice in the Form and method specified by the Chief Inspector of Mines for the purpose:
+Provided that where the owner of a mine is a firm or other association of individuals, a change -
+(i)
+of any partner in the case of a firm;
+(ii)
+of any member in the case of an association;
+(iii)
+of any director in the case of a public company; or
+(iv)
+of any shareholder in the case of a private company, shall also be intimated to the Chief Inspector of Mines and the
+Page 9/64
+----- PAGE 10 -----
+The Oil Mines Regulations, 2017
+Regional Inspector, within fourteen days from the date of such change.
+(b)
+When the ownership of a mine is transferred, the previous owner or his agent shall make over to the new owner or his
+agent, within a period of fourteen days of the transfer of ownership, all plans, reports, registers and other records
+maintained in pursuance of the Act and the regulations, or orders made thereunder, and all correspondence relating to
+the working of the mine relevant thereto; and when the requirements of this clause have been duly complied with, both
+the previous and the new owners or their respective agents shall forthwith inform the Chief Inspector of Mines and the
+Regional Inspector in writing.
+(2)
+When any appointment is made of an agent, manager, deputy manager, installation manager, safety officers or fire
+officer or when the employment of any such person is terminated or any such person leaves the said employment, or
+when any change occurs in the address of any agent or manager, the owner, agent or manager of the mine shall, within
+fourteen days from the date of such appointment, termination or change, give to the Chief Inspector of Mines and the
+Regional Inspector a notice in the Form and method specified by the Chief Inspector of Mines for the purpose.
+(3)
+The manager of every mine shall maintain all documents pertaining to the appointment and termination of every deputy
+manager, installation manager, safety officer, fire officer and other officials and competent persons in respect of his mine
+and all such documents relating thereto shall be kept available in the office of the mine.
+7.
+Notice of dangerous occurrence or accident.
+(1)
+When there occurs in or about a mine,
+(a)
+an accident causing loss of life or serious bodily injury in connection with any mining operation;
+or
+(b)
+a readily identifiable event with potential to cause an injury to persons at work, hereinafter referred to as "dangerous
+occurrence", such as-
+(i)
+an explosion or ignition;
+(ii)
+a blowout;
+(iii)
+an outbreak of major fire;
+(iv)
+a bursting of any pipeline or equipment containing petroleum, steam, compressed air or other substance at a pressure
+greater than the atmospheric pressure;
+(v)
+a major uncontrolled emission of petroleum or chemical spillage;
+(vi)
+a breakage or fracture of any essential part of draw-works, casing line or failure of emergency brake whereby the safety
+of persons may be endangered;
+(vii)
+a breakage, fracture or failure of any essential part of any derrick, machinery or apparatus whereby the safety of
+persons may be endangered;
+(viii)
+an influx of noxious gases; and
+(ix)
+any accident due to explosives,the owner, agent or manager of the mine shall forthwith inform the Regional Inspector
+about the occurrence by telephone, fax, e-mail or by special messenger; and shall also, within twenty four hours of every
+such occurrence, give notice thereof in the Form and method specified by the Chief Inspector of Mines for the purpose,
+Page 10/64
+----- PAGE 11 -----
+The Oil Mines Regulations, 2017
+to the District Magistrate, the Chief Inspector of Mines and the Regional Inspector and in the case of an accident
+mentioned in clause (a), also to the competent authority for payment of compensation:
+Provided that in case such notice is sent by e-mail, it shall be immediately followed by fax or letter.
+(2)
+The owner, agent or manager of the mine shall simultaneously exhibit a copy of the notice on a special notice board at
+the office of the mine for a period of not less than fourteen days from the date of such exhibition.
+(3)
+When an accident causing loss of life, serious bodily injury or burn injury occurs in or about a mine in connection with
+the generation, storage, transformation, transmission, supply or use of electrical energy, the owner, agent or manager of
+the mine shall also forthwith inform the Inspector of Mines (Electrical) by telephone, fax, e-mail or by special messenger:
+Provided that in case such notice is sent by e-mail, it shall be immediately followed by fax or letter.
+(4)
+If death results from any injury already reported as serious under sub-regulation (1) or if an injury other than the serious
+injury becomes serious, the owner, agent or manager of the mine shall within twenty four hours of his being informed of
+the same, give notice thereof to the District Magistrate, the Chief Inspector of Mines, the Regional Inspector and to the
+competent authority for payment of compensation and, if such death or injury is connected with any reason as specified
+under sub-regulation (3), also to the Inspector of Mines (Electrical).
+(5)
+In respect of every person killed or injured, the owner, agent or manager of a mine shall send particulars in the Form
+and method specified by the Chief Inspector of Mines for the purpose, within seven days of the occurrence, and also
+within fifteen days of the injured person returning to duty.
+8.
+Notice of disease.
+- Where any person employed in a mine contracts any disease notified by the Central Government under section 25 of
+the Act, the owner, agent or manager of a mine shall within three days of his being informed of the disease, give notice
+thereof in the Form and method specified by the Chief Inspector of Mines for the purpose, to the Chief Inspector of
+Mines, the Regional Inspector, the Inspector of Mines (Medical), the District Magistrate, and to the competent authority
+for payment of compensation.
+9.
+Plans.
+(1)
+The owner, agent or manager of every mine shall keep the following plans accurate and up-to-date, namely:-
+(a)
+a key plan with reference to the national grid showing the area duly demarcated in which operations for winning of
+petroleum or natural gas and ancillary operations are carried on;
+(b)
+a surface plan showing the location of all installations including wells, production facilities and pipe lines with their
+access routes, railways, power transmission lines, public roads, buildings or other permanent structures not belonging to
+the owner, rivers and water courses within the mine:
+Provided that the Chief Inspector of Mines may, by an order in writing, require to keep a plan extending to such distance
+from the mine boundary, as he may specify therein.
+(2)
+Every plan maintained in accordance with the provisions of these regulations shall-
+(a)
+show the name of the mine and of the owner and the purpose for which the plan is prepared;
+(b)
+show the true north or magnetic meridian and the date of the later;
+(c)
+unless otherwise provided, be on a scale having a representative factor of -
+(i)
+50,000:1,in case of key plans;
+Page 11/64
+----- PAGE 12 -----
+The Oil Mines Regulations, 2017
+(ii)
+20,000:1,in case of plans such as showing location of oil well, gas well and other installations mentioned in clause (b) of
+sub-regulation (1):
+Provided that the Chief Inspector of Mines may by an order in writing and subject to such conditions as he may specify
+therein, permit or require the plan to be prepared on any other suitable scale;
+(d)
+be properly inked in on durable paper or a polyester tracing film and be kept in good condition or in electronic form:
+Provided that where in a mine the plan is maintained in electronic form, the owner, agent and manager of the mine shall
+ensure that the plan is digitally signed and not liable to alteration or tampering and secured in such a manner as to
+facilitate retrieval by owner, agent, manager and the Chief Inspector of Mines or an Inspector;
+(d)
+be accurate and maintained up-to-date not later than twelve months.
+(3)
+The plan required to be maintained under these regulations or any order made thereunder shall be kept available for
+inspection in the office of the mine and a list thereof shall be maintained.
+10.
+Preparation of plans, etc., by surveyor.
+- Every plan or section required to be maintained under these regulations or any orders made thereunder shall be
+prepared by or under the personal supervision of a surveyor and shall carry thereon a certificate by him to the effect that
+the plan or section or part thereof is correct and shall be signed and dated by the surveyor and counter-signed and
+dated by the manager of the mine on every occasion that the plan or section is brought up-to-date.
+Chapter - III
+Inspectors, Management and Competent Persons
+11.
+Qualification for Inspector.
+(1)
+No person shall be appointed as Chief Inspector of Mines unless he holds a degree in mining engineering of an
+educational institution approved by the Central Government.
+(2)
+No person shall be appointed as Inspector of Mines unless he holds a degree in mining or petroleum engineering of an
+educational institution approved by the Central Government:
+Provided that -
+(i)
+In relation to electrical machinery installed in mines, the Central Government may appoint a person holding a degree in
+electrical engineering of an educational institution approved by it;
+(ii)
+In relation to other machinery or mechanical appliance installed in mines, the Central Government may appoint a person
+holding a degree in mechanical engineering of an educational institution approved by it;
+(iii)
+In relation to the provisions of the Act and of the rules and regulations which relate to matters concerning the health and
+welfare of persons, the Central Government may appoint a person holding a degree of bachelor of medicines and
+bachelor of surgery degree.
+12.
+Definition of mine for purposes of this Chapter.
+- For the purposes of this Chapter, all borings, boreholes, oil wells and accessory petroleum conditioning plants
+including gas wells, workshops, installations, and pipe conveying petroleum within an area duly demarcated by the
+owner or agent shall be deemed to be a mine:
+Provided that where special conditions exist, the Chief Inspector of Mines may, by an order in writing and subject to
+such conditions as he may specify therein, permit or require the division of any one such area into two or more separate
+mines.
+13.
+Page 12/64
+----- PAGE 13 -----
+The Oil Mines Regulations, 2017
+Appointment of agent.
+(1)
+The owner of a mine shall submit in writing to the Chief Inspector of Mines and the Regional Inspector, a statement
+showing names and designation of every person authorised to act on behalf of the owner in respect of management,
+control, supervision and direction of the mine.
+(2)
+The statement shall also show the responsibility of every person in respect of matters for which such person is
+authorised to act on behalf of the owner.
+(3)
+Every such person shall be deemed to be agent for the mine or group of mines, as the case may be, in respect of the
+responsibility as specified in such statement.
+(4)
+The statement specified under sub-regulation (1) shall be submitted within one month from the date of opening or
+reopening of a mine or a group of mines, as the case may be:
+Provided that in case of a mine or group of mines, as the case may be, which has already been opened, such statement
+shall be submitted within a month of coming into force of these regulations.
+(5)
+Any change, addition or alteration in the names or other particulars of the statement referred to in sub-regulation (1),
+shall be reported in writing to the Chief Inspector of Mines and the Regional Inspector within fourteen days from the date
+of such change, addition or alteration.
+14.
+Qualification and appointment of manager.
+(1)
+No person shall open, work or re-open a mine unless there is a duly appointed manager of the mine.
+(2)
+No person shall act or continue to act, or be appointed as manager of a mine under sub-regulation (1), unless he holds a
+degree or diploma in engineering or post-graduation in physics or geophysics or geology or chemistry of an educational
+institution recognised by the Central Government and has experience in the management and supervision of operations
+in oil mines for a period of not less than fifteen years in case of diploma in engineering and ten years in other cases.
+(3)
+No person shall act or be appointed to act as manager of more than one mine.
+(4)
+Where by reason of absence or for any other reason, the manager of the mine is unable to perform his duties under the
+Act, and the regulations or bye-laws and orders made thereunder, the owner or agent of the mine shall authorise in
+writing a person possessing the qualifications under sub-regulation (2) to act as manager of the mine.
+(5)
+The person so authorised to act as manager of the mine shall during the period of such authorisation have the same
+responsibility, discharge the same duties, and be subject to the same liabilities as the manager of the mine.
+15.
+Qualifications and appointment of deputy manager.
+(1)
+At every mine having more than two installations, the owner, agent or manager of the mine shall appoint deputy
+manager at a scale of one deputy manager for every eight additional installations or part thereof, who shall assist the
+manager.
+(2)
+No person shall act or continue to act, or be appointed as deputy manager of a mine under sub-regulation (1), unless he
+holds a degree or diploma in engineering or post-graduation in physics or geophysics or geology or chemistry of an
+educational institution recognised by the Central Government and has experience in the management and supervision
+of operations in oil mines for a period of not less than eight years in case of diploma in engineering and five years in
+other cases.
+16.
+Page 13/64
+----- PAGE 14 -----
+The Oil Mines Regulations, 2017
+Qualification and appointment of installation manager.
+(1)
+The owner, agent or manager of every mine shall ensure that every installation in the mine is placed under the charge of
+an installation manager appointed by him:
+Provided that, where in a mine, the owner, agent or manager of a mine is of the opinion that the size, nature, location
+and extent of certain installations are such that one installation manager can perform his duties in proper manner for
+more than one installation, he may appoint one installation manager to hold charge of more than one installation
+recording justifications thereof and clearly specifying the area of jurisdiction in every such case.
+(2)
+The Installation manager appointed under sub-regulation (1) shall hold a degree or diploma in engineering or a degree
+in science of an educational institution recognised by the Central Government and has experience in the management
+or supervision of operations in oil mines for a period of not less than five years in case of diploma in engineering and
+degree in science; and two years in case of degree in engineering.
+17.
+Qualification and appointment of safety officer.
+(1)
+The owner, agent or manager of a mine shall appoint a safety officer to assist the manager of the mine in promotion of
+safety and occupational health at work:
+Provided that, where in a mine, the owner, agent or manager of the mine is of the opinion that, due to large size of the
+mine, or due to large number of installations in the mine, or due to other conditions existing in the mine, it is not possible
+for one safety officer to attend to his duties effectively by himself, the owner, agent or manager of the mine shall appoint
+such additional number of safety officers, clearly specifying their areas of jurisdiction, as may be adequate in carrying
+out duties effectively under these regulations.
+(2)
+The safety officer appointed under sub-regulation (1) shall hold degree or diploma in engineering;
+or degree in science; or degree in industrial safety of an educational institution recognised by the Central Government or
+post-graduate diploma in industrial safety from Regional Labour Institute and has experience in the management or
+supervision of operations in oil mines for a period of not less than eight years in case of diploma in engineering and
+degree in science; and five years in other cases.
+18.
+Qualification and appointment or authorisation of surveyors.
+- The owner, agent or manager of every mine shall appoint or authorize a person holding degree or diploma in mining or
+civil engineering of an educational institution recognised by the Central Government or certificate in surveying issued by
+Institution of Surveyors or surveyor's certificate issued under the Act as surveyor to assist the manager of the mine as
+and when required and for carrying out the survey, levelling and for preparing plans and sections of the mine as required
+under these regulations and the orders made thereunder.
+19.
+Qualification and appointment of fire officer.
+(1)
+The owner, agent or manager of every mine shall appoint a fire officer for fire fighting and to assist the manager on fire
+prevention measures:
+Provided that, where in a mine, the owner, agent or manager of the mine is of the opinion that, due to large size of the
+mine, or due to large number of installations in the mine, or due to other conditions existing in the mine, it is not possible
+for one fire officer to attend to his duties effectively by himself, the owner, agent or manager of the mine shall appoint
+such additional number of fire officers, clearly specifying their areas of jurisdiction, as may be adequate in carrying out
+duties effectively.
+(2)
+No person shall be appointed as fire officer unless he:-
+(a)
+holds degree or diploma in fire and safety engineering of an educational institution recognized by the Central
+Government and having experience in dealing and management of fire services for a period of one year in case of
+Page 14/64
+----- PAGE 15 -----
+The Oil Mines Regulations, 2017
+degree or two years in case in diploma; or
+(b)
+holds degree or diploma in engineering or degree in science and shall also have undergone divisional officers course of
+an educational institution recognised by the Central Government and having experience in dealing and management of
+fire services for a period of one year in case of degree or two years in case in diploma; or
+(c)
+has undergone station officer's or sub-officer's course from an institute specified by the Chief Inspector of Mines for the
+purpose and having experience in dealing and management of fire services for a period of ten years.
+20.
+Qualification and authorisation of competent persons for well perforation.
+- The owner, agent or manager of every mine shall authorise one or more persons to be competent persons for
+handling, transport and use of explosives meant for well perforation in accordance with the Oil Industry Safety
+Directorate standard, that is, OISD-STD-191 or its revised version.
+21.
+Appointment of officials and competent persons.
+(1)
+The owner, agent or manager of every mine shall appoint such number of competent persons including officials, as is
+sufficient to secure, during each of the working shift,-
+(a)
+adequate inspection of the installation and the equipment thereof;
+(b)
+a thorough supervision of all operations at the installation;
+(c)
+the installation, running and maintenance, in safe working order, of all machinery in the mine; and
+(d)
+the enforcement of the requirements of the Act and these regulations.
+(2)
+The manager, deputy manager and installation manager of a mine shall ensure that the persons appointed under
+sub-regulation (1) are competent to perform duties assigned to them:
+Provided that no person shall be so appointed unless he is paid by the owner or agent and is answerable to the
+manager.
+(3)
+The record of all appointments made under sub-regulation (1) and duties assigned to the competent persons under
+sub-regulation (2) shall be maintained by the manager of the mine.
+22.
+General management.
+(1)
+The owner, agent and manager of a mine shall provide for the safety, health, welfare, environment and proper discipline
+of persons employed in the mine.
+(2)
+Except in a case of emergency, no person who is not an official or a competent person shall give, otherwise than
+through the manager, instructions to a person employed in a mine, who is responsible to the manager.
+Chapter-IV
+Duties and Responsibilities of Management, Contractors, Manufacturers, Competent Persons and Workmen
+23.
+Duties and responsibilities of owner.
+(1)
+The owner of every mine shall ensure that-
+(a)
+all provisions made under the regulations and rules pertaining to oil mines framed under the Act are complied with;
+(b)
+Page 15/64
+----- PAGE 16 -----
+The Oil Mines Regulations, 2017
+all necessary measures are taken to eliminate or minimise the risks to health and safety of persons employed in mines;
+(c)
+safety management plan required under these regulations are formulated and implemented in every mine;
+(d)
+emergency plan specific to each mine required under regulation 102 is prepared for implementation in the event of an
+emergency;
+(e)
+first aid, appropriate transportation from the workplace and access to appropriate medical facilities is provided to every
+person who receives injury or suffers from illness at the workplace;
+(f)
+adequate training and re-training programs and comprehensible instructions on safety and health matters and on the
+work assigned are provided for workers, at no cost to them; and
+(g)
+all accidents and dangerous occurrences connected with mining operations are investigated and appropriate actions
+taken to prevent recurrence.
+(2)
+Where persons engaged in any operation of a mine are likely to be exposed to physical, chemical or biological hazards,
+the owner of the mine shall ensure that such persons are provided, at no cost to them, with suitable protective
+equipment, clothing as necessary and other facilities as required by these regulations.
+24.
+General responsibilities of supplier, manufacturer and designer.
+- A person who designs, manufactures, imports, provides or transfers machinery, equipment or substances for use in
+mines, shall-
+(a)
+ensure that the machinery, equipment or substances do not entail dangers for the safety and health of those using them
+correctly; and
+(b)
+make available-
+(i)
+information concerning their requirement for the correct installation, maintenance and use of machinery and equipment
+and the correct storage and use of substances;
+(ii)
+information concerning the hazards of machinery and equipment, the dangerous properties of hazardous substances
+and physical agents or products; and
+(iii)
+information on how to eliminate or control risks arising from the identified hazards associated with the products.
+25.
+Duty of contractor.
+(1)
+A contractor deployed in a mine for any work shall-
+(a)
+establish effective ongoing communication and co-ordination between appropriate levels of supervisors, officials and
+senior officials of the mine prior to commencing work, which shall include provisions for identifying hazards and the
+measures to eliminate and control risks;
+(b)
+ensure arrangements for reporting work related injuries and diseases, ill-health and incidents among the contractor's
+workers while performing work in the mine;
+(c)
+provide relevant workplace safety and health hazard awareness and training to their workers prior to commencing work
+and as the work progresses as necessary; and
+(d)
+Page 16/64
+----- PAGE 17 -----
+The Oil Mines Regulations, 2017
+ensure compliance of the provisions of the Act and the rules and regulations framed thereunder.
+(2)
+When deploying contractors, the owner, agent and manager of every mine shall ensure that-
+(a)
+the same safety and training requirements apply to the contractors and their workers as to the workers of the
+establishment;
+(b)
+where required, only such contractors are deployed who have been duly registered or held licenses; and
+(c)
+the contract specify safety and health requirements and sanctions and penalties in case of noncompliance and such
+contract shall include the right for mine officials to stop the work whenever a risk of injury is apparent and to suspend
+operations until the necessary remedies have been put in place.
+26.
+Duty of persons employed in mine.
+(1)
+Every person employed in a mine shall comply with the provisions of the Act and of the regulations and orders made
+thereunder and to any order or direction issued by the manager or an official of the mine with a view to the safety or
+convenience of persons, not being inconsistent with the Act and these regulations; and he shall not neglect or refuse to
+obey such orders or directions.
+(2)
+Every person shall comply with the safety directives and be conversant with the safety instructions issued from time to
+time by the manager, deputy manager or installation manager of the mine.
+(3)
+Before beginning work, every person shall examine his place of work and the equipment that he is to use and shall
+forthwith report to his superior any dangerous defect that he may discover.
+(4)
+Every person shall make use of all safeguards, safety devices and other appliances provided for his protection or the
+protection of others.
+(5)
+Except in an emergency, no person unless duly authorised shall interfere with, remove, alter or displace any safety
+device or other appliance provided for his protection or the protection of others or interfere with any method or process
+adopted with a view to avoid accidents and injuries to health.
+(6)
+No person shall, while on duty-
+(a)
+throw any stone or other missile with intent to cause injury; or
+(b)
+fight or behave in a violent manner; or
+(c)
+impede or obstruct any other person in the discharge of duties; or
+(d)
+offer or render any service or use any threat, to any other person with a view to prevent the other person from complying
+with the provisions of the Act or the regulations, or orders made thereunder or from performing duties faithfully.
+(7)
+No person shall sleep or take rest in a dangerous place such as scaffolds, derrick floor or cranes or in the vicinity of
+dangerous or toxic substances, machinery, boilers, vehicles and heavy equipment.
+(8)
+Every person shall wear protective equipment and clothing suited to his duties and to the weather conditions.
+(9)
+Every person receiving any injury or notice any injury in the course of his duty shall, as soon as possible, report the
+same to an official or the competent person in-charge of a first-aid station, who shall arrange for the necessary first-aid
+Page 17/64
+----- PAGE 18 -----
+The Oil Mines Regulations, 2017
+to the injured person.
+(10)
+No person shall, except with the authority of an official, remove or pass through any fence, guard barrier or gate, or
+remove any danger signal.
+27.
+Duty and Responsibility of manager.
+(1)
+The manager of every mine shall be responsible for overall management, control, supervision and direction of the mine
+to ensure that the work is carried on in accordance with the provisions of the Act and of the regulations and orders made
+thereunder.
+(2)
+The manager of every mine shall ensure that sufficient supply of materials and appliances for the purpose of carrying
+out the provisions of the Act, the regulations and orders made thereunder and for ensuring the safety of the mine and
+persons employed therein, is always provided at the mine; and if he is not the owner or agent of the mine, he shall report
+in writing to the owner or agent of the mine when anything which he is not competent to order, is required for the
+aforesaid purpose and a copy of every such report shall be maintained.
+(3)
+The manager of a mine shall assign to every competent person and official his specific duty and on his appointment
+provide to him a copy of the regulations, rules and bye-laws and any orders made thereunder which affect him and he
+shall take all possible steps to ensure that every such person understands, carries out and enforces the provisions
+contained therein in a proper manner.
+(4)
+The manager of a mine shall examine all reports, registers and other records required to be made or kept in pursuance
+of the Act, the regulations and orders made thereunder and shall countersign the same and date his signature:
+Provided that the manager may, by an order in writing, delegate this duty to a deputy manager except in cases where a
+specific provision is made requiring the manager to countersign a report or register.
+(5)
+The manager of a mine shall pay attention to, and cause to be carefully investigated, any specific representation or
+complaint that may be made to him in writing by a work person of the mine as to any matter affecting the environment or
+safety or health of persons in or about the mine.
+(6)
+When an accident resulting in any serious bodily injury to any person or loss of life occurs in a mine, the manager shall
+inspect the site of accident immediately and shall also either himself or through safety officer or through an enquiry
+committee duly constituted by him have an enquiry made into the causes of, and circumstances leading to, the accident
+and the result of every such enquiry and a plan and section of the site of the accident showing the details shall be
+submitted to the Regional Inspector within thirty days of the date of occurrence.
+(7)
+The manager of a mine shall perform such other duty as specified under the Act, the regulations and orders made
+thereunder.
+(8)
+The manager of a mine may suspend, or take such disciplinary action, or recommend as he thinks fit against, the work
+person for contravention of any provisions of the Act, or the regulations and orders made thereunder.
+(9)
+The manager of every mine shall frequently inspect the mine and maintain a record therein the findings of each of his
+inspections and also the action taken by him to rectify the defects mentioned, if any.
+(10)
+The manager of a mine shall identify operations of hazardous nature and ensure framing and usage of code of practice
+to be followed by persons engaged in the operation which shall be consistent with the Act and the regulations or orders
+made thereunder.
+28.
+Duty and Responsibility of deputy manager.
+Page 18/64
+----- PAGE 19 -----
+The Oil Mines Regulations, 2017
+(1)
+The deputy manager of a mine shall carry out the duties assigned to him by the manager of the mine, and shall ensure
+that in the part of the mine or installations assigned to him by the manager, all work is carried out in accordance with the
+provisions of the Act and of the regulations or orders made thereunder.
+(2)
+The deputy manager shall -
+(a)
+ensure that all operations in the part of the mine assigned to him under sub-regulation (1) are carried out in accordance
+with the code of practice framed under these regulations;
+(b)
+subject to the orders of the manager, visit and examine the part of the mine and the installations under his charge or part
+thereof;
+(c)
+maintain a detailed report of the result of each of his inspection and also action taken by him to rectify the defects
+noticed, if any;
+(d)
+ensure that when any drilling rig, work-over rig and associated equipment, production equipment or pipeline is shifted or
+newly installed, it is given a trial run before being put into use; and
+(e)
+in the absence of manager, the deputy manager shall have the same responsibility and discharge the same duty and
+shall be subjected to same liabilities as manager, but not so as to exempt the manager therefrom.
+29.
+Duty and responsibility of installation manager.
+- The installation manager of a mine shall-
+(a)
+have charge and control of the installation and shall carry out such duties, as may be assigned to him by the manager or
+deputy manager;
+(b)
+ensure that in the installation assigned to him, all work is carried out in accordance with the provisions of the Act and the
+regulations or the orders made thereunder;
+(c)
+ensure that all operations in the installation or part of the mine assigned to him under clause (a) are carried out in
+accordance with the code of practice framed under these regulations;
+(d)
+ensure that a notice of his appointment is available at site and his name is displayed at a place in the installation in such
+a position that it may be easily and conveniently read;
+(e)
+visit and examine the installation or part thereof under his charge on every working day to see that safety in every
+respect is ensured;
+(f)
+maintain a detailed record of the results of each of his inspection and also of the action taken by him to rectify the
+defects noticed, if any;
+(g)
+ensure that when any drilling rig, work-over rig and associated equipment or production equipment or pipeline is shifted
+or newly installed, a trial-run is given under his supervision or person so authorised by him before it is put into use;
+(h)
+ensure that all persons employed at the installation are thoroughly instructed and familiar with the provisions of the
+standing orders, standard operating procedures, code of practices and emergency plan made under these regulations
+relating to prevention of blowout and fire;
+(i)
+ensure that the provisions of the Act and the regulations or orders made thereunder relating to the installation,
+Page 19/64
+----- PAGE 20 -----
+The Oil Mines Regulations, 2017
+maintenance, operation or examination of machinery and equipment are properly carried out by himself or by officials or
+by competent persons or work persons, as the case may be, appointed for the purpose; and
+(j)
+during the construction of an installation or any operation thereat, when there is an emergency or apprehended
+emergency endangering the life or safety of any person or the stability and safety of the installation, himself take or
+cause to be taken such measures as are necessary or expedient to avoid the emergency.
+30.
+Duties of safety officer.
+(1)
+The safety officer shall -
+(a)
+inspect, as often as may be necessary, the installations of the mine with a view to identify the dangers which may cause
+bodily injury or impair health of any person or environment;
+(b)
+advise the manager or deputy manager on measures necessary to prevent dangerous situations;
+(c)
+enquire into the circumstances and causes of all accidents whether involving persons or not and advise the manager or
+deputy manager on measures necessary to prevent recurrence of such accidents;
+(d)
+collect, compile and analyse information in respect of accidents and dangerous occurrences with a view to promote safe
+practices and improvement of working environment;
+(e)
+organise regular safety education programmes and safety campaigns to promote safety awareness amongst persons
+employed in the mine;
+(f)
+ensure that all new workers and workers transferred to new jobs receive adequate training in safety, firefighting and first
+aid; and
+(g)
+maintain a detailed record of work performed by him every day.
+(2)
+The safety officer shall be assisted by adequate number of assistants for the discharge of his duties.
+(3)
+No duty other than those specified in sub-regulation (1) shall be assigned to the safety officer.
+31.
+Duty of fire officer.
+(1)
+The fire officer shall -
+(a)
+ensure the compliance of the provisions of the Act and the regulations or orders made thereunder concerning fire
+detection, fire-fighting system and emergency plan and advise the manager and deputy manager on measures
+necessary to ensure adequate protection against fire;
+(b)
+ensure that code of practice for fire-fighting is prepared and implemented;
+(c)
+ensure proper layout, installation and maintenance of fire-fighting equipment;
+(d)
+ensure that emergency plan for likely fire situations are prepared;
+(e)
+organise regular training of persons in-charge of fire-fighting duty with particular reference to contingency or emergency
+plan for fire, correct assessment and handling of fire problem;
+(f)
+Page 20/64
+----- PAGE 21 -----
+The Oil Mines Regulations, 2017
+ensure that persons on firefighting duty undertake simulated fire drills at least once in every month to study promptness
+of response and effective tactics;
+(g)
+examine at least once in every quarter all devices and equipment of fire detection and firefighting systems in the mine
+and report any defects in the same to the manager or deputy manager;
+(h)
+exercise a general supervision and co-ordination during control and extinguishment of any fire in the mine;
+(i)
+assist the manager or other officials so authorised, to conduct enquiry into the causes and circumstances of all fires with
+a view to prevent recurrence in the mine; and
+(j)
+maintain detailed record of work performed by him every day.
+(2)
+No duty other than the duty specified in sub-regulation (1) shall be assigned to the fire officer.
+32.
+Duty and responsibility of competent person for well perforation.
+(1)
+The competent person appointed or authorised under sub-regulation (1) of regulation 20 shall be responsible, under
+these regulations or orders made thereunder, for handling, transport and use of explosives in the mine in accordance
+with the Oil Industry Safety Directorate Standard, that is, OISD-STD-191 or its revised version.
+(2)
+The competent person for well perforation shall -
+(a)
+be responsible for the compliance by his assistants, if any, of such provisions and of any direction with a view to safety,
+which may be given to them by a superior official;
+(b)
+not hand over any explosive to any unauthorised person;
+(c)
+be present when shot is being charged and shall himself fire the shot; and
+(d)
+be responsible when a shot has misfired to see that the gun is safely disarmed.
+(3)
+The competent person shall maintain detailed record of the work performed by him.
+33.
+Duty of competent person.
+(1)
+Every competent person shall be subject to the orders of superior officials and shall perform his duty assigned to him in
+accordance with the provisions of the Act and of the regulations or the orders made thereunder.
+(2)
+The competent person shall not -
+(a)
+depute another person to perform his work without the sanction of his superior official;
+(b)
+absent himself without having previously obtained permission from such official for the period of his absence or without
+having been relieved by a duly competent person; and
+(c)
+without permission from such official, perform during his shift, any duties other than those for which he has been
+appointed.
+(3)
+The competent person shall, on the occurrence at his place of work any hazardous condition, take prompt corrective
+measures to eliminate the hazard.
+Page 21/64
+----- PAGE 22 -----
+The Oil Mines Regulations, 2017
+Chapter - V
+Drilling and Work-Over
+34.
+Derricks.
+(1)
+The owner, agent and manager of a mine shall ensure that every part of a derrick, mast and sub-structure is of sound
+construction and strength, meeting the maximum load criteria for which it is designed and shall be maintained in safe
+working condition all the time.
+(2)
+The derrick shall be adequately secured to prevent it from overturning.
+35.
+Derrick platform and floor.
+(1)
+The owner, agent or manager of a mine shall provide on every derrick or portable mast, a platform at least sixty
+centimetre wide on all sides of the crown block equipped on its outer edge with a two-rail railing at least one metre high
+and toe-board fifteen centimetre high.
+(2)
+The owner, agent or manager of a mine shall provide on every derrick, platform for persons to stand on while such
+persons handle pipe or other equipment racked in or on the derrick which shall cover the space from the working edge
+of the platform to the legs and girts of the derrick and be firmly secured.
+(3)
+The working edge of monkey board platform shall be so placed that there is adequate clearance for safe passage of
+travelling block.
+(4)
+The platform, floor and walkway shall be kept free of dangerous projection or obstruction and shall be so maintained that
+adequate protection against slipping is provided.
+36.
+Ladders.
+(1)
+Every derrick shall be equipped with a ladder arrangement ensuring safe access to the elevated walking and working
+platform.
+(2)
+Access from ladder to working platform shall be properly secured with railings and toe boards.
+(3)
+Every ladder shall have rungs equally spaced and the top end of each ladder section shall extend not less than one
+metre above the platform.
+(4)
+The owner, agent or manager of a mine shall provide landing platform or cage on ladders of more than six metre to a
+maximum unbroken length of nine metre:
+Provided that nothing in this sub-regulation shall apply where personal fall arrest system is used on the ladder.
+(5)
+The landing platform shall be equipped with railings and toe-boards so arranged as to give safe access to the ladder.
+(6)
+The ladder leading from derrick platform to monkey board shall be provided with fall prevention device meeting with
+applicable Indian or international standard to prevent persons from falling.
+37.
+Safety belt and life line.
+(1)
+The owner, agent or manager of a mine shall provide to every person who works above the first girt of a derrick, safety
+belt with full body harness and lifeline certified as per standard, that is, IS 3521 of the Bureau of Indian Standard or its
+revised version and he shall use the same unless otherwise protected against the danger of falling from height.
+Page 22/64
+----- PAGE 23 -----
+The Oil Mines Regulations, 2017
+(2)
+No person shall work or travel from where he is likely to fall for more than one metre and eighty centimetre unless he is
+protected by certified safety belt with full body harness and lifeline and shall use the same whilst at work.
+38.
+Emergency escape device.
+(1)
+The owner, agent and manager of a mine shall ensure that an escape device with escape line and slide of adequate
+strength, as per the standard specified for the purpose by the Chief Inspector of Mines by a general or special order, is
+installed and maintained on every monkey board in such a manner that persons may come down safely from the
+monkey board to ground level in an emergency.
+(2)
+The escape line shall be securely fastened to the girt immediately above the monkey board and it shall be securely
+anchored to ground at a distance, from centre of cellar pit, not less than the height of the monkey board from the ground.
+(3)
+The landing place shall be provided with adequate quantity of sand or other suitable material for cushioning to prevent
+hard landing.
+(4)
+A competent person shall inspect every part of emergency escape device, braking system as per the inspection and
+maintenance guidelines of original equipment manufacturer and the record of every such inspection shall be maintained
+by the person who made the inspection.
+(5)
+The track rope of the emergency escape device shall have sufficient sag to avoid straining due to pre-tensioning.
+(6)
+The track rope or any part thereof shall have no damage or kink.
+(7)
+The braking unit pulleys of the emergency escape device shall be checked for free rotation prior to each installation and
+they shall be checked for any wear and cleaned to make it free from slippage.
+39.
+Weight indicator.
+(1)
+The owner, agent or manager of a mine shall provide and use on every rig, a weight indicator to register a close
+indication of the load suspended from the casing line.
+(2)
+The weight indicator shall be maintained in working order and calibrated at intervals not exceeding six months.
+40.
+Escape exit.
+- The rig floor area and each draw-works engine floor area shall have not less than two escape exits placed on opposite
+sides to allow unobstructed escape.
+41.
+Guardrails, handrails and covers.
+(1)
+The owner, agent and manager of a mine shall ensure that the floor openings and floor holes are guarded by a standard
+railing and toe-board or cover.
+(2)
+Where any person is allowed to work or pass through open-sided floor or platform of height one metre and eighty
+centimetre or more above the adjacent floor or ground level, the open-sided floor or platform shall be guarded by a
+standard railing.
+(3)
+The owner, agent and manager of a mine shall ensure that standard railing is provided on the inside of all mud tank
+runways, unless other means are available to prevent a person from falling into the mud tanks.
+(4)
+Page 23/64
+----- PAGE 24 -----
+The Oil Mines Regulations, 2017
+The open sided floor, walkway, platform or runway above or adjacent to dangerous equipment and similar hazards shall
+be guarded with a standard railing and toe-board.
+42.
+Draw-works.
+- The owner, agent and manager of a mine shall ensure that-
+(a)
+the draw-works is fitted with a suitable device with its control near the driller's stand to stop the draw-works in case of an
+emergency;
+(b)
+no draw-works is operated unless all guards are in position and maintained;
+(c)
+the machinery is stopped for oiling and greasing if lubrication fittings are not accessible with guards in place;
+(d)
+the brakes, linkage and brake flanges of draw-works are examined by a competent person once at least in every twenty
+four hours and if any defect is found during such examination, the draw-works are not used until such defect is
+remedied;
+(e)
+the result of every such examination specified under clause (d)is recorded by the competent person making the
+inspection;
+(f)
+the draw-works are provided with an automatic device which shall effectively prevent the travelling block from coming
+closer than two metres of the crown block on the one end and crashing on the rotary table at the other end;
+43.
+Cat-head and cat-line.
+(1)
+The cat-heads operated manually shall be equipped with a guide divider to ensure separation of the first wrap of line or
+rope.
+(2)
+The key seat and projecting key on a cat-head shall be covered with a smooth thimble or plate.
+(3)
+When a cat-head is in use, a competent person shall be at the controls and in the event of any emergency, he shall
+immediately stop the rotation of the cat-head.
+(4)
+The operator of the cat-head shall keep his operating area clear and shall keep the portion of the cat-line not being used
+coiled or spooled.
+44.
+Tongs.
+(1)
+The uncontrolled rotation of pipes shall be effectively prevented while making or breaking pipe connections and a
+back-up tong shall be used for this purpose whenever required.
+(2)
+The tong counter balance weights and lines shall be provided with guards to prevent accidental contact.
+(3)
+The ends of tong safety lines shall be secured with not less than three wire-line clamps, or crimped.
+45.
+Safety chains or wirelines.
+- The tongs, ends of rotary hose and suspension sheaves shall be fitted with safety chains or wire lines.
+46.
+Casing lines.
+(1)
+The casing line shall be visually examined by a competent person once at least in every seven days and the condition of
+Page 24/64
+----- PAGE 25 -----
+The Oil Mines Regulations, 2017
+the wire as to wear, corrosion, brittleness and fracture shall be noted, and a report of every such examination shall be
+recorded by the person who made the examination.
+(2)
+If during any inspection, any defect or weakness is found by which the safety of persons may be endangered, such
+weakness or defect shall be promptly reported in writing to the installation manager or manager and until such weakness
+or defect is remedied, the casing line shall not be used.
+(3)
+The slip and cut operation shall be carried out under the supervision of the installation manager or other competent
+person who shall record the date and other particulars thereof and shall sign with date.
+(4)
+The Oil Industry Safety Directorate Standard, that is, OISD STD - 187 or its revised version for inspection, slip and cut
+procedure of casing line shall be complied with, so as to prevent excessive wear of the casing line.
+47.
+Rigging equipment for material handling.
+(1)
+The rigging equipment including cranes for material handling shall be checked prior to and during its use to ensure that it
+is safe.
+(2)
+The rigging equipment shall not be loaded in excess of its recommended safe working load.
+(3)
+While operating cranes in the vicinity of overhead electric transmission line, adequate precaution shall be taken against
+accidental contact with the electric transmission line unless the same is kept deenergised during movement of the crane.
+(4)
+The rigging equipment and crane shall be inspected by a competent person at such interval and in accordance with the
+procedure as laid down by the manager or installation manager of the mine and he shall record the results of the
+inspection.
+48.
+Storage of materials.
+(1)
+The materials stored in tiers shall be stacked, racked or otherwise secured to prevent sliding, falling or collapse.
+(2)
+The passage way shall be kept clear to provide for the free and safe movement of material handling equipment or
+persons.
+49.
+Construction and loading of pipe-racks.
+(1)
+The construction of pipe racks shall be designed and maintained to support any load placed thereon.
+(2)
+The owner, agent or manager of a mine shall make adequate provision to prevent pipe, tubular material or other round
+material from rolling off pipe-racks.
+(3)
+No person shall go or be allowed to go between pipe-rack and a load of pipe during loading, unloading and transferring
+operations of pipes unless effective protection device or system is provided to protect such person from being hit by any
+load of pipe in motion.
+50.
+Rigging-up and rig dismantling.
+- The manager of a mine shall ensure that-
+(a)
+the raising and installation of heavy load is performed during daylight hours unless adequate general lighting
+arrangement is provided at the place of work;
+(b)
+Page 25/64
+----- PAGE 26 -----
+The Oil Mines Regulations, 2017
+every loose part and tool of the rig is securely fastened;
+(c)
+guy lines, cat lines, snub lines and such other lines are not installed within six metre of any electric overhead
+transmission lines;
+(d)
+the exhaust of internal combustion engine is provided with water quench or other effective spark arrestors;
+(e)
+high pressure circulating fluid line and steam line are securely anchored;
+(f)
+during rigging-up and rig dismantling, the wellhead is protected against damage from sliding or falling objects of the rig
+and associated material;
+(g)
+the components from a loft including nuts, bolts and cleats are lowered safely to the ground either singly, bundled or in
+containers; and
+(h)
+the code of practice for rigging-up and dismantling is framed and implemented and kept updated by a deputy manager
+or an installation manager authorised in this behalf.
+51.
+Mud tanks and pumps.
+(1)
+The owner, agent or manager of the mine shall provide and maintain mud tanks and mud pumps of sufficient capacity
+for effective control of the well.
+(2)
+The owner, agent and manager of a mine shall ensure that-
+(a)
+the mud tanks are so designed and installed as to provide positive suction to mud pumps;
+(b)
+the mud pumps connected to a drilling rig are equipped with a pressure relief valve and an operating gauge in the
+system;
+(c)
+the pressure relief valve is set to discharge at a pressure not more than ten per cent in excess of the established
+maximum working pressure of the pump, pipes and fittings;
+(d)
+the discharge from a pressure relief valve is piped to such a place which does not endanger persons and the discharge
+line is anchored securely; and
+(e)
+there is no valve between a pump and its pressure relief valve.
+52.
+Well control equipment and operation.
+(1)
+The safe practice for work-over operations, well stimulation operations and blowout prevention equipment systems for
+drilling wells shall be in accordance with the Oil Industry Safety Directorate Guidelines, that is, OISD-GDN-182 and Oil
+Industry Safety Directorate Recommended Practices, that is, OISD-RP- 174 or their revised versions.
+(2)
+In well control equipment and operations, the manager of the mine shall ensure that--
+(a)
+well control fluid and equipment are available and installed and used as required;
+(b)
+well is full of well fluid of adequate specific gravity to overbalance the bottom hole pressure;
+(c)
+during tripping operation, closely watch to notice any sign of kick in the well and annulus is kept full;
+Page 26/64
+----- PAGE 27 -----
+The Oil Mines Regulations, 2017
+(d)
+full opening safety valve with connection for circulation and operating key are readily available and kept in open position
+on the derrick floor;
+(e)
+blow out preventer and related equipment like choke and kill manifold, control panel and accumulator are available,
+maintained and tested regularly;
+(f)
+blow out preventer equipment is function-tested and pressure-tested when installed and also at the appropriate time
+during operations to determine that the blow out preventer functions properly;
+(g)
+instructions of the blow out preventer operating manual of the manufacturer are complied with;
+(h)
+all connections, valves, fittings, piping, and other equipment have a minimum working pressure equal to the rated
+working pressure of the blow out preventer;
+(i)
+bolts, nuts and fittings of correct size are used and tightened to the recommended torque; and all connections are
+pressure-tested before resuming operation;
+(j)
+all manually operated valves are equipped with hand wheels, and always kept ready for use; and
+(k)
+pit drills are carried out regularly.
+53.
+Selection of well control equipment.
+- The selection of well control equipment shall be made in accordance with the Oil Industry Safety Directorate
+Recommended Practices, that is, OISD-RP-174 or its revised version.
+54.
+Periodic inspection and maintenance of well control equipment.
+- The owner, agent or manager of a mine shall-
+(a)
+establish by taking into consideration the original equipment manufacturer's recommendations for inspection and
+maintenance procedures of well control equipment; .
+(b)
+ensure that the well control equipment is cleaned, visually inspected and preventive maintenance performed, before
+installation at the next well after inspection of each well;.
+(c)
+ensure that major inspection is carried out at intervals of not more than five years of service or as per Original
+Equipment Manufacturer's recommendation.
+(d)
+ensure that the records of every inspection made under clauses(b) and (c) is maintained by the competent person who
+made the inspection.
+(e)
+comply with the spare parts requirement as per Original Equipment Manufacturer;
+(f)
+ensure that separate maintenance history or log book of the entire blow-out preventers, choke manifold and control units
+are maintained; and
+(g)
+ensure that all pressure gauges on the blowout preventers control system are calibrated at least once in every six
+months.
+55.
+Control system for blowout preventers.
+- The owner, agent or manager of a mine shall ensure that-
+Page 27/64
+----- PAGE 28 -----
+The Oil Mines Regulations, 2017
+(a)
+all ram preventers have locking mechanism and instructions for operating the controls are posted prominently near the
+control unit;
+(b)
+all controls of power operated blowout preventers are located within easy reach of the driller on the derrick floor;
+(c)
+a remote control panel for the blowout preventer is installed at ground floor level at a safe distance from the derrick floor;
+.
+(d)
+blowout preventers are connected to an accumulator system which shall be capable of providing fluid of sufficient
+volume to close all the blowout preventers in the stack and open hydraulically operated valve; and
+(e)
+all controls for blowout preventers are clearly identified with suitable markers;
+56.
+Testing of blowout preventer assembly.
+- The owner, agent and manager of a mine shall ensure that testing of blowout preventer assembly is conducted in
+accordance with the Oil Industry Safety Directorate Recommended Practices, that is, OISD-RP- 174.
+57.
+Precautions against blowout.
+(1)
+The owner, agent or manager of a mine shall ensure that the following control equipment for the drilling mud system are
+installed and kept in use during drilling operations, namely:-
+(a)
+a pit level indicator registering increase or reduction in the drilling mud volume and a visual and audio warning device
+near the driller's stand;
+(b)
+a device to accurately measure the volume of mud required to keep the well filled at all times;
+(c)
+a gas detector or explosimeter at the primary shale shaker and connected to audible or visual alarm near the driller's
+stand;
+(d)
+a device to ensure filling of well with mud when the string is being pulled out; and
+(e)
+a control device near the driller's stand to stop the mud pump when the well kicks.
+(2)
+If the control equipment referred to in sub-regulation (1) indicates that formation fluid is entering the well, immediate
+steps shall be taken to control the well.
+(3)
+The manager of every mine in which blow out preventer assembly is installed, shall, immediately after such installation,
+frame standing orders specifying the action to be taken when a well kicks and the duty of each person employed on the
+rig and of such other persons as may be necessary.
+(4)
+A copy of standing orders referred to in sub-regulation (3) shall be posted at conspicuous places near the rig.
+(5)
+Every person employed on a rig shall have an adequate understanding of the warning sign of a kick, the standing orders
+mentioned under sub-regulation (3) and the blowout preventer assembly, and competent person on the rig shall have
+knowledge to operate the controls for blowout preventer; and blowout prevention drill shall be conducted for this purpose
+once in seven days.
+(6)
+Suitable control valves shall be kept available near the well which may be used in case of emergency to control the well.
+(7)
+Page 28/64
+----- PAGE 29 -----
+The Oil Mines Regulations, 2017
+When running in or pulling out string, a suitable mechanism shall be kept readily available at the derrick floor to prevent
+uncontrolled flow from the string.
+58.
+Precautions after occurrence of a blowout.
+(1)
+On the appearance of signs indicating that a well is blowing out, the manager of the mine shall ensure that all persons
+other than those whose presence is deemed necessary for controlling blowout are immediately withdrawn from the
+installation and suitable action is taken in accordance with the procedures formulated in the emergency plan prepared
+under regulation 102.
+(2)
+During the whole time that any work of controlling a blowout is in progress, the manager of the mine shall ensure that-
+(a)
+a competent person is present on the spot throughout;
+(b)
+an area within five hundred metre of the well on the down wind direction is demarcated as danger zone, and-
+(i)
+all electrical installations within the danger zone is de-energised to prevent the ignition;
+(ii)
+flameproof or intrinsically safe lamp or torch is only be used within the danger zone; and
+(iii)
+no naked light or vehicular traffic is permitted within the danger zone;
+(c)
+a competent person ascertains the condition of ventilation and presence of gas with a flameproof or intrinsically safe
+instrument so far as safety of person is concerned;
+(d)
+adequate number of self-contained breathing apparatus or any other apparatus of such make in accordance with the
+standards, that is, IS 10245 Part-2 or IS 10245 Part 1 of the Bureau of Indian Standards or its revised versions are
+available at or near the place for use in emergency; and
+(e)
+adequate fire-fighting facility is kept readily available for immediate use.
+59.
+Drilling and work-over operation.
+(1)
+At the beginning of every shift, the instruments and controls at the driller's stand, draw-works, mud pumps, sensing and
+monitoring instruments, mud logging, casing line, cat-line and blowout preventer assembly shall be examined by the
+person in- charge of the shift or a competent person and he shall satisfy himself that they are in good working order.
+(2)
+The manager of a mine shall ensure that a detail plan of operations relating to safety and geotechnical matters is
+formulated before the commencement of drilling operation or work-over plan for workover operation for the individual
+well and the same is made available to installation managers, other concerned officials and competent person before
+the commencement of the said operation.
+(3)
+Before commencement of drilling or work-over operation, a pre-spudding or pre-work-over meeting shall be carried out
+to examine and ensure safe operation of drilling or work-over and other related activities, and the finding shall be
+recorded and signed by the members.
+(4)
+The driller shall see that no person remains in a position of danger at or near the rotary table before the rotary table is
+set in motion.
+(5)
+The casing line shall not be in direct contact with any derrick member or foul with any material in the derrick excepting
+the crown block and any travelling block sheaves, a line spooler, a line stabilizer or weight indicator.
+Page 29/64
+----- PAGE 30 -----
+The Oil Mines Regulations, 2017
+(6)
+When cementing, no person shall be allowed on the rig floor near the wellhead or near the cementing line and
+equipment except those actually engaged on the operation.
+(7)
+All high-pressure pipes fitted with flexible points shall be suitably anchored and pressure tested before the
+commencement of cementing operation.
+(8)
+After the cementing operation and prior to perforation, casing shall be hermetically tested at a pressure at least seventy
+per cent of the casing burst pressure.
+(9)
+Tools or other materials shall not be carried up or down a ladder unless properly secured to the body leaving both hands
+free for climbing.
+(10)
+The manager of the mine shall make risk assessment to fix the minimum distance between the well to be drilled and
+railway, public road, public works or other permanent structure not belonging to the owner:
+Provided that, no well shall be drilled within a distance of forty five metre of any railways, public road, public works or
+any other permanent surface structure not belonging to the owner.
+Explanation. - For the purposes of sub-regulation (10), the distance shall mean the shortest distance between the well
+and any railways, public road, public works or any other permanent surface structure not belonging to the owner
+measured in any direction on surface.
+60.
+Drill stem test.
+(1)
+The owner, agent or manager of a mine shall ensure that prior to the commencement of drill stem test-
+(a)
+pressure test and function test of the blowout preventer assembly is conducted;
+(b)
+fire-fighting equipment is kept readily available for immediate use;
+(c)
+no person other than those required for the test is admitted on the drilling floor;
+(d)
+the test line is securely anchored at each end and at each nine metre interval;
+(e)
+thekelly hose is not used as part of the test line; and
+(f)
+the test line and valves are examined by a competent person and no test is conducted if any defect is discovered until
+such defect is rectified.
+(2)
+No person shall conduct the initial opening of drill stem test tool except in daylight hours.
+(3)
+No drill pipe shall be pulled out when petroleum or natural gas has been recovered during a drill stem test, unless the
+well is properly killed and there is no possibility of petroleum or natural gas being present in the drill pipe.
+(4)
+The gas produced to the atmosphere during a drill stem test shall be burnt through a flare-line or burners.
+Chapter VI
+Production
+61.
+Well perforation.
+- No well perforation shall be carried out except in accordance with the Oil Industry Safety Directorate Standard, that is,
+OISD-STD-191 or its revised version.
+62.
+Page 30/64
+----- PAGE 31 -----
+The Oil Mines Regulations, 2017
+Well testing and activation.
+(1)
+The Christmas tree and flow line including the associated fittings shall be tested by applying maximum pressure likely to
+be encountered and the result of such test be recorded before commencement of testing or activation of well.
+(2)
+The installation manager or an official shall perform well testing and activation under his direct supervision and he shall
+ensure that-
+(a)
+flow-lines are firmly anchored to the ground;
+(b)
+the separator safety valve is in good working order and properly adjusted;
+(c)
+hydro tested separator is used;
+(d)
+adequate fire-fighting equipment is readily available for immediate use; and
+(e)
+adequate facility is provided to safely collect the well products in tanks.
+(3)
+The installation manager or official referred to in sub-regulation (2) shall ensure that well control procedure is made
+available to every person at the site and he has understood the same, considering all eventualities before
+commencement of well testing.
+(4)
+The well testing and activation shall not be carried out beyond day light hours or under conditions of lightning, thunder,
+high wind and heavy rain, except with the permission of the manager based on job safety analysis and subject to
+observance of the control measures and other conditions he may specify.
+(5)
+A record of every permission referred to in sub-regulation (4) along with sufficient justification shall be maintained.
+63.
+Production facility.
+(1)
+Whenever the owner, agent or manager of a mine proposes to construct any new production facility or carry out material
+alterations at existing production facility, which covers quick production system, early production system, oil collection
+station, group gathering stations, gas collecting station, gas compressor plant, central tank farm, intermediate tank farm,
+water injection plant, polymer injection plant, in-situ combustion plant or any other important facility in oilfield within any
+mine, he shall ensure that -
+(a)
+the following particulars are shown on the surface plan and a copy thereof is kept at the facility -
+(i)
+the name and location of any other production facility connected with the facility;
+(ii)
+the pipelines connected with the facility;
+(iii)
+the name of each well connected to the facility;
+(iv)
+the extent of the land over which right of use or right of way has been established; and
+(v)
+any railway, public road, public works, building or any other surface features lying within sixty metres of such facility;
+(b)
+the documents, in compliance to all relevant statutory requirement, safety standards and safety guidelines are made
+available at site;
+(c)
+Page 31/64
+----- PAGE 32 -----
+The Oil Mines Regulations, 2017
+the production facility where the quantity of petroleum gas or liquid stored or handled exceeds three hundred tones
+respectively, and one lakh tonnes, the safety report in the form and method specified by the Chief Inspector of Mines for
+the purpose are made available at site; and
+(d)
+the detailed piping and instrumentation diagram of facility is maintained and kept updated and a copy of the same is kept
+available at the facility.
+(2)
+The owner, agent or manager of a mine shall ensure that the production facilities are of sound construction and required
+strength and designed, constructed, operated and maintained based on risk assessment.
+64.
+Storage tank.
+- Every tank for the storage of petroleum in bulk shall be designed, constructed, operated and maintained in accordance
+with the Oil Industry Safety Directorate Standard, that is, OISDSTD- 118 or its revised version.
+65.
+Dyked enclosures.
+(1)
+The petroleum storage tanks shall be located in dyked enclosures with roads all around the enclosure and all dyked
+enclosures shall be provided with proper discharge system to prevent accumulation of oil or water in the enclosures.
+(2)
+The layout and design of dyked enclosures for petroleum storage tanks shall be in accordance with the Oil Industry
+Safety Directorate Standard, that is, OISD-STD-118 or its revised version.
+66.
+General requirement for storage tank and dyked enclosures.
+(1)
+The owner, agent or manager of a mine shall ensure that the design practice for the tanks used for storage of petroleum
+is in accordance with the Oil Industry Safety Directorate Recommended Practices, that is, OISD-RP-108 or its revised
+version.
+(2)
+The height of the storage tank shall not exceed one and half times its diameter or twenty metre, whichever is less.
+(3)
+The piping from and to any tank located in a dyked enclosure shall not pass through any other dyked enclosure and the
+piping connected to tanks shall run directly to outside the dyke to the extent possible to minimise piping within the
+enclosures.
+(4)
+The minimum distance between a tank shell and the inside toe of the dyke wall shall not be less than half the height of
+the tank.
+(5)
+There shall be access on all four sides of each dyke area and roads shall be linked to minimise the effect if one road is
+cut off during fire.
+(6)
+An air space of not less than five per cent of the total capacity of the tank shall be kept in each tank.
+(7)
+Every tank after being installed or reinstalled and before being put in use, shall be hydro tested in accordance with the
+Oil Industry Safety Directorate Standard, that is, OISD-STD-129 or its revised version by a competent person so as to
+ensure that it is free from any leakage and is suitable for storage of petroleum.
+(8)
+A report of such test shall be maintained in the mine.
+(9)
+Every storage tank including its roof and all metal connections shall be electrically connected with very low earth
+resistance system in accordance with the standard and procedure as per an Indian standard or an international standard
+adopted by the Bureau of Indian Standards through harmonisation, specified by the Chief Inspector of Mines by a
+Page 32/64
+----- PAGE 33 -----
+The Oil Mines Regulations, 2017
+general order notified in the Official Gazette:
+Provided that where no such standard exists, an international standard specified by the Chief Inspector of Mines on
+merit, by a general order notified in the Official Gazette, may be accepted:
+Provided further that any other international standard equivalent to the harmonised standard, specified by the Chief
+Inspector of Mines on merit, by a general order notified in the Official Gazette, may also be accepted:
+Provided also that such earth resistance system shall not be used with storage tank in the mine unless the same has
+been tested and passed the test as per the applicable standards and the manager of the mine has kept a record of the
+type, details of specification, reference of the particular standards, test criteria as per the standards and status of testing,
+place of testing, copies of test report and any other relevant details.
+(10)
+The effectiveness of earthing shall be tested once in twelve months and the result of every such test shall be
+maintained.
+(11)
+No person shall enter or be permitted to enter a tank for cleaning or maintenance unless work permit for confined space
+entry has been obtained or issued and the tank has been examined by a competent person and found to be gas-free.
+(12)
+The agent or manager of a mine shall provide walkway with handrail on the roof of the tank to facilitate inspection and
+checking of vents, flame arrestor and other facilities so that movement of personnel on roof is safe.
+(13)
+Every tank shall be painted and its numbering, safe filling height and reference height shall be painted on the tank to
+avoid operating errors.
+(14)
+No gauging or sampling of tank shall be undertaken during thunder or hail storms.
+67.
+Safety precaution in oil dispatch pump area.
+- The owner, agent or manager of a mine shall ensure that-
+(a)
+all moving parts of a pump are adequately guarded;
+(b)
+the discharge outlet of safety relief valve is fixed with the suction end of the pump;
+(c)
+the engine exhaust is fixed with spark arrestor;
+68.
+Manifold area.
+- The manager of every mine shall ensure that pressure gauge of suitable range and non-return valve are fitted on each
+inlet lines to the manifold.
+69.
+Process area.
+(1)
+The manager of every mine shall ensure that in process area-
+(a)
+discharge line of safety relief valve or pressure safety valve of the pressure vessel is connected to the flare through a
+common header;
+(b)
+all bath heaters, indirect heaters and flare line are provided with remote ignition system;
+(c)
+water level is always above the level of fire tube in operational bath heaters;
+(d)
+flame arrestor is in place in air intake line of the burners;
+(e)
+all vessels, equipment, bath heaters or indirect heaters handling petroleum are effectively earthed;
+Page 33/64
+----- PAGE 34 -----
+The Oil Mines Regulations, 2017
+(f)
+insulating mat of standard, that is, IS 15652 of the Bureau of Indian Standards or its revised version shall be provided
+near the electrical control panels;
+(g)
+records of vessels and testing of safety relief valve or pressure safety valve are inscribed on the vessels and on the
+safety relief valve and pressure safety valve.
+(2)
+In gas fired heaters, namely heater treaters, bath heaters and indirect heaters, the manager of the mine shall provide
+burner management system in case of new fired heaters which shall shut off gas supply to main and pilot burners in the
+event of pilot flame out and necessary provision of audible alarm on pilot flame out.
+(3)
+For the existing gas fired heaters, there shall be regular monitoring of hydrocarbon gas and record maintained by a
+competent person authorised in this behalf.
+70.
+Generator area.
+- Wherever generator set is used in a mine, the owner, agent and manager of a mine shall ensure that the same is
+maintained and operated in accordance with the Central Electricity Authority (Measures relating to safety and electric
+supply) Regulations, 2010 and the noise and emission levels in the nearby area are maintained within the limits
+specified under the Environment (Protection) Rules, 1986.
+71.
+Gas compressor shed or house.
+(1)
+The gas compressors shed or house shall be located at a safe distance from heaters in accordance with the Oil Industry
+Safety Directorate Standard, that is, OISD-STD- 118 or its revised version and shall have roofing and open from sides to
+avoid accumulation of heavier vapour or gas on the floor of compressor house.
+(2)
+The compressor shed or house shall be located near the battery limits to facilitate ease in maintenance and operation.
+(3)
+The compressors in the compressor shed or house shall be fitted with-
+(a)
+pressure relief valves on inlet and all stages to prevent pressure build up above the predetermined set point;
+(b)
+high discharge temperature shut down mechanism and high cooling water temperature switch fitted on cooling water
+return line to shut the compressor in the event of a fault;
+(c)
+high inlet, inter stage and discharge pressures shut down mechanisms;
+(d)
+low lube oil pressure shut down mechanism;
+(e)
+low cooling water flow switch fitted to the cooling water return line to shut the compressor in the event of fault; and
+(f)
+a remote isolation switch, wherever applicable, for emergency shutdown with manual reset at control panel.
+(4)
+The safety devices under sub-regulation (3) shall be inter-coupled with automatically operated hooter or audio alarm for
+indication to the operator.
+(5)
+The manager of every mine shall install adequate number of hydrocarbon gas detectors in gas compressor shed or
+house inter-coupled with audio alarm system which triggers at twenty per cent of lower explosive limit.
+72.
+General safety for production facility and installation.
+- The manager of every mine shall -
+Page 34/64
+----- PAGE 35 -----
+The Oil Mines Regulations, 2017
+(a)
+provide wind sock in the production facility or installations;
+(b)
+provide facility for washing eyes and display material safety data sheets in the chemical handling shed;
+(c)
+provide an emergency vehicle in all the time in every production facility or installation;
+(d)
+ensure that pipelines are painted as per colour code indicated in the standard, that is, IS 2379 of the Bureau of Indian
+Standards or its revised version and the said colour code are displayed in the installation;
+(e)
+ensure that display boards are posted in strategic locations for prohibitory messages; and
+(f)
+ensure that all relevant documents pertaining to new production facility regarding construction and material alterations
+are maintained and kept available at facility.
+73.
+Precautions during acidising operations.
+(1)
+The manager of a mine shall ensure that-
+(a)
+acidising operations at a well is carried out under the direct personal supervision of an official authorised for the
+purpose;
+(b)
+prior to the acidising operation, all pressure lines and associated equipment are tested to a pressure ten per cent higher
+than the expected working pressure; and
+(c)
+a non-return valve in the treating line as close to the wellhead as practicable is installed.
+(2)
+The official shall ensure that -
+(a)
+no person other than those required for acidising operation remains in the vicinity of the well; and
+(b)
+material safety datasheet is displayed at the site of operation and the requirements of material safety data sheet and
+personal protective equipment and other protective facilities are provided.
+74.
+Precautions during fracturing operations.
+(1)
+Fracturing operations at a well shall be carried out under the direct personal supervision of an official authorised for the
+purpose.
+(2)
+Prior to the fracturing operations, discharge pipeline up to the last valve on the wellhead shall be tested to a pressure
+ten per cent higher than the expected fracturing pressure.
+(3)
+A non-return valve shall be installed in each discharge line as close to the wellhead as practicable.
+(4)
+All discharge and bleed-off lines shall be securely anchored and the bleed off lines shall discharge into open tanks with
+proper precautions.
+(5)
+The official shall ensure that in the vicinity of the well -
+(a)
+no person other than those required for fracturing operation remains;
+(b)
+Page 35/64
+----- PAGE 36 -----
+The Oil Mines Regulations, 2017
+no naked light or other source of ignition is permitted;
+(c)
+all electrical equipment is de-energised; and
+(d)
+adequate fire-fighting equipment is made available for immediate use.
+(6)
+The pumping units shall be located cross wind at safe distance from the wellhead.
+(7)
+All high pressure pipes shall be anchored and secured.
+75.
+Precautions during loading and unloading of petroleum tankers.
+(1)
+A competent person authorised for the purpose shall supervise and check every tanker for its fitness and safe condition,
+and loading and unloading of the tanker.
+(2)
+The loading and unloading of tankers carrying petroleum shall not be carried out beyond day light hours or under
+conditions of lightning, thunder, high winds and heavy rain, except with the permission of the manager of the mine based
+on job safety analysis and subject to observance of the control measures and other conditions as he may specify.
+(3)
+A record of every permission referred to in sub-regulation (2) along with sufficient justification shall be maintained by the
+manager of the mine or other competent person authorised for the purpose.
+(4)
+All pipe-lines, fittings and delivery hoses or metal pipes, metallic loading arms, swivel joints, tanks, chassis of tankers in
+the loading and unloading area shall be electrically continuous and be efficiently earthed.
+(5)
+No tanker shall be loaded or unloaded until its engine has been stopped and battery isolated from electrical circuit and
+the engine shall not be restarted and the battery shall not be connected to the electrical circuit until all tanks, and valves
+have been securely closed.
+(6)
+No smoking or open flame shall be permitted within thirty metre of the loading point and within the protected area of the
+loading terminal.
+(7)
+The owner, agent or manager of a mine shall make adequate arrangement for ventilation in the loading and unloading
+area to prevent accumulation of flammable vapour near ground level due to low ambient temperature.
+(8)
+Adequate fire-fighting equipment shall be kept readily available during loading and unloading of tankers for immediate
+use.
+(9)
+There shall be provision for spill containment.
+76.
+Effluent Treatment Plant for water produced from wells.
+(1)
+The effluent treatment plant for water produced from wells shall be designed in such a manner that oil content in each
+discharge stream meets the stipulation as fixed by the Government of India in the Ministry of Environment, Forest and
+Climate Change.
+(2)
+The discharge point for water produced from the wells shall be placed in such a manner that such discharges shall not
+cause harm to the environment.
+77.
+Well servicing operations.
+- The manager of every mine shall-
+Page 36/64
+----- PAGE 37 -----
+The Oil Mines Regulations, 2017
+(a)
+prepare and implement a well servicing plan or work-over plan for each well to be serviced, detailing all activities to be
+done during the operations and a copy of the plan shall be kept at well site;
+(b)
+ensure that pre-work-over conference to examine and ensure safe operations and other related activities are held before
+commencement of well servicing operation,.
+(c)
+ensure that the casing is hermetically test at a pressure at least ten percent higher than the formation pressure is
+conducted prior to perforation and before lowering completion assembly;
+(d)
+ensure that well servicing operation is done under the direct supervision of a competent person authorised for the
+purpose.
+(e)
+ensure that every person keeps clear of the wire line between the drum and floor block;
+(f)
+ensure that every person remains at a safe distance from the bailing line during swabbing and scraping operations;
+(g)
+ensure that a master gate valve and tubing hanger are pre-assembled and kept readily available at the well for
+immediate use in case the well kicks during pulling out or running in tubings;
+(h)
+ensure that no well servicing operation is carried out at any livewell unless proper blowout preventer assembly is
+securely installed and maintained;
+(i)
+ensure pressure and function testing of the blowout preventer assembly before commencement of well servicing
+operation;
+(j)
+ensure that no tubing is pulled out of any well unless the well is properly killed.
+78.
+Artificial lifting of oil.
+(1)
+The owner, agent or manager of a mine shall-
+(a)
+provide a properly constructed working platform at the well where artificial lift equipment is to be used unless a
+submersible pump is used for the purpose;
+(b)
+ensure that repairs, lubrication or greasing are not performed unless the pumping unit is stopped; and
+(c)
+ensure that all surface control valves for gas lift, intermittent gas lift or free plunger lift systems are clearly marked for
+ready identification;
+(2)
+The manager of every mine shall ensure that job safety analysis is conducted before carrying out artificial, secondary or
+enhanced oil recovery operation and suitable technical and other control measures thereof formulated.
+(3)
+The manager of every mine shall frame and circulate to all persons engaged therein a code of practice.
+79.
+Temporary closure of producing well.
+- The manager of every mine shall ensure that temporarily closed wells for a period exceeding thirty days are monitored
+periodically and wherever the wells are not monitored, the following precautions shall be taken, namely:
+(a)
+it shall be filled with mud or water or oil or salt solution or any special chemical so that the hydrostatic pressure of the
+fluid column over-balances the formation pressure to prevent leakage of petroleum at the wellhead;
+Page 37/64
+----- PAGE 38 -----
+The Oil Mines Regulations, 2017
+(b)
+the control valves of the Christmas tree shall be completely closed and control wheels be removed;
+(c)
+the Christmas tree shall be examined for leakage at least once in thirty days by a competent person authorised for the
+purpose and in case any leakage is detected during such examination, the competent person shall take immediate steps
+to stop it;
+(d)
+a report of every such examination shall be recorded and maintained by the person who made the examination;
+(e)
+the well head shall be preferably covered with suitably designed portable protective cover as a security measure.
+80.
+Plugging requirements for abandonment of wells.
+(1)
+When it is intended to abandon a well, the manager of a mine shall ensure that-
+(a)
+all permeable formations are isolated with cement plug;
+(b)
+a cement plug of minimum length of fifty metre is placed at the bottom of the well or proper bridge plug;
+(c)
+a cement plug of a minimum length of fifty metre is placed across the shoes of the surface casing or bridge plug;
+(d)
+the cellar or pit around the well are filled up and the land shall be restored to the original level; and
+(e)
+a bridge-plug above the top of perforations capped with a thirty metre cement plug is placed in case of cased well.
+(2)
+Every abandoned well shall be clearly identified at site and on the plan.
+Chapter -VII
+Transport by Pipeline
+81.
+Application.
+- The regulations in this Chapter shall apply to transportation of petroleum by means of pipelines within any mine
+referred to in regulation 12.
+82.
+Procedure for laying of pipeline.
+(1)
+No liquid and natural gas transmission pipeline and distribution of piping system shall be laid except in accordance with
+the Oil Industry Safety Directorate Standards, that is, OISD- STD-141 and OISD-STD-226 or their revised versions.
+(2)
+While laying a new pipeline, or making any alteration in the existing pipeline in oilfield within any mine, the owner, agent
+or manager of a mine shall:-
+(a)
+keep at the mine a surface plan of the area where the pipeline is proposed to be laid showing the extent of land over
+which right of use has been established and route of the pipeline clearly indicating the districts and states through which
+the pipeline would pass;
+(b)
+forward to the concerned railway administration an intimation accompanying a plan where it is proposed to lay pipeline
+within forty-five metre of any railway in respect of which this regulation is applicable by reason of any general or special
+order of the Central Government; and
+(c)
+forward to such authority as the Central Government may by a general or special order specify, an intimation
+accompanying a plan where it is proposed to lay pipeline within forty-five metre of any public works in respect of which
+Page 38/64
+----- PAGE 39 -----
+The Oil Mines Regulations, 2017
+this regulation is applicable by reason of any general or special order of the Central Government or of any public road or
+building or of other permanent structure not belonging to the owner of the mine.
+(3)
+When any pipeline has been commissioned, the owner, agent or manager of the mine shall forthwith submit
+self-certification in support of complying with the requirements and communicate the actual date of commissioning to the
+Regional Inspector and a copy thereof be sent to the Chief Inspector of Mines and the District Magistrate.
+(4)
+The details of all new pipeline laid and any significant alteration in the existing pipelines made during the year in mine
+shall be maintained and a copy of it shall be forwarded to the Regional Inspector along with annual return.
+83.
+Design of pipeline and fittings.
+(1)
+The owner, agent or manager of a mine shall ensure that-
+(a)
+the pipeline is designed in a manner that ensures adequate public safety under all conditions likely to be encountered
+during installation, testing, commissioning and operating conditions;
+(b)
+all materials and equipment are selected to ensure safety and suitability for the condition of use;
+(c)
+all pipes, valves, flanges and other fitting conform to the Oil Industry Safety Directorate Standards, that is,
+OISD-STD-141 and OISD-STD-226 or their revised versions;
+(d)
+all underground pipes and their components are protected against corrosion using suitable external anti-corrosion
+coating or painting and cathodic protection and all above ground pipes and their components are protected against
+corrosion by providing suitable anti-corrosion coating;
+(e)
+(i)
+the sectionalising valves are installed where required for operation and maintenance and control of emergencies;
+(ii)
+the factors such as topography of the location, ease of operation and maintenance including requirements for section
+line fill are considered in deciding the location of the valves:
+Provided that the distance between two consecutive sectionalising valves shall not be more than fifty kilometre in any
+case.
+(iii)
+the sectionalisation valve is provided based on risk assessment survey to limit the hazard and damage from accidental
+discharge from pipeline and to facilitate repair and maintenance of pipeline;
+(f)
+the pressure safety valves or other devices of sufficient capacity and sensitivity is installed to ensure the normal
+operating pressure in the pipeline network;
+(2)
+The owner, agent and manager of a mine shall ensure that adequate precaution is taken to protect the pipeline from
+washout, erosion, land slide, excessive load, impact or other likely hazards, which may cause serious movement or
+damage to the pipeline.
+(3)
+Where pipeline is laid across the railway or public road, casing pipe shall be extended as specified by the concerned
+authorities.
+84.
+Construction, laying and maintenance of pipeline.
+(1)
+The pipeline shall be buried with minimum cover as specified in the Oil Industry Safety Directorate Standard, that is,
+OISD-STD-141 or its revised version.
+Page 39/64
+----- PAGE 40 -----
+The Oil Mines Regulations, 2017
+(2)
+The laying of pipeline shall be planned along a pre-identified surveyed route within right of way or right of use.
+(3)
+No pipeline shall be laid unless the land is under the sole control of the owner or right of use has been obtained.
+(4)
+The manager of a mine shall ensure that-
+(a)
+all welding and weld inspection are done in accordance with Oil Industry Safety Directorate Standard, OISD-STD-141 or
+its revised version.
+(b)
+back filling are carried out after the pipeline has been laid in the trench prior to commissioning of the pipeline.
+(c)
+pipeline markers to indicate presence of pipeline and chainage are provided all along the pipeline route.
+(d)
+the markers are provided on each side of national highways or state highways, major district roads, railway crossings,
+turning points and water body crossings and at other crossings where third party activity is expected and at entrance to
+stations one marker shall be provided.
+(e)
+markers of the following types are installed along the pipeline in right of way or right of use, namely:-
+(i)
+kilometre markers;
+(ii)
+right of way or right of use boundary pillars on either side at a maximum of two hundred and fifty metre interval; and
+(f)
+warning signboards and markers at crossings display caution words "High Pressure Pipeline", "name of the operating
+company" and "emergency telephone contact numbers." in regional or Hindi and English languages.
+(5)
+The owner, agent or manager of a mine shall-
+(a)
+obtain permission from the competent authority while crossing structures such as roads, railways or other public works;
+(b)
+ensure that the minimum hydraulic test pressure at any point along with the pipeline is maintained 1.25 times the internal
+design pressure; and
+(c)
+ensure that the test pressure is maintained for a minimum period of twenty-four hours except where specifically
+mentioned.
+85.
+Preparatory works before commissioning of pipelines.
+- The owner, agent and manager of a mine shall, before the commencement of the commissioning activities of pipelines,
+ensure that-
+(a)
+commissioning procedure is in place;
+(b)
+pressure testing is completed for entire pipeline and associated station piping;
+(c)
+pressure leak check of the above ground piping and flanged joints is completed;
+(d)
+pipeline has been cleaned and debris has been removed;
+(e)
+mainline sectionalising valves are installed as per requirement;
+(f)
+Page 40/64
+----- PAGE 41 -----
+The Oil Mines Regulations, 2017
+all Golden joints are inspected and accepted;
+(g)
+geometric survey of pipeline section is carried out, if applicable; and
+(h)
+trained and experienced officials in adequate numbers are appointed for supervision of commissioning work of pipelines.
+86.
+Re-lay, renew or repair of pipeline.
+- Where the Chief Inspector of Mines is of the opinion that it is in the interest of public safety so to do, he may, by an
+order in writing, require the owner, agent or manager of a mine to relay, renew or repair such pipeline in accordance with
+requirements as may be specified in such order.
+87.
+Maintenance of Right of Way or Right of Use and inspection of crossings.
+(1)
+The owner, agent or manager of a mine shall maintain a periodic pipeline patrol program to observe surface conditions
+on and adjacent to the pipeline right of way, indication of leaks, construction activity other than that performed by the
+company, and any other factors affecting the safety and operation of the pipeline.
+(2)
+The owner, agent or manager of a mine shall give special attention to activities and features such as road, building,
+erosion, excavation, encroachment and vegetation growth along the pipeline system.
+(3)
+Encroachment, pilferage, theft and other activities of miscreants shall immediately be brought to the notice of district
+administration and other concerned authorities.
+(4)
+The owner, agent or manager of a mine shall maintain right of way or right of use and access to various stations
+including valve location to ensure reasonable access to maintenance crews and ensuring visibility or availability of
+pipeline markers.
+88.
+Patrolling of Right of Way or Right of Use.
+(1)
+The owner, agent or manager of a mine shall ensure that ground patrolling of right of way is carried out at least once in a
+month to observe surface conditions, leakage, any construction activity, encroachments, washouts and any other factors
+affecting the safety and operation of pipeline.
+(2)
+The manager of the mine shall ensure inspection of the roads and railway crossings at least once in three months by an
+official authorised for the purpose.
+(3)
+The manager of the mine shall ensure inspection of water body crossings at least twice a year, prior to and after
+monsoon or flash flood for exposure by an official authorised for the purpose.
+(4)
+The official authorised by the manager shall-
+(a)
+inspect the rail, road bridge, suspended crossings once in three months to check support and structure and
+anti-corrosion coating where pipe exits or enters ground;
+(b)
+Inspect right of way or right of use of the mine at least once in a year for the entire length of the pipeline preferably to be
+done after monsoon;
+(c)
+make the villagers and public along the right of way or right of use adequately aware of the possible consequence of
+leaks and this shall be included as a part of regular audit; and
+(d)
+maintain regular liaison with the police stations, local panchayats and district authorities along the right of way and right
+Page 41/64
+----- PAGE 42 -----
+The Oil Mines Regulations, 2017
+of use about the possible consequences of leakage and pilferage.
+89.
+Maintenance Procedure or Manual of pipeline system.
+(1)
+The manager of every mine shall formulate and implement detailed operation and maintenance procedure or manual for
+control system and safety interlocks for entire pipeline system of a mine considering the recommendations made of the
+original equipment manufacturer and based on the local conditions.
+(2)
+The manual or procedure shall include preventive maintenance schedule with periodicity, that is, daily, weekly, monthly,
+half yearly and yearly and activities to be carried out during each schedule of maintenance.
+(3)
+The maintenance schedule shall include activities like detecting, isolating and repairing a leak in the pipe line in a safe
+and efficient manner in accordance with the code of practice developed and approved by the competent authority within
+the organisation.
+(4)
+The manager of a mine shall develop and maintain a standard operating procedure of pipeline.
+(5)
+The manager of a mine shall ensure that the standard operating procedures for integrity assessment of piggable and
+non-piggable pipelines are followed.
+(6)
+The manager of a mine shall ensure that the job safety analysis is carried out for any non-repetitive nature of job.
+(7)
+The manager of a mine shall ensure that work permit system for repair and maintenance work is complied with..
+(8)
+The manager of a mine shall modify from time to time the plan and procedure of operating practice as the situation
+warrants in operating conditions through the management of change document, which shall be serially numbered and
+maintained at the mine with copies at the locations.
+(9)
+The management of change shall include the justification requiring the change of operating conditions and the benefit
+resulting thereof.
+(10)
+The management of change shall be closed with amending the "as built" drawing and the change made in the standard
+operating procedure along with the completion of the change.
+90.
+Pipeline replacement and revalidation policy.
+(1)
+Every mine shall have a documented policy for repairing, replacement, re-evaluation of safe operating pressure and
+re-validation of residual life of all pipelines based on recommended practice developed by the owner.
+(2)
+The recommended practice may be based on the Oil Industry Safety Directorate standards, guidelines, safe operating
+procedures and applicable international standards.
+91.
+Abandonment or discontinuation of pipeline.
+(1)
+A pipeline system that is no longer required for transportation shall be taken out of service with all hazardous fluid
+removed from the system.
+(2)
+In case the owner, agent or manager of the mine decides to abandon full or part of the pipeline system, he shall ensure
+that-
+(a)
+the pipeline section and facility are disconnected with positive isolation from all sources of supply prior to abandonment;
+Page 42/64
+----- PAGE 43 -----
+The Oil Mines Regulations, 2017
+and
+(b)
+the pipeline system and facility to be abandoned are purged with nitrogen gas, inert materials or inhibited water and after
+purging, the ends of the pipeline are positively isolated.
+(3)
+In case the owner, agent or manager of the mine intends to revive an abandoned or discontinued pipeline, he shall
+develop and sign the integrity assurance plan before such revival.
+92.
+Documentation.
+- The manager of a every mine shall maintain record of design, construction, map, maintenance, and pipeline health
+monitoring and operations as specified in this Chapter in hard copies or in electronic form at the mine.
+93.
+Emergency procedure for pipelines.
+(1)
+The Manager of every mine in which any pipeline is laid for transport of petroleum shall submit to the Regional Inspector
+within sixty days of the coming into force of these regulations or in the case of a new pipeline, within thirty days of the
+installation of pipeline, comprehensive emergency procedure specifying the action to be taken in the event of fire,
+uncontrolled escape of petroleum or natural gas from the pipeline, bursting or damage to the pipeline.
+(2)
+The manager of every mine shall maintain the copies of the emergency procedure specific to the pipeline and the station
+at each control room along with plans and sections and the following records, namely:-
+(a)
+operational data;
+(b)
+pipeline patrolling records;
+(c)
+leak or tapping records;
+(d)
+routine or unusual inspection records; and
+(e)
+pipeline repair records.
+Chapter-VIII
+Protection Against Gas and Fire
+94.
+Storage and use of flammable material.
+(1)
+No flammable material shall be stored within thirty metre of any oil well except for fuel in the tanks of the operation
+equipment:
+Provided that, where special conditions exist, the manager of the mine may permit such storage within the aforesaid limit
+in writing based on risk assessment made and subject to observance of the control measures under the charge of an
+official as he may specify therein.
+(2)
+The official specified in sub-regulation(1) shall-
+(a)
+maintain a record of the measures taken by him in respect of the permission referred therein;
+(b)
+use safety cans for handling and use of flammable liquid;
+(c)
+ensure that drainage from any fuel storage is in a direction away from the well and equipment;
+(3)
+Any flammable liquid having a flash point of less than sixty-five degree celsius shall not be used for cleaning purpose
+Page 43/64
+----- PAGE 44 -----
+The Oil Mines Regulations, 2017
+except with the prior permission in writing of the manager, deputy manager or an installation manager of the mine.
+95.
+Precaution against noxious and flammable gas.
+(1)
+No person shall enter or be permitted to enter any cellar, sump, pit or any confined space or zone "0" hazardous area or
+the area where a flare has accidentally extinguished unless it has been examined by a competent person and found to
+be gas free.
+(2)
+Where any examination made under sub-regulation (1) shows the concentration of flammable gas in excess of the limit
+specified for the purpose under the Central Electricity Authority (Measures Relating to Safety and Electric Supply)
+Regulations, 2010, the supply of electric energy shall be cut off immediately from all cables and apparatus lying within
+thirty metre of the installation and all sources of ignition shall be removed from the said area and normal work shall not
+be resumed unless the area is made gas-free.
+(3)
+The manager of the mine shall provide fixed gas detection system for hydrocarbons and hydrogen sulphide gas, if
+present, at suitable locations in gas collection station and gas compression plant where there is likelihood of hazard due
+to gas leakage to continuously monitor the presence of flammable or toxic and to alert persons and initiate action
+manually or automatically to minimise the probability of exposure of persons and consequences of fire.
+(4)
+For the production installation other than those specified under sub-regulation (3) the manager of the mine shall take
+decision for provision of fixed gas detection system based on assessment of risk due to gas leakage and he shall
+maintain a record of every such decision along with sufficient justification.
+(5)
+The manager of the mine shall provide portable gas detectors for hydrocarbons and hydrogen sulphide gas, if present,
+at the installation to ascertain the presence of gases before issuing work permit and for use in areas not covered by
+fixed gas detection system.
+(6)
+On detection of hydrogen sulphide gas, every persons on and near the well head, drill floor, shale shaker area, mud
+pump and tank shall put on suitable escape breathing apparatus of standards, that is, IS 10245 Part 1 or IS 10245 Part
+2 of the Bureau of Indian Standards.
+(7)
+Every person other than those required for control measures shall be withdrawn to a safe area.
+(8)
+No normal operation shall be resumed unless checks with hydrogen sulphide gas detectors is made and the area has
+been examined and declared gas free by the installation manager.
+(9)
+The installation manager shall record and maintain at the installation, the particulars of every occurrence as to where
+and when the flammable gas was found, when it was removed, and the percentage thereof.
+96.
+Safe distance.
+(1)
+No person shall smoke or be permitted to smoke within thirty metre of any well, separator, petroleum storage tank or
+other source of flammable gas.
+(2)
+The manager shall ensure that "no smoking" area in every mine is clearly demarcated.
+(3)
+No naked light or open flame or spark shall be permitted within thirty metre of any well or any place where petroleum is
+stored except with the permission of the manager as granted under sub-regulation (1) of regulation 94.
+(4)
+No flame type treater, crude oil treater or other flame-type equipment shall be placed or located within thirty metre of any
+well, separator, petroleum storage tank, except where such flame type equipment is fitted with a flame arrestor.
+Page 44/64
+----- PAGE 45 -----
+The Oil Mines Regulations, 2017
+(5)
+The manager of every mine shall maintain separation distance between blocks and production facilities in accordance
+with the Oil Industries Safety Directorates Standard, that is, OISD-STD-118 or its revised version or any other standard
+specified by the Chief Inspector of Mines by a general or special order based on quantitative risk assessment.
+97.
+Precautions against fire.
+(1)
+The manager of the mine shall ensure that dead leaves or dry vegetation is not allowed to accumulate or remain, and
+any combustible material other than that required for use within a period of twenty-four hours is not stored, within a
+distance of fifteen metre from any oil well or fuel tank storage area.
+(2)
+Where an internal combustion engine is located within thirty metre of any well, separator or storage tank -
+(a)
+its exhaust pipe shall be insulated or sufficiently cooled and the end of the exhaust pipe shall be directed away from the
+well head; and
+(b)
+its exhaust manifold shall be shielded to prevent its contact with liquid or gas which might otherwise fall on it.
+(3)
+The manager of the mine shall-
+(a)
+provide with an air intake shut-off valve with readily accessible remote control arrangement where a diesel engine is
+located within thirty metre of a well;
+(b)
+provide with water bath treater, heater treater and flare line, a suitable device for remote ignition of burners; and
+(c)
+ensure to effectively earth all plant, machinery and derricks for dissipation of any static electric charge.
+98.
+Precautions during welding, cutting or grinding.
+(1)
+No person other than a competent welder duly authorised by the manager shall carry out welding or cutting work
+requiring use of flame or electric welding apparatus.
+(2)
+No welder shall undertake any welding or cutting work in any classified hazardous area unless a written permit, called
+"hot work permit" in the form and method specified by the Chief Inspector of Mines is issued to the supervisor of the
+welder by the manager, deputy manager or installation manager and copies of every such hot work permit is maintained
+and kept available at the installation.
+(3)
+The person who has issued the permit shall explain the content of the hot work permit to the concerned welder and take
+his signature thereon to that effect before the commencement of hot work.
+(4)
+No work such as welding or cutting or grinding shall be undertaken in hazardous area unless the area is duly examined
+and found gas free by a competent person authorised for the purpose and a report of every such examination shall be
+recorded and maintained.
+(5)
+During any work of welding, cutting or grinding, the welder shall ensure that-
+(a)
+all flammable material, oil grease, oil-soaked earth are removed from the area;
+(b)
+no match, lighter, or smoking apparatus or any other source capable of igniting flammable gas is present at or around
+his place of work:
+Provided that nothing in this clause shall be deemed to prohibit the use of any suitable apparatus for the purpose of
+Page 45/64
+----- PAGE 46 -----
+The Oil Mines Regulations, 2017
+lighting or re-lighting the welding torch;
+(c)
+adequate precaution is taken to prevent fire being started by spark, slag or hot metal;
+(d)
+adequate number of suitable type of fire extinguishers and other fire fighting arrangements are made and kept readily
+available for immediate use;
+(e)
+when operation is carried out in confined space, adequate ventilation by mechanical means is constantly provided to
+prevent accumulation of flammable gas; and
+(f)
+when operation is carried out on pipeline which contain flammable fluid, the pipe be disconnected or blinded, the line be
+positively isolated, drained or purged with inert gas or water before hot work is undertaken and adequate precaution
+taken against build-up of pressure in the line while hot work is in progress:
+Provided that nothing in this clause shall be deemed to prohibit the use of hot-tapping machine on a running pipeline
+with prior written permission of the manager, deputy manager or an installation manager.
+(6)
+The installation manager shall ensure that where hot work permit is issued, welding and cutting operations are carried
+out in accordance with the said permits.
+99.
+Permit to work system for electrical installations.
+- The work on major electrical installations shall be carried out under "Permit to Work System" in accordance with the
+standard, that is, IS 5216 Part 1 of the Bureau of Indian Standards or its revised version.
+100.
+Fire-fighting equipment.
+(1)
+The manager of every mine shall ensure that fire-fighting facility provided under these regulations conforms to the Oil
+Industry Safety Directorate Standards, that is, OISDSTD- 116, OISD-STD-117 and OISD-STD-189 or their revised
+versions.
+(2)
+The owner, agent or manager of every mine shall provide the following fire fighting arrangements and equipment at
+every drilling and work-over rig, namely:-
+(a)
+adequate water storage, pumping facility, hose and nozzle; and
+(b)
+adequate number of appropriate portable fire extinguishers at the derrick floor, main engine area, electrical machinery,
+mud tank area, diesel storage area and other vulnerable places.
+(3)
+The owner, agent or manager of every mine shall provide fire fighting arrangement and equipment at every production
+facility in accordance with the standards specified in sub-regulation (1).
+(4)
+The owner, agent or manager of every mine shall provide a water ring main with adequate storage of water at site, pump
+feeding hydrants and water monitors at every petroleum storage tank.
+(5)
+The owner, agent or manager of every mine shall-
+(a)
+provide fixed-roof storage tanks with fixed foam connections;
+(b)
+ensure that all installations, including well head area with Christmas tree, are easily accessible to facilitate external fire
+fighting assistance without any hindrance; and
+(c)
+ensure that adequate number of fire tenders and equipment are kept readily available at convenient locations for use in
+Page 46/64
+----- PAGE 47 -----
+The Oil Mines Regulations, 2017
+emergency.
+(6)
+A fire officer shall once in every three months examine every fire extinguisher and discharge and refill it as often as may
+be necessary to ensure that it is in proper working order.
+(7)
+The fire officer shall record and maintain a report of every such examination or refilling under this regulation.
+101.
+Use of fire-fighting equipment.
+- The owner, agent and manager of a mine shall ensure that every person employed at any drilling rig, work-over rig,
+production facility, well head installation, storage tank or on such other work where fire-fighting equipment may be
+required to be used, are trained in use of such equipment and regular fire drills are held for the purpose.
+102.
+Emergency plan.
+(1)
+The owner, agent and manager of every mine shall frame an emergency plan for implementation in the event of an
+emergency and submit a copy thereof to the Regional Inspector and District Magistrate.
+(2)
+The emergency plan referred to in sub-regulation (1) shall be prepared after carrying out risk assessment of the
+activities in the mines with respect to -
+(a)
+fire;
+(b)
+blowout, explosion, ignition, influx of inflammable or noxious gas;
+(c)
+bursting of equipment, pipeline or uncontrolled escape of petroleum;
+(d)
+failure of structures;
+(e)
+chemical spillage;
+(f)
+natural calamities;
+(g)
+medical evacuation; and
+(h)
+any other emergencies.
+(3)
+The emergency plan shall contain-
+(a)
+the action to be taken in the event of any major accident including when and how the said action is to be taken;
+(b)
+organisation plan clearly stating the line of command and the responsibilities of each person involved in case of
+emergency situation;
+(c)
+equipment plan such as the make, type, capacity, location, field of operation, and operating procedure in respect of
+every equipment; and
+(d)
+strategy plan specifying the number of steps to be taken in any particular case of emergency.
+(4)
+The emergency plan shall clearly stipulate -
+(a)
+alarm and communication system;
+Page 47/64
+----- PAGE 48 -----
+The Oil Mines Regulations, 2017
+(b)
+system of notifying the authorities;
+(c)
+the duties and responsibilities of each key personnel including measures to be adopted to avert or minimise the
+consequences of the emergency;
+(d)
+when and how the equipment shall be used and when and how the action shall be carried out;
+(e)
+help or information that would be available from associated and external agencies including Government agencies;
+(f)
+guidelines for terminating the action; and
+(g)
+plan for training of personnel and for mock-drills.
+(5)
+The manager shall ensure that-
+(a)
+all equipment on the installation provided for compliance with the emergency plan is maintained in a reliable state under
+efficient working order and in good condition without repair; and
+(b)
+there is a written scheme prepared for the systematic examination of all emergency equipment by an independent
+competent person.
+(6)
+The manager shall-
+(a)
+specify the nature and frequency of examination that may be carried out, before first use of the equipment on the
+installation and also after any modification or repair; and
+(b)
+review and modify the emergency plan periodically and in particular before any alteration is carried out and submit a
+copy thereof to the Regional Inspector.
+Chapter- IX
+Machinery, Plant and Equipment
+103.
+Use of certain machinery and equipment.
+- The owner, agent and manager of every mine shall ensure that-
+(a)
+the appliance, equipment, machinery or other material that are used or may be used in the mine are of sound
+construction and of a type and specification conforming to an Indian or international standard identified for the purpose:
+Provided that such appliance, equipment, machinery or other material shall not be used in the mine unless the same has
+been tested and passed the test as per the standard and the manager has kept a record of the type, details of
+specification, reference of the particular standard, test criteria in accordance with the standard and status of testing,
+place of testing, copies of test report and any other relevant details; and
+(b)
+the code of practice and standard operating procedure for appliance, equipment, machinery or other material are
+complied with.
+104.
+Use of mobile cranes.
+(1)
+The mobile crane shall not be used in mines for lifting loads beyond its rated capacity.
+(2)
+The mobile cranes used in mines shall be provided with-
+(a)
+Page 48/64
+----- PAGE 49 -----
+The Oil Mines Regulations, 2017
+a safe load indicator to give warning when overload occurs;
+(b)
+a load radius indicator to indicate appropriate safe working load and radius which is clearly visible to the operator of the
+crane;
+(c)
+motion limit device to limit hoisting, swinging and boom extending; and
+(d)
+effective audio visual alarm which shall get activated automatically whenever the crane is reversed.
+(3)
+The operator of the crane shall have a clear view of the load being handled and where it is not practicable to do so,
+suitable signaling system shall be provided for giving signals for safe operations.
+(4)
+The slings, as per the standard, that is, IS 2762 of the Bureau of Indian Standards or its revised version shall only be
+used with the mobile crane.
+(5)
+The owner, agent and manager of a mine shall permit only competent and trained operator of the crane to operate the
+mobile crane in the mines.
+(6)
+The mobile crane shall be examined by a competent person at such interval and in accordance with such procedure as
+laid down by the manager or deputy manager and the result of such inspection shall be recorded by the person making
+the inspection.
+105.
+Lifting appliance and gears.
+(1)
+The manager shall ensure that lifting appliance and gear system intended to be used in the mine is properly maintained
+and operated for safety of the person.
+(2)
+The competent person authorised to operate the lifting appliance and gear in a mine shall ensure that -
+(a)
+the design, construction and installation of lifting appliance, gear and rope are in accordance with the standard specified
+by the Chief Inspector of Mines by a general or special order in writing; and
+(b)
+the selection of appliance and gear are suitable for the purpose for which they are intended for use and shall also be
+load tested for its rated capacity.
+(3)
+The owner, agent and manager of a mine shall ensure that job related training has been imparted to any person before
+he is engaged to operate the lifting appliances or gears in a mine.
+106.
+Classification of hazardous area.
+(1)
+The hazardous area in an oil mine shall be classified into different zones as specified in the Schedule.
+(2)
+The manager shall ensure that -
+(a)
+a plan referred to in clause (b) of sub-regulation (1) of regulation 9 and also the different classes of hazardous zones of
+the mine, as classified under sub-regulation (1), shown in distinct colour wash, is maintained;
+(b)
+different classes of zones are distinctly marked at actual places in the field by suitable notice boards or other effective
+means; and
+(c)
+every person employed in the mine is made aware of the dangers associated and precautions to be taken in case of
+Page 49/64
+----- PAGE 50 -----
+The Oil Mines Regulations, 2017
+different classified hazardous zones.
+107.
+Use of electrical equipment in hazardous area.
+(1)
+No person shall use electrical appliance, equipment or machinery including lighting apparatus in zone "0" hazardous
+area.
+(2)
+The owner, agent and manager of every mine shall ensure that the electrical appliance, equipment, machinery or other
+material that are used or may be used in zone "1" or zone "2" hazardous area of the mine is of a type and specification
+conforming to an Indian standard or an international standard adopted by the Bureau of Indian Standards through
+harmonisation, specified by the Chief Inspector of Mines by a general order notified in the Official Gazette:
+Provided that where no such standard exists, the Chief Inspector of Mines on merit, by a general order notified in the
+Official Gazette may accept an international standard:
+Provided further that the Chief Inspector of Mines on merit, by a general order notified in the Official Gazette may accept
+any other international standard equivalent to the harmonised standard:
+Provided also that such appliance, equipment, machinery or other material shall not be used in zone "1" and zone "2"
+hazardous area of the mine unless the same has been tested and passed the test as per the applicable standard and
+the manager has kept a record of the type, details of specification, reference of the particular standard, test criteria as
+per the standards and status of testing, place of testing, copies of test reports and any other relevant details.
+108.
+General provisions about construction and maintenance of machinery.
+- The owner, agent and manager of a mine shall ensure that all parts and working gear whether fixed or moveable
+including the anchoring and apparatus used as or forming part of the equipment of a mine and all foundations in or to
+which any such appliance is anchored or fixed are of good construction, suitable material, adequate strength and free
+from visible defect and shall be properly maintained.
+109.
+Maintenance system.
+(1)
+The owner, agent and manager of a mine shall ensure that all machinery and equipment in the mine are maintained in
+an efficient working order and kept in good repair.
+(2)
+The manager shall ensure that a procedure is established for the maintenance of machinery and equipment.
+(3)
+The procedure referred to in sub-regulation (2) shall -
+(a)
+specify the nature and frequency of examination; and
+(b)
+provide for an examination to be carried out, where appropriate, before the machinery and equipment is first used on the
+installation and also after major modification or repair.
+(4)
+The examination referred to in sub-regulation (3) shall mean critical scrutiny of machinery and equipment, in or out of
+service, using suitable techniques, including testing-
+(a)
+to assess its suitability for the purpose for which these are to be used;
+(b)
+to assess its actual condition; and
+(c)
+to determine any remedial measures.
+(5)
+The procedure established under this regulation shall include a plan for implementation of the remedial measures
+identified.
+Page 50/64
+----- PAGE 51 -----
+The Oil Mines Regulations, 2017
+(6)
+All measuring gadgets, meters and relief valves shall be calibrated at intervals specified by the manufacturers.
+110.
+Internal combustion engines.
+(1)
+The manager shall ensure that internal combustion engine of over thirty horse power is provided with means other than
+manual, for starting them:
+Provided that nothing in this sub-regulation shall be deemed to prohibit manual starting in an emergency.
+(2)
+Where compressed air is used for starting the engine, a non-return valve shall be provided in the compressed airline as
+close to the engine as practicable.
+(3)
+The exhaust system of the engine shall be provided with suitable device to prevent discharge of open flame and sparks
+from the exhaust.
+(4)
+Adequate precaution shall be taken to prevent accumulation of flammable vapour near the internal combustion engine.
+(5)
+The electrical accessories of an internal combustion engine, if installed in hazardous area shall comply with the
+provisions of the regulation 107.
+111.
+Apparatus under pressure.
+(1)
+The manager shall ensure that the Oil Industry Safety Directorate Standard, that is, OISD-STD-128 or its revised version
+is followed for operation and maintenance of apparatus under pressure.
+(2)
+All apparatus used as or forming part of the equipment of a mine which contains or produces air, gas, petroleum or
+steam at a pressure greater than atmospheric pressure shall be so constructed, installed and maintained as to obviate
+any risk of fire, bursting, explosion or collapse or the production of noxious gas.
+(3)
+Every air receiver or container or separator used for storage of petroleum or gas or steam under pressure shall be fitted
+with a safety valve and pressure measuring device which shows pressure in excess of the atmospheric pressure.
+(4)
+A competent person shall, before an air receiver or a container containing petroleum or gas or steam is cased in or put
+in commission-
+(a)
+subject it to a hydraulic test at a pressure at least one and a half times of the maximum permissible working pressure
+and similar test shall be made after every renewal or repair and in any case at intervals of not more than five years or at
+such shorter intervals as may be required by the Regional Inspector; and
+(b)
+record the result of every such test which shall be countersigned and dated by the manager, deputy manager or
+installation manager.
+(5)
+The manager shall ensure that the discharge line of an apparatus under pressure is provided with a pressure relieving
+safety device.
+(6)
+There shall be no valve or fitting between the pressure apparatus and its pressure relieving safety device or between the
+device and point of discharge, as would render the device ineffective.
+(7)
+The pressure relieving safety device shall be set to open at a pressure not exceeding ten per cent above the maximum
+allowable working pressure.
+(8)
+Page 51/64
+----- PAGE 52 -----
+The Oil Mines Regulations, 2017
+The pressure relieving safety device shall be tested and calibrated at least once in a year and record of such test shall
+be maintained at the mine.
+(9)
+Every incoming gas line connected to any compressor shall be provided with a shut-off valve at a distance outside the
+compressor shed.
+(10)
+No repair shall be undertaken in respect of any gas compressor and pipelines and fittings connected to it unless the
+control valve of the inlet and discharge lines are closed and securely locked.
+112.
+Precautions regarding moving parts of machinery.
+(1)
+In every mine, where winch is used, it shall be provided and used with a stopper, pawl or other reliable holder.
+(2)
+Every flywheel and every other dangerous exposed part of any machinery used as or forming part of the equipment shall
+be adequately fenced by suitable guards of substantial construction to prevent danger and such guards shall be kept in
+position while the parts of the machinery are in motion or in use but they may be removed for carrying out any
+examination, adjustment or repair if adequate precaution is taken.
+(3)
+No person shall be allowed to repair, adjust, clean or lubricate machinery in motion where there is risk of injury.
+(4)
+No person shall be allowed to shift or adjust a driving belt, chain or rope while the machinery is in motion unless a
+proper mechanical appliance is provided for the purpose.
+(5)
+No person in close proximity to moving machinery shall wear or be permitted to wear loose outer clothing.
+(6)
+No unauthorised person shall be permitted to enter in any engine room, including gas turbine, compressor, or other
+machine area, or in any way interfere with the machinery.
+113.
+Engine rooms and exits.
+(1)
+Every engine, motor, compressor, turbine and pump room, and every room in which highly flammable materials are
+stored shall be kept clean, and be provided with at least two exits.
+(2)
+Every exit shall be clearly marked, properly maintained and kept free from obstruction.
+114.
+Working and examination of machinery.
+(1)
+No machinery shall be operated by any person, otherwise than by or under the constant supervision of a competent
+person.
+(2)
+Every person in charge of a machinery, apparatus or appliance shall before commencing work ensure that it is in proper
+working order and if he observes any defect therein, he shall immediately report the fact to the installation manager or
+other competent person.
+(3)
+Every person in-charge of an air-receiver shall ensure that no extra weight is added to the safety valves and that the
+permissible pressure of the air is not exceeded.
+(4)
+A competent person or persons appointed for the purpose shall, once at least in every seven days, make an inspection
+of all machinery and plant in use, and shall record the result thereof.
+(5)
+The electrical machinery and plant shall be under the charge of competent person holding a valid electrical supervisor's
+Page 52/64
+----- PAGE 53 -----
+The Oil Mines Regulations, 2017
+certificate of competency, covering mining installation issued under the Central Electricity Authority (Measures Relating
+to Safety and Electric Supply) Regulations, 2010.
+Chapter - X
+General Safety Provision
+115.
+Code of practice.
+(1)
+The manager shall, before introducing any machinery or new operation connected with the mine, frame and enforce
+code of practice, not being inconsistent with the Act or these regulations, for each such machinery or operation, as the
+case may be.
+(2)
+The code of practice shall be framed with due regard to the type, size and capacity of the machinery or operation in use
+and prevailing local conditions and a copy of the same shall be submitted to the Regional Inspector, who may at any
+time, by an order in writing, require such modifications in the code as he may specify therein:
+Provided that in a mine where such machinery or operation is already in use, the aforesaid code of practice shall be
+framed and enforced within ninety days from the date of coming into force of these regulations.
+(3)
+The code of practice, inter-alia, shall provide for-
+(a)
+safe operating procedures for the machinery or operation to which it relates to;
+(b)
+examination and testing of the machinery before first use after installation, re-installation, modification, alteration or
+repair;
+(c)
+schedule and nature of examination and testing of the machine, including its sub-assemblies, so as to ensure its safe
+operation; and
+(d)
+the manner in which the record of examination shall be kept.
+(4)
+The owner, agent or manager of every mine shall hand over copies of such code of practice to concerned officials and
+ensure effective enforcement thereof.
+(5)
+A copy of the code of practice referred to in sub-regulation (1) shall always be kept in the office of the mine.
+116.
+Housekeeping.
+(1)
+The loose materials, which are not required for use, shall not be placed or left so as to dangerously obstruct the
+workplace and passage-way.
+(2)
+All projecting nails and ends of railings shall be bent or covered with protection to prevent injury.
+(3)
+The scrap, waste and rubbish shall not be allowed to accumulate in work places, access or egress.
+(4)
+Workplace and passage-way that are slippery owing to oil, mud or other causes shall be cleaned up and made safe.
+(5)
+The portable equipment shall be returned after use to its designated storage place.
+(6)
+The equipment, tools and small objects shall not be left lying about where they could cause an accident either by falling
+or causing person to trip.
+117.
+General lighting.
+Page 53/64
+----- PAGE 54 -----
+The Oil Mines Regulations, 2017
+(1)
+The manager shall ensure provision of adequate general lighting arrangements during working hours at the following
+places, namely:-
+(a)
+where the natural lighting is insufficient;
+(b)
+derrick floor;
+(c)
+driller's stand and control panel;
+(d)
+monkey board;
+(e)
+every engine and pump house;
+(f)
+derrick sub-structure near blowout preventer controls;
+(g)
+every place where persons are to work; and
+(h)
+every means of escape, access or egress.
+(2)
+The lighting provided in a mine shall as far as possible be so arranged as to prevent glare or eye strain.
+118.
+Electric lighting.
+(1)
+Every electrical lighting apparatus used in hazardous area of a mine shall be of such type and specifications conforming
+to an Indian standard or an international standard adopted by the Bureau of Indian Standards through harmonisation,
+specified by the Chief Inspector of Mines by a general order notified in the Official Gazette:
+Provided that where no such standard exists, the Chief Inspector of Mines may on merit, accept an international
+standard specified by him by a general order notified in the Official Gazette:
+Provided further that the Chief Inspector of Mines may accept any other international standard equivalent to the
+harmonised standard specified by him by a general order notified in the Official Gazette:
+Provided also that such apparatus shall not be used in hazardous area of the mine unless the same has been tested
+and passed the tests as per the applicable standards and the manager has kept a record of the type, details of
+specification, reference of the particular standard, test criteria in accordance with the standards and status of testing,
+place of testing, copies of test report and any other relevant details.
+(2)
+The lighting system installed in the mine shall comply with the provisions of the Central Electricity Authority (Measures
+Relating to Safety and Electric Supply) Regulations, 2010.
+119.
+Standards of lighting.
+- The owner, agent or manager of every mine shall ensure that the standard of lighting in any specified area or place in a
+mine is in accordance with the Oil Industry Safety Directorate Recommended Practices, that is, OISD-RP -149 or its
+revised version.
+120.
+Emergency lighting.
+- In every mine adequate number of self contained portable hand lamps of the standard specified by the Chief Inspector
+of Mines, by a general or special order in writing, shall be kept available for immediate use in emergency.
+121.
+Supply and use of protective footwear.
+(1)
+No person shall go into work or be allowed to go into work in a mine unless he wears a protective footwear of a type and
+Page 54/64
+----- PAGE 55 -----
+The Oil Mines Regulations, 2017
+specification conforming to an Indian standard or an international standard adopted by the Bureau of Indian Standards
+through harmonisation, specified by the Chief Inspector of Mines by a general order notified in the Official Gazette:
+Provided that where no such standard exists, the Chief Inspector of Mines may on merit specify an international
+standard, by a general order notified in the Official Gazette:
+Provided further that the Chief Inspector of Mines may, on merit, by a general order notified in the Official Gazette,
+specify any other international standard equivalent to the harmonised standard:
+Provided also that such footwear shall not be used in the mine unless the same has been tested and passed the test as
+per the applicable standard and the manager has kept a record of the type, details of specification, reference of the
+particular standard, test criteria as per the standard and status of testing, place of testing, copies of test report and any
+other relevant details.
+(2)
+The owner, agent and manager of a mine shall ensure supply of protective footwear referred to in sub-regulation (1) at
+interval not exceeding one year or such other intervals as the Chief Inspector of Mines may specify by a general or
+special order in writing:
+Provided that where such foot wear is damaged during its legitimate use, it shall be immediately replaced free of cost.
+(3)
+The owner, agent or manager of a mine shall provide protective footwear free of charge.
+122.
+Supply and use of protective helmet.
+(1)
+No person shall go into, or work, or be allowed to go into work in a drilling rig or work-over rig or rig building or rig
+dismantling or at such other place of work where there is a hazard from flying or falling objects unless he wears a helmet
+of a type and specification conforming to an Indian standard or an international standard adopted by the Bureau of
+Indian Standards through harmonisation, specified by the Chief Inspector of Mines by a general order notified in the
+Official Gazette:
+Provided that where no such standard exists, the Chief Inspector of Mines may on merit specify an international
+standard by general order notified in the Official Gazette:
+Provided further that the Chief Inspector of Mines may on merit specify any other international standard equivalent to the
+harmonised standard by general order notified in the Official Gazette:
+Provided also that such helmets shall not be used in the mine unless the same has been tested and passed the test as
+per the applicable standards and the manager has kept a record of the type, details of specification, reference of the
+particular standards, test criteria as per the standards and status of testing, place of testing, copies of test report and
+any other relevant details.
+(2)
+The owner, agent and manager of a mine shall ensure supply of helmet referred to in sub-regulation (1) at intervals not
+exceeding three years and shall at all times maintain a sufficient stock of helmets in order to ensure immediate supply
+as and when need for the same arise:
+Provided that when a helmet is damaged during its legitimate use, it shall be immediately replaced.
+(3)
+The owner, agent or manager of mine shall provide protective helmet free of charge.
+123.
+Protective equipment.
+(1)
+Every person engaged in the operation and every other person who may be exposed to the risk of injury, poisoning or
+disease arising from the operations shall be provided with-
+(a)
+depending upon the risk, suitable protective equipment including respiratory protective equipment, eye protectors,
+gloves, overalls and aprons; and
+(b)
+suitable protective outer clothing for use in rain and extreme weather conditions.
+(2)
+Page 55/64
+----- PAGE 56 -----
+The Oil Mines Regulations, 2017
+The owner, agent and manager of a mine shall ensure supply of the protective equipment under sub-regulation (1) free
+of charge.
+(3)
+Every person provided with protective equipment shall use the same while at work.
+124.
+Protection against noise.
+(1)
+The owner, agent or manager shall take steps to reduce the noise level and to reduce the exposure of work persons to
+noise.
+(2)
+No person shall be allowed to work without appropriate ear protection in an area if he is exposed to an equivalent
+continuous noise level exceeding 90 dB(A).
+(3)
+No person shall enter or be allowed to enter an area in which the sound level is 140 dB(A) or more.
+(4)
+The Chief Inspector of Mines may, from time to time, by notification in the Official Gazette, specify the permissible noise
+exposure in any area or place in a mine.
+125.
+Communication.
+(1)
+The owner, agent or manager of the mine shall provide and maintain efficient means of communication and an
+alternative means of signalling in good working order between manned installations including the office of the manager
+and other places of work and wherever possible, provide the communication by radio telephone.
+(2)
+The equipment for external communication shall be chosen on the basis of operational needs, type of activity and
+defined situations of hazard and accident.
+(3)
+The communication equipment and associated power supply shall be designed and protected so as to remain functional
+in situations of hazard or accident.
+(4)
+Where electrical signalling is used-
+(a)
+adequate precautions shall be taken to prevent signal and telephone wires coming into contact with other cables and
+apparatus;
+(b)
+the voltage used in any one circuit shall not exceed thirty volts;
+(c)
+contact-makers shall be so constructed as to prevent accidental closing of the circuit; and
+(d)
+bare conductors, where used, shall be installed in suitable insulators.
+126.
+Safety while working at height.
+- Where any person is working at more than one metre and eighty centimetre height and where there is likelihood of fall
+hazard, the owner, agent or manager of mine shall provide a safety belt with full body harness as per the standard, that
+is, IS 3521 of the Bureau of Indian Standards or its revised version which shall be attached by means of a lifeline to a
+fixed anchor.
+127.
+Precautions against dust, toxic gases and ionizing radiations.
+(1)
+The owner, agent and manager of a mine shall ensure the prevention and control of emission of dust, toxic gas, fume
+and ionising radiation at source as far as reasonably practicable.
+Page 56/64
+----- PAGE 57 -----
+The Oil Mines Regulations, 2017
+(2)
+A competent person shall instruct every person liable to be exposed to dust, toxic gas, fume and ionising radiation about
+the safe working method and technique.
+(3)
+The permissible limit of exposure to dust, toxic gas, fume and ionising radiation shall be as per the applicable regulatory
+requirements.
+128.
+Safety warning signs.
+(1)
+The storage area and container of toxic, corrosive, flammable, poisonous and radioactive material shall be properly
+labelled and appropriately stored according to material safety data sheet content.
+(2)
+The warning sign shall be posted to denote any hazardous situation.
+(3)
+The warning sign shall be posted in area where the use of personal protective equipment is required.
+(4)
+The identification sign shall be clearly posted to locate emergency equipment and direction of escape route.
+(5)
+The manager shall ensure that the pipelines carrying steam or fluid at high pressure are clearly identified.
+129.
+Protection against pollution of environment.
+(1)
+The owner, agent and manage of every mine shall comply with the standards and guidelines of the Environment
+(Protection) Rules, 1986 for discharging liquid effluent and gaseous emission, and for disposal of solid waste, drill
+cutting and drilling fluid applicable for oil drilling and gas extraction industry.
+(2)
+Any oil discharged from a well during its completion, testing and repair shall be collected in suitably constructed and
+adequately fenced disposal pits or tanks suitably located.
+(3)
+No disposal pit shall be constructed within forty-five metre of any railway, public road or of any public works or of other
+permanent structure not belonging to the owner.
+(4)
+The untreated sewage, formation water, oil, drilling fluid, waste, chemical substances or refuse from a well, tank or other
+production installation shall not be permitted,-
+(a)
+to create hazard to public health and safety;
+(b)
+to run into or contaminate any fresh water structure or body of water or to remain in a place from which it might
+contaminate any fresh water or body of water; and
+(c)
+to run over or damage any land, highway or public road.
+(5)
+No fluid shall be discharged into sea or fresh water structure or any body of water, unless it is treated and samples of
+fluid at regular interval are obtained and analysed and the result of such analysis is maintained by the person collecting
+the sample and analysing the same.
+(6)
+No scrap, surplus or unused material shall be permitted to be dumped or disposed off in the sea or in the vicinity of any
+installation.
+(7)
+(a)
+The gas produced at any installation shall not be discharged to the atmosphere unless burnt in accordance with clause
+Page 57/64
+----- PAGE 58 -----
+The Oil Mines Regulations, 2017
+(b); and
+(b)
+the gas to be burnt, referred to in clause (a) shall be discharged from a flare line in the following manners, namely:-
+(i)
+flare-stack height shall be in accordance with the standards referred under sub-regulation (1);
+(ii)
+the flare-line shall be adequately anchored and provided with suitable means to prevent extinction of the flame; and
+(iii)
+when the gas-flow is intermittent, the flare-line shall be provided with a remote controlled electrical ignition device or any
+other suitable device to ensure continuous ignition of any gases.
+130.
+Fencing.
+- The owner, agent or manage of a mine shall-
+(a)
+provide the protected area surrounding every drilling or work-over rig with fence of not less than one metre and eighty
+centimetre in height;
+(b)
+provide permanent installation with protective wall of not less than one metre and eighty centimeter in height;
+(c)
+ensure that the well on land is securely fenced and gates are locked;
+(d)
+take precaution to prevent any unauthorised person from access to any place which has been duly fenced; and
+(e)
+ensure that every fence is examined once in every fourteen days by a competent person and a report of every such
+inspection is maintained at the site by the person who made the examination.
+131.
+Safety Management Plan.
+(1)
+The owner, agent and manager of every mine shall prepare and implement safety management plan in respect of all
+operations of the mine in line with the health, safety and environment policy duly approved by the competent authority of
+the organization and the same shall be made in such a manner that-
+(a)
+the requirements of the Act and of these regulations, bye-laws and orders made thereunder are complied with in relation
+to any activity or in connection therewith;
+(b)
+the Safety Management Plan shall be prepared in English and in Hindi, if English is not understood by the relevant
+employees;
+(c)
+an organizational structure is in place with the aim of ensuring safety and health performance;
+(d)
+the risk to safety and health are evaluated and measures are taken to reduce the risk to persons and damage to
+machinery or equipment likely to be affected;
+(e)
+appropriate control is in place to ensure promotion of safety and health;
+(f)
+it provides for-
+(i)
+safety manuals, rules and regulations;
+(ii)
+standard operating procedures for all critical activities;
+(iii)
+Page 58/64
+----- PAGE 59 -----
+The Oil Mines Regulations, 2017
+the identification of hazards and assessment of risks and measures to eliminate the identified hazards risks;
+(iv)
+inspection, testing and maintenance of the equipment and machinery;
+(v)
+the detail procedures for operational activities, pre-start up safety review mechanisms, work permit system, statutory
+trainings, mechanical integrity program, inspection and testing, incident investigation, off-the job safety, safety records,
+health hazard data;
+(vi)
+management of change related to process and equipment as per Oil Industry Safety Directorate Guidelines, that is,
+OISD-GDN-178;
+(vii)
+written action plan to implement employees' participation through safety committees;
+(viii)
+emergency preparedness and response plan;
+(ix)
+adequate communication and safety displays ;
+(x)
+any other matter that is necessary to ensure safety and occupational health of the personnel working in the mine;
+(xi)
+bridging document for contractual works;
+(xii)
+inspection, monitoring, audit, review, training and continual sustainable improvement as per applicable Indian or
+international standards and practices; and
+(xiii)
+any bother activity or operation which the Chief Inspector of Mines may specify in writing.
+(2)
+The owner, agent and manager of mine shall ensure that a copy of safety management plan is made available at all the
+installations of the mine.
+(3)
+A copy of the safety management plan referred to in sub-regulation (2) shall be submitted to Chief Inspector of Mines
+and Regional Inspector of mines within one hundred and eighty days from the date of coming into force of these
+regulations.
+(4)
+The owner, agent or manager of a mine shall arrange to carry out internal safety audits for every installation of the mine
+by duly appointed team at intervals specified for the purpose in the safety management plan:
+Provided that first safety audit for every such installation shall be completed within one year of coming into force of these
+regulations.
+(5)
+The owner, agent or manager of mine shall maintain the reports of every audit carried out under sub-regulation (4).
+Chapter - XI
+Miscellaneous
+132.
+Contractors, designer and service providers.
+- While hiring contractor, designer and service provider, the owner and the agent of the mine shall ensure that the
+contractors and the service providers as the case may be, are qualified to carry out the requirements under the Act, or
+the rules, regulations, bye laws or orders made thereunder, and that such contractor, designer and service provider
+comply with the requirements or duties assigned to them at the mine.
+133.
+General safety.
+- No person shall negligently or willfully do anything likely to endanger life or limb in the mine or negligently or willfully
+omit to do anything necessary for the safety of the mine or of the persons employed therein.
+Page 59/64
+----- PAGE 60 -----
+The Oil Mines Regulations, 2017
+134.
+Safety and health education and instructions.
+- Safety and health education and instruction programmes shall be organised regularly in every mine to make the
+workers safety conscious and instill an awareness of occupational safety and health at every level.
+135.
+Place of accident not to be disturbed.
+(1)
+Whenever there occurs in a mine an accident causing loss of life or serious bodily injury to any person, the place of
+accident shall not be disturbed or altered before the arrival or without the consent of the Chief Inspector of Mines or the
+Inspector to whom notice of the accident is required to be given under subsection (1) of section 23 unless such
+disturbance or alteration is necessary to prevent any further accident, to remove bodies of the deceased or to rescue
+any person from danger, or unless discontinuance of work at the place of accident would seriously impede the working
+of the mine:
+Provided that where the Chief Inspector of Mines or the concerned Inspector fails to inspect the place of accident within
+seventy-two hours of the time of the accident, work may be resumed at the place of accident.
+(2)
+No person shall disturb or alter due to any reason whatsoever, the place of accident involving a fatal or serious accident,
+unless a sketch of the site illustrating the accident and all relevant details has been prepared in duplicate and such
+sketch has been duly signed by the manager or assistant manager, safety officer and the workmen's inspector or, where
+there is no workmen's inspector, by a work person nominated by the workers in this behalf, and such sketch shall also
+be supported by the photographs of the place of accident:
+Provided that if the place of accident is disturbed or altered to prevent further accident or to rescue persons from danger
+before the sketch could be prepared, the same shall be prepared immediately thereafter, giving all relevant details as
+existed before the place was disturbed or altered.
+(3)
+One of the authenticated sketches shall be delivered or sent to the concerned Inspector.
+136.
+Pointing out of contraventions detected during inspections.
+(1)
+If the Chief Inspector of Mines or an Inspector during his inspection of any mine, finds or comes to know of any
+contravention of any provisions of the Act or the regulations, rules, bye-laws or orders made thereunder, he shall either
+himself intimate or cause the same to be intimated to the owner, agent or manager of the mine, of such contravention for
+their rectification.
+(2)
+The owner, agent or manager of the mine shall, within three days of the receipt of intimation under sub-regulation (1),
+display the contents thereof on the notice board of the mine for a period of at least fifteen days.
+(3)
+The owner, agent or manager of the mine shall, within a period not exceeding fifteen days from the date of receipt of the
+intimation under sub-regulation (1), intimate to the Regional Inspector the action taken to remedy each of the
+contraventions and the manner in which such contraventions have been remedied.
+(4)
+The agent or manager or in their absence the next senior most official of the mine shall accompany the Chief Inspector
+of Mines or Inspector during his inspection and note down immediately the contraventions pointed out by him on the
+spot.
+(5)
+The owner, agent or manager of the mine, shall as soon as possible, intimate to the Chief Inspector of Mines or the
+Inspector who made the inspection, details of action taken to remedy the contraventions, intimated under
+sub-regulation(1).
+137.
+Chief Inspector of Mines to exercise power of Regional Inspector.
+- Any power granted under these regulations to the Regional Inspector may be exercised by the Chief Inspector of
+Page 60/64
+----- PAGE 61 -----
+The Oil Mines Regulations, 2017
+Mines or any other Inspector authorised in writing in that behalf by the Chief Inspector of Mines.
+138.
+Signing of Returns, Notices and Correspondence.
+- All returns and notices required under or correspondence made in connection with the provisions of the Act and of the
+regulations or orders made thereunder shall be signed by the owner, agent or manager of the mine:
+Provided that in case of submission of the returns, notices and correspondences in electronic form, the owner, agent
+and manager of the mine shall ensure that the same is digitally signed and not liable to alteration or tampering and
+secured in such a manner as to facilitate retrieval by the owner, agent, manager of the mine and the Chief Inspector of
+Mines or an Inspector:
+Provided further that the owner, agent or manager may, by a power of attorney, delegate these functions to any other
+specified person:
+Provided also that in respect of notice of accident, the manager may delegate this function by written authorisation to
+any deputy manager or installation manager.
+139.
+Reports, records and registers.
+- The owner, agent and manager of the mine shall ensure that the reports, records and registers required to be
+maintained under these regulations are maintained in interleaved bound paged registers for the respective purposes and
+signed by the concerned competent person or official, as the case may be, and countersigned by the manager:
+Provided that in case of maintenance of reports, records and registers in electronic form, the owner, agent and manager
+of the mine shall ensure that the same is digitally signed and not liable to alteration or tampering and secured in such a
+manner as to facilitate retrieval by owner, agent, manager of the mine and the Chief Inspector or an Inspector of Mines:
+Provided further that the manager may authorise a deputy manager or installation manger to countersign any reports,
+records or register on his behalf, except in cases where the manager is specifically required under these regulations to
+countersign a report or record or register.
+140.
+Permissions, etc. granted by the manager.
+- Every manager on taking over charge of a mine shall review all permissions granted in writing under these regulations
+by his predecessor; and if he finds them to his satisfaction, he shall confirm the same by countersigning the permissions
+individually or issue fresh ones or cancel them, as the case may be.
+141.
+Publication of orders, forms and instructions.
+- The orders, forms and instructions under these regulations shall be published in the Official Gazette and by other
+suitable means as specified by the Chief Inspector of Mines.
+142.
+Power to relax.
+- Where in the opinion of the Chief Inspector of Mines, the conditions pertaining to a mine are such as to render
+compliance with any conditions contained in these regulations which are not reasonably practicable, he may by order in
+writing, and subject to such conditions as he may, specify therein grant exemption from the said provisions.
+143.
+Appeal to Chief Inspector of Mines.
+- Any person aggrieved by an order of a Regional Inspector may prefer to appeal to the Chief Inspector of Mines, who
+may confirm, modify or cancel the order and every such appeal shall be preferred within fifteen days of the receipt of the
+order by the appellant.
+144.
+Appeal to Committee.
+(1)
+Any person aggrieved by an order of the Chief Inspector of Mines may prefer an appeal within twenty days of the receipt
+of the order to the Committee constituted under section 12 of the Act.
+(2)
+The owner, agent and manager of the mine shall comply with the order of the Chief Inspector of Mines against which
+appeal is preferred under sub-regulation (1):
+Page 61/64
+----- PAGE 62 -----
+The Oil Mines Regulations, 2017
+Provided that the Committee may, on application by the appellant, suspend the operation of the order appealed against,
+pending disposal of the appeal.
+Schedule
+[See regulation 106]
+Classification of Hazardous Area in Oil Mine
+? Zone "0": This is an area in which hazardous atmosphere is continuously present.
+? Zone "1": Any area in which hazardous atmosphere is likely to occur under normal operating conditions.
+? Zone "2": An area in which hazardous atmosphere is likely to be present under abnormal operating conditions.
+A. Drilling and Work-Over Operations: - (1) Well - head area:
+(i)
+When the derrick is not enclosed and the sub-structure is open to ventilation, the area in all directions from the base of
+rotary table extending up to 3.0 metre shall be zone "2" hazardous area. Any cellars, trenches and pits below the ground
+level shall be zone "1" hazardous area; the area lying up to 3.0 metre in horizontal direction from the edge of any cellars,
+trenches on pit and 0.5 metre vertically above the cellars, trenches on pit shall be zone "2" hazardous area.
+(ii)
+When the derrick floor and substructure are enclosed, the enclosed substructure below the derrick floor, including
+collars, pits or sumps below the ground level, shall be zone "1" hazardous area; the enclosed area above the derrick
+floor shall be zone "2" hazardous area.
+(2)
+Mud Tank and Channel:
+The free space above the level of mud in tank and channel shall be zone "1" hazardous area; the area in a radius of 3.0
+metre in all direction from the edge of mud tank and channel shall be zone "2" hazardous area.
+(3)
+Shale Shaker:
+(i)
+The area within a radius of 1.5 metre in all directions from the shale shaker in open air shall be zone "1" hazardous area.
+The area beyond 1.5 metre and up to 3.0 metre in all directions from the shale shaker shall be zone "2" hazardous area.
+(ii)
+When the shale shaker is located in an enclosure, the enclosed area shall be zone "1" hazardous area to the extent of
+the enclosure. The area outside the shale shaker and up to 1.5 metre in all directions from the shale shaker shall be
+zone "2" hazardous area.
+(4)
+Degasser:
+The area within a radius of 1.5 metre from the open end of the vent extending in all directions shall be zone "1"; the area
+beyond 1.5 metre and up to 3 metre in all directions from the open end of vent shall be zone "2" hazardous area.
+(5)
+Degasser and Desilter:
+The area within a radius of 1.5 metre in all direction from the Desander and Desilter location in open air shall be zone "2"
+hazardous area.
+(6)
+Effluent Pit and Open sump:
+The free space above the level of flammable liquid within the effluent pit on sump shall be zone "1" hazardous area; the
+free space lying up to 3.0 metre in hazardous direction form the edge of any effluent pit or sump and 5.0 metre vertically
+above the effluent pit or open sump shall be zone "2" hazardous area.
+B. Oil Wells. - (1) Flowing Well:
+A well area below the ground level shall be zone "1" hazardous area; the area lying up to 3.0 metre in horizontal
+direction from the edge of any cellars, trenches or pit and 0.5metre vertically above the callers trenches on sump shall
+be zone "2" hazardous area.
+(2)
+Artificially Lifted Well:
+(i)
+Page 62/64
+----- PAGE 63 -----
+The Oil Mines Regulations, 2017
+The area in wells equipped with sucker-rod pump to 3.0 metre above the ground level up to 3.0 metre horizontal in all
+directions from the well head shall be zone - "2" hazardous area. In case of cellar, an area below the ground level shall
+be zone "1" hazardous area; the area lying up to 3.0 metre in horizontal direction from the edge of any cellars and 0.5
+metre vertically above the cellars shall be zone "2" hazardous area.
+(ii)
+The area in wells equipped with submersible electric motor driven pump or hydraulic subsurface pump or gas lift wells
+shall be same as specified in clause B(1) when the well is provided with cellar or sump.
+(3)
+Well Under Production Test:
+The area within a radius of 8.0 metre from an open discharge of petroleum bearing fluid from a well under production
+test shall be zone "1" hazardous area. The area beyond zone 1 hazardous area for a future distance of 8 metre in all
+directions shall be zone "2" hazardous area.
+(4)
+Well Servicing Operations:
+The area within a radius of 10.0 metre in all direction from a well-pulling and other such well servicing shall be zone "2"
+hazardous area:
+Provided that where cellar or sump is present, the area within the cellar or sump shall be zone "1" hazardous area and
+the area up to 3.0 metre in horizontal direction from the edge of any cellars or sump and 0.5 metre vertically above the
+cellar or sump shall be zone "2" hazardous area.
+(5)
+Gas Vent:
+The area within a radius of 1.5 metre from open end of the vent extending in all direction shall be zone "1" hazardous
+area and area lying within a radius beyond zone "1" hazardous area up to 3.0 metre of the vent shall be zone "2"
+hazardous area.
+C. Oil and Gas Processing and Storage Equipment. - (1) Oil - gas separation vessels, fire vessels, Dehydrator, stabilizer
+hydrocarbon recovery unit:
+(i)
+the area within a radius of 3.0 metre from any oil-gas separation vessel, fired vessel, dehydrator, stabiliser and
+hydrocarbon recovery unit shall be zone "2" hazardous area;
+(ii)
+any trench or pit below the ground level shall be zone "1" hazardous area and the area lying up to 3.0 metre in
+horizontal direction from the edge of any trench or pit and 0.5 metre vertically above the trench or pit shall be zone "2"
+hazardous area.
+(2)
+Gas Vent:
+The area within a radius of 1.5 metre from open end of the vent extending in all direction shall be zone "1" hazardous
+area and area lying within a radius beyond zone "1" hazardous area up to 3.0 metre of the vent shall be zone "2"
+hazardous area.
+(3)
+Relief Valve:
+The area within a radius of not less than 3.0 metre from discharge of a relief valve, extending in all direction shall be
+zone "2" hazardous area subject to the conditions that there shall be no electrical equipment in direct path of discharge
+from relief valve.
+(4)
+Pig Trap:
+The area within a radius of 1.5 metre of pig launching or receiving trap extending in all direction shall be zone "1"
+hazardous area. The area lying beyond zone "1" hazardous area and up to a radius of 3.0 metre in all directions pig
+launching/ receiving trap shall be zone "2" hazardous area.
+(5)
+Pump Or Gas Compressor:
+(i)
+Page 63/64
+----- PAGE 64 -----
+The Oil Mines Regulations, 2017
+Where a pump handling flammable liquid or a gas compressor located in open air or under well ventilated shed without
+wells, the area lying up to 3.0 metre in all directions from the pump or compressor shall be zone "2" hazardous area.
+(ii)
+Where a pump or a compressor is located in an adequately ventilated building, the entire interior of such building
+including an area within 1.5 metre of the vent shall be zone "2" hazardous area.
+(iii)
+Pits, sumps, trenches below the ground level shall be zone "1" hazardous area and the area lying up to 3.0 metre in
+horizontal direction from the edge of any trench or pit and 0.5 metre vertically above the pits, sumps or trenches shall be
+zone "2" hazardous area.
+(6)
+Storage Tanks:
+(i)
+In case of floating roof tank, the space above the floating roof and inside the enclosures up to top level of the enclosure
+wall shall be zone "1" hazardous area; the area beyond zone "1" hazardous area and up to a radius of 4.5 metre in all
+directions from tank shall and shell top shall be zone "2" hazardous area. In case of a dyke, zone "2" hazardous area
+shall extend vertically up to the height of the dyke and horizontally up to the physical boundary of the dyke.
+(ii)
+In case of fixed roof tank, the area inside the tank and within a radius of 1.5 metre from all opening including breather
+valve, dip hatch, thief hatch and safety valve shall be zone "1" hazardous area; the area zone "1" beyond hazardous
+area and up to a radius of 3.0 metre in all directions from tank shall and rood of the tank be zone "2" hazardous area. In
+case of a dyke, the sump in the dyke shall be zone "1" hazardous area and an area extending vertically up to a height of
+the dyke horizontally to the physical boundary of the dyke shall be zone "2" hazardous area.
+D. General. - Wherever sampling clock or bleed off valve is fitted, the area up to 1.5 metre in all directions from the
+release point shall be zone "2" hazardous area.
+Related AI tags, queries and research notes
+Translation
+Page 64/64

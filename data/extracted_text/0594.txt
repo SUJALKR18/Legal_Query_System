@@ -1,0 +1,1481 @@
+
+----- PAGE 1 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+Source: https://indiankanoon.org/doc/175170794/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+UNION OF INDIA
+India
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+Rule THE-MERCHANT-SHIPPING-TONNAGE-MEASUREMENT-OF-SHIPS-RULES-1960 of 1960
+Published on 17 December 1960
+Commenced on 17 December 1960
+[This is the version of this document from 17 December 1960.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+Published vide Notification Gazette of India, 1960, Part 2, Section 3(i), page 2038.
+1767.
+G.S.R. 1550, dated 17th December, 1960. - In exercise of the powers conferred by clauses (a) and (b) of sub-section (2)
+of Section 74 of the Merchant Shipping Act, 1958 (
+44 of 1958
+), the Central Government hereby makes the following rules, namely---
+1.
+Short title, commencement and application.
+(1)
+These rules may be called the Merchant Shipping (Tonnage Measurement of Ships) Rules, 1960.
+Page 1/28
+----- PAGE 2 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+(2)
+They shall come into force on the 1st January, 1961.
+(3)
+They shall apply to sea-going ships which exceed 15 tons net and which are fitted with mechanical means of population.
+2.
+[ Definitions.
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+- In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Merchant Shipping Act, 1958;
+(b)
+"break" means the space above the line of the upper deck, when the deck is cut off and continued at a higher elevation;
+(c)
+"continuous deck" includes a deck continuous athwartship and in a fore and aft direction, at least between peak
+bulkheads, with interruptions in way of propelling machinery space, openings, leader and stairway, openings, trunks,
+chain lockers, cofferdams or steps which do not exceed 1220 millimetres in height :
+(d)
+"crew" means seamen and apprentices;
+(e)
+"exempted spaces" means spaces in a ship which, either by virtue of their location and usage or by nature of tonnage
+opening or other specified openings in their sides, are exempted and, therefore, not included in ascertaining her gross
+tonnage;
+(f)
+"gross tonnage" means the sum total of the cubic capacity of spaces below the upper deck and spaces permanently
+covered and closed-in spaces on or above the upper deck (other than such spaces which are exempt from
+measurement under these rules) and consists of-----
+(i)
+the tonnage below the tonnage deck;
+(ii)
+the tonnage of the spaces between the tonnage deck and the uppermost complete deck;
+(iii)
+the covered and closed-in spaces on or above the uppermost complete deck;
+(iv)
+the engine and light and air spaces above the upper deck; and
+(v)
+the excess of hatchways;
+(g)
+"load line rules" means the Indian Merchant Shipping (Load Line) Rules, 1934, as continued in force by sub-section (3)
+of section 461 of the Act;
+(h)
+"method" means one of the methods of determining the tonnage of a ship specified in Schedule I;
+(i)
+"propelling power allowance" means the deduction from the gross tonnage on account of the space occupied by the
+propelling power machinery;
+(j)
+"register tonnage" or "net tonnage" means the tonnage arrived at after making from the gross tonnage of a ship the
+allowances and deductions permissible under these rules;
+(k)
+"Schedule" means a Schedule to these rules;
+(l)
+"Second deck" for the purpose of tonnage mark means the deck next below the uppermost complete deck which is
+Page 2/28
+----- PAGE 3 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+continuous in a fore and aft direction at least between peak bulkheads, is continuous athwartships, and is fitted as an
+integral and permanent part of the ship's structure, with proper covers fitted to all main hatchways;
+(m)
+"Surveyor" means a surveyor appointed under section 9 of the Act;
+(n)
+[ "ton" means a unit of volume equal to 2.83 cubic metres (alternatively one cubic metre is equivalent to 0.353 ton);]
+(o)
+"tonnage deck" means the second deck except in the case of single deck ships, in which case it means the upper deck;
+(p)
+"trunk" means a hatch and ventilation trunks which do not extend longitudinally completely between main transverse
+bulkheads;
+(q)
+"uppermost complete deck" for the purpose of tonnage mark means the upper deck of a ship exposed to sea and
+weather fitted as an integral part of the ship's structure with permanent means of closing all openings in the weather
+portions thereof :
+Provided that all openings in the sides of ship below the deck, other than openings situated abaft a transverse
+water-tight bulkhead, placed aft of the rudder stock, are fitted with permanent means of water-tight closing.]
+3.
+Gross Tonnage.
+(1)
+The gross tonnage of a ship shall be determined by the methods and in the circumstances specified below, namely :-
+(a)
+By method I, at the time of registration of a ship and in other cases to which that method is applicable;
+(b)
+By method II with the permission of the Central Government, where the ship has cargo on board and in other cases
+where method I is not applicable :
+Provided that the owner of any ship the tonnage of which was determined by method II may, at any subsequent time,
+apply to the Central Government for the determination of its tonnage by method I.
+The ship shall thereupon be re-measured and tonnage altered accordingly.
+(c)
+By method III, in the case of open ships.
+(2)
+All measurements for the purpose of ascertaining the tonnage of a ship shall be in metres or fractions of a metre.[***]
+[Omitted by G.S.R. 897, dated 24th April, 1970.]
+.
+4.
+Deductions from Gross, Tonnage.
+- [(1) From the gross tonnage of a ship determined in accordance with the provisions of rule 3, deductions shall be made
+on account of the following spaces, namely :-
+(a)
+allowance for propelling power machinery in ships propelled by steam or other mechanical power determined in
+accordance with rule 5;
+(b)
+any space used exclusively for the accommodation of master or crew :
+Provided that such space conforms to the requirements of the Merchant Shipping (Crew Accommodation) Rules, 1960,
+but excluding the following space :
+(i)
+space appropriated for the storage of fresh water;
+(ii)
+space appropriated for the storage of provisions (other than fresh water) in excess of 15 per cent of the aggregate crew
+accommodation space;
+Page 3/28
+----- PAGE 4 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+(c)
+the wheelhouse and chartroom, and space fitted with the appropriated for the use of radio and navigational aids;
+(d)
+chain lockers and space appropriated for, or for the working of the steering gear, anchor gear and capstan;
+(e)
+space appropriated for the storage of safety equipment or batteries;
+(f)
+workshop and store rooms appropriated for the use of pumpmen, electricians, carpenters and boatswains, and the
+lamp-room;
+(g)
+space occupied by the donkey engine and boilers if they area outside the propelling machinery space and connected to
+the main pumps of the ship;
+(h)
+space occupied by the main pumps of the ship if they are outside the propelling machinery space;
+(i)
+any space below the upper deck (other than double bottom) adapted solely for water ballast:
+Provided that no deduction shall be made on account of any space unless it has previously been included in the gross
+tonnage.]
+[Substituted by G.S.R. 639, dated 14th May, 1975.]
+(2)
+No deduction on account of any space shall be made under sub-rule (1) unless--
+(a)
+the space has been certified by a surveyor as reasonable in extent and properly and efficiently constructed for the
+purpose for which it is intended;
+(b)
+a notice is permanently marked in or over such space stating the purpose for which it is to be applied.
+5.
+Propelling Power Allowance.
+(1)
+The allowance for engine-room space in ships propelled by steam or other power requiring engine-room shall be
+ascertained in accordance with method IV specified in Schedule 1. The deductions on account of propelling power
+machinery shall be regulated as follows, namely :--
+(a)
+where the tonnage of the space occupied by and necessary for the proper working of the boilers and machinery is 13
+per cent or above and under 20 percent of the gross tonnage, the deduction shall be 32 per cent of the gross tonnage;
+(b)
+where such space is below 13 per cent of the gross tonnage, the deduction shall be 32 per cent of the gross tonnage
+reduced proportionately;
+(c)
+where such space is 20 per cent and above of the gross tonnage, the deduction shall consist of the tonnage of the
+space occupied by or required to be enclosed for the proper working of the boilers and machinery with the addition of
+three-fourth of the tonnage of that space;
+(d)
+in cases falling under clauses (b) and (c), the space occupied by the shaft tunnel shall also be added to the engine-room
+space.
+(2)
+Such portion of the space above the crown of the engine-room and above the upper deck as is framed in for the
+machinery or for the admission of light and air shall not be included in the measurement of the spaces occupied by the
+propelling power machinery, unless the owner of the ship has applied in writing to the Central Government in that behalf:
+Provided that-------
+(a)
+Page 4/28
+----- PAGE 5 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+the portion is first included in the measurement of the gross tonnage;
+(b)
+a surveyor certifies that the portion so framed in is reasonable in extent and is so constructed as to be safe and
+seaworthy, and that it cannot be used for any purpose other than the machinery or for the admission of light and air to
+the machinery or boilers of the ship.
+(3)
+The allowance made under this head shall not in any case exceed fifty-five per cent of that portion of the tonnage of the
+ship which remains after deducting from the gross tonnage the allowance on account of the space used for the
+accommodation of the master and the crew provided that this shall not apply to ships constructed for the purpose of
+towing vessels so long as they are employed as tugs but not employed for the carriage of passengers, cargo or stores or
+when using dry docks, floating docks or places provided for repairing of vessels.
+6.
+Spaces for master and crew.
+(1)
+No deduction on account of any space intended for the master or the crew shall be made unless a surveyor has certified
+that space is used for that purpose.
+(2)
+The maximum space allowable on account of storage under this head shall not exceed fifteen per cent of the deductions
+for the master's and crew accommodation.
+7.
+Allowance for Water Ballast.
+- The allowance on account of water ballast spaces shall be regulated in accordance with the [provisions of]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+Schedule II.
+8.
+Exemptions.
+- [(1) The following spaces shall be measured but, save as provided in rule 8A, exempted from inclusion in the gross
+tonnage---
+(a)
+on application in writing the owner or agent of the ship-
+(i)
+deck shelters for deck passengers;
+(ii)
+spaces abreast side openings;
+(iii)
+open passage-ways serving other than passenger spaces above deck;
+(b)
+permanently closed spaces which, had they been provided with tonnage openings, would have qualified for exemption
+but for the coming into force of the Merchant Shipping (Tonnage Measurement of Ships) Amendment Rules, 1970
+(i)
+spaces, including spaces situated in the detached superstructures or deck houses, on or above the uppermost complete
+deck;
+(ii)
+spaces situated within the uppermost tween deck so long as, when the ship is in the summer zone, the upper edge of
+the tonnage mark referred to in rule 8B, or when the ship is in fresh water or the tropical zone, the upper edge of the
+additional line referred to in rule 8C, is not submerged.]
+(2)
+[ The following permanently closed-in spaces situated on or above the upper deck shall not be included in the Gross
+Tonnage provided they are reasonable in extent, namely :-
+(a)
+space fitted with the appropriated for the use of machinery or condensers;
+Page 5/28
+----- PAGE 6 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+(b)
+the wheelhouse and chartroom, and space fitted with and appropriated for the use of radio and navigational aids;
+(c)
+skylights, domes and trunks which light or ventilate the space they serve;
+(d)
+chain lockers, and space appropriated for working the anchor gear and capstan;
+(e)
+space appropriated for the storage of safety equipment or batteries;
+(f)
+companions and access hatches serving as protection for stairways or ladderways leading to space below, and
+openings over such stairways and ladderways including escape trunks;
+(g)
+the galley, and any separate bakery fitted with ovens; provided in either case that no part thereof is appropriate for use
+for any other purpose;
+(h)
+washing and sanitary accommodation forming part of the crew accommodation or appropriated for the use of the
+master;
+(i)
+workshops and storerooms appropriated for the use of pumpmen, engineers, electricians, carpenters and boatwains,
+and the lamproom;
+(j)
+water ballast tanks not appropriated for use for any other purpose.]
+(3)
+The Central Government may, subject to such conditions as maybe prescribed, grant further exemptions as may be
+deemed necessary.
+[8-A. Assignments of tonnage mark.
+[Inserted by G.S.R. 897, dated 24th April, 1970.]
+- The spaces referred to in sub-clause (ii) of clause (b) of sub-rule 1 of rule 8 shall not be exempted from inclusion in the
+gross tonnage of a ship which does not have tonnage markings in accordance with these rules.
+8.
+-B. Form and position of tonnage mark.
+(1)
+The tonnage mark shall be of the form set out in Schedule IIA and shall consist of a horizontal line 380 millimetres long
+and 25 millimetres wide, upon which shall be placed for identification an inverted equilateral triangle, each side of which
+shall be 300 millimetres long and 25 millimetres wide, with its apex on the mid-point of the said horizontal line.
+(2)
+Such mark shall be cut or welded on each side of the ship abaft amidships, but as near thereto as practicable, but the
+apex of the triangle shall not be nearer than 540 millimetres to the centre of the load line disc assigned under the load
+line rules, nor farther than 2000 millimetres abaft the vertical centre line of such load line disc.
+(3)
+The upper edge of the tonnage mark shall be located below the line of the second deck, the position of which shall be
+determined in accordance with the Table set out in Schedule IIB.
+(4)
+Notwithstanding anything contained in sub-rule (3), when the free board deck, as determined under the load line rules,
+coincides with the second deck, the tonnage mark shall be placed on a line level with the uppermost part of the load line
+grid.
+8.
+-C. Additional line.
+(1)
+To indicate fresh water and tropical draught an additional horizontal line, 230 millimetres long and 25 millimetres wide,
+may be cut or welded above the tonnage mark (see Schedule IIA), except when the tonnage mark is assigned in
+Page 6/28
+----- PAGE 7 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+accordance with sub-rule (4) of rule 8B.
+(2)
+Such additional line shall be measured from a vertical line 25 millimetres wide marked at the after end of, and
+perpendicular to, the tonnage mark; the length of the vertical line being one forty-eighth of the moulded draught to the
+tonnage mark.
+8.
+-D. Ships having no load line markings.
+- For ships to which no load line has been assigned, the line of the uppermost complete deck shall be marked amidships
+by a horizontal line 300 millimetres long and 25 millimetres wide.
+8.
+-E. Alternate gross tonnage.
+(1)
+Except when the tonnage mark is assigned in accordance with sub-rule (4) of rule 813, there shall be determined for
+every ship which has been assigned a tonnage mark, two gross tonnage for the purpose of deciding whether exemption
+under sub-clause (ii) of clause (b) of sub-rule (1) of rule 8 is admissible according as the tonnage mark is submerged or
+not.
+(2)
+In the case of any ship for which two tonnages have been determined in accordance with sub-rule (1) and which is in
+possession of a certificate of registry showing such two tonnages, the lower of the two tonnages shall be construed to be
+its tonnage for the time being while the ship is so loaded as not to submerge the tonnage mark assigned to it in
+accordance with rule 8A, for the purposes of levy of any fee or dues which are based on the gross tonnage of a ship
+measured in accordance with the provisions of these rules :
+Provided that, for the purposes of Parts VI, VII, VIII and IX of the Act, the qualifying gross tonnage shall be the higher
+figure.
+8.
+-F. Higher tonnage in special cases.
+- Notwithstanding anything contained in rule 8B, if the Central Government finds that in respect of an Indian ship
+possessing dual tonnage certificate any country outside India takes into account the higher tonnage for the purpose of
+levy of tonnage dues, whether or not the tonnage mark is submerged, the Central Government may, by notification is the
+Official Gazette, direct that in respect of a ship registered in that country the higher tonnage shall constitute the basis of
+levy of tonnage dues in India.]
+[Substituted by G.S.R. 639, dated 14th May, 1975.]
+9.
+Register Tonnage on net tonnage.
+(1)
+The register tonnage of a ship shall be arrived at by deducting from the [gross tonnage or gross tonnages (referred to in
+rule 8F.)]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+of the ship the allowances of the nature and to the extent admissible under these rules.
+[***]
+[Omitted by G.S.R. 897, dated 24th April, 1970.]
+(3)
+Where the tonnage of a ship has been or is deemed to have been ascertained under these rules, the tonnage shall not
+be altered unless the alteration is made in the form or the capacity of the ship or it is discovered that the tonnage has
+been erroneously computed, and in either of these cases, the ship shall be remeasured and her tonnage ascertained in
+accordance with these rules.
+[9-A. Deck Cargo and cargo in exempted spaces.
+[Inserted by G.S.R. 897, dated 24th April, 1970.]
+(1)
+If any ship other than a ship exclusively engaged in trading between any port or place in India--
+(a)
+Page 7/28
+----- PAGE 8 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+carries cargo in the enclosed space between the uppermost complete deck and the second deck while the tonnage
+mark is not submerged, or
+(b)
+carries any deck cargo, that is to say, carries any cargo in any uncovered space upon deck or in any covered space not
+included in the cubical contents forming ship's register tonnage,
+the tonnage of space so utilised for carrying cargo shall be measured in the manner specified in Schedule I and added
+to the relevant tonnage of the ship and the total tonnage so calculated shall be the basis for the levy of dues based on
+ship's register tonnage.
+Note. -The space so occupied shall be deemed to be the space limited by straight lines enclosing a rectangular space
+sufficient to include the goods.
+(2)
+The tonnage of spaces referred to in sub-rule (1) shall be ascertained by the officer of the customs referred to in Section
+3 of the Customs Act, 1962, in the manner directed in paragraph (6) of Method I in Schedule I and when so ascertained
+shall be entered by him in ship's official log book and also in a memorandum which he shall deliver to the Master and the
+Master shall, when any dues are demanded on ship's tonnage, produce that memorandum in the like manner as if it
+were ship's Certificate of Registry or in the case of a ship other than an Indian ship a document equivalent to a
+Certificate of Registry.]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+10.
+Tonnage ascertained in foreign countries.
+(1)
+Where the tonnage of a ship has been ascertained in accordance with the rules in force in a foreign country which has
+adopted these rules or in accordance with the rules which are substantially similar to these rules, the Central
+Government may accept the tonnage specified in the certificate of registry issued by that country in the same manner, to
+the same extent and for the same purposes as the tonnage indicated in the certificate of registry issued under these
+rules.
+(2)
+Notwithstanding anything contained in sub-rule (1), the Central Government may, if it is of opinion that the tonnage of
+any foreign ship as ascertained by the rules of the country to which she belongs differs materially from the tonnage of
+that ship as it would be if it is measured under these rules, direct that the ship shall be re-measured and her tonnage
+ascertained in accordance with these rules.
+11.
+Suez Canal and Panama Special Tonnage Certificate.
+- If a request is received from a shipowner for measurement of a ship for Suez Canal or Panama Special Tonnage
+Certificate, the ship may be re-measured and her tonnage ascertained in accordance with the rules issued by the Suez
+Canal or Panama Canal authorities.
+12.
+[
+[Inserted by G.S.R. 639, dated 14th May, 1975.]
+Notwithstanding any procedure set out in Schedule I for the measurement of tonnage of ships the volume computed in
+cubic metres may be multiplied by the factor 0.353 to arrive at volume in tons.]
+[13]
+[Re-numbered by G.S.R. 639, dated 14th May, 1975.]
+. Fees.
+- Fees shall be levied under these rules at the rates and for the purposes specified in Schedule III.
+Rules As To The Measurement Of Tonnage
+I
+(See rule 2)
+Method I
+(1)
+Measurement of ships to be registered : and other ships of which the hold is clear. - Lengths. Measure the length of the
+Page 8/28
+----- PAGE 9 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+ship in a straight line along the upper side of the tonnage deck from the inside of the inner plank (average thickness) at
+the side of the stem to the inside of the midship stem timber or plank there, as the case may be (average thickness),
+deducting from this length what is due to the rake of the bow in the thickness of the deck, and what is due to the rake of
+the stern timber in the thickness of the deck, and also what is due to the rake of the stem timber in one-third of the round
+of the beam; divide the length so taken into the number of equal parts required by the following Table, according to the
+class in such Table to which the ship belongs :
+[Table
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+Class 1. - Ships of which the tonnage deck is according to the above measurement 15.24 metres long or under, into 4
+equal parts;
+Class 2. - Ships of which the tonnage deck is according to the above measurement above 15.24 metres long and not
+exceeding 36.58 metres, into 6 equal parts;
+Class 3. - Ships of which the tonnage deck is according to the above measurement above 36.58 metres long and not
+exceeding 54.86 metres, into 8 equal parts;
+Class 4. - Ships of which the tonnage deck is according to the above measurement above 54.86 metres long and not
+exceeding 206.74 metres, into 10 equal parts;
+Class 5. - Ships of which the tonnage deck is according to the above measurement above 206.74 metres, into 12 equal
+parts.]
+In the case of a break or breaks in a double bottom for water ballast, the length of the ship is to be taken in parts
+according to the number of breaks, and each part divided into a number of equal parts according to the class in the
+above Table to which such length belongs.
+(2)
+Transverse areas. - Then, the hold being first sufficiently cleared to admit of the required depths and breadths being
+properly taken, find the transverse area of the ship at each point of division of the length or each point of division of the
+parts of the length as the case may require as follows :-
+Measure the depth at each point of division from a point at a distance of one-third of the round of the beam below the
+tonnage deck, or, in case of a break, below a line stretched in continuation thereof, to the upper side of the floor timber
+(upper side of the inner plating of the double bottom) at the inside of the limber strake, after deducting the average
+thickness of the ceiling which is between the bilge planks and limber strake; then, if the depth at the midship division of
+the length does not exceed [4.88 metres]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+, divide each depth, into five equal parts; then measure the inside horizontal breadth at each of the four points of
+division, and also at the upper point of the depth, extending each measurement to the average thickness of that part of
+the ceiling which is between the points of measurement; number these breadths from above, (i.e., numbering the upper
+breadth one, and so on down to the fifth breadth; multiply the second and fourth by four, and the third by two; add these
+products together, and to the sum add the first breadth and the fifth; multiply the quantity thus obtained by one-third of
+the common interval between the breadths, and the product shall be deemed the transverse area of the upper part of
+the section; then find the area between the fifth and lower point of the depth by dividing the depth between such points
+into four equal parts and measure the horizontal breadths at the three points of division and also at the upper and lower
+points, and proceed as before and the sum of two parts shall be deemed to be the transverse area; but if the widship
+depth exceed [4.88 metres]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+, divide each depth into seven equal parts instead of five, and measure as before directed the horizontal breadths at the
+six points of division, and also at the upper point of the depth, number them from above as before; multiply the second,
+fourth, and sixth by four, and the third and fifth by two; add these products together, and to the sum add the first breadth
+and the seventh; multiply the quantity thus obtained by one-third of the common interval between the breadths, and the
+products shall be deemed the transverse area of the upper part of the section; then find the lower part of the area as
+before directed, and add the two parts together, and the sum shall be deemed to be the transverse area.
+In all cases, where the top of the double bottom is horizontal it will he sufficient to measure the transverse areas.
+(3)
+Computation from areas. - Having thus ascertained the transverse area at each point of division of the length of the ship,
+Page 9/28
+----- PAGE 10 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+or each point of division of the parts of length, as the case may require, as required by the above table, proceed to
+ascertain the register tonnage under the tonnage deck in the following manner :
+Number the areas respectively, 1, 2, 3, etc. No.1 being at the extreme limit of the length at the bow, or of each part of
+the length, and the last number at the extreme limit of the length of the stern, or the extreme limit at the after end of each
+part of the length : then whether the length be divided according to the table into four or 12 parts, as in classes 1 and 5,
+or any intermediate number, as in classes 2, 3 and 4, multiply the second and every even numbered area by four, and
+third and every odd numbered area (except the first and last) by two; add these products together, and to the sum add
+the first and last if they yield anything; multiply the quantity thus obtained by one-third of the common interval between
+the areas, and the product will be the cubical contents of the space, or cubical contents of each part if the ship is
+measured in parts under the tonnage deck; divide this product, or if measured in parts the products of the several parts
+added together, [by 2.83]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+, and the quotient, being the tonnage under the tonnage deck, shall be deemed to be the register tonnage of the ship,
+subject to any additions and deductions under the rules.
+(4)
+In case of decks above the tonnage deck. - If the ship has a third deck, commonly called a spar deck, the tonnage of the
+space between it and the tonnage deck shall be ascertained as follows :-
+Measure [* * *]
+[Omitted by G.S.R. 897, dated 24th April, 1970]
+the inside length of the space at the middle of its height from the plank at the side of the stem to the lining on the timbers
+at the stern, and divide the length into the same number of equal parts as the length of the tonnage deck is divided as
+above directed; measure (also at the middle of its height) the inside breadth of the space at each of the points of
+division, also the breadth at the stem and the breadth at the stem : number them successively 1, 2, 3, etc., commencing
+at the stem; multiply the second and all the other even numbered breadths by four, and the third and all the other odd
+numbered breadth (except the first and the last) by two; to the sum of these products add the first and last breadths;
+multiply the whole sum by one-third of the common interval between the breadths, and the result will give in superficial
+[metres]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+the mean horizontal area of the space; measure the mean height of the space, and multiply by it the mean horizontal
+area, and the product will be the cubical contents of the space; divide this product by [2.83]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+and the quotient shall be deemed to be the tonnage of the space and shall be added to the tonnage of the ship
+ascertained as aforesaid. If the ship has more than three decks, the tonnage of each space between decks above the
+tonnage deck shall be severally ascertained in manner above described, and shall be added to the tonnage of the ship
+ascertained as aforesaid.
+(5)
+Poop, deck-house, forecastle, and any other closed-in space. - If there be a break, a poop or any other permanent
+closed-in space on the upper deck available for cargo or stores, or for the berthing or accommodation of passengers or
+crew, the tonnage of that space shall be ascertained as follows :
+Measure the internal mean length of the space [* * *]
+[Omitted by G.S.R. 897, dated 24th April, 1970.]
+and divide it into two equal parts; measure at the middle of its height three inside breadths, namely, one at each and the
+other at the middle of the length; then to the sum of the end breadths add four times the middle breadth, and multiply the
+whole sum by one-third of the common interval between the breadths, the product will give the mean horizontal area of
+the space; then measure the mean height, and multiply by it the mean horizontal area; divide the product by [2.83]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+and the quotient shall be deemed to be the tonnage of the space and shall be added to the tonnage under the tonnage
+deck ascertained as aforesaid. Provided that no addition shall be made in respect of any building erected for the shelter
+of deck passengers, and approved by the Director General of Shipping.
+(6)
+[ The cubic capacity of covered or uncovered spaces upon deck, when used for carriage of cargoes, shall be determined
+Page 10/28
+----- PAGE 11 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+by multiplying the area, in square metres, of spaces occupied by cargo, as determined in accordance with the provisions
+of sub-rule (2) of rule 9A, by the maximum height of goods in metres. The cubic capacity in metres so arrived shall be
+divided by 2.83 for determining tonnage of such spaces.]
+[Inserted by G.S.R. 897, dated 24th April, 1970.]
+Method II
+(1)
+Measurement of ships not requiring registry with cargo on board and ships which cannot be measured under Method I
+Length-Breadth. - -Girthing of the ship. Measure the length on the uppermost deck from the outside of the outer plant at
+the stem to the aft side of the stern-post, deducting therefrom the distance between the aft side of the stern-post and the
+rabbet of the stern-post at the point where the counter plank crosses it; measure also the greatest breadth of the ship to
+the outside of the outer planking or wales, and then, having first marked on the outside of the ship on both sides thereof
+the height of the upper deck at the ship's sides girth the ship at the greatest breadth in a direction perpendicular to the
+keel from the height so marked on the outside of the ship on the one side to the height so marked on the other side by
+passing a chain under the keel; to half the girth thus taken add half the main breadth; square the sum; multiply the result
+by the length of ship taken as aforesaid; then multiply this product by the factor [0.17 (seventeen hundredths)]
+[Substituted by G.S.R. 897, dated 24th April, 1970]
+in the case of ships built of wood, and [0.18 (eighteen hundredths)]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+in the case of ships built of iron and the product shall be deemed the register tonnage of the ship, subject to any
+additions and deductions under the rules.
+(2)
+Poop, deck-house, forecastle, and other closed-in spaces on upper deck. - If there be a break, a poop, or other closed-in
+space on the upper deck, the tonnage of that space shall be ascertained by multiplying together the mean length,
+breadth and depth of the space, and dividing the product [by 2.83]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+and the quotient so obtained shall be deemed to he the tonnage of the space, and shall be added to the tonnage of the
+ship ascertained as aforesaid.
+Method III
+Measurement of open ships. - In ascertaining the tonnage of open ships the upper edge of the upper strake is to form
+the boundary line of measurement, and the depths shall be taken from an athwartship line, extended from upper edge to
+upper edge of the said strake at each division of the length.
+Method IV
+Measurement of allowance for engine room space. - (i) Measure the mean depth of the space from its crown to the
+ceiling at the limber strake, measure also three, or, if necessary, more than three breadths of the space at the middle of
+its depth, taking one of those measurements at each end, and another at the middle of the length; take the mean of
+those breadths; measure also the mean length of the space between the foremost and aftermost bulkheads or limits of
+its length, excluding such parts, if any, as are not actually occupied by or required for the proper working of the
+machinery; multiply together these three dimensions of length, breadth and depth, divide the product [by 2.83]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+and the result shall be deemed the tonnage of the space below the crown; then find the cubical contents of the space or
+spaces, if any, above the crown aforesaid, which are framed in for the machinery or for the admission of light and air, by
+multiplying together the length, depth, and breadth thereof; add such contents to the cubical contents of the space below
+the crown; divide the sum [by 2.83]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+; and the result shall (subject to the provisions hereinafter contained) be deemed to be the tonnage of the space.
+(ii)
+If in any ship in which the space for propelling power is to be measured the engines and boilers are fitted in separate
+compartments, the contents of each shall be measured severally in like manner, according to the above method, and the
+sum of their several results shall be deemed to be the tonnage of the said space.
+(iii)
+In the case of screw steamers in which the space for propelling power is to be measured, the contents of the shaft trunk
+Page 11/28
+----- PAGE 12 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+shall be ascertained by multiplying together the mean length, breadth, and depth of the trunk, and dividing the product
+[by 2.83]
+[Substituted by G.S.R. 897, dated 24th April, 1970.]
+.
+(iv)
+If in any ship in which the space aforesaid is to be measured any alteration be made in the length or capacity of the
+spaces, or if any cabins be fitted in the space, the ship shall be deemed to be a ship not registered until
+re-measurement.
+II
+(See rule 7)
+Water Ballast Spaces
+The maximum allowance for water ballast spaces shall not exceed 19 per cent of the gross tonnage, irrespective of the
+size of the ship.
+In calculating such allowance, the capacity of all water ballast spaces above the double bottom may be taken into
+account.
+IIA
+[See rule 88(1)-7]
+Tonnage Mark
+IIB
+[See Rule 8B (3)]
+Tonnage Mark Table
+Minimum distance front the moulded line of the second deck to the upper edge of the tonnage mark in millimetres.
+Length
+Lt. Lt/Dt
+in
+metres.
+12
+13
+14
+15
+16
+17
+18
+19
+20
+67
+and under
+51
+51
+51
+51
+51
+51
+51
+51
+51
+70
+81
+51
+51
+51
+Page 12/28
+----- PAGE 13 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+51
+51
+51
+51
+51
+73
+118
+51
+51
+51
+51
+51
+51
+51
+51
+76
+157
+82
+51
+51
+51
+51
+51
+51
+51
+79
+201
+119
+51
+51
+51
+51
+51
+51
+51
+82
+246
+159
+84
+51
+51
+51
+51
+51
+51
+85
+294
+200
+120
+51
+51
+Page 13/28
+----- PAGE 14 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+51
+51
+51
+51
+88
+344
+344
+158
+83
+51
+51
+51
+51
+51
+91
+398
+291
+199
+119
+51
+51
+51
+51
+51
+94
+455
+341
+243
+158
+83
+51
+51
+51
+51
+97
+515
+393
+288
+198
+119
+51
+51
+51
+51
+97
+515
+393
+288
+198
+119
+51
+Page 14/28
+----- PAGE 15 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+51
+51
+51
+100
+577
+447
+336
+240
+135
+81
+51
+51
+51
+103
+643
+506
+388
+386
+196
+117
+51
+51
+51
+106
+713
+567
+442
+334
+239
+156
+82
+51
+51
+109
+785
+631
+499
+385
+285
+196
+118
+51
+51
+112
+862
+699
+559
+438
+333
+240
+157
+Page 15/28
+----- PAGE 16 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+83
+51
+115
+943
+772
+624
+497
+386
+288
+200
+118
+52
+118
+1026
+845
+690
+556
+439
+336
+243
+161
+87
+121
+1111
+921
+758
+617
+494
+385
+288
+202
+124
+124
+1199
+1000
+829
+682
+553
+439
+338
+247
+165
+127
+1279
+1075
+900
+749
+617
+500
+397
+304
+Page 16/28
+----- PAGE 17 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+220
+130
+1362
+1154
+975
+820
+685
+566
+460
+365
+279
+133
+1450
+1237
+1054
+896
+757
+635
+527
+429
+342
+136
+1541
+1323
+1135
+974
+832
+707
+596
+496
+407
+139
+1636
+1413
+1222
+1057
+912
+784
+671
+569
+478
+142
+1732
+1504
+1309
+1140
+992
+862
+746
+642
+548
+Page 17/28
+----- PAGE 18 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+145
+1829
+1597
+1397
+1225
+1074
+941
+823
+717
+621
+148
+1926
+1688
+1485
+1309
+1555
+0119
+898
+790
+692
+151
+2020
+1778
+1570
+1390
+1233
+1095
+971
+861
+761
+154
+2112
+1865
+1653
+1470
+1309
+1168
+1042
+930
+828
+157
+2203
+1951
+1735
+1548
+1384
+1241
+1112
+998
+894
+160
+Page 18/28
+----- PAGE 19 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+2288
+2032
+1812
+1622
+1455
+1308
+1177
+1061
+955
+162
+2374
+2112
+1888
+1694
+1525
+1376
+1241
+1122
+1015
+166
+2455
+2189
+1961
+1763
+1591
+1438
+1302
+1181
+1072
+169
+2537
+2866
+2033
+1832
+1656
+1501
+1363
+1239
+1128
+172
+2616
+2340
+2103
+1899
+1720
+1562
+1421
+1295
+1182
+175
+2694
+Page 19/28
+----- PAGE 20 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+2414
+2173
+1965
+1783
+1622
+1479
+1351
+1236
+178
+2772
+2487
+2242
+2030
+1845
+1682
+1536
+1406
+1289
+181
+2350
+2560
+2312
+2096
+1907
+1741
+1593
+1461
+1342
+184
+2924
+2629
+2376
+2157
+1965
+1797
+1640
+1512
+1391
+187
+2999
+2699
+2441
+2219
+2024
+2853
+1700
+1563
+1440
+190
+3072
+2768
+Page 20/28
+----- PAGE 21 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+2506
+2280
+2083
+1909
+1753
+1614
+1489
+193
+3144
+2835
+2569
+2340
+2139
+1962
+1804
+1663
+1536
+196
+3215
+2901
+2632
+2398
+2195
+2014
+1855
+1711
+1582
+199
+3285
+2967
+2694
+2456
+2250
+2067
+1905
+1759
+1628
+202
+3356
+3032
+2754
+2513
+2304
+2118
+1953
+1805
+1672
+205
+3425
+3096
+2814
+Page 21/28
+----- PAGE 22 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+2570
+2357
+2169
+2001
+1851
+1716
+208
+3493
+3160
+2874
+2626
+2410
+2219
+2049
+1897
+1760
+211
+3561
+3223
+2933
+2682
+2462
+2263
+2096
+1942
+1803
+214
+3628
+3285
+2991
+2736
+2513
+2317
+2142
+1986
+1845
+217
+3694
+3346
+3048
+2790
+2562
+2365
+2187
+2029
+1886
+220
+3760
+3407
+3105
+2843
+Page 22/28
+----- PAGE 23 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+2613
+2412
+2232
+2072
+1927
+223
+3825
+3467
+3161
+2894
+2662
+2458
+2276
+2113
+1966
+226
+3889
+3526
+3216
+2947
+2710
+2504
+2319
+2154
+2005
+229
+3951
+3584
+3270
+2998
+2758
+2549
+2361
+2194
+2043
+232
+4013
+3642
+3323
+3047
+2805
+2593
+2402
+2233
+2080
+235
+4075
+3699
+3376
+3096
+2841
+Page 23/28
+----- PAGE 24 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+2636
+2443
+2272
+2117
+238
+4136
+3756
+3438
+3144
+2897
+2678
+2483
+¹231
+2153
+241
+4197
+3810
+3479
+3192
+3941
+2720
+2523
+2347
+2188
+244
+4257
+3865
+3530
+3240
+2986
+2762
+2562
+2384
+2223
+Note. - (1) Length (Lt) used in the tonnage mark table shall be the distance on the second deck between two points, of
+which the foremost is the point where the underside of that deck or the line thereof at the stem, meets the inner surface
+of the ceiling sparring or frames, and the aftermost is the point where the underside of that deck or the line thereof,
+meets the inner surface of the ceiling sparring or frames in the middle plan at the stem. Where the second deck is
+stepped an equivalent length shall be used. (See figure I)
+(2)
+Depth (Ds) to be used in the tonnage mark table is the moulded depth to the second deck. Where the second deck is
+stepped an equivalent depth shall be used.
+(See figure I).
+Figure I
+(3)
+The tonnage mark table is given for the ratios Lt/Ds from 12 to 20 for lengths at intervals of 3 metres upto 244 metres.
+For intermediate lengths and Lt/Ds ratios the corresponding distance should be obtained by interpolation. In other cases
+figures should be obtained by extrapolation.
+III
+(See Rule 12)
+(a) Measurement
+Page 24/28
+----- PAGE 25 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+for Indian Tonnage
+Rs.
+P.
+(i)
+For measurement for one of the following
+under Method I in
+Schedule I:-
+First measurement
+of an Indian ship
+Assignment of
+Tonnage Mark
+Re-measurement
+including under-deck tonnage
+First
+measurement of a foreign ship for a
+certificate of
+Indian tonnage
+Re-measurement,
+including under-deck
+tonnage,
+of a foreign ship for renewal of a
+certificate of
+Indian tonnage
+Re-measurement
+of a ship previously
+measured under
+Method U in Schedule I
+Re-measurement of
+under-deck tonnage
+Ships not
+exceeding 50 tons
+80.00
+Ships
+exceeding 50 tons but not exceeding 100 tons
+For each
+additional 100 tons or part of 100 tons,
+175.00
+above 100 tons,
+but not exceeding 20,000 tons
+25.00
+For
+each additional 100 tons or part of 100 tons,
+exceeding 20,000
+tons
+10.00
+(ii) For
+measurement under Method II and
+Rs. P.
+Method III in
+Schedule II-First measurement of an Indian ship
+First measurement
+Page 25/28
+----- PAGE 26 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+of a foreign ship for
+Certificate of
+Indian Tonnage half the fee in (a)(i)
+Re-measurement
+which includes under-deck tonnage
+(iii) For
+re-measurements not involving under-deck tonnage (Indian or
+foreign ships)
+For one of the
+following re-measurement:
+alterations on the
+upper deck;
+alterations in the
+engine room;
+light and air
+spaces;
+crew
+accommodation;
+water ballast
+spaces;
+Ships not
+exceeding 50 tons
+25.00
+Ship exceeding 50
+tons but not exceeding 100 tons
+35.00
+For each
+additional 100 tons or part of 100 tons
+exceeding 100 tons
+5.00
+Maximum fee for
+each item 215.00
+The
+fee for re-measurement for crew
+accommodation
+covers the inspection of the
+crew
+accommodation if the inspection is made
+at the same time
+as the remeasurement.
+(iv)
+For inspection made ecessasy by minor
+alterations (rig,
+engines, etc.)
+40.00
+(v)
+For the renewal of a foreign ship's certificate
+of
+Indian tonnage or for the issue of a
+certificate
+of Indian tonnage to a foreign
+Page 26/28
+----- PAGE 27 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+ship that was
+previously Indian.
+When
+a Surveyor's check measurement
+shows
+that no alterations have occurred and
+re-measurement is
+unnecessary.
+When
+some re-measurement is necessary although
+the
+under deck is unaltered or when
+measurement
+is necessary for the assignment
+of a tonnage mark
+80.00
+Plus
+the fee in (iii) for any re-measurements required.
+(vi) For a copy of
+a certificate of Indian tonnage
+10.00
+(b) Measurement
+for Suez and Panama Tonnage
+(i) For first
+measurement of a ship when the Indian tonnage figures are
+available for a Suez Canal or a Panama Canal Certificate
+two-fifths
+of the appropriate fee in (a)(i).
+For Suez Canal and
+a Panama Certificate if the measurements are made at the same
+time
+three-fifths
+of the appropriate fee in (a)(i)
+(ii) For first
+measurement of a ship when the Indian tonnage figures are not
+available.
+the
+fee in (a)(i) based on canal gross tonnage.
+For a Suez Canal
+or a Panama Canal Certificate
+For a Suez Canal
+and a Panama Canal Certificate, if the measurements are made at
+the same time
+the
+fee in (a)(i) based on canal gross tonnage plus two-fifths of the
+appropriate fee in (b)(i).
+(iii) For
+re-measurement and further certificate or certificates.
+These fees cover
+the re-measurement of a ship (except under deck, for Indian
+tonnage if the measurements are made at the same time, but the
+Page 27/28
+----- PAGE 28 -----
+The Merchant Shipping (Tonnage Measurement Of Ships) Rules, 1960
+fee paid must not be less than the appropriate fee in (a) (iii).
+(iv) For a copy of
+a certificate
+20.00
+(v) For the supply
+of details of Suez Canal or
+Panama Canal
+tonnage calculations to an owner
+95.00
+The fees for
+measurement of tonnage under (a) and (b) cover any number of
+separate visits to the ship which the surveyor may find it
+necessary to make.
+(c) For inspecting
+tonnage marks made for the purposes of rules 8A and 8B,
+irrespective of the number of visits required by the surveyor for
+inspection
+120.00
+Note :-The expression "tons" used in the Schedule "means gross" tons and where alternate gross tonnages are
+determined, the higher figure of gross tonnage.
+Related AI tags, queries and research notes
+Translation
+Page 28/28

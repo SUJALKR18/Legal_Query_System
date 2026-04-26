@@ -1,0 +1,879 @@
+
+----- PAGE 1 -----
+The Credit Information Companies Rules, 2006
+The Credit Information Companies Rules, 2006
+Source: https://indiankanoon.org/doc/15445782/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+1
+]
+Union of India - Act
+The Credit Information Companies Rules, 2006
+UNION OF INDIA
+India
+The Credit Information Companies Rules, 2006
+Rule THE-CREDIT-INFORMATION-COMPANIES-RULES-2006 of 2006
+Published on 14 December 2006
+Commenced on 14 December 2006
+[This is the version of this document from 14 December 2006.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Credit Information Companies Rules, 2006
+Published vide Notification G.S.R. 753(E), dated 14.12.2006, published in the Gazette of India, Extra Part 2, Section 3(i),
+dated 14.12.2006.
+7.
+/417
+No. G.S.R. 753(E), dated 14, 2006 - In exercise of the powers conferred by section 36 of the Credit Information
+Companies (Regulation) Act, 2005, and after consultation with the Reserve Bank of India, the Central Government,
+hereby makes the following rules, namely:-
+Chapter I
+Preliminary
+1.
+Page 1/17
+----- PAGE 2 -----
+The Credit Information Companies Rules, 2006
+Short title and commencement
+(1)
+These rules may be called The Credit Information Companies Rules, 2006.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"access" with its grammatical variations and cognate variations means gaining entry into, instructing or communicating
+with logical, arithmetical or memory function resources of a computer, computer system or computer network including
+approach or communication or making use of data, information or credit information through any means, physical or
+otherwise.
+(b)
+"Act" means the Credit Information Companies (Regulation) Act, 2005 (
+30 of 2005
+);
+(c)
+"agent" means a person duly authorised by a company or a credit information company, as the case may be, to present
+an appeal or a written reply on its behalf, before the appellate authority;
+(d)
+"appeal" means an appeal filed under sub-section (1) of section 7 of the Act;
+(e)
+"appellant" means an applicant company or a credit information company, as the case may be, making an appeal to the
+appellate authority under sub-section (1) of section 7 of the Act;
+(f)
+"appellate authority" means the Central Government, or such other authority or tribunal as may be designated
+subsequently by the Central Government as per sub-section (1) of section 7 of the Act;
+(g)
+"data" in relation to a credit institution, or a credit information company, or a specified user means such facts which are
+collected by or furnished to them, in respect of a borrower or a client, as the case may be, and form part of the credit
+information relating to such borrower or client, which is maintained, disseminated and used by them in accordance with
+the provisions of the Act;
+(h)
+"form" means the form appended to the Schedule to these rules;
+(i)
+"information" means, collectively all data, and credit information or any part thereof, collected by or furnished to, a credit
+institution, or a credit information company, or a specified user, as the case may be, in accordance with the provisions of
+the Act;
+(j)
+"rules" means the rules made under the Act;
+(k)
+"section" means a section of the Act;
+(2)
+Words and expressions used and not defined in these rules but defined in the Act or the Information Technology Act,
+2000 ( 21 of 2000), shall have the same meanings respectively assigned to them in the said Acts.
+Chapter II
+Appeal
+3.
+Appellate authority
+Page 2/17
+----- PAGE 3 -----
+The Credit Information Companies Rules, 2006
+- The Central Government, or such other Authority or Tribunal as may be designated subsequently by the Central
+Government as per sub-section (1) of section 7 of the Act shall be the Appellate Authority for the purpose of sub-section
+(1) of section 7 of the Act.
+4.
+Form and procedure of appeal
+(1)
+An appeal as per the provisions of sub-section (1) of section 7 of the Act, shall be presented in Form I in duplicate by an
+aggrieved credit information company, or its agent or by a duly authorised legal practitioner, before the appellate
+authority or shall be sent by registered post addressed to such authority with acknowledgement duly addressed to the
+appellate authority or any other officer authorised in writing by the appellate authority to receive the same.
+(2)
+An appeal sent by post under sub-rule (1) shall be deemed to have been presented to the appellate authority on the day
+on which it is received in the office of the appellate authority.
+5.
+Sitting of appellate authority
+- The appellate authority shall hold its sitting either at a place where its office is situated or at such other place as it may
+deem fit.
+6.
+Language of appellate authority
+- The proceedings of the appellate authority shall be conducted in English or Hindi and the appeal, application, or any
+other document submitted before the appellate authority, shall be in such language and in case any of such documents
+is in a different language, the translation thereof in English or Hindi shall be required to be produced.
+7. Appeal to be in writing
+(1)
+Every appeal, application, reply, representation or any other document filed before the appellate authority shall be
+typewritten, cyclostyled or printed neatly and legibly on one side of the good quality paper in double space and separate
+sheets consecutively numbered shall be stitched together and filed in the manner as provided in sub-rule (2).
+(2)
+The appeal under sub-rule (1) shall be presented in duplicate duly signed by the agent of the aggrieved company or the
+credit information company, as the case may be.
+8.
+Contents of memorandum of appeal
+(1)
+Every memorandum of appeal filed under rule 4 shall set forth concisely under distinct heads, the grounds of such
+appeal without any argument or narrative and such grounds shall be numbered consecutively.
+(2)
+For seeking an interim order or direction, appropriate submissions and relief prayed for in respect thereof may be
+included in the memorandum of appeal and it shall not be necessary to present separate application or memorandum in
+this behalf.
+9.
+Documents to accompany memorandum of appeal
+(1)
+Every memorandum of appeal shall be accompanied with copies of the order against which the appeal is filed and the
+documents relied upon by the appellant.
+(2)
+Where the appellant is represented by an agent, or any of its officers before the appellate authority, the document
+authorising him to act in such capacity shall also be appended to the memorandum of appeal.
+10.
+Presentation and scrutiny of memorandum of appeal
+(1)
+If, on scrutiny of the appeal received, it is found to be in order, the same shall be duly registered by the secretariat of the
+Page 3/17
+----- PAGE 4 -----
+The Credit Information Companies Rules, 2006
+appellate authority and given a serial number.
+(2)
+If on scrutiny, an appeal is found to be defective and the defect is such that it could be allowed to be rectified, the
+appellate authority may grant time not exceeding thirty days for such rectification and direct its secretariat to
+communicate to the appellant the defect and the time granted for its rectification.
+(3)
+If the appellant fails to rectify the defect within the time as allowed for the purpose as per sub-rule (2), the secretariat
+shall submit the report of such failure of the appellant for consideration of the appellate authority, who may by an order
+and for reasons to be recorded in writing, decline to register the appeal and direct the secretariat to communicate such
+order to the appellant within seven days from the date of the order.
+(4)
+If the appellant submits any representation within a period of fifteen days from the date of receipt of communication as
+per sub-rule (3), with sufficient explanation in respect of its failure to rectify the defect within the time granted for the
+purpose as per sub-rule (2), the secretariat shall submit such representation for consideration of the appellate authority.
+(5)
+The appellate authority may, subject to its satisfaction about the sufficiency of the explanation furnished as per sub-rule
+(4), by an order and for reasons to be recorded in writing, review the order passed under sub-rule (3) and grant further
+time not exceeding fifteen days for rectification of the defect, or may reject the representation in case such explanation is
+not found to be satisfactory, and any such order passed by the appellate authority shall be final.
+11.
+Notice of appeal to the respondent
+- A copy of the memorandum of appeal along with the copy of the documents submitted therewith, shall be served by
+the secretariat of the appellate authority on the respondent as soon as the appeal is registered as per sub-rule (1) of rule
+10, by hand delivery, or by registered post or speed post.
+12.
+Filing of reply to the appeal and other documents
+(1)
+The respondent may file reply in duplicate to the appeal along with documents, in the secretariat of the appellate
+authority, within one month of the service of the notice on him of the filing of the memorandum of appeal.
+(2)
+The respondent shall also endorse one copy of the reply to the appeal along with documents filed as per sub-rule (1) to
+the appellant.
+(3)
+The appellate authority may, in its discretion on an application by the respondent, allow the filing of the reply after the
+expiry of period referred to in sub-rule (1).
+13.
+Date of hearing to be communicated
+(1)
+The appellate authority shall fix the date and place of hearing of the appeal and direct its secretariat to communicate the
+same to the appellant and the respondent in the manner as the appellate authority may by general or special order
+direct.
+(2)
+The appellate authority may subject to its satisfaction adjourn the hearing of the appeal, if so requested by any of the
+parties to the appeal.
+14.
+Hearing of appeal
+(1)
+On the date fixed for hearing or the next date in case of adjournment, the appellant and the respondent shall be given
+due opportunity for putting forth their submissions in support of their plea.
+(2)
+The appellate authority may allow the parties to submit their written arguments in addition to their oral arguments.
+Page 4/17
+----- PAGE 5 -----
+The Credit Information Companies Rules, 2006
+(3)
+In case of non-appearance of the appellant on the date fixed for hearing or the next date in case of adjournment, the
+appellate authority may, in its discretion adjourn the hearing or may dispose of the appeal on merits.
+(4)
+Where an appeal has been disposed off as per sub-rule (3) and the appellant appears afterwards and furnishes
+satisfactory explanation for non-appearance on the date when the appeal was decided ex parte , the appellate authority
+may subject to its satisfaction about the explanation, set aside the  ex parte order and restore the appeal and decide the
+same on merits after hearing the parties.
+15.
+Order to be signed and dated
+(1)
+Every order of the appellate authority shall be in writing and shall be signed and dated by the appellate authority passing
+the order.
+(2)
+During the pendency of the appeal, the appellate authority shall have powers to pass such interim order as it may deem
+fit including one of an injunction, subject to reasons to be recorded in writing, which it considers necessary in the interest
+of justice.
+16.
+Communication of order
+- Every order passed on an appeal shall be communicated to the appellant and to the respondent concerned either in
+person or by registered post within a period of seven days from the date of the order.
+17.
+Orders and directions in certain cases
+- The appellate authority may make such orders or give such directions, as may be necessary or expedient to give effect
+to its orders or to prevent abuse of its process.
+Chapter III
+Steps And Security Safeguards To Be Taken By Credit Institutions For Ensuring Accuracy, Completeness And
+Protection Of Data
+18.
+Steps for security and safeguards to be taken by credit institutions
+- Every credit institution, in existence in India on the commencement of these rules, before the expiry of three months
+from such commencement, and every other credit institution before the expiry of three months of commencing their
+business in India, shall formulate appropriate policy and procedure, duly approved by its Board of Directors, specifying
+therein the steps and security safeguards, to be adopted in their operations relating to-
+(a)
+collection, processing and collating of data, information and credit information by them relating to their borrower or client;
+(b)
+steps to be taken for ensuring security and protection of data, information, and credit information maintained by them;
+(c)
+appropriate and necessary steps for maintaining an accurate, complete and updated data, information and credit
+information, in respect of their borrower or client, and to ensure the accuracy and completeness thereof while furnishing
+the same to a credit information company or making disclosure thereof to anyone else in accordance with the provisions
+of the Act; and
+(d)
+transmitting data, information and credit information through secure medium.
+19.
+Collection of data and maintaining credit information
+(1)
+A credit institution shall-
+(a)
+collect all such relevant data in respect of its borrower or client, as it may deem necessary and appropriate for
+Page 5/17
+----- PAGE 6 -----
+The Credit Information Companies Rules, 2006
+maintaining an accurate and complete data, information and credit information in respect of such borrower or client; and
+(b)
+use such data, information and credit information subject to the provisions of the Act.
+(2)
+Without prejudice to the generality of the policy and procedure to be adopted as per rule 18 and sub-rule (1) with respect
+to collection and maintaining of data, information and credit information in relation to its borrower and client, a credit
+institution shall also collect all relevant and authentic available data and information as per Form II for preparing,
+maintaining credit information in relation to them and for establishing their identity.
+20.
+Accuracy of data provided by a credit institution
+(1)
+Every credit institution before furnishing data or an information or credit information to a credit information company or
+making disclosure thereof to anyone else in accordance with the provisions of the Act shall ensure that the credit
+information is accurate and complete with reference to the date on which such information is furnished or disclosed and
+adopt appropriate procedure in this behalf with the approval of their Board.
+(2)
+If, for any reason beyond control, it is not possible for any credit institution to furnish credit information as per sub-rule
+(1), such credit institution while furnishing the credit information to a credit information company or making disclosure
+thereof to anyone else, shall make a remark with reference to the date up to which the accuracy and completeness of
+the credit information has been verified and found to be correct.
+(3)
+Subject to the provisions of sub-sections (2) and (3) of section 21 of the Act, in respect of alteration and updating of
+credit information on request of a borrower in accordance with the said provisions, if a credit institution after furnishing
+the data or information or credit information, to a credit information company or making disclosure thereof to anyone
+else, in accordance with the Act, discovers of its own, or is informed about, any inaccuracy, error or discrepancy therein
+the credit institution shall-
+(a)
+latest by third day, send the intimation to the credit information company or the individual, as the case may be, of such
+inaccuracy, error or discrepancy;
+(b)
+take immediate steps to correct such inaccuracy, error or discrepancy; and
+(c)
+the credit institution shall forward the corrected particulars of the data or information or credit information, as the case
+may be, to the credit information company or the individual, as the case may be, within period of twenty-one days from
+the date when the credit institution had discovered such inaccuracy, error or discrepancy or information in respect
+thereof was given to it.
+(4)
+If, for any reason beyond its control, it is not possible for a credit institution to take immediate steps as per sub-rule (3),
+such credit institution shall inform the credit information company or the individual, as the case may be, of the steps
+taken by it for correction of the inaccuracy, error or discrepancy and also the reasons for its inability to comply with the
+provisions of sub-rule (3) within the time stipulated therein.
+(5)
+Any credit institution failing to take steps as per this rule, without any sufficient reason shall be liable for contravention of
+the provisions of the Act.
+21.
+Disclosure of disputed data by a credit institution
+- If, in the opinion of a credit institution, correction of any inaccuracy, error or discrepancy as referred to in rule 20, is
+likely to take further time on account of any dispute raised by a borrower in respect thereof, with the credit institution or
+before a Court of law, or any forum, or tribunal or any other authority, in such cases the credit institution shall adopt the
+following course of action, namely:-
+(a)
+Page 6/17
+----- PAGE 7 -----
+The Credit Information Companies Rules, 2006
+if the disputed data has not been furnished, in such event while furnishing such data to a credit information company or
+making disclosure thereof to anyone else, in accordance with the Act, the credit institution shall include an appropriate
+remark to reflect the nature of the inaccuracy, error or discrepancy found therein and the pendency of the dispute in
+respect thereof and in any subsequent disclosure of such disputed data the credit institution shall also disclose such
+remark; or
+(b)
+in case such credit information has already been furnished to a credit information company or disclosed to anyone else,
+the credit institution shall inform the credit information company or the individual, as the case may be, to include the
+remark about such inaccuracy, error or discrepancy and the pending dispute in respect thereof, against such data,
+information or credit information received by them from the credit institution; and
+(c)
+the entries in books of the concerned credit institution shall be taken into account for the purposes of credit information
+relating to such borrower as provided under the provisions of second proviso to sub-section (3) of section 21 of the Act.
+22.
+Updating of the credit information by credit institution
+- Without prejudice to the provisions of rule 21, if there is any change in the data, information or credit information,
+already furnished to a credit information company due to change in the liability of the borrower or his guarantor, on
+account of write off in full or in part of the amount of outstanding dues of the credit institution or the repayment thereof by
+the borrower or his guarantor, or release of the guarantor, or any scheme of arrangement entered into between the
+credit institution and the borrower, or the final settlement of the amount payable by the borrower pursuant to any scheme
+of arrangement with the credit institution, as the case may be, or on account of any such other reason, the credit
+institution shall,-
+(a)
+continue to update such data, information or credit information promptly or in any event, by the end of each reporting
+period not exceeding thirty days until the termination of the respective account relating to such credit information; and
+(b)
+furnish an updated credit information to the credit information company at the earliest in this behalf.
+23.
+Data security and system integrity safeguards
+- Every credit institution shall adopt such procedure and measures in relation to their daily operations as may be
+necessary to safeguard and protect the data, information and the credit information maintained by them, against any
+unauthorised access to or misuse of the same including the following safeguards, namely:-
+(a)
+adopting the minimum standards for physical and operational security including site design, fire protection,
+environmental protection;
+(b)
+keeping the round the clock physical security;
+(c)
+issuance of instructions for removing, labelling and securing the removable electronic storage media at the end of the
+session or working day;
+(d)
+providing physical access to the critical systems to be on dual control basis;
+(e)
+making comprehensive succession plan for the key personnel so as to ensure that non-availability of a person does not
+disrupt the system;
+(f)
+keeping of paper based records, documentation and backup data containing all confidential information in secured and
+locked containers or filing system, separately from all other records;
+(g)
+adopting adequate procedure to ensure that the records could be accessed only by authorised persons on need to know
+basis;
+Page 7/17
+----- PAGE 8 -----
+The Credit Information Companies Rules, 2006
+(h)
+providing details of creation of firewalls and stress testing of systems through ethical hacking to evaluate and ensure its
+robustness;
+(i)
+protecting systems against obsolescence;
+(j)
+adopting procedure for change of software and hardware;
+(k)
+providing for disaster recovery and management plan; and
+(l)
+taking necessary steps while handing over systems for maintenance to prevent unauthorised access or loss of data,
+information and credit information maintained by them.
+Chapter IV
+Steps And Security Safeguards To Be Taken By Credit Information Companies And Specified Users For Ensuring
+Accuracy, Completeness And Protection Of Data
+24.
+Formulation and adoption of the procedure by credit information companies
+(1)
+Every credit information company, in existence on the commencement of these rules within three months of the
+commencement of these rules, and every credit information company to whom a certificate of registration has been
+granted, after the commencement of these rules within three months of such grant, shall take such requisite steps, as it
+may deem necessary, in relation to their operations and accordingly formulate policy and procedure duly approved by
+their Board of Directors and adopt the same with respect to the following operations, namely:-
+(a)
+collection, processing and collating of data, information and credit information relating to their borrower, or client,
+obtained and received by them from a member credit institution or credit information company, as the case may be;
+(b)
+steps to be taken for ensuring security and protection of such data, information and the credit information maintained by
+them;
+(c)
+appropriate and necessary steps for maintaining an accurate, complete and updated data, information and credit
+information, in respect of their borrower, or client, and to ensure the accuracy and completeness thereof while furnishing
+the same to a specified user or making disclosure thereof to anyone else, in accordance with the provisions of the Act;
+and
+(d)
+transmitting data, information and credit information through secured medium.
+(2)
+Without prejudice to the generality of the policy as formulated and procedure as adopted under sub-rule (1), every credit
+information company shall include in its such policy and procedure, the following, namely:-
+(a)
+it would have tested and documented internal system for evidencing robust matching levels which may in case of need
+be used also to provide requisite evidence and necessary examples to the Reserve Bank;
+(b)
+the procedure and parameters for verifying and providing certificate to the effect that the entire data, information and
+credit information, obtained and received by them, from a member credit institution, a credit information company, or
+from any other permissible source, as the case may be, in respect of their borrower, or client, has been collated without
+any distortion thereof and such data, information and credit information maintained by them is accurate, updated and
+complete with reference to the date of such certification by the credit institution, or the credit information company, by
+whom such data, information and credit information has been provided;
+(c)
+the procedure for making a notation in such data, information and credit information obtained and received by them from
+Page 8/17
+----- PAGE 9 -----
+The Credit Information Companies Rules, 2006
+a member credit institution, or from any other permissible source, as the case may be and maintained by them in
+respect of their borrower or client which is not updated on the date of carrying out necessary verification and certification
+as per clause (b) with reference to the date up to which the same was certified by credit institution or the credit
+information company to be accurate, updated and complete.
+25.
+Accuracy of data provided by a credit information company
+(1)
+Every credit information company shall adopt appropriate procedure with the approval of the Reserve Bank-
+(a)
+for verifying the data, information or credit information maintained by them on the basis of the information obtained by
+them from credit institution or credit information company, as the case may be; and
+(b)
+to ensure, before furnishing data, information or credit information to a specified user or making disclosure thereof to
+anyone else in accordance with the Act, that such data, information or credit information maintained by them is accurate,
+complete and updated with reference to the date mentioned therein by the respective credit institution or credit
+information company, as the case may be.
+(2)
+If, for any reason beyond control, it is not possible for any credit information company to furnish complete and updated
+data, information or credit information, as per sub-rule (1), the credit information company shall make a remark with
+reference to the date up to which its accuracy and completeness has been verified and found to be correct.
+(3)
+Subject to the provisions of sub-sections (2) and (3) of section 21 of the Act, in respect of alteration and updating of
+credit information on request of a borrower in accordance with said provisions, if a credit information company after
+furnishing the data, information or credit information to a specified user or making disclosure thereof to anyone else, in
+accordance with the Act, discovers of its own, or is informed about any inaccuracy, error or discrepancy in respect of the
+data, information or credit information, the credit information company shall,-
+(a)
+latest by seventh day, send the intimation to the specified user or the individual, as the case may be, of such inaccuracy,
+error or discrepancy;
+(b)
+take immediate steps to correct such inaccuracy, error or discrepancy; and
+(c)
+forward the corrected particulars of the data, information or credit information to the specified user or the individual, as
+the case may be, within a period of thirty days from the date when the credit information company had discovered or
+was informed of such inaccuracy, error or discrepancy.
+(4)
+If, for any reason beyond control, it is not possible for the credit information company to furnish corrected information as
+per sub-rule (3), the credit information company shall inform the specified user or the individual, as the case may be, of
+the steps taken by it at their end for correction of such inaccuracy, error or discrepancy and also the reasons for its
+inability to comply with the provisions of sub-rule (3);
+(5)
+Any credit information company failing to take steps as per sub-rule (3), without any sufficient reason for its inability to
+comply with the said provisions, shall be liable for contravention of the provisions of the Act.
+26.
+Disclosure of disputed data by a credit information company
+- If, in the opinion of a credit information company, correction of any inaccuracy, error or discrepancy referred to in rule
+20, is likely to take further time on account of any dispute raised by a borrower in respect thereof with the credit
+institution or before a Court of law, or any forum, or tribunal or any other authority, in such cases the credit information
+company shall adopt the following course of action, namely:-
+(a)
+if the disputed data, information or credit information has not been furnished, in such event while furnishing such data,
+Page 9/17
+----- PAGE 10 -----
+The Credit Information Companies Rules, 2006
+information or credit information to a specified user or making disclosure thereof to anyone else, in accordance with the
+Act, the credit information company shall include an appropriate remark to reflect the nature of the inaccuracy, error or
+discrepancy found therein and pendency of the dispute in respect thereof and in any subsequent disclosure of such
+disputed data, information or credit information, the credit information company shall disclose such remark;
+(b)
+in case such data, information or credit information has already been furnished to a specified user or disclosed to
+anyone else, the credit information company shall inform the specified user or the individual, as the case may be, to
+include remark of such inaccuracy, error or discrepancy therein and the pending dispute in respect thereof; and
+(c)
+the entries in books of the concerned credit institution shall be taken into account for the purposes of credit information
+relating to such borrower as provided under the provisions of second proviso to sub-section (3) of section 21 of the Act.
+27.
+Formulation and adoption of the procedure by specified user
+(1)
+Every specified user, in existence on the commencement of these rules within three months of such commencement,
+and every specified user, coming into existence after the commencement of these rules within three months of its
+becoming member of a credit information company, shall take such requisite steps as it may deem necessary for
+ensuring and verifying the accuracy and completeness of data, information or credit information received from a credit
+information company before using the same in relation to a borrower, or a client, in relation to their operations and to
+ensure protection thereof from unauthorised access, or use and formulate and adopt an appropriate policy and
+procedure in this behalf with the approval of their Board of Directors.
+(2)
+Without prejudice to the generality of the policy as formulated and procedure as adopted under sub-rule (1), every
+specified user shall include in such policy and procedure, the provisions relating to the following, namely:-
+(a)
+the level of officers to be authorised to access the data, information and credit information received from a credit
+information company;
+(b)
+the parameters to be adopted for satisfying itself about the identity of the respective borrower, or the client whose credit
+report is to be taken into account by the specified user;
+(c)
+the appropriate measures so as to ensure that they do not fail to take note of any remark included by a credit information
+company in respect of any credit information; and
+(d)
+procedure relating to receiving data, information and credit information through secured medium.
+Chapter V
+Prohibition From Unauthorised Access Or Use Or Disclosure
+28.
+Prohibition from unauthorised access or use or disclosure
+(1)
+Every credit institution, credit information company, and specified user, existing before the commencement of these
+rules within three months of such commencement and every credit institution, credit information company or specified
+user coming into existence after the commencement of these rules within three months of commencement of their
+business, shall take such steps as they may deem necessary to ensure that the data, information and the credit
+information maintained by them is duly protected against any unauthorised access or use and formulate and adopt an
+appropriate policy and procedure in this behalf with the approval of their Board of Directors.
+(2)
+Without prejudice to the generality of the policy and procedure, as formulated and adopted under sub-rule (1), every
+credit institution, credit information company, and specified user shall include such other aspects in such policy and
+procedure so as to-
+(i)
+Page 10/17
+----- PAGE 11 -----
+The Credit Information Companies Rules, 2006
+secure the confidentiality of the data, information and credit information maintained by them;
+(ii)
+ensure that access to the data, information and credit information maintained by them is permitted only to such of their
+managers or employees or designated officers, who are duly authorised for the purpose on a need to know basis;
+(iii)
+ensure and control, access to the data, information and credit information, terminals, and networks, maintained by them,
+by means of physical barriers including biometric access control and logical barriers by way of passwords and to ensure
+that the passwords used in this behalf are not shared by anyone else than who is authorised in this behalf and the
+passwords are changed frequently on irregular intervals;
+(iv)
+ensure that the best practices in relation to the deletion and disposal of data, especially where records or discs are to be
+disposed of off-site or by external contractors are followed;
+(v)
+ensure that the system adopted for the purpose is sufficiently adequate to protect against any unauthorised modification
+or deletion of the data, information or credit information maintained by them;
+(vi)
+ensure maintenance of log made for accessing to data, information or credit information maintained by them including-
+(a)
+the data relating to identity of all such persons whosoever had accessed or attempted to access the data information or
+credit information maintained by them and the date and time of such access, the identity of the borrower whose data or
+credit information were so accessed; and
+(b)
+the provision relating to preservation of the records and entries pertaining to such log for minimum period of two years
+and to ensure that the same is available for examination by auditors, or the officials of the Reserve Bank authorised in
+this behalf, as the case may be.;
+(vii)
+ensure the maintenance and review of records and entries of log, on a regular and frequent basis to detect and
+investigate any unusual or irregular patterns of use of or access to data including creation of the audit trails and
+verification thereof;
+(viii)
+provide the guidelines for the use and access of information systems by external contractors; and
+(ix)
+protection against pilferage of information while passing through the public and private networks;.
+Chapter VI
+Fidelity And Secrecy
+29.
+Obligation for fidelity and secrecy
+(1)
+Every credit information company or credit institution or specified user, in possession or control of data, information and
+credit information shall adopt all reasonable procedure to ensure that their managers, officers, employees are obliged to
+fidelity and secrecy in respect of credit information under their control or to which they have access.
+(2)
+Every credit information company or credit institution or specified user, existing before the commencement of these rules
+shall within three months of such commencement of these rules and every credit institution or credit information
+company or specified user within three months of commencement of their business after coming into force of the rules
+shall, formulate the policy and procedure duly approved by its Board of Directors specifying therein the steps to be taken
+by them to ensure compliance of the fidelity and secrecy obligation by their managers, officers, employees with respect
+to data, information and credit information under their control.
+(3)
+Without prejudice to the generality of the policy and procedure as adopted under sub-rule (2), such policy and procedure
+shall also include therein the appropriate provisions relating to-
+Page 11/17
+----- PAGE 12 -----
+The Credit Information Companies Rules, 2006
+(a)
+the requirement that their employees, authorised personnel, agents, contractors and other persons who deal with or
+have right to access data, information and credit information comply with confidentiality obligation and sign covenants
+with them; and
+(b)
+the requirement that every chairperson, director, auditor, advisor, officer or other employee of a credit information
+company, before entering upon his duties makes a declaration in Form III for complying with such fidelity and secrecy
+obligation.
+Schedule
+FORM I
+(See rule 4)
+APPEAL UNDER SECTION 7 OF THE ACT AGAINST REJECTION OF APPLICATION FOR GRANT OF
+CERTIFICATE OF REGISTRATION/CANCELLATION OF CERTIFICATE OF REGISTRATION
+For use in secretariat of the appellate authority
+(a)
+Date of presentation of the appeal (before the appellate authority) :-..............
+OR
+(b)
+Date of receipt of the appeal by post..........(in secretariat of the appellate authority)
+Registration No. .............
+[Given by the secretariat of the appellate authority as per rule 10(2)]
+...........................................................
+(Signature of authorized officer of the appellate authority)
+BEFORE THE APPELLATE AUTHORITY
+............................................................
+............................................................
+BETWEEN
+A.B. (Credit In Formation Company)
+.......................APPELLANT
+AND
+RESEVE BANK OF INDIA
+.....................RESPONDENT
+Details of appeal:-
+1. Particulars of the appellant company:
+(i)
+Name:
+(ii)
+Name of the agent
+(iii)
+Address for service of all notices
+2. Particulars of the respondent -
+(i)
+Name and/or designation of the respondent
+(ii)
+Office address of the respondent
+(iii)
+Address for service of all notices
+3. Particulars of the impugned order:
+The application is against the following order:
+(i)
+Order No/dated:............'
+Page 12/17
+----- PAGE 13 -----
+The Credit Information Companies Rules, 2006
+(ii)
+Passed by:................
+(iii)
+Date of receipt of communication : (of the impugned order)
+(iv)
+Subject in brief:..............
+4. Limitation -
+The appellant further declares that the appeal against the impugned order is within the limitation as per section 7 of the
+Act read with rule 4.
+5. Fact of the case -
+The facts of the case are given below -
+(Give here a concise statement of facts in a chronological order, each paragraph containing as nearly as possible a
+separate issue, fact or otherwise).
+6. Relief(s) sought -
+In view of the facts mentioned in para 5 above, the appellant prays for the following relief(s) -
+[Specify the relief(s) sought explaining the ground for the relief(s) and the legal provisions (if any) relied upon].
+7. Interim order, if prayed for;
+Pending final decision on the application, the applicant seeks issue of the following interim order -
+(Give here the nature of the interim order prayed for with reasons).
+8. Details of the remedies exhausted -
+The appellant declares that he has availed of all the remedies available to him under the Act.
+(Give here chronologically the details of representations made and the outcome of such representation).
+9. Matter not pending with any other court, etc. - The appellant further declares that the matter regarding which this
+appeal has been made is not pending before any court of law or any other authority or has not been rejected by any
+court of law or other authority.
+10. Details of Index -
+An index in duplicate containing the details of the documents to be relied upon is enclosed.
+11. List of enclosures -
+(a)
+.....................................
+(b)
+.....................................
+(c)
+.....................................
+(d)
+.....................................
+(e)
+......................................
+VERIFICATION
+I, ................. (name of the authorized officer/agent or counsel of the appellant company), S/o, .......... age...................
+working as ......... do ........ hereby verify that the contents of serial nos. 1 to 11 are true to my personal knowledge and
+belief based on official records and that I have not suppressed or concealed any material facts.
+........................
+SIGNATURE
+(agent of the appellant)
+Place :.............
+Date :...............
+41.
+RECEIPT SLIP
+This is to acknowledge the receipt of the appeal filed/received by post today on............ day of...........,the
+year.............before the appellate authority by Shri/Smt..........working as ......... in the office of ............. residing at
+Page 13/17
+----- PAGE 14 -----
+The Credit Information Companies Rules, 2006
+...............
+Signature
+(of the designated officer of the appellate authority)
+Date:............
+Place:............
+FORM II
+[See sub-rule (2) of rule 19]
+(INFORMATION TO BE COLLECTED BY A CREDIT INSTITUTION IN RELATION TO ITS IDENTIFIED BORROWER)
+Part I ? FOR INDIVIDUALS
+1. Name of the borrower:
+(a)
+Last Name/Surname _____________ First Name _________ Middle Name ______________
+2. If the borrower has been known by any other name in past ? Yes/No
+(a)
+If yes, his Last Name/Surname ______________ First Name ___________ Middle Name _________
+3. Occupation of the borrower-
+4. Address of the borrower:
+(a)
+Residential Address -
+Flat/Door/Block No. ____ Name of Premises/Building/Village _______________ Road/Street/Lane/Post
+Office_____________ Area/Locality/Taluka/Sub- Division_________ Town/City/District _______________ State/Union
+Territory ___________ Pin ______________ Telephone No. __________ Fax ____________ Mobile Phone No.
+_____________
+(b)
+Office Address -
+Name of Office ___________ Flat /Door/Block No._____________ Name of Premises/Building/Village _____________
+road/Street/Lane/Post Office __________ Area/Locality/Taluka/Sub-Division __________ Town/City/District
+_______________ State/Union Territory ______________Pin______________  Telephone No. __________________
+Fax _________________
+5. Address for Communication - Tick { ? } as applicable (a) or (b)of column No. 4.
+6. Borrowers Father's Name -
+Last Name/surname ------------------ First Name -------------Middle Name --------------
+7. Sex of the borrower - Tick { ? } as applicable: Male/Female
+8. Date of birth of the borrower: (dd/mm/yyyy)
+9. Nationality of the borrower -----------------
+10. Bank account details of the borrower
+(a)
+Account No..............
+(b)
+name of the bank and address.............
+11. Credit card details of the borrower
+(a)
+Credit card type -----------------------
+(b)
+Credit card No. ------------------
+(c)
+Issuer of the card--------------------
+(d)
+Pariculars of Insurance Policy. ---------------
+(e)
+Insurer Company --------------------------
+Page 14/17
+----- PAGE 15 -----
+The Credit Information Companies Rules, 2006
+12. E-mail address of the borrower ----------
+13. Web URL address (if any) of the borrower -------------------
+14. Documents submitted by the borrower as proof of his address - (any of the following)
+(i)
+Passport details
+(a)
+Passport No. ----------------
+(b)
+Passport issuing authority ------------
+(c)
+Passport expiry date (dd/mm/yyyy) ------
+(ii)
+Voter's identity card No. ------------------
+(iii)
+Income-tax PAN No. ----------------------
+15. For Company/Firm/Body of Individuals/Association of Persons/Local Authority;
+(a)
+Registration Number ------------------------
+(b)
+Date of incorporation/agreement/partnership -----------------
+(c)
+Head office -------------- Name of the office -------------------------- Flat/Door/Block No. ------ Name of
+Premises/Building/Village --- --------- Road/Street/Lane/Post Office ----  Area/Locality/Taluka/Sub-division -----------
+Town/City/district ------------- Pin ------------- State/Union territory -----------Telephone No. ----------Fax -----------
+16. Web page URL address, if any ----------
+17. No. of branches ------------------
+18. Nature of Business ----------------------------------
+19. Income-tax PAN No. -------------------------------------------
+20. Turnover in the last financial year Rs.. ------------------
+21. Net worth* Rs. -----------------------------
+22. Paid up capital Rs. ---------------------------
+23. Particulars of Insurance Policy ----------------------
+Insurer company -----------------------------------
+24. Names, Addresses etc. of partners/Members/Directors --------------
+(a)
+Details of Partners/Members/Directors
+(i)
+Full Name ..............LastName/Surname ............First Name .......... Middle Name ..............
+(ii)
+Address Flat/Door/Block No. .......... Name of Premises/Building/Village ................ Road/Street/Lane/Post Office
+.............. Area/Locality/Taluka/Sub-Division ......... Town/City/District........... State/Union Territory Pin ......... Telephone
+No. ....... Fax No. ........Mobile Phone No. .......
+25. E-mail address ..............
+26. Name of the authorired representative.............................
+Address :- Flat/Door/Block No.........................................
+Name of Premises/Building/village..................................
+Road/Street/Lane/Post Office........................................
+Area/Locality/Taluka/Sub-Division ...............
+Town/City/District............................... Pin ......................
+State/Union Territory .................................
+Telephone No. ........................... Fax ..........................
+Page 15/17
+----- PAGE 16 -----
+The Credit Information Companies Rules, 2006
+Nature of business ...............................................
+27. Bank account Details;
+Name of the bank .......................... branch .................
+Bank account No. ......................................
+Type of bank account ....................................
+28. Any other in Formation ..............................................
+Part II ? (APPLICABLE TO INDIVIDUALS/COMPANY/FIRM/BODY OF INDIVIDUALS/ASSOCIATION OF
+PERSONS/LOCAL AUTHORITY)
+29.
+Particulars of the credit facilities granted or to be granted by a credit institution to the borrower :-
+(a)
+Nature of each funded credit facility and the amount sanctioned or to be sanctioned thereunder;
+(b)
+Date of disbursement of the amount against each facility;
+(c)
+Number of installments pertaining to principal and interest and amount, the due date/s of payment and the actual date of
+payment;
+(d)
+Total amount of outstanding dues against the borrower as on the date of reporting of credit in Formation;
+(e)
+Nature of each non-funded facility and the amount sanctioned or to be sanctioned thereunder;
+(f)
+Amount involved in every non-funded facility availed of by the borrower;
+(g)
+Conversion of non-funded facilities into funded facilities on account of non-fulfillment of commitment made thereunder;
+(h)
+In case the facility is revolving in nature, history of meeting the obligations on due date of payment.
+30.
+In Formation relating to the guarantor or the person who has given or proposes to give guarantee or security for a
+borrower of a credit institution including;
+(a)
+Name, full address including State and Pin Code, telephone number, date of birth/date of incorporation, PAN of the
+guarantor;
+(b)
+father's name
+(c)
+the amount guaranteed or to be guaranteed; and
+(d)
+the amount of guarantee invoked in respect whereof default has been committed by the guarantor, if any.
+FORM III
+[See sub-rule (3) of rule 29]
+DECLARATION OF FIDELITY AND SECRECY
+I, ___________________________ do solemnly swear and declare that on becoming the Chairperson, director, auditor,
+adviser, officer, employee or agent of _______________ (Name of the Credit In Formation Company), I will faithfully per
+Form the duties of Chairperson, director, auditor, adviser, officer, employee or agent and that I shall not directly or
+indirectly communicate or divulge any of the matters or any in Formation relating to the affairs of
+_______________(Name of the Credit In Formation Company) its members and/or their clients and/or their respective
+affairs including without limitation trade secrets, know-how, technology and such other confidential in Formation of the
+company which may come to my knowledge in the discharge of my duties as such chairperson, director, auditor,
+adviser, officer, employee or agent except to the extent that any such in Formation shall be or become part of the public
+domain or when required or authorised by the Board of the_______________(Name of the Credit In Formation
+Page 16/17
+----- PAGE 17 -----
+The Credit Information Companies Rules, 2006
+Company) or in circumstances in which it is, in accordance with law or practices and usages or, as the case may be,
+necessary or appropriate for me to divulge such in Formation. I will observe strict secrecy with respect to all transactions
+of the company and all matters relating thereto and my obligation of fidelity and secrecy to the company will continue
+even after my cessation of relationship with the company. I will not allow any person to inspect or have access to any
+books or documents or computer system, diskettes belonging to or in the possession of the____________________
+(Name of Credit In Formation Company) and relating to its business unless such person is legally entitled to such
+inspection or access.
+..................................................
+Signature
+(Name and designation of the person Signing the declaration)
+Place: ......................................................
+Date:........................................................
+Related AI tags, queries and research notes
+Translation
+Page 17/17

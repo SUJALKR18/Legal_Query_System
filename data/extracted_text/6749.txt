@@ -1,0 +1,546 @@
+
+----- PAGE 1 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+The Central Electricity Authority (Technical Standards for
+Connectivity to the Grid) Regulations, 2007
+Source: https://indiankanoon.org/doc/134799906/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of  Tamilnadu- Act
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007
+TAMILNADU
+India
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007
+Rule
+THE-CENTRAL-ELECTRICITY-AUTHORITY-TECHNICAL-STANDARDS-FOR-CONNECTIVITY-TO-THE-GRID-REGU
+LATIONS-2007 of 2007
+Published on 1 January 2007
+Commenced on 1 January 2007
+[This is the version of this document from 1 January 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007
+In exercise of powers conferred by Section 7 and clause (b) of Section 73 read with Sub-section (2) of Section 177 of
+Electricity Act, 2003, the Central Electricity Authority hereby makes the following Regulations for regulating the technical
+standards for connectivity to the grid, namely: -
+1.
+Short title and commencement.
+(1)
+Page 1/11
+----- PAGE 2 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+These Regulations may be called the Central Electricity Authority (Technical Standards for Connectivity of the Grid)
+Regulations, 2007.
+(2)
+These Regulations shall come into force on the date of their publication in the official gazette.
+2.
+Definitions.
+- In these regulations, unless the context otherwise requires,-
+(1)
+"Act" means The Electricity Act, 2003 (No. 36 of 2003);
+(2)
+"Appropriate Load Despatch Centre" means the National Load Despatch Centre (NLDC), Regional Load Despatch
+Centre (RLDC) or State Load Despatch Centre (SLDC) or Area Load Despatch Centre as the case may be;
+(3)
+"Area Load Despatch Centre" means the centre as established by the state for load despatch and control in a particular
+area of the state;
+(4)
+"Appropriate Transmission Utility" means the Central Transmission Utility or State Transmission Utility as the case may
+(5)
+"Automatic Generation Control" (AGC) means capability to regulate the power output of selectable units in response to
+total power plant output, tie-line power flow, and power system frequency;
+(6)
+"Automatic Voltage Regulator" (AVR) means a continuously acting automatic excitation control system to regulate a
+generating unit terminal voltage;
+(7)
+"British Standards" (BS) means those standards and specifications approved by the British Standards Institution;
+(8)
+"Bulk consumer" means a consumer who avails supply at voltage of 33 kV or. above;
+(9)
+"Earth Fault Factor" at a location in a three-phase system means the ratio of 'the highest root mean square (r.m.s.)
+phase-to-earth power frequency voltage on a sound phase during a fault to earth (affecting one or more phases)' to 'the
+r.m.s. phase-to-earth power frequency voltage which would be obtained at the selected location without the fault';
+(10)
+"Earthing" means connection between conducting parts and general mass of earth by an earthing device;
+(11)
+"Energy Management System" (EMS) means a complete system comprising software for facilitating operation of a
+power system, maintaining safety, reliability and economy;
+(12)
+"Event Logging Facilities" means a device provided to record the chronological sequence of operations of the relays and
+other equipment;
+(13)
+"Frequency" means the number of alternating cycles per second [expressed in Hertz (Hz)];
+(14)
+"Generating Unit" means an electrical Generator coupled to a prime mover within a Power Station together with all Plant
+and Apparatus at that Power Station (up to the Connection Point) which relates exclusively to the operation of that
+generator; -
+(15)
+"IEC Standard" means a standard approved by the International Electro technical Commission;
+(16)
+"Indian Standards" (IS) means standards specified by Bureau of Indian Standards;
+(17)
+" Interconnection point" means a sub-station or switchyard at which point the interconnection is established between the
+Page 2/11
+----- PAGE 3 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+requester and the grid;
+(18)
+"Isolator" means a device for achieving isolation of one part of an electrical system from the rest of the system;
+(19)
+"Maximum Continuous Rating" (MCR) of a generating u$it means the maximum continuous output in MW at the
+generator terminals guaranteed by the manufacturer at rated parameters;
+(20)
+"New Unit" means a generating emit for which the requester is seeking connection to the grid;
+(21)
+"Power Factor" means the cosine of the electrical angle between the voltage and current complexors in an AC electrical
+circuit;
+(22)
+"Power System Stabilizer" (PSS) means controlling equipment which receives input signals of speed, frequency and
+power to control the excitation via the voltage regulator for damping power oscillations of a synchronous machine;
+(23)
+"Protection System" means the equipment by which abnormal conditions in the grid are detected and fault clearance,
+actuating signals or indications a*e initiated without the intervention by the operator;
+(24)
+"Reactive Power" means in relation to an AC electrical system, the product of root mean square (r.m.s.) voltage, root
+mean square (r.m.s.) current and the sine of the electrical phase angle between the voltage complexor and current
+complexor, measured in volt-amperes reactive (VAr);
+(25)
+"Requester" means a person such as a Generating Company including captive generating plant or Transmission
+Licensee (excluding Central Transmission Utility and State Transmission Utility) or Distribution Licensee or Bulk
+Consumer, who is seeking connection of his new or expanded electrical plant to the Grid at voltage level 33 kV and
+above;
+(26)
+"SCADA" means Supervisory Control and Data Acquisition System that acquires data from remote locations over
+communication links and processes it at centralised control location for monitoring, supervision, control as well as
+decision support;
+(27)
+"Site Common Drawing" means a drawing prepared for a connection site, which depicts layout of connection site,
+electrical layout, common protection and control drawings and common services;
+(28)
+"Site Responsibility Schedule" (SRS) means a Schedule for demarcating the ownership, responsibility for control,
+operation and maintenance of the equipment at the interconnection point;
+(29)
+"System Protection Scheme" means a scheme designed to detect abnormal system conditions and take predetermined,
+corrective action to preserve system integrity and provide acceptable system performance;
+(30)
+"Thermal Generating Unit" means a generating unit using fossil fuels such as coal, lignite, gaseous and liquid fuel;
+(31)
+"Total Harmonic Distortion" (THD) means a measure of distortion of the voltage or current wave form (which shall ideally
+be sinusoidal) and is the square root of the sum of squares of all voltage or current harmonics expressed as a
+percentage of the magnitude of the fundamental;
+(32)
+"Transmission System" means a network of transmission lines and sub-stations;
+(33)
+"Under Frequency Relay" means a relay which operates when the system frequency falls below a pre-set value;
+(34)
+"User" means a person such as a Generating Company including captive generating plant or Transmission Licensee
+Page 3/11
+----- PAGE 4 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+(other than the Central Transmission Utility and State Transmission Utility) or Distribution Licensee or Bulk Consumer,
+whose electrical plant is connected to the grid at voltage level 33 kV and above; and
+(35)
+"Voltage Unbalance" means the deviation between highest and lowest line voltage divided by Average Line Voltage of
+the three phases.
+The words and expressions used and not defined in these regulations but defined in the Act shall have the meanings
+assigned to them in the Act.
+3.
+Applicability of the Regulations.
+- These regulations shall be applicable to all the users, requesters, Central Transmission Utility and State Transmission
+Utility.
+4.
+Objectives.
+(1)
+The aim of these regulations is to ensure the safe operation, integrity and reliability of the grid.
+(2)
+The new connection shall not cause any adverse effect on the grid. The grid shall continue to perform with specified
+reliability, security and quality as per the Central Electricity Authority (Grid Standards for Operation and Maintenance of
+Transmission Lines) Regulations, as and when they come into force. However, these regulations are not to be relied
+upon to protect the plant and equipment of the requester or user.
+(3)
+A requester is required to be aware, in advance, of the standards and conditions his system has to meet for being
+integrated into the grid.
+5.
+Standards.
+- The equipment shall meet the requirements in accordance with the provisions of Technical Standards for Connectivity
+to the Grid as given in the Schedule of these regulations and Central Electricity Authority (Grid Standards for Operation
+and Maintenance of Transmission Lines) Regulations as and when they come into force, and Grid Code and the State
+Grid Code(s) as specified by the appropriate Commission.
+6.
+General Connectivity Conditions.
+(1)
+The requester shall be responsible for the planning, design, construction, Reliability, protection and safe operation of its
+own equipment subject to the regulations for construction operation and maintenance and connectivity and other
+statutory provisions.
+(2)
+The requester and user shall furnish data as required by the Appropriate Transmission Utility or by the licensee or
+generating station with whose system the inter-connection is proposed, for permitting interconnection with the grid.
+(3)
+The requester and user shall provide necessary facilities for voice and data communication and transfer of on-line
+operational data, such as voltage, frequency, line flows, and status of breaker and isolator position and other parameters
+as prescribed by the Appropriate Load Despatch Centre.
+(4)
+The requester and user shall cooperate with the Regional Power Committee, and Appropriate Load Despatch Centres in
+respect of the matters listed below, but not limited to:-
+(a)
+protection coordination and settings of its protective relays accordingly;
+(b)
+agree to maintain meters and communication system in its jurisdiction in good condition;
+(c)
+participate in contingency operations such as load shedding, increasing or reducing generation, is landing, black start,
+Page 4/11
+----- PAGE 5 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+providing start-up power and restoration as per the procedure decided by the Appropriate Load Despatch Centre;
+(d)
+furnish data as required by Appropriate Transmission Utility or Transmission Licensee, Appropriate Load Despatch
+Centre, Appropriate Regional Power Committee, and any committee constituted by the Authority or appropriate
+Government for system studies or for facilitating analysis of tripping or disturbance in power system;
+(e)
+carryout modifications in his equipment with respect to short circuit level, protection coordination and other technical
+reasons considered necessary due to operational requirements;
+(f)
+abide by the coordinated outage plan of the state and region in respect of generating units and transmission lines as
+approved by the Regional Power Committee; and
+(g)
+cooperate with the Regional Power Committee for tuning of Power System Stabilizer provided in the excitation system of
+the generating unit.
+(5)
+The requester and user shall make arrangements for integration of the controls and tele-metering features of his system
+into the Automatic Generation Control, Automatic Load Shedding, Special Protection System, Energy Management
+Systems and Supervisory Control and Data Acquisition System of the respective state or region.
+(6)
+For inter-connection studies the requester shall make a request for connection in the planning stage to the Appropriate
+Transmission Utility. In case a requester is seeking inter-connection to a distribution system, such a request will be
+made to the distribution licensee. The Appropriate Transmission Utility or distribution licensee shall carry out the
+inter-connection study to determine the point of inter-connection, required interconnection facilities and modifications
+required on the existing grids, if any, to accommodate the interconnection. The study may also address the transmission
+system capability, transient stability, voltage stability, losses, voltage regulation, harmonics, voltage flicker,
+electromagnetic transients, machine dynamics, ferro resonance, metering requirements, protective relaying, sub-station
+grounding and fault duties, as the case may be.
+(7)
+(1) Every connection of a requester's system to the grid shall be covered by a connection agreement between the
+requester and-
+(a)
+Appropriate Transmission Utility in case of connection to Inter-state transmission system or intra state transmission
+system as the case may be;
+(b)
+Distribution licensee in case of inter-connection to distribution licensee's system; and
+(c)
+Transmission licensee and Appropriate Transmission Utility, in case of inter-connection to a transmission licensee
+(tri-partite agreement).
+(2)
+The connection agreement shall contain general and specific technical conditions, applicable to that connection.
+7.
+Site Responsibility Schedule.
+(1)
+A Site Responsibility Schedule (SRS) for every connection point shall be prepared by the owner of the substation where
+connection is taking place.
+(2)
+Following information shall be included in the Site Responsibility Schedule, namely,-
+(a)
+Schedule of electrical apparatus services and supplies;
+(b)
+Schedule of telecommunications and measurement apparatus; and
+Page 5/11
+----- PAGE 6 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+(c)
+Safety rules applicable to each plant and apparatus."
+(3)
+Following information shall also be furnished in the Site Responsibility Schedule for each item of equipment installed at
+the connection site, namely:-
+(a)
+the ownership of equipment;
+(b)
+the responsibility for control of equipment;
+(c)
+the responsibility for maintenance of equipment;
+(d)
+the responsibility for operation of equipment;
+(e)
+the manager of the site;
+(f)
+the responsibility for all matters relating to safety of persons at site; and
+(g)
+the responsibility for all matters relating to safety of equipment at site.
+8.
+Access at Connection Site.
+- The requester or user, as the case may be, owning the electrical plant shall provide reasonable access and other
+required facilities to the licensee or Appropriate Transmission Utility or Appropriate Load Despatch Centre, whose
+equipment is installed or proposed to be installed at the Connection Site for installation, operation and maintenance, etc.
+of the equipment.
+9.
+Site Common Drawings.
+- Site Common Drawings shall be prepared for each connection point by the owner of the Sub-station where connection
+is taking place.
+Schedule
+(See Regulation No. 5)
+Standards for Connectivity to the Grid
+Part I ? General
+1. Standards and Codes of Practice. - (1) The requester shall follow the industry best practices and applicable industry
+standards in respect of the equipment installation and its operation and maintenance.
+(2)
+The equipment including overhead lines and cables shall comply with the relevant Indian Standards, British Standard
+(BS), or International Electrotechnical Commission (IEC) Standard, or American National Standards Institute (ANSI) or
+any other equivalent International Standard:
+Provided that whenever an International Standard or International Electrotechnical Commission Standard is followed,
+necessary corrections or modifications shall be made for nominal system frequency, nominal system voltage, ambient
+temperature, humidity and other conditions prevailing in India before actual adoption-of the said Standard.
+(3)
+The effects of wind, storms, floods, lightening, elevation, temperature extremes, icing, contamination, pollution and
+earthquakes must be considered in the design and operation of the connected facilities.
+(4)
+Installation, operation and maintenance of the equipment by the requester shall conform to the relevant standards
+specified by the Authority under Section 177, and Section 73 of the Act, as and when they come into force.
+2. Safety. - The requester shall comply with the Indian Electricity Rules, 1956 till such time Central Electricity Authority
+(Safety and Electric Supply) Regulations come into force.
+3. Sub-station Grounding. - Each transmission sub-station must have a ground mat solidly connected to all metallic
+Page 6/11
+----- PAGE 7 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+structures and other non-energised metallic equipment. The mat shall limit the ground potential gradients to such
+voltage and current levels that will not endanger the safety of people or damage equipment which are in, or immediately
+adjacent to, the station under normal and fault conditions. The ground mat size and type shall be based on local soil
+conditions and available electrical fault current magnitudes. In areas where ground mat voltage rises would not be within
+acceptable and safe limits (for example due to high soil resistivity or limited sub-station space), grounding rods and
+ground wells may be used to reduce the ground grid resistance to acceptable levels. Sub-station grounding shall be
+done in accordance with the norms of the Institute of Electrical and Electronics Engineers (IEEE)-80.
+4. Metering. - Meters shall be provided as specified in the Central Electricity Authority (Installation and Operation of
+Meters) Regulations, 2006.
+5. Basic Insulation Level and Insulation Co-ordination. - (1) Basic Insulation Level (BIL) of various items of equipment
+and ratings of surge arresters for generating stations, lines and sub-stations shall be decided on the following order of
+priority, namely:-
+(a)
+pure safety to public and operating personnel;
+(b)
+avoid permanent damage to plant;
+(c)
+prevent failure of costly equipment;
+(d)
+minimise circuit interruptions; and
+(e)
+minimise interruptions of power supply to consumers.
+(2)
+Insulation co-ordination of equipment and lines on both sides of a connection point belonging to the requester and the
+grid shall be accomplished and the co-ordination shall be done by the Appropriate Transmission Utility.
+6. Protection System and Co-ordination. - (1) Protection system shall be designed to reliably detect faults on various
+abnormal conditions and provide an appropriate means and location to isolate the equipment or system automatically.
+The protection system must be able to detect power system faults within the protection zone. The protection system
+should also detect abnormal operating conditions such as equipment failures or open phase conditions.
+(2)
+Every element of the power system shall be protected by a standard protection system having the required reliability,
+selectivity, speed, discrimination and sensitivity. Where failure of a protective relay in the requester's system has
+substantial impact on the grid, it shall connect an additional protection as back up protection besides the main
+protection.
+(3)
+Notwithstanding the protection systems provided in the grid, the requester and user shall provide requisite protections
+for safeguarding his system from the faults originating in the Grid.
+(4)
+Bus Bar Protection and Breaker Fail Protection or Local Breaker Back Up Protection shall be provided wherever
+stipulated in the regulations.
+(5)
+Special Protection Scheme such as under frequency relay for load shedding, voltage instability, angular instability,
+generation backing down or Islanding Schemes may also be required to be provided to avert system disturbances.
+(6)
+Protection co-ordination issues shall be finalized by the Regional Power Committee.
+(7)
+The requester and user shall develop protection manuals conforming to various standards for the reference and use of
+its personnel.
+7. Disturbance Recording and Event Logging Facilities. - Every generating station and sub-station connected to the grid
+at 220 kV or above shall be provided with disturbance recording and event logging facilities. All such equipment shall be
+provided with time synchronization facility for global common time reference.
+Page 7/11
+----- PAGE 8 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+8. Schematic Diagrams. - The requester and user shall prepare single line schematic diagrams in respect of its system
+facility and make the same available to the Appropriate Transmission Utility or licensee through which his system is
+connected and the Appropriate Load Despatch Centre.
+9. Inspection, Test, Calibration and Maintenance prior to connection. - Before connecting, the requester shall complete
+all inspections and tests finalised in consultation with the Appropriate Transmission Utility or licensee or generating
+station to^which his equipment is connected. The requester shall make available all drawings, specifications and test
+records of the project equipment pertaining to integrated operation to the Appropriate Transmission Utility or licensee or
+generating station as the case may be.
+Part II ? Grid Connectivity Standards Applicable to the Generating Units
+The units at a generating station proposed to be connected to the grid shall comply with the following requirements
+besides the general connectivity conditions given in the regulations and general requirements given in Part I of the
+Schedule:-
+1. New Generating Units
+(1)
+The excitation system for every generating unit:-
+(a)
+shall have state of the art excitation system;
+(b)
+shall have Automatic Voltage Regulator (AVR). Generators of 100 MW rating and above shall have Automatic Voltage
+Regulator with digital control and two separate channels having independent inputs and automatic changeover; and
+(c)
+The Automatic Voltage Regulator of generator of 100 MW and above shall include Power System Stabilizer (PSS).
+(2)
+The Short-Circuit Ratio (SCR) for generators shall be as per IEC-34.
+(3)
+The generator transformer windings shall have delta connection on low voltage side and star connection on high voltage
+side. Star point of high voltage side shall be effectively (solidly) earthed so as to achieve the Earth Fault Factor of 1.4 or
+less.
+(4)
+All generating machines irrespective of capacity shall have electronically controlled governing system with appropriate
+speed/load characteristics to regulate frequency. The governors of thermal generating units shall have a droop of 3 to
+6% and those of hydro generating units 0 to 10%.
+(5)
+The project of the requester shall not cause voltage and current harmonics on the grid which exceed the limits specified
+in Institute of Electrical and Electronics Engineers (IEEE) Standard 519.
+(6)
+Generating Units located near load centre, shall be capable of operating at rated output for power factor varying
+between 0.85 lagging (over-excited) to 0.95 leading (under-excited) and Generating Units located far from load centres
+shall be capable of operating at rated output for power factor varying between 0.9 lagging (over-excited) to 0.95 leading
+(under-excited). The above performance shall also be achieved with voltage variation of 1 5% of nominal, frequency
+variation of +3% and -5% and combined voltage and frequency variation of 15%. However, for gas turbines, the above
+performance shall be achieved for voltage variation of 15%.
+(7)
+The coal and lignite based thermal generating units shall be capable of generating up to 105% of Maximum Continuous
+Rating (subject to maximum load capability under Valve Wide Open Condition) for short duration to provide the
+frequency response.
+(8)
+The hydro generating units shall be capable of generating up to 110% of rated capacity (subject to rated head being
+available) on continuous basis.
+(9)
+Every generating unit shall have standard protections to protect the units not only from faults within the units and within
+Page 8/11
+----- PAGE 9 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+the station but also from faults in transmission lines. for generating units having rated capacity greater than 100 MW, two
+independent sets of protections acting on two independent sets of trip coils fed from independent Direct Current (DC)
+supplies shall be provided. The protections shall include but not be limited to the Local Breaker Back-up (LBB)
+protection.
+(10)
+Hydro generating units having rated capacity of 50 MW and above shall be capable of operation in synchronous
+condenser mode, wherever feasible.
+(11)
+Bus bar protection shall be provided at the switchyard of all generating station.
+(12)
+Automatic synchronisation facilities shall be provided in the requester's Project.
+(13)
+The station auxiliary power requirement, including voltage and reactive requirements, shall not impose operating
+restrictions on the grid beyond those specified in the Grid Code or state Grid Code as the case may be.
+(14)
+In case of hydro generating units, self-starting facility may be provided. The hydro generating station may also have a
+small diesel generator for meeting the station auxiliary requirements for black start.
+(15)
+The standards in respect of the sub-stations associated with the generating stations shall be in accordance with the
+provisions specified in respect of 'Sub-stations' under Part III of these Standards.
+2. Existing Units. - For thermal generating units having rated capacity of 200 MW and above and hydro units having
+rated capacity of 100 MW and above, the following facilities would be provided at the time of renovation and
+modernization.
+(1)
+Every generating unit shall have Automatic Voltage Regulator. Generators having rated capacity of 100 MW and above
+shall have Automatic Voltage Regulator with two separate channels having independent inputs and automatic
+changeover. ‘
+(2)
+Every generating unit of capacity having rated capacity higher than 100MW shall have Power System Stabilizer.
+(3)
+All generating units shall have standard protections to protect the units not only from faults within the units and within the
+station but also from faults in transmission lines. The protections shall include but not limited to the Local Breaker
+Back-up (LBB) protection.
+Part III ? Grid Connectivity Standards Applicable to the Transmission Line and Sub-Station
+The transmission lines and sub-stations connected to the grid shall comply with the following additional requirements
+besides the general connectivity conditions under these regulations and General Standards for Connectivity to the Grid
+as specified in Part I of the Schedule.
+(1)
+Bus bar protection shall be provided on all sub-stations at and above 220 kV levels for all new sub-stations. For existing
+sub-stations, this shall be implemented in a reasonable time frame.
+(2)
+Local Breaker Back-up (LBB) protection shall be provided for all sub-stations of 220kV and above.
+(3)
+Two main numerical Distance Protection Schemes shall be provided on all the transmission lines of 220 kV and above
+for all new sub-stations. For existing sub-stations, this shall be implemented in a reasonable time frame.
+(4)
+Circuit breakers, isolators and all other current carrying equipment shall be capable of carrying normal and emergency
+load currents without damage. The equipment shall not become a limiting factor on the ability of transfer of power on the
+inter-state and intra-state transmission system.
+(5)
+All circuit breakers and other fault interrupting devices shall be capable of safely interrupting fault currents for any fault
+Page 9/11
+----- PAGE 10 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+that they are required to interrupt. The Circuit Breaker shall have this capability without the use of intentional time delay
+in clearing the fault. Minimum fault interrupting requirement need be specified by the Appropriate Transmission Utility.
+The Circuit Breaker shall be capable of performing all other required switching duties such as, but not limited to,
+capacitive current switching, load current switching and out-of-step switching. The Circuit Breaker shall perform all
+required duties without creating transient over-voltages that could damage the equipment provided elsewhere in the
+grid. The short circuit capacity of the circuit breaker shall be based on short-term and perspective transmission plans as
+finalized by the Authority.
+(6)
+Power Supply to Sub-Station Auxiliaries, shall
+(a)
+for alternating current (AC) supply (Applicable to new sub-stations):
+220.
+kV and above: Two high tension (HT) supplies shall be arranged from independent sources. One of the two high tension
+supplies shall be standby to the other. In addition, an emergency supply from diesel generating (DG) source of suitable
+capacity shall also be provided.
+66.
+kV and below 220 kV: There shall be one HT supply and one diesel generating source.
+33.
+kV and below 66 kV: There shall be one HT supply.
+(b)
+for direct current (DC) Supply (Applicable to new sub-stations): Sub-stations of transmission system for 132 kV and
+above and sub-stations of all generating stations: There shall be two sets of batteries, each equipped with its own
+charger.
+For sub-stations below 132 kV: there shall be one set of battery and charger.
+(7)
+Earth Fault Factor for an effectively earthed system shall be not mare than 1.4.
+Part IV ? Grid Connectivity Standards Applicable to the Distribution Systems and Bulk Consumers
+The following additional requirements shall be complied with, besides the connectivity conditions in these regulations
+and general Standards for Connectivity to the Grid given in Part-I and those applicable to transmission lines and
+sub-stations in Part -III.
+1. Under Frequency/df/dt Relays. - Under frequency and df/dt (rate of change of frequency with time) relays shall be
+employed for automatic load control in a contingency Jo ensure grid security under conditions of falling grid frequency in
+accordance with the decision taken in the Regional Power Committee.
+2. Reactive Power. - The distribution licensees shall provide adequate reactive compensation to compensate the
+inductive reactive power requirement in their system so that they do not depend upon the grid for reactive power
+support. The power factor of the distribution system and bulk consumer shall not be less than 0.95.
+3. Voltage and Current Harmonics. - (1) The total harmonic distortion for voltage at the connection point shall not exceed
+5% with no individual harmonic higher than 3%.
+(2)
+The total harmonic distortion for current drawn from the transmission system at the connection point shall not exceed
+8%.
+(3)
+The limits prescribed in (1) and (2) shall be implemented in a phased manner so as to achieve complete compliance not
+later than five years from the date of publication of these regulations in the official gazette.
+4. Voltage Unbalance. - The Voltage Unbalance at 33 kV and above shall not exceed 3.0%.
+5. Voltage Fluctuations. - (1) The permissible limit of voltage fluctuation for step changes which may occur repetitively is
+1.5%.
+(2)
+For occasional fluctuations other than step changes the maximum permissible limit is 3%.
+(3)
+The limits prescribed in (1) and (2) above shall come into force not later than five years from the date of publication of
+Page 10/11
+----- PAGE 11 -----
+The Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regul...
+these regulations in the official gazette.
+6. Back-energization. - The consumer shall not energize transmission or distribution system by injecting supply from his
+generators or any other source either by automatic controls or manually unless specifically requested by the
+Transmission or Distribution Licensee.
+Related AI tags, queries and research notes
+Translation
+Page 11/11

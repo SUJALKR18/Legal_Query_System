@@ -1,0 +1,262 @@
+
+----- PAGE 1 -----
+The Cash Transfer of Food Subsidy Rules, 2015
+The Cash Transfer of Food Subsidy Rules, 2015
+Source: https://indiankanoon.org/doc/68962542/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Cash Transfer of Food Subsidy Rules, 2015
+UNION OF INDIA
+India
+The Cash Transfer of Food Subsidy Rules, 2015
+Rule THE-CASH-TRANSFER-OF-FOOD-SUBSIDY-RULES-2015 of 2015
+Published on 21 August 2015
+Commenced on 21 August 2015
+[This is the version of this document from 21 August 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Cash Transfer of Food Subsidy Rules, 2015
+Published vide Notification No. G.S.R. 649 (E), dated 21st August, 2015
+Ministry of Consumer Affairs, Food and Public Distribution
+(Department of Food and Public Distribution)
+G.S.R. 649(E). - In exercise of the powers conferred by clause (d) of sub-section (2) of Section 39 read with clause (h)
+of sub-section (2) of section 12 of the National Food Security Act, 2013 (
+20 of 2013
+), the Central Government, after consultation with the State Governments, hereby makes the following rules, namely:-
+1.
+Short title and commencement.
+(1)
+Page 1/5
+----- PAGE 2 -----
+The Cash Transfer of Food Subsidy Rules, 2015
+These rules may be called the Cash Transfer of Food Subsidy Rules, 2015.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Aadhaar number" means the identification number issued by the Unique Identification Authority of India;
+(b)
+"Act" means the National Food Security Act, 2013 (
+20 of 2013
+);
+(c)
+"Bank account of entitled household" means the bank account of any of the members of entitled household in any bank,
+following the Core Banking System, indicated by the head of the household in the digitised beneficiary database, for
+receiving cash transfer of food subsidy;
+(d)
+"Bank account details" means number of the bank account of entitled household along with the Indian Financial System
+Code of that bank;
+(e)
+"Beneficiary database" means list of all the entitled households, along with the details of the members;
+(f)
+"Central Issue Price" means price of foodgrains specified for eligible households in Schedule I of the Act and price of
+food-grains determined by the Central Government from time to time for 'tide over' allocation under sub-section (1) of
+section 3 of the Act;
+(g)
+"entitled households" means the eligible households referred to in the Act and households receiving subsidised
+foodgrains from the State Government out of 'tide over' allocation, who or which possess a valid ration card;
+(h)
+"entitled quantity of foodgrains" means quantity of foodgrains to be distributed to eligible households under sub-section
+(1) of section 3 of the Act or quantity of foodgrains distributed by the State Government to other entitled households, if
+any, out of the 'tide over' allocation;
+(i)
+"Identified areas" means a State or Union territory or any specified area within the State or Union territory for which there
+is a written consent of the State Government for implementation of the Scheme;
+(j)
+"Public Financial Management System" means a web-based online transaction processing system established by the
+Controller General of Accounts, Ministry of Finance, Government of India for fund management, e-payment and
+Management Information System;
+(k)
+"Scheme" means a system to provide food subsidy in cash directly into the bank accounts of entitled households to
+enable purchase of the entitled quantity of foodgrains from the open market;
+(l)
+"State agency" means a Department or Corporation or Office designated by the State Government to receive the cash
+subsidy from the Central Government in a separate bank account and credit the due subsidy into the bank accounts of
+the entitled households, based on their entitled quantity of foodgrains;
+(m)
+"tide over allocation" means foodgrains allocated to States or Union territories, if any, under the second proviso to
+sub-section (1) of section 3 of the Act.
+(2)
+Page 2/5
+----- PAGE 3 -----
+The Cash Transfer of Food Subsidy Rules, 2015
+Words and expressions used and not defined in these rules but defined in the Act shall have the same meanings as
+assigned to them in the Act.
+3.
+(1)
+The State Government may implement the Scheme with the approval of the Central Government.
+(2)
+The Scheme shall be implemented in the identified areas:
+Provided that the prevailing system of distribution of foodgrains through Targeted Public Distribution System shall
+continue in the remaining areas.
+4.
+Conditions for implementing the Scheme.
+- The State Government shall implement the Scheme in any identified areas subject to the following conditions, namely
+:-
+(a)
+complete digitisation and de-duplication of beneficiary database;
+(b)
+seeding of bank account details and Aadhaar number, if available, in the digitised beneficiary database;
+(c)
+ensuring adequate availability of foodgrains in the open market; and
+(d)
+identification of a State agency, having a separate bank account, to receive the cash subsidy from the Central
+Government for the entitled households and to transfer the due amount of subsidy into the bank accounts of entitled
+households through Public Financial Management System.
+5.
+Computation of food subsidy.
+- The amount of food subsidy payable to a entitled household shall be computed by multiplying entitled quantity of
+foodgrains with difference between 1.25 times applicable Minimum Support Price (derived Minimum Support Price in the
+case of rice) and the Central Issue Prices, or as may be revised from time to time, by the Central Government.
+6.
+Modalities of cash transfer of food subsidy.
+(1)
+The State Government shall prepare the digitised beneficiary database of the identified area, seeded with bank account
+details and Aadhaar number, if available, keeping in view the total coverage for the State or Union territory determined
+under the Act for receiving subsidised foodgrains.
+(2)
+The digitised beneficiary database for the identified area, seeded with bank account details and Aadhaar number, if
+available, shall be shared by the State Government on the portal of the Public Financial Management System for
+scrutiny, verification and validation of Aadhaar number and bank account details.
+(3)
+The findings of the scrutiny done by the Public Financial Management System shall be shared with the State
+Government.
+(4)
+The State Government shall address the issues raised in the findings of the Public Financial Management System and
+place the final digitised beneficiary database for the identified area, seeded with bank account details and Aadhaar
+number, if available, on the Public Financial Management System portal.
+(5)
+On the basis of final digitised beneficiary database, the entitled quantity of foodgrains and formula for computation of
+cash food subsidy under rule 5, the State Government shall also prepare and place a summary proposal, on the Public
+Financial Management System portal, as per the proforma annexed to these Rules, for transfer of due cash subsidy by
+the Central Government into the bank account of the State Agency.
+(6)
+Page 3/5
+----- PAGE 4 -----
+The Cash Transfer of Food Subsidy Rules, 2015
+The Central Government shall transfer, on monthly basis, the total cash subsidy for the final digitised beneficiary
+database of the State or Union territory, computed in accordance with the provisions of Rule 5, into the bank account of
+the State agency.
+(7)
+In case, the State Government is further subsidising the foodgrains beyond the Central Issue Prices under the Act, for all
+the entitled households or a part thereof, the State Government shall clearly earmark in the digitised beneficiary
+database such of the entitled households which are eligible to receive additional subsidy from the State Government 
+and amount of State subsidy in cash for each of such entitled households and credit the total amount of State subsidy
+into the bank account of State Agency.
+(8)
+The State agency shall credit the consolidated amount of entitled cash subsidy comprising of Central subsidy in
+accordance with the provisions of rule 5 and State subsidy as per the provisions of sub-rule (7), if applicable, into the
+individual bank accounts of entitled households in the digitised beneficiary database, on monthly basis, through the
+Public Financial Management System by following procedure specified by Controller General of Accounts, Ministry of
+Finance, Government of India, from time to time.
+(9)
+All the activities specified in sub-rules (1) to (8) shall be made online.
+(10)
+The digitised beneficiary database for monthly transfer of cash subsidy from the Central Government to the State
+agency and from the State agency to the entitled households shall be deemed to be frozen for that particular month.
+(11)
+The State Government shall undertake regular online updation of digitised beneficiary database, to ensure that cash
+transfer is being made only in the bank accounts of entitled households.
+(12)
+The State Government shall take into account deletions or cancellation of ration cards, before sending summary
+proposal under sub-rule (5) for subsequent months.
+(13)
+The State Government shall endeavour to ensure foodgrains entitlement of targeted beneficiaries specified in the Act,
+through cash transfer under the Scheme.
+7.
+Timelines.
+(1)
+The State Government shall, in accordance with the provisions of sub-rule (4) of rule 6, share the final digitised
+beneficiary database on the Public Financial Management System portal by 10th day of the preceding month.
+(2)
+State Government shall, in accordance with provisions of sub-rule (5) of rule 6, place a summary proposal by 10th day
+of the preceding month, for monthly transfer of cash subsidy by the Central Government into the bank account of State
+Agency.
+(3)
+The Central Government shall, in accordance with provisions of sub-rule (6) of rule 6, after due scrutiny of the proposal
+of the State Government, credit the total due cash subsidy on monthly basis into the bank account of the State Agency
+by 15th day of the preceding month.
+(4)
+The State Agency shall, in accordance with provisions of sub-rule (8) of rule 6, transfer the cash subsidy on monthly
+basis into the bank accounts of entitled households by last week of the previous month.
+8.
+Concurrent Evaluation.
+(1)
+State Government shall get the effectiveness of the Scheme, in ensuring food security of the targeted beneficiaries,
+evaluated concurrently and submit the first report to the Central Government at the end of six months of implementation
+of the Scheme.
+Page 4/5
+----- PAGE 5 -----
+The Cash Transfer of Food Subsidy Rules, 2015
+(2)
+The State Government shall submit second report to the Central Government at the end of one year of implementation
+of the Scheme.
+9.
+Utilisation Certificate.
+- The State Government shall submit utilisation certificate in a specified proforma to the Central Government, in
+accordance with provisions of the General Financial Rules, 2005.
+Proforma
+[See rule 6(5)]
+(a)
+Name of the State/Union territory
+(b)
+Area(s) within the State/ Union territory identified for implementation of the scheme :
+(c)
+Details regarding the area(s) identified for implementation of the scheme :
+Details of Entitled Households
+Total number in the identified area (s)
+Foodgrain requirement #(in tons)
+Estimated Amount of monthly cash transfer(Rs. in
+Crore)
+Balance, if any, out of earlier transfer of cash
+subsidy to the State Agency(Rs. in Crore)
+Wheat
+Rice
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+Antyodaya Anna Yojana households
+Persons in the above mentioned Antyodaya Anna Yojana
+households
+Persons belonging to priority households
+Tide over allocation *
+# At the rate of 35 kilogram per households per month for Antyodaya Anna Yojana households and at the rate of 5
+kilogram per person per month for priority households.
+* Please indicate the number of households being covered out of this allocation and the scale of issue in column (2).
+Note: The number of persons and households indicated in column (2) should be as per the final digitised and
+de-duplicated beneficiary data-base, as defined under Rule 2 (e), seeded with bank account details and Aadhaar
+number, if available.
+Related AI tags, queries and research notes
+Translation
+Page 5/5

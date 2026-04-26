@@ -1,0 +1,2659 @@
+
+----- PAGE 1 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Central Electricity Regulatory Commission (Fees and Charges of
+Regional Load Despatch Centre and other related matters)
+Regulations, 2019
+Source: https://indiankanoon.org/doc/102736919/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Centre and other related
+matters) Regulations, 2019
+UNION OF INDIA
+India
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Centre and other related
+matters) Regulations, 2019
+Rule
+CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-FEES-AND-CHARGES-OF-REGIONAL-LOAD-DESPATCH-
+CENTRE-AND-OTHER-RELATED-MATTERS-REGULATIONS-2019 of 2019
+Published on 5 April 2019
+Commenced on 5 April 2019
+[This is the version of this document from 5 April 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Centre and other related
+matters) Regulations, 2019
+Published vide Notification No.L-1/153/2019/CERC, dated 5.4.2019
+Page 1/50
+----- PAGE 2 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Last Updated 30th May, 2019
+No.L-1/153/2019/CERC. - In exercise of powers conferred under Section 178 of the Electricity Act, 2003 (
+36 of 2003
+) read with sub section 4 of section 28 thereof and all other powers enabling it in this behalf, and after previous
+publication, the Central Electricity Regulatory Commission hereby makes the following regulations, namely:
+Chapter-1 Preliminary
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Central Electricity Regulatory Commission (Fees and Charges of Regional Load
+Despatch Centre and other related matters) Regulations, 2019.
+(2)
+These regulations shall come into effect from the date of their publication in the Official Gazette, and unless reviewed
+earlier or extended by the Commission, shall be applicable during the control period from 1.4.2019 to 31.3.2024.
+2.
+Scope and extent of application.
+- These regulations shall be applicable for determination of fees and charges to be collected by Regional Load Despatch
+Centres from the generating companies, distribution licensees, inter-State transmission licensees, buyers, sellers and
+inter-State trading licensees and any other users.
+3.
+Definitions.
+- In these regulations, unless the context otherwise requires:
+(1)
+"Act" means the Electricity Act, 2003 (
+36 of 2003
+);
+(2)
+"Additional Capitalization" means the capital expenditure incurred or projected to be incurred, after the date of
+commercial operation of the project and admitted by the Commission after prudence check;
+(3)
+"Annual LDC Charges (ALC)" : The Annual LDC charges (ALC) shall comprise the aggregate revenue requirement
+(ARR) for meeting the annual expenditure to be incurred by the RLDC and NLDC as approved by the Commission;
+(4)
+"Auditor" means an auditor appointed by the Power System Operation Corporation Limited, qualified for being appointed
+as an auditor in accordance with the provisions of sections 224, 233B and 619 of the Companies Act, 1956 (1 of 1956),
+as amended from time to time or Chapter X of the Companies Act, 2013 (
+18 of 2013
+),or any other law for the time being in force;
+(5)
+"Bank Rate" means the one year marginal cost of lending rate (MCLR) of the State Bank of India issued from time to
+time plus 350 basis points;
+(6)
+"Buyer" means a person buying power through medium term open access or long term access and whose scheduling,
+metering and energy accounting is coordinated by the Regional Load Despatch Centre;
+(7)
+"Capital Cost" means the capital cost as defined in Regulation 14 of these regulations;
+(8)
+"Capital Expenditure" or "CAPEX" means the expenditure of capital nature planned to be incurred during the control
+period for creation of assets of the Regional Load Despatch Centres or National Load Despatch Centre, as the case
+may be;
+(9)
+Page 2/50
+----- PAGE 3 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+"Charges" means recurring payments on monthly basis to be collected by the Regional Load Despatch Centres for the
+services rendered by National Load Despatch Centre, Regional Load Despatch Centre and Power System Operation
+Corporation Limited;
+(10)
+"Commission" means Central Electricity Regulatory Commission referred to in sub-section (1) of section 76 of the Act;
+(11)
+"Contingency Reserve" is the reserve to be created and maintained by RLDCs and NLDCs from other incomes (other
+than registration fees and approved annual LDC charges) viz. short term open access application fees and operating
+charges, REC and PAT charges etc.
+(12)
+"Contracted Capacity" means the capacity arranged through long term access or medium term open access;
+(13)
+"Control Period" means a period of five years starting from 1.4.2019;
+(14)
+"Day" means the 24 hour period starting at 0000hour;
+(15)
+"Effective tax rate" for tax on return on equity is the rate (in %) calculated on the basis of actual tax paid by the
+concerned Load Despatch Centre in the respect of the financial year in line with the provisions of the relevant Finance
+Acts and in line with the norms defined in CERC (Terms and Conditions of Tariff) Regulations for the relevant control
+period notified by the Commission;
+(16)
+"Expenditure Incurred" means the fund, whether equity or debt or both, actually deployed and paid in cash or cash
+equivalent, for creation or acquisition of a useful asset and does not include commitments and the liabilities for which no
+payment has been made;
+(17)
+"Ergonomics" means the science of refining the design of products/Office equipment to optimize them for human use.
+Human characteristics, such as height, weight, as well as information about human hearing, sight, temperature
+preferences and so on are considered while choosing the workplace equipment/furniture. Ergonomics is sometimes
+known as human factors engineering;
+(18)
+"Fees" means the non-refundable one-time or fixed payments collected by the Regional Load Despatch Centres, or in a
+defined periodicity, by the National Load Despatch Centre, for the services rendered for commencement of grid access
+and scheduling and on account of registration, membership or any other purpose as specified by the Commission from
+time to time;
+(19)
+"Forum of Load Despatchers (FOLD)" means the body constituted by Forum of Regulators (FOR) and having NLDC,
+RLDCs, SLDCs as its members with secretariat at NLDC;
+(20)
+"Grid Access" means the permission granted by the concerned RLDC for integration of the generating station including a
+stage or unit of the generating station, or licensees, buyers and sellers with the grid on meeting the technical
+requirements;
+(21)
+"LDC Development fund" is the fund to be created and maintained by POSOCO for administering capital expenditure &
+other expenses for empowerment of human resources as approved by the Commission;
+(22)
+"Licensee" means a person granted a license under Section 14 of the Act;
+(23)
+"Logistics Function" means the support functions for NLDC/RLDCs as per Regulation 5(1) of these Regulations;
+(24)
+"Market Operation Function" means functions related to power market as per Regulation 5(2) of these Regulations;
+(25)
+Page 3/50
+----- PAGE 4 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+"National Load Despatch Centre" or "NLDC" means the Centre at the national level established by the Central
+Government under sub-section(1) of Section 26 of the Act;
+(26)
+"Operational Expenditure or OPEX" refers to all the services related to the functions where a significant portion of
+delivery is through an annual recurring expenses mode;
+(27)
+"Other Support Functions" means the functions performed by the RLDCs and NLDC and includes but not limited to
+taxation and TDS Reconciliation, Accounting, Settlement, Billing & Collection, Contracts, human resource
+administration, management information system, legal & regulatory affairs and inputs for policy making;
+(28)
+"Power System Operation Corporation Limited" or "POSOCO" means a company entrusted with the operation of the
+National Load Despatch Centre in accordance with Section 26 of the Act and Regional Load Despatch Centres in
+accordance with Section 27 of the Act or any other related function assigned by the Govt./ Commission from time to
+time;
+(29)
+"Region" means any one of the regions demarcated by the Central Government under Section 25 of the Act;
+(30)
+"Regional entity" means an entity whose scheduling, metering and energy accounting is done at the regional level by the
+concerned Regional Load Despatch Centre;
+(31)
+"Regional Load Despatch Centre" or "RLDC" means the Centre for each region established by the Central Government
+under sub-section (1) of section 27 of the Act;
+(32)
+"Replacement Expenditure" or "REPEX" means the expenditure incurred or projected to be incurred for replacement of
+capital assets on completion of their useful life but are not covered under the Repairs and Maintenance expenses;
+(33)
+"Regulatory Pool Account" means the account operated by the RLDCs or NLDC under the relevant regulations or orders
+by the Commission for handling Deviation Settlement Charges, Reactive Energy Charges, Ancillary Services Operation,
+Congestion Charges and Congestion Revenue amount due to market splitting or any other pool account/ market product
+which may be operated by RLDCs or NLDC from time to time as per the Regulations or directions of the Commission;
+(34)
+"Scheme" means the facilities and equipment associated with and installed at the RLDCs, NLDC and Corporate office of
+POSOCO, as the case may be, as per Regulation 6 of these Regulation;
+(35)
+"Seller" means a person other than a generating company supplying power through medium term open access or long
+term access and whose scheduling, metering and energy accounting is coordinated by RLDCs or NLDC;
+(36)
+"State Load Despatch Centre (SLDC)" means the center established under subsection (1) of section 31 of the Electricity
+Act, 2003;
+(37)
+"System Operation Function" shall be as per Regulation 5(3) of these Regulations;
+(38)
+"User" means the generating companies, distribution licensees, buyers, Bulk consumers (SEZ), sellers and inter-State
+transmission licensees, Demand Response Consumers, Qualified Coordinating Agency (QCA), or any other such
+existing (or envisaged in future) entity who use the inter-State transmission network or the associated facilities and
+services of National Load Despatch Centre and Regional Load Despatch Centres further detailed as per Regulation 7 of
+these Regulations;
+(39)
+"Year" means a financial year;
+The words and expressions used in these regulations and not defined here in but defined in the Act or the CERC (Indian
+Electricity Grid Code), Regulation, 2010 shall have the meaning assigned to them under the Act or the CERC (Indian
+Page 4/50
+----- PAGE 5 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Electricity Grid Code) Regulations 2010 as amended from time to time.
+Chapter-2 General
+4.
+Registration.
+(1)
+The users shall register through online application with the respective Regional load Despatch Centre (RLDC) for
+commencement of Grid Access for availing system operation services of RLDCs or NLDC as under:
+(a)
+All generating stations, distribution licensees and inter-State transmission licensees or any other user defined under
+clause 3(38) of these regulations intending to avail the Grid Access shall register themselves with concerned Regional
+Load Despatch Centre responsible for scheduling, metering, energy accounting and switching operations, not less than
+30 days prior to intended date of commencement of Grid access, by filing an application in the format prescribed at
+Appendix-IV of these regulations:
+Provided that when a unit is added to a generating station or an element is added to a transmission system, the
+generating company or transmission licensee, as the case may be, shall send an intimation to the concerned RLDC(s)
+within two days of such addition for updating its records;
+(b)
+The buyers and sellers who intend to avail grid access shall register themselves with the concerned Regional Load
+Despatch Centre not less than 30 days prior to intended date of commencement of grid access by filing an application in
+the format prescribed as Appendix-IV to these regulations;
+(c)
+The Power exchanges and traders who intend to avail the services of RLDCs and NLDC shall register themselves with
+the National Load Despatch Centre by filing an application in the format prescribed as Appendix-IV to these regulations.
+(2)
+Upon submission of the online application for registration, auto-generated acknowledgement for receipt of application
+shall be issued by the nodal agency.
+(3)
+After scrutiny, RLDC /NLDC shall intimate the deficiencies in the application, if any, to the applicant within one week of
+receipt of application. The applicant shall rectify the deficiency within one week thereafter, failing which the application
+shall be closed.
+(4)
+The RLDCs or NLDC, as the case may be, after scrutinizing applications for registration and on being satisfied with
+correctness of the information furnished in the application shall register the applicant and send a written intimation to the
+applicant.
+(5)
+The generating companies, distribution licensees, inter-State transmission licensees, power exchanges, traders, sellers
+and buyers and any other user as specified in Regulation 3(38) shall pay the registration fees as specified in these
+Regulations.
+(6)
+RLDCs or NLDC as the case may be shall maintain a list of registered users on their website along with their date of
+registration.
+(7)
+RLDC may, after issuing notice of at least one month, de-register a user in case of persistent default in payment of
+RLDC Fees and Charges for more than 90 days or termination of connectivity. A user can subsequently re-register once
+the default has been cured or connectivity re-established by paying 50% of the original registration charges.
+5.
+Functions of RLDC and NLDC.
+(1)
+Logistics Functions includes design, operations & maintenance of but shall not be limited to the following:
+(a)
+Engineering of new SCADA/EMS/WAMS/REMC upgrades
+Page 5/50
+----- PAGE 6 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(b)
+Maintenance of SCADA/EMS/WAMS/REMC infrastructure
+(c)
+Synchro- phasor technologies
+(d)
+Real time software applications
+(e)
+Off-line software applications
+(f)
+Big Data Analytics tools
+(g)
+Decision Support Systems
+(h)
+IT, Networking and Communication systems including websites, Wi-Fi access systems, cyber security & other related
+systems
+(i)
+Conference & meeting related facilities including audio-visual equipment such as video conference equipment etc.,
+(j)
+Power supply system
+(k)
+Fire fighting & alarm systems
+(l)
+Ergonomic systems
+(m)
+Public Address System
+(2)
+Market Operation function includes but shall not be limited to the following functions:
+(a)
+Facilitating Grid Access to new entities including but not limited to first time charging of elements
+(b)
+Feedback in respect of Market Design, for complementing reliability and causing economy
+(c)
+Open Access Administration
+(d)
+Finalization of Inter-change schedules for energy accounting
+(e)
+Day Ahead Market
+(f)
+Real Time Market
+(g)
+Ancillary Services Market,
+(h)
+Interface Energy Metering.
+(3)
+Registry Function under REC and PAT and similar other scheme as directed by the Commission includes:
+(i)
+Information dissemination.
+(j)
+Any other functions assigned to the RLDCs or NLDC under the Act and/or National Load Despatch Centre Rules, 2005
+('NLDC Rules') or the regulations and orders issued by the Commission from time to time;
+(4)
+Page 6/50
+----- PAGE 7 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+System Operation function includes but shall not be limited to the following functions:
+(a)
+Operational Planning
+(i)
+Load Forecasting
+(ii)
+Re forecasting
+(iii)
+Fuel security assessment
+(iv)
+Production cost optimization studies
+(v)
+Generating outage planning
+(vi)
+Transmission outage planning
+(vii)
+Assessment of Transfer Capability
+(viii)
+Reactive Power studies
+(ix)
+Short circuit and transient stability studies
+(x)
+small signal stability studies
+(xi)
+Electromagnetic transient studies
+(xii)
+Mock black start drills
+(xiii)
+Operation of back up control centre
+(xiv)
+Preparations for special events like festivals, natural calamities like cyclone, floods etc.
+(xv)
+Documentation of procedures (operating, restoration)
+(b)
+Scheduling and Despatch on day-ahead and realtime basis
+(i)
+Day ahead security studies factoring all outages
+(ii)
+Unit commitment
+(iii)
+Day ahead optimization and scheduling
+(iv)
+Shift Crew Resource Management
+(v)
+Anticipating and mitigating congestion
+(vi)
+Preparation for special events
+(vii)
+Handling requests for emergency/urgent outages unforeseen in operational planning horizon
+(c)
+Real Time Operation
+Page 7/50
+----- PAGE 8 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(i)
+Frequency Control
+(ii)
+Voltage control
+(iii)
+Tie line loading control
+(iv)
+Congestion management
+(v)
+Ensuring security at all times
+(vi)
+Ancillary Services
+(vii)
+Balancing Services, Automatic Generation Control
+(viii)
+Real Time Contingency Analysis
+(ix)
+Dynamic Security Assessment
+(x)
+Monitoring weather updates
+(xi)
+Handling emergency outage requests
+(xii)
+Restoration of network after tripping
+(xiii)
+Rescheduling of generation
+(xiv)
+Reporting of a grid disturbance (GD)/grid incident(GI)
+(xv)
+Periodic communication with stakeholders and sensitizing in case of emergency
+(xvi)
+De-briefing after an extreme event
+(d)
+After the Fact or Post Despatch Analysis:
+(i)
+Analysis of frequency and voltage
+(ii)
+Analysis of Grid Code violations and follow up with agencies
+(iii)
+Analysis of Grid Events (GD/GI)
+(iv)
+Evaluating primary response viz.computation of Frequency Response Characteristics (FRC) of individual control areas
+(v)
+Low Frequency Oscillations (LFO) monitoring and analysis
+(vi)
+Detailed reports of Grid Disturbances/Grid Events
+(vii)
+Simulation of events and learnings thereof
+(viii)
+Event replay, lessons learnt and dissemination of same
+(ix)
+Page 8/50
+----- PAGE 9 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Taking up shortcomings with stakeholders
+(e)
+Submission of Operational feed back to CEA/CTU/STU/CERC/SERC
+(f)
+Information dissemination and any other function(s) assigned to the RLDCs or NLDC, as the case may be, under the Act
+or NLDC Rules or regulations and/or orders issued by the Commission from time to time;
+6.
+Scheme.
+- Includes but shall not be limited to the following: -
+(k)
+Supervisory control and data acquisition (SCADA) System, Wide Area Measurement System (WAMS), Renewable
+Energy Management Centre (REMC), Weather Portal and other such related information systems
+(l)
+Computer systems, hardware and software, Cyber Security Systems, Multiple Video conferencing facilities, Voice
+Recording Systems
+(m)
+Ergonomically designed office furniture/equipment
+(n)
+Auxiliary power supply system comprising Uninterrupted Power Supply, Diesel Generating Set and DC power system
+(o)
+Communication system including redundant communication infrastructure - Satellite communication in addition to
+conventional systems
+(p)
+Other infrastructure facilities, such as air-conditioning, fire-fighting and construction and renovation of buildings, roof-top
+solar units for energy efficiency etc.
+(q)
+Any innovative schemes R & D projects and pilot projects for better system operation, such as Synchro-phasors, System
+Protection Scheme,
+(r)
+Disaster Recovery (Main-I & Main-II) control centres for RLDCs and NLDC
+(s)
+Surveillance System
+(t)
+Dual redundant internet connectivity for Web Servers of LDCs
+(u)
+NMS (Network Management System) & Asset management tool for Network & IT Asset Monitoring
+(v)
+Market Management System Software
+(w)
+Cyber Security System infrastructure facilities such as Anti-APT (Advanced Persistent Threat) monitoring, Vulnerability
+Assessment for Persistent Threat (VAPT)& control Device, Local Area Network (LAN) Zone & Layer, Secure Sockets
+Layer (SSL) Certificate, SSL Virtual Private Network (VPN) and Security Information & Event Management(SIEM)
+(x)
+Infrastructure to ensure high availability of the Information Technology (IT) and Operational Technology (OT)
+applications:
+(y)
+Redundant communication links / distribution path for IT / OT equipment
+(a)
+Redundant site infrastructure - Disaster Recovery
+(b)
+Multiple independent distribution path serving the equipment
+Page 9/50
+----- PAGE 10 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(c)
+Dual powered and fully compatible with the site topology
+(d)
+Cooling equipment dual powered including air-conditioning system
+(e)
+Fault tolerant site infrastructure with electrical power storage, standby power supply, distribution facility
+(f)
+Physical access security needs to be ensured for IT - OT infrastructure with biometric access, CCTV surveillance, fire
+alarm and firefighting system.
+(z)
+Additional infrastructure facilities like 'Digital Signature', 'Instant Messaging for Business', 'Centralized Patch
+Management and Antivirus server', 'Syslog Server' and 'Enterprise class Backup and replication software' etc.
+(aa)
+Future Technologies like Cloud Computing (e.g. PaaS (Platform as a Service), SaaS (Software as a Service) and DaaS
+(Desktop as a Service) are available on Public Cloud, Private Cloud and Hybrid Cloud), Big Data Analytics tools and
+Advanced data visualization tool (with GIS interfacing) etc.
+(bb)
+Ergonomically designed office equipment
+7.
+Users specifications.
+(1)
+A generating station or unit whose scheduling, metering and energy accounting is carried out separately for each stage
+or unit, such generating station or stage or unit shall be considered as a user for the purpose of sharing of Annual LDC
+Charges (ALC) in accordance with Regulation 31 of these Regulations and for payment of registration fees in
+accordance with Regulation 29 of these Regulations;
+(2)
+In case of inter-State transmission licensees, each region where the licensee has the operation shall be considered as a
+user for the purpose of these Regulations;
+(3)
+Where the inter-State transmission system is having cross-border international connections, the agency designated by
+Government of India for coordinating the scheduling, metering and energy accounting for the transaction carried out for
+import and export of power through the said transmission system shall be considered as a user for the purpose of these
+Regulations;
+(4)
+Where any cross border generating station is connected to the inter-State transmission system of the Indian Grid and is
+injecting power through medium and/or long term PPA, the agency designated by Government of India for coordinating
+the scheduling, metering and energy accounting for the transaction carried out for import or export of power through the
+said transmission system shall be considered as a user for the purpose of these Regulations;
+(5)
+Sardar Sarovar Project (SSP), DVC and Bhakra Beas Management Board (BBMB), whose scheduling, metering and
+energy accounting is carried out by the concerned RLDCs, shall be considered as users of the respective Regional Load
+Despatch Centres for the purpose of this Regulation;
+(6)
+Distribution licensee selling power through LTA or MTOA and using transmission system shall be considered as a user
+under the category "Seller" for the purpose of these Regulations;
+(7)
+Any other entity which may use services of the RLDCs and NLDC from time to time;
+8.
+Capital Expenditure (CAPEX) and Replacement Expenditure (REPEX) Plan.
+(1)
+The RLDCs and NLDC shall formulate the scheme for Capital Expenditure (CAPEX) and Replacement Expenditure
+Page 10/50
+----- PAGE 11 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(REPEX) for the control period duly approved by the Board of Directors of Power System Operation Corporation Limited.
+The CAPEX and REPEX plan shall also include future costs to be incurred for the up-gradation, modernization,
+automation and expansion of infrastructure in addition to existing capital assets.
+(2)
+The concerned RLDCs or NLDC as the case may be shall submit the following along with the petition for determination
+of fees and charges:
+(i)
+the CAPEX for the control period along with details of estimated expenses, and estimated completion period of each
+scheme;
+(ii)
+the REPEX plan for capital expenditure of existing asset, completion of life of existing asset, cumulative depreciation
+recovered, date of replacement, cumulative repayment of loan upto date of replacement, writing off of the gross value of
+the original assets from the original fixed assets along with estimated expenses and estimated completion period of
+each scheme.
+(3)
+In relation to any consolidated schemes of CAPEX and REPEX involving one or more RLDCs and/or NLDC, the capital
+expenditure chargeable to each RLDC and NLDC shall be segregated and considered as a part of capital expenditure of
+RLDC concerned and NLDC, as the case may be .
+9.
+OPEX Plan.
+- RLDCs and NLDC shall identify the services to be engaged under OPEX and shall submit, along with the petition for
+determination of Fees and Charges, an year wise OPEX plan duly approved by the Board of Directors of POSOCO.
+Chapter-3 Determination of Fees and Charges
+10.
+Application for determination of fees and charges.
+(1)
+The RLDCs and NLDC shall make application in the formats annexed as Appendix-I to these Regulations within 180
+days from the date of notification of these Regulations, for determination of fees and charges for the control period,
+based on the capital expenditure incurred and duly certified by the auditor as on 1.4.2019 and projected to be incurred
+during the control period based on CAPEX, OPEX, REPEX and other expenditures viz. Human Resource expense,
+Operation & Maintenance, Interest on working capital etc.
+(2)
+The application shall contain particulars such as source of funds, equipment proposed to be replaced, details of assets
+written off, and details of assets to be capitalized etc.
+(3)
+Before making the application, the concerned RLDC or NLDC, as the case may be, shall serve a copy of the application
+on the users and submit proof of service along with the application. The concerned RLDC or NLDC shall also keep the
+complete application posted on its website till the disposal of its petition.
+(4)
+The concerned RLDC or NLDC, as the case may be, shall within 7 days after making the application, publish a notice of
+the application in at least two daily newspapers, one in English language and one in another Indian language, having
+circulation in each of the States or Union Territories where the users are situated, in the same language as of the daily
+newspaper in which the notice of the application is published, in the formats given in Appendix-II to these regulations.
+The RLDC or NLDC as the case may be will recover such expenditure on publication of notice of the application from
+the Users, as one-time expenditure.
+(5)
+The concerned RLDC or NLDC, as the case may be, shall be allowed the fees and charges by the Commission based
+on the audited capital expenditure incurred as on 1.4.2019 and projected to be incurred during control period as per
+Management Certificate for CAPEX and REPEX.:
+Provided that the application shall contain details of underlying assumptions and justification for the capital expenditure
+incurred and the expenditure proposed to be incurred in accordance with the CAPEX and REPEX.
+Page 11/50
+----- PAGE 12 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(6)
+If the application is inadequate in any respect as required under Appendix-I of these regulations, the application shall be
+returned back to the concerned RLDC or NLDC for resubmission after rectifying the deficiencies as may be pointed out
+by the Commission.
+(7)
+The Commission shall consider the suggestions and objections, if any, received from the respondents and any other
+person including the consumers or consumer associations. The Commission shall issue order determining the fees and
+charges after hearing the petitioner, the respondents and any other person permitted by the Commission.
+(8)
+During pendency of the application, the applicant shall continue to bill the users on the basis of fees and charges
+approved by the Commission during previous control period and applicable as on 31.3.2019, for the period starting from
+1.4.2019 till approval of the Fees and Charges by the Commission, in accordance with these Regulations. This shall be
+subject to true up as approved by the Commission for the Control Period 2019-2024.
+(9)
+After expiry of the control period, the applicant shall continue to bill the users provisionally on the basis of fees and
+charges approved by the Commission and applicable as on 31.3.2024 for the period starting from 1.4.2024 till approval
+of fees and charges under the applicable regulations.
+11.
+Determination of Fees and Charges.
+- The Fees and Charges shall be determined separately for each of the Regional Load Despatch Centres and National
+Load Despatch Centre;
+Provided that the annual charges of NLDC including corporate office expenses for the control period shall be
+apportioned among Regional Load Despatch Centres on the basis of the peak met (in MW) in the respective region as
+indicated on CEA's website for the preceding year.
+12.
+Prudence Check of Capital Expenditure.
+- The principles adopted for prudence check of capital cost shall be reasonableness of capital cost, financing plan,
+interest during construction, use of efficient technology, upgradability/ scalability of the technology and systems to
+accommodate the growing requirement of system operation, cost over-run and time over-run, procurement of equipment
+and materials through competitive bidding and such other matters as may be considered appropriate by the Commission
+for determination of fees and charges:
+Provided that, while carrying out the prudence check, the Commission shall also examine whether the RLDCs or NLDC,
+as the case may be, has been careful in its judgments and decisions in execution of the project.
+13.
+Truing up of Annual Charges.
+(1)
+The RLDCs and NLDC shall make an application, in the formats annexed as Appendix-I to these regulations by
+31.10.2024, for carrying out truing up exercise after end of the control period.
+(2)
+The RLDCs and NLDC shall submit, along with the application for truing up, details of capital expenditure including
+additional capital expenditure, sources of financing, human resource expenditure, operation and maintenance
+expenditure etc. incurred for the period from 1.4.2019 to 31.3.2024, duly audited and certified by the auditor.
+(3)
+The Commission shall carry out truing up exercise along with the application for determination of fees and charges for
+the next control period based on the capital expenditure including additional capital expenditure incurred up to 31.3.2024
+and as admitted by the Commission after prudence check at the time of truing up:
+Provided that each of the Regional Load Despatch Centre or National Load Despatch Centre, as the case may be, shall
+carry out annual reconciliation and provisional truing up of expenditure based on the capital expenditure including
+additional capital expenditure up to 31st March of each financial year of the control period and refund the additional
+recovery of fees and charges to the users by 30th September of the following year.
+Provided that the RLDC or NLDC, as the case may be, shall carry out mid-term review of its expenses once within the
+Page 12/50
+----- PAGE 13 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+control period, if the same is felt necessary in view of the emergent situation such as pay revision, significant deviation
+w.r.t. approved CAPEX or REPEX or any other unforeseen requirement, and may file the True-up Petition before the
+Commission, not before two years from the date of commencement of these Regulations.
+(4)
+The amount under-recovered or over-recovered by each of the Regional Load Despatch Centres or National Load
+Despatch Centre, as the case may be, along with simple interest at the rate equal to the bank rate as on 1st April of the
+respective year, shall be recovered or refunded by the respective RLDCs or NLDC or users, as the case may be, in six
+equal monthly installments.
+Chapter-4 Computation of Capital Cost and Additional Capitalisation
+14.
+Computation of Capital Cost.
+(1)
+The capital cost as admitted by the Commission after prudence check, for each of the Regional Load Despatch Centres
+or NLDC, as the case may be, shall form the basis for determination of annual charges.
+(2)
+The capital cost shall be computed by considering the following:
+(i)
+The Capital cost as admitted by the Commission as on 01.04.2019 duly trued up by excluding liability, if any;
+(ii)
+Expenditure on account of additional capitalization determined in accordance with the Regulation 15 (1);
+(iii)
+The fixed assets which have been replaced during control period shall be de-capitalized in accordance with Regulation
+15 (2);
+(iv)
+Interest during construction and incidental expenditure during construction;
+(v)
+Any grant received from the Central or State Government or any statutory body or authority for execution of the project
+which does not carry any liability of repayment shall be excluded from the Capital Cost for the purpose of computation of
+interest on loan, return on equity and depreciation;
+(3)
+The Capital cost shall be admitted after prudence check which may include scrutiny of the reasonableness of the capital
+expenditure, financing plan, Interest During Construction (IDC), Incidental Expenditure During Construction (IEDC),
+financing charges, any gain or loss on account of Foreign Exchange Rate Variation (FERV), cost over-run and time
+over-run and such other matters as may be considered appropriate by the Commission:
+Provided that interest during construction shall be computed corresponding to the loan from the date of infusion of debt
+fund, and after taking into account the prudent phasing of funds duly adjusting IDC on account of time overrun if any;
+Provided further that incidental expenditure during construction shall be computed after prudence check duly adjusting
+the IEDC on account of time over run, if any, interest on deposits or advances, or any other receipts and liquidated
+damages recovered or recoverable corresponding to the delay.
+(4)
+RLDC or NLDC shall submit Auditor Certificate for the capital expenditure incurred as on 1.4.2019 and , a Management
+Certificate duly signed by an authorised person, not below the level of Director of the company, for the projected capital
+expenditure for respective years of the period 2019-24:
+15.
+Additional Capitalization and De-Capitalization.
+(1)
+The capital expenditure incurred or projected to be incurred for the assets already in service and the additional assets
+projected to be procured during tariff period may be admitted, by the Commission, subject to prudence check.
+(2)
+In case of de-capitalization of assets under the REPEX or otherwise, the original cost of such asset as on the date of
+de-capitalization shall be deducted from the value of gross fixed asset along with corresponding adjustment in equity,
+Page 13/50
+----- PAGE 14 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+outstanding loan, cumulative repayment of loan and depreciation in the year such decapitalization takes place.
+16.
+Debt-Equity Ratio.
+(1)
+The actual debt - equity ratio as admitted by the Commission for the period ending 31.3.2019 shall be considered for the
+opening capital cost of the Regional Load Despatch Centres and National Load Despatch Centre for the next control
+period:
+(2)
+The capital expenditure incurred prior to 1.4.2019, where debt-equity ratio has not been determined by the Commission
+for determination of annual charges of RLDC for the period ending 31.3.2019, the Commission shall determine the debt:
+equity ratio in accordance with Regulation 11(3) of the Central Electricity Regulatory Commission (Fees and Charges for
+Regional Load Despatch Centres and other related matters) Regulations 2015:
+(3)
+For the capital expenditure incurred or projected to be incurred on or after 1.4.2019, the debt-equity ratio shall be
+considered as 70:30. If the equity actually deployed is more than 30% of the capital cost, equity in excess of 30% shall
+be treated as normative loan:
+Provided that:
+i. Where equity actually deployed is less than 30% of the capital cost, actual equity shall be considered for determination
+of Return on Equity;
+ii. the equity invested in foreign currency shall be designated in Indian rupees on the date of each investment;
+iii. Any grant, other than LDC development Fund obtained for the execution of the project shall not be considered as a
+part of capital structure for the purpose of debt - equity ratio.
+Explanation. - The premium, if any, raised by the Power System Operation Corporation Limited while issuing share
+capital and investment of internal resources created out of its free reserve, for the funding of the project, shall be
+reckoned as paid up capital for the purpose of computing return on equity, only if such premium amount and internal
+resources are actually utilized for meeting the capital expenditure of the RLDC.
+Chapter-5 Fees and Charges Structure
+17.
+Components of RLDC Fees and Charges.
+- The RLDC Fees and Charges shall comprise Regional Load Despatch Centre Fees to be recoverable by Power
+System Operation Corporation Limited towards registration for commencement of grid access and scheduling and
+annual charges to be collected in the form of Annual LDC Charges from users.
+18.
+Annual LDC Charges (ALC).
+- The annual LDC charges shall correspond to the expenditure proposed to be incurred by the RLDCs or NLDC and as
+approved by Commission. The annual LDC charges (ALC) as approved by the Commission shall be recovered on
+monthly basis. The annual charges shall consist of the following components, namely:
+(a)
+Return on equity;
+(b)
+Interest on loan capital;
+(c)
+Depreciation;
+(d)
+Operation and maintenance (excluding human resource) expenses including:
+? Administrative and General Expenses (excluding HRD expenses);
+? Repair and Maintenance Expenses;
+(e)
+OPEX
+(f)
+Human resource (HR) expenses including Human Resource Development (HRD) expenses;
+Page 14/50
+----- PAGE 15 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(g)
+NLDC and Corporate office expenses
+(h)
+Interest on working capital;
+Chapter-6 Computation of Annual LDC Charges (ALC)
+19.
+Return on Equity.
+(1)
+Return on equity shall be computed in Rupee terms on the equity base determined in accordance with Regulation 16 of
+these regulations.
+(2)
+Return on equity shall be computed on pre-tax base rate of 15.50% to be grossed up as per the sub-clause (3) of this
+Regulation.
+(3)
+The rate of return on equity shall be computed by grossing up the base rate with the effective tax rate of the respective
+financial year based on relevant Finance Act.
+(4)
+Return on equity with respect to the actual tax rate applicable to the Power System Operation Corporation Limited in line
+with the provisions of the relevant Finance Acts of the respective year during control period shall be trued up at the end
+of the control period.
+(5)
+Rate of return on equity shall be rounded off to three decimal points and be computed as per the following formula:
+Rate of pre-tax return on equity = Base rate/ (1-t)
+Where 't' is the effective tax rate in accordance with sub-clause (3) and regulation 3(15).
+20.
+Interest on Loan Capital.
+(1)
+The loan determined in accordance with Regulation 16 shall be considered as gross normative loan for calculation of
+interest on loan.
+(2)
+The normative loan outstanding as on 01.04.2019 shall be worked out by deducting the cumulative repayment as
+admitted by the Commission upto 31.03. 2019 from the gross normative loan.
+(3)
+The repayment for respective year of the control period shall be deemed to be equal to the depreciation allowed for that
+year. In case of de-capitalization of assets, the repayment shall be adjusted by taking into account cumulative
+repayment on a pro-rata basis and the adjustment should not exceed cumulative depreciation recovered upto the date of
+de-capitalization of such asset.
+(4)
+The rate of interest shall be the weighted average rate of interest calculated on the basis of the actual loan portfolio at
+the beginning of each year applicable to the respective Regional Load Despatch Centre:
+Provided that if there is no actual loan for a particular year but normative loan is still outstanding, the last available
+weighted average rate of interest shall be considered;
+Provided further that if any of the Regional Load Despatch Centre does not have actual loan, then the weighted average
+rate of interest on the loan of Power System Operation Corporation Limited as a whole shall be considered.
+(5)
+The interest on loan shall be calculated on the normative average loan of the year by applying the weighted average
+rate of interest.
+(6)
+The Power System Operation Corporation Limited shall make every effort to re-finance the loan as long as it results in
+net savings on interest and in that event the costs associated with such re-financing shall be borne by the users and the
+net savings shall be shared between the users and the Power System Operation Corporation Limited in the ratio of
+Page 15/50
+----- PAGE 16 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+50:50. The changes to the terms and conditions of the loans shall be reflected from the date of such re-financing.
+Provided that the users shall not withhold any payment on account of the interest claimed by the users and the Power
+System Operation Corporation Limited during the pendency of any dispute arising out of re-financing of loan.
+21.
+Depreciation.
+(1)
+The value base for the purpose of depreciation shall be the capital cost of the assets admitted by the Commission.
+(2)
+The salvage value of the asset (excluding IT equipment and Software) shall be considered as 10% and depreciation
+shall be allowed up to maximum of 90% of the capital cost of the asset. The salvage value for IT equipment and
+software shall be considered as NIL and 100% value of the assets shall be considered as depreciable.
+(3)
+Land shall not be a depreciable asset and its cost shall be excluded from the capital cost while computing depreciable
+value of the capital cost of the asset.
+(4)
+Depreciation shall be calculated annually based on Straight Line Method and at rates specified in Appendix-III to these
+regulations for the assets of the Regional Load Despatch Centre.
+(5)
+Assets fully depreciated shall be shown separately.
+(6)
+Value of the assets not in use or declared obsolete shall be taken out from the capital cost for the purpose of calculation
+of depreciation.
+(7)
+The balance depreciable value as on 1.4.2019 shall be worked out by deducting the cumulative depreciation from the
+gross depreciable value of the assets appearing in the books of accounts of the Power System Operation Corporation
+Limited for the respective Regional Load Despatch Centre and National Load Despatch Centre.
+(8)
+In case of de-capitalization of assets in respect of concerned RLDC, the cumulative depreciation shall be adjusted by
+taking into account the depreciation recovered in tariff by the de-capitalized asset during its useful life.
+22.
+Operation and Maintenance Expenses.
+(1)
+Operation and maintenance(O&M) expenses (excluding human resource expenses) shall be derived on the basis of
+actual operation and maintenance expenses for the years 2014-15 to 2018-19, based on the audited balance sheets.
+The O&M expenses shall be normalized by excluding abnormal operation and maintenance expenses, donation,
+loss-in-inventory, prior-period adjustments, claims and advances written-off, provisions, etc., if any, after prudence check
+by the Commission.
+(2)
+The normalized operation and maintenance expenses, after prudence check, for the years 2014-15 to 2018-19, shall be
+escalated at the rate of 4.77% to arrive at the normalized operation and maintenance expenses at the 2018-19 price
+level respectively and then averaged to arrive at normalized average operation and maintenance expenses for the
+2014-15 to 2018-19 at 2018-19 price level. The average normalized operation and maintenance expenses of 2018-19
+price level shall be escalated at the escalation rate as worked out in accordance with clause(4) of this Regulation to
+arrive the operation and maintenance expenses for the year 2019-20.
+(3)
+The operation and maintenance expenses for the year 2019-20 shall be escalated further at the annual escalation rate
+as worked out in accordance with clause (4) this Regulation to arrive at permissible operation and maintenance
+expenses for the subsequent years of the control period.
+(4)
+The escalation rate shall be worked out by considering the compounded annual growth rate, inflation rate, rationalization
+of O&M expenses and other factors, if any.
+Page 16/50
+----- PAGE 17 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(5)
+The actual expenditure towards Annual Maintenance Contract (AMC) of SCADA system and other Software/Hardware
+like REMC, National Open Access Registry (NOAR), web based scheduling software etc. involving significant
+expenditure, after prudence check, shall be considered for arriving at the Operation and Maintenance Expenses during
+2019-20 to 2023-24.
+23.
+Operational Expenditure (OPEX).
+- OPEX shall include services like Cloud Computing, Data Storage, Data Centre, Big Data Analytics tools, Advanced
+data visualization tool (with GIS interfacing), Satellite Services, Weather Data Services, WebNetUse, Forecasting
+Services, Licensee Fee for software, tools for knowledge upgradation or training of DICs etc. NLDC may procure
+software of transmission cost allocation centrally, if required, for use by respective DICs under OPEX.
+Actual expenditure towards engaging of services under OPEX shall be considered, after prudence check during 2019-20
+to 2023-24.
+24.
+Human Resource Expenses.
+(1)
+Human resource expenses shall be derived on the basis of actual human resource expenses for the years 2017-18 to
+2018-19 based on the audited balance sheets. The human resource expenses shall be normalized by excluding
+abnormal Human resource expenses ex-gratia, VRS expenses, PRP/incentive, prior-period adjustments, claims and
+advances written-off, provisions, etc., if any, after prudence check by the Commission:
+(2)
+The expenses towards payment of Certificate Retainer-ship amount would be a part of the Human Resource Expenses.
+(3)
+Performance related pay computed in accordance with DPE /other applicable guidelines shall be met from the incentive
+allowed in accordance with Regulation 32 of these Regulations.
+Provided that in case of any surplus in the incentive collected as per provisions of Regulation 32 after payment of
+performance related pay in accordance with DPE guidelines, such surplus amount shall be maintained separately to be
+used in subsequent years in case of shortfall of funds for payment of performance related pay as per DPE guidelines.
+Provided further that in case shortfall in the funds as per Regulation 32 for distribution of performance related pay in
+accordance with DPE guidelines still persists, the shortfall shall be met from the LDC development Fund.
+(4)
+The normalized human resource expenses, after prudence check, for the year 2017-18 to 2018-19, shall be escalated at
+the rate of 4.77% to arrive at the normalized human resource expenses at the 2018-19 price level respectively and then
+averaged to arrive at normalized average human resource expenses for the 2017-18 to 2018-19 at 2018-19 price level.
+(5)
+The manpower approved during the year 2018-19 shall be the basis for computation of the HR expenses for 2019-20.
+Thereafter, for the subsequent years, the HR expenses shall be escalated at the annual escalation rate.
+(6)
+The average normalized human resource expenses of 2018-19 price level shall be escalated at the escalation rate as
+worked out in accordance with clause (8) of this Regulation to arrive the HR expenses for the year 2019-20.
+(7)
+The human resource expenses for the year 2019-20 shall be escalated further at the annual escalation rate as worked
+out in accordance with clause (8) this Regulation to arrive at permissible human resource expenses for the subsequent
+years of the control period:
+(8)
+The escalation rate shall be worked out by considering the compound annual growth rate, inflation rate, rationalization of
+human resource and other factors, if any.
+(9)
+The cost of anticipated increase in the manpower of each year of the control period shall also be considered after
+prudence check. The strength of manpower required for effective functioning of LDC will be as approved by the
+Commission while specifying the fees and charges.
+Page 17/50
+----- PAGE 18 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(10)
+Human Resource Development (HRD) expenses, incurred by the NLDC or RLDCS shall be a part of HR Expenses from
+FY 2019-20 onwards. In addition to the capacity building of the employees of NLDC or RLDCs, capacity building
+workshops and training programs organized for other stakeholders will also form part of the HRD expenses. Projected
+annual HRD expenses will be at least 5% of the HR expenses arrived based on the methodology defined above.
+However, if the actual utilization towards HRD expenditure exceeds the 5% of HR expenses of any year, it shall be
+allowed at the time of truing up by the Commission after prudence check. In case of less than 5% utilization, it shall be
+refunded at the time of annual truing up. All efforts shall be made to ensure that minimum seven days training per
+employee per annum is imparted as per the National Training Policy.
+25.
+Interest on Working Capital.
+(1)
+The working capital shall cover:
+(i)
+Operation and maintenance expenses (excluding human resource expenses) for one month;
+(ii)
+Human resource expenses including Human Resource Development Expenses for one month;
+(iii)
+NLDC charges and Corporate Office for one month ;and
+(iv)
+Receivables equivalent to 45 days of annual charges as approved by the Commission.
+(2)
+Rate of interest on working capital shall be on normative basis and shall be considered as the bank rate as on 1.4.2019
+as per tariff Regulations.
+(3)
+Interest on working capital shall be payable on normative basis not withstanding that the Power System Operation
+Corporation Limited has not taken any loan for working capital from any outside agency.
+26.
+NLDC Charges and Corporate Office) Expenses.
+(1)
+To the extent applicable, NLDC charges shall be computed by following the methodology specified for computing annual
+charges of Regional Load Despatch Centres except interest on working capital.
+(2)
+The Corporate Office Expenses, computed in accordance with the actual expenses incurred, shall be allowed by the
+Commission, after prudence check.
+(3)
+The expenditure towards running the FOLD Secretariat computed in accordance with the actual expenses incurred, shall
+be allowed by the Commission, after prudence check.
+(4)
+All expenses of NLDC and Corporate Office expenses approved by the Commission shall be apportioned to the
+Regional Load Despatch Centre on the basis of the peak met (in MW) in the respective region as indicated in CEA's
+website for the preceding year.
+Chapter-7 LDC Development Fund
+27.
+LDC Development Fund.
+(1)
+The Power System Operation Company shall create and maintain a separate fund called 'Load Despatch Centre
+Development Fund' ('LDCD Fund') for administering capital expenditure.
+(2)
+The charges on account of return on equity, interest on loan, depreciation of the RLDCs and NLDC including the
+registration fees and interest earned on LDCD Fund shall be deposited into the LDCD Fund after meeting the statutory
+Page 18/50
+----- PAGE 19 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+tax requirements:
+Provided that short term open access charges and other income of the RLDCs and NLDC, if any, shall not form part of
+the LDCD Fund and will be deposited to a separate account namely Contingency Reserve as per regulation - 28 of
+these Regulations.
+(3)
+The RLDC and NLDC shall be entitled to utilize the money deposited in the LDCD Fund for creation of new assets, loan
+repayment, servicing the capital raised in the form of interest and dividend payment restricted to 15.50% of paid up
+Capital, meeting stipulated equity portion in asset creation, margin money for raising loan from the financial institutions,
+Corporate Social Responsibility and Sustainability Activities in compliance of the applicable provisions of the Companies
+Act and Dept. of Public Enterprises (DPE) / other applicable Government Guidelines issued and amended from time to
+time, Capacity Building of SLDCc and sub-LDC personnel and other users / stake holders, including but not limited to
+using the platform of Forum of Load Despatchers (FOLD) and/or through Institutes of national/international repute for
+capacity building, funding participation in national/international conferences and publication of technical papers there-in,
+facilitating higher education, availing institutional membership with national/international bodies and funding of Research
+& Development (R & D) projects, hiring consultancy service for learning & implementation of new technology & market
+products etc. subject to approval of the Commission.
+(4)
+LDCs shall ensure timely payment of fees like membership fee or any other recurring or nonrecurring expenditure
+related to participation in the activities of the FOLD from the LDCD Fund. NLDC shall deposit such fees to the LDCD
+Fund after meeting the expenses on FOLD activities, if any.
+(5)
+Any shortfall in meeting the revenue expenditure including HR expenses shall be met from LDCD Fund. For this
+purpose, Load Despatch Centre shall be entitled to take interest free advance from LDCD Fund which shall be recouped
+from the expenditure allowed by the Commission under the respective heads at the time of truing up to be carried out
+after the expiry of the control period 2019-24.
+(6)
+Any asset created by the POSOCO out of the money deposited into the LDCD Fund shall be considered for computation
+of depreciation as per the rates specified in these Regulations. If required, POSOCO may finance capital assets partly
+from the equity and partly from LDCD Fund. As such, if the capital project is partly financed from equity share capital, it
+shall be considered for computation of return on equity, in which case, the funding shall be considered in a normative
+debt equity ratio of 70:30 with the interest on loan component as NIL and the treatment of equity as per regulation 16(2)
+of these Regulations. Load Despatch Centre shall submit details of such assets in the CAPEX plan.
+(7)
+POSOCO shall submit the amount accumulated in LDCD Fund along with the break-up of sources from where the Fund
+is received. The POSOCO shall submit to the Commission at the end of every year, a report, along with an auditor's
+certificate, on utilization of LDCD Fund during the previous year. The report shall, inter alia, contain the details of the
+quantum of utilized as well as un-utilized portions of the LDCD Fund. The Commission may, if necessary, issue
+directives to the RLDCs and NLDC for effective utilization of LDCD Fund. For financing of capital assets during 2019-24,
+money utilized from LDCD Fund shall be treated as interest free advance to be refunded to the Reserve.
+28.
+Contingency Reserve.
+(1)
+The RLDCs and NLDC shall maintain a separate account namely Contingency Reserve for depositing other income like
+short term open access charges, REC charges, PAT Charges and any other income (if any) etc.
+(2)
+The RLDCs and NLDC shall use such income to meet the short fall, if any, in the annual charges allowed by the
+Commission or to meet the contingency expenses which were not foreseen at the time of making the application for fees
+and charges and are considered necessary for the efficient power system operation.
+(3)
+The balance amount shall be deposited into the LDCD Fund after meeting the statutory tax requirements.
+(4)
+Page 19/50
+----- PAGE 20 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+There may be some requirements for which funds available under the contingency expenses are not enough to meet the
+unforeseen requirements. Such shortfall may be met from the LDCD Fund.
+Chapter-8 Computation and Recovery of fees and Charges
+29.
+Registration Fees.
+- The fees shall be payable by the users including power exchanges and electricity traders before commencement of
+grid access and scheduling. The fees payable are as under:
+(1)
+The distribution licensees and inter State transmission licensees shall pay non-refundable one-time registration fees of
+Rs.10 Lakh along with application for commencement of grid access:
+Provided that the RLDCs concerned shall be intimated from time to time by the inter State transmission licensees about
+the additions of transmission elements synchronized with the grid and by the distribution licensees about the additional
+capacity tied up for the purpose of updating the record by concerned RLDC.
+(2)
+The generating companies shall pay registration fees as under:
+(a)
+For generating station upto 10 MW installed capacity: Rs .0.50 Lakh;
+(b)
+Generating stations having installed capacity of more than 10 MW and upto 100 MW: Rs. 1.0 Lakh;
+(c)
+Generating stations having installed capacity of more than 100 MW and upto 2000 MW : Rs. 5.0 Lakh;
+(d)
+Generating stations having capacity of more than 2000 MW: Rs.10.0 Lakh, and;
+(e)
+Provided that the entire capacity of the generating station or stage there of whose scheduling, metering and energy
+accounting is done separately shall be considered for the purpose of registration fees at the time of the initial
+registration;
+(f)
+Provided further that the generating companies shall intimate RLDCs concerned about the additional capacity
+commissioned by the generating station or a stage thereof.
+(3)
+The inter-State trading licensees, sellers and buyers shall pay one time registration fees of Rs. 10,000.00 (Rupees Ten
+Thousands only) along with application for commencement of scheduling for market operation.
+(4)
+The Power exchanges shall pay Rs. 20.0 Lakh (Rupees Twenty Lakh only) as one time registration fees to NLDC.
+(5)
+All other users as defined in 3(38) of these regulations shall be liable to pay one time registration fees of Rs. 10,000
+(Rupees Ten Thousand only) along with the application (ref. Appendix-IV) for commencement of grid access.
+30.
+Monthly LDC Charges.
+- The monthly LDC charges shall be calculated for the inter-State transmission licensees, generating stations and
+sellers, distribution licensees and buyers as under:
+(a)
+The LDC Charges for inter-State transmission licensees shall be determined on the basis of (1/3) of approved annual
+charges and shall be worked out on the basis of the circuit kilometers (ckt-km) of the lines owned by inter-State
+transmission licensees;
+(b)
+The LDC Charges for the inter-State Generating station and sellers shall be determined on the basis of (1/3) of annual
+LDC charges and shall be worked out on the basis of installed capacity in case of the generating station and long term
+and / or medium term contracted capacity in case of sellers;
+(c)
+Page 20/50
+----- PAGE 21 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+The LDC Charges for the distribution licensees and buyers shall be determined on the basis of (1/3) of annual charges
+and shall be worked out on the basis of sum of aggregate allocated capacity and / or contracted capacities in case of
+distribution licensee including deemed distribution licensees and sum of long term and / or medium term contracted
+capacity in case of buyer.
+31.
+Computation and Payment of LDC Charges.
+(1)
+The rates of LDC charges for inter-State transmission licensee shall be computed on annual basis and recovered on
+monthly basis in accordance with following formula;
+Monthly LDC Charge rate (for Transmission Licensee) =
+(1/3) [ALC/ (Ckt_Km)]/12 in Rs./Kilometer
+Where,
+ALC = Approved Annual LDC Charges in accordance with Chapters 5 & 6;
+Ckt_Km = Length of aggregate inter-State transmission lines as on last day of the month prior to the month of billing
+(rounded off to the nearest two decimals);
+(2)
+Monthly LDC charges for individual transmission licensee shall be computed on the basis of rates determined above and
+the length (in Ckt_ Km) of transmission lines owned and operated by the respective transmission licensee(s).
+(3)
+The rates of LDC charges for generating companies and sellers shall be computed on annual basis and recovered on
+monthly basis in accordance with following formula:
+Monthly LDC Charge rate (for Generation or seller) =
+(1/3) (ALC/ (Capacity)) / 12 in Rs. / MW
+Where,
+ALC = Approved Annual LDC Charges in accordance with Chapters 5 & 6;
+Capacity=Aggregate Installed capacity (in MW) of generating stations and contracted capacity (in MW) of the sellers
+(rounded off to the nearest two decimals) whose scheduling and energy accounting is covered under concerned RLDC
+as on last day of the month prior to the month of billing;
+(4)
+The monthly LDC charges for generating companies or sellers shall be computed on the basis of rates determined
+above and respective 'capacity' (MW) of the generating station or seller.
+(5)
+The rates of LDC charges for distribution licensee and buyers shall be computed on annual basis and recovered
+monthly after taking into account aggregate contracted capacity in accordance with following formula:
+Monthly LDC Charge rate (for Distribution Licensee or buyer) =
+(1/3) (ALC/ (Capacity))/12 in Rs./ MW
+Where,
+ALC = Approved Annual LDC Charges in accordance with Chapters 5 & 6;
+Capacity = Aggregate long term or medium term contracted capacity by distribution licensees and buyers (rounded off to
+the nearest two decimal) whose scheduling and accounting is covered under concerned RLDC as on last day of the
+month prior to the month of billing;
+(6)
+Monthly LDC charges from distribution licensees and buyers shall be collected in proportion to the sum of their
+allocations and contracted capacities, as the case may be, as on the last day of the month prior to billing of the month.
+(7)
+All other users having NIL contracted capacity (LTA & MTOA) shall be billed monthly ALC charge on the basis of a
+minimum capacity for which an entity is eligible for grant of connectivity to Inter-State transmission system as per the
+CERC Connectivity Regulations 2009.
+(8)
+The respective State Load Despatch Centre (SLDC) shall be the nodal agency for collection of monthly LDC charges
+payable to the concerned Regional Load Despatch Centre (RLDC), from the distribution licensees and other RLDC
+Page 21/50
+----- PAGE 22 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+users in the State. After collecting the monthly LDC charge the concerned SLDC shall deposit the same into the account
+of the concerned RLDC. The RLDC users in the state shall have to option to make direct payment of monthly RLDC
+Charges into the account of concerned RLDCs or they may choose to pay the same through the respective SLDCs.
+Chapter-9 Performance Linked Incentive
+32.
+Performance linked incentive to RLDCs and NLDC.
+(1)
+Recovery of incentive by the Regional Load Despatch Centre shall be based on the achievement of the Key
+Performance Indicators (KPIs) as specified in Appendix-V or such other parameters as may be prescribed by the
+Commission.
+(2)
+Each Regional Load Despatch Centre shall submit its actual performance against each of the key performance
+indicators to the Commission on annual basis as per the format specified in Appendix-V.
+(3)
+NLDC shall submit the details in regards to each Key Performance Indicator in the format specified in Appendix-V along
+with the methodology for approval of the Commission.
+(4)
+The Commission shall evaluate the overall performance of the RLDCs or NLDC, as the case may be, on the basis of
+weightage specified in Appendix-V.
+(5)
+The RLDCs or NLDC, as the case may be, shall be allowed to recover incentive of 15% of Annual LDC Charges for
+aggregate performance level of 90%. The incentive shall increase by 1% on pro-rata basis for every 5% increase of
+performance level above 90%: The incentive shall be capped as per DPE Office Memorandum No.
+W-02/0028/2017-DPE (WC)-GL-XIII/ 17 dated 3.8.2017.
+Provided that incentive shall be reduced by 1% on pro-rata basis for the every 3% decrease in performance level below
+90%.
+(6)
+The RLDCs or NLDC, as the case may be, shall compute the Key Performance Indicators on annual basis for the
+previous year ending on 31st March and submit to the Commission along with petitions for approval of the Commission
+as per Appendix-V of these Regulations:
+(7)
+The key performance indicators of previous year ending on 31st March shall be considered to recover incentive on each
+year and shall be trued up at the end of the control period.
+33.
+Certification Retainer-ship Amount to the employees of RLDCs and NLDC.
+(1)
+The employees of Regional Load Despatch Centres and National Load Despatch Centre and State Load dispatch
+Centres who acquire the certificate of basic level, specialist level and management level in their respective areas of
+specialization shall be allowed a fixed retainer-ship amount during the validity of such certificate period as per the
+following parameters:
+SI. No.
+Certification Level
+Retainer-ship amount(in Rs. Per Month)
+1
+Basic
+7500
+2
+Specialist
+10000
+3
+Management
+Page 22/50
+----- PAGE 23 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+12000
+(2)
+A person acquiring one basic level and more than one Specialist and/or Management level certificate shall be entitled for
+maximum retainer ship amount capped at the higher applicable slab. For example, a person having both basic and
+specialist certificates shall be entitled for a maximum retainer-ship amount of Rs. 10,000/- per month. Similarly, a person
+having all three levels of certificates shall be entitled for a maximum retainer-ship amount of Rs. 12,000/- per month.
+(3)
+Funding will be done from the LDCD Fund for (i) payment of registration and / or application fees for appearing in basic,
+specialist and management level examinations, (ii) payment towards training expenses for these examinations, (iii)
+payment of certification retainer-ship amount to the certified LDC personnel. POSOCO shall submit detailed procedure
+on methodology of payment of Certificate Retainer-ship for approval of Commission within 2 months of issue of these
+Regulations.
+(4)
+Certificate Retainer-ship Amount shall be in addition to the performance linked incentive specified in Regulation 32.
+Chapter-10 Billing and Other Miscellaneous Provisions
+34.
+Billing and Payment of charges.
+(1)
+Bills shall be raised for the LDC charge on monthly basis by the Power System Operation Company in accordance with
+these regulations, and payments shall be made by the users directly to the Power System Operation Corporation
+Limited.
+(2)
+Persistent default in payment of RLDCs/NLDC fee and charges shall be brought to the notice of the Commission.
+35.
+Late payment surcharge.
+- In case the payment of any bill for charges payable under these regulations is delayed by a user beyond a period of 45
+days from the date of billing, a late payment surcharge at the rate of 1.5% per month shall be levied from the users.
+36.
+Recovery of cost of hedging or Foreign Exchange Rate Variation.
+- Recovery of cost of hedging or foreign exchange rate variation shall be made directly by the RLDCs from the users
+without making any application before the Commission:
+Provided that in case of any objections by users regarding the cost of hedging or foreign exchange rate variation, the
+RLDCs may make an appropriate application before the Commission for decision.
+37.
+Rebate.
+(1)
+A rebate of 1.5% shall be allowed by the RLDCs or NLDC on gross bill amount settled through RTGS, NEFT, Letter of
+Credit or cheque up to fifth day (i.e. T+5 day) from the date of issuance of the bills, where T is the date of issuance of
+the bill.
+(2)
+The rebate of 1% shall be allowed when payment is made from T+6 to T+30 days from issuance of the bill.
+(3)
+No rebate shall be allowed for payment made from T+31 days till T+45 days from the date of issuance of the bill.
+38.
+Dispute Resolution.
+- In case of dispute, any of the parties may make an application in accordance with the Central Electricity Regulatory
+Commission (Conduct of Business) Regulations, 1999, as amended from time to time, including statutory re- enactment
+thereof, for settlement of the dispute.
+39.
+Power to Relax.
+- The Commission, for reasons to be recorded in writing, may relax any of the provisions of these regulations on its own
+Page 23/50
+----- PAGE 24 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+motion or on an application made before it by NLDC or RLDCs or Users after giving reasonable opportunity to those
+likely to be affected by such relaxation.
+40.
+Removal of Difficulty.
+- If any difficulty arises in giving effect to the provisions of these regulations, the Commission may, by order, make such
+provision not inconsistent with the provisions of the Act or provisions of any other regulations specified by the
+Commission, as may appear to be necessary for removing the difficulty in giving effect to the objectives of these
+regulations.
+Appendix
+Tariff Filing Forms (NLDC/RLDCs)
+Appendix-I
+Index
+Checklist of Forms and other information/ documents for tariff filing for NLDC/RLDCs
+Form No.
+Tariff Filing Formats (RLDCs)
+Tick
+FORM-1
+Summary Sheet
+FORM-2
+Calculations for Return on Equity
+FORM-3A
+Financial Package
+FORM-3B
+Statement of Capital Cost
+FORM-3C
+Financing of Additional Capitalization
+FORM-4A
+Calculation of Interest on Normative Loan
+FORM-4B
+Calculation of Weighted Average Rate of Interest
+on Actual Loans
+FORM-4C
+Details of Foreign Loans
+Form-4D
+Details of allocation of Corporate loans to
+various RLDCs
+FORM-5A
+Statement of Depreciation
+FORM-5B
+Calculation of depreciation rate
+FORM-6A
+Details of Operation and Maintenance Expense
+excluding Human Resource Expenses
+FORM-6B
+Details of Human Resource Expenses
+FORM-6C
+Details of Repairs and Maintenance Expenses
+FORM-6D
+Details of Administrative and General expenses
+FORM-7
+Details of Operational Expenditure (OPEX)
+Page 24/50
+----- PAGE 25 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+FORM-8
+Interest on Working Capital
+FORM-9
+Year wise statement of LDC Development Fund
+(projected)
+FORM-10
+Other Income
+Other Information/ Documents
+Sl. No.
+Information/Document
+Tick
+1
+Audited Balance Sheet and Profit & Loss
+Accounts with all the Schedules & Annexure for RLDC /NLDC and
+Corporate office.
+2
+Copies of relevant loan Agreements
+3
+(a) Copies of the
+approval of Competent Authority for the Capital Cost and
+Financial package.
+(b) CAPEX and REPEX plan along with Board
+approval, estimated capital cost and justification
+4
+(a) Copies of the
+Equity participation agreements and necessary approval for the
+foreign equity, if any.
+(b) Equity contribution from LDC Development
+Fund along with Board Approval
+5
+Any other relevant information, (Please specify)
+Note 1. - Electronic copy of the petition (in words format) and detailed calculation as per these formats (in excel format)
+and any other information submitted shall also be furnished in the electronic form.
+Form-1
+Summary Sheet
+Name of the NLDC/RLDCs: _____________________________
+(Rs. In lakh)
+S.N.
+Particulars
+Form No.
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+Page 25/50
+----- PAGE 26 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+6
+7
+8
+1
+[Return on Equity]
+[Details of calculations, considering equity as per regulation, to be furnished.]
+2
+Interest on Loan Capital
+3
+Depreciation
+4
+O&M Expenses excluding human resource
+expenses
+5
+Human resource expenses including HRD
+6
+OPEX
+7
+[NLDC/RLDC]
+[NLDC charge & corporate office expense applicable for RLDCs]
+charges and Corporate office expenses
+(as applicable)
+8
+Interest on Working Capital
+Total
+Petitioner
+Form-2
+Calculation for return on equity
+Name of NLDC / RLDCs :
+_______ Regional Load Despatch Centre
+Year ending March
+Particulars
+Unit
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+6
+7
+8
+Base rate of Return on Equity
+%
+Tax Rate
+%
+Page 26/50
+----- PAGE 27 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Detailed Calculation for Return on Equity
+Particulars
+Unit
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+Gross Equity As On 1.4.2019 For RLDC Assets
+ADD CAP 2019-20 (AVG Equity During The Year)
+ADD CAP 2020-21 (AVG Equity During The Year)
+ADD CAP 2021-22 (AVG Equity During The Year)
+ADD CAP 2022-23 (AVG Equity During The Year)
+ADD CAP 2023-24 (AVG Equity During The Year)
+Total Equity
+Rate of Return on Equity
+Return on Equity
+Note. - Income tax rate applicable for each financial year is based on the rates as per Income Tax Act, 1961
+Petitioner
+Form-3A
+Financial Package
+Name of the LDC:_____________________________________________
+Project Cost as on 1.4.2019:_________________________________
+Date of Commercial Operation:________________________________
+(Rs in lakh)
+Financial Package as Approved
+Financial Package as on COD/1.4.2019
+As Admitted on 1.4.2019
+Currency and Amount3
+Currency and Amount3
+Currency and Amount3
+1
+2
+3
+4
+5
+6
+7
+Loan-I
+Loan-II
+Loan-III
+and so on
+Equity-
+Foreign
+Domestic
+Total Equity
+Debt : Equity Ratio
+Petitioner
+Form-3B
+Statement of Capital cost
+Page 27/50
+----- PAGE 28 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Name of the NLDC/ RLDCs :
+(Rs in lakh)
+As on relevant[date]
+[Relevant date/s means date of COD and financial year start date and end date]
+.
+A
+(a) Opening Gross Block Amount as per books
+(b) Amount of capital liabilities in A(a) above
+(c) Amount of IDC, FC, FERV & Hedging cost
+included in A(a)above
+(d) Amount of IEDC (excluding IDC, FC, FERV &
+Hedging cost) included in A(a) above
+B
+(a) Addition in Gross Block Amount during the
+period
+(b) Amount of capital liabilities in B(a) above
+(c) Amount of IDC, FC, FERV & Hedging cost
+included in B(a)above
+(d) Amount of IEDC (excluding IDC, FC, FERV &
+Hedging cost) included in B(a) above
+C
+(a) Closing Gross Block Amount as per books
+(b) Amount of capital liabilities in C(a) above
+(c) Amount of IDC, FC, FERV & Hedging cost
+included in C(a) above
+(d) Amount of IEDC (excluding IDC, FC, FERV &
+Hedging cost) included in C(a) above
+Petitioner
+Form-3C
+Financing of Additional Capitalisation
+Name of the NLDC/RLDCs :
+(Rs. in lakh)
+Projected/Actual
+Admitted
+Financial Year (Starting from 1.4.2019)
+[Year1]
+[Year 1 refers to Financial Year of COD and Year 2, Year 3 etc. are the subsequent financial years respectively.]
+Year2
+Year3
+Year4
+Year 5 & So on
+Year1
+Year2
+Year 3
+Year 4
+Year 5 & So on
+1
+2
+3
+4
+5
+Page 28/50
+----- PAGE 29 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+6
+7
+8
+9
+10
+11
+Amount capitalized in Work/Equipment
+Financing Details
+Loan-1
+Loan-2
+Loan-3 and soon
+Total Loan2
+Equity
+Internal Resources
+Others
+Total
+Petitioner
+Form-4A
+(Rs in lakh)
+Calculation of interest on Normative Loan
+Name of LDC:
+Particulars
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+6
+7
+Gross Normative loan - Opening
+Cumulative repayment of Normative Loan upto
+previous year
+Net Normative loan-Opening
+Increase/Decrease due to ACE during the Year
+Repayments of Normative Loan during the year
+Net Normative loan-Closing
+Average Normative Loan
+Weighted average Rate of Interest on actual
+Loans
+Interest on Normative loan
+Petitioner
+Form-4B
+[Calculation of Weighted Average Rate of Interest on Actual Loans]
+[In case of Foreign Loans, the calculations in Indian Rupees is to be furnished. However, the calculations in Original
+currency are also to be furnished separately in the same form.]
+Page 29/50
+----- PAGE 30 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Name of LDC: ____________________________________________________
+(Rs in lakh)
+Sl. no.
+Particulars
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+6
+7
+8
+Loan-1
+Gross loan - Opening
+Cumulative repayments of Loans upto previous
+year
+Net loan - Opening
+Add: Drawal (s) during the Year
+Less: Repayment (s) of Loans during the year
+Net loan - Closing
+Average Net Loan
+Rate of Interest on Loan on annual basis
+Interest on loan
+Loan repayment effective from (date to be
+indicated)
+Loan-2 ...
+Loan-3 and so on
+Total Loan
+Gross loan - Opening
+Cumulative repayments of Loans upto previous
+year
+Net loan - Opening
+Add: Drawal (s) during the Year
+Less: Repayment (s) of Loans during the year
+Net loan - Closing
+Average Net Loan
+Interest on loan
+Weighted average Rate of Interest on Loans
+Petitioner
+Form -4C
+Details of Foreign Loans
+Name of the LDC: _________________________
+Exchange Rate as on 01.04.2019: ________________
+(Rs. in lakh)
+FY starting from 1.4.19
+Page 30/50
+----- PAGE 31 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Year-1
+Year-2 - Year-3 and so on
+S
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Date
+Amount (Foreign Exchange)
+Exchange rate
+Amount (in Rs)
+Date
+Amount (Foreign Exc.)
+Exchange Rate
+Amount (in Rs)
+...
+Currency1 [1]
+A 1
+At the date of Drawl
+2
+Scheduled repayment date of principal
+3
+Scheduled payment date of interest
+4
+At the end of Financial year
+B
+In case of Hedging [3]
+1
+At the date of hedging
+2
+Period of hedging
+3
+Cost of hedging
+Currency2 [1]
+A1
+At the date of Drawl
+2
+Scheduled repayment date of principal
+3
+Scheduled payment date of interest
+4
+At the end of Financial year
+B
+In case of Hedging [3]
+1
+Page 31/50
+----- PAGE 32 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+At the date of hedging
+2
+Period of hedging
+3
+Cost of hedging
+Petitioner
+Form-5A
+Statement of Depreciation
+Name of LDC:
+(Rs. In lakh)
+Financial Year
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+11
+12
+13
+14
+15
+Depreciation on Capital Cost
+Depreciation recovered during the Year
+Cumulative depreciation deducted due to
+de-capitalization or write off of the assets etc.
+Cumulative Depreciation & Advance against
+Depreciation recovered upto the year
+Petitioner
+Form-5B
+Calculation of Depreciation Rate
+Name of LDC:
+(Rs in lakh)
+Sl. no.
+[Name of the Assets]
+[Name of the Assets should conform to the description of the assets mentioned in Depreciation Schedule appended to
+the Notification.]
+gross Block as on 31.03.2019, whichever is
+later and subsequently for each year thereafter up to 31.3.2024
+Depreciation Rates as per CERC's Depreciation
+Rate Schedule
+Depreciation Amount for each year up to
+31.03.2024
+1
+2
+3
+4= Col.2 X Col.3
+1
+Land (Freehold, Lease hold)
+Page 32/50
+----- PAGE 33 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+2
+Building and civil works
+3
+Auxiliary power supply system
+4
+Office furniture and furnishing
+5
+Communication equipment
+6
+SCADA hardware with test equipment and spares
+7
+ICT equipment
+8
+Software
+9
+Total
+Weighted Average Rate of Depreciation (%)
+Petitioner
+Form-6A
+Details of Operation and Maintenance Expenses excluding Human Resource expenses
+Name of LDC:
+(Rs. in lakh)
+Items
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+6
+1
+Repairs and maintenance expenses
+2
+Administrative and General expenses etc.
+3
+Total
+Note. - 1. Detail of these expenditure as per formats enclosed
+2. To be furnished for the [...] LDC.
+Petitioner
+Form-6B
+Name of LDC:
+Details of Human Resource Expenses
+Period-
+1
+Actuals For Previous Five Years
+2
+Actuals for Ist Six Months of the Current Year
+Page 33/50
+----- PAGE 34 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+3
+Expected for Last Six Months of the Current Year
+4
+Expected for Ensuing Year
+Sr. No.
+Account Code
+Particulars
+Executive
+Non-Executive
+Total
+1
+Number of Employees
+2
+Salaries
+3
+Over-time
+4
+Dearness Allowance
+5
+Other Allowance
+6
+Bonus
+7
+Productivity Linked Incentive
+8
+Sub Total (1 to 6)
+Other Staff Cost
+8
+Reimbursement of Medical Expenses
+9
+Leave Travel Concession
+10
+Reimbursement of House Rent
+11
+Interim Relief to Staff
+12
+Encashment of Earned Leave
+13
+Honorarium
+14
+Payment under Workmen compensation Act
+15
+Ex-gratia
+16
+Expenditure on VRS
+17
+Sub Total (8 to 16)
+18
+Staff Welfare Expenses
+19
+Terminal Benefits
+Page 34/50
+----- PAGE 35 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+20
+Provisions
+21
+Others (Specify)
+22
+Human Resource Development
+23
+Total (7+17+18+19+20+21+22)
+Revenue recovered, if any
+24
+Revenue recovered, if any
+25
+Net Total (23-24)
+Additional Information
+1
+No. of Employees as on :
+(i) Executives
+(ii) Non-Executives
+(iii) Skilled
+(iv) Non-Skilled
+Total
+2
+No. of Employees per
+(i) MW handled
+(ii) MKwh handled
+(I)  An annual increase in HR expenses under a given head in
+excess of 20 percent should be explained with proper
+justification.
+(II)  The data should be based on audited balance sheets.
+(III)  Details of arrears, if any pertaining to prior period
+should be mentioned separately.
+(IV)  No. of employees opting for VRS during each year should
+be indicated.
+(V)  Details of abnormal expenses, if any shall be furnished
+separately.
+Form-6C
+Details of Repairs and Maintenance Expenses
+Name of LDC:
+A. Repairs and Maintenance Expenses(Actuals)
+(Rs in lakh)
+Sr.No.
+Description
+Actuals for previous Financial Year
+Current Financial Year
+Estimates for ensuing year
+Actual For First Six Months
+Projection For Balance Six Months
+Total
+1
+Consumption of stores and spares
+2
+Page 35/50
+----- PAGE 36 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Loss of stores and spares
+3
+Plant & Machinery repairs and maintenance
+4
+Civil works repairs and Maintenance
+5
+Annual Maintenance Contract (4a+4b+4c)
+5a
+-Plant & machineries
+5b
+-Civil repairs and maintenance
+5c
+-Others
+6
+Others (Specify)
+7
+Total (1+2+3+4+5+6)
+8
+Revenue recoveries, if any
+9
+Net Total (7-8)
+B. Repairs and Maintenance Expenses (As per Regulation)
+(Rs in lakh)
+Particulars
+2014-15
+2015-16
+2016-17
+2017-18
+2018-19
+Admitted Capital cost as on 1st April of the
+year
+Repairs and Maintenance expenses
+Repairs and Maintenance expenses as a percentage
+of Capital cost
+Petitioner
+Form-6D
+Details of Administrative and General Expenses
+Name of LDC/:
+Sr.No.
+Description
+Actuals for previous Financial Year(Rs in
+Lakh )
+Current Financial Year(Rs in Lakh)
+Estimates for ensuing year(Rate in Lakh)
+| Actual For First Six Months
+Projection For Balance Six Months
+Total
+|-
+Property Related Expenses
+1
+License Fees
+Page 36/50
+----- PAGE 37 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+2
+Rent
+3
+Rates & Taxes
+4
+Insurance
+5
+Contribution to accident reserve fund
+6
+Sub total :
+Communication
+7
+Telephone & Trunk Call
+8
+Postage & Telegram
+9
+Telex, Teleprinter Charges, Telefax
+10
+Courier Charges
+11
+Other
+12
+Sub total :
+Professional Charges
+13
+Legal expenses
+14
+Consultancy charges
+15
+Technical fees
+16
+Audit fees
+17
+Other charges
+18
+Sub total :
+Conveyance & Travelling
+19
+Conveyance expenses
+20
+Travelling expenses
+21
+Hire charges of vehicle
+22
+Others
+23
+Subtotal :
+Other Expenses
+24
+Electricity charges
+25
+Page 37/50
+----- PAGE 38 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Fees & Subscription
+26
+Books & Periodicals
+27
+Printing & Stationery
+28
+Advertisement
+29
+Entertainment
+30
+Watch & Ward
+31
+Miscellaneous
+32
+Organizational Development Expenses
+33
+Donation
+34
+Subtotal :
+Material Related Expenses
+35
+Demurrage and Wharf age on materials
+36
+Clearing & forwarding charges
+37
+Transit insurance
+38
+Subtotal :
+39
+Others (Specify)
+40
+Total (6+12+18+23+34+38+39)
+41
+Revenue recoveries, if any
+42
+Net Total (40-41)
+Petitioner
+Form-7
+Details of OPEX
+Name of LDC/
+(Rs in lakh)
+Sl. No.
+Particulars
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+Page 38/50
+----- PAGE 39 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+Total
+Petitioner
+Form-8
+Calculation of Interest on Working Capital
+Name of LDC/
+(Rs in lakh)
+Sl. No.
+Particulars
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+6
+7
+8
+1
+O & M expenses excl. HR
+2
+Human resource expenses
+3
+NLDC charges (Applicable for RLDC only) or RLDC
+Charges (Applicable only for SLDCs)
+4
+Receivables
+5
+Total Working Capital
+6
+Rate of Interest
+7
+Interest on Working Capital
+Petitioner
+Form 9
+LDC Development Fund (Projected)
+Page 39/50
+----- PAGE 40 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Name of LDC: ___________________________________
+(Rs in lakh) Particulars
+Existing 2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+6
+7
+Opening LDC Development Fund - Opening
+Additions in LDC development fund during the
+year
+Total LDC development fund
+Less: Utilization for capital expenses
+Less : Utilization for revenue expenses
+Net LDC development fund as on31st March of the
+year
+Average fund accumulated during the year
+Note. - Break-up of additions and utilization shall be provided in separate sheet for each year
+Petitioner
+Form 10
+Other Income
+Name of LDC: __________________
+(Rs in lakh)Particulars
+As on 31.3.2019
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+1
+2
+3
+4
+5
+6
+7
+Other Income - Opening
+Add : Short term open access charges
+Add : Allocation from REC income
+Add: ....
+Add: ....
+Gross Income during the year
+Less : Utilization to meet shortfall
+Less: Use for...
+Page 40/50
+----- PAGE 41 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+So on
+...
+Net Income as on 31st March....
+Petitioner
+Appendix-II
+[To be published in pursuance of Regulation 6]
+Name of the Applicant (in Bold Letters)
+(Registered Office Address)
+1. The applicant above-named has made an application before the (Central Electricity Regulatory Commission,
+[Location] for determination of fees and charges for [Give name of the applicant].
+2. The users of the [...] LDC are:
+a. .............................................
+b. ..............................................
+3. Details of tariff (Publish only applicable portion):
+(Rs. in lakh)
+Tariff for the previous year
+Year-wise tariff sought to be determined
+Previous year
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+[...] LDC
+4. A copy of the application made for determination of tariff is posted on the website (indicate here the address of the
+website).
+5. The suggestions and objections, if any, on the proposals for determination of tariff contained in the application be filed
+by any person, including the beneficiary before  the Secretary, Central Electricity Regulatory Commission, [Address] with
+a copy to the applicant within 30 days of publication of this notice.
+Place _________Date __________
+Name and Designation of the Authorized Signatory
+Appendix-III
+Depreciation Schedule
+S. No.
+Asset Particulars
+Depreciation Rate
+A
+Land under full ownership
+0.00%
+B
+Land under lease
+(a)
+for investment in the land
+3.34%
+(b)
+For cost of clearing the site
+3.34%
+C
+Other Assets
+A
+Building & Civil Engineering works
+Page 41/50
+----- PAGE 42 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(i)
+Offices and residential
+3. [34%]
+(ii)
+Containing plant and equipment
+3.34%
+(iii)
+Temporary erections such as wooden structures
+100. [00%]
+(iv)
+Roads other than Kutcha roads
+3. [34%]
+(v)
+Others
+3. [34]%
+B
+Transformers, Kiosk, sub-station equipment &
+other fixed apparatus(including plant foundation)
+(i)
+Transformers including foundation shaving rating
+of 100 KVA and over
+5.28%
+(ii)
+Others
+5.28%
+C
+Solar Panel/Wind Mill
+5.28%
+D
+Lightning arrestor
+(i)
+Station type
+5.28%
+(ii)
+Pole type
+5.28%
+(iii)
+Synchronous condenser
+5.28%
+E
+Batteries
+15.00%
+(i)
+Underground cable including joint boxes and
+disconnected boxes
+5.28%
+(ii)
+Cable duct system
+3.34%
+F
+Overhead lines including cable support
+Page 42/50
+----- PAGE 43 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+systems
+(i)
+Lines on fabricated steel operating at terminal
+voltages higher than 66 kV
+3.34%
+(ii)
+Lines on steel supports operating at terminal
+voltages higher than 13.2 kV but not exceeding 66 kV
+5.28%
+(iii)
+Lines on steel on reinforced concrete support
+5.28%
+(iv)
+Lines on treated wood support
+5.28%
+G
+Meters
+5.28%
+H
+Self-propelled Vehicles
+9.50%
+I
+Air Conditioning Plants
+(i)
+Static
+5.28%
+(ii)
+Portable
+9.50%
+J (i)
+Office furniture and furnishing
+6.33%
+(ii)
+Office equipment
+6.33%
+(iii)
+Internal wiring including fittings and apparatus
+6.33%
+(iv)
+Street Light fittings
+5.28%
+K
+Apparatus let on hire
+(i)
+Other than motors
+9.50%
+(ii)
+Motors
+6.33%
+L
+Communication equipment
+Page 43/50
+----- PAGE 44 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+(i)
+Radio and high frequency carrier system
+6.33%
+(ii)
+Telephone lines and telephones
+6.33%
+M
+I. T equipment
+15.00%
+N
+Software
+15.00%
+O
+Any other assets not covered above
+5.28%
+Petitioner
+Appendix-IV
+(In Compliance of Regulation 4)
+1. Name of the entity (in bold letters):
+2. Registered office address:
+3. Region in which registration is sought:
+i. North-eastern
+ii. North
+iii. East
+iv. West
+v. South
+4. User category:
+i. Generating Station
+ii. Seller
+iii. Buyer
+iv. Transmission Licensee
+v. Distribution Licensee
+vi. Trading Licensee
+vii. Power Exchange
+viii. Battery Energy Storage system
+ix. QCA / Aggregators
+x. Others
+5. User details (as on 31st March of last financial year):
+i. Category - generating Station
+i. Total Installed Capacity
+ii. Maximum Contracted Capacity (MW) using ISTS
+iii. Points of connection to the ISTS:
+Sl. No.
+Point of connection
+Voltage level (kV)
+Number of Special Energy Meters (Main) installed
+at this location
+ii. Category - Seller/Buyer/Distribution Licensee
+i. Maximum Contracted Capacity (MW) using ISTS
+ii. Points of connection to the ISTS:
+Sl. No.
+Page 44/50
+----- PAGE 45 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Point of connection
+Voltage level (kV)
+Number of Special Energy Meters (Main) installed
+at this location
+iii. Category - Transmission Licensee (inter-State)
+i. Sub-stations:
+Sl. No.
+Substation Name
+Number of transformer
+Total Transformation Capacity or Design MVA
+handling capacity if switching Station
+ii. Transmission lines: (line wise details to be given)
+Sl. No.
+Voltage level (kV)
+Number of transmission lines
+Total Circuit-Kilometers
+iv. Category (Others): Please specify details.
+6. Contact person(s) details for billing related to [...] LDC:
+i. Name:
+ii. Designation:
+iii. Telephone No.:
+iv. E-mail address:
+v. Postal address:
+7. Other Details:
+i. PAN No.:
+ii. GST No.:
+iii. Bank Account No.:
+iv. Bank Name and Address:
+v. MICR No:
+The above information is true to the best of my knowledge and belief.
+Signature of Authorized Representative
+Place:
+Name:
+Date:
+Designation:
+Contact number:
+Appendix-V
+Assessment of Key Performance Indicators for RLDC / NLDC
+Name of NLDC/RLDCs: __________________________________________
+Performance Year: _____________________________________________
+Category
+Overall weightage
+Sr. No.
+Key Performance Indicators
+Weightage
+(A) Stake holder satisfaction
+40
+1
+MoU Rating as per DPE
+10
+2
+Page 45/50
+----- PAGE 46 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Facilitate power
+system and market functioning
+? Power Market
+transaction (Collective & Bilateral), REC, ESCerts
+? Power System Functioning: Calculation &
+reporting of FRC, declaration of transmission losses, stakeholder
+meetings including cross border
+30
+3
+Maintain system
+reliability
+? FDI
+? VDI
+Maintenance shutdown coordination
+20
+4
+Website Availability
+10
+5
+Information
+dissemination
+? ATC/TTC
+? Transactions scheduled
+6
+Preparation of
+accounts
+?
+Interconnection meter error reporting
+? Ancillary
+Services
+?AGC
+20
+(B) Financial Prudence
+20
+1
+Variance in Capex Utilization
+40
+2
+Statutory compliance - Audits
+60
+(C)Learning & Growth
+20
+1
+New technology adoption / R&D
+30
+2
+Lessons learnt and knowledge dissemination by
+way of data intensive reports
+30
+3
+Adequacy of HR - % of certified operators among
+Page 46/50
+----- PAGE 47 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+eligible operators
+20
+4
+Capacity Building
+? No. of
+man-days per year per eligible employee
+? FOLD Meetings/Workshops
+20
+(D) Internal Process
+20
+1
+Availability of Decision Support System - SCADA
+40
+2
+Availability of infrastructure and amenities
+30
+3
+ISO Certification
+10
+4
+Process Documentation - Black Start, Reactive
+Power
+20
+(Calculations of specific metrics for the key performance indicators above are to be detailed in a Procedure duly
+prepared by the POSOCO and submit to Commission within 3 months of issue of these Regulations for approval)
+Appendix-VI
+Human Resource Requirement - Projection for Control Period: ___________
+I. Level Wise Projected Manpower
+Grade
+Description
+Year-1
+Year-2
+Year-3
+Year-4
+Year-5
+Board
+Director
+E9
+Executive Director
+E8
+General Manager/ Sr. General Manager/ Chief
+General Manager
+E7
+Dy. General Manager/ Sr. Dy. General Manager
+E5-E6
+Manager/ Chief Manager
+E3-E4
+Executive Trainee/ Asstt. Manager/ Dy. Manager
+E2
+Engineer/ Officer
+NE
+Page 47/50
+----- PAGE 48 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+Supervisor/ Junior Engineer/ Workmen
+TOT-E
+Total Executives
+E/NE
+Ratio of Executives to Non-Executive =
+(TOT-E)/(NE)
+II. Department Wise Projected Manpower
+Description
+Year-1
+Year-2
+Year-3
+Year-4
+Year-5
+E-RS
+Executives working in rotating shifts
+E-SO
+Executives in System Operation functions
+(Offline)
+E-MO
+Executives in Market Operation functions
+(Offline)
+E-SL
+Executives in System Logistics functions
+(off-line)
+E-OTH
+Executives in Other Support functions (Off-line)
+(Law, HR, F&A, etc.)
+E-GS
+Executives working in general shifts (ESO+
+MO+SL+OTH)
+RS/GS
+Ratio of Executives in Rotating Shift / General
+Shift
+SO/TOT
+Ratio of Executives (SO/Total)
+MO/TOT
+Ratio of Executives (MO/Total)
+SL/TOT
+Ratio of Executives (SL/Total)
+OTH/TOT
+Ratio of Executives (Oth/Total)
+III. Number of personnel in Load Despatch Centre having valid certificates (as on 31st March of respective year)
+S No.
+Particulars
+Year-1
+Year-2
+Year-3
+Year-4
+Year-5
+A
+Certified executives- Basic level
+Page 48/50
+----- PAGE 49 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+B
+Certified executives - Reliability Specialist
+C
+Certified executives - Market Specialist
+D
+Certified executives- System Logistics
+Specialist
+E
+Certified executives - Specialist (Others)
+F
+Certified executives- Management level
+G
+Total number of certified executives
+H
+Total number of executives
+I
+Ratio of Basic to Total (A/H)
+J
+Ratio of Reliability Specialist to Total (B/H)
+K
+Ratio of Market Specialist to Total (C/H)
+L
+Ratio of Logistics Specialist to Total (D/H)
+M
+Ratio of Other Specialist to Total (E/H)
+N
+Ratio of Management Specialist to Total (F/H)
+IV. Discipline wise projected Manpower
+S No.
+Discipline (at graduation level)
+Year-1
+Year-2
+Year-3
+Year-4
+Year-5
+1
+Power System
+2
+Electrical
+3
+Renewable
+4
+Communication
+5
+Computer Science
+6
+Public Policy
+7
+Economics
+8
+Commerce
+Page 49/50
+----- PAGE 50 -----
+Central Electricity Regulatory Commission (Fees and Charges of Regional Load Despatch Cent...
+9
+Statistics
+10
+Law
+11
+Human Resource
+12
+Finance
+13
+Management
+14
+Others-(Specify)
+Related AI tags, queries and research notes
+Translation
+Page 50/50

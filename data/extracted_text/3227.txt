@@ -1,0 +1,891 @@
+
+----- PAGE 1 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+Central Electricity Regulatory Commission (Cross Border Trade of
+Electricity) Regulations, 2019
+Source: https://indiankanoon.org/doc/22857318/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations, 2019
+UNION OF INDIA
+India
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations, 2019
+Rule
+CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-CROSS-BORDER-TRADE-OF-ELECTRICITY-REGULATION
+S-2019 of 2019
+Published on 8 March 2019
+Commenced on 8 March 2019
+[This is the version of this document from 8 March 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations, 2019
+Published vide Notification No. 13/2/7/2015-PM/CERC, dated 8.3.2019
+Last Updated 17th May, 2019
+No. 13/2/7/2015-PM/CERC. - In accordance with the provisions of Section 178 of the Electricity Act 2003 (
+36 of 2003
+) read with Section 66 thereof and the Guidelines on import and export of Electricity issued by Ministry of Power,
+Government of India, the Central Electricity Regulatory Commission hereby makes the following regulations:
+Page 1/17
+----- PAGE 2 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+CHAPTER-1 Preliminary
+1.
+Short Title and Commencement.
+(1)
+These regulations may be called the Central Electricity Regulatory Commission (Cross Border Trade of Electricity)
+Regulations, 2019.
+(2)
+These regulations shall come into force from the date of publication in the Official Gazette.
+2.
+Definitions and Interpretation.
+(1)
+In these regulations, unless the context, otherwise requires:
+(a)
+'Act' means the Electricity Act, 2003 (
+36 of 2003
+);
+(b)
+'Actual Drawal' in a time-block means electricity drawn by a buying entity measured by the interface meters;
+(c)
+'Actual Injection' in a time-block means electricity injected by a selling entity, measured by the interface meters;
+(d)
+'Access Bank Guarantee or ABG' means the bank guarantee which an applicant shall be required to furnish while
+seeking long-term access to Indian grid for cross border trade of electricity and shall also include the bank guarantee
+required to be furnished by the applicant in case the grant of long-term access requires augmentation of transmission
+system in India;
+(e)
+'Applicant' means an entity located in neighbouring country who has been recognized as a Participating Entity as
+defined in these regulations;
+(f)
+'Available Transmission Capability' or 'ATC' means the transfer capability, in MW, of the inter-control area transmission
+system available for scheduling cross-border transactions (through long-term access, medium-term open access and
+short-term open access) in a specific direction, taking into account the network security;
+(g)
+'Buying Entity' means the entity which has been granted long-term access or medium-term open access or short-term
+open access and is purchasing electricity in accordance with these regulations;
+(h)
+'Central Electricity Authority' or 'CEA' means Authority referred to in sub-section (1) of Section 70 of the Act;
+(i)
+'Central Transmission Utility' or 'CTU' means Central Transmission Utility as defined in subsection (10) of Section 2 of
+the Act;
+(j)
+'Commission' or 'CERC' means Central Electricity Regulatory Commission referred to in subsection (1) of Section 76 of
+the Act;
+(k)
+'Competent Authority' means the authority of the neighbouring country vested with the power to accord approval(s) on
+matters related to cross border trade of electricity with India;
+(l)
+'Connection Agreement' means an Agreement defining technical conditions of connecting to Indian grid in the course of
+cross border trade of electricity;
+(m)
+'Connectivity' means the state of getting connected to the Indian grid for the purpose of cross border trade of electricity;
+Page 2/17
+----- PAGE 3 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+(n)
+'Connectivity Regulations' means Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access
+and Medium-term Open Access in inter-State Transmission and related matters) Regulations, 2009, as amended from
+time to time or re-enactment thereof;
+(o)
+'Contract Performance Guarantee' means the irrevocable, unconditional and revolving bank guarantee submitted by the
+Transmission Service Provider to the Long Term Transmission Customers in terms of the Transmission Service
+Agreement;
+(p)
+'Control Area' means an electrical system bounded by interconnections (tielines), metering and telemetry which controls
+the generation and/or load within the area to maintain its interchange schedule with other control areas whenever
+required to do so and contributes to frequency regulation of the synchronously operating system. Each neighbouring
+country inter-connected with Indian Grid shall be treated as a separate control area;
+(q)
+'Cross Border Trade of Electricity' means transactions involving import or export of electricity between India and any of
+the neighbouring countries and shall also include transactions across India involving neighbouring countries;
+(r)
+'Cross Border Customer' means a person who has been granted long-term access or medium-term open access or
+short-term open access, as the case may be, for carrying out cross border trade of electricity in accordance with these
+regulations;
+(s)
+'Cross Border Transmission Link' or 'CBTL' means the transmission link from the pooling station within India till the
+pooling station of a neighbouring country, as may be specified by the Designated Authority in consultation with the
+Transmission Planning Agency of any of the neighbouring countries and shall include the dedicated transmission line
+from the generating station located within the territory of a neighbouring country getting connected with the Indian grid;
+(t)
+'Data Acquisition System' or 'DAS' means a device designed to record the sequence of operation in time, of the relays,
+equipments, system parameters at a particular location;
+(u)
+'Dedicated Transmission System' means the transmission system developed by a Participating Entity for transmitting
+electricity from a generating station located in a neighbouring country to a specified point in the Indian grid;
+(v)
+'Designated Authority' or 'DA' means the authority designated by Ministry of Power, Government of India in accordance
+with the Guidelines;
+(w)
+'Deviation' in a time-block for a seller means its total actual injection minus its total scheduled injection and for a buyer
+means its total actual drawal minus its total scheduled drawal and shall be calculated at the Interconnection point;
+(x)
+'DSM Regulations' means Central Electricity Regulatory Commission (Deviation Settlement Mechanism and related
+matters) Regulations, 2014, as amended from time to time or any subsequent reenactment thereof;
+(y)
+'Entity' means a company or authority or Board or autonomous body corporate or juridical person of India or any of the
+neighbouring countries which proposes to participate in cross border trade of electricity;
+(z)
+'Grid Code' means the Central Electricity Regulatory Commission (Indian Electricity Grid Code) Regulations, 2010, as
+amended from time to time or re-enactment thereof;
+(aa)
+'Guidelines' means the Guidelines on Cross Border Trade or Import/Export (Cross Border) of Electricity issued by
+Ministry of Power, Government of India from time to time;
+(bb)
+'Indian Grid' means the Inter-State Transmission System (ISTS) or Intra-State Transmission System (In-STS) or both as
+Page 3/17
+----- PAGE 4 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+the case may be;
+(cc)
+'Interface Meters' means special energy meters in accordance with the Central Electricity Authority (Installation and
+Operation of Meters) Regulations, 2006, as amended from time to time;
+(dd)
+'Inter-State transmission system' and 'intra-State Transmission System' shall have the same meaning as assigned to
+them under sub-sections (36) and (37) of Section 2 of the Act respectively;
+(ee)
+'Interconnection Point' means the point of interconnection located within the territory of India for the purpose of
+scheduling, metering, accounting and billing of electricity in the course of cross border trade of electricity between India
+and any of the neighbouring countries;
+(ff)
+'Long-term Access' means the right to use the inter-State transmission system of India for a period of 7 years or more;
+(gg)
+'Long-term Power Purchase Agreement' means a Power Purchase Agreement for a period of 7 years or more;
+(hh)
+'Medium-term Open Access' means the right to use the inter-State transmission system of India for a period exceeding 3
+months but not exceeding 5 years;
+(ii)
+'Medium-term Power Purchase Agreement' means a Power Purchase Agreement for a period exceeding 1 year but not
+exceeding 5 years;
+(jj)
+'National Load Despatch Centre' or 'NLDC' means the Centre established under sub-section (45) of Section 2 of the Act;
+(kk)
+'Open Access' within the territory of India shall have the same meaning as defined under sub-section (47) of Section 2 of
+the Act;
+(ll)
+'Participating Entity' means an entity approved by the Designated Authority for the purpose of cross border trade of
+electricity between India and any of the neighbouring countries or any entity as designated by Government of India for
+import or export of power through bilateral agreement between Government of India and Government of any of the
+neighbouring countries;
+(mm)
+'Point of Connection charges' or 'PoC charges' means the nodal or zonal charges determined using Point of Connection
+charging method as specified under Central Electricity Regulatory Commission (Sharing of inter-State Transmission
+Charges) Regulations, 2010, as amended from time to time;
+(nn)
+'Pooling Station' means the sub-station interfacing two or more transmission lines of the same or different voltage;
+(oo)
+'Power Market Regulations' means the Central Electricity Regulatory Commission (Power Market) Regulations, 2010, as
+amended from time to time or any re-enactment thereof;
+(pp)
+'Regional Power Committee' or 'RPC' means the Committee as defined in sub-section (55) of Section 2 of the Act;
+(qq)
+'Scheduled Drawal' at any time or for time block(s) means schedule of drawal in MW or MWh exbus given by the
+concerned System Operator;
+(rr)
+'Scheduled Generation' at any time or for any time block(s) means schedule of generation in MW or MWh ex-bus given
+by the concerned System Operator;
+(ss)
+'Selling Entity' means the entity which has been granted long-term access or medium-term open access or short-term
+open access and is selling electricity in accordance with these regulations;
+Page 4/17
+----- PAGE 5 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+(tt)
+'Settlement Nodal Agency' or 'SNA' means the nodal agency as notified by Ministry of Power, Government of India for
+each neighbouring country for settlement of grid operation related charges;
+(uu)
+'Sharing Regulations' means the Central Electricity Regulatory Commission (Sharing of Inter State Transmission
+Charges and Losses) Regulations, 2010, as amended from time to time or re-enactment thereof;
+(vv)
+'Short-term Open Access' means open access for a period up to one (1) month at a time;
+(ww)
+'Short Term Open Access Regulations' or 'STOA Regulations' means Central Electricity Regulatory Commission (Open
+Access in inter-State Transmission) Regulations, 2008 as amended from time to time or re-enactment thereof;
+(xx)
+'Short-term Power Purchase Agreement' means a Power Purchase Agreement for duration of less than one year;
+(yy)
+'System Operator' means the entity which shall discharge the following main functions:
+(i)
+Scheduling and dispatch of electricity over the Cross Border Transmission Links in accordance with grid standards
+specified as per the provisions of the Act;
+(ii)
+Monitoring of operations and grid security of the Cross Border Transmission Links with respective neighbouring country;
+(iii)
+Supervision and control over the inter-regional and or Cross Border Transmission Links as may be required for ensuring
+stability of the power system in coordination with the agency responsible for system operation in the concerned
+neighbouring country;
+(iv)
+Any other functions as may be assigned by the Commission in the interest of grid security;
+(zz)
+'Time-block' means a block of 15 minutes or any such other duration as may be specified by the Commission, for
+recording specified electrical parameters and quantities by special energy meters, with the first time block starting at
+0000 hrs of the day;
+(aaa)
+'Total Transfer Capability' or 'TTC' means the electric power that can be transferred reliably over the inter-control area
+transmission systems under a given set of operating conditions considering the effect of occurrence of the worst credible
+contingency;
+(bbb)
+'Transmission Planning Agency' or 'TPA' means the Planning Agency for India or neighbouring country as specified
+under Regulation 4(2) of these regulations;
+(ccc)
+'Transmission Reliability Margin' or 'TRM' means the margin factored in the total transfer capability for ensuring secure
+operation of the Cross Border Transmission Link under a reasonable range of uncertainties in system conditions.
+(2)
+Words and expressions used in these regulations and not defined herein but defined in the Act or the Connectivity
+Regulations or STOA Regulations or Grid Code or any other regulations specified by the Commission shall, unless the
+context otherwise requires, have the meanings assigned to them under the Act or the Connectivity Regulations or STOA
+Regulations or the Grid Code or any other regulations specified by the Commission from time to time.
+CHAPTER-2 General Provisions
+3.
+Scope.
+(1)
+These regulations shall be applicable to the Participating Entities in India and the neighbouring countries which are
+engaged in cross border trade of electricity with India.
+Page 5/17
+----- PAGE 6 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+Provided that the entities located in India who are seeking connectivity or long-term access or medium-term open
+access or short-term open access to the Indian grid in the course of cross border trade of electricity between India and
+any of the neighbouring countries shall continue to be governed by Connectivity Regulations and the STOA Regulations.
+(2)
+Cross border trade of electricity between India and the neighbouring country(ies) shall be allowed through mutual
+agreements between Indian entity(ies) and entity(ies) of the neighbouring country(ies) under the overall framework of
+agreements signed between India and the neighbouring country(ies) consistent with the provisions of the prevailing laws
+in the respective country(ies), including:
+(i)
+through bilateral agreement between two countries;
+(ii)
+through bidding route; or
+(iii)
+through mutual agreements between entities; or
+Provided that in case of tripartite agreements, the cross border trade of electricity across India shall be allowed under
+the overall framework of bilateral agreements signed between Government of India and the Governments of the
+respective neighbouring countries of the Participating Entities.
+(3)
+Notwithstanding the provisions of these regulations, anything done or any action taken or purported to have been done
+or taken for cross border trade of electricity with neighbouring country(ies) under any Agreement in force prior to the
+date of coming into force of these Regulations, shall be deemed to have been done or taken under the provisions of
+these Regulations and shall continue to be in place till the expiry of the said Agreements.
+4.
+Institutional Framework.
+(1)
+Designated Authority appointed by the Ministry of Power, Government of India shall be responsible for facilitating the
+process of approval and laying down the procedure for import and export of electricity. The Designated Authority shall
+coordinate with any authority designated by the concerned neighbouring country for all purposes stated in the
+Guidelines.
+(2)
+Transmission Planning Agency shall be responsible for planning of transmission system for the purpose of facilitating
+cross border trade of electricity and may coordinate with the Transmission Planning Agency of the concerned
+neighbouring country, wherever necessary. For India, this function shall be discharged by the Designated Authority.
+(3)
+Settlement Nodal Agency shall be responsible for settling all charges pertaining to grid operations including operating
+charges, charges for deviation and other charges related to transactions with a particular neighbouring country in the
+course of cross border trade of electricity. The Settlement Nodal Agency shall be a member of the deviation pool,
+reactive energy pool and other regulatory pools for payment and settlement of the corresponding charges in the pool
+accounts of the region having connectivity with any neighbouring country.
+(4)
+National Load Dispatch Centre shall act as the System Operator for cross border trade of electricity between India and
+the neighbouring countries and shall be responsible for granting short-term open access and for billing, collection and
+disbursement of the transmission charges for short-term open access transactions in accordance with the Sharing
+Regulations.
+(5)
+Central Transmission Utility shall be responsible for granting long-term access and medium-term open access with
+respect to cross border trade of electricity between India and the neighbouring countries and for billing, collection and
+disbursement of the transmission charges in accordance with the Sharing Regulations.
+5.
+Tariff Determination.
+(1)
+Page 6/17
+----- PAGE 7 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+Tariff for import of electricity by the Indian Entity(ies) shall be determined through a process of competitive bidding as
+per the Tariff Policy notified from time to time under Section 3 of the Act or through mutual agreement between the
+buying Indian entity and the selling entity of the respective neighbouring country under the overall framework of
+agreements signed between India and the neighbouring country(ies) subject to payment of the applicable charges for
+transmission or wheeling of electricity through the Indian grid.
+Provided that in case of import of electricity from the hydro generation projects located in any of the neighbouring
+countries, the tariff thereof shall be determined by the Commission as per the parameters specified in the Tariff
+Regulations notified from time to time, only if the hydro generator approaches the Commission through the Government
+of the neighbouring country and is agreed to by the buying Indian entity(ies).
+(2)
+Tariff for export of electricity to entities of a neighbouring country by the Indian entities through longterm or medium-term
+or short-term agreements may be either mutually agreed under the overall framework of agreements signed between
+India and the neighbouring country(ies) or discovered through competitive bidding, subject to payment of the applicable
+charges for transmission or wheeling of electricity through the Indian grid.
+(3)
+Where the tariff for import or export of electricity is mutually agreed between the Government of India and the
+Government of any neighbouring country involving the participating entities of the two countries, the same shall be final.
+Provided that the tariff for import or export of electricity already determined through Government to Government
+negotiations including under Inter Government Agreements (IGA) shall continue to be determined through Government
+to Government negotiations till the expiry of the Agreement or as may be decided by the two countries including
+determination of tariff through competitive bidding.
+Provided further that on expiry of the Agreement, if not extended further, the tariff may be determined through the
+process of competitive bidding or mutual agreements or Government to Government negotiations.
+(4)
+The tariff for the Cross Border Transmission Link from the pooling station within India till the Indian border may be
+determined through a process of competitive bidding or through Government to Government negotiations or by the
+Commission.
+6.
+Trade Through Indian Power Exchanges.
+- Any electricity trading licensee of India may, after obtaining approval from the Designated Authority, trade in the Indian
+Power Exchanges on behalf of any Participating Entity of neighbouring country, for the specified quantum as provided in
+the Approval subject to compliance with the applicable Regulations of the Commission.
+CHAPTER-3 Transmission Planning, Connectivity and Access
+7.
+Planning and Implementation of Cross Border Transmission Link.
+(1)
+The Cross Border Transmission Link between India and any neighbouring country shall be planned jointly by
+Transmission Planning Agencies of the two countries with the approval of the respective Governments keeping in view
+the future need for electricity trade between India and the neighbouring country.
+(2)
+The manner of implementation of Cross Border Transmission Link between the pooling station within India till the Indian
+border and the implementing agency shall be decided by Government of India.
+Provided that a participating entity having a generating station located in a neighbouring country may develop, operate
+and maintain the dedicated transmission system from the generating station to the pooling station within India at its own
+cost after obtaining all the necessary approvals from respective countries.
+(3)
+The Transmission Planning Agency of India in consultation with the Transmission Planning Agency of neighbouring
+country shall grant access to the Participating Entities to use Cross Border Transmission Link for cross border trade of
+electricity.
+(4)
+The Cross Border Transmission Link shall not form part of the basic ISTS network for the determination of PoC charges
+Page 7/17
+----- PAGE 8 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+under the Sharing Regulations.
+(5)
+The tariff for the Cross Border Transmission Link(s) from the pooling station within India to the Indian border as
+determined in terms of Clause (4) of Regulation 5 shall be payable by the Applicant(s).
+8.
+General provisions for Connectivity, Long Term Access, Medium Term Open Access and Short Term Open Access.
+(1)
+A Participating Entity located in a neighbouring country shall be required to seek connectivity or long-term access or
+medium-term open access or short-term open access, as the case may be, through separate applications.
+(2)
+Applications for grant of connectivity or long-term access or medium-term open access shall be made to CTU and
+Applications for grant of short-term open access shall be made to NLDC under these Regulations.
+(3)
+Except where specifically provided in these Regulations, the provisions contained in the STOA Regulations and
+Connectivity Regulations shall apply mutatis mutandis to the participating entities for cross border trade of electricity.
+9.
+Application fee.
+(1)
+The applications for connectivity, long-term access and medium-term open access shall be accompanied by a
+non-refundable application fee in Indian Rupees as provided below, payable in the name and in the manner to be laid
+down by the CTU:
+S. No.
+Quantum of Power to be injected/off taken
+into/from ISTS
+Application fee (Rs. in Lakh)
+For Connectivity/Long term Access
+Medium-term open access
+1.
+Up to 100MW
+4
+2
+2.
+More than 100 MW and up to 500 MW
+6
+4
+3.
+More than 500 MW and up to 1000 MW
+12
+4.
+More than 1000 MW
+18
+8
+(2)
+Access Bank Guarantee as specified under Clause (1) of Regulation 15 of these Regulations shall be deposited by the
+Participating Entities along with the application for long-term access.
+(3)
+The fee for short-term open access applications shall be governed as per the Procedure issued under STOA
+Regulations.
+10.
+Application for Grant of Connectivity.
+(1)
+Page 8/17
+----- PAGE 9 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+A Participating Entity located in neighbouring country and getting connected to the Indian grid through dedicated
+transmission systems for cross border trade of electricity within or across India shall be required to apply for Connectivity
+to the Indian grid.
+(2)
+The Participating Entity as specified under Clause (1) above shall make an application to CTU for the grant of
+Connectivity to the Indian grid. In addition to the requirements specified under Connectivity Regulations, the Applicant
+shall furnish the following:
+(a)
+Approval from Designated Authority with regard to eligibility of the Participating Entity for cross border trade of electricity
+or copy of the Inter Government Agreement (IGA) wherever available; and
+(b)
+Necessary Approvals for implementing the dedicated transmission system.
+(3)
+On receipt of the application, the CTU shall process the application and grant Connectivity as per the Detailed
+Procedure made under Connectivity Regulations. CTU may consult and coordinate with Transmission Planning
+Agency(ies)of neighbouring countries while processing the application and carry out the necessary inter-connection
+study as specified in the Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations,
+2007.
+(4)
+Upon grant of Connectivity, the Applicant shall sign a Connection Agreement with the CTU.
+Provided that in case Connectivity is granted to the inter-State transmission system of an inter-State transmission
+licensee other than the CTU, an agreement as provided in the Central Electricity Authority (Technical Standards for
+Connectivity to the Grid), Regulations, 2007 shall be signed between the Applicant, CTU and such inter-State
+transmission licensee.
+(5)
+Grant of Connectivity shall not entitle an applicant to interchange any power with the Indian grid unless it obtains
+long-term access or medium-term open access or short-term open access for cross border trade of electricity.
+(6)
+A Participating Entity located in the neighbouring country and getting connected to the Indian grid through Cross Border
+Transmission Link shall not be required to apply for Connectivity to the Indian grid.
+11.
+Application for Short-Term Open Access.
+(1)
+The Application for short-term open access to the Indian grid and across the Indian grid for cross border trade of
+electricity shall be made to NLDC under these Regulations.
+(2)
+In addition to the requirements specified under STOA Regulations for grant short-term open access to the Indian grid,
+the Applicant shall furnish the following:
+(a)
+Approval from Designated Authority with regard to eligibility of the Participating Entity for cross border trade of electricity
+or copy of the Inter Government Agreement (IGA) wherever available; and
+(b)
+Approval from Designated Authority in India and Competent Authority in neighbouring country(ies) to use Cross Border
+Transmission Link(s) in case connectivity is not through dedicated transmission lines.
+(3)
+NLDC shall process the Application and grant short-term open access in accordance with the Procedure made under
+STOA Regulations.
+12.
+Application for Long-Term Access and Medium-Term Open Access.
+(1)
+The application for long-term access or medium-term open access to Indian grid and across Indian grid for cross border
+Page 9/17
+----- PAGE 10 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+trade of electricity shall be made to CTU.
+(2)
+In addition to the requirements specified under Connectivity Regulations for grant of long-term access or medium-term
+open access to the Indian grid, the Applicant shall furnish the following:
+(a)
+Approval from Designated Authority with regard to eligibility of the Participating Entity for cross border trade of electricity
+or copy of the Inter Government Agreement (IGA) wherever available; and
+(b)
+Approval from Designated Authority in India and Competent Authority in neighbouring country(ies) to use Cross Border
+Transmission Link(s) in case connectivity is not through dedicated transmission lines; and
+(c)
+Access Bank Guarantee as specified under Regulation 15 for long-term access.
+(3)
+CTU shall process the application and grant long-term access or medium-term open access to the Indian grid or across
+the Indian grid, as the case may be, in accordance with the detailed procedure notified under Connectivity Regulations
+except for the provisions specified herein.
+(4)
+Upon grant of long-term access or medium-term open access for cross border trade of electricity, the Applicant shall
+sign the Long Term Access Agreement or Medium Term Open Access Agreement, as the case may be, with CTU which
+shall contain the date of commencement of long-term access or medium-term open access, as the case may be, the
+point of injection of power into the Indian grid and point of drawal from the Indian grid.
+Provided that in case long-term access or medium-term open access is granted to the inter-State transmission system of
+an inter-State transmission licensee other than the CTU, the agreement shall be signed between the Applicant, CTU and
+such inter-State transmission licensee.
+(5)
+Implementation of the transmission system augmentation, if any, for grant of long-term access shall be undertaken only
+after the applicant has submitted the Access Bank Guarantee specified under Clause (2) of Regulation 15.
+(6)
+Where tripartite agreement is signed for transaction across India involving two neighbouring countries, the transmission
+system augmentation in India for transmission of electricity across the territory of India shall be undertaken only after
+obtaining approval from Government of India and the Commission and the Access Bank Guarantee as specified under
+Clause (2) of Regulation 15 is submitted by the Applicant.
+13.
+Timeframe for processing Long-Term Access and Medium-Term Open Access Application.
+(1)
+CTU shall process the long-term access applications made under these Regulations requiring augmentation of
+transmission system in the Indian Grid within one hundred twenty (120) days from the last date of the month in which
+application is made.
+(2)
+Long-term access applications where augmentation of transmission system is not required shall be processed within
+ninety (90) days from the last date of the month in which application is made.
+(3)
+CTU shall process the medium-term open access applications made under these Regulations within forty (40) days from
+the last date of the month in which application is made.
+14.
+Treatment of delay in Transmission system and Generation projects.
+(1)
+Designated Authority shall monitor the progress of generating station including units thereof in neighbouring country
+along with transmission system for evacuation of power for cross border trade of electricity in consultation and
+co-ordination with CTU of India, Transmission Planning Agency(ies) of neighbouring country(ies) and the developer of
+the generating station, at regular interval.
+Page 10/17
+----- PAGE 11 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+(2)
+The generating company located in the neighbouring country, implementing agency(ies) and the transmission
+licensee(s) shall endeavour to commission the generating station, Cross Border Transmission Link(s) and the
+transmission system within India respectively in matching time-frame as far as practicable.
+(3)
+In case of delay in commissioning of generating station or unit(s) thereof and associated dedicated transmission system
+in the neighbouring country beyond the scheduled date agreed in the Long Term Transmission Access Agreement, the
+generator shall be liable to pay full transmission charges from the date of operationalisation of long-term access.
+(4)
+In case of delay in commissioning of Cross Border Transmission Link, compensation if any to the generating company
+or transmission licensee or both, as the case may be, shall be as decided by the respective Governments.
+(5)
+In the event of delay by the transmission licensee in commissioning of transmission system within India beyond its
+scheduled date and the generating company is ready with its generating station or unit(s), the transmission licensee
+shall pay transmission charges to generating company proportionate to commissioned generation capacity in case no
+alternative arrangement is made by the CTU.
+Provided that in case of non-payment of transmission charges by the transmission licensee to the generating company,
+such charges shall be recovered by the CTU from the Contract Performance Guarantee furnished by the transmission
+licensee and paid to the generating company.
+15.
+Access Bank Guarantee.
+(1)
+An Applicant seeking long-term access for cross border trade of electricity shall be required to furnish to the CTU, along
+with the application, an Access Bank Guarantee valid for five (5) years from the date of operationalization of long term
+access, for an amount of Rs. Five (5) Lakhs/MW corresponding to the quantum of long-term access sought.
+(2)
+In case the grant of long-term access requires augmentation of transmission system in India, the CTU shall intimate the
+cost of augmentation within ninety (90) days from the date of the month in which the application is made and the
+Applicant shall furnish a fresh Access Bank Guarantee valid for five (5) years for an amount equivalent to the cost of
+such augmentation within one (1) month of intimation of the cost of augmentation by CTU.
+Provided that on receipt of the Access Bank Guarantee in pursuance to above, CTU shall return the Access Bank
+Guarantee submitted in terms of Clause (1).
+(3)
+The Cross Border Customer who has been granted long-term access may approach CTU and seek permission to exit
+prior to the award of contract for execution of transmission system by the transmission licensee. All such requests shall
+be considered and decision communicated to the applicant not later than thirty (30) days from the date of the request.
+Provided that where exit is permitted, the CTU may encash Rs. 20 lakhs from the Access Bank Guarantee submitted in
+terms of Clause (1) or Clause (2), as the case may be, and return the balance amount to the Cross Border Customer.
+(4)
+If a Cross Border Customer relinquishes Transmission Access granted under these Regulations after the award of the
+contract for execution of transmission system and before operationalization of long-term access, Access Bank
+Guarantee shall be encashed by the CTU.
+(5)
+In case there is delay in commissioning of the generating station and associated dedicated transmission system beyond
+the timelines agreed in the Long Term Transmission Access Agreement, and longterm access has been operationalized,
+the transmission charges if not paid by the generator as provided in Clause (3) of Regulation 14, shall be recovered by
+CTU by encashing the Access Bank Guarantee submitted in terms of Clause (1) or Clause (2), as the case may be.
+(6)
+If a Cross Border Customer relinquishes Transmission Access granted under these Regulations after operationalization
+of long term access, Access Bank Guarantee submitted in terms of Clause (1) or Clause (2), as the case may be, shall
+be encashed by the CTU subject to Clause (7) of this Regulation.
+Page 11/17
+----- PAGE 12 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+(7)
+The quantum of Access Bank Guarantee submitted in terms of Clause (1) or Clause (2), as the case may be, shall be
+progressively reduced each year after the generating company begins to avail long term access corresponding to one
+fifth of its total value. On completion of each year, one fifth of the value of Access Bank Guarantee shall be returned to
+the Applicant each year up to fourth year and one-fifth of the Access Bank Guarantee shall be retained upto twelfth year
+of the long term access as a security towards relinquishment charges. The Applicant shall submit revised Access Bank
+Guarantee accordingly.
+16.
+Operationalisation of Long-Term Access.
+(1)
+The operationalisation of long-term access for cross border trade of electricity shall start from the date indicated in the
+Long Term Transmission Access Agreement or from the availability of the transmission system for operationalisation of
+long-term access, whichever is later and the liability of payment of transmission charges shall begin from this date.
+(2)
+Where the operationalisation of long-term access is contingent upon commissioning of several transmission lines or
+systems and only some of the transmission lines or elements have been declared under commercial operations,
+long-term access to the extent which can be operationalized without affecting the security and reliability of the Indian
+Grid may be permitted for which the Long Term Transmission Access customer shall pay the transmission charges for
+the quantum of long-term access operationalized.
+(3)
+The Cross Border Customer shall submit certificate regarding Commercial Operation declaration of the generating
+station or transmission system as required under Grid Code.
+17.
+Metering Arrangements.
+(1)
+Interface Meters (Main Meter, Check Meter and Standby Meter) shall be installed at both the ends of the Cross Border
+Transmission Link in accordance with Central Electricity Authority (Installation and Operation of Meters) Regulations,
+2006 and amendments thereof.
+(2)
+Before flow of electricity on the Cross Border Transmission Link, Transmission Planning Agencies of both the countries
+shall confirm the availability of Main Meter, Check Meter and Standby Meter to System Operator of respective country.
+(3)
+Interface Meters as specified in Clause (1) above, shall be open for inspection by any person authorized by the
+Transmission Planning Agencies or System Operators of the respective countries.
+18.
+Data and Communication Facilities.
+- a. Reliable and efficient voice and data communication systems shall be provided to facilitate necessary
+communication and data exchange, and supervision or control of the grid by the NLDC or RLDC, under normal and
+extraordinary conditions. Such communication system must be established from generating station or concerned grid
+substation(s) to control room of System Operator of a neighbouring country and from there to control room of System
+Operator of India.
+Provided that the Cross Border Transmission Link shall necessarily have reliable and efficient voice and data
+communication systems with the System Operators on both the sides.
+b. All Participating Entities shall ensure that the voice and data communication facilities to telemeter power system
+parameters such as flow, voltage and status of switches or transformer taps etc. is installed in line with interface
+requirements as per the applicable Regulations of CERC. The associated voice and data communication system to
+facilitate voice and data flow up to appropriate data collection point on CTUs system shall be established by the
+concerned Participating Entities as specified by CTU in the Connection Agreement.
+19.
+System Recording Instruments.
+- Recording instruments including Data Acquisition System/Disturbance Recorder/Event Logging Facilities/Fault Locator
+Page 12/17
+----- PAGE 13 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+(including time synchronization equipment) shall be provided by all Participating Entities and shall always be kept in
+working condition in the Indian grid and transmission system of the neighbouring country for recording of dynamic
+performance of the system.
+20.
+Reactive Power Compensation.
+- a. Reactive Power compensation and/or other facilities shall be provided by Participating Entities connected to Indian
+grid as far as possible in the low voltage systems close to the load points thereby avoiding the need for exchange of
+Reactive Power to/from Indian grid and to maintain voltage within the specified range.
+b. The Participating Entities already connected to the grid shall also provide additional reactive compensation as per the
+quantum and timeframe decided by respective Regional Power Committee(s) in consultation with NLDC. The
+Participating Entities shall provide information to Regional Power Committee(s) and NLDC regarding the installation and
+functioning of the reactive compensation equipment on regular basis. Regional Power Committee(s) shall regularly
+monitor the status in this regard.
+21.
+Cyber Security.
+- All Participating Entities shall have in place a cyber-security framework to identify the critical cyber assets and protect
+them so as to support reliable operation of the grid. NLDC shall monitor the progress in this regard.
+CHAPTER-4 System Operation
+22.
+Cross border trade of electricity shall be undertaken in a manner that ensures reliable, secure and stable operation of
+the interconnected grid and does not jeopardize grid security at any point of time. For purposes of cross border trade of
+electricity, all grid operation related provisions shall be applicable as per the prevailing regulations of the Commission.
+23.
+System Security Aspects.
+(1)
+The interconnection between India and the neighbouring country shall be monitored and controlled by the respective
+System Operators of the two countries, with proper coordination.
+(2)
+No part of the Cross Border Transmission Link shall be isolated from the rest of the system, except,
+(a)
+Under an emergency, and conditions in which such isolation would prevent a total grid collapse and/or would enable
+early restoration of electricity supply; or
+(b)
+For safety of human life; or
+(c)
+When serious damage to a costly equipment is imminent and such isolation would prevent it; or
+(d)
+When such isolation is specifically instructed by the System Operator(s) of either of the two Countries through specific
+messages exchanged to this effect.
+(3)
+Restoration of the cross border interconnection shall be carried out as soon as the conditions permit it. The restoration
+process shall be supervised by respective country's System Operator.
+(4)
+Provision of protection and relay settings shall be coordinated periodically by the Transmission Service Providers of both
+countries. These settings would be periodically reviewed as and when network configuration changes at either of the
+ends. If necessary, the respective countries may also put into place System Protection Schemes (SPS) to take care of
+any contingencies.
+(5)
+The Control Centres of the System Operators and the Substation Control Rooms at either ends of the Cross Border
+Transmission Link shall be manned by adequate and trained manpower at all times to facilitate round the clock
+operation of the cross border interconnections.
+Page 13/17
+----- PAGE 14 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+(6)
+Operational planning including outage plan shall be carried out by NLDC and its counterpart in the neighbouring country
+for secure and reliable operation of the Cross Border Transmission Link.
+(7)
+A system of exchanging 'operational codes' shall be evolved and used for exchanging any operating instructions
+between the System Operators of both the countries.
+24.
+Declaration of Transfer Capability.
+- Total Transfer Capability (TTC), Transmission Reliability Margins (TRM) and Available Transfer Capability (ATC) for
+the cross border trade of electricity shall be assessed in advance by System Operators in India and the concerned
+neighbouring country and lower of the two values of ATC assessed by the two countries shall be considered for allowing
+cross border trade of electricity.
+Provided that NLDC may revise TTC and ATC due to change in anticipated network topology or change of anticipated
+generation or load at any of nodes giving reason for such changes.
+25.
+Scheduling.
+(1)
+The following procedure shall be followed for scheduling and despatch of cross border trade of electricity transactions
+between India and the respective neighbouring country:
+(a)
+Scheduling of electricity shall be carried out between the buying entity and selling entity as per agreed quantum in the
+contracts.
+(b)
+Scheduling shall be carried out for each 15-minute time block or such other duration as may be notified subsequently.
+(c)
+Transmission System losses declared on weekly basis shall be borne in kind by the buying entity or the selling entity, as
+the case may be, as per the quantum declared by the concerned System Operator of India or the neighbouring country.
+(2)
+The selling entity or the buying entity, as the case may be, shall inform their requisitions to the Settlement Nodal Agency
+in accordance with the procedure specified as per Part - 6 on Scheduling and Despatch Code of Grid Code.
+(3)
+Settlement Nodal Agency shall co-ordinate with System Operators of respective neighbouring countries for scheduling of
+cross border transactions and revisions during the day of operation.
+(4)
+In case of multiple participants having cross border transactions the net schedule at delivery point shall be arithmetic
+sum of individual schedules for each transaction.
+26.
+Metering, Energy Accounting & Settlement.
+(1)
+The Energy Accounting for all the electricity imported from a neighbouring country to India or exported from India to a
+neighbouring country shall be carried out on a net basis for each country by the concerned Regional Power
+Committee(s) (RPC(s)) in India.
+(2)
+The Settlement Nodal Agency shall be a member of the Regional Deviation Pool Account acting on behalf of the selling
+entity or buying entity of the neighbouring country. In case a neighbouring country is connected to more than one region
+of India, Settlement Nodal Agency shall be member of respective Regional Deviation pool.
+(3)
+The Settlement Nodal Agency shall pay or receive charges on account of deviation to or from Regional Deviation Pool
+maintained by NLDC as per Deviation Pool account issued by Regional Power Committee. The Settlement Nodal
+Agency shall settle the same with the selling entity or buying entity of the neighbouring country, as the case may be.
+(4)
+Page 14/17
+----- PAGE 15 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+Reactive Energy Charges shall be paid by the Settlement Nodal Agency in accordance with Grid Code, and the said
+charges shall be collected from the selling entity or buying entity of the neighbouring countries, as the case may be.
+(5)
+Weekly meter readings (import or export in terms of MWh and MVArh) for actual injection or drawl by entities located in
+neighbouring country shall be provided to the concerned RLDC(s) or NLDC through Settlement Nodal Agency by
+Tuesday noon for the previous week so as to facilitate energy accounting.
+(6)
+The charges for deviation from schedule at the inter-connection point shall be as per the DSM Regulations in India. The
+segregation of charges within the neighbouring country shall be carried out by the agency designated by the concerned
+neighbouring country.
+(7)
+All payments shall be settled by the parties through the Settlement Nodal Agency as per timeline specified in the DSM
+Regulations.
+27.
+Curtailment of Cross Border Electricity Trades in case of Contingency.
+(1)
+When for the reasons of transmission constraints or in the interest of grid security, it becomes necessary to curtail power
+flow on a transmission corridor; the transactions already scheduled may be curtailed by the NLDC.
+(2)
+Subject to provisions of the Grid Code and any other regulations specified by the Commission, the short-term open
+access shall be curtailed first followed by the medium-term open access, which shall be followed by the long-term
+access.
+Provided that amongst the grantees of access of a particular category, curtailment shall be carried out on pro-rata basis.
+(3)
+In case of curtailment of the approved schedule by NLDC, transmission charges shall be payable on a pro-rata basis in
+accordance with the curtailed schedule.
+Provided that operating charges shall not be revised in case of curtailment.
+28.
+Event Information.
+(1)
+Events like tripping of elements impacting the electricity flow across the Cross Border Transmission Link, complete or
+partial blackout or any other such incidents affecting the grid operations would be reported by the concerned System
+Operator of India to the System Operator of the neighbouring country and vice versa.
+(2)
+A written communication shall be exchanged between the respective System Operators covering the date and time of
+the event, location, plant or equipment affected and any other relevant detail (for example, Flags, disturbance recorder
+and sequence event recorder output) as may be necessary.
+29.
+Coordination Between System Operators.
+- The System Operator of India (NLDC) and its counterpart in the neighbouring country shall hold six monthly
+operational coordination meetings to discuss various aspects associated with the operation of the cross border
+interconnection(s) including any protection and commercial related issues.
+CHAPTER-5 Payment of Charges and Payment Security Mechanism
+30.
+Payment of Transmission charges and other charges.
+(1)
+PoC injection charges or PoC withdrawal charges for delivery of electricity at the pooling station within India shall be
+governed as per provisions of Sharing Regulations.
+(2)
+Settlement Nodal Agency shall put in place a suitable payment security mechanism for charges to be collected by it.
+(3)
+Page 15/17
+----- PAGE 16 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+Taxes, cess, statutory duties and levies shall be payable by the Cross Border Customers as per the applicable laws of
+India.
+31.
+Transmission Losses.
+- In line with the provisions of Regulation 6.5 of Scheduling and Despatch Procedure of Grid Code and Regulation 6 on
+Application of losses while scheduling of contracts of the Procedure for sharing of ISTS losses, the transmission losses
+shall be shared as per the following methodology:
+(a)
+Withdrawal PoC losses as applicable shall be applied at the interface.
+(b)
+Injection PoC losses of respective injection grid shall be applied at the interface.
+(c)
+Net schedule at Indian end of the Cross Border Transmission Link shall be arrived at after applying injection PoC loss of
+the concerned injection zone and withdrawal PoC loss
+32.
+System Operation Fees and Charges.
+(1)
+On behalf of the entities in neighbouring countries, the Settlement Nodal Agency shall pay the Fees and Charges of the
+System Operator in India as per Central Electricity Regulatory Commission (Fees and Charges of Regional Load
+Despatch Centre and other related matters) Regulations, 2009 or any subsequent enactment thereof.
+(2)
+Settlement Nodal Agency shall register itself as a user of concerned System Operator and shall pay the registration
+charges as per CERC Regulations.
+(3)
+Any selling entity or buying entity in India proposing to sell or buy electricity from or to the neighbouring country shall
+make payments to the Settlement Nodal Agency for fees & charges of System Operation in India.
+33.
+Payment Security Mechanism for Transmission Charges.
+(1)
+The Cross Border Customer shall be liable to establish payment security mechanism for payment of transmission
+charges and various grid related charges.
+(2)
+The Cross Border Customer shall establish payment security towards transmission charges and grid related charges at
+least ninety (90) days prior to the intimated date of commencement of Transmission Access which shall include the
+following for availing long-term access and medium-term open access:
+(a)
+An irrevocable, unconditional and revolving Letter of Credit in favour of the Central Transmission Utility through a bank
+as specified in Regulation 35 equivalent to two point one(2.1) times the average monthly bill amount towards
+transmission charges with a validity of 1 year.
+(b)
+An irrevocable, unconditional and revolving Letter of Credit in favour of the Settlement Nodal Agency of India through
+bank as specified in Regulation 35 equivalent to two point one (2.1) times the average monthly bill amount towards grid
+related charges with a validity of 1 year.
+(3)
+In case of default of payment of Transmission Charges and other Grid related charges, the Cross Border Customer shall
+be denied access to the Indian Grid till discharge of its dues.
+CHAPTER-6 Miscellaneous
+34.
+Dispute Settlement and Resolution mechanism.
+(1)
+The disputes in relation to the cross border trade of electricity within the Indian territory shall be settled as per the
+Page 16/17
+----- PAGE 17 -----
+Central Electricity Regulatory Commission (Cross Border Trade of Electricity) Regulations,...
+provisions of Electricity Act, 2003.
+(2)
+Disputes involving entities of separate countries may be resolved mutually by the participating entities within a period of
+60 days from the date of raising of the dispute.
+(3)
+In case the dispute remains unresolved even after sixty (60) days from the date of raising of the dispute, the same shall
+be attempted to be mutually resolved at the Government level.
+(4)
+In case the dispute still remains unresolved, it shall be settled through the International Arbitration Centre as may be
+mutually acceptable to the parties to the dispute.
+35.
+Bank details.
+- Bank Guarantees, Letter of Credit or any other payment security or payment required to be provided under these
+regulations shall be furnished by the Applicant or the Cross Border Customer in Indian Rupees from a Nationalized Bank
+of India or from a bank in the concerned neighbouring country which shall be confirmed by a Nationalized Bank of India.
+36.
+Power to Relax.
+- The Commission may by general or special order, for reasons to be recorded in writing, and after giving an opportunity
+of hearing to the parties likely to be affected, relax any of the provisions of these regulations on its own motion or on an
+application made before it by an interested person.
+37.
+Power to issue directions.
+- If any difficulty arises in giving effect to these regulations, the Commission may on its own motion or on an application
+filed by any affected party, issue such directions as may be considered necessary in furtherance of the objective and
+purpose of these regulations.
+Related AI tags, queries and research notes
+Translation
+Page 17/17

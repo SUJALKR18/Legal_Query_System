@@ -1,0 +1,373 @@
+
+----- PAGE 1 -----
+International Financial Services Centres Authority (Insurance Products and Pricing) Regula...
+International Financial Services Centres Authority (Insurance
+Products and Pricing) Regulations, 2022
+Source: https://indiankanoon.org/doc/31695424/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+International Financial Services Centres Authority (Insurance Products and Pricing) Regulations, 2022
+UNION OF INDIA
+India
+International Financial Services Centres Authority Act, 2019
+International Financial Services Centres Authority (Insurance Products and Pricing) Regulations, 2022
+Regulation IFSCA-2022-23-GN-REG029- of 2023
+Published in THE GAZETTE OF INDIA : EXTRAORDINARY 24 on 12 January 2023
+Commenced on 12 January 2023
+[This is the version of this document from 12 January 2023.]
+IFSCA/2022-23/GN/REG029, - In exercise of the powers conferred by Section 28 read with sections 3, l2 and 3 of the
+International Financial Services Centres Authority Act, 20l9, the International Financial Services Centres Authority
+hereby makes the following regulations, namely -
+Chapter I
+General
+1.
+Short title, commencement and applicability -
+(1)
+These regulations may be called the International Financial Services Centre Authority (Insurance Products and Pricing)
+Page 1/7
+----- PAGE 2 -----
+International Financial Services Centres Authority (Insurance Products and Pricing) Regula...
+Regulations, 2022.
+(2)
+These regulations shall come into force from the date of their publication in the Official Gazette.
+(3)
+These regulations shall be applicable to IOs excluding those engaged in transacting of re-insurance business.
+Explanation- Where an IO is engaged in transacting both, direct as well as re-insurance business, these regulations
+shall be applicable only in respect of direct insurance business.
+2.
+Objectives ?
+(1)
+To provide framework for designing and pricing of insurance products by the International Financial Service Centre
+Insurance Offices (ITOs).
+(2)
+To ensure that the IOs have put in place effective internal systems and control to-
+(a)
+provide adequate capacity to identify and mitigate product related risks and issues from the time of design of the product
+and throughout the life cycle of the product, including providing appropriate distribution strategies taking into account the
+target market characteristics; and
+(b)
+protect the interests of policyholders while designing and pricing of insurance products.
+3.
+Definitions ?
+(1)
+In these regulations, unless the context otherwise requires ?
+(a)
+?Act? means the International Financial Services Centres Authority Act, 209 (50 of 209);
+(b)
+?Authority? or ?IFSCA? means the International Financial Services Centres Authority established under sub-section ()
+of Section 4 of the Act;
+(c)
+?board? means the board of directors of an ITO, or the Board of the Parent Entity of an ITO, in case the ITO is in an
+unincorporated form;
+(d)
+?Digital Signature? shall have the same meaning as assigned to it in Information Technology Act, 2000 (2 of 2000);
+(e)
+?e-Insurance Account? or ?eIA? means an electronic account opened by a person with an insurance repository where
+the portfolios of insurance policies of a policyholder are held in electronic form;
+(f)
+?e-signature? or ?electronic signature? shall have the same meaning as assigned to it in Information Technology Act,
+2000 (2 of 2000);
+(2)
+?e-proposal? or ?electronic proposal? means a proposal for an insurance policy filed in electronic form by the prospect
+with his electronic signature;
+(h)
+?e-insurance policy? or ?electronic insurance policy? means an insurance policy that is digitally signed in accordance
+with the applicable provisions of law and issued in an electronic form either directly to the policyholder by the IIO or
+through the platform of registered Insurance repository;
+(i)
+?insurance policy? means a document which is an evidence of contract of insurance issued by an IIo;
+(j)
+?International Financial Services Centre Insurance Office? or ?ITO? shall have the same meaning as assigned to it
+Page 2/7
+----- PAGE 3 -----
+International Financial Services Centres Authority (Insurance Products and Pricing) Regula...
+under clause (k) of sub-regulation (|) of regulation 3 of the International Financial Services Centres Authority
+(Registration of Insurance Business) Regulations 202];
+(k)
+?intermediary or insurance intermediary? shall have the same meaning as assigned to it under clause (r) of
+sub-regulation () of regulation 3 of the International Financial Services Centres Authority (Insurance Intermediary)
+Regulations, 202;
+(l)
+?inspection? means inspection of returns or certified copies thereof submitted to the Authority;
+(m)
+?insurance product? or ?product? means any contract of insurance sold or proposed to be sold to a policy holder or
+prospect, as the case may be;
+(n)
+?return? means any information, material, data or statement, financial or otherwise mandated to be submitted by the
+regulated entities to the Authority in physical and/or electronic form in uniform periodicity, whether monthly, quarterly,
+half yearly, or annually and the disclosure of which is not barred or exempted by any law for the time being in force; but
+shall not include the information, material, data or statements called for by the Authority in exercise of its regulatory
+powers;
+(2)
+Words and expressions used and not defined in these regulations but defined in the Act or Acts mentioned in the First
+Schedule to the Act or any rules, regulations or notifications made thereunder, shall have the same meanings
+respectively assigned to them in those Acts, rules or regulations or any statutory modification or re-enactment thereto,
+as the case may be.
+Chapter II
+Product Approval Process
+4.
+An ITO shall have a board approved policy known as ?Product Oversight and Governance Policy? prepared in
+accordance with applicable regulatory framework, which shall inter-alia contain the provisions related to -
+(1)
+? methods and processes for designing of the insurance product;
+(2)
+approval, monitoring, reviewing and distribution of insurance products; and
+(3)
+corrective steps to be taken for insurance products that are detrimental to the interest of prospects or policy holders.
+Explanation: The ?Product Oversight and Governance Policy? shall govern all aspects of an Insurance Product to be
+marketed and distributed by an IIO, and as such no approval for an Insurance Product is required from the Authority,
+unless so specified.
+Provided that the IIO shall submit the final policy wording to the Authority, before marketing of an insurance product,
+other than a re-insurance product, including any modified or revised product, in such manner as may be specified by the
+Authority.
+5.
+An IIO shall design and market insurance products considering the understanding of the prospects about the product
+and ensure that products are compatible with the needs, characteristics and objectives of the prospects including
+justification of the rates, terms and conditions thereof which shall be duly certified by a qualified actuary.
+Explanation: Any designing and marketing of such insurance product by an IIO shall also be in compliance with
+provisions of sub-section (.) of section 3 of the Insurance Act, 938 read with regulation l0 of the IFSCA (Registration of
+Insurance Business) Regulations, 202.
+6.
+An IIO shall maintain the documents and records relating to the actions taken by it in relation to product approval
+process, in line with ?Product Oversight and Governance Policy.
+7.
+?While designing, marketing or distributing an insurance products, the IIO shall:
+Page 3/7
+----- PAGE 4 -----
+International Financial Services Centres Authority (Insurance Products and Pricing) Regula...
+(1)
+[28 into account the objectives, interests and needs of the prospect;
+(2)
+ensure that the terms and conditions of the product does not adversely affect the interest of prospect; and
+(3)
+ensure proper management of conflict of interest, if any, with the intermediary or insurance intermediary involved in
+distribution of the products.
+8.
+(1)
+An TIIO, before marketing or adapting an insurance product, shall test the product appropriately, including but not limited
+to, scenario analysis where relevant.
+(2)
+Such test shall also be carried out in case of significant change in the target market.
+9.
+An HO shall submit to the Authority requisite information, documents or data relating to a product, as and when sought
+by the Authority, including justification of the rates, terms and conditions of insurance product offered.
+10.
+If the Authority is of the view that the product is not in conformity with the requirements under these regulations, and/or
+not in the interest of prospects or policy holders, it may take appropriate action, including suspension, mandating
+modification or withdrawal of the product.
+11.
+Upon receipt of direction of the Authority referred to in regulation !0, the TIO shall forthwith stop marketing and
+distributing such product either in the same name or under any other name.
+Chapter III
+PRODUCT MANAGEMENT
+12.
+Insurance Product title and Unique Identification Number:
+(1)
+AnTIO shall ensure that the insurance product carries the IIO?s name and product?s name in all pages of all the
+documents. It is also necessary that separate documents must carry page numbers as that of the total number of pages
+of each document (i.e. | of 30, 2 of 30 and so on if, for example, the total pages in the documents are 30).
+(2)
+An TIO shall not market any insurance product without allotting a Unique Identification Number (UIN);
+Provided that in case of modification or revision of an existing insurance product, a separate UIN shall be allotted,
+clearly indicating that the insurance product being marketed is revised version of an earlier insurance product.
+(3)
+An IIO shall device its own methodology / algorithm for issuance of UIN and submit the same to the Authority.
+Provided that IOs are not permitted to change the methodology / algorithm for issuance of UIN;
+Provided further that the existing Os shall develop methodology / algorithm for issuance of UIN and submit the same to
+the Authority, within one month from the notification of these regulations.
+13.
+Product Withdrawal:-
+(1)
+AnTIO shall inform the Authority it?s decision to withdraw an insurance product at least 3 months prior to the scheduled
+date of withdrawal.
+(2)
+Incase an IIO transacting general insurance business decides to withdraw an insurance product, it shall inform the
+existing policy holders at least 3 months prior to the expiry date of such policy,
+Provided that the policies in force shall be valid till their respective expiry dates.
+14.
+Cancellation or Surrender of Policies:
+Page 4/7
+----- PAGE 5 -----
+International Financial Services Centres Authority (Insurance Products and Pricing) Regula...
+(1)
+? The policyholder of life insurance policy or general insurance policy may surrender or cancel the policy, as the case
+may be, at any time by giving prior notice to IO as required under the policy, which shall be processed as per terms and
+conditions of such policy;
+(2)
+? Every life and health insurance policy shall provide free look cancellation option to the policy holder along with the
+timelines for exercising such option and provisions for refund of premium;
+(3)
+Every general insurance policy shall contain the cancellation clause and grounds leading to cancellation of an insurance
+policy along with the timelines for cancellation;
+(4)
+The TIO may cancel the insurance policy mid-term only on the grounds of fraud, misrepresentation or moral hazard
+15.
+Grievance Management: [Every insurance policy shall necessarily specify the grievance management procedures of an
+ITO, which shall be in accordance with the principles as specified by the Authority.
+Chapter IV
+POLICY SERVICING
+16.
+Issuance of e-Insurance Policies ?
+(1)
+Proposal form ?
+(a)
+An IIO shall create and maintain proposal forms either in physical or in electronic mode, which shall be in accordance
+with its ?Product Oversight and Governance Policy?;
+(b)
+The proposal form shall also have a provision to capture the electronic Insurance Account (eIA) number, if available;
+(c)
+Where the information about the prospect is captured in physical form, the IO shall make necessary arrangements to
+convert the information furnished by prospects into electronic form;
+(d)
+Where the policy is proposed to be issued in electronic form and the prospect is willing to get the policy through the
+Insurance Repository System, the IIO shall facilitate creation of eIA for the prospect.
+(2)
+Issuance of Electronic Insurance Policies -
+(a)
+An ITO, shall issue electronic insurance policy where the sum assured is more than USD 00 and/or premium is more
+than USD 0, whichever is lower;
+(b)
+An IIO shall issue the electronic insurance policy to the policyholders directly or through the registered insurance
+repositories;
+Provided that the IIO shall provide physical copy of the policy and proposal form if so requested by the policy holder;
+(c)
+The proposal form etc. may also be sent in electronic form to the insured along-with electronic insurance policies;
+(d)
+The Authority may specify operational framework for issuance of electronic insurance policies.
+17.
+Fee for issuing acknowledgement of Notice of Transfer or Assignment of insurance policy:
+An IO shall collect fee not more than USD 5 (USD Five only) for granting acknowledgement of notice of transfer or
+assignment of the insurance policies issued by it (including e-insurance policies).
+Explanation: An MIO shall not collect any other fee for rendering any other services referred to in section 38 of the
+Insurance Act, 938, including recording the fact of the transfer or assignment.
+Page 5/7
+----- PAGE 6 -----
+International Financial Services Centres Authority (Insurance Products and Pricing) Regula...
+18.
+Fee for Registration, Cancellation or Change of Nomination:
+An IIO registered to transact life insurance business shall collect fee of not more than USD 5 (USD Five only) for
+registering, cancellation or change of the nomination by the holder of a policy of life insurance (including e-insurance
+policies), on his own life.
+Explanation:
+(1)
+An IIO shall not collect any other fee, towards any other services relating to nomination contained in section 39 of the
+Insurance Act, 938;
+(2)
+The nomination effected by the policy holder at the inception of the policy through the proposal form and recorded by the
+IIO in the schedule of a policy document shall be considered as a valid acknowledgement by the IIO.
+Chapter V
+MISCELLANEOUS
+19.
+Fee for inspection and supply of copies of returns:
+(1)
+Inspection and supply of copy of return -
+(a)
+Any person seeking inspection or copy of any return related to an IO under sub-section (I) of section 20 of the Insurance
+Act, |938, shall make an application to the Authority;
+(b)
+The Authority may charge fee of not more than USD 5 (USD Five only) for inspection or supply of copy of any return;
+(c)
+The Authority shall indicate a date of inspection by the applicant or shall furnish a copy of the return, as the case may
+be, within thirty (30) working days from the date of receipt of the fee.
+(2)
+Supply of a copy of Memorandum and Articles of Association by the HO -
+(a)
+Any policyholder seeking a copy of Memorandum and Articles of Association or similar documents of an IIO under
+sub-section (3) of section 20 of the Insurance Act, 938, shall make an application to the ITO;
+(b)
+The IO may charge fee of not more than USD 5 (USD Five only) for providing copy of each such document and shall
+furnish the same within thirty (30) working days from the date of receipt of the applicable fee.
+(3)
+The fee referred to in sub-regulation (l) and (2), shall be remitted through electronic mode to the bank account, details of
+which shall be provided by the Authority or the IIO, as the case may be. The said fee shall be paid in net, excluding any
+bank charges or transaction fee
+20.
+Referral arrangements: An 0 shall comply with regulatory framework on referral arrangements between the IIO and the
+referral entity, as may be specified by the Authority.
+21.
+Reporting requirements: An IIO shall furnish information related to its products to the Authority, in such manner, interval
+and in such format, as may be specified by the Authority.
+22.
+Power to specify procedures etc.: For the purpose of implementation, facilitation and regulation of insurance products
+and matters incidental thereto, the Authority may specify norms, procedures, processes and manners for compliance by
+IIOs.
+23.
+Power to remove difficulties and relax strict enforcement of the regulations:
+(1)
+Page 6/7
+----- PAGE 7 -----
+International Financial Services Centres Authority (Insurance Products and Pricing) Regula...
+In order to remove any difficulty in the application or interpretations of the provisions of these regulations, the Authority
+may issue clarifications through guidance notes or circulars.
+(2)
+On an application, received along with the specified non-refundable processing fees, the Authority, may for the reasons
+to be recorded in writing, relax the strict enforcement of any of the provisions of these regulations.
+24.
+Repeals and saving:
+(1)
+On and from the commencement of these regulations, following regulations and guidelines cease to apply in the
+International Financial Services Centre -
+(a)
+the Insurance Regulatory and Development Authority (Sharing of Database for Distribution of Insurance Products)
+Regulations, 200;
+(b)
+the Insurance Regulatory and Development Authority of India (Fee for Registering Cancellation or Change of
+Nomination) Regulations, 205;
+(c)
+the Insurance Regulatory and Development Authority of India (Fee for granting written acknowledgement of the receipt
+of Notice of Assignment or Transfer) Regulations, 205;
+(d)
+the Insurance Regulatory and Development Authority of India (Inspection and Fee for Supply of Copies of Returns)
+Regulations, 206;
+(e)
+the Insurance Regulatory and Development Authority of India (Issuance of e-Insurance Polices) Regulations, 206;
+(f)
+the Insurance Regulatory and Development Authority of India (Health Insurance) Regulations, 206;
+(g)
+the Insurance Regulatory and Development Authority of India (Non-Linked Insurance Products) Regulations, 209;
+(h)
+the Insurance Regulatory and Development Authority of India (Unit Linked Insurance Products) Regulations, 20/9,) and
+(i)
+the Insurance Regulatory and Development Authority guidelines bearing reference no. IRDAI/NL/GDL/F&U/030/02/20I6
+dated 8" February 206 on Product Filing Procedures for General Insurance Products.
+(j)
+the Insurance Regulatory and Development Authority guidelines bearing reference no. IRDA/HLT/REG/CIR/50/07/206
+dated 297 July 206 on Product Filing in Health Insurance Business.
+(2)
+On and from the commencement of these regulations, Clause 4 of Chapter ? 6 of International Financial Services
+Centres Authority (Operations of International Financial Services Centres Insurance Offices) Guidelines, 202, shall stand
+omitted.
+(3)
+Unless otherwise provided for in these regulations, nothing in these regulations shall be deemed to invalidate contracts
+of insurance entered prior to these regulations coming into force.
+(4)
+IOs operating in an International Financial Services Centre prior to the commencement of these regulations, shall
+comply with the additional requirements specified in these regulations, within a period of one month from the
+commencement of these regulations or within such extended period as may be specified by the Authority
+Related AI tags, queries and research notes
+Translation
+Page 7/7

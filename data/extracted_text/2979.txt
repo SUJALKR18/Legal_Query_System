@@ -1,0 +1,189 @@
+
+----- PAGE 1 -----
+The Aadhaar (Sharing of Information) Regulations, 2016
+The Aadhaar (Sharing of Information) Regulations, 2016
+Source: https://indiankanoon.org/doc/79477206/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Aadhaar (Sharing of Information) Regulations, 2016
+UNION OF INDIA
+India
+The Aadhaar (Sharing of Information) Regulations, 2016
+Act 5 of 2016
+Published on 12 September 2016
+Commenced on 12 September 2016
+[This is the version of this document from 12 September 2016.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Aadhaar (Sharing of Information) Regulations, 2016
+(Regulations No. 5 of 2016)
+[Dated 12th September, 2016]
+No. 13012/64/2016/Legal/UIDAI (No. 5 of 2016). - In exercise of the powers conferred by sub-section (1), and
+sub-clause (o) of sub-section (2), of Section 54 read with sub-clause (k) of sub-section (2) of Section 23, and
+sub-sections (2) and (4) of Section 29, of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and
+Services) Act,2016,the Unique Identification Authority of India hereby makes the following regulations, namely:-
+Chapter I
+Preliminary
+1.
+Short title and commencement.
+Page 1/4
+----- PAGE 2 -----
+The Aadhaar (Sharing of Information) Regulations, 2016
+(1)
+These regulationsmay be called the Aadhaar (Sharing of Information) Regulations, 2016.
+(2)
+These regulations shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires,-
+(a)
+"Act" means the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016;
+(b)
+"Aadhaar Letter" means a document for conveying the Aadhaar number to a resident;
+(c)
+"Aadhaar number holder" means an individual who has been issued anAadhaar number under the Act;
+(d)
+"Authority" means the Unique Identification Authority of India established under sub-section (1) of section 11;
+(e)
+"requesting entity" means an agency or person that submits the Aadhaar number, and demographic information or
+biometric information, of an individual to the Central Identities Data Repository for authentication.
+(2)
+All other words and expressions used in these regulations but not defined, and defined in the Act and the rules and other
+regulations made there under, shall have the meanings respectively assigned to them in the Act or the rules or other
+regulations, as the case may be.
+Chapter II
+Restrictions on Sharing of Identity Information
+3.
+Sharing of information by the Authority.
+(1)
+Core biometric information collected by the Authority under the Act shall not be shared with anyone for any reason
+whatsoever.
+(2)
+The demographic information and photograph of an individual collected by the Authority under the Act may be shared by
+the Authority with a requesting entity in response to an authentication request for e-KYC data pertaining to such
+individual, upon the requesting entity obtaining consent from the Aadhaar number holder for the authentication process,
+in accordance with the provisions of the Act and the Aadhaar (Authentication) Regulations, 2016.
+(3)
+The Authority shall share authentication records of the Aadhaar number holder with him in accordance with regulation
+28 of the Aadhaar (Authentication) Regulations, 2016.
+(4)
+The Authority may share demographic information and photograph, and the authentication records of an Aadhaar
+number holder when required to do so in accordance with Section 33 of the Act.
+4.
+Sharing of information by a requesting entity.
+(1)
+Core biometric information collected or captured by a requesting entity from the Aadhaar number holder at the time of
+authentication shall not be stored except for buffered authentication as specified in the Aadhaar (Authentication)
+Regulations, 2016, and shall not be shared with anyone for any reason whatsoever.
+(2)
+The identity information available with a requesting entity:
+(a)
+shall not be used by the requesting entity for any purpose other than that specified to the Aadhaar number holder at the
+Page 2/4
+----- PAGE 3 -----
+The Aadhaar (Sharing of Information) Regulations, 2016
+time of submitting identity information for authentication; and
+(b)
+shall not be disclosed further without the prior consent of the Aadhaar number holder.
+(3)
+A requesting entity may share the authentication logs of an Aadhaar number holder with the concerned Aadhaar number
+holder upon his request or for grievance redressal and resolution of disputes or with the Authority for audit purposes, as
+specified in regulation 18 of the Aadhaar (Authentication) Regulations, 2016.
+5.
+Responsibility of any agency or entity other than requesting entity with respect to Aadhaar number.
+(1)
+Any individual, agency or entity which collects Aadhaar number or any document containing the Aadhaar number, shall:
+(a)
+collect, store and use the Aadhaar number for a lawful purpose;
+(b)
+inform the Aadhaar number holder the following details:-
+i. the purpose for which the information is collected;
+ii. whether submission of Aadhaar number or proof of Aadhaar for such purpose is mandatory or voluntary, and if
+mandatory, the legal provision mandating it;
+iii. alternatives to submission of Aadhaar number or the document containing Aadhaar number, if any;
+(c)
+obtain consent of the Aadhaar number holder to the collection, storage and use of his Aadhaar number for the specified
+purposes.
+(2)
+Such individual, agency or entity shall not use the Aadhaar number for any purpose other than those specified to the
+Aadhaar number holder at the time of obtaining his consent.
+(3)
+Such individual, agency or entity shall not share the Aadhaar number with any person without the consent of the
+Aadhaar number holder.
+6.
+Restrictions on sharing, circulating or publishing of Aadhaar number.
+(1)
+The Aadhaar number of an individual shall not be published, displayed or posted publicly by any person or entity or
+agency.
+(2)
+Any individual, entity or agency, which is in possession of Aadhaar number(s) of Aadhaar number holders, shall ensure
+security and confidentiality of the Aadhaar numbers and of any record or database containing the Aadhaar numbers.
+(3)
+Without prejudice to sub-regulations (1) and (2), no entity, including a requesting entity, which is in possession of the
+Aadhaar number of an Aadhaar number holder, shall make public any database or record containing the Aadhaar
+numbers of individuals, unless the Aadhaar numbers have been redacted or blacked out through appropriate means,
+both in print and electronic form.
+(4)
+No entity, including a requesting entity, shall require an individual to transmit his Aadhaar number over the Internet
+unless such transmission is secure and the Aadhaar number is transmitted in encrypted form except where transmission
+is required for correction of errors or redressal of grievances.
+(5)
+No entity, including a requesting entity, shall retain Aadhaar numbers or any document or database containing Aadhaar
+numbers for longer than is necessary for the purpose specified to the Aadhaar number holder at the time of obtaining
+consent.
+7.
+Liability for contravention of the regulations.
+Page 3/4
+----- PAGE 4 -----
+The Aadhaar (Sharing of Information) Regulations, 2016
+- Without prejudice to any action that may be taken under the Act, any contravention of regulations 3, 4, 5 and 6 of these
+regulations shall constitute a violation of sub-section (2) of Section 29 of the Act.
+8.
+Redressal of grievances of Aadhaar number holders.
+- In the event the identity information of an Aadhaar number holder has been shared or published in a manner contrary
+to the provisions of the Act or regulations, the Aadhaar number holder may raise queries and grievances in accordance
+with the regulation 32 of the Aadhaar (Enrolment and Update) Regulations, 2016.
+Chapter III
+Miscellaneous
+9.
+Information dissemination about sharing of Aadhaar numbers.
+- The Authority may take necessary measures to educate Aadhaar number holders about the uses of Aadhaar numbers
+and implications associated with its sharing.
+10.
+Savings.
+- All procedures, orders, processes, standards and policies issued and MOUs, agreements or contracts entered by the
+Unique Identification Authority of India, established vide notification of the Government of India in the Planning
+Commission number A-43011/02/2009-Admin. I, dated the 28th January, 2009 or any officer of such authority, prior to
+the establishment of the Authority under the Act shall continue to be in force to the extent that they are not inconsistent
+with the provisions of the Act and regulations framed thereunder.
+11.
+Power to issue clarifications and guidelines.
+- In order to remove any difficulties or clarify any matter pertaining to application or interpretation of these regulations,
+the Authority may issue clarifications and guidelines in the form of circulars.
+Related AI tags, queries and research notes
+Translation
+Page 4/4

@@ -1,0 +1,902 @@
+
+----- PAGE 1 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+Source: https://indiankanoon.org/doc/50250853/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+UNION OF INDIA
+India
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+Rule THE-AIRCRAFT-INVESTIGATION-OF-ACCIDENTS-AND-INCIDENTS-RULES-2012 of 2012
+Published on 5 July 2012
+Commenced on 5 July 2012
+[This is the version of this document from 5 July 2012.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+Published vide Notification No. G.S.R. 536(E), dated 5th July 2012
+G.S.R. 536(E). - Whereas the draft of Aircraft (Investigation of Accidents and Incidents) Rules, 2012 was published as
+required by section 14 of the Aircraft Act, 1934 (22 of 1934), vide notification of the Government of India in the Ministry
+of Civil Aviation published in the Gazette of India Extraordinary, Part II, Section 3, Sub-section (1), vide number G.S.R
+244(E), dated the 23rd March, 2012, for inviting objections and suggestions from all persons likely to be affected thereby
+before the expiry of the period of thirty days from the date on which copies of the Gazette of India in which the said
+notification was published, were made available to public;
+And whereas copies of the said notification were, made available to the public all the 23rd March, 2012;
+And whereas the objections or suggestions received in respect of the draft rules within the period specified have been
+taken into consideration;
+Page 1/17
+----- PAGE 2 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+Now, therefore, in exercise of the powers conferred by sections 4,7 and 10 of the said Act, the Central Government
+hereby makes the following rules, namely :-
+1.
+Short title, extent and commencement.
+(1)
+These rules may be called the Aircraft (Investigation of Accidents and Incidents) Rules, 2012.
+(2)
+These rules extend to the whole of India and applies also -
+(a)
+to citizens of India wherever they may be;
+(b)
+to and to the persons on, aircraft registered in India wherever they may be;
+(c)
+to and to the persons on, aircraft registered outside India but for the time being in or over India; and
+(d)
+to an aircraft operated by a person who is not a citizen of India but has his principal place of business or permanent
+reside lice in India.
+(3)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions and interpretations.
+- In these rules, unless there is any thing repugnant in the subject or context -
+(a)
+"accident" shall mean an occurrence associated with the operation of all aircraft which,-
+(i)
+in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight
+until such time as all such persons have disembarked; or
+(ii)
+in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight
+until such time as it comes to rest at the end of the flight and the primary propulsion system is shut down, in which -
+(a)
+a person is fatally or seriously injured as a result of-
+(i)
+being in the aircraft, or
+(ii)
+direct contact with any part of the aircraft, including parts which have become detached from the aircraft, or
+(iii)
+direct exposure to jet blast,
+except when the injuries are from natural causes, self inflicted or inflicted by other persons, or when the injuries are to
+stowaways hiding outside the areas normally available to the passengers and crew; or
+(b)
+the aircraft sustains damage or structural failure which -
+(i)
+adversely affects the structural strength, performance or flight characteristics of the aircraft, and
+(ii)
+would normally require major repair or replacement of the affected component,
+except for failure of engine or damage, when the damage is limited to a single engine, (including its cowlings or
+accessories), to propellers, wing tips, antennas, probes, vanes, tires, brakes, wheels, fairings, panels, landing gear
+doors, windscreens, the aircraft skin (such as small dents or puncture holes), or for minor damages to main rotor blades,
+tail rotor blades, landing gear, and those resulting from hail or bird strike (including holes in the radome); or
+(c)
+Page 2/17
+----- PAGE 3 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+the aircraft is missing or is completely inaccessible.
+Note 1. - For the purposes of this clause, the guidance for the determination of aircraft damage is at Scheduled B.
+Note 2. - For the purposes of this clause, only unmanned aircraft which have design of operational approval given by a
+State to be considered.
+(b)
+"accredited representative" means a person designated by a State, on the basis of his or her qualifications, for the
+purpose of participating in an investigation conducted by another State and where the State has established an accident
+investigation authority the designated accredited representative would normally be from that authority;
+(c)
+"Act" means the Aircraft Act, 1934 (22 of 1934);
+(d)
+"adviser" means a person appointed by a State, on the basis of his or her qualifications, for the purpose of assisting its
+accredited representative in an investigation;
+(e)
+"aircraft" means any made line that can derive support in the atmosphere from the reactions of the air other than the
+reactions of the air against the surface of the earth;
+(f)
+"Aircraft Accident Investigation" means a person appointed by the Central Government to investigation an accident or a
+serious incident or an incident either by Committee of Inquiry under rule 11, or Formal Investigation under rule 12, or
+authorised by Bureau to conduct preliminary investigation under sub-rule (1) of rule 9 or sub-rule (2) of rule 7;
+(g)
+"Annex 13" means Annex 13 to the Convention relating to International Civil Aviation signed at Chicago on the 7th day
+of December, 1944 as amended from time to time;
+(h)
+"Bureau" means Aircraft Accident Investigation Bureau set up by the Central Government under rule 9;
+(i)
+"causes" means actions, omissions, events, conditions, or a combination thereof, which led to the accident or incident
+but does not amount to assigning fault or determination of administrative, civil or criminal lability;
+(j)
+"Chicago Convention" means Convention relating to International Civil Aviation signed at Chicago on the 7th day of
+December, 1944 as amended from time to time;
+(ja)
+[ "contributing factors" mean actions, omissions, events, conditions, or a combination thereof, which if eliminated,
+avoided or absent, would have reduced the probability of the accident or incident occurring, or mitigate the severity of
+the consequences of the accident or incident and the identification of the contributing factors does not imply the
+assignment of fault or determination of administrative, civil or criminal liability.]
+[Inserted by Notification No. G.S.R. 808(E), dated 23.10.2012 (w.e.f. 5.7.2012).]
+(k)
+"Director-General" means Director General of Civil Aviation;
+(l)
+"fatal injury" means an injury which is sustained by a person in an accident and which results in his or her death within
+30 days of the date of the accident;
+(m)
+"Final Report" means the report made public by the Central Government under sub-rule (2) of rule 14.
+(n)
+"flight recorder" means any tyPe of recorder installed in the aircraft for the purpose of assisting accident or incident
+investigation;
+(o)
+"ICAO" means International Civil Aviation Organisation crated under the Convention relating to International Civil
+Aviation signed at Chicago on the 7th day of December, 1944;
+(p)
+Page 3/17
+----- PAGE 4 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+"incident" means an occurrence, other than an accident, associated with the operation of an aircraft which affects or
+could affect the safety of operation;
+(q)
+"Inquiry Officer" means a person appointed by the Director-General under rule 13 to investigate a serious incident or an
+incident.
+(r)
+"investigation" means a process conducted for the purpose of prevention of accident which includes the gathering and
+analysis of information, the drawing of conclusion, including the determination of causes, contributing factors and, when
+appropriate, the making of safety recommendation;
+(s)
+"maximum mass" means maximum certificated take-off mass;
+(t)
+"missing aircraft" means when the official search has been terminated and the wreckage of the aircraft has not been
+located;
+(u)
+"operator" means a person, organization or enterprise engaged in or offering to engage in operation of an aircraft;
+(v)
+"preliminary report" means the communication used for the prompt dissemination of data obtained during the early
+stages of the investigation;
+(w)
+"safety recommendation" means-
+(i)
+a proposal of an accident investigation authority based on information derived from an investigation, made with the
+intention of preventing accidents or incidents and which in no case has the purpose of creating a presumption of blame
+or liability for an accident or incident;
+(ii)
+recommendations resulting from diverse sources and safety studies,
+(x)
+"Schedule" means a Schedule to these rules;
+(y)
+"serious incident" mean an incident involving circumstances indicating that there was a high probability of an accident
+and associated with the operation of an aircraft which,-
+(i)
+in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight
+until such time as all such persons have disembarked, or
+(ii)
+in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight
+until such time as it comes to rest at the end of the flight and the primary propulsion system is "hut down;
+Note. - The examples of serious incident are as specified in Schedule A.
+(z)
+"serious injury" means an injury which is sustained by a person in an accident and which-
+(i)
+requires hospitalisation for more than 48 hours, commencing within seven days from the date the injury was received; or
+(ii)
+results in a fracture of any bone (except simple fractures of fingers, toes or nose); or
+(iii)
+involves lacerations which cause severe hemorrhage, nerve, muscle or tendon damage; or
+(iv)
+involves injury to any internal organ; or
+(v)
+involves second or third degree burns, or any burns affecting more than 5 per cent of the body surface; or
+Page 4/17
+----- PAGE 5 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+(vi)
+involves verified exposure to infectious substances or injurious
+(za)
+"State of Design" means the State having jurisdiction over the organization responsible for the type design of the aircraft;
+(zb)
+"State of Manufacture" means the State having jurisdiction over the organisation responsible for the final assembly of the
+aircraft;
+(zc)
+"State of Occurrence" means the State in the territory of which an accident or incident occurs;
+(zd)
+"State of the Operator" means the State in which the principal place of business of the operator is located or, if there is
+no such place of business, the permanent residence of the operator;
+(ze)
+"State of Registry" means the State on whose register the aircraft is entered.
+(zf)
+[ "State Safety Programme" means an integrated set of regulations and activities aimed at improving safety;]
+[Inserted by Notification No. G.S.R. 808(E), dated 23.10.2012 (w.e.f. 5.7.2012).]
+Explanation. - In the case of the registration of aircraft of an international operating agency other than on a national
+basis the States constituting the agency shall jointly and severally discharge the obligations which attach to a State of
+Registry under Annex 13.
+3.
+Objective of the investigation of accidents and incidents.
+(1)
+The sole objective of the investigation of an accident or incident shall be the prevention of accidents and incidents and
+not to apportion blame or liability.
+(2)
+Any investigation conducted in accordance with the provisions of these rules shall be separate from any judicial or
+administrative proceedings to apportion blame or liability.
+4.
+Notification.
+(1)
+Where an accident or an incident occurs to an aircraft covered under sub-rule (2) of rule 1, then the pilot-in command of
+the aircraft or, if he be killed or incapacitated, the owner, the operator, the hirer or other person on Whose behalf he was
+in command of the aircraft, or any relevant person, as the case may be, shall, as soon as is reasonably practicable but
+in any case not later than 24 hours alter he becomes aware of the accident or the incident:-
+(a)
+send notice thereof to the Aircraft Accident Investigation Bureau and Director-General of Civil Aviation by the quickest
+means of communication available; and
+(b)
+in the case of an accident occurring in India, give information to the District Magistrate and the Officer-in charge of the
+nearest Police Station of the accident and of the place where it occurred.
+(2)
+The notification shall be in plain language and contain as much of the following information as is readily available,
+namely :-
+(a)
+for accidents the identifying abbreviation ACCID, for incidents INCID;
+(b)
+manufacturer, model, nationality and registration marks, and serial number of the aircraft;
+(c)
+name of owner, operator and hirer, if any, of the aircraft;
+(d)
+Page 5/17
+----- PAGE 6 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+qualification of the pilot-in-command and nationality of crew and passengers;
+(e)
+date and time the accident or incident;
+(f)
+last paint of departure and point of intended landing of the aircraft;
+(g)
+position of the aircraft with reference to some easily defined geographical point and latitude and longitude;
+(h)
+number of crew and passengers; aboard, killed and seriously injured; others, killed and seriously injured;
+(i)
+description of the accident or incident and the extent of damage to the aircraft so far as is known;
+(j)
+physical characteristics of the accident or incident area, as well as an indication of access difficulties or special
+requirements to reach the site, and
+(k)
+presence and description of dangerous goods on board the aircraft, but notification shall not be delayed due to the lack
+of complete information.
+(3)
+If the details or, other known relevant information referred in sub-rule (2) are omitted, such information shall also be
+dispatched as soon as it is possible.
+(4)
+The notification as required in sub-rule (2) shall also be submitted to the Bureau by the concerned -
+(a)
+aerodrome operator;
+(b)
+officer-in-charge of air traffic control unit and the watch supervisory officer of air traffic control, and
+(c)
+regional or the sub-regional officers of the Directorate General of Civil Aviation.
+(5)
+The Bureau under the intimation to the Central Government shall notify the facts of the accident or serious Incident in
+the Indian territory or in the assigned oceanic all space beyond the territory of India, containing as much of the
+information referred to in sub-rule (2) as may be available with a minimum of delay and by the most suitable an quickest
+means available, to -
+(a)
+the State of Registry;
+(b)
+the State of Operator;
+(c)
+the State of Design;
+(d)
+the State of Manufacture; and
+(e)
+ICAO when the aircraft involved is of a maximum mass of over 2,250 kg or is a turbojet powered aeroplane.
+(6)
+The Bureau while notifying information in accordance with sub-rule (5) shall also add the following information, namely -
+(a)
+an indication to what extent the investigation will be conducted by the Cental Government or is proposed to be
+delegated by the Cental Government to another State, namely -
+(b)
+identification of the originating authority and means to contact the investigator-in-charge and the accident investigation
+authority of India at any time.
+Page 6/17
+----- PAGE 7 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+(7)
+If the State of Occurrence is not aware of a serious incident to an Indian registered aircraft or an aircraft operated by
+Indian operator, the Bureau shall forward a notification of such an incident to the State of Design, the State of
+Manufacturer and the State of Occurrence.
+5.
+Obligation to investigate.
+(1)
+In case of accident or an incident to an aircraft in the territory of India notwithstanding its registration :-
+(a)
+the Central Government shall institute an investigation into the circumstances of the accident and shall be responsible
+for conducting the investigation;
+(b)
+The Central Government shall instituted an investigation into the circumstances of the serious incident when the aircraft
+involved is of a maximum mass of over 2250 kg or is a turbo-jet air-plane;
+(c)
+the Director-General shall institute an investigation into the circumstances of all incidents and serious incidents to
+aircraft not covered by clause(b).
+(2)
+Not with standing anything contained in clause (c) of sub-rule (1), where it appears to the Central Government that it is
+expedient to hold an investigation into circumstances of any incident or a serious incident covered by clause (c) of
+sub-rule (1), it may, by order institute an investigation into circumstances of an incident or a serious incident to any
+aircraft.
+(3)
+Classification by the Central Government of an occurrence as accident or serious incident or incident shall be final and
+binding.
+(4)
+In case an accident or a serious incident to an Indian registered aircraft occurs at a location not being a territory of any
+state then the Central Government shall institute an investigation into the circumstances of the accident or serious
+incident and shall be responsible for conducting the investigation.
+(5)
+In case India is the nearest State to the scene of an accident in international waters to an aircraft not registered in India
+or not operated by an Indian operator, then the Central Government shall advise the State of Registry to institute an
+investigation and the Central Government in such a case shall provide assistance to the extent it is able to and shall,
+likewise, respond to requests by the State of Registry.
+6.
+Participation.
+(1)
+In case the Central Government has instituted an investigation of an accident or a serious incident in accordance with
+rule 5, then accredited representatives, who are appointed by the following State, namely :-
+(a)
+the State of Registry;
+(b)
+the State of the Operator;
+(c)
+the State of Design; and
+(d)
+the State of Manufacture;
+shall be permitted to participate in the investigation
+(2)
+The States referred to in sub-rule (1) shall also be entitled to appoint one or more advisers to assist their accredited
+representatives.
+Page 7/17
+----- PAGE 8 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+(3)
+The States referred to in sub-rule (1) shall have the rights and entitlements in accordance with the standard stipulated
+under Annex 13.
+(4)
+A State which has a special interest in an accident by virtue of fatalities or serious injuries to its citizens shall be entitled
+to appoint an expert who shall have rights and entitlements in accordance with standards stipulated under Annex 13.
+(5)
+The Cental Government, on receipt of a notification of an accident or a serious incident to an Indian registered aircraft in
+the territory of another State, may appoint accredited representative and advisors to participate in the investigation and
+intimate it to the State of Occurrence.
+7.
+Protection of evidence, custody, removal and preservation of damaged aircraft.
+(1)
+in the case of an accident or a serious incident, which is required to be notification under rule 4, the aircraft shall not,
+except by a person under the authority of the Bureau, be removed or otherwise interfered with.
+Provided that -
+(a)
+the aircraft or any parts or contents thereof may be removed or interfered with so far as may be necessary by persons
+authorised to conduct search and rescue operations for the purpose of extricating persons or animals dead or alive, or
+preventing the destruction of the aircraft and its contents by fire or other cause or of preventing any damage or
+obstruction to the public or to air navigation or to other transport;
+(b)
+if the aircraft is wrecked on water, the aircraft or any parts or contents there of may be removed to such extent as may
+be necessary for bringing it or them to a place of safety by persons authorised to conduct search and rescue operations.
+(c)
+goods may be removed from the aircraft under the supervision and with the concurrence of an officer of the Bureau or a
+person authorised by the Bureau;
+(d)
+personal luggage of passengers' and crews' may be removed from the aircraft under the supervision of a Police Officer,
+a Magistrate, an Officer of the Bureau or a person authorised by the Bureau; and
+(e)
+malls may be removed under the supervision of a Police Officer, a Magistrate, an Bureau a person authorised by the
+Bureau.
+(2)
+The Bureau may, for the purposes of any investigation including preliminary investigation under these rules, authorise
+any person or persons to take measures.
+(a)
+to protect the evidence and shall include the preservation, by photographic or other means, of any evidence which might
+be removed, effaced, lost or destroyed;
+(b)
+to maintain safe custody of the aircraft and its contents and shall include protection against further damage, access by
+unatuhtorized persons, pilfering and deterioration;and
+(c)
+for preservation of the aircraft for such a period as may be necessary for the purposes of an investigation.
+(3)
+The person or person authorised by the Bureau under sub-rule (2) may thereupon have access to examine or otherwise
+deal with the aircraft.
+(4)
+The owner of the aircraft or his nominated representative shall have the right to be present during any examination or
+other action taken under sub-rules (1) and (2):
+Provided that the Bureau shall not be bound to postpone any action which it may consider necessary under this rule by
+Page 8/17
+----- PAGE 9 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+reason of the absence of the owner or his representative.
+(5)
+If a request is received from the State of Registry, the State of the Operator, the State of Design or the State of
+Manufacture that the aircraft, its contents, and any other evidence remain undisturbed pending inspection by an
+accredited representative of the requesting State, the Bureau shall take all necessary steps to comply with such request,
+so far as this is reasonably practicable and compatible with the proper conduct of the investigation subject to the
+provisions of sub-rule(1).
+(6)
+Subject to the provisions of sub-rules (1), (2) and (3), the Bureau shall release custody of the aircraft, its contents or any
+parts thereof as soon as they are no longer required for investigation, to any person or person duly designated by the
+State of Registry or the State of the Operator, as the case may be.
+(7)
+For the purpose of sub-rule (6), the Central Government shall facilitate access to the aircraft, its contents or any parts
+thereof:
+Provided that, if the aircraft, its contents, or any parts thereof lie in an area within which the Central Government finds it
+impracticable to grant such access, it shall itself effect removal to a point where access can be given.
+8.
+Aircraft Accident Investigation Bureau.
+(1)
+For the purpose of carrying out investigation into accidents, serious incidents and incidents referred to in sub-rules (1),
+(2) and (4) of rule 5, the Central Government shall set up a Bureau in the Ministry of Civil Aviation known as the Aircraft
+Accident Investigation Bureau of India and appoint other persons, as it deems fit from time to time.
+(2)
+The Aircraft Accident Investigation Bureau shall function under overall supervision and control of Government of India,
+Ministry of Civil Aviation.
+(3)
+The Aircraft Accident Investigation Bureau shall discharge the following functions, namely :-
+(a)
+obtaining preliminary report under rule 9 from any person or persons authorised either under sub-rule (1) of rule 9 or
+under sub-rule (2) of rule 7;
+(b)
+assisting the Central Government in setting up of Committee of Inquiry and formal investigation under these rules;
+(c)
+to facilitate the investigation and administrative work of the Committees and Courts, whenever necessary.
+(d)
+processing of the reports of Courts and Committees of Inquiry received by the Central Government, which includes -
+(i)
+forwarding of the reports to the States for consultation under sub-rule (1) of rule 14;
+(ii)
+forwarding the report made public by the Central Government under sub-rule (2) of rule 14 to the States as required
+under Annex 13;
+(iii)
+forwarding the report made public by the Central Government under sub-rule (2) of rule 14 to ICAO if the mass of the
+aircraft involved in accident or incident is more than 5,700kg;
+(e)
+follow-up the recommendations made by Courts and Committees of inquiry and to ensure that are implemented by the
+concerned agencies;
+(f)
+to process cases for a resolution by the Central Government of disputes between the Bureau and any agency regarding
+implementation of a recommendation;
+(g)
+Page 9/17
+----- PAGE 10 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+to formulate safety recommendation on the basis of safety studies, including induction of new technology to enhance
+safety, conducted from time to time.
+(h)
+[ establish and maintain an accident and serious incident database to facilitate the Director-General of Civil Aviation in
+effective analysis of information on actual or potential safety deficiencies.]
+[Substituted by Notification No. G.S.R. 808(E), dated 23.10.2012 (w.e.f. 5.7.2012).]
+(i)
+to process obligations of the Central Government under Annex 13 to the Convention relating to International Civil
+Aviation signed at Chicago on the 7th day of December, 1944 as amended from time to time; and
+(j)
+any other functions, which the Central Government may ask the Bureau to perform from time to time under these rules.
+(4)
+The Aircraft Accident Investigation Bureau may, by notification in the Official Gazette and with the previous approval of
+the Central Government, make procedures, not inconsistent with the provisions of the Act to carry out the purposes of
+these rules and the functions referred to in sub-rule (3).
+(5)
+In particular and without prejudice to the generality of the foregoing power, such procedures may provide for all or any of
+the following matters, namely :-
+(a)
+the persons required to notify the accidents and incidents;
+(b)
+the notification of accidents and serious incidents to International Civil Aviation Organisation and the States for
+participation in the investigation;
+(c)
+the investigation of aircraft accident and incidents;
+(d)
+the format of preliminary and reports of Committee of Inquiry and Formal Investigation conducted under these rules;
+(e)
+the consolidation and follow-up of safety recommendations made by the Committee of Inquiry and Formal Investigation
+with the agencies required to implement the recommendations and require action taken reports from these agencies;
+and
+(f)
+any other matter subsidiary or incidental to aircraft accident and incident investigation.
+9.
+Preliminary investigation.
+(1)
+The Bureau may authorise any person including an officer of the Bureau to conduct a preliminary investigation to an
+accident or incident and to submit a preliminary report to the Bureau in a specified format to assess the classification of
+the occurrence and the expertise needed for detailed investigation under rules 11 or 12, if considered expedient by the
+Central Government.
+(2)
+The person authorised to conduct the preliminary investigation shall -
+(a)
+have powers under rule 10 of Aircraft Accident Investigation ; and
+(b)
+have access examine or otherwise deal with the aircraft as provided under sub-rule (3) or rule 7.
+10.
+Power of Aircraft Accident Investigations.
+(1)
+For the purposes of investigation of accidents and incidents an Aircraft Accident Investigator shall have power -
+(a)
+Page 10/17
+----- PAGE 11 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+to require the attendance of any person, by summons under his hand, whom he thinks fit to call before him and examine
+for such purpose and to require answers or returns to any inquiries he thinks fit to make;
+(b)
+to require any such person to make and to sign a declaration regarding the true nature of the statements made by him;
+(c)
+to require and enforce the production of all books, paper, documents and articles which he may consider necessary for
+the investigation, and to retain any such books, papers, documents and articles until completion of the investigation;
+(d)
+to have access to and examine any aircraft and its components involved in the accident or incident, the place where the
+accident or incident occurred or any other place, the entry upon and examination of which appears to the Investigation
+necessary for the purpose of the investigation.
+11.
+Committee of inquiry.
+(1)
+The Central Government may, at its discretion, appoint a Committee of Inquiry composed of two or more persons to hold
+an inquiry into an aircraft accident or a serious incident and such a Committee shall have the same powers as an
+Aircraft Accident Investigator under rule 10.
+(2)
+The Inquiry shall be held in private.
+(3)
+The Central Government may notify in such manner as it may think fit that an inquiry is being held and every such notice
+shall state that any person who may desire to make representations concerning the circumstances or causes of the
+accident may do so in writing within the time specified in the notice.
+(4)
+When a person other than an officer of Government is appointed as a member of the Committee of Inquiry he may be
+granted such fee and expenses as may be determined by the Central Government.
+(5)
+Every person summoned by the Committee of Inquiry as a witness in accordance with these rules shall be allowed such
+expenses as the Central Government may from time to time determine.
+(6)
+The Committee of Inquiry shall make a report to the Central Government in the format specified by the Bureau based on
+relevant standards of Annex 13.
+12.
+Formal Investigation.
+- Where it appears to the Central Government that it is expedient to hold a formal investigation of an accident, it may,
+whether or not an inquiry has been made under rule 11, by order, direct a formal investigation to be held and with
+respect to any such formal investigation the following provisions shall apply, namely:-
+(1)
+The Central Government shall appoint a competent person (hereinafter referred to as "the Court"), to hold the
+investigation, and may appoint one or more persons possessing legal aeronautical, engineering, or other special
+knowledge to act as assessors. It may also direct that the Court and the assessors shall receive such remuneration it
+may determine.
+(2)
+On the appointment of the Court, all other investigations ordered under these rules shall be treated as closed and all
+relevant material on the subject shall be transferred to the Court.
+(3)
+The Court shall holey the investigation in open court in such manner and under such conditions as the Court may think
+fit for ascertaining the causes and circumstances of the accident and for enabling it to make the report hereinafter
+mentioned:
+Provided that where the Court is of opinion that holding the investigation is likely -
+(a)
+Page 11/17
+----- PAGE 12 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+to be prejudicial to the interests of any country; or
+(b)
+to jeopardise the personal safety of a person who is willing to make any statement or give evidence,
+the Court may, hold in camera, the whole or part of the investigation.
+(4)
+The Court shall have, for the purpose of the investigation, all the powers of a Civil Court under the Code or Civil
+Procedure, 1908 (5 of 1908) and without prejudice to these powers the Court may:-
+(a)
+enter and inspect, or authorise any person to enter and inspect, any place or building, the entry or inspection whereof
+appears to the Court requisite for the purposes of the investigation; and
+(b)
+enforce the attendance of witnesses and compel the production of documents and material objects; and every person
+required by the Court to furnish any information shall be deemed to be legally bound to do so within the meaning of
+section 176 of the Indian Penal Code (45 of 1860).
+(5)
+The assessors shall have the same powers of entry and inspection as the Court.
+(6)
+Every person attending as a witness before the Court shall be allowed such expenses as the Court may consider
+reasonable:
+Provided that, in the case of the owner or hirer of any aircraft concerned in the accident and of any person in his
+employment or to any other person concerned in the accident, any such expenses may be disallowed if the Court, in its
+discretion, so directs.
+(7)
+The Court shall make a report to the Central Government in the format specified by the Bureau based on relevant
+standard of Annex 13.
+(8)
+The assessors shall either sign the report, with or without reservations, or state in writing their dissent therefrom and
+their reasons for such dissent, and such reservations or dissent and reason if any shall be forwarded to the Central
+Government with the report.
+13.
+Investigation of incident.
+(1)
+The Director-General may order an investigation of any incident or a serious incident involving an aircraft covered under
+clause (c) sub-rule (1) of rule 5, and may appoint a competent and qualified person as inquiry officer for the purpose of
+carrying out the investigation.
+(2)
+In case the Central Government decides to investigate the incident or serious incident under sub-rule (2) of rule 5, the
+investigation ordered by Director-General under sub-rule (1) shall be closed and all relevant material shall be transferred
+to the Court or the Committee appointed by the Central Government for its investigation.
+(3)
+The investigation referred to in sub-rule (1) be held in private.
+(4)
+The Inquiry Officer shall have the same powers as an Aircraft Accident Investigator under rule 10.
+(5)
+The inquiry officer shall make a report to the Director General in the format specified by the Bureau based on relevant
+standards of Annex 13.
+(6)
+The Director-General shall forward the report of the Inquiry officer to the Central Government with such comments as
+the Director General may think fit to make and the Central Government may, at its discretion, make the whole or part of
+any such report public in such a manner as it may consider fit.
+14.
+Page 12/17
+----- PAGE 13 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+Consultation and Final Report.
+(1)
+The Bureau shall forward a copy each of the report received from either the Court under sub-rule (7) of rule 12 or
+Committee of Inquiry under sub-rule (6) of rule 11 to -
+(a)
+the State of registry,
+(b)
+the State of operator,
+(c)
+the State of design,
+(d)
+the State of manufacturer, and
+(e)
+the State that participated in the investigation in accordance with sub-rule (4) of rule 6,
+inviting their significant and substantiated comments on the report within sixty days of its issuance.
+(2)
+The Central Government may either amend the report by inclusion of the substance of the comments received within
+sixty days of the issuance of the report or by appending the comments thereto if so desired by the State and may cause
+any such Final Report and reservation or dissent and reasons, if any, to be made public, wholly or in part, in such
+manner as it thinks fit.
+(3)
+The Final Report made public by the Central Government shall be forwarded the State entitled to receive such report
+under Annex 13. The report shall also be forwarded to ICAO, if the mass of the aircraft involved in the accident or
+incident is more than 5,700kg.
+15.
+Reopening of Investigation.
+- Where is appears to the Central Government that any new and material evidence has become available after
+completion of the investigation under rule 11 or rule 12, as the case may be, it may, by order, direct the reopening of the
+same.
+16.
+Obstruction of proceedings.
+(1)
+No person shall obstruct or impede the Court Assessors or members of the Committee of Inquiry or any other person
+acting in the exercise of any powers or duties under these rules.
+(2)
+No person shall without reasonable excuse fail to comply with any summons or requisition of a Court or a Committee of
+Inquiry or an Aircraft Accident Investigator or any other person holding an investigation or an inquiry under these rules.
+Explanation - For the purposes of this rule, when a question arises as to whether a person has a reasonable excuse, the
+burden of proving that he has a reasonable excuse is upon him.
+(3)
+Any person, who obstructs or impedes the proceedings, shall be punishable in accordance with the provisions of
+sub-section (2) of section 10 of the Act.
+17.
+Non-Discloser of Records.
+(1)
+The following records shall not be disclosed for purposes other than the investigation of the accident except when the
+Central Government determines that their disclosure outweighs the adverse domestic and international impact such
+action may have on that investigation or any future investigations:
+(a)
+all statements taken from persons by the investigation authorities in the course of their investigation;
+(b)
+Page 13/17
+----- PAGE 14 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+all communications between person having been involved in the operation of the aircraft;
+(c)
+medical or private information regarding persons involved in the accident or incident;
+(d)
+cockpit voice recordings and transcripts from such recordings;
+(e)
+recordings and transcriptions of recordings from air traffic control units;
+(f)
+cockpit airborne image recordings and any part or transcripts from such recordings; and
+(g)
+opinion expressed in the analysis of information, including flight recorder information.
+(2)
+A record referred to in sub-rule(1), shall be included in a Final Report or its appendices, or in any other report only when
+it is relevant to the analysis of the accident or incident and parts of the records not relevant to the analysis shall not be
+included in the Final Report.
+(3)
+The Final Report shall out disclose the names of the persons involved in the accident or incident.
+18.
+Mandatory incident reporting system.
+(1)
+The [Director-
+General of Civil Aviation]
+[Substituted by Notification No. G.S.R. 808(E), dated 23.10.2012 (w.e.f. 5.7.2012).]
+shall establish a mandatory incident reporting system to facilitate collection of information on actual or potential safely
+deficiencies.
+(2)
+[ * * *]
+[Omitted 'The mandatory incident reporting system shall require the relevant persons, service providers and
+stakeholders to notify all accidents and incidents by most suitable and quickest means to the Bureau and the
+Director-General but in any case not later than 24 hours.' by Notification No. G.S.R. 808(E), dated 23.10.2012 (w.e.f.
+5.7.2012).]
+(3)
+The Director-General shall immediately notify the Bureau about the accidents and incidents containing information as
+specified in sub-rule (2) of rule 4.
+(4)
+[Any accident or incident shall be notified to the Bureau and the Director-General not later than twenty four hours of such
+accident or incident, in the most suitable and quickest manner by the service providers and stakeholders specified
+below:-]
+[Substituted 'The relevant persons, service providers and stakeholders specified in sub-rule (2) shall include' by
+Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+(a)
+the operator and the commander of an aircraft which has a certificate of airworthiness issued by the Directorate General
+of Civil Aviation;
+(b)
+the operator and the commander of a foreign aircraft operating to, from or through India;
+(c)
+a person who carries on the business of maintaining or modifying an aircraft, which has a certificate of airworthiness
+issued by the Directorate General of Civil Aviation, and a person who carries on the business of maintaining or
+modifying any equipment or part of such an aircraft;
+(d)
+a person who carries on the business of manufacturing an aircraft or any equipment or part of such an aircraft, in India;
+Page 14/17
+----- PAGE 15 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+(e)
+a person who signs a certificate of release to service for an aircraft, which has a certificate of airworthiness issued by the
+Directorate General of Civil Aviation, and a person "who signs a certificate of release to service for any equipment or
+part of such an aircraft;
+(f)
+a licensee or manager of a licensed aerodrome or a manager of an airport;
+(g)
+a person who performs a function as an air traffic controller;
+(h)
+the organisation which provides Air Navigation Services;
+(i)
+a person who performs a function concerning the installation, modification, maintenance, repair, overhaul,
+flight-checking or inspection of air navigation facilities which are utilized by a person who provides all air traffic control
+service; and
+(j)
+a person who performs a function concerning the ground-handing of aircraft including fuelling servicing load-sheet
+preparation loading deicing and towing at an airport.
+19.
+Voluntary incident reporting system.
+(1)
+The [Director-General of Civil Aviation]
+[Substituted by Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+shall establish a voluntary incident reporting system to facilitate collection of information on actual or potential safety
+deficiencies that may not be captured by the mandatory incident reporting system established under rule 18.
+(2)
+The voluntary incident reporting system established under sub-rule (1) shall be non-punitive and afford protection to the
+sources of the information and if considered expedient by the Central Government, the information may be collected
+through any other agency.
+20.
+[ Maintenance of an accident and incident database.
+[Substituted by Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+- The Aircraft Accident Investigation Bureau shall establish and maintain an accident and incident database and provide
+the same for inclusion in safety data being maintained under the State Safety Programme by the Director-General of
+Civil Aviation.]
+21.
+Saving.
+- Nothing in these rules shall limit or otherwise affect the power of the Central Government with regard to the
+cancellation, suspension or endorsement of any licence or certificate issued under the Aircraft Rules, 1937.
+22.
+Penalties.
+- Any person who contravenes, or fails to comply with, any of these rules, or the regulations made under sub-rule (4)
+and (5) of rule 9, or sub-rules (1) and (2) of rule 15 shall be punishable in accordance with the provisions of the
+sub-section (2) of section 10 of the Act.
+A
+[See rule 2 (Y)]
+Serious Incidents
+1. Serious incident means an incident involving circumstances indicating that there was a high probability of an accident
+and associated with the operation of an aircraft which, in the case of a manned aircraft, takes place between the time
+any person boards the aircraft with the intention of flight until such time as all such persons have disembarked or in the
+case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until
+such time as it comes to rest at the end of the flight and the primary propulsion system is shut down.
+Page 15/17
+----- PAGE 16 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+2. The incidents listed are typical examples of incidents that are likely to be serious incidents. The list is not exhaustive
+and only serves as guidance to the definition of serious Incident.
+(a)
+Near collisions requiring an avoidance manoeuvre to avoid a collision or an unsafe situation or when an avoidance
+action would have been appropriate.
+(aa)
+[ Collisions not classified as accidents.]
+[Inserted by Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+(b)
+Controlled flight into terrain only marginally avoided.
+(c)
+Aborted take-offs on a closed or engaged runway, on a taxiway (Excluding authroized operations by helicopters) or
+unassigned runway.
+(d)
+Take-offs from a closed or engaged runway, from a taxiway (Excluding authorized operations) or unassigned runway.
+(e)
+Landings or attempted landings on a Closed or engaged runway, on a taxiway or unassigned runway.
+(f)
+Gross failures to achieve predicted performance during take-off or initial climb.
+(g)
+Fires [or smoke in the cockpit, in the passenger]
+[Substituted 'and smoke in the passenger' by Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+compartment, in cargo compartments or engine fires, even though such fires were extinguished by the use of
+extinguishing agents.
+(h)
+Events requiring the emergency use of oxygen by the flight crew.
+(i)
+Aircraft structural failures or engine disintegration, including un-contained turbine engine failures, not classified as an
+accident.
+(j)
+Multiple malfunctions of one or more aircraft systems seriously affecting the operation of the aircraft.
+(k)
+Flight crew incapacitation in flight
+(l)
+[ Fuel quantity level or distribution situations requiring the declaration of an emergency by the pilot, such as insufficient
+fuel, fuel exhaustion, fuel starvation, or inability to use all usable fuel on board.]
+[Substituted by Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+(m)
+Runway incursions classified with severity A. The Manual on the Prevention of Runway Incursions (Doc 9870) contains
+information on the severity classifications.
+(n)
+Take-off or landing incidents Incidents such as under-shooting, overrunning or running off the side of runways.
+(o)
+System failures, weather phenomena, operations outside the approved flight envelope or other occurrences [which
+caused or could have ]
+[Substituted by Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+caused difficulties controlling the aircraft.
+(p)
+Failures of more than one system in a redundancy system mandatory for flight guidance and navigation,
+(q)
+[ The unintentional or, as an emergency measure, the intentional release of a slung load or any other load carried
+Page 16/17
+----- PAGE 17 -----
+The Aircraft (Investigation of Accidents and Incidents) Rules, 2012
+external to the aircraft.]
+[Inserted by Notification No. G.S.R. 808(E), dated 23.10.2015 (w.e.f. 5.7.2012).]
+B
+[See rule 2 (a)]
+Guidance for Determination of Aircraft Damage
+1. If an engine separates from an aircraft, the event is categorized as an accident even if damage is confined to the
+engine.
+2. A loss of engine cowls (fan or core) or reverser components which does not result in further damage to the aircraft is
+not considered an accident
+3. Occurrences where compressor of turbine blades or other engine internal components are ejected through the engine
+lab pipe are not considered an accident.
+4. A collapsed or missing radome is not considered an accident unless there is related substantial damage in other
+structures or systems.
+5. Missing flap, slat and other lift augmenting devices, winglets, etc., that are permitted for dispatch under the
+configuration deviation list (CDL] are not considered to be an accident.
+6. Retraction of a landing gear leg, or wheels-up landing, resulting in skin abrasion only. If the aircraft can be safely
+dispatched after minor repairs, or patching, and subsequently undergoes more extensive work to effect a permanent
+repair, then the occurrence would not be classified as an accident.
+7. If the structural damage is such that the aircraft depressurizes, or cannot be pressurized, the occurrence is
+categorized as an accident.
+8. The removal of components for inspection following an occurrence, such as the precautionary removal of an
+undercarriage leg following a low-speed runway excursion, while involving considerable work, is not considered an
+accident unless significant damage is found.
+9. Occurrences that involve an emergency evacuation are not counted as an accident unless. someone receives serious
+injuries or the aircraft has otherwise sustained significant damage.
+Note 1. - Regarding aircraft damage which adversely affects the structural strength, performance or flight characteristics,
+the aircraft may have landed safely, but cannot be safely dispatched on a further sector without repair.
+Note 2. - If the aircraft can be safety dispatched after minor repairs and subsequently undergoes more extensive work to
+effect a permanent repair, then the occurrence would not be classified as an accident. Likewise, if the aircraft can be
+dispatched under the CDL with the affected component removed, missing or inoperative, the repair would not be
+conSidered as a major repair and consequently the occurrence would not be considered an accident.
+Note 3. - The cost of repairs, or estimated loss, such as provided by insurance companies may provide an indication of
+the damage sustained hut should not be used as the sale guide as to whether the damage is sufficient to count the
+occurrence as an accident. Likewise, an aircraft may be considered a a "hull loss" because. It is uneconomic to repair,
+without it having incurred sufficient damage to be classified as an accident.
+Related AI tags, queries and research notes
+Translation
+Page 17/17

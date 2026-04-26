@@ -1,0 +1,828 @@
+
+----- PAGE 1 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Central Electricity Authority (Installation and Operation of Meters)
+Regulations, 2006
+Source: https://indiankanoon.org/doc/190801461/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+UNION OF INDIA
+India
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Rule CENTRAL-ELECTRICITY-AUTHORITY-INSTALLATION-AND-OPERATION-OF-METERS-REGULATIONS-2006
+of 2006
+Published on 22 March 2006
+Commenced on 22 March 2006
+[This is the version of this document from 22 March 2006.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Published vide Notification Gazette of India, Extra; Part 3, Section 4, dated 22.3.2006.
+1683.
+Not. No. 502/70/CEA/DP&D, dated 17.3.2006.- In exercise of the powers conferred by sub-section (1) of section 55 and
+clause (e) of section 73 read with sub-section (2) of section 177 of Electricity Act, 2003, the Central Electricity Authority
+hereby makes the following regulations for regulating the installation and operation of meters, namely :-
+1.
+Short title and commencement.-
+Page 1/16
+----- PAGE 2 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+(1)
+These regulations may be called the Central Electricity Authority (Installation and Operation of Meters) Regulations,
+2006.
+(2)
+These Regulations shall come into force on the date of their publication in the Gazette of India.
+2.
+Definitions.-
+(1)
+In these regulations, unless the context other wise requires, -
+(a)
+`Act' means the Electricity Act, 2003;
+(b)
+`Accredited Test Laboratory' means a test laboratory accredited by National Accreditation Board for Testing and
+Calibration Laboratories (NABL);
+(c)
+`Active Energy' means the electricity supplied or consumed during a time interval, being the integral of Active Power with
+respect to time, measured in the units of `Watt-hours' or standard multiples thereof. One `kilowatt-hour' (kWh) is one
+unit;
+(d)
+`Active Power' means the electrical power, being the product of root mean square (rms) voltage, root mean square (rms)
+current and cosine of the phase angle between the voltage and current vectors and measured in units of `Watt' (W) or in
+standard multiples thereof;
+(e)
+`Appropriate Load Despatch Centre' means `National Load Despatch Centre' (NLDC) or `Regional Load Despatch
+Centre' (RLDC) or the `State Load Despatch Centre' (SLDC) as the case may be;
+(f)
+`Appropriate Transmission Utility' means the `Central Transmission Utility' (CTU) or the `State Transmission Utility'
+(STU), as the case may be;
+(g)
+`Availability Based Tariff (ABT)' means a tariff structure based on availability of generating units and having components,
+viz, Capacity Charges (CC), Energy Charges (EC) or Variable Charges (VC) and charges for Unscheduled Interchange
+(UI);
+(h)
+`Buyer' means any generating company or licensee or consumer whose system receives electricity from the system of
+generating company or licensee;
+(i)
+`Check Meter' means a meter, which shall be connected to the same core of the Current Transformer (CT) and Voltage
+Transformer (VT) to which main meter is connected and shall be used for accounting and billing of electricity in case of
+failure of main meter;
+(j)
+`Consumer Meter' means a meter used for accounting and billing of electricity supplied to the consumer but excluding
+those consumers covered under Interface Meters;
+(k)
+`Correct Meter' means a meter, which shall at least have, features, Accuracy Class and specifications as per the
+Standards on Installation and Operation of Meters given in Schedule of these Regulations;
+(l)
+`Energy Accounting and Audit Meters' means meters used for accounting of the electricity to various segments of
+electrical system so as to carry out further analysis to determine the consumption and loss of energy therein over a
+specified time period;
+(m)
+`Instrument Transformer' means the `Current Transformer' (CT), `Voltage Transformer' (VT) and `Capacitor Voltage
+Page 2/16
+----- PAGE 3 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Transformer' (CVT);
+(n)
+`Interface Meter' means a meter used for accounting and billing of electricity, connected at the point of interconnection
+between electrical systems of generating company, licensee and consumers, directly connected to the Inter-State
+Transmission System or Intra-State Transmission System who have to be covered under ABT and have been permitted
+open access by the Appropriate Commission;
+(o)
+`Main Meter' means a meter, which would primarily be used for accounting and billing of electricity;
+(p)
+`Meter' means a device suitable for measuring, indicating and recording consumption of electricity or any other quantity
+related with electrical system and shall include, wherever applicable, other equipment such as Current Transformer
+(CT), Voltage Transformer (VT) or Capacitor Voltage Transformer (CVT) necessary for such purpose;
+(q)
+`Power Factor' means the cosine of the electrical angle between the voltage and current vectors in an AC electrical
+circuit;
+(r)
+`Prepaid Meter' means a meter which facilitates use of electricity only after advance payment;
+(s)
+`Reactive Energy' means, the integral of Reactive Power with respect to time and measured in the units of `Volt-Ampere
+hours reactive (VARh) or in standard multiples thereof;
+(t)
+`Reactive Power' means the product of root mean square (rms) voltage, root mean square (rms) current and the sine of
+the electrical phase angle between the voltage complexor and current complexor, measured in `Volt-ampere reactive'
+(VAr) and in standard multiples thereof;
+(u)
+`Standards' means `Standards on Installation and Operation of Meters' given in the Schedule of these Regulations
+unless otherwise any other standard specifically referred;
+(v)
+`Standby Meter' means a meter connected to CT and VT, other than those used for main meter and check meter and
+shall be used for accounting and billing of electricity in case of failure of both main meter and check meter;
+(w)
+`Supplier' means any generating company or licensee from whose system electricity flows into the system of another
+generating company or licensee or consumer;
+(x)
+`Time of the Day (TOD) Meter' means a meter suitable for recording and indicating consumption of electricity during
+specified time periods of the day.
+(2)
+The words and expressions used and not defined in these Regulations but defined in the Act shall have the meaning
+assigned to them in the Act.
+3.
+Applicability of regulations.-
+(1)
+These Regulations shall be applicable to meters installed and to be installed by all the generating companies and
+licensees who are engaged in the business of generation, transmission, trading, distribution, supply of electricity and to
+all categories of consumers.
+(2)
+After coming into force of these regulations, the provisions of the Indian Electricity Rules, 1956 relating to installation
+and operation of meters in this regard shall not be applicable.
+(3)
+These regulations provide for type, standards, ownership, location, accuracy class, installation, operation, testing and
+maintenance, access, sealing, safety, meter reading and recording, meter failure or discrepancies, anti tampering
+Page 3/16
+----- PAGE 4 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+features, quality assurance, calibration and periodical testing of meters, additional meters and adoption of new
+technologies in respect of following meters for correct accounting, billing and audit of electricity:
+(i)
+Interface meter
+(ii)
+Consumer meter
+(iii)
+Energy accounting and audit Meter
+4.
+Type of meters.-
+(1)
+All interface meters, consumer meters and energy accounting and audit meters shall be of static type.
+(2)
+The meters not complying with these regulations shall be replaced by the licensee on his own or on request of the
+consumer. The meters may also be replaced as per the regulations or directions of the Appropriate Commission or
+pursuant to the reforms programme of the Appropriate Government.
+5.
+Standards.-
+All interface meters, consumer meters and energy accounting and audit meters shall -
+(a)
+comply with the relevant standards of Bureau of Indian Standards (BIS). If BIS Standards are not available for a
+particular equipment or material, the relevant British Standards (BS), International Electro-technical Commission (IEC)
+Standards, or any other equivalent Standard shall be followed:
+Provided that whenever an international Standard or IEC Standard is followed, necessary corrections or modifications
+shall be made for nominal system frequency, nominal system voltage, ambient temperature, humidity and other
+conditions prevailing in India before actual adoption of the said Standard;
+(b)
+conform to the standards on `Installation and Operation of Meters' as specified in Schedule annexed to these regulations
+and as amended from time to time.
+6.
+Ownership of meters.-
+(1)
+Interface meters.-
+(a)
+All interface meters installed at the points of interconnection with Inter-State Transmission System (ISTS) for the
+purpose of electricity accounting and billing shall be owned by CTU.
+(b)
+All interface meters installed at the points of interconnection with Intra-State Transmission System excluding the system
+covered under sub-clause (a) above for the purpose of electricity accounting and billing shall be owned by STU.
+(c)
+All interface meters installed at the points of inter connection between the two licensees excluding those covered under
+sub-clauses (a) and (b) above for the purpose of electricity accounting and billing shall be owned by respective licensee
+of each end.
+(d)
+All interface meters installed at the points of inter connection for the purpose of electricity accounting and billing not
+covered under sub-clauses (a), (b) and (c) above shall be owned by supplier of electricity.
+(2)
+Consumer meters.-
+(a)
+Consumer meters shall generally be owned by the licensee.
+(b)
+Page 4/16
+----- PAGE 5 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+If any consumer elects to purchase a meter, the same may be purchased by him. Meter purchased by the consumer
+shall be tested, installed and sealed by the licensee. The consumer shall claim the meter purchased by him as his asset
+only after it is permanently removed from the system of the licensee.
+(c)
+All consumer meters shall bear BIS mark, meet the requirements of these regulations and have additional features as
+approved by the Appropriate Commission or pursuant to the reforms programme of the Appropriate Government. To
+facilitate this, the licensee shall provide a list of makes and models of the meters.
+(3)
+Energy accounting and audit meters.- Energy accounting and audit meters shall be owned by the generating company
+or licensee, as the case may be.
+7.
+Locations of meters.-
+(1)
+The location of interface meters, consumer meters and energy accounting and audit meters shall be as per the Table
+given below :
+Provided that the generating companies or licensees may install meters at additional locations in their systems
+depending upon the requirement.
+TABLE
+Sl. No.
+Stages
+Main meter
+Check meter
+Stand by meter
+A.
+Generating Station
+On all outgoing feeders.
+On all outgoing feeders.
+(i) High Voltage (HV) side of Generator Transformers
+(ii) High Voltage(HV) side of all Station Auxiliary Transformers
+Explanation:- The location of main, check and standby meters installed at the existing generating stations shall not be
+changed unless permitted by the Authority.
+Sl.
+No.
+Stages
+Main Meter
+Check Meter
+Stand by Meter
+B.
+Transmission and Distribution System
+At one end of the line between the sub-stations of the same licensee, and at both ends of the line between sub-stations
+of two different licensees. Meters at both ends shall be considered as main meters for respective licensees
+-
+There shall be no separate standby meter. Meter installed at other end of the line in case of two different licensees shall
+work as standby meter.
+C.
+Inter-Connecting Transformer (ICT)
+High Voltage (HV) side of ICT.
+-
+Low Voltage (LV) side of ICT.
+D.
+Consumer directly connected to the Inter-State Transmission System or Intra-State Transmission System who have to
+Page 5/16
+----- PAGE 6 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+be covered under ABT and have been permitted open access by the Appropriate Commission or Any other system not
+covered above
+As decided by the Appropriate Commission.
+(a)
+Interface Meters.-
+(i)
+Consumers who have interconnection with the Inter-State Transmission System or Intra-State Transmission System and
+have been permitted open access by the Appropriate Commission shall be provided with interface meters.
+(ii)
+For consumers connected to distribution system and permitted open acess, provision of interface meters may be made
+as per the regulations or directions of the Appropriate Commission.
+(iii)
+The scheme for location of interface meters shall be submitted to the CTU or the STU or the CTU or the STU or the
+licensee by owner of the meter in advance, before the installation of the scheme.
+(b)
+Consumer meters.-
+(i)
+The consumer meter shall be installed by the licensee either at consumer premises or outside the consumer premises:
+Provided that where the licensee installs the meter outside the premises of the consumer, then the licensee shall
+provide real time display unit at the consumer premises for his information to indicate the electricity consumed by the
+consumer:
+Provided further that for the billing purpose, reading of consumer meter and not the display unit shall be taken into
+account.
+(ii)
+In the event the Appropriate Commission allows supply of electricity directly from a generating company to consumer on
+a dedicated transmission system, the location of the meter will be as per their mutual agreement.
+(c)
+Energy accounting and audit meters.- Energy accounting and audit meters shall be installed at such locations so as to
+facilitate to account for the energy generated, transmitted, distributed and consumed in the various segments of the
+power system and the energy loss. The location of these meters shall be as under:
+(i)
+Generating Stations
+(1)
+at the stator terminal of the generator;
+(2)
+on HV and LV sides of the station and the unit auxiliary transformers;
+(3)
+on feeders to various auxiliaries.
+(ii)
+Transmission System
+All incoming and out going feeders (If the interface meters do not exist).
+(iii)
+Distribution System
+(1)
+all incoming feeders (11 kV and above);
+(2)
+all outgoing feeders (11 kV and above);
+(3)
+Sub-Station Transformer including Distribution Transformer - Licensee may provide the meter on primary or secondary
+side or both sides depending upon the requirement for energy accounting and audit.
+8.
+Page 6/16
+----- PAGE 7 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Accuracy Class of meters.-
+Every meter shall meet the requirement of accuracy class as specified in the standards given in the Schedule.
+9.
+Installation of meters.-
+(1)
+Generating company or licensee, as the case may be, shall examine, test and regulate all meters before installation and
+only correct meters shall be installed.
+(2)
+The meter shall be installed at locations, which are easily accessible for installation, testing, commissioning, reading,
+recording and maintenance. The place of installation of meter shall be such that minimum inconvenience and disruptions
+are caused to the site owners and the concerned organizations.
+(3)
+In case of single phase meters, the consumer shall ensure that there is no common neutral or phase or looping of
+neutral or phase of two or more consumers on consumers' side wiring. If such common neutral or phase or looping of
+neutral or phase comes to the notice of the licensee, it shall suitably inform the consumer through installation report or
+regular electricity bills or meter test report as applicable.
+(4)
+Consumer shall install the Earth Leakage Protective Device (ELPD) in accordance with the provisions of the rules or
+regulations in this regard.
+(5)
+If the earth leakage indication is displayed in the meter the licensees shall suitably inform the consumer through
+installation report or regular electricity bills or meter test report as applicable.
+(6)
+In case CTs and VTs form part of the meters, the meter shall be installed as near the instrument transformers as
+possible to reduce the potential drop in the secondary leads.
+10.
+Operation, Testing and Maintenance of meters.-
+The operation, testing and maintenance of all types of meters shall be carried out by the generating company or the
+licensee, as the case may be.
+11.
+Access to meter.-
+The owner of the premises where, the meter is installed shall provide access to the authorized representative(s) of the
+licensee for installation, testing, commissioning, reading and recording and maintenance of meters.
+12.
+Sealing of meters.-
+(1)
+Sealing Arrangements.-
+(a)
+All meters shall be sealed by the manufacturer at its works. In addition to the seal provided by the manufacturer at its
+works, the sealing of all meters shall be done as follows at various sealing points as per the standards given in the
+Schedule:
+(i)
+Sealing of interface meters, shall also be done by both the supplier and the buyer.
+(ii)
+Sealing of consumer meters shall be done by the licensee.
+(iii)
+Sealing of energy accounting and audit meters shall be done by the licensee or generating company as the case may
+be.
+(b)
+A tracking and recording software for all new seals shall be provided by the manufacturer of the meter so as to track
+total movement of seals starting from manufacturing, procurement, storage, record keeping, installation, series of
+Page 7/16
+----- PAGE 8 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+inspections, removal and disposal.
+(c)
+Seal shall be unique for each utility and name or logo of the utility shall be clearly visible on the seals.
+(d)
+Only the patented seals (seal from the manufacturer who has official right to manufacture the seal) shall be used.
+(e)
+Polycarbonate or acrylic seals or plastic seals or holographic seals or any other superior seal shall be used.
+(f)
+Lead seals shall not be used in the new meters. Old lead seals shall be replaced by new seals in a phased manner and
+the time frame of the same shall be submitted by the licensee to the Appropriate Commission for approval.
+(2)
+Removal of seals from meters.-
+(a)
+Interface meters.- Whenever seals of the interface meters have to be removed for any reason, advance notice shall be
+given to other party for witnessing the removal of seals and resealing of the interface meter. The breaking and re-sealing
+of the meters shall be recorded by the party, who carried out the work, in the meter register, mentioning the date of
+removal and resealing, serial numbers of the broken and new seals and the reason for removal of seals.
+(b)
+Consumer meters.- Seal of the consumer meter shall be removed only by the licensee. No consumer shall tamper with,
+break or remove the seal under any circumstances. Any tampering, breaking or removing the seal from the meter shall
+be dealt with as per relevant provisions of the Act.
+(c)
+Energy accounting and audit meters.- Seal of the energy accounting and audit meter shall be removed only by the
+generating company or the licensee who owns the meter.
+13.
+Safety of meters.-
+(1)
+The supplier or buyer in whose premises the interface meters are installed shall be responsible for their safety.
+(2)
+The consumer shall, as far as circumstances permit, take precautions for the safety of the consumer meter installed in
+his premises belonging to the licensee.
+(3)
+Licensee shall be responsible for the safety of the consumer meter located outside the premises of the consumer and
+the consumer shall be responsible for the safety of the real time display unit installed by the licensee in consumer
+premises.
+(4)
+The generating company or the licensee who owns the energy accounting and audit meters shall be responsible for its
+safety.
+14.
+Meter reading and recording.-
+(1)
+Interface meters.- It shall be the responsibility of the Appropriate Transmission Utility or the licensee to take down the
+meter reading and record the metered data, maintain database of all the information associated with the interface
+meters and verify the correctness of metered data and furnish the same to various agencies as per the procedure laid
+down by the Appropriate Commission.
+(2)
+Consumer meters.-
+(a)
+It shall be the responsibility of the licensee to record the metered data, maintain database of all the information
+associated with the consumer meters and verify the correctness of metered data.
+(b)
+Page 8/16
+----- PAGE 9 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+The licensee shall maintain accounts for the electricity consumption and other electrical quantities of its consumers.
+(c)
+Brief history, date of installation and details of testing, calibration and replacement of meters shall be maintained by the
+licensee.
+(3)
+Energy accounting and audit meters.- It shall be the responsibility of the generating company or licensee to record the
+metered data, maintain database of all the information associated with the energy accounting and audit meters and
+verify the correctness of metered data. Each generating company or licensee shall prepare quarterly, half-yearly and
+yearly energy account for its system for taking appropriate action for efficient operation and system development.
+15.
+Meter failure or discrepancies.-
+(1)
+Interface meters.-
+(a)
+Whenever difference between the readings of the Main meter and the Check meter for any month is more than 0.5%,
+the following steps shall be taken:
+(i)
+checking of CT and VT connections;
+(ii)
+testing of accuracy of interface meter at site with reference standard meter of accuracy class higher than the meter
+under test.
+If the difference exists even after such checking or testing, then the defective meter shall be replaced with a correct
+meter.
+(b)
+In case of conspicuous failures like burning of meter and erratic display of metered parameters and when the error found
+in testing of meter is beyond the permissible limit of error provided in the relevant standard, the meter shall be
+immediately replaced with a correct meter.
+(c)
+In case where both the Main meter and Check meter fail, at least one of the meters shall be immediately replaced by a
+correct meter.
+(d)
+Billing for the Failure period:
+(i)
+The billing for the failure period of the meter shall be done as per the procedure laid down by the Appropriate
+Commission.
+(ii)
+Readings recorded by Main, Check and Standby meters for every time slot shall be analysed, crosschecked and
+validated by the Appropriate Load Despatch Centre (LDC). The discrepancies, if any,
+noticed in the readings shall be informed by the LDC in writing to the energy accounting agency for proper accounting of
+energy. LDC shall also intimate the discrepancies to the Appropriate Transmission Utility or the licensee, who shall take
+further necessary action regarding testing, calibration or replacement of the faulty meters in accordance with the
+provisions laid down.
+(e)
+The defective meter shall be immediately tested and calibrated
+(2)
+Consumer meters.- In case the consumer reports to the licensee about consumer meter readings not commensurate
+with his consumption of electricity, stoppage of meter, damage to the seal, burning or damage of the meter, the licensee
+shall take necessary steps as per the procedures given in the Electricity Supply Code of the Appropriate Commission
+read with the notified conditions of supply of electricity.
+(3)
+Energy accounting and audit meters.- Energy accounting and audit meters shall be rectified or replaced by the
+Page 9/16
+----- PAGE 10 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+generating company or licensee immediately after notice of any of the following abnormalities:
+(a)
+the errors in the meter readings are outside the limits prescribed for the specified Accuracy Class;
+(b)
+meter readings are not in accordance with the normal pattern of the load demand;
+(c)
+meter tampering, or erratic display or damage.
+16.
+Anti-tampering features of meters.-
+The meters shall be provided with such anti-tampering features as per the Standards on Installation and Operation of
+Meters given in the Schedule.
+17.
+Quality assurance of meters.-
+(1)
+The distribution licensee shall put in place a system of quality assurance and testing of meters with the approval of
+Appropriate Commission.
+(2)
+The licensee shall set up appropriate number of accredited testing laboratories or utilize the services of other accredited
+testing laboratories. The licensee shall take immediate action to get the accreditations of their existing meter testing
+laboratories from NABL, if not already done.
+(3)
+The generating company or licensee shall ensure that all type, routine and acceptance tests are carried out by the
+manufacturer complying with the requirement of the relevant IS or BS or IEC as the case may be.
+18.
+Calibration and periodical testing of meters.-
+(1)
+Interface meter
+(a)
+At the time of commissioning, each interface meter shall be tested by the owner at site for accuracy using standard
+reference meter of better accuracy class than the meter under test.
+(b)
+All interface meters shall be tested at least once in five years. These meters shall also be tested whenever the energy
+and other quantities recorded by the meter are abnormal or inconsistent with electrically adjacent meters. Whenever
+there is unreasonable difference between the quantity recorded by interface meter and the corresponding value
+monitored at the billing center via communication network, the communication system and terminal equipment shall be
+tested and rectified. The meters may be tested using NABL accredited mobile laboratory or at any accredited laboratory
+and recalibrated if required at manufacturer's works.
+(c)
+Testing and calibration of interface meters may be carried out in the presence of the representatives of the supplier and
+buyer. The owner of the meter shall send advance notice to the other party regarding the date of testing.
+(2)
+Consumer meters.- The testing of consumer meters shall be done at site at least once in five years. The licensee may
+instead of testing the meter at site can remove the meter and replace the same by a tested meter duly tested in an
+accredited test laboratory. In addition, meters installed in the circuit shall be tested if study of consumption pattern
+changes drastically from the similar months or season of the previous years or if there is consumer's complaint
+pertaining to a meter. The standard reference meter of better accuracy class than the meter under test shall be used for
+site testing of consumer meters up to 650 volts. The testing for consumers meters above 650 volts should cover the
+entire metering system including CTs, VTs. Testing may be carried out through NABL accredited mobile laboratory using
+secondary injection kit, measuring unit and phantom loading or at any accredited test laboratory and recalibrated if
+required at manufacturer's works.
+(3)
+Page 10/16
+----- PAGE 11 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Energy accounting and audit meters.- Energy accounting and audit meters shall be tested at site at least once in five
+years or whenever the accuracy is suspected or whenever the readings are inconsistent with the readings of other
+meters, e.g., check meters, standby meters. The testing must be carried out without removing the CTs and VTs
+connection. Testing may be carried out through NABL accredited mobile laboratory using secondary injection kit,
+measuring unit and phantom loading or at any accredited test laboratory and recalibrated if required at manufacturer's
+works.
+19.
+Additional meters.-
+In addition to any meter which may be placed for recording the electricity consumed by the consumer, the licensee may
+connect additional meters, maximum demand indicator or other apparatus as he may think fit for the purposes of
+ascertaining or regulating either the quantity of electricity supplied to the consumer, or the number of hours during which
+the supply is given, or the rate per unit of time at which energy is supplied to the consumer, or any other quantity or time
+connected with the supply to consumer:
+Provided that the meter, indicator or apparatus shall not, in the absence of an agreement to the contrary, be placed
+otherwise than between the distributing mains of the licensee and any meter:
+Provided further that, where the charges for the supply of energy depend wholly or partly upon the reading or indication
+of any such meter, indicator or apparatus as aforesaid, the licensee shall, in the absence of an agreement to the
+contrary, keep the meter, indicator or apparatus correct.
+20.
+Adoption of new technologies.-
+The distribution licensee shall make out a plan for introduction and adoption of new technologies such as pre-paid
+meters, time of the day meters (TOD), automatic remote meter reading system through appropriate communication
+system with the approval of the Appropriate Commission or as per the regulations or directions of the Appropriate
+Commission or pursuant to the reforms programme of the Appropriate Government.
+Schedule
+(see regulations 2, 5, 8, 12 and 16)
+Standards on Installation and Operation of Meters
+Part I ? Standards Common To All Type of Meters
+(1)
+These standards provide for specification of meters, immunity to external factors, sealing points and functional
+requirements that are required from regulatory perspective. Detailed technical specification shall be prepared by the
+purchaser of the meter.
+(2)
+Specifications of meters.-
+Standard Reference Voltage
+As per IS
+Voltage Range
+As per IS
+Standard Frequency
+As per IS
+Standard Basic Current
+As per IS (Current range of consumer meters shall be so chosen as to record the load current corresponding to the
+sanctioned load)
+Accuracy Class
+Meters shall meet the following requirements of Accuracy Class:
+{|
+Interface meters
+0.2S
+Consumer meters
+Up to 650 volts
+1.0 or better
+Page 11/16
+----- PAGE 12 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Above 650 volts and up to 33 kilo volts
+0.5S or better
+Above 33 kilo volts
+0.2S
+Energy accounting and audit meters: - The accuracy class of meters in generation and transmission system shall not be
+inferior to that of 0.2S Accuracy Class. The accuracy class of meters in distribution system shall not be inferior to that of
+0.5S Accuracy Class
+|-
+| Starting Current and Maximum
+| -
+|-
+| Current
+| As per IS
+|-
+| Power Factor Range
+| As per IS
+|-
+| Power Frequency Withstand
+| -
+|-
+| Voltage
+| As per IS
+|-
+| Impulse Voltage Withstand
+| -
+|-
+| Test for 1.2/50 micro sec
+| As per IS
+|-
+| Power Consumption
+| As per IS
+|}
+(3)
+Meter shall have downloading facilities of metered data through Meter Reading Instrument (MRI).
+(4)
+Immunity to External Factors.- The meter shall be immune to external influences like magnetic induction, vibration,
+electrostatic discharge, switching transients, surge voltages, oblique suspension and harmonics and necessary tests
+shall be carried out in accordance with relevant standard.
+(5)
+Sealing Points.- Sealing shall be done at the following points (as applicable):
+(a)
+Meter body or cover
+(b)
+Meter terminal cover
+(c)
+Meter test terminal block
+(d)
+Meter cabinet
+(6)
+The accuracy class of Current transformers (CTs) and Voltage transformers (VTs) shall not be inferior to that of
+associated meters. The existing CTs and VTs not complying with these regulations shall be replaced by new CTs and
+Page 12/16
+----- PAGE 13 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+VTs, if found defective, non-functional or as per the directions of the Appropriate Commission. In case the CTs and VTs
+of the same Accuracy Class as that of meters can not be accommodated in the metering cubicle or panel due to space
+constraints, the CTs and VTs of the next lower Accuracy Class can be installed.
+(7)
+The Voltage Transformers shall be electromagnetic VT or Capacitive Voltage Transformer (CVT).
+Part II ? Standards for interface meters
+(1)
+Functional Requirements.-
+(a)
+The Interface meters suitable for ABT shall be static type, composite meters , as self -contained devices for
+measurement of active and reactive energy, and certain other parameters as described in the following paragraphs. The
+meters shall be suitable for being connected directly to voltage transformers (VTs) having a rated secondary line-to-line
+voltage of 110 V, and to current transformers (CTs) having a rated secondary current of IA (Model-A :3 element 4 wire or
+Model C: 2 element , 3 wire) or 5A (model-B: 3 element , 4 wire or Model D: 2 element 3 wire). The reference frequency
+shall be 50Hz.
+(b)
+The meters shall have a non-volatile memory in which the following shall be automatically stored:
+(i)
+Average frequency for each successive 15-minute block, as a two digit code (00 to 99 for frequency from 49.0 to
+51.0Hz).
+(ii)
+Net Wh transmittal during each successive 15-minute block, upto second decimal, with plus/minus sign.
+(iii)
+Cumulative Wh transmittal at each midnight, in six digits including one decimal.
+(iv)
+Cumulative VArh transmittal for voltage high condition, at each midnight, in six digits including one decimal.
+(v)
+Cumulative VArh transmittal for voltage low condition, at each midnight, in six digits including one decimal.
+(vi)
+Date and time blocks of failure of VT supply on any phase, as a star(*) mark.
+(c)
+The meters shall store all the above listed data in their memories for a period of at least ten days. The data older than
+ten days shall get erased automatically. Each meter shall have an optical port on its front for tapping all data stored in its
+memory using a hand held data collection device. The meter shall be suitable for transmitting the data to remote location
+using appropriate communication medium.
+(d)
+The active energy (Wh) measurement shall be carried out on 3-phase, 4-wire principle, with an accuracy as per class
+0.2 S of IEC-687/IEC-62053-22. In model A and C, the energy shall be computed directly in CT and VT secondary
+quantities, and indicated in watt-hours. In model-B and Model D , the energy display and recording shall be one fifth of
+the Wh computed in CT and VT secondary quantities.
+(e)
+The Var and reactive energy measurement shall also be on 3-phase, 4-wire principle, with an accuracy as per class 2 of
+IEC-62053-23 or better. In model-A or Model C, the Var and VArh computation shall be directly in CT and VT secondary
+quantities. In model-B or Model D, the above quantities shall be displayed and recorded as one-fifth of those computed
+in CT and VT secondary quantities. There shall be two reactive energy registers, one for the period when average RMS
+voltage is above 103% and the other for the period the voltage is below 97%.
+(f)
+The 15-minute Wh shall have a +ve sign when there is a net Wh export from substation busbars, and a -ve sign when
+there is a net Wh import. The integrating (cumulative) registers for Wh and Varh shall move forward when there is
+Wh/Varh export from substation busbars, and backward when there is an import.
+(g)
+Page 13/16
+----- PAGE 14 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+The meters shall also display (on demand), by turn, the following parameters :
+(i)
+Unique identification number of the meter
+(ii)
+Date
+(iii)
+Time
+(iv)
+Cumulative Wh register reading
+(v)
+Average frequency of the previous 15-minute block
+(vi)
+Net Wh transmittal in the previous 15-minute block, with +/-sign
+(vii)
+Average percentage voltage
+(viii)
+Reactive power with +/- sign
+(ix)
+Voltage-high VArh register reading
+(x)
+Voltage-low VArh register reading.
+(h)
+The three line-to-neutral voltages shall be continuously monitored, and in case any of these falls below 70%, the
+condition shall be suitably indicated and recorded. The meters shall operate with the power drawn from the VT
+secondary circuits, without the need for any auxiliary power supply. Each meter shall have a built-in calendar and clock,
+having an accuracy of 30 seconds per month or better.
+(i)
+The meters shall be totally sealed and tamper-proof, with no possibility of any adjustment at site, except for a restricted
+clock correction. The harmonics shall be filtered out while measuring Wh, Var and VArh, and only fundamental
+frequency quantities shall be measured/computed.
+(j)
+The Main meter and the Check meter shall be connected to same core of CTs and VTs.
+Part III ? Standards for consumers meters
+(1)
+Measuring Parameters:-
+(a)
+The consumer meter shall be suitable for measurement of cumulative active energy utilized by the consumer.
+(b)
+The consumer meter may have the facilities to measure, record and display one or more of the following parameters
+depending upon the tariff requirement for various categories of consumers. All parameters excluding instantaneous
+electrical parameters shall also be stored in memory.
+(i)
+Cumulative reactive energy
+(ii)
+Average power factor
+(iii)
+Time of use of energy
+(iv)
+Apparent power
+(v)
+Maximum demand
+Page 14/16
+----- PAGE 15 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+(vi)
+Phase voltage and line currents
+(2)
+All the three phase meters shall have data storage capacity for at least 35 days in a non-volatile memory.
+(3)
+Anti-Tampering Features.-
+(a)
+The meter shall not get damaged or rendered non-functional even if any phase and neutral are interchanged.
+(b)
+The meter shall register energy even when the return path of the load current is not terminated back at the meter and in
+such a case the circuit shall be completed through the earth. In case of metallic bodies, the earth terminal shall be
+brought out and provided on the outside of the case.
+(c)
+The meter shall work correctly irrespective of the phase sequence of supply (only for poly phase).
+(d)
+In the case of 3 phase, 3 wire meter even if reference Y phase is removed, the meter shall continue to work. In the case
+of 3 phase, 4 wire system, the meter shall keep working even in the presence of any two wires i.e., even in the absence
+of neutral and any one phase or any two phases.
+(e)
+In case of whole current meters and LV CT operated meter, the meter shall be capable of recording energy correctly
+even if input and output terminals are interchanged.
+(f)
+The registration must occur whether input phase or neutral wires are connected properly or they are interchanged at the
+input terminals.
+(g)
+The meter shall be factory calibrated and shall be sealed suitably before dispatch.
+(h)
+The meter shall be capable of recording occurrences of a missing potential (only for VT operated meters) and its
+restoration with date and time of first such occurrence and last restoration along with total number and duration of such
+occurrences during the above period for all phases.
+(i)
+Additional anti-tampering features including logging of tampers such as current circuit reversal, current circuit short or
+open and presence of abnormal magnetic field may be provided as per the regulations or directions of the Appropriate
+Commission or pursuant to the reforms programme of the Appropriate Government.
+Part IV ? Standards for energy accounting and audit meters
+(1)
+The energy accounting and audit meters shall be suitable for measurement, recording and display of cumulative active
+energy with date and time.
+(2)
+The energy accounting and audit meters may also have the facility to measure, record and display one or more of the
+following parameters depending upon the energy accounting and audit requirement. All parameters excluding
+instantaneous electrical parameters shall also be stored in memory.
+(a)
+Apparent power
+(b)
+Phase wise kilowatt at peak KVA
+(c)
+Phase wise KVA(reactive) at peak KVA
+(d)
+Phase wise voltage at peak KVA
+(e)
+Page 15/16
+----- PAGE 16 -----
+Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006
+Power down time
+(f)
+Average power factor
+(g)
+Line currents
+(h)
+Phase voltages
+(i)
+Date and time
+(j)
+Tamper events
+(3)
+The energy accounting and audit meter shall have data storage capacity for at least 35 days in a non-volatile memory.
+(4)
+Energy accounting and audit meters shall have facility to download the parameters through meter reading instruments
+as well as remote transmission of data over communication network.
+Related AI tags, queries and research notes
+Translation
+Page 16/16

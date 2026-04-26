@@ -1,0 +1,619 @@
+
+----- PAGE 1 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+The Energy Conservation (Partial Risk Guarantee Fund for Energy
+Efficiency) Rules, 2016
+Source: https://indiankanoon.org/doc/38334381/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+UNION OF INDIA
+India
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+Rule
+THE-ENERGY-CONSERVATION-PARTIAL-RISK-GUARANTEE-FUND-FOR-ENERGY-EFFICIENCY-RULES-2016 of
+2016
+Published on 26 May 2016
+Commenced on 26 May 2016
+[This is the version of this document from 26 May 2016.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+Published vide Notification No. G.S.R. 549(E), dated 26th May, 2016
+Ministry of Power
+G.S.R. 549(E). - In exercise of the powers conferred by clause (v) of sub-section (2) of section 56 read with clauses (l),
+(m)and (n) of sub-section (2) of section 13 and section 46 of the Energy Conservation Act, 2001 (52 of 2001), the
+Central Government, in consultation with the Bureau of Energy Efficiency, hereby makes the following rules, namely:-
+1.
+Page 1/12
+----- PAGE 2 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+Short title and commencement.
+(1)
+These rules may be called the Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Energy Conservation Act, 2001 (52 of 2001);
+(b)
+"beneficiary" means any person who enters into a contract with an energy service company empanelled with the Bureau
+for execution of an energy efficiency project in the premises in its possession, based on energy savings performance
+contract;
+(c)
+"Bureau" means the Bureau of Energy Efficiency, an organisation setup under the Act;
+(d)
+"default" means an event when the Trust and Retention Account is not able to honour the interest or instalment of the
+principal of loan amount within the guarantee tenure and the project becomes nonperforming asset for the participating
+financial institution;
+(e)
+"eligible borrower" means the energy service company, empanelled by the Bureau or joint venture of energy service
+companies to whom credit facility has been provided by the participating financial institution, referred to rule 5;
+(f)
+"energy efficiency loan" means the loan sanctioned by the participating financial institution to the borrower for execution
+of energy efficiency project based on energy savings performance contract;
+(g)
+"energy savings performance contract" means a contract entered into the beneficiary and the borrower under which
+payments to the borrower are based on the meeting specified performance guarantees related to the implementation of
+energy efficiency project under Fund;
+(h)
+"energy service company" means a company or set-up for implementing energy efficiency projects, which is empanelled
+with the Bureau;
+(i)
+"Fund" means the Partial Risk Guarantee Fund for Energy Efficiency established under rule 3;
+(j)
+"guarantee agreement" means an agreement between the implementing agency and the participating financial institution
+in respect of energy efficiency loan which shall govern the relationship between the parties and specify, inter alia,
+eligibility conditions, limits of liability and approval, loan appraisal and post-closing reporting guidelines or procedures
+and other related matters for a particular energy efficiency loan;
+(k)
+"guarantee claim" is the amount of risk coverage which the participating financial institution opts to claim from the
+Bureau under Partial Risk Guarantee Fund for Energy Efficiency;
+(l)
+"guarantee facility" means guarantee provided by Partial Risk Guarantee Fund for Energy Efficiency based on certain
+pre-defined criterion, to any loan extended by the participating financial institution to an eligible borrower;
+(m)
+"guarantor" means the implementing agency selected by the Bureau;
+(n)
+"implementing agency" means a public financial institution, registered under section 4A of the Companies Act 1956 (
+Page 2/12
+----- PAGE 3 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+1 of 1956
+),selected by the Bureau for executing the activities under the Partial Risk Guarantee Fund for Energy Efficiency,
+specified in rule 9;
+(o)
+"measurement and verification agency" means an empanelled measurement and verification agency of the Bureau
+under Partial Risk Guarantee Fund for Energy Efficiency;
+(p)
+"memorandum of understanding" means a formal agreement between the Bureau and the participating financial
+institution empanelled with the Bureau;
+(q)
+"measurement and verification" means the mutually agreed procedures, between the borrower and the beneficiary, for
+measurement and verification of energy savings achieved periodically after the commissioning of the energy efficiency
+projects;
+(r)
+"non-performing assets" means an asset in the books of participating financial institution, classified as non-performing
+asset based on the instructions and guidelines issued by the Reserve Bank of India from time-to-time;
+(s)
+"participating financial institution" means a financial institution empanelled with the Bureau, in accordance with the
+operations manual mentioned in clause (b) of sub-rule(3) of rule 7, for participating in the Fund, such as scheduled
+commercial bank (other than regional rural bank)or public financial institutions (registered under section 4A of the
+Companies Act 1956 (
+1 of 1956
+))or non-banking financial companies with the certificate of registration from Reserve Bank of India, registered under the
+category of non-deposit taking non-banking financial companies, Systemically Important Core Investment Company not
+raising public deposit or Infrastructure Finance Companies applying for guarantee facility under Partial Risk Guarantee
+Fund for Energy Efficiency;
+(t)
+"Partial Risk Guarantee Fund for Energy Efficiency" means a risk-sharing mechanism to provide participating financial
+institutions with a partial coverage of risk involved in extending loans for energy-efficiency projects;
+(u)
+"projects" means a proposal eligible for guarantee of loans for energy service company submitted by participating
+financial institution to Partial Risk Guarantee Fund for Energy Efficiency, as referred to sub-rule (7) and (8) of rule 4;
+(v)
+"Supervisory Committee" means the committee set up by the Bureau with the representatives from the Bureau, Ministry
+of Power, Ministry of Finance and other members nominated by the Ministry of Power, as referred to rule 7;
+(w)
+"Trust and Retention Account" means a pass-through account, created within a Trustee Bank, which may be the
+participating financial institution itself, by signing an agreement between the participating financial institution, the
+borrower and the beneficiary through which all proceeds in a particular energy efficiency project under the scheme
+would be routed by the beneficiary.
+3.
+Establishment of Partial Risk Guarantee Fund for Energy Efficiency.
+(1)
+The Bureau shall establish a Partial Risk Guarantee Fund for Energy Efficiency for providing Partial Risk Guarantee to
+the financing of energy efficiency projects proposed by the energy service companies.
+(2)
+The Fund shall be administered by the Bureau of Energy Efficiency.
+(3)
+The activities of the Fund shall be executed by the implementing agency, which shall be a public financial institution
+selected by the Bureau, as specified in rule 9.
+(4)
+Page 3/12
+----- PAGE 4 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+All the grants and loans that may be made by the Central Government for the purposes stated in these rules and interest
+on fund money and fees charged for providing guarantees shall be credited to the fund.
+(5)
+For the purpose of the Fund -
+(a)
+the Bureau shall charge guarantee fee and application fee;
+(b)
+application fee shall be of the maximum guaranteed amount applied for by the participating financial institution at the
+time of application which shall be non-refundable;
+(c)
+the guarantee fee shall be one-time fee of the amount guaranteed for each project which shall be payable after approval
+and before signing of guarantee agreement.
+4.
+Operation of Fund.
+(1)
+The Fund shall give a guarantee for a maximum fifty percent of the loan, only principal amount actually disbursed,
+provided by the participating financial institution and in case of default, the fund shall -
+(a)
+cover the first loss subject to maximum of ten percent of the total guaranteed amount;
+(b)
+cover the remaining default outstanding principal amount actually disbursed amount on paripassu basis upto the
+maximum guaranteed amount.
+(2)
+The implementing agency shall finalise the percentage of guarantee for each guarantee facility.
+(3)
+The participating financial institution shall take guarantee from the Partial Risk Guarantee Fund for Energy Efficiency
+before disbursement of loan to the borrower that is energy service company subject to payment of guarantee fees.
+(4)
+The guarantee shall not exceed rupees ten crore per project or fifty percent of loan amount, whichever is less.
+(5)
+The maximum tenure of the guarantee shall be five years from the date of first disbursement of the energy efficiency
+loan or the last date of the operational period of Partial Risk Guarantee Fund for Energy Efficiency, whichever is earlier.
+(6)
+Under the Partial Risk Guarantee Fund for Energy Efficiency, only individual project guarantee shall be given initially and
+subsequently, based on the experience, the supervisory committee may extend it to portfolio guarantees after approval
+of portfolio guarantee rules by the Ministry of Power.
+(7)
+Each eligible project shall fulfil the conditions that the support under Partial Risk Guarantee Fund for Energy Efficiency
+shall be for the government buildings, private buildings having commercial or multistorey residential accommodations,
+municipalities, small and medium enterprises and industry.
+(8)
+Each eligible project shall meet the following objectives, namely:-
+(a)
+seek to achieve demonstrable energy savings and mitigation in emissions of greenhouse gases;
+(b)
+propose a viable method to monitor and verify energy and greenhouse gas emission savings;
+(c)
+be a new project, not refinancing existing projects or any outstanding obligations of the eligible borrower;
+(d)
+use viable technology and be developed with competent energy audit or feasibility studies; and
+(e)
+Page 4/12
+----- PAGE 5 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+project shall be implemented by Bureau empanelled energy service company on performance contracting mode, where
+there is a defined agreement which link payment to certain level of energy savings.
+(9)
+The following projects are not eligible for Partial Risk Guarantee Fund for Energy Efficiency, namely:-
+(a)
+any project in respect of which performance risks are additionally covered under a scheme operated or administered by
+deposit insurance and credit guarantee corporation or the Reserve Bank of India, to the extent they are so covered;
+(b)
+any project in respect of which performance risks are additionally covered by Government or by any general insurer or
+any other person or association of persons carrying on the business of insurance, guarantee or indemnity, to the extent
+they are so covered;
+(c)
+any project, which does not conform to or is in any way inconsistent with the provisions of any law or with any directives
+or instructions issued by the Central Government or the Reserve Bank of India, which may, for the time being, be in
+force;
+(d)
+any project proposal by energy service company which has not repaid any portion of the amount due to a participating
+financial institution for a guarantee invoked under the Partial Risk Guarantee Fund for Energy Efficiency or under
+scheme mentioned under clause (a) or (b) or (c);
+(e)
+any project covering performance risks under any kind of State Government or Central Government beneficiary scheme;
+and
+(f)
+any defaulter listed by Credit Information Bureau (India) Limited or Reserve Bank of India.
+5.
+Eligibility for the borrowers.
+(1)
+No borrower shall be eligible under the Partial Risk Guarantee Fund for Energy Efficiency unless-
+(a)
+the empanelled energy service company of the Bureau; or
+(b)
+the joint venture of energy service companies formed under the laws of India where the empanelled energy service
+company of the Bureau shall have share capital of at least fifty percent:
+Provided that the participating financial institution and its affiliates, subsidiaries, joint ventures, associates do not own,
+separately or in the aggregate, directly or indirectly, more than ten percent of the total issued and outstanding share
+capital of such entity;
+(2)
+The loan proceeds shall be utilised for the purpose of financing investment of an eligible borrower in goods and services
+intended for the energy efficiency projects.
+6.
+Duration of Fund.
+(1)
+The Partial Risk Guarantee Fund for Energy Efficiency shall be operational till the fund corpus, under the programme, is
+exhausted or for a total period of ten years from the date of commencement of the programme whichever happens
+earlier.
+(2)
+On closure of the Partial Risk Guarantee Fund for Energy Efficiency, the balance funds shall be credited to the amount
+of the Government of India.
+7.
+Supervisory Committee.
+(1)
+Page 5/12
+----- PAGE 6 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+There shall be a Supervisory Committee with the following members; namely:-
+i.
+Director General, Bureau
+-
+Ex-officio Chairperson;
+ii.
+Joint Secretary (Energy Conservation), Ministry of Power or
+nominee
+-
+Ex-officio Member;
+iii.
+Joint Secretary (Department of Banking Services), Ministry of
+Finance or nominee
+-
+Ex-officio Member;
+iv.
+Representative of Non-Banking Financial Companies, preferably
+organisations like Power Finance Corporation or Rural
+Electrification Corporation at the level of Director or nominee
+-
+Ex-officio Member;
+v.
+Representative of a public sector bank such as State Bank of
+India or Punjab National Bank or Bank of India which has large
+energy efficiency portfolio, at the level of executive director
+or nominee
+-
+Ex-officio Member;
+(2)
+The supervisory committee shall be the apex body for providing guidance and monitoring progress in Partial Risk
+Guarantee Fund for Energy Efficiency.
+(3)
+Functions of Supervisory Committee shall be to-
+(a)
+approve and take decisions on matters of policy, modification of rules and participating financial institution compliance
+as and when they arise;
+(b)
+approve Operations Manual for Partial Risk Guarantee Fund for Energy Efficiency covering detailed role and
+responsibility of all the stakeholders including implementing agency, participating financial institution, borrower and
+beneficiary, and other documents required for operationalisation of Partial Risk Guarantee Fund for Energy Efficiency
+alongwith guarantee approval and guarantee claim procedure;
+(c)
+regularly review the lending performance and process compliance of the empanelled participating financial institutions
+and take decision on potential de-empanelment of a particular participating financial institution from Partial Risk
+Guarantee Fund for Energy Efficiency for any reason whatsoever;
+(d)
+shall meet as often as required, but at least once in each quarter to monitor the funds being managed by implementing
+agency and approve the fund money which would be transferred from Bureau to implementing agency; and
+(e)
+provide requisite guidance to the program office at Bureau, which may improve effectiveness of their functioning and
+implementation of the Partial Risk Guarantee Fund for Energy Efficiency.
+Page 6/12
+----- PAGE 7 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+(4)
+The tenure of the Supervisory Committee shall be co-terminus with the Fund.
+(5)
+The Supervisory Committee shall meet at least once in each quarter to ensure smooth operationalization of the Fund
+and work with the Bureau.
+(6)
+A notice of not less than seven days, from the date of issue, shall be ordinarily given to the members of each meeting of
+the Supervisory Committee and the agenda of the meeting shall be circulated to the members, not later than three days
+before the meeting.
+(7)
+The quorum necessary for transaction of business at a meeting of the Advisory Committee shall be onethird of the total
+number of Members of the Committee besides the Chairperson.
+8.
+Role of Bureau of Energy Efficiency.
+- The Bureau shall-
+(a)
+act as the nodal agency for Partial Risk Guarantee Fund for Energy Efficiency;
+(b)
+regularly update the list of empanelled energy service companies of the Bureau on the website of the Bureau;
+(c)
+appoint implementing agency which shall be a public financial institution selected through competitive bidding;
+(d)
+regularly monitor the performance of implementing agency and in case of any nonperformance on the part of
+implementing agency, the Bureau shall take any disciplinary action against implementing agency or impose penalty on
+implementing agency;
+(e)
+empanel independent measurement and verification agency by signing memorandum of understanding with the Bureau
+and fix the lowest rate on which the implementing agency shall be paying to the measurement and verification agency
+for their services and the same shall be reimbursed to implementing agency by the Bureau;
+(f)
+empanel the participating financial institutions under the Partial Risk Guarantee Fund for Energy Efficiency by signing
+memorandum of understanding with the Bureau;
+(g)
+carry out annual visits to few projects, selected on random sampling basis, being covered under the Partial Risk
+Guarantee Fund for Energy Efficiency and submit reports to Supervisory Committee;
+(h)
+manage the Partial Risk Guarantee Fund for Energy Efficiency administrative account with the approval of the Director
+General, Bureau and utilise it for administrative use like for empanelment process, for consultant fee, for administrative
+fee of implementing agency, for media or workshop or seminar or conference cost, for measurement and verification
+agency fee and for other administrative expense of project team of Bureau;
+(i)
+utilise maximum five percent of the total corpus of the Partial Risk Guarantee Fund for Energy Efficiency to meet
+administrative expense related with the fund provided that, interest on corpus amount along with guarantee fee and
+application fee shall also be utilised for meeting administrative expense; and
+(j)
+manage the administrative bank account for clause (i) to meet administrative expense for empanelment process, for
+consultant fee, for administrative fee of Implementing Agency, for media or workshop or seminar or conference cost, for
+measurement and verification agency fee, and for other administrative expense of Project team of Bureau.
+9.
+Functions of Implementing Agency.
+- The following are the functions of the implementing agency, namely:-
+Page 7/12
+----- PAGE 8 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+(a)
+assist the Bureau in scrutinizing and evaluating the documents submitted by participating financial institutions for
+empanelment with Bureau under Partial Risk Guarantee Fund for Energy Efficiency and submit recommendations to the
+Bureau;
+(b)
+to appraise guarantee applications of participating financial institutions with respect to guidelines approved by
+Supervisory Committee and sign the guarantee agreement with the participating financial institution on receipt of the
+guarantee application along with the guarantee fee and other supporting documents;
+(c)
+be independent of the appraisal carried out by the participating financial institution and of the development of the project
+by the eligible borrower;
+(d)
+shall assess and review the progress reports and statement of accounts provided by the Participating Financial
+Institutions on utilisation of the fund and in case of any deviations from the agreement, accordingly bring them to the
+notice of the Supervisory Committee in each quarter;
+(e)
+update the Supervisory Committee, in every Supervisory Committee meetings, on the progress of the Partial Risk
+Guarantee Fund for Energy Efficiency(including guarantees committed or claimed, and other updates) since previous
+meeting and also submit a quarterly report to Bureau regarding the progress and status of Partial Risk Guarantee Fund
+for Energy Efficiency;
+(f)
+shall each year issue an audited report setting out the accounts showing the income and expenditure under Partial Risk
+Guarantee Fund for Energy Efficiency;
+(g)
+to collect guarantee fee and application fee from Participating Financial Institutions and deposit it into Partial Risk
+Guarantee Fund for Energy Efficiency administrative bank account, which shall be managed by the Bureau;
+(h)
+deposit interest on corpus amount to the Bureau for meeting administrative expense;
+(i)
+conduct random due diligence on the appraisal documents on a sample of energy efficiency loans disbursed by
+participating financial institutions and cancel the risk cover for that particular energy efficiency loan, if deviations are
+found;
+(j)
+appoint independent measurement and verification agency empanelled by the Bureau on receipt of guarantee claim
+from participating financial institutions;
+(k)
+the cost of measurement and verification agency shall be reimbursed to implementing agency by the Bureau;
+(l)
+process the guarantee claim procedure and, if found appropriate and mutually agreeable based on the report submitted
+by independent measurement and verification agency, provide the guarantee coverage;
+(m)
+convene an annual meeting with the empanelled participating financial institutions to soundboard their experiences and
+suggestions on successful running of Partial Risk Guarantee Fund for Energy Efficiency;
+(n)
+market Partial Risk Guarantee Fund for Energy Efficiency both with participating financial institutions and the end users
+and energy service company to ensure their participation and prepare pipeline of projects;
+(o)
+be responsible for preparation of marketing material and education of potential stakeholders about the Fund; and
+(p)
+provide a written assurance alongwith the institutional structure relating to the independence of implementing agency
+staff from the review, appraisal and financing of the projects that are put up for guarantee facility to Partial Risk
+Page 8/12
+----- PAGE 9 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+Guarantee Fund for Energy Efficiency. Further, total guarantees provided to the implementing agency (Public Financial
+Institution) shall be limited to ten percent of the total fund value.
+10.
+Invocation of Guarantee.
+(1)
+In case the participating financial institution decides for a guarantee claim under the Partial Risk Guarantee Fund for
+Energy Efficiency, it shall submit the guarantee claim Form to implementing agency within a period of one year from the
+date of declaration of the project as nonperforming assets.
+(2)
+The participating financial institution shall not make or be entitled to make any claim on the Partial Risk Guarantee Fund
+for Energy Efficiency in respect of the default of the said credit facility owing to actions or decisions taken contrary to or
+in contravention of the guidelines issued by the Partial Risk Guarantee Fund for Energy Efficiency.
+(3)
+The claim shall be preferred by the participating financial institution in such manner and within such time as may be
+specified by the Partial Risk Guarantee Fund for Energy Efficiency in this behalf.
+(4)
+The implementing agency shall appoint an independent measurement and verification agency, empanelled by Bureau,
+to do the measurement and verification. Based on the recommendations of measurement and verification agency and
+submission of relevant documents guarantee claim shall be processed by implementing agency.
+(5)
+The Partial Risk Guarantee Fund for Energy Efficiency shall pay seventy five percent of the claim against guarantee by
+the participating financial institution, within sixty days, subject to the claim being otherwise found in order and complete
+in all respects and the balance twenty five percent of the guaranteed amount shall be paid on conclusion of recovery
+proceedings by the participating financial institution.
+(6)
+On a claim being paid, the Partial Risk Guarantee Fund for Energy Efficiency shall be deemed to have been discharged
+from all its liabilities on account of the guarantee in force in respect of the borrower concerned.
+(7)
+In the event of default the participating financial institution shall exercise its rights, if any, to take over the assets of the
+borrowers and the amount realised, if any, from the sale of such assets or otherwise shall be credited in proportion to
+the guarantee given on the total loan amount for that project to Partial Risk Guarantee Fund for Energy Efficiency before
+it claims the remaining twenty five percent of the claim against guarantee.
+(8)
+In the event of serious deficiencies, the participating financial institution shall be liable to refund the claim released by
+the Partial Risk Guarantee Fund for Energy Efficiency together with penal interest at the rate of four percent above the
+base rate of State Bank of India. These serious deficiencies shall be such as inadequate appraisal or renewal or
+follow-up or conduct of the project or multiple lodgement of claim, or suppression of any material information for the
+settlement of claims or any other deficiency.
+(9)
+The participating financial institution shall pay such penal interest, when demanded by the Partial Risk Guarantee Fund
+for Energy Efficiency, from the date of the initial release of the claim by the Partial Risk Guarantee Fund for Energy
+Efficiency to the date of refund of the claim.
+11.
+Subrogation of rights and recoveries on account of claim paid.
+(1)
+The participating financial institution shall furnish to the Partial Risk Guarantee Fund for Energy Efficiency, the details of
+its efforts for recovery, realisation and such other information as may be demanded or required from time to time.
+(2)
+The participating financial institution shall hold lien on assets created out of the credit facility extended to the borrower
+on its own behalf and on behalf of Partial Risk Guarantee Fund for Energy Efficiency.
+(3)
+Page 9/12
+----- PAGE 10 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+The Partial Risk Guarantee Fund for Energy Efficiency shall not exercise any right of subrogation and that the
+responsibility of the recovery of dues including takeover of assets sale of assets and such other acts shall be with the
+participating financial institution.
+(4)
+Every amount recovered and due to be paid to the Partial Risk Guarantee Fund for Energy Efficiency shall be paid
+without delay and if any amount due to the Partial Risk Guarantee Fund for Energy Efficiency remains unpaid beyond a
+period of thirty days from the date on which it was first recovered, interest shall be payable to the Partial Risk Guarantee
+Fund for Energy Efficiency by the participating financial institution at the rate which is four percent above base rate of
+State Bank of India for the period for which payment remains outstanding after the expiry of the said period of thirty
+days.
+12.
+Dispute Resolution.
+(1)
+Any person aggrieved by an order made by the Implementing Agency may approach the Supervisory Committee
+constituted under Partial Risk Guarantee Fund for Energy Efficiency for decision.
+(2)
+Any person aggrieved, by an order made by Supervisory Committee under the Act, may prefer an appeal to the
+Appellate Tribunal for Energy Conservation established under section 30 of the Act.
+(3)
+The person making appeal to the Appellate Tribunal shall file the same in accordance with Appellate Tribunal for Energy
+Conservation (Procedure, Form, Fee and Record of Proceedings) Rules, 2012.
+13.
+Termination of liability in certain cases.
+- The liability of Partial Risk Guarantee Fund for Energy Efficiency may be terminated-
+(a)
+if a project becomes ineligible for being granted any guarantee coverage under these rules, by any reason, the liability of
+the Partial Risk Guarantee Fund for Energy Efficiency in respect of the guarantee coverage granted to participating
+financial institution for the respective project under these rules shall lapse;
+(b)
+if the guarantee claim submitted by the participating financial institution or borrower is found to be fraudulent or if there
+are serious deficiencies, such as inadequate appraisal or renewal or follow-up or conduct of the project or multiple
+lodgement of claim or suppression of any material information for the settlement of claims or any of the deficiency.
+14.
+Guidelines of Reserve Bank of India.
+- The participating financial institution shall follow the instructions and guidelines issued by the Reserve Bank of India
+from time to time.
+15.
+Revision of Rules.
+- The Central Government may revise these rules on the recommendations of Supervisory Committee, as and when
+necessary.
+16.
+Returns and Inspection.
+(1)
+The participating financial institution shall furnish to the Partial Risk Guarantee Fund for Energy Efficiency all such
+documents, receipts, certificates and other writings as the latter may require and shall be deemed to have affirmed that
+the contents of such documents, receipt, certificate and other writings are true, provided that no claim shall be rejected
+and no liability shall attach to the participating financial institution or any officer thereof for anything done in good faith.
+(2)
+The Partial Risk Guarantee Fund for Energy Efficiency shall, insofar as it may be necessary for the purposes of these
+rules, have the right to inspect or call for copies of the books of account and other records, including any book of
+instructions or manual or circulars covering general instructions regarding conduct of advances of the participating
+Page 10/12
+----- PAGE 11 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+financial institution, and of any Borrower from the participating financial institution.
+(3)
+The Bureau or the Implementing Agency or any other person appointed by the Bureau or the Implementing Agency may
+carry out inspection.
+(4)
+Every officer or other employee of the participating financial institution or the Borrower, who is in a position to do so,
+shall make available to Bureau or the person appointed for the inspection, as the case may be, the books of account
+and other records and information which are in his possession.
+17.
+Conditions imposed under Partial Risk Guarantee Fund for Energy Efficiency be binding on the participating financial
+institution.
+(1)
+Any guarantee coverage given by the Partial Risk Guarantee Fund for Energy Efficiency shall be governed by the
+provisions of the Partial Risk Guarantee Fund for Energy Efficiency rules as if the same had been written in the
+documents evidencing such risk coverage.
+(2)
+The participating financial institution shall as far as possible ensure that the conditions of any contract relating to an
+account covered under the Partial Risk Guarantee Fund for Energy Efficiency rules are not in conflict with the provisions
+of the Partial Risk Guarantee Fund for Energy Efficiency rules but notwithstanding any provision in any other documents
+or contract, the participating financial institution shall in relation to the Partial Risk Guarantee Fund for Energy Efficiency
+be bound by the conditions imposed under the Partial Risk Guarantee Fund for Energy Efficiency rules.
+18.
+Modifications and exemptions.
+- the Bureau reserves to itself the right to modify, cancel or replace the Partial Risk Guarantee Fund for Energy
+Efficiency in consultation with the Ministry of Power.
+19.
+Supplementary and General Provisions.
+- In respect of any matter not specifically provided for in this rule, the Bureau may make such supplementary or
+additional provisions or issue such instructions or clarifications as may be necessary for the purpose of these rules with
+the approval of the Ministry of Power.
+20.
+Accounts and Audit.
+(1)
+The Bureau shall maintain true and correct accounts of all monies and of all the income and expenditure made out of
+Partial Risk Guarantee Fund for Energy Efficiency.
+(2)
+The implementing agency shall maintain true and correct accounts of the guarantee money committed and released
+under the Partial Risk Guarantee Fund for Energy Efficiency and the records of other expenditure like measurement and
+verification and other expenditure and interest accrued on the fund.
+(3)
+The Bureau shall release ninety five percent of the existing Partial Risk Guarantee Fund for Energy Efficiency corpus to
+implementing agency and seek status of guarantees committed or released quarterly from the implementing agency
+every quarter.
+(4)
+The implementing agency shall open a separate account for Partial Risk Guarantee Fund for Energy Efficiency fund and
+shall track all details of interest and utilisation or commitment. Implementing agency shall deposit interest on corpus
+amount to the Bureau for meeting administrative expense.
+(5)
+The administrative expense shall include the fees of implementing agency, media or workshop or seminar or conference
+cost, measurement and verification cost, for empanelment process of financial institutions, measurement and verification
+agency, expense of project team of the Bureau and other administrative cost.
+Page 11/12
+----- PAGE 12 -----
+The Energy Conservation (Partial Risk Guarantee Fund for Energy Efficiency) Rules, 2016
+(6)
+The Implementing Agency shall each year issue an audited report setting out the accounts showing the income and
+expenditure under the Partial Risk Guarantee Fund for Energy Efficiency for the preceding year not later than six months
+from the end of the preceding year of accounts.
+(7)
+The year of account shall be the financial year commencing from the 1st April and ending on the 31st March of the
+subsequent year.
+(8)
+The accounts of the fund shall be audited every year by the Comptroller and Auditor General of India and the audited
+statement of accounts together with report of the auditor shall be laid before the Supervisory Committee for approval.
+21.
+Compliance with Statutory Requirements.
+- The participating financial institution shall implement the procedures to ensure that each approved project complies
+with the environmental, health and safety standards.
+22.
+Utilisation of Income.
+(1)
+All income received under the Partial Risk Guarantee Fund for Energy Efficiency shall be part of this fund including
+interest earned on the fund, upfront Guarantee Fee and application fee recovered from the participating financial
+institutions.
+(2)
+The Bureau may utilise the interest accumulated on fund corpus, guarantee fee and application fee to meet the
+administrative expense related with the Partial Risk Guarantee Fund for Energy Efficiency.
+Related AI tags, queries and research notes
+Translation
+Page 12/12

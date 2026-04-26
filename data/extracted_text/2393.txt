@@ -1,0 +1,935 @@
+
+----- PAGE 1 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+The Petroleum and Natural Gas Regulatory Board (Determination of
+Network Tariff for City or Local Natural Gas Distribution Networks and
+Compression Charge for CNG) Regulations, 2008
+Source: https://indiankanoon.org/doc/20842890/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City or Local Natural Gas
+Distribution Networks and Compression Charge for CNG) Regulations, 2008
+UNION OF INDIA
+India
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City or Local Natural Gas
+Distribution Networks and Compression Charge for CNG) Regulations, 2008
+Rule
+THE-PETROLEUM-AND-NATURAL-GAS-REGULATORY-BOARD-DETERMINATION-OF-NETWORK-TARIFF-FOR-CI
+TY-OR-LOCAL-NATURAL-GAS-DISTRIBUTION-NETWORKS-AND-COMPRESSION-CHARGE-FOR-CNG-REGULATI
+ONS-2008 of 2008
+Published on 19 March 2008
+Commenced on 19 March 2008
+[This is the version of this document from 19 March 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City or Local Natural Gas
+Distribution Networks and Compression Charge for CNG) Regulations, 2008
+Page 1/18
+----- PAGE 2 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Published Vide Notification No. G.S.R. 197(E), dated 19th March, 2008
+Petroleum and Natural Gas Regulatory Board
+G.S.R. 197(E). - In exercise of the powers conferred by Section 61 of the Petroleum and Natural Gas Regulatory Board
+Act, 2006 (
+19 of 2006
+), the Petroleum and Natural Gas Regulatory Board hereby makes the following regulations, namely :-
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for
+City or Local Natural Gas Distribution Networks and Compression Charge for CNG) Regulations, 2008.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definition.
+(1)
+In these regulations, unless the context otherwise requires,-
+(a)
+"Act' means the Petroleum and Natural Gas Regulatory Board Act, 2006;
+(b)
+"appointed day' means the date of October 1, 2007 when the Central Government notified the establishment of the
+Petroleum and Natural Gas Regulatory Board;
+(c)
+"Board" means the Petroleum and Natural Gas Regulatory Board established under sub-section (1) of the Act;
+(d)
+"City Gate Station" means the point where custody transfer of natural gas from natural gas pipeline to the city or local
+natural gas distribution network (hereinafter referred as CGD Network) takes place;
+(e)
+"Compression charge for CNG means a charge (excluding statutory taxes and levies) in Rs./kg for online compression
+of natural gas into compressed natural gas (hereinafter referred to as CNG) for subsequent dispensing to consumers in
+a CNG station.
+(f)
+"Development of a CGD network" means laying building, operating or expanding a CGD network.
+(g)
+"Network tariff" means the weighted average unit of tariff (excluding statutory taxes and levies) in rupees per million
+British Thermal Units (Rs./ MMBTU) for all the categories of consumer of natural gas in a CGD Network;
+(2)
+Word and expressions used and not defined in these regulations, but defined in the Act or in the rules or regulations
+made thereunder, shall have the meanings respectively assigned to them in the Act.
+3.
+Application.
+(1)
+These regulations shall apply to an entity,
+(a)
+authorized by the Central Government for laying, building, operating or expanding CGD network before the appointed
+day.
+(b)
+laying, building, operating or expanding CGD network before the appointed day and authorized by the Board for such
+activities under the Petroleum and Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand
+City or Local Natural Gas Distribution Networks) Regulations, 2008.
+4.
+Page 2/18
+----- PAGE 3 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Determination of network tariff and compression charge for CNG.
+- The network tariff and compression charge for CNG in respect of an entity covered clause (a) or clause (b) of
+sub-regulation (1) of regulation 3 shall be determined as per the procedure at Schedule A.
+5.
+Form for data submission for determination of network tariff and compression charge for CNG.
+(1)
+An entity is obligated to submit to the Board the financial, cost and other data in the form at Attachment 1 of Schedule A:
+(a)
+The information referred to in sub-regulation (1) shall be submitted by an entity referred to in clause (a) of sub-regulation
+(1) of regulation 3 within thirty days of the notification of these regulations;
+(b)
+The information referred to in sub-regulation (1) shall be submitted by an entity referred to in clause (b) of sub-regulation
+(1) of regulation 3 alongwith the application seeking grant of authorization under the Petroleum and Natural Gas
+Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks)
+Regulations, 2008.
+6.
+Miscellaneous.
+- If any dispute arises with regards to the interpretation of any of the provisions of these regulations, the decision of the
+Board shall be final.
+A
+[see regulations 3 and 4]
+Procedure for determination of network tariff and compression charge for CNG
+The network tariff and compression charge for CNG in a CGD network shall be determined by considering a reasonable
+(ate of return on normative level of capital employed plus a normative level of operating expenses in the CGD network
+1. Financial feasibility.
+The entity to which these regulations apply shall submit all technical, operating, financial and cost data of the CGD
+network or CGD network project that may be required by the Board for determination of the network tariff and
+compression charge for CNG
+2. Methodology for determination of network tariff and compression charge for CNG.
+The unit rates of network tariff and the compression charge for CNG to be charged for a period shall be the calculation
+based on the "Discounted Cash Flow" (DCF) methodology1 considering the reasonable rate of return as the project's
+internal rate of return as specified in clause 3. The parameters relevant to the applicability of the DCF methodology have
+been described in detail in clause 4 to clause 6.
+3. Reasonable rate of return.
+The reasonable rate of return shall be the rate of return on capital employed equal to fourteen percent post-tax
+considering the rate of return on long-term risk-free Government securities and the need to incentivize investments in
+creation of CGD infrastructure. The rate of return on capital employed once applied to a CGD network shall remain fixed
+for the entire economic life of the project.
+Note: The pre-tax rate of return on capital employed shall be computed by grossing-up fourteen percent by the nominal
+applicable rate of income tax applicable for corporate assesses as per the provisions of the Income Tax, 1961.
+4. Return on total capital employed for network tariff and compression charge for CNG.
+(1)
+The return on total capital employed shall be determined separately for the capital employed in -
+(a)
+the common infrastructure in the CGD network (i.e., consisting of the pipeline from the tap-off point in the natural gas
+pipeline up to the city gate station, if any, city gate station, city gate distribution network consisting of pipelines, district
+regulatory station and distribution related equipments and facilities, but excluding CNG compression and dispensation
+related equipments and facilities) as specified in clause a) and clause c) of Attachment 1 of Schedule A for
+determination of the network tariff.
+(b)
+online compressor and related facilities as specified in clause (b) of Attachment 1 of Schedule A required for
+Page 3/18
+----- PAGE 4 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+compression of natural gas into CNG for dispensation in the CNG sentence in the CGD network for determination of the
+compensation charge for CNG. Land for online compressor and all equipments and facilities beyond the discharge valve
+of the online compressor for CNG are related to the activity of dispensing of CNG and hence not to be considered for
+return on capital employed.
+(2)
+The reasonable rate of return shall be applied on the total capital employed to determine the return on total capital
+employed in the project over its economic life and the authorized entity is free to leverage the financing of the project in
+any suitables manner.
+(3)
+The total capital employed shall be equal to the Gross Fixed Assets in the project less Accumulated depreciation2 Plus
+Normative Working Capital (equal to twenty days of operating and existing depreciation)
+(4)
+The Gross Fixed Assets shall be equal to the their actual historical cost of acquisition (including the costs of any
+subsequent replacement or improvement or modification) or that normatively assessed by the Board, whichever is lower,
+as required in the CGD network or CGD network project over its economic life as per the following basis and principles3
+that may be considered as required to create an efficient and robust CGC infrastructure, namely:-
+(a)
+treatment of an investment in the fixed asset in the determination of total return on capital employed be as per the basis
+indicated in Attachment 2:
+(b)
+capital costs in similar projects elsewhere in India benchmarked on a "like-to-like" basis;
+(c)
+appropriateness of the pipeline design and the operating philosophy with regards to maximum allowable operating
+pressure;
+(d)
+optimization of the equipments and facilities (online compressors for CNG compressors, metering systems, SCADA, fire
+fighting, etc.) required based on an assessment of the appropriate available technology;
+(e)
+design parameters of the equipments, like, online compressors for CNG;
+(f)
+assessment of the latest costs of major equipments in the CGD network - pipelines, online compressors, laying or
+building costs, project management consultancy, pre-operative expenditure, etc;
+(g)
+treatment of costs incurred in providing last mile connectivity (LMC, i.e., between the riser isolation valve before the
+metering unit and the Suraksha hose pipe connecting the burner in the domestic PNG customer's premises) in the return
+on capital employed for network tariff shall be as per the procedure indicated in Attachment 3.
+5. Operating costs.
+Operating costs4 required in the operation and maintenance of -
+1.
+) common infrastructure in the CGD network; and
+2.
+) online compressor facilities for compressing natural gas in to CNG shall be computed separately for sub-clause 2) in
+the determination of network tariff and for sub-clause clause 2) in the determination of compression charge for CNG
+over the economic life, on an actual basis or based on a normative assessment by the Board, whichever is lower over
+the following functional cost head, namely:-
+(i)
+consumables;
+(ii)
+utilities (power, fuel and water);
+(iii)
+salaries and wages;
+Page 4/18
+----- PAGE 5 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+(iv)
+repairs and maintenance:
+(v)
+insurance premia on fixed assets (excluding on the value of loss of profit) and on line-pack volume;
+(vi)
+administrative overheads (to the extent not classifiable under sub-clause (i) to (v), related and also commensurate to the
+level of operations in the CGD network);
+(vii)
+depreciation on fixed assets based on the rates as per Schedule VI to the Companies Act, 1956;
+(viii)
+miscellaneous income (realizable from a fixed asset included in the return on total capital employed or out of an expense
+considered as an operating cost, but does not include Interest income, profit or loss on sale or transfer of any fixed or
+other asset), if any, shall be netted from the operating cost.
+Note: Since the cost of land for siting the online compressor is not considered in the determination of the total return on
+capital employed for compression charge for CNG, any land rentals or land lease charges for siting the online
+compression facilities shall not be considered as an operating cost for the determination of the compression charge for
+CNG.
+6. Volume to be considered in determination of unit network tariff and unit compression charge for CNG.
+The volume to be used as divisor for the purpose of determination (Including for subsequent review periods) of the
+yearly unit network tariff and unit compression charge for CNG shall be equal to-
+a) the actual volume of natural gas (Including the volume of natural gas transported by pipeline till the online compressor
+for CNG) transported in the CGD network and
+b) actual volume of natural gas compressed as CNG.
+Note: Adjustment for the volume correction required due to actual volumes in a review period being different than that
+considered in the divisor in the determination of unit network tariff or compression charge for CNG shall be carried out
+on a prospective basis in the next review period.
+7.
+Economic life.
+The economic life of the project for the purpose of determination of network tariff and compression charge for CNG shall
+be as specified in the Petroleum and Natural Gas Regulatory Board (Exclusivity for City or Local Natural Gas
+Distribution Networks) Regulations, 2008.
+8.
+Review of network tariff and compression charge for CNG.
+a) review of network tariff and compression charge for CNG shall be carried out separately during each review period;
+b) review period shall normally be a period of five years (commencing from 1st of April and ending on 31st March of next
+year) from the end of the fifth year of the economic life of the project;
+c) the actual performance with respect to the capital and operating costs during the previous review period shall be
+monitored against the parameters identified under clauses 4 and 5 and the variations shall be adjusted in the
+calculations on a prospective basis considering the remaining period of the economic life of the CGD project;
+d) The Board may, either on its own or on the entity's request, carry out review in between two tariff review periods,
+considering-
+i) mandatory conversion of vehicles using MS, HSD or any other fuel into CNG fuel to the extant not envisaged earlier
+and necessitating incremental investments;
+ii) changes in the applicable nominal rate of income tax used for grossing-up the rate of return on capital employed;
+iii) sudden change in any parameter used in the determination of the network tariff or the compressed charge for CNG;
+1. Discounted Cash Flow refer to equating the inflows from the projected revenue earnings out of network tariff and
+compression charge for CNG with the outflows of capital and operating expenditures over the economic life of the
+project by discounting these flows at the reasonable rate of return. The volumes and outflows are estimated over the
+economic life which results in the determination of the network tariffs and compression charge for CNG required to be
+earned by the project to achieving the reasonable rate of return.
+2. Depreciation shall be calculated by applying the rates of depreciation as specified in Schedule VI to the Companies
+Page 5/18
+----- PAGE 6 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Act, 1956 on the value of Gross Fixed Asset.
+3. The basis and principle identified here are not exhaustive and may vary depending upon the specific CGC network or
+CGC network project under consideration which the Board may apply in a transparent manner.
+4. Operating costs are those which are necessary for a proper upkeep and maintenance of a tangible asset created for
+operation of the CGD network (including online compressors for CNG) and does not include any financial cost, like,
+interest on loans, bad-debts, expenditure incurred in raising or servicing of capital/ debenture/ bond/ debt, exchange
+variation on revenue account, sales promotion expenses, advertisement expenses (except for inviting tenders), but
+includes normal bank charges, bank guarantee charge, LC charges, application fee and bank charges for bid bond and
+performance bond required as per the terms of authorization.
+Attachment 2 to Schedule A
+[see clause 4 (4) (a) of the Schedule]
+Definition of a fixed asset and treatment in the determination of return on total capital employed for network tariff and
+compression charge for CNG
+The basis of considering fixed assets in a CGD network (including online compressors and related equipments) in the
+determination of the return on total capital employed shall be as per the following norms: -
+1.
+) A fixed asset in a CGD network is a tangible asset having a useful operating life of more than one year and is integral
+to the generation of revenues through network tariff and compression charge for CNG. Investment in securities,
+goodwill, current assets, accumulated loss not written-off, work-in-progress, etc. are not fixed assets.
+2.
+) Any change in the historical cost of the fixed asset due to revaluation or capitalization of losses shall not be
+considered. However, cost incurred in improvements, modification or replacement of any fixed asset shall be considered
+in line with the treatment prescribed in the mandatory accounting standards of the Institute of Chartered Accountants of
+India.
+3.
+) Cost of land purchased and used for putting the facilities essential to the CGD network (including CGS) shall only be
+considered. Land for siting Online CNG Compressors will not be considered. Land put chased for any future use (such
+as for CGD expansion requirements) shall be considered only when used.
+4.
+) Fixed asset declared as commissioned but not deployed in operations of the CGD network shall not be considered.
+5.
+) Any change in the value of the fixed asset due to capitalization of interest on loan (including foreign exchange variation
+in case of any loan in any foreign currency) during the pre-commissioning phase of the fixed asset shall be considered
+provided such loan was utilized for creation of the said fixed asset only.
+6.
+) A fixed asset shall be considered for return on capital employed on a "rolling basis" till the end of the economic life of
+the CGD project, provided it is not decommissioned on reaching 95% of its original caste in the terminal year of the
+economic life, the depreciated value of the asset shall be treated as a project inflow in the DCF calculations for network
+tariff and compression charge for CNG .
+7.
+) Treatment of line-pack volume in pipelines in a CGD network shall be as per the procedure indicated below:-
+a) Assessment of the volume of natural gas required as Line pack in the pipelines as and when commissioned in the
+CGD network shall be as specified in the relevant regulations for technical standards and specifications, including safety
+standards.
+b) The line pack value of natural gas in pipelines in a CGD network shall be considered as a non-depreciating fixed
+asset and included in the total capital employed for network tariff and shall remain fixed over the economic life of the
+project.
+c) The value of the line-pack volume shall be derived by multiplying the volume of line-pack by the average cost of
+natural gas at the CGS station at the time of commissioning of the pipelines in the CGD network.
+d) The salvage value of the line pack at the end of the economic life of the project shall be equal to its value initially
+assessed and shall be considered as a project inflow.
+Page 6/18
+----- PAGE 7 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Attachment 3 to Schedule A
+[see regulation 3 (2) and clause 4 (4) (g) of the Schedule]
+Treatment of costs incurred in last mile connectivity (LMC) in the determination of total return on capital employed  for
+network tariff
+1. In respect of an entity covered either under regulation 3 (1) (a) or under regulation 3 (1) (b),
+a) the new PNG domestic consumers to be connected by the entity post-authorization shall not be required to pay the
+LMC charges upfront and in such a case, the related facilities and equipment shall be the property of the entity and
+eligible for return on total capital employed;
+b) if such entity has already provided connectivity to some domestic PNG customers and upfront collected the LMC
+charges, the facilities and equipments, like, regulator, meter, pipe, valves, etc. shall be the property of the domestic
+consumer:
+Provided that in case the actual cost of providing last mile connectivity to a PNG domestic customer exceeds the
+amount collected upfront by the entity from the PNG domestic customer, then the balance amount (that is, the difference
+between the actual cost of providing last mile connectivity and the amount so collected from the domestic PNG
+customer) shall be considered for return on total capital employed:
+c) in order to allow differentiation in the treatment of PNG domestic customers, the network tariff shall be split over the
+following charge elements, namely:-
+i) network tariff charge for the common CGD infrastructure before the pipe connecting the metering unit:
+ii) charge towards last mile connectivity, that is, equipments and facilities from the pipe connecting the metering unit and
+onwards upto and including the suraksha hose pipe connecting the burner;
+d) domestic PNG customers who have paid the LMC charge upfront shall be required to pay only the network tariff
+charge for the common infrastructure specified at item i) of sub-clause c). Other domestic PNG customers shall be
+required to pay both the charges [that is, for the common infrastructure mentioned at item i) of sub-clause c) and for the
+LMC charges mentioned at item ii) of sub-clause c)] through the network tariff, in addition to paying the interest-free
+refundable security deposit of up to a maximum of Rs. 5,000.
+2. Entity may collect refundable interest free security deposit as specified under the Petroleum and Natural Gas
+Regulatory Board (Authorizing Entities for Laying, Building, Operating or Expanding City or Local Natural Gas
+Distribution Networks) Regulations, 2008. Such deposit is towards the safe-keeping of the meter and is to be refunded in
+full to the domestic PNG customer in case of a dis-connection. Further, since the amount collected as interest-frae
+refundable security deposit shall exist as a liability in the books of accounts of the entity, the same shall not be reduced
+from the total capital employed while determining the network tariff.
+Attachment 1
+[see sub-regulation (1) to regulation 5]
+Project Capital Cost Summary (Capex Out Flows)
+Sr. No.
+Description
+INR
+FE
+Total (*)
+Indian Rupees
+Foreign Exchange
+A
+1
+2
+3
+Plant & Machinery
+City Gate Station [see Attachment
+1 (a)]
+Online Compressors [as per
+Attachment 1 b)]
+City Gas Distribution [as per Attachment 1 c]
+Page 7/18
+----- PAGE 8 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Subtotal (A)
+B
+1
+2
+Engineering Costs
+Detailed engineering, procurement,
+construction, supervision)n a project management
+Service tax on above
+Subtotal (B)
+C
+1
+2
+Owner's Cost, Start-up Expenses
+Start-up and commissioning
+expenses
+Owner's management expenses
+Subtotal (c)
+D
+1
+2
+3
+4
+Other Costs
+Contingencies and escalation
+Preliminary and pre-operative
+expenses
+Interest during construction
+period and financing charges
+Margin money for working capital
+Subtotal (D)
+Total (A+B+C+D)
+(*) INR + FE Converted to INR
+Note: Details of assumptions and calculations to be given for Item D.
+Attachment 1 (a)
+[see sub-regulation (1) to regulation 5]
+1. Capital Cost of City Gate Station
+Sr. No.
+Description
+INR
+FE
+Total(*)
+Technical Specifications
+A
+Land
+1
+Cost of land (for siting the CGS only)
+Area in Square meters and Rate.
+Subtotal
+B
+City Gate Station
+1
+Page 8/18
+----- PAGE 9 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Mechanical
+2
+Instrumentation
+3
+Electrical
+4
+Fire fighting system
+5
+Any other item (details to be given)
+Subtotal
+C
+Capital Spares(detail to be given)
+Subtotal
+D
+Erection
+1
+Mechanical
+2
+Electrical
+3
+Instrumentation
+4
+Civil Work
+5
+Land
+6
+Any other item (details to be given)
+Subtotal
+E
+Taxes & Duties
+1
+Ocean freight
+2
+Customers duty
+3
+Port handling
+4
+Inland freight
+5
+Excise and SCT
+6
+Works contract tax
+7
+Insurance
+8
+Any other applicable tax and duty (give details)
+Subtotal
+Total (A to E)
+(*)INR+FE Converted to INR
+Attachment 1 (b)
+[see sub-regulation (1) to regulation 5]
+Page 9/18
+----- PAGE 10 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+2. Capital Cost of Online Compressors for CNG
+Sr. No.
+Description
+INR
+FE
+Total(*)
+Technical Specification
+A
+On-line Compressor and related facilities
+1
+On-line Compressor
+2
+DG Set And Control Panel
+3
+Fire Fighting System
+4
+Metering Skid
+5
+UPS or Battery Banks
+6
+Miscellaneous
+7
+Any other item (details to be given)
+Subtotal
+C
+Capital Spares(details to be given)
+D
+Erection
+1
+Mechanical
+2
+Electrical
+3
+Instrumentation
+4
+Civil Work
+5
+Any other item (details to be given)
+Subtotal
+E
+Taxes and Duties
+1
+Ocean Freight
+2
+Customs Duty
+3
+Port Handling
+4
+Inland Freight
+5
+Excise and CST
+Page 10/18
+----- PAGE 11 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+6
+Works Contract Tax
+7
+Insurance
+8
+Any other applicable tax and duty (give details)
+Subtotal
+Total (A to E)
+(*) INR +FE Converted to INR
+Note: 1. Compressor facilities to be considered shall include the online compressor and equipments between inlet valve
+to discharge flange.
+2. Facilities beyond the discharge valve of the online compressor for CNG, booster compressors in CNG stations and
+land shall not be considered for return on capital employed in the determination of compression charge for CNG.
+3. The above cost is to be considered for return on capital employed in the determination of compression charge for
+CNG.
+Attachment 1 (c)
+[see sub-regulation (1) to regulation 5]
+3. Capital Cost Of City Gas Distribution
+Sr.No.
+Description of facilities
+INR
+FE
+Total (*)
+Technical Specifications
+A
+Equipment
+1
+Pipe MOPE
+2
+Pipe HDPE
+3
+Steel Pipes - Main Grid-line PE Coated
+4
+Cathodic Protection
+5
+SCADA
+6
+OFC, Telecom & Tele-supervisory System
+7
+Warming Grid Tape
+8
+Odourising Unit
+9
+MDPE Valves, Fittings, Transition Fittings
+10
+DRS
+11
+TCP/PCP
+12
+Capital Stores (give details)
+13
+Page 11/18
+----- PAGE 12 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Any other item (details to be given)
+Subtotal
+B
+Erection
+1
+Mechanical
+2
+Electrical
+3
+Instrumentation
+4
+Civil work
+5
+Land
+6
+Any other item (details to be given)
+Subtotal
+C
+Taxes & Duties
+1
+Ocean Freight
+2
+Customs Duty
+3
+Port Handling
+4
+Inland Freight
+5
+Excise and CST
+6
+Works Contract Tax
+7
+Insurance
+8
+Any other cost (details to be given)
+Subtotal
+Total (A+B+C)
+(*) INR + FE Converted to INR
+Note: 1. Pipelines includes pipelines for transportation of natural gas to Online Compressor for CNG.
+Attachment 1 (d)
+[See sub-regulation (1) to regulation 5]
+Estimated Profit and Loss Account
+Rs.
+Sr. No.
+Description
+Year 1
+Year 2
+Year 3
+Year 4
+******
+Year 25
+Page 12/18
+----- PAGE 13 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+1
+Total Inflows
+a
+-Revenue from Network Tariff (based on PIRR)
+b
+-Revenue from compression charge for CNG (based on PIRR)
+2
+Total operating cost Outflows (*)
+a
+Consumables & Chemicals
+b
+Utilities -(Power, Fuel)
+c
+Salaries
+d
+Repair & Maintenance
+e
+General Administrative Expenses
+Bank Charges including on Bid Bond and Performance Bond as of
+the Grant of Authorization
+f
+Other Expenses excluding (bad-debts) to be detailed
+g
+Insurance including on Line Pack volumes
+3
+Profit before Depreciation, Interest and Tax (PBDIT) (1-2)
+4
+Interest on Working Capital Borrowings to the extent utilised
+in working capital requirement for above expenses (with rates)
+5
+Interest on Term Loans (with rates)
+6
+Profit before Depreciation and Tax PBDT (3-4-5)
+7
+Depreciation (on SLM basis) & Misc expenses written off
+(give details of each)
+8
+Profit Before Tax (PBT) (6-7)
+9
+Tax provision (provide as per IT Rules in force)
+10
+Profit after Tax (PAT)(8-9)
+Cash From operator(CFO)(10 +7)- to be transferred to cash
+flow sheet
+(*) Excluding all direct, Indirect and allocated common cost associated beyond compression of natural gas in Online
+Compressor. Financial costs and selling expenses to be excluded.
+Note: 1. The Network Tariff Shall be based on the volumes of Natural Gas transported in pipelines for all consumers
+(including supply by pipeline to Online Compressors for compression of natural gas into CNG as determined by the DCF
+methodology adopted by considering a PIRR at which level the Net inflows equal the net outflows over the economic life
+01 the project.
+2. The Compression Charge for CNG shall be based on the Volumes of Natural Gas transported by pipeline to online
+Page 13/18
+----- PAGE 14 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+compressors for compression into CNG as determined by the DCF methodology adopted by considering a PIRR, at
+which level the cumulative inflows equal the outflows over the economic life of the project.
+3. For Expansion extension - Same data as applicable for project post expansion or extension.
+4. Land rentals or land lease charges towards siting of online compressors shall not be considered for return on capital
+employed or operating cost as the case maybe.
+5. Non-operating income (such as Interest on interest-free refundable security deposit from PNG domestic customers)
+not to be considered as project inflows.
+6. Modvat benefit, if available, is to be reflected separately alongwith the calculations.
+7. Copy of Audited Profit & Loss Account to be attached, where-ever applicable
+Attachment 1 (e)
+[see sub-regulation (1) to regulation 5]
+Cash Flow Statement
+Sr. No.
+YEAR
+Construction period
+Year 1
+Year 2
+Year 3
+Year 4
+------
+Year 25
+1
+Sources of Funds
+a
+Equity/Preference Equity (*)
+b
+Term Loans/short term loans
+c
+Cash From Operations
+d
+Bank Borrowings for  Working Capital
+e
+Others (Please Specify)
+2
+Uses of Funds
+a
+Capital Expenditure
+b
+Normal/additional Capital Expenditure
+c
+Increase/(Decrease) in Net Working Capital
+d
+Repayment of Loans
+e
+Dividends to Equity holders
+f
+Tax on Distributable Profits
+g
+Others (Please Specify)
+3
+Cash Surplus/(Deficit)
+Page 14/18
+----- PAGE 15 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+a
+Opening Cash Balance
+b
+Closing Cash Balance
+(*) Redemption details to be given.
+Attachment 1 (f)
+[See sub-regulation (1) to regulation 5]
+Estimated Balance-Sheet
+Rs.
+YEAR
+Construction period
+Year 1
+Year 2
+Year 3
+Year 4
+----------
+Year 25
+Assets
+Gross Fixed Assets
+Less: Accumulated Depreciation (*)
+Net Fixed Assets
+Net Current Assets
+Cash & Bank
+Investments
+Mise Fixed assets
+Deferred Revenue Exp.
+Others (Please specify)
+Liabilities
+Net Worth
+Equity Capital
+Preference Share Capital (**)
+Reserves
+Debt
+Rupee Term Loans
+FC Term Loans
+Bank Borrowings for Working Capital
+Others (Please specify)
+(*) Asset head-wise depreciation calculations on SLM basis to be provided.
+(**) To the extent non-redeemable. Redeemable Preference Capital to be shown under Debt.
+Note: a) Copy of Audited Balance Sheet to be attached, where ever applicable.
+Attachment 1 (g)
+[see sub-regulation (1) to regulation 5]
+Network Tariff Calculations
+YEAR
+Construction period
+Year1
+Year 2
+Year 3
+Year 4
+----
+Year 25
+Page 15/18
+----- PAGE 16 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+a) Capital and Operating Cost
+Outflows (incl. Margin Money)
+b) Inflows (Profit Before Depreciation Interest & Tax - as
+per Item 3 of P&L Account)
+Net Inflows/Outflows)
+Cumulative Inflows outflows)
+Network Tariff for each year calulated based on reasonable rate of return as project's internal rate of return as specified
+in clause 2 of Schedule A| | {|
+|}
+Compression Charge for CNG Calculations
+YEAR
+Construction period
+Year1
+Year 2
+Year 3
+Year 4
+----
+Year 25
+a) Capital and Operating Cost
+Outflows (incl. Margin Money)
+b) Inflows (Profit Before Depreciation Interest & Tax - as
+per Item 3 of P&L Account)
+Net Inflows/Outflows)
+Cumulative Inflows outflows)
+Compression charge for CNG each year calculated based on reasonable rate of return as project's internal rate of return
+as specified in clause 2 of Schedule A| | {|
+|}
+Attachment 1 (h)
+[see sub-regulation (1) to regulation 5]
+Details of the assumptions made in the calculations
+1. Exchange rate used for computing capital costs
+2. Format of Annual Operating Cost
+Sr. No.
+Description of cost elements
+Rs.
+A
+Variable Cost
+1
+Consumables
+a) Fuel (Quantity and rates)
+2
+Utilities (quantity and rates)
+a) Power
+(*)
+b) Water
+Any other Expenses (to be specified)
+Sub Total
+B
+Fixed/Semi Variable Cost
+1
+Salary and wages
+Page 16/18
+----- PAGE 17 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+2
+General Administration
+3
+Repairs and Maintenance
+4
+Any other expenses (to be specified)
+(£)
+Sub Total
+C
+Insurance
+(%)
+Total (A+B+C)
+(*) Break-up of purchased power (over fixed charge & variable charge) & own generation to be provided
+($) Break-up over routine & turnaround as well as function-wise over electrical. Civil, mechanical etc. to be provided.
+(£) Basis 6f direct & indirect administrative expenses (alongwith basis of allocation to be provided).
+(%) Break-up of premia on loss of profit, facilities & Line-pack volume to be provided.
+Note: For each items of operating cost, detailed assumptions and calculations to be attached
+b Give basis of allocation/apportionment of costs over various categories of customers (CNG & PNG residential,
+commercial, Industrial) over each of the cost element
+3. Project implementation schedule to be given along with break up of expenditure for each year
+4. Loan schedule to be provided for each type of loan, Interest rates, repayments etc.
+5. Applicable rates of depreciation as per schedule VI of the Companies Act and Income Tax Act shall be provided.
+6. Pipeline lengths based on type class in the CGD network.
+7. Steel pipeline design capacity and rated capacities of online compressors of CNG to be provided.
+8. Capacity utilisation of the steel belting pipeline and online compressors of CNG alongwith the basis to be provided.
+9.
+Implementation period of project in phases to be indicate.
+10.
+Economic life of the project
+11.
+Applicable Rate of Income Tax
+12.
+Details of Volumes of Natural, Gas to be transported in pipelines in the CGD Network (in SCM or in Kg as applicable,
+based on the conversion factors).
+CNG
+PNG - Residential
+PNG - Commercial
+PNG - Industrial
+Year 1
+Year 2
+Year 3
+Year 4
+----
+Year 25
+Total
+Note: A) Growth rates for various segments of customers.
+B) Detailed note for base year volumes & growth rates assumed.
+C) Conversion factors adopted in determination of calorific equivalence of the volume of natural gas to be provided.
+13.
+Pipeline Tariff details as given below, shall be furnished.
+1
+Page 17/18
+----- PAGE 18 -----
+The Petroleum and Natural Gas Regulatory Board (Determination of Network Tariff for City o...
+Compression Charge for CNG
+in Rs./Kg (*)
+Year 1
+Year 2
+Year 3
+Year 4
+---
+Year 25
+2
+Overall Unit Network Tariff in Rs./MMBTU ($)
+($) considering supply of natural gas by pipeline to online compressors for compressing into CNG.
+(*) considering PNG supplies to all consumers, including supply of natural gas to online compressors for CNG.
+14.
+Copy of the duly appraised approved Detailed Financial Report to be enclosed. Any variation in the parameters adopted
+in the calculation of the network tariff and or the compression charge for CNG from the basis adopted in the DFR to be
+explained
+Related AI tags, queries and research notes
+Translation
+Page 18/18

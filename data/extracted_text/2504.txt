@@ -1,0 +1,984 @@
+
+----- PAGE 1 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Central Electricity Regulatory Commission (Grant of Connectivity,
+Long-term Access and Medium-term Open Access in inter-State
+Transmission and related matters) Regulations, 2009
+Source: https://indiankanoon.org/doc/82306782/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in
+inter-State Transmission and related matters) Regulations, 2009
+UNION OF INDIA
+India
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in
+inter-State Transmission and related matters) Regulations, 2009
+Rule
+CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-GRANT-OF-CONNECTIVITY-LONG-TERM-ACCESS-AND-
+MEDIUM-TERM-OPEN-ACCESS-IN-INTER-STATE-TRANSMISSION-AND-RELATED-MATTERS-REGULATIONS-200
+9 of 2009
+Published on 7 July 2009
+Commenced on 7 July 2009
+[This is the version of this document from 7 July 2009.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Medium-term Open Access in
+inter-State Transmission and related matters) Regulations, 2009
+Page 1/19
+----- PAGE 2 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Published vide Notification No. L-l/(3)/2009-CERC, dated 7.7.2009
+Last Updated 4th February, 2019
+No. L-l/(3)/2009-CERC. - In exercise of powers conferred by Section 178 of the Electricity Act, 2003 and all other powers
+enabling it in this behalf and after previous publication, the Central Electricity Regulatory Commission, hereby makes the
+following regulations, namely -
+Chapter-1 Preliminary
+1.
+Short Title and Commencement.
+(1)
+These regulations maybe called the Central Electricity Regulatory Commission (Grant of Connectivity, Long-term
+Access and Medium-term Open Access in inter-State Transmission and related matters) Regulations, 2009.
+(2)
+[ These regulations shall come into force on such date as the Commission may notify:]
+[Came into force w.e.f. 01.01.2010 vide notification No. L-l/(3)/2009-CERC published in Part m, Section 4, No. 02 of the
+Gazette of India (Extraordinary) dated 01.01.2010.]
+Provided that the date for the coming into force of these regulations shall be after the 'detailed procedure' of the Central
+Transmission Utility has been approved by the Commission.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires:
+(a)
+'Act' means the Electricity Act, 2003 (
+36 of 2003
+);
+(b)
+[ 'Applicant' means
+[Substituted vide First Amendment Regulation, 2010 w.e.f. 07.09.2010.]
+(i)
+The following in respect grant of connectivity:
+(a)
+[ A generating station other than Renewable Energy Generating station, with installed capacity of 250 MW and above,
+including a captive generating plant of exportable capacity of 250 MW and above or;]
+(aa)
+[ A Renewable Energy generating station with installed capacity of 50 MW and above, or;]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(b)
+[ A Hydro Generating station of installed capacity between 50 MW and 250 MW.
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(c)
+One of the Hydro Generating stations or standalone storage project individually having less than 50 MW installed
+capacity, but collectively having an aggregate installed capacity of 50 MW and above, and acting on behalf of all these
+generating stations or Standalone Storage Project, and seeking connection from CTU at a single connection point at the
+pooling sub-station forming part of ISTS, termed as the lead generator, or;]
+(cc)
+[ Renewable Energy generating station individually having less than 50 MW installed capacity, but collectively having an
+aggregate installed capacity of 50 MW and above, and one of them acting on behalf of all these generating stations, and
+seeking connection from CTU at a single connection point at the pooling sub-station forming part of ISTS, termed as the
+lead generator, or]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(d)
+Page 2/19
+----- PAGE 3 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+A bulk consumer.]
+(e)
+[ Any renewable energy generating station of 5 MW capacity and above developed by a generating company within or
+outside the premises of its existing generating station of the description referred to in sub-clauses (b)(i)(a) to (cc) of this
+clause and seeking connectivity to the existing connection point with inter-State Transmission System through the
+electrical system of the generating station subject to availability of Connectivity capacity in existing station as assessed
+by CTU.]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(ee)
+[ Any renewable energy generating station of 5 MW capacity and above developed by a Renewable power park
+developer within or outside the premises of its existing Power Park of the description referred to in sub-clauses (b)(i)(g)
+of this clause and seeking connectivity to the existing connection point with inter-State Transmission System through the
+electrical system of the Renewable Power Park subject to availability of Connectivity capacity in existing Power Park as
+assessed by CTU;]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(f)
+[ Any company or entity authorized by the Central Government or State Government as Renewable Power Park
+developer or;]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(g)
+[ Any company or entity designated by the Central Government or State Government as Renewable Energy
+Implementing Agency on behalf of the Renewable Energy Generating Station(s)of the description under Clause
+2(1)(b)(i)(aa) and 2(1)(b)(i)(cc) or;
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(h)
+Project based on standalone storage source(s) of installed capacity 50 MW or above.
+(ii)
+[ A generating station including a captive generating plant, a consumer, an electricity trader or a distribution licensee or
+applicant covered under Clauses 2(1)(b)(i)(a) to (e) and 2(1)(b)(i)(h), in respect of long-term access or medium-term
+open access, as the case may be;
+(iii)
+Applicants covered under Clause 2(1)(b)(i)(f) and Clause 2(1)(b)(i)(g), in respect of long term access.]]
+(c)
+'Bulk Consumer' means in respect of connectivity, any consumer who intends to avail supply of a minimum load of 100
+MW from the Inter-State Transmission System;
+(d)
+'Commission' means the Central Electricity Regulatory Commission referred to in sub-section (1) of Section 76 of the
+Act;
+(e)
+'Connectivity' for a generating station, including a captive generating plant, a bulk consumer or an inter-State
+Transmission licensee means the state of getting connected to the inter-State Transmission system;
+(f)
+'Consumer' means any consumer eligible to avail open access as specified by the State Commission under sub-section
+(2) of Section 42 of the Act;
+(g)
+'Day' means the day starting at 00.00 hours and ending at 24.00 hours;
+(h)
+'Detailed Procedure' means the procedure issued by the Central Transmission Utility as referred to in Regulation 6
+hereof;
+(i)
+'Grid Code' means the Grid Code specified by the Commission under Clause (h) of sub-section (1) of Section 79 of the
+Page 3/19
+----- PAGE 4 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Act;
+(j)
+'Intra-State Entity' means a person whose metering and energy accounting are done by the State Load Despatch Centre
+or by any other authorized State utility;
+(k)
+'Interface Meters' means interface meters installed in accordance with the Central Electricity Authority (Installation and
+Operation of Meters) Regulations, 2006, specified by the Central Electricity Authority and amended from time to time;
+[(k-a) 'Renewable Energy Implementing Agency' means a company or entity designated by the Central Government or
+the State Government to act as Intermediary Procurer to select and buy power from Renewable energy generating
+station(s) and sell the same to one or more distribution licensees or any other person in accordance with the Guidelines
+issued from time to time by the Ministry of Power, Government of India or the Ministry of New and Renewable Energy,
+Government of India or the State Government.]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(l)
+'Long-Term Access' means the right to use the inter-State Transmission system for a period exceeding 12 years but not
+exceeding 25 years;
+(m)
+'Long-Term Customer' means a person who has been granted long-term access and includes a person who has been
+allocated central sector generation that is electricity supply from a generating station owned or controlled by the Central
+Government;
+(n)
+'Medium-Term Open Access' means the right to use the inter-State Transmission system for a period exceeding 3
+months but not exceeding 3 years;
+(o)
+'Medium-Term Customer' means a person who has been granted medium-term open access;
+(p)
+'Month' means a calendar month as per the British calendar;
+(q)
+'Nodal agency' means the Central Transmission Utility referred to in Regulation 4 hereof;
+(r)
+'Regional Entity' means a person whose metering and energy accounting are done at the regional level;
+[(r-a) "Renewable Energy Generating Station" shall mean a generating station based on any renewable source of
+energy, and shall include Renewable Hybrid Generating Station;
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(r-b) "Renewable Hybrid Generating Station" shall mean a generating station based on hybrid of any renewable
+source(s) with or without storage;
+(r-c) "Renewable Hybrid Power Park" shall mean the Power Park based on hybrid of any renewable source(s) with or
+without storage;
+(r-d) "Renewable Power Park Developers" shall mean a Solar Power Park Developer or Wind Power Park Developer or
+Renewable Hybrid Power Park Developer;]
+(s)
+'Short-Term Open Access' has the meaning ascribed thereto in the Central Electricity Regulatory Commission (Open
+Access in inter-State Transmission) Regulations, 2008;
+(t)
+'State Commission' means the State Electricity Regulatory Commission constituted under Section 82 of the Act and
+includes the Joint Commission constituted under Section 83 thereof;
+(u)
+'State Network' means the intra-State Transmission system owned by the State Transmission Utility, transmission
+licensee or the network of any other person who has been granted licence by the State Commission to establish or
+operate distribution lines within the State;
+[(u-a) "Storage" means energy storage system utilizing methods and technologies like, Solid State Batteries, Flow
+Page 4/19
+----- PAGE 5 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Batteries, Pumped Storage hydro-power, Compressed Air, or any other technology, to store various forms of energy and
+deliver the stored energy in the form of electricity;]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(v)
+'Stranded Transmission Capacity' means the transmission capacity in the inter-State Transmission system which is likely
+to remain unutilized due to relinquishment of access rights by a long-term customer in accordance with Regulation 16.
+(2)
+Words and expressions used in these regulations and not defined herein but defined in the Act or the Grid Code or any
+other regulations specified by the Commission shall, unless the context otherwise requires, have the meanings assigned
+to them under the Act or the Grid Code or other regulations specified by the Commission, as the case may be.
+Chapter-2 General Provisions
+3.
+Scope.
+- These regulations, after they come into force, shall apply to the giant of connectivity, long-term access and
+medium-term open access, in respect of inter-State transmission system:
+Provided that a generating station, including captive generating plant or a bulk consumer, seeking connectivity to the
+inter-State transmission system cannot apply for long-term access or medium-term open access without applying for
+connectivity:
+Provided further that a person may apply for connectivity and long-term access or medium-term open access
+simultaneously.
+4.
+Nodal Agency.
+- The nodal agency for giant of connectivity, long-term access and medium-term open access to the inter-State
+transmission system shall be the Central Transmission Utility.
+5.
+Filing of Application.
+- Applications for giant of connectivity or long-term access or medium-term open access shall be made to the nodal
+agency:
+[Provided that an application for connectivity is not required to be made by any transmission licensee;]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+Provided, however, that an inter-State transmission licensee other than Central Transmission Utility, nevertheless, shall
+sign a connection agreement with the Central Transmission Utility, as provided for in Clause (5) of regulation 8 of these
+Regulations.
+5A.
+[ Processing of Application.
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(a)
+All Applications shall be made online in accordance with detailed Procedure.
+(b)
+The applications complete in all respects, received online shall have a time and date stamp. Further, such applications
+received by 24:00 hrs. of the last day of the month shall be deemed to have been received during the month and shall
+be processed after the end of the month.
+(c)
+Upon submission of the online application, auto-generated acknowledgement for receipt of application shall be issued by
+the nodal agency.
+(d)
+After scrutiny, nodal agency shall intimate the deficiencies in the application, if any, to the applicant within one week of
+receipt of application. The applicant shall rectify the deficiency within one week thereafter, failing which the application
+shall be closed and 20% of the application fees shall be forfeited and balance shall be refunded and the Bank
+Guarantee, if any, shall be returned within 15 days of closure of the application. If the rectified application is received
+from the applicant after 24:00 hrs of the last day of the month in which application is made, application shall be deemed
+Page 5/19
+----- PAGE 6 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+to have been made in subsequent month and shall be processed accordingly.]
+6.
+Application fee.
+- The application referred to in regulation 5 shall be accompanied by a non-refundable application fee specified
+hereunder, payable in the name and in the manner to be laid down by the Central Transmission Utility in the detailed
+procedure: -
+S. No.
+Quantum of Power to be injected/off taken
+into/ from ISTS
+Application fee (Rs. in lakh)
+For Connectivity
+Long-term access
+Medium-term open access
+1.
+Up to 100 MW
+2
+2
+1
+1
+More than 100 MW and up to 500 MW
+3
+3
+2
+2
+More than 500 MW and up to 1000 MW
+6
+6
+3
+3
+More than 1000 MW
+9
+9
+4
+7.
+Timeframe for processing of application.
+- The application shall be processed by the nodal agency within the time limits specified hereunder: -
+Nature of Application
+Time limit for processing beginning the last day
+of the month in which application was received by the nodal
+agency
+Connectivity
+60 days
+Long-term access
+120 days where
+augmentation of transmission system is not required
+180 days, where augmentation of transmission
+system is required
+Medium-term open access
+40 days
+Chapter-3 Connectivity
+8.
+Page 6/19
+----- PAGE 7 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Grant of Connectivity.
+(1)
+The application for connectivity shall contain details such as, proposed geographical location of the applicant, quantum
+of power to be interchanged that is the quantum of power to be injected in the case of a generating station including a
+captive generating plant and quantum of power to be drawn in the case of a bulk consumer, with the inter-State
+transmission system and such other details as may be laid down by the Central Transmission Utility in the detailed
+procedure:
+[Provided that where after filing of an application, there has been a material change in the location or in the quantum of
+power to be interchanged with the inter-state transmission system, by more than 100 MW or 40% of the installed
+capacity, whichever is less, in the case of applicant defined under sub-clauses (b)(i)(a), (b)(i)(aa), (b)(i)(b), (b)(i)(d),
+(b)(i)(e), (b)(i)(f), (b)(i)(g)and (b)(i)(h) and 100MW or 40% of the aggregate installed capacity, whichever is less, in the
+case of applicant defined under sub-clauses (b)(i)(c) and (b)(i)(cc), of Clause (1) of Regulation 2, such an applicant shall
+make a fresh application, which shall be considered in accordance with these regulations:
+Provided further that such change in quantum of power to be interchanged with inter- State transmission system shall be
+allowed only if the applicant remains eligible under clause 2(1)(b);]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+[Provided that an applicant connected with the grid or granted connectivity for a specific project can, with prior approval
+of CTU, utilize the same Connectivity for additional generation capacity (for same or hybrid of renewable sources),
+subject to the condition that net injection at any point of time does not exceed the quantum of total Connectivity granted
+for the original project.For such additional generation capacity, the said generating station shall undertake all operational
+and commercial responsibilities for the additional capacity for compliance of the provisions of the Indian Electricity Grid
+Code and all other regulations of the Commission, such as grid security, scheduling and dispatch, collection and
+payment/adjustment of Transmission charges, charges for deviation, congestion and other charges etc., and submit an
+undertaking in the prescribed format in this regard to the CTU, with copy to the respective RLDC in whose control area it
+is located. The applicant shall make an application to CTU for Connectivity for additional capacity and pay application
+fee as specified in Regulation 6 of these Regulations;]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+Provided further that the application by the applicant defined under Regulation 2 (1) (b) (i) (c) [and Regulation
+2(1)(b)(i)(cc)]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+, shall be considered by CTU only if all the generators, whose aggregate capacity is connected at the single connection
+point, formalize a written agreement among themselves that the lead generator shall act on behalf of all the generators
+to undertake all operational and commercial responsibilities for all the collective generators connected at that point in
+following the provisions of the Indian Electricity Grid Code and all other Regulations of the Commission, such as grid
+security, scheduling and dispatch, collection and payment/ adjustment of transmission charges, UI charges, congestion
+and other charges, etc., and submit a copy of the agreement to the CTU, with the application of connectivity, along with
+a copy to the respective RLDC in whose control areas it is located:
+[Provided also that the Renewable Power Park Developer is authorised by the Central or State Government to
+undertake infrastructural activities including arrangement for connectivity on behalf of the Renewable power generators;]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+[Provided also that the application by the applicant defined under Regulation 2(1) (b) (i) (f) shall be considered by CTU
+only if the Solar Power Park Developer is authorised by the Central Government to undertake infrastructural activities
+including arrangement for connectivity on behalf of the solar power generators.]
+[Proviso Added vide Fifth Amendment Regulations, 2015 w.e.f. 19.05.2015.]
+[Provided further that the CTU shall suitably incorporate the requirement of formal agreement amongst such generators
+in the detailed procedure and Connection Agreement signed with such lead generator.]
+[Entire Regulation 8 (1) except the third and fourth proviso was substituted vide First Amendment Regulations, 2010
+w.e.f. 07.09.2010.]
+(1A)
+[ Projects based on storage source (s) shall apply for connectivity for the quantum of maximum injection or maximum
+drawal whichever is higher and shall sign separate agreement for both injection and drawal of power;]
+Page 7/19
+----- PAGE 8 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(2)
+On receipt of the application, the nodal agency shall, in consultation and through coordination with other agencies
+involved in inter-State Transmission system to be used, including State Transmission Utility, if the State network is likely
+to be used, process the application and can out the necessary inter-connection study as specified in the Central
+Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007.
+(2A)
+[ Applications for grant of Connectivity made by applicants covered under subclauses (aa), (cc), (f), (g) and (h) of Clause
+(1)(b)(i) of Regulation shall be processed in the following two stages:
+(a)
+Stage-I Connectivity
+(b)
+Stage-II Connectivity
+(2B)
+Grant of Stage-I and Stage-II Connectivity shall be as per the Detailed Procedure issued from time to time:
+Provided that the Detailed Procedure for grant of Connectivity to Projects based on renewable Sources to inter-State
+transmission system issued vide order dated 15.5.2018 in File No. L-1/(3)/2009-CERC shall be deemed to have been
+issued under these Regulations.
+(2C)
+In case of an applicant covered under sub-clause (b)(i)(g) of clause (1) of Regulation 2, the connectivity and LTA
+granted to such an applicant may be transferred or assigned, in part or full, in favour of the Renewable Energy
+Generating Stations selected by the said applicants after award of the project. On transfer or assignment of connectivity
+and LTA, such Renewable Energy Generating Stations shall enter into Connectivity and LTA Agreement with CTU and
+accept all responsibilities and liabilities for connectivity as required under these Regulations and Detailed Procedure:
+Provided that up to such transfer or assignment, such Applicant shall be liable for all regulatory, operational and
+commercial obligations of a connectivity and LTA grantee:
+Provided further that upon transfer or assignment, the transferee Renewable Energy Generating Stations shall be liable
+for all regulatory and commercial obligations of a connectivity and LTA grantee for the quantum of connectivity and LTA
+so transferred or assigned.]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(3)
+While granting connectivity, the nodal agency shall specify the name of the sub-station or pooling station or switchyard
+where connectivity is to be granted. In case connectivity is to be granted by looping-in and looping-out of an existing or
+proposed line, the nodal agency shall specify the point of connection and name of the line at which connectivity is to be
+granted. The nodal agency shall indicate the broad design features of the dedicated transmission line and the timeframe
+for completion of the dedicated transmission line.
+(3A)
+[ Not withstanding any provision to the contrary in any other Regulations or the Procedure, applicants covered under
+sub-clauses(aa), (cc), (f), (g) and (h) of clause (1)(b)(i) of Regulation 2 shall be grant Stage-I Connectivity by CTU by
+indicating one location and such other information as required under Clause (3)of this Regulation:
+Provided that if the capacity in the said location is fully allocated to Stage-II grantees, the balance Stage-I grantees shall
+be allocated Stage-II Connectivity to an alternate location.]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(4)
+The applicant and all inter-State Transmission Licensees including the Central Transmission Utility shall comply with the
+provisions of Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007.
+(5)
+The applicant or inter-State Transmission Licensee, as the case may be, shall sign a connection agreement with the
+Central Transmission Utility or inter-State Transmission licensee owning the sub-station or pooling station or switchyard
+or the transmission line as identified by the nodal agency where connectivity is being granted:
+Provided that in case connectivity of a generating station, including captive generating plant or bulk consumer is granted
+Page 8/19
+----- PAGE 9 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+to the inter-State transmission system of an inter-State Transmission Licensee other than the Central Transmission
+Utility, a tripartite agreement as provided in the Central Electricity Authority (Technical Standards for Connectivity to the
+Grid) Regulations, 2007 shall be signed between the applicant, the Central Transmission Utility and such inter-State
+Transmission Licensee.
+(6)
+The grant of connectivity shall not entitle an applicant to interchange any power with the grid unless it obtains long-term
+access, medium-term open access or short-term open access.
+(7)
+[ Notwithstanding anything contained in Clause (6) of this Regulation and any provision with regard to sale of infirm
+power in the Power Purchase Agreement, a unit of a generating station including a captive generating plant which has
+been granted connectivity to the inter-State Transmission System in accordance with these regulations shall be allowed
+to inter-change infirm power with the grid during the commissioning period, including testing and full load testing before
+the COD, after obtaining prior permission of the concerned Regional Load Despatch Centre for the periods mentioned
+as under:-
+(a)
+Drawal of Start-up power shall not exceed 15 months prior to the expected date of first synchronization and 6 months
+after the date of first synchronization.
+(b)
+Injection of infirm power shall not exceed six months from the date of first synchronization:
+Provided that drawal of Start-up power shall be subject to payment of transmission charges and the generator shall have
+to open a Revolving and Irrevocable Letter of Credit issued by a Scheduled Bank equivalent to 2 months transmission
+charges prior to drawal of Start-up power;
+Provided further that the Start-up power shall not be used by the generating station for the construction activities;
+Provided further that RLDC shall stop the drawl of the Start-up Power in the following events:
+(a)
+In case, it is established that the Start-up power has been used by the Generating Station for construction activity.
+(b)
+In case of default by the Generating Station in payment of monthly transmission charges to the transmission licensee for
+the drawal of Start-up power, on the request of the transmission licensee.
+Provided that the Commission may in exceptional circumstances, allow extension of the period for inter-change of power
+beyond the period as prescribed in this clause, on an application made by the generating station at least two months in
+advance of completion of the prescribed period:
+Provided further that the concerned Regional Load Despatch Centre while granting such permission shall keep the grid
+security in view:
+Provided also that the onus of proving that the interchange of infirm power from the unit(s) of the generating station is for
+the purpose of commissioning activities, testing and commissioning, shall he with the generating company and the
+respective RLDC shall seek such information on each occasion of interchange of power before COD. For this, the
+generating station shall provide RLDC sufficient details of the specific commissioning activity, testing and full load
+testing, its duration and intended period of interchange, etc:
+Provided also that the infirm power so interchanged by the unit(s) of the generating plant shall be treated as deviation
+and the generator shall be 3 paid/charged for such injection/drawal of infirm power in accordance with the provisions of
+the Central Electricity Regulatory Commission (Deviation Settlement Mechanism and related matters) Regulations,
+2014, as amended from time to time or subsequent re-enactment thereof.]
+[Earlier substituted vide Second Amendment Regulations, 2012 w.e.f. 22.03.2012 and later substituted vide Fourth
+Amendment Regulations, 2014 w.e.f. 21.08.2014.]
+(8)
+[ The dedicated transmission line from generating station of the applicant generating Company or any other entity on
+behalf of generating company to the pooling station of the transmission licensee (including deemed transmission
+licensee) shall be developed, owned and operated by the applicant generating Company or any other entity on behalf of
+generating company. The specifications for dedicated transmission lines may be indicated by CTU while granting
+Connectivity or Long term Access or Medium term Open Access:
+Page 9/19
+----- PAGE 10 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Provided that CTU shall plan the system such that maximum length of dedicated transmission line does not exceed 100
+km from switch yard of the applicant till the nearest pooling substation of transmission licensee:
+Provided further that dedicated transmission line may exceed 100 km, if such an Applicant, so chooses:
+Provided also that in case any connectivity grantee is not utilizing the bay allocated to it at ISTS substation, CTU may
+cancel its Connectivity as per provisions of these regulations and detailed procedure and allocate the bay to other
+Applicant. In such an event, the original grantee shall either dismantle its bay or enter into an Agreement with a new
+grantee as indicated by CTU for utilization of the bay within a period of 2 months of cancellation of Connectivity.]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+8A.
+[ Transfer of Connectivity and LTA.
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+- A person shall not transfer, assign or pledge its connectivity or LTA either in full or parts and the associated rights and
+obligations to any other person:
+Provided that the above provision shall not be applicable to applicants defined under Regulation 2(1)(b)(i)(g):
+Provided further that 100% subsidiary companies shall be allowed to transfer their connectivity and LTA to the parent
+company and vice versa one year after achieving commercial operation of Renewable Energy generating station(s):
+Provided further that transfer of Connectivity and LTA from the parent company to more than one 100% subsidiary shall
+be permitted one year after the commercial operation of the generating station of the last subsidiary and subject to
+minimum capacity as per Regulation 2(1)(b):
+Provided also that till such Connectivity and LTA are transferred, the concerned subsidiary company(ies) shall be
+allowed to utilize the Connectivity and LTA granted to the parent company and vice versa.]
+Chapter-4 Long-Term and Medium-Term Open Access
+9.
+Criteria for granting long-term access or medium-term open access.
+(1)
+Before [granting]
+[Substituted 'awarding' by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+long-term access, the Central Transmission Utility shall have due regard to the augmentation of inter-State transmission
+system proposed under the plans made by the Central Electricity Authority.
+(2)
+Medium-term open access shall be granted if the resultant power flow can be accommodated in the existing
+transmission system or the transmission system under execution:
+Provided that no augmentation shall be carried out to the transmission system for the sole purpose of granting
+medium-term open access:
+Provided further that construction of a dedicated transmission line shall not be construed as augmentation of the
+transmission system for the purpose of this regulation.
+10.
+Relative priority.
+(1)
+Applications for long-term access or medium-term open access shall be processed on first-come-first-served basis
+separately for each of the aforesaid types of access:
+Provided that applications received during a month shall be construed to have arrived concurrently;
+Provided further that while processing applications for medium-term open access received during a month, the
+application seeking access for a longer term shall have higher priority;
+Provided also that in the case of applications for long-term access requiring planning or augmentation of transmission
+system, such planning or augmentation, as the case may be, shall be considered on 30th of June and 31st of December
+in each year in order to develop a coordinated transmission plan, in accordance with the perspective transmission plans
+developed by the Central Electricity Authority under Section 73 of the Act;
+Provided also that if an intra-State entity is applying for long-term access or medium-term open access, concurrence of
+the State Load Despatch Centre shall be obtained in advance and submitted along with the application to the nodal
+agency. The concurrence of the State Load Despatch Centre shall be in such form as may be provided in the detailed
+Page 10/19
+----- PAGE 11 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+procedure.
+(2)
+Where necessary infrastructure required for energy metering and time-block-wise accounting already exists and
+required transmission capacity in the State network is available, the State Load Despatch Centre shall convey its
+concurrence to the applicant within ten working days of receipt of the application.
+(3)
+In case SLDC decides not to give concurrence, the same shall be communicated to the applicant in writing, giving the
+reason for refusal within the above stipulated period.
+11.
+Interface Meters.
+(1)
+Interface meters shall be installed -
+(a)
+by the Central Transmission Utility for and at the cost of the regional entities; and
+(b)
+by the State Transmission Utility for and at the cost of the State entities.
+(2)
+Interface meters for the regional entities shall be open for inspection by any person authorized by the Central
+Transmission Utility and the Regional Load Despatch Centre.
+(3)
+Interface meters for the intra-State entities shall be open for inspection by any person authorized by the State
+Transmission Utility or the State Load Despatch Centre.
+Chapters - 5 Long-Term Access
+12.
+Application for long-term access.
+(1)
+The application for grant of long-term access shall contain details such as name of the entity or entities to whom
+electricity is proposed to be supplied or from whom electricity is proposed to be procured along with the quantum of
+power and such other details as may be laid down by the Central Transmission Utility in the detailed procedure:
+Provided that in the case where augmentation of transmission system is required for granting open access, if the
+quantum of power has not been finned up in respect of the person to whom electricity is to be supplied or the source
+from which electricity is to be procured, the applicant shall indicate the quantum of power along with name of the
+region(s) in which this electricity is proposed to be interchanged using the inter-State Transmission system;
+Provided further that in case augmentation of transmission system is required, the applicant shall have to bear the
+transmission charges for the same as per these regulations, even if the source of supply or off-take is not identified;
+[Provided also that [except in cases involving Renewable Energy generating Station(s),]
+[Substituted vide Second Amendment Regulations, 2012 w.e.f. 22.03.2012.]
+the construction of such augmentation of the transmission system may be taken up by the CTU or the transmission
+licensee in phases corresponding to the capacity which is likely to be commissioned in a given time frame after ensuring
+that the generating company has released the advance for the main plant packages i.e. Turbine island and steam
+generator island or the EPC contract in case of thermal generating station and major civil work packages or the EPC
+contract in case of hydro generating stations for the corresponding capacity of the phase or the phases to be
+commissioned, subject to a minimum of 10% of the sum of such contract values.]
+[Provided that a generating company after firming up the beneficiaries through signing of long term Power Purchase
+Agreement(s) shall be required to notify the same to the nodal agency along with the copy of the PPA.]
+[Inserted vide Second Amendment Regulations, 2012 w.e.f. 22.03.2012.]
+Provided also that in cases where there is any material change in location of the applicant or change by more than 100
+MW [or 40%, as the case may be, as per first proviso to Regulation 8(1)]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+in the quantum of power to be interchanged using the inter-State Transmission system or change in the region from
+which electricity is to be procured or to which supplied, a fresh application shall be made, which shall be considered in
+Page 11/19
+----- PAGE 12 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+accordance with these regulations.
+(1A)
+[ Not withstanding anything to the contrary in the Procedure, Stage-II Connectivity shall not be a pre-requisite for
+applying for LTA.]
+[Added by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(2)
+The applicant shall submit any other information sought by the nodal agency including the basis for assessment of
+power to be interchanged using the interstate Transmission system and power to be transmitted to or from various
+entities or regions to enable the nodal agency to plan the inter-State transmission system in a holistic manner.
+(3)
+The application shall be accompanied by a bank guarantee of Rs 10,000/-(ten thousand) per MW of the total power to
+be transmitted. The bank guarantee shall be in favour of the nodal agency, in the manner laid down under the detailed
+procedure.
+(4)
+The bank guarantee of Rs. 10,000 /-(ten thousand) per MW shall be kept valid and subsisting till the execution of the
+long-term access agreement, in the case when augmentation of transmission system is required, and till
+operationalization of long-term access when augmentation of transmission system is not required.
+(5)
+The bank guarantee may be encashed by the nodal agency, if the application is withdrawn by the applicant or the
+long-term access rights are relinquished prior to the operationalization of such rights when augmentation of transmission
+system is not required.
+(6)
+The aforesaid bank guarantee will stand discharged with the submission of bank guarantee required to be given by the
+applicant to the Central Transmission Utility during construction phase when augmentation of transmission system is
+required, in accordance with the provisions in the detailed procedure.
+13.
+System Studies by the Nodal Agency.
+(1)
+On receipt of the application, the nodal agency shall, in consultation and through coordination with other agencies
+involved in inter-State Transmission system to be used, including State Transmission Utility, if the State network is likely
+to be used, process the application and carry out the necessary system studies as expeditiously as possible so as to
+ensure that the decision to grant long-term access is arrived at within the timeframe specified in Regulation 7:
+[***]
+[Deleted 'First proviso' by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(2)
+Based on the system studies, the nodal agency shall specify the inter-State transmission system that would be required
+to give long-term access. In case augmentation to the existing inter-State Transmission system is required, the same will
+be intimated to the applicant.
+[***]
+[Deleted '(3)' by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+14.
+Communication of Estimate of Transmission Charges, etc.
+- While granting long-term access, the nodal agency shall communicate to the applicant, the date from which long-term
+access shall be granted and an estimate of the transmission charges likely to be payable based 011 the prevailing costs,
+prices and methodology of sharing of transmission charges specified by the Commission.
+15.
+Execution of Long-term Access Agreement.
+- [(1) The applicant shall sign an agreement for long-term access with the Central Transmission Utility in case long-term
+access is granted by the Central Transmission Utility, in accordance with the provision as may be made in the detailed
+procedure.
+(2)
+Page 12/19
+----- PAGE 13 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+While seeking long-term access to an inter-State Transmission licensee, other than the Central Transmission Utility, the
+applicant shall sign a tripartite long-term access agreement with the Central Transmission Utility and the inter-State
+Transmission licensee.
+(3)
+The long-term access agreement shall contain the date of commencement of long-term access, the point of injection of
+power into the grid and point of drawal from the grid and the details of dedicated transmission lines, if any, required.
+(4)
+In case augmentation of transmission system is required, the long-term access agreement shall contain the time line for
+construction of the facilities of the applicant and the transmission licensee, the bank guarantee required to be given by
+the applicant and other details in accordance with the detailed procedure.]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+15A.
+[ Intimation regarding termination of Power Purchase Agreement.
+[Added vide Second Amendment Regulations, 2012 w.e.f. 22.03.2012.]
+(1)
+Where the entire or part of the Power Purchase Agreement(PPA) of the long term access customer is terminated in
+accordance with the provisions of the said agreement or through determination by a court or tribunal or commission of
+competent jurisdiction, it shall be incumbent on the long term access customer to give intimation about such termination
+of PPA to the nodal agency immediately but not later than two weeks from the date of such termination;
+Provided that in the event of mutual termination of PPA or non utilization of long term access by the long term access
+customer for a period exceeding one year from the scheduled date of commencement of long term access, the Central
+Transmission Utility or the transmission licensee, as the case may be, may ask such long term customer to surrender
+the long term access after being satisfied that because of such long term access, any other generation project, which
+has applied for long-term access, is likely to get stranded:
+Provided further that Central Transmission Utility or the transmission license, as the case may be, may approach the
+Commission for appropriate directions in this regard:
+Provided also that on termination of the Power Purchase Agreement or surrender of long term access in terms of the
+preceding two provisos, the long term access customer shall be liable to pay the transmission charges as required under
+Regulation 18 of these regulations.
+(2)
+The nodal agency on receipt of intimation in accordance with clause (1) of this regulation may consider the applications
+of other applicants, if any, for grant of medium term open access for the whole or part of the same transmission corridor,
+as the case may be.]
+16.
+Information to RLDC and SLDC.
+- Immediately after giant of long-term access, the nodal agency shall inform the Regional Load Despatch Centres and
+the State Load Despatch Centres concerned so that they can consider the same while processing requests for giant of
+short-term open access, received under Central Electricity Regulatory Commission (Open Access in inter-State
+transmission) Regulations, 2008 as amended from time to time.
+16A.
+[
+[Added vide Second Amendment Regulations, 2012 w.e.f. 22.03.2012.]
+On receiving the intimation regarding termination of Power Purchase Agreement, or surrender of long term access in
+accordance with the provisions of Regulation 15 A of these regulations and after considering the applications for
+long-term access and medium-term open access, if any, as mentioned therein, the nodal agency shall inform the
+Regional Load Despatch Centre and State Despatch Centre concerned to consider the remaining capacity for
+processing the request for short term open access in accordance with the Central Electricity Regulatory Commission
+(Open Access in inter-State Transmission) Regulations, 2008, as amended from time to time, till long term access or
+medium term open access is granted to some other applicant.]
+17.
+Renewal of Term for Long-term access.
+Page 13/19
+----- PAGE 14 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+- On the expiry of the period of long-term access, the long-term access shall stand extended on a written request
+provided by the long-term customer in this regard to the Central Transmission Utility mentioning the period for extension
+that is required:
+Provided that such a written request shall be submitted by the long-term customer to the Central Transmission Utility at
+least six months prior to the date of expiry of the long-term access;
+Provided further that in case no written request is received from the long-term customer within the timeline specified
+above, the said long-term access shall stand withdrawn.
+18.
+Relinquishment of access rights.
+(1)
+A long-term customer may relinquish the long-term access rights fully or partly before the expiry of the full term of
+long-term access, by making payment of compensation for stranded capacity as follows: -
+(a)
+Long-term customer who has availed access rights for at least 12 years
+(i)
+Notice of one (1) year - If such a customer submits an application to the Central Transmission Utility at least 1 (one) year
+prior to the date from which such customer desires to relinquish the access rights, there shall be no charges.
+(ii)
+Notice of less than one (1) year - If such a customer submits an application to the Central Transmission Utility at any
+time lesser than a period of 1 (one) year prior to the date from which such customer desires to relinquish the access
+rights, such customer shall pay an amount equal to 66% of the estimated transmission charges (net present value) for
+the stranded transmission capacity for the period falling short of a notice period of one (1) year.
+(b)
+Long-term customer who has not availed access rights for at least 12 (twelve) years - such customer shall pay an
+amount equal to 66% of the estimated transmission charges (net present value) for the stranded transmission capacity
+for the period falling short of 12 (twelve) years of access rights:
+Provided that such a customer shall submit an application to the Central Transmission Utility at least 1 (one) year prior
+to the date from which such customer desires to relinquish the access rights;
+Provided further that in case a customer submits an application for relinquishment of long-term access rights at any time
+at a notice period of less than one year, then such customer shall pay an amount equal to 66% of the estimated
+transmission charges (net present value) for the period falling short of a notice period of one (1) year, in addition to 66%
+of the estimated transmission charges (net present value) for the stranded transmission capacity for the period falling
+short of 12 (twelve) year s of access rights.
+(2)
+The discount rate that shall be applicable for computing the net present value as referred to in sub-clause (a) and (b) of
+clause (1) above shall be the discount rate to be used for bid evaluation in the Commission's Notification issued from
+time to time in accordance with the Guidelines for Determination of Tariff by Bidding Process for Procurement of Power
+by Distribution Licensees issued by the Ministry of Power.
+(3)
+The compensation paid by the long-term customer for the stranded transmission capacity shall be used for reducing
+transmission charges payable by other long-term customers and medium-term customers in the year in which such
+compensation payment is due in the ratio of transmission charges payable for that year by such long-term customers
+and medium-term customers.
+Chapter - 6 Medium-Term Open Access
+19.
+Application for Medium-term Open Access.
+(1)
+The application for grant of medium-term open access shall contain such details as may be laid down under the detailed
+procedure and shall, in particular, include the point of injection into the grid, point of drawal from the grid and the
+quantum of power for which medium-term open access has been applied for.
+(2)
+Page 14/19
+----- PAGE 15 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+The start date of the medium-term open access shall not be earlier than 5 months and not later than 1 year from the last
+day of the month in which application has been made.
+20.
+System Studies by the Nodal Agency.
+- On receipt of the application, the nodal agency shall, in consultation and through coordination with other agencies
+involved in inter-State transmission system to be used, including State Transmission Utility, if the State network is likely
+to be used, process the application and carry out the necessary system studies as expeditiously as possible so as to
+ensure that the decision to grant or refuse medium-term open access is made within the timeframe specified in
+regulation 7:
+Provided that in case the nodal agency faces any difficulty in the process of consultation or coordination, it may
+approach the Commission for appropriate directions.
+21.
+Grant of Medium-term Open Access.
+(1)
+On being satisfied that the requirements specified under clause (2) of regulation 9 are met, the nodal agency shall giant
+medium-term open access for the period stated in the application:
+Provided that for reasons to be stated in writing, the nodal agency may grant medium-term open access for a period less
+than that sought for by the applicant;
+(1A)
+[ The Applicant shall sign an agreement for medium-term open access with the Central Transmission Utility in case
+medium-term open access is granted by the Central Transmission Utility, in accordance with the provision as may be
+made in the detailed procedure,
+(1B)
+While seeking medium-term open access to an inter-state Transmission licensee other then the Central Transmission
+Utility, the applicant shall sign a tripartite medium-term open access agreement with the Central Transmission Utility and
+the inter-state Transmission Licensee.
+(1C)
+The Medium-term open access agreement shall contain the date of commencement and end of medium-term open
+access, the point of injection of power into the grid and point of drawal from the grid, the details of dedicated
+transmission lines required, if any, the bank guarantee required to be given by the applicant and other details in
+accordance with the detailed procedure.]
+[Substituted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+(2)
+Immediately after giant of medium-term open access, the nodal agency shall inform the Regional Load Despatch
+Centres and the State Load Despatch Centres concerned so that they can consider the same while processing requests
+for short-term open access received under Central Electricity Regulatory Commission (Open Access in inter-State
+Transmission) Regulations, 2008 as amended from time to time.
+22.
+Execution of Dedicated Transmission Line.
+- Medium-term customer may arrange for execution of the dedicated transmission line at its own risk and cost before the
+start date of the medium-term open access.
+23.
+No overriding preference.
+- On the expiry of period of the medium-term open access, the medium-term customer shall not be entitled to any
+overriding preference for renewal of the term.
+24.
+Exit option for medium-term customers.
+- A medium-term customer may relinquish rights, frilly or partly, by giving at least 30 days prior notice to the nodal
+agency:
+Provided that the medium-term customer relinquishing its rights shall pay applicable transmission charges for the period
+of relinquishment or 30 days whichever is lesser.
+Page 15/19
+----- PAGE 16 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Chapter - 7 Conditions of Long-Term Access and Medium-Term Open Access
+25.
+Curtailment.
+(1)
+When for the reason of transmission constraints or in the interest of grid security, it becomes necessary to curtail power
+flow on a transmission corridor; the transactions already scheduled may be curtailed by the Regional Load Despatch
+Centre.
+(2)
+Subject to provisions of the Grid Code and any other regulation specified by the Commission, the short-term customer
+shall be curtailed first followed by the medium-term customers, which shall be followed by the long-term customers and
+amongst the customers of a particular category, curtailment shall be carried out on pro rata basis.
+26.
+Transmission Charges.
+- The transmission charges for use of the inter-State Transmission system shall be recovered from the long-term
+customers and the medium-term customers in accordance with terms and conditions of tariff specified by the
+Commission from time to time:
+Provided that if the State network is also being used in the access as a part of interstate Transmission system for the
+conveyance of electricity across the territory of an intervening State as well as conveyance within the State which is
+incidental to such interstate Transmission of electricity, recovery of charges for such State network and terms and
+conditions thereof shall be in accordance with the regulation as may be specified by the Commission under Section 36
+of the Act for intervening transmission facilities, if such charges and terms and conditions cannot be mutually agreed
+upon by the licensees;
+Provided that any disagreement on transmission charges for such State network as specified above, shall not be the
+sole reason for denying access and either party may approach the Commission for determination of transmission
+charges for such State network.
+27.
+Detailed Procedure.
+(1)
+Subject to the provisions of these regulations, the Central Transmission Utility shall submit the detailed procedure to the
+Commission for approval within 60 days of notification of these regulations in the Official Gazette:
+Provided that prior to submitting the detailed procedure to the Commission for approval, the Central Transmission Utility
+shall make the same available to the public and invite comments by putting the draft detailed procedure 011 its website
+and giving a period of one month to submit comments;
+Provided further that while submitting the detailed procedure to the Commission, the Central Transmission Utility shall
+submit a statement indicating as to which of the comments of stakeholders have not been accepted by it along with
+reasons thereof.
+(2)
+The detailed procedure submitted by the Central Transmission Utility shall, in particular, include:
+(a)
+The proforma for the connection agreement, referred to in clause (5) of Regulation 8 above.
+(b)
+The proforma for the long-term access agreement referred to in Regulation 15 above:
+Provided that the Transmission Service Agreement issued by the Central Government as part of standard bid
+documents for competitive bidding for transmission in accordance with Section 63 of the Act shall be a part of this
+Agreement along with necessary changes;
+Provided further that in case transmission system augmentation is undertaken through the process of competitive
+bidding in accordance with section 63 of the Act, the Transmission Service Agreement enclosed as part of bid
+documents shall be used as a part of the proforma agreement to be entered into between the applicant and the Central
+Transmission Utility for long-term access.
+[***]
+[Deleted '(c)' by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+Page 16/19
+----- PAGE 17 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+(d)
+Aspects such as payment security mechanism and bank guarantee during the period of construction and operation:
+Provided that the bank guarantee during construction phase shall not exceed Rs. 5 lakh per MW of the total power to be
+transmitted by that applicant through inter-State Transmission system.
+(e)
+The proforma for the medium-term open access: agreement, referred to in the second proviso to clause (1) of
+Regulation 21 above.
+(f)
+Provisions for collection of the transmission charges for inter-State transmission system from the long-term customers or
+medium-term customers, as the case may be, by the transmission licensee or the Central Transmission Utility as and
+when so designated in accordance with the first proviso to clause (1) of Regulation 29 hereof and disbursement to the
+Central Transmission Utility and/or the transmission licensees as the case may be.
+28.
+Fees and charges for the Regional Load Despatch Centre and the State Load Despatch Centre.
+(1)
+The fees and charges for the Regional Load Despatch Centre including charges for the Unified Load Despatch and
+Communication Scheme shall be payable by the long-term customer and medium-term customer as may be specified by
+the Commission.
+(2)
+The fees and charges for the State Load Despatch Centre shall be payable as applicable.
+29.
+[
+[Deleted by Notification No. L-1/(3)/2009-CERC, dated 9.1.2019 (w.e.f. 7.7.2009).]
+***]
+29. Payment of transmission charges and Fees and Charges for the Regional Load Despatch Centre.- (1) The
+transmission charges in respect of the long-term customer and medium-term customer shall be payable directly to the
+transmission licensee:
+Provided that the Central Transmission Utility may be designated by the Commission as the agency for the purpose of
+collecting and disbursing the transmission charges for inter-State transmission system;
+Provided further that when the Central Transmission Utility is so designated as the agency as aforesaid, the
+transmission charges shall be paid to it;
+Provided also that the Central Transmission Utility shall enter into agreements with the long-term customers and
+medium-term customers for collection of transmission charges and with the transmission licensees whose inter-State
+transmission system is being used, for disbursement of transmission charges as received, pro rata to the transmission
+charges payable to the transmission licensees and to the Central Transmission Utility;
+Provided also that the Central Transmission Utility shall be entitled to reimbursement of reasonable costs incurred by it
+in collecting the transmission charges of the other transmission licensees, as approved by the Commission.
+(2) The fees and charges for Regional Load Despatch Centres (including the charges for Unified Load Despatch
+Scheme) and State Load Despatch Centres shall be payable by the long-term customer and medium-term customer
+directly to the Regional Load Despatch Centre or the State Load Despatch Centre concerned.
+30.
+Unscheduled Inter-change (UI) Charges.
+(1)
+Scheduling of all transactions pursuant to giant of long-term access and medium-term open access shall be carried out
+on day-ahead basis in accordance with the Grid Code.
+(2)
+Based on net metering on the periphery of each regional entity, composite accounts for Unscheduled Interchanges shall
+be issued for each regional entity on a weekly cycle:
+Provided that Unscheduled Inter-changes accounting for intra-State entities shall not be carried out at the regional level.
+(3)
+The State utility designated for the purpose of collection or disbursement of the Unscheduled Interchanges charges from
+Page 17/19
+----- PAGE 18 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+or to the intra-State entities shall be responsible for timely payment of the State's composite dues to the regional
+Unscheduled Interchanges Pool Account Fund.
+(4)
+Any mismatch between the scheduled and the actual drawal at drawal points and scheduled and the actual injection at
+injection points for the intra-State entities shall be determined by the concerned State Load Despatch Centre and
+covered in the intra-State Unscheduled Interchanges accounting scheme.
+(5)
+Unless specified otherwise by the State Commission concerned, the Unscheduled Interchanges rate for intra-State
+entity shall be 105% (for over-drawals or under generation) and 95% (for under-drawals or over generation) of the
+Unscheduled Interchanges rate at the periphery of regional entity.
+31.
+Transmission Losses.
+- The buyers of electricity shall bear apportioned losses in the transmission system as estimated by the Regional Power
+Committee.
+32.
+Redressal Mechanism.
+- All disputes arising out of or under these regulations shall be decided by the Commission on an application made in
+this behalf by the person aggrieved.
+Chapter - 8 Information System
+33.
+Information System.
+- The nodal agency shall post the following documents/information on its website in a separate web-page titled
+'Long-term access and Medium-term open access information':
+(a)
+These regulations;
+(b)
+Detailed procedure;
+(c)
+List of applications, separately, for long-term access and medium-term open access received by the nodal agency along
+with necessary details;
+(d)
+Separate lists for long-term access and medium-term open access granted, indicating;
+(i)
+Name of customers;
+(ii)
+Period of the access granted (start date and end date);
+(iii)
+Point or points of injection;
+(iv)
+Point or points of drawal;
+(v)
+Transmission systems used (in terms of regions and States);
+(vi)
+Capacity (MW) for which access has been granted.
+(e)
+List of applications where approval for connectivity or long-term access or medium-term open access, as the case may
+be, has not been granted along with reasons thereof:
+Provided further that it shall be a constant endeavour of the nodal agency to take steps in accordance with the
+requirements herein to provide as much information suo moto to the public at regular intervals through various means of
+communications, including internet, so that information is disseminated widely and in such form and maimer which is
+easily accessible to the public.
+Page 18/19
+----- PAGE 19 -----
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-term Access and Med...
+Chapter - 9 Miscellaneous
+34.
+Repeal and Savings.
+(1)
+On commencement of these regulations, Regulation Nos. 4(1)(a), 4(ii), 5(i), 6(i), 7, 8(i), 9, 10, 11, 12, 16(i), 18, as far as
+it applies to long-term customers, and 31(i) of the Central Electricity Regulatory Commission (Open Access in inter-State
+Transmission) Regulations, 2004, shall stand repealed.
+(2)
+Notwithstanding anything contained in clause (1), long-term access granted in accordance with the Central Electricity
+Regulatory Commission (Open Access in inter-State Transmission) Regulations, 2004 shall continue to be valid till the
+expiry of the term of long-term access.
+Related AI tags, queries and research notes
+Translation
+Page 19/19

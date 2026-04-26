@@ -1,0 +1,6462 @@
+
+----- PAGE 1 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules,
+2017
+Source: https://indiankanoon.org/doc/8201266/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Andhra Pradesh - Act
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+ANDHRA PRADESH
+India
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Rule THE-ANDHRA-PRADESH-MUNICIPALITIES-PREPARATION-OF-ACCOUNTS-RULES-2017 of 2017
+Published on 24 April 2017
+Commenced on 24 April 2017
+[This is the version of this document from 24 April 2017.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Published vide Notification No. G.O. Ms. No. 157, Municipal Administration & Urban Development (UBS), dated
+24.4.2017
+Last Updated 6th August, 2019
+Chapter - I Preliminary
+1.
+Title and Application.
+(1)
+These rules may be called the Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017.
+Page 1/120
+----- PAGE 2 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(2)
+They shall be applicable to all municipalities constituted under the Andhra Pradesh Municipalities Act, 1965.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires:-
+(a)
+'Act' means Andhra Pradesh Municipalities Act, 1965.
+(b)
+'Accountant' or 'Accounts Officer' means any senior officer of the municipality, by whatever designation he is called,
+heading the accounts section and entrusted with the responsibility of accounting the incomes, expenditures, assets and
+liabilities of the municipality.
+(c)
+'Auditor' means a person appointed by Government for the purpose of auditing the accounts of the municipal fund under
+section 128 of the Act.
+(d)
+'Budget or Budget Estimate' means the statement showing the probable income and expenditure during the following
+year prepared by the Council.
+(e)
+'Chairperson' means a person elected as Chairperson under section 23 of the Act.
+(f)
+'Commissioner' means Commissioner for a municipality appointed by Government under section 29 of the Act.
+(g)
+'Council' means a body of members constituted under section 5 of the Act for each of the municipality having authority
+over it.
+(h)
+'Director' means Director of Municipal Administration appointed by Government under section 63 of the Act by whatever
+designation he is called.
+(i)
+'Government' means Government of Andhra Pradesh.
+(j)
+'Manual' means Andhra Pradesh Municipal Accounts Manual (2008) adopted as published by the Government.
+(k)
+'Municipal Fund' means a fund constituted under section 125 of the Act to receive all moneys received by the Council.
+(2)
+The words and expressions used but not specifically defined in these rules shall have the meanings assigned to them in
+the Andhra Pradesh Municipalities Act, 1965 and Andhra Pradesh Municipal Accounts Manual published by
+Government.
+(3)
+The numbers used for various forms and registers in Andhra Pradesh Municipal Accounts Manual have been adopted in
+these rules. As some of the forms and registers are not applicable in the context of the Rules, there would be some
+discontinuity in the numbers.
+Chapter - II Accounting System
+3.
+Accounting system.
+(a)
+Every Council shall maintain its books of account in the accrual based system of accounting.
+(b)
+All financial transactions shall be identified with funds and separate books of account maintained for each such fund. In
+other words, every Council shall also adopt fund based accounting.
+4.
+Page 2/120
+----- PAGE 3 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Funds to be maintained.
+(1)
+The accounts of the Municipal Fund shall be segregated into the following funds for the purposes of record keeping and
+reporting. The funds other than General Funds shall be classified as Special Funds.
+(a)
+General Fund - accounts covering all activities which do not fall under any category referred below.
+(b)
+Capital Project Fund - accounts compressing moneys received from State Government or Central Government or other
+agencies for undertaking various activities.
+(c)
+Primary Education Fund - accounts covering activities relating to schools maintained by the municipality.
+(2)
+Each fund shall consists of various Sub-Funds
+(3)
+The Council shall create such other Sub Funds as demand arise.
+(4)
+Each Fund Account requires separate maintenance of records, and as such shall observe the following:
+(1)
+All vouchers shall be prepared separately for each fund
+(2)
+Separate bank accounts shall be maintained for each fund; and remittances or payments shall be made to or drawn
+from the bank account of relevant fund.
+(3)
+All the funds mentioned in sub rule (1) above shall together constitute the Municipal Fund.
+5.
+Chart of Accounts.
+- Accounting entries shall be identified with a standard chart of accounts consisting of
+(a)
+Function Code, a mandatory code as per Schedule I of the Rules
+(b)
+Account Code, a mandatory code as per rule 6 below
+(c)
+Functionary Code, an optional code, wherein the section of the municipality, which discharges the function is identified
+(d)
+Field Code, an optional code, wherein the geographical divisions in the municipality are identified.
+(e)
+Fund Code, a mandatory code, wherein various funds referred in rule 4 are identified.
+6.
+Account Code.
+(1)
+Account code represents the nature of income, expenditure, liability and asset. The income, expenditure, liability and
+asset are identified in the numeric and are structured into major head, minor head and detailed head codes.
+(a)
+Income account heads are shown in Schedule II of the Rules
+(b)
+Expenditure account heads are shown in Schedule III of the Rules
+(c)
+Liability account heads are shown in Schedule IV of the Rules
+(d)
+Asset account heads are shown in Schedule V of the Rules
+7.
+Page 3/120
+----- PAGE 4 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Rounding off.
+- All amounts shall be rounded off to the nearest rupee; an amount of fifty paise and above shall be rounded off to the
+next higher rupee, while an amount below fifty paise shall be rounded off to the immediately lower rupee.
+8.
+Responsibility of Councils.
+- Every Council shall follow the accounting system and chart of accounts, and maintain such books of account as
+prescribed in these rules to accurately record all incomes, expenditures, liabilities and assets in respect of each fund as
+specified in Rule 4.
+Chapter - III Books of Accounts and Accounting Documents
+9.
+Books of Accounts.
+(1)
+Every Council shall maintain its books of accounts in respect of each fund separately for each financial year
+(2)
+The primary books of account under accrual based system of accounting shall be
+(a)
+Cash Book;
+(b)
+Journal Book; and
+(c)
+Ledger
+10.
+Maintenance of books of accounts and records.
+(1)
+The books of accounts, forms and registers shall be maintained either in Telugu or English.
+(2)
+The pages of books of accounts, registers, receipt books, bill books and other accounting records and registers shall be
+serially numbered and each page or folio affixed with the municipal seal. The number of pages of each book or register
+shall be certified in writing after verification on the last page, by the head of office or other person duly authorized.
+11.
+Cash Book.
+(1)
+The Cash Book shall be the book of original entry recording transactions involving cash and/or bank.
+(2)
+The Cash Book has two sides, namely, 'receipt' and 'payment'. All collections on behalf of the municipality shall be
+recorded on the 'receipt' side; and all payments shall be recorded on the 'payment' side.
+(3)
+Separate Cash books shall be maintained for each of the Funds referred in Rule 4.
+(4)
+Separate Cash books shall be maintained in respect of each bank account.
+(5)
+The Cash book shall be closed daily, the totals for the end of day struck and the closing balance worked out.
+(6)
+The Commissioner or the officer authorized by him, shall examine the entries and the closing balance in the Cash book
+every day and affix his signature in token of such examination. He shall also verify the cash balance on hand with the
+Cashier/Shroff with reference to the Cash book balance every day.
+(7)
+The Cash book shall be maintained in Form No.l.
+12.
+Journal Book.
+(1)
+Page 4/120
+----- PAGE 5 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+The Journal Book shall be the book of original entry for recording all transactions other than those involving cash and/or
+bank.
+(2)
+Separate Journal Book shall be maintained for each of the Funds referred under Rule 4
+(3)
+A non-cash/bank transaction shall be first recorded in the Journal book by appropriately identifying the account head to
+be debited or credited in respect of the transaction.
+(4)
+The Journal book shall be maintained in Form No.2.
+13.
+Ledger.
+(1)
+The Ledger is a book of each account as specified in the Chart of Accounts. Each account is separately maintained with
+debit and credit aspects to indicate the closing balance in respect of that account. It shall provide listing of all
+transactions in respect of a head of account. Each entry in the Cash book and Journal Book shall have a posting in the
+Ledger. •
+(2)
+Since Cash book in effect is a Ledger of Cash and Bank Account Heads, transactions relating to deposit into or
+withdrawal of cash from bank or transfer of amount from one bank account to another bank account need not be
+included in the Ledger.
+(3)
+At the end of every day, the transactions recorded in the Cash Book and Journal Book shall be posted to the appropriate
+accounts in the Ledger and should be verified.
+(4)
+The Ledger shall be maintained in Form No.3.
+14.
+Accounting Documents.
+(1)
+Every Council shall prepare a Voucher and it is a standard form for recording every financial transaction in the primary
+books of account.
+(2)
+The Vouchers, in other words, the accounting documents shall be
+(a)
+Cash/Bank Receipt Voucher
+(b)
+Cash/Bank Payment Voucher
+(c)
+Contra Voucher, and
+(d)
+Journal Voucher.
+15.
+Cash/Bank Receipt Voucher.
+(1)
+It is a document prepared for recording receipt entries in the Cash Book. The Cash Receipt Voucher shall be prepared
+for receipts in cash and Bank Receipt Voucher for receipts by cheques, demand drafts, pay orders etc. which need to be
+deposited in the bank for realization.
+(2)
+The Cash/Bank Receipt Voucher shall be maintained in Form No.4
+16.
+Cash/Bank Payment Voucher.
+(1)
+Page 5/120
+----- PAGE 6 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+It is a document prepared for recording payment entries in the Cash Book. The Cash Payment Voucher shall be
+prepared for payments in cash and Bank Payment Voucher for payments by cheque.
+(2)
+The Cash/Bank Payment Voucher shall be maintained in Form No.5.
+17.
+Contra Voucher.
+(1)
+It is a document prepared for recording transactions involving deposit of cash into the bank, withdrawal of cash from the
+bank or transfer of amount from one bank to another.
+(2)
+The Contra Voucher shall be maintained in Form No.6.
+18.
+Journal Voucher.
+(1)
+It is a document prepared for recording entries in the journal book. These entries do not involve any cash/bank related
+transactions.
+(2)
+The Journal Voucher shall be maintained in Form No.7.
+19.
+Voucher Numbering.
+- Vouchers shall be numbered for each Form series (Form No.4, 5, 6 or 7 as the case may be) separately. Separate
+serial numbers shall be maintained for cash transactions and for each bank transaction. Separate serial numbers shall
+also be maintained for each fund.
+Chapter - IV General Procedure for Accounting of Income
+20.
+Accounting of income on accrual basis.
+(1)
+All items of revenue which fulfill the following criteria shall generally be taken as income on accrual basis
+(a)
+The income is measurable, ie., when the income is earned or the right to receive it is established.
+(b)
+The amount due is determined or determinable.
+(c)
+There is no significant uncertainty about the realization.
+(2)
+In such cases, a statement of bills raised/demand raised/income accrued shall be furnished by the concerned section to
+the accounts section at the following frequency:
+(a)
+In respect of property tax, water charges (tap rate basis), fees, leases and rents - annually, at the beginning of the year,
+for the whole year's income.
+(b)
+In respect of new assessments/increase under property tax - on monthly basis when assessment is newly made or tax
+increased.
+(c)
+In respect of other incomes, as and when they become due for collection.
+(3)
+The Statement of Bills raised shall be maintained in Form No.22
+(4)
+The Account section shall, based on this intimation, pass a Journal Voucher and accrue the income by debit to its
+'Receivable Account'.
+(5)
+Page 6/120
+----- PAGE 7 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+All collections in respect of accrual income shall be credited to the same 'Receivable Account' as and when they are
+received.
+21.
+Income accounted on cash basis.
+- Incomes which do not fulfill the criteria of accrual as mentioned in Rule 20, shall be accounted as and when they are
+actually collected or received by the municipality.
+Chapter - V General Procedure for Accounting of Receipts
+22.
+All moneys to be brought to account.
+(1)
+All money transactions to which any officer or employee of the Council in his official capacity is a party shall, without any
+reservation, be brought to account. All moneys received by the Council shall be lodged in the nearest Government
+treasury, or with the sanction of the Government in a bank.
+(2)
+The Commissioner or any person authorized by him in this behalf shall draw any money required for disbursement from
+the treasury or bank through cheques. No money received on behalf of the Council shall be utilized for its expenditure
+without first being brought into account and remitted into the treasury or bank.
+23.
+Cash and Accounts sections to be kept distinct.
+- The Cash and Accounts sections of the municipal office shall be kept distinct from each other and under distinct
+officials who shall be termed as 'Cashier/Shroff and 'Accountant' respectively. The same person shall not receive the
+collection and compile the accounts on behalf of the Council.
+24.
+Issue of receipt for moneys received.
+(1)
+The amounts due to the Council shall be collected in the head office or circle/ward offices. The amounts may also be
+collected by any outdoor officer authorized for the purpose
+(2)
+For any amount received either in cash or in the form of cheque/demand draft/pay order etc., a receipt duly signed and
+dated shall be issued.
+(3)
+The receipt shall be maintained in Form No.8.
+(4)
+All cash/cheques/demand drafts/pay orders etc. shall be recorded in a Receipt Register.
+(5)
+The Receipt Register shall be maintained in Form No.9.
+(6)
+The cheques/demand drafts/pay orders etc. shall also be recorded in a separate register to watch the status of
+realization.
+(7)
+The Register on Status of Cheques shall be maintained in Form No. 10.
+25.
+Deposit of amount received in the designated bank.
+(1)
+The amount collected (cash/cheques/demand drafts/pay orders etc) in the circle/ward offices or by the authorized
+outdoor officer (after issue of receipt and recording it in the Receipt Register) shall be deposited in the head office or
+designated bank account. The Cashier/Shroff in the head office accounts for these amounts. He enters these details
+also in the Receipt Register maintained by him.
+(2)
+The Cashier /Shroff in the head office shall deposit the amount collected in the head office and the amount received
+from other collecting agencies in the designated bank. The deposit shall be made on the same day or the next working
+Page 7/120
+----- PAGE 8 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+day.
+26.
+Collections at designated banks directly.
+- In respect of direct collections by designated banks, the payer shall submit the amount to the bank along with challan
+in triplicate. The bank shall accept the remittance and return one copy of acknowledged challan to the party. The bank
+shall retain one copy with it and send the third copy of the challan to the municipality along with daily bank statement.
+27.
+Collection Register.
+(1)
+The head office or circle/ward office or any outdoor officer authorized to collect amount on behalf of the municipality, on
+issue of receipt for the amount collected, besides entering in the Receipt Register shall also enter the particulars of each
+receipt in the Collection Register on daily basis.
+(2)
+The Collection Register shall be maintained in Form No. 11.
+28.
+Summary of Daily Collections.
+(1)
+The Cashier/Shroff, based on the details of various Collection Registers shall prepare a summary of daily collections.
+The summary shall be forwarded to the Accounts section.
+(2)
+The Summary of daily collections shall be maintained in Form No. 12.
+(3)
+In respect of receipts at designated banks directly, which do not pass through Cashier, the summary of daily collections
+shall be prepared by the Accounts section based on the daily bank statements. If necessary, an officer may be
+designated for the purpose of coordinating with the banks.
+29.
+Accounting of collections.
+- Based on the summary of daily collections, the amount collected during the day shall be accounted through a Bank
+Receipt Voucher as follows
+(i)
+In respect of cash receipts, by debit to bank account and credit to respective heads of account
+(ii)
+In respect of cheque receipts, by debit to cheques in hand and credit to respective heads of account.
+(iii)
+In respect of direct bank receipts, by debit to bank account and credit to respective heads of account
+30.
+Updation of details regarding cheques /drafts.
+(1)
+The realization/return of the cheques/drafts shall be followed up with the bank. The realization or dishonour of the
+cheques/drafts shall be updated in the Receipt Register as well as communication to the concerned section.
+(2)
+The concerned section shall at once inform the tenderer of the cheque that the receipt issued for the payment through
+cheque stands cancelled and that he has to make payment of such amount in cash or demand draft only, along with the
+bank charges debited by the bank, if any.
+(3)
+The details of realization/return of the cheques/drafts shall be watched through the Register on Status of Cheques by
+the circle/ward office or head office, who has actually deposited the cheque/draft in the bank and intimated to the
+Accounts section.
+(4)
+Based on the intimation, the Accounts section shall reverse the original collection entry in the books of account.
+Appropriate reversal entries shall also be made in all the registers where such transaction has been posted.
+Page 8/120
+----- PAGE 9 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(5)
+The dishonoured cheque shall be retained by the Accounts section and it shall not be returned till the amount covered in
+the cheque is remitted by the concerned payer.
+31.
+Updation of Subsidiary Ledgers.
+(1)
+The Accounts section shall maintain separate Subsidiary Ledger for each of Major Heads of Income. The Subsidiary
+Ledgers would provide function-wise break up of income accrued/ received by the municipality. Separate folios shall be
+maintained for each function within the Subsidiary Ledger for recording incomes in respect of each function.
+(2)
+This exercise shall be made on daily basis.
+(3)
+The Function-wise Income Subsidiary Ledger shall be maintained in Form No.33
+Chapter - VI General Procedure for Accounting of Expenditure
+32.
+Charge of expenditure.
+- No expenditure shall be charged against the Municipal Fund, unless there is provision in the Budget Estimate and
+sanction from the appropriate authority.
+33.
+Accrual of expenditure.
+(1)
+Every claim against the municipal fund shall, after examination with reference to work order/supply order/indent shall be
+accepted if it is in order and accrued through Journal Voucher
+(2)
+However, such accrual shall be carried out on a regular basis only of establishment expenses, and bills pertaining to
+procurement of goods and services, supported by work order and suppliers' bill.
+(3)
+Other revenue expenditure may be accounted on payment and outstandings accrued at the end of the period ends only.
+34.
+Claims against Municipal Funds.
+(1)
+Every person having any claim against the Municipal Fund shall present a bill at the municipal office. Wherever possible,
+such bills shall be in the Form provided for the purpose and the claimant shall date and sign the same and stamp it
+when necessary.
+(2)
+Where a claimant presents a bill in the Form different from the Form provided for the purpose, a separate bill in the
+proper Form shall be prepared by the officer incurring the expenditure and the claimant's bill shall be attached thereto as
+a supporting document.
+(3)
+All bills presented for a claim against the Council, except a paid bill pertaining to permanent advance shall be received in
+the section concerned and entered in a Register of Bills for Payment.
+(4)
+The Register of Bills for Payment shall be maintained in Form No. 13.
+(5)
+The concerned section shall examine the bill and if the claim is in order and supported by sanction of competent
+authority, such bill shall be sent to the Accounts section along with necessary entries and signature in the Payment
+Order. Necessary certificates prescribed shall be recorded in the Payment Order/Bill by the officer in-charge of the
+section before sending the bill to the Accounts section. Full details of the bill, admissibility, deductions and other details
+shall also be noted in the note file.
+(6)
+The Payment Order shall be maintained in Form No. 14.
+Page 9/120
+----- PAGE 10 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(7)
+The officer preparing the Payment Order shall be personally responsible to ensure that the bill is complete and affords
+sufficient information as to the nature of payments being made.
+35.
+Payment of bills.
+(1)
+The Accountant shall scrutinize the bills with reference to admissibility, sanction and availability of budget provision. If
+the bills satisfy all the conditions, he shall submit the bills to the Commissioner with due noting in the note sheet as well
+as the payment order, for acceptance and payment. Where any deficiencies are noticed in the bills, he shall return such
+bills to the section concerned indicating the deficiencies.
+(2)
+Where the bills are accepted for payment, the Commissioner shall make an order of acceptance for payment on the
+Payment Order and also in the note file and send the bill along with the file to the Accountant for payment. Then, the
+Accountant shall examine the claim once again and satisfy its correctness; and shall prepare a Journal Voucher and
+Cash/Bank Payment Voucher.
+(3)
+When the bills include recoveries/adjustments of claims due to Council, the payment order and recordings in the note file
+shall indicate the gross amount of the claim, amount recovered/adjusted and the net amount payable to the claimant.
+The Accountant shall pass necessary Journal Vouchers for recoveries/adjustments made in the bills and ensure that
+payment is made only for the net amount payable.
+(4)
+After payment, the bill shall be endorsed with the words 'paid and cancelled'. The Accountant shall record the payment
+details on the face of the bill as well as on the note file. He shall then return the file along with 'paid and cancelled'
+endorsed bill to the concerned section. The Accountant shall retain the 'pay order' as support for the Journal Voucher
+and Payment Voucher.
+Chapter - VII General Procedure for Accounting of Payments
+36.
+Settlement of claims.
+(1)
+All liabilities incurred shall be discharged with the least possible delay.
+(2)
+All claims which are barred by time under relevant rules shall not be paid without the sanction of the authorities specified
+therein.
+37.
+Payments from municipal funds.
+(1)
+All payments from municipal funds shall be paid by cash or cheque or bank transfer with reference to Cash/Bank
+Payment Voucher
+(2)
+The payments made by cheques shall be signed by the Commissioner.
+(3)
+Payments less than rupees one hundred may be paid in cash.
+38.
+Cash payment out of Permanent Advance.
+(1)
+If the bill is to be paid in cash, it shall be paid from out of the permanent advance.
+(2)
+If the amount is payable from out of permanent advance, it shall be approved by the competent authority and made over
+to the officer holding permanent advance for making payment. The officer holding permanent advance shall pay the
+amount, and after payment in cash, shall stamp the voucher with the words 'paid in cash' in a conspicuous manner. This
+shall be attached as a sub voucher to the next contingent bill while recouping the permanent advance.
+Page 10/120
+----- PAGE 11 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(3)
+The Register of Permanent Advance shall be maintained in Form No. 17.
+39.
+Cheque payment.
+(1)
+If the amount is payable by cheque, the Accountant shall prepare a cheque for the amount payable as per the bill and
+submit to the Commissioner for signing the cheque. An entry of the cheque prepared shall be made in the Cheque Issue
+Register.
+(2)
+The Cheque Issue Register shall be maintained in Form No. 15
+(3)
+On payment by cheque, the voucher shall be stamped with the words 'paid by cheque Number and Date' in a
+conspicuous manner.
+40.
+Payment through Bank Transfer.
+(1)
+If the amount is payable through Bank Transfer, the Accountant shall prepare a Bank Advice for the amount payable as
+per the bill and submit to the Commissioner for signing the Bank Advice.
+(2)
+The Bank Advice shall be in maintained in Form No. 41
+(3)
+On payment through Bank Advice, the voucher shall be stamped with the words 'paid through Bank Advice Number and
+Date' in a conspicuous manner.
+(4)
+All Bank Advices shall be recorded in a Register for Bank Advices
+(5)
+The Register of Bank Advices shall be maintained in Form No.42
+41.
+Payments to be covered by receipts.
+(1)
+Every payment made, either in cash or cheque or bank transfer, shall be covered by a receipt, and signed by the person
+to whom the money is paid. Every receipt for a sum exceeding Rs.5,000/- shall be stamped by the payee with a one
+rupee revenue stamp.
+(2)
+Every Payment Voucher shall bear or have been attached to it an acknowledgement of the payment, signed by the
+person for whom or on whose behalf the claim is put forth. No payment shall be made in the absence of the necessary
+acknowledgement.
+(3)
+Date of receipt shall invariably be noted in the acknowledgement by the person who received the payment.
+42.
+Accounting of payments.
+(1)
+The entry for payment shall be made by credit to the cash or bank account and
+(a)
+In case a liability was earlier taken for the amount of the bill, by debit to the same liability account;
+(b)
+In case no liability was taken, by debit to the appropriate expenditure account head.
+43.
+Updation of Subsidiary Ledgers.
+(1)
+The Account section shall maintain separate Subsidiary Ledger for each of Major Heads of Expenditure. The Subsidiary
+Page 11/120
+----- PAGE 12 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Ledgers would provide function-wise break up of expenditure incurred by the municipality. Separate folios shall be
+maintained for each function within the Subsidiary Ledger for recording expenditures in respect of each function.
+(2)
+This exercise shall be made on daily basis.
+(3)
+The Function-wise Expenditure Subsidiary Ledger shall be maintained in Form No.34.
+Chapter - VIII Maintenance of Demand, Collection and Balance Registers
+44.
+Responsibility of the Council.
+- It shall be the responsibility of the Council to identify and list out all persons liable for payment of tax, fees, charges or
+any sum due to it; and maintain their record in a manner that the amounts due, collections made and balances due are
+available in respect of all such persons.
+45.
+Demand Registers.
+(1)
+On identification of the persons liable for payment of tax, fees, charges or any sum payable to the Council, the
+concerned sections shall maintain the Demand Register in respect of the relevant Income. The register should provide
+information in respect of demand, collection, remission/written-off and the balance.
+(2)
+The Demand Register shall be maintained in Form No.20
+(3)
+The Demand Register shall be updated by the respective sections for any demand that is raised or falls due, any
+collection that is made in respect of a person and the balance amount outstanding from that person.
+(4)
+Head of the concerned section shall prepare a statement of bills raised, which revises the demand and shall send it to
+the Accounts section. In case new bills are not raised and there is no change in the demand, a nil statement shall be
+sent.
+(5)
+This exercise shall be made every month.
+(6)
+The Statement of Bills Raised shall be maintained in Form No.22.
+Chapter - IX Procedure for Accounting Property and Other Taxes
+46.
+Accounting of property and other taxes.
+(1)
+Property and other taxes shall be accrued as income at the beginning of the year and at other intervals in accordance
+with sub-rule (2) of Rule 20.
+(2)
+Where system of self assessment of property tax is adopted in any municipality, the amount of tax income can be
+accrued only after the self assessment forms submitted are scrutinised and approved.
+(3)
+Cesses collections on behalf of other agencies along with property tax shall be treated as a liability for payment to the
+concerned agency. If any collection or service charges are provided for collection of such cesses, it shall be taken as
+income, and shall be deducted from the amount payable to the agency.
+47.
+Provision for doubtful realization.
+(1)
+On any amount of receivables, remaining outstanding beyond two years, provision for doubtful realization shall be made
+in accordance with the following norms:
+(a)
+Outstanding for more than 2 years, but not exceeding 3 years: 25%
+Page 12/120
+----- PAGE 13 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(b)
+Outstanding for more than 3 years, but not exceeding 4 years: 50%
+(c)
+Outstanding for more than 4 years, but not exceeding 5 years: 75%
+(d)
+Outstanding for more than 5 years: 100%
+(2)
+The provision referred to above is made in the form of debit and shall be made at the end of the year for the accounting
+purpose only. It should neither be considered as a reduction of demand in the Demand Register nor should be treated
+as written-off.
+Chapter - X Procedure for Accounting of Water Charges
+48.
+Accounting of water supply transactions.
+(1)
+Water supply charges shall be accrued as income in the Water Supply and Drainage Fund in accordance with rule 20.
+(2)
+Other receipts which are not accruable, such as, connection charges, pipeline service charges, water tanker charges,
+disconnection and reconnection charges etc. shall be accounted on actual receipt in accordance with rule 21.
+49.
+Provision for doubtful recovery of water charges.
+(1)
+On any amount of receivables, remaining outstanding beyond two years, provision shall be made for doubtful recovery
+of water charges in accordance with the following norms.
+(a)
+Outstanding for more than 2 years, but not exceeding 3 years: 50%
+(b)
+Outstanding for more than 3 years: 100%
+(2)
+The provision referred to above is made in the form of debit and shall be made at the end of the year for the accounting
+purpose only. It should neither be considered as a reduction of demand in the Demand Register nor should be treated
+as written-off.
+Chapter - XI Procedure for Accounting for License Fees
+50.
+Accounting for license fees.
+(1)
+Income from license fee shall be accrued as income in accordance with rule 20.
+(2)
+Income from new license fee shall be accounted as and when they are realized in accordance with rule 21.
+51.
+Provision for doubtful recovery of license fees.
+(1)
+On any amount of receivables, remaining outstanding beyond two years, provision shall be made for doubtful recovery
+of license fees in accordance with the following norms.
+(a)
+Outstanding for more than 2 years, but not exceeding 3 years: 50%
+(b)
+Outstanding for more than 3 years: 100%
+(2)
+The provision referred to above is made in the form of debit and shall be made at the end of the year for the accounting
+purpose only. It should neither be considered as a reduction of demand in the Demand Register nor should be treated
+as written-off.
+Page 13/120
+----- PAGE 14 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Chapter - XII Procedure for Accounting of Rentals, Fees and Other Incomes
+52.
+Accounting of rental income from municipal properties.
+(1)
+Income from rents from municipal properties shall be accrued on annual basis at the beginning of the year in
+accordance with rule 20.
+(2)
+The Council shall maintain a Demand Register in Form No.20 and enter all municipal properties like lands, buildings,
+shopping/commercial complexes etc. from which rents are due. New shops/shopping complexes let out during the year
+together with rents shall also be included in the register.
+53.
+Revenue by way of fees from markets, slaughter houses etc.
+(1)
+When the right to collect market fees, slaughter house fees, parking fees etc. is leased out, the lease shall be confirmed
+by the competent authority and a lease deed shall be executed.
+(2)
+The relevant details shall be entered in the Demand Register in Form No.20 and the income there from shall be accrued
+on annual basis at the beginning of the year in accordance with rule 20.
+54.
+Revenue from other incomes through miscellaneous sales.
+(1)
+Other incomes through miscellaneous sales of distrained property, road side trees, stores and condemned material etc.,
+the sales shall be confirmed by the competent authority.
+(2)
+On confirmation of the sales, the relevant details shall be entered in the Demand Register in Form No.20.
+(3)
+Other incomes, in respect of which demand is ascertainable, shall be accrued on annual basis at the beginning of the
+year in accordance with rule 20.
+(4)
+Other incomes which are of uncertain nature for which the amount is not ascertainable, the income shall be accounted
+as and when they are actually collected or received by the municipality in accordance with rule 21.
+55.
+Accounting of other incomes such as fees etc.
+- Where the fees cannot be ascertained in advance as accruable, the income there from shall be accounted as and
+when they are actually collected or received by the municipality in accordance with rule 21.
+56.
+Accounting of assigned revenues.
+(1)
+Assigned revenues are usually in the nature of a share in the revenues of the Government, to compensate for certain
+losses in revenue or to support the resources of the municipalities. The share in revenues is determined on the basis of
+the collections made by the Government in the municipal area.
+(2)
+As such, the income is not ascertainable and the actual receipts are taken as income. It shall be accounted during the
+year only upon actual collection in accordance with rule 21.
+(3)
+However, at year-end, if sanction order (or proceedings) is passed and the amount is ascertained, the revenues shall be
+accrued in accordance with rule 20.
+57.
+Provision for doubtful recovery of rentals and other incomes.
+(1)
+On any amount of receivables, remaining outstanding beyond two years, provision shall be made for doubtful recovery
+Page 14/120
+----- PAGE 15 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+of rentals and other incomes in accordance with the following norms.
+(a)
+Outstanding for more than 2 years, but not exceeding 3 years: 50%
+(b)
+Outstanding for more than 3 years: 100%
+(2)
+The provision referred to above is made in the form of debit and shall be made at the end of the year for the accounting
+purpose only. It should neither be considered as a reduction of demand in the Demand Register nor should be treated
+as written-off.
+Chapter - XIII Procedure for Accounting for Grants
+58.
+Government grants.
+(1)
+Municipalities receive grants from State Government, Central Government or any other agency.
+(2)
+Grants received by the municipalities are of two categories
+(a)
+Capital Grant: Usually received for capital expenditure, ie., for creation of fixed assets, like purchase of
+land/building/equipment or providing infrastructure etc. The benefits of such expenditure are of an enduring nature and
+spread over an extended period of time.
+(b)
+Revenue grant: Generally received for meeting recurring expenditure, the benefits of which usually expire within the
+accounting year in which it is incurred.
+(3)
+Grants may also be General or Specific.
+(a)
+General grants are for non specific purpose.
+(b)
+Specific grants are meant for carrying out specific projects/schemes or meeting specific expenditure.
+(4)
+Specific grants can have both capital as well as revenue component, eg., grants for construction of new roads and
+subsequent repairs and maintenance of roads. Specific grants may be received in advance or as a reimbursement of the
+expenditure incurred by the municipality. These grants shall be treated as a liability.
+(5)
+All grants received shall be entered in Grant Register. Separate Registers shall be maintained for Capital and Revenue
+Grants; and also separate pages for each grant. The details of receipts as well as expenditure incurred from it shall be
+recorded in the Grant Register.
+(6)
+The Grant Register shall be maintained in Form G-l.
+59.
+Accounting of grants.
+(1)
+General grant which is of revenue nature shall be recognized as income only upon actual receipt.
+(2)
+Specific grant towards revenue expenditure, received prior to the expenditure incurred, shall be treated as a liability till
+such time the expenditure is incurred.
+(3)
+Specific grants received or receivable in respect of specific revenue expenditure shall be recognized as income in the
+accounting period in which the corresponding revenue expenditure is charged.
+(4)
+Specific grants received towards capital expenditure shall be treated as a liability till such time the fixed asset is
+Page 15/120
+----- PAGE 16 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+constructed or acquired.
+(5)
+Grants in the form of non-monetary assets (such as fixed assets given at concession rates) shall be accounted for on
+the basis of the acquisition cost. In case a non-monetary asset is received free of cost, it shall be recorded at a nominal
+value (e.g. Rupee One).
+Chapter - XIV Procedure for Accounting Public Works
+60.
+Payment of work bills.
+(1)
+Payments to contractors and suppliers shall be made by means of 'account payee' cheques drawn in their favour or
+through bank transfer.
+(2)
+Every payment to a contractor shall be on account of some particular work for which a work order exists. No payments
+in anticipation of measurements shall be made to a contractor.
+61.
+Accounting of contractor bills.
+(1)
+When a contractor's bill is accrued under Rule 33, the liability shall be taken by
+(a)
+Debit to the 'capital works in progress' account in case of an ongoing contract to create a new (capital) asset;
+(b)
+Debit to the 'revenue expenses' account in case the contract is to carry out certain repair or maintenance work
+(2)
+When the capital asset referred to in clause (a) above is completed, it shall be capitalized.
+(3)
+On receipt of contract completion certificate, the Accounts section shall capitalize the amount lying in the 'capital
+work-in-progress' account and convert it into a Fixed Asset.
+Chapter - XV Procedure for Accounting Fixed Assets
+62.
+Capitalisation of fixed assets.
+- When as asset is ready and put to use, the amount spent on the asset which was recorded under 'capital
+work-in-progress' account, shall be capitalized by debit to the appropriate 'fixed asset' account and credit to 'capital
+work-in-progress' account.
+63.
+Register of Fixed Assets.
+(1)
+The Council shall maintain the following registers comprising of land, buildings and other infrastructure, movable and
+immovable properties which belong to the municipality
+(a)
+Register of Land (Form No.32)
+(b)
+Register of Immovable Properties (Form No.30)
+(c)
+Register of Movable Properties (Form No.31)
+(d)
+Register of Public Lighting System (Form No.36)
+(2)
+The registers shall be maintained category-wise in respect of lands, buildings etc.
+(3)
+The infrastructure assets like roads, water works, bridges, culverts, sewers and drains etc. shall be recorded
+ward/locality wise for purposes of identification, measurements etc.
+Page 16/120
+----- PAGE 17 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(4)
+The registers shall be maintained Fund-wise.
+(5)
+Any new asset that is capitalized, acquired, donated or gifted shall be recorded in the Register on the date the asset is
+capitalized, acquired, donated or gifted.
+64.
+Valuation of fixed assets.
+(1)
+All fixed assets shall be carried at cost less accumulated depreciation, as specified in A.P. Municipal Asset Valuation
+Methodology Manual (APMAVMM).
+(2)
+The cost of fixed asset shall include cost incurred/money spent in constructing, installing or acquiring the fixed asset,
+interest on borrowings and other incidental or indirect expenses incurred up to the month of commissioning of the asset.
+(3)
+In case a fixed asset is acquired at concessional rate, the concessional rate shall be recorded as the cost of acquisition.
+(4)
+In case a fixed asset is donated or gifted, the cost shall be recorded at a nominal value of rupee one.
+65.
+Depreciation on fixed assets.
+(1)
+At the end of the accounting year, depreciation shall be provided on each class of fixed asset at the rates prescribed by
+Government. The amount of depreciation shall be computed under straight line method or written down value as
+prescribed by Government/ APMAVMM. However, depreciation shall not be charged to land.
+(2)
+In case the asset is capitalized on or after 1st October of the year, depreciation shall be applicable at half of the rates
+prescribed above.
+(3)
+The depreciation of each asset shall be updated in the Fixed Assets Register every year.
+66.
+Asset Replacement Register.
+(1)
+The Council shall maintain a separate Asset Replacement Fund for replacement of fixed assets, by transfer of amounts
+equivalent to the depreciation provision made for the accounting year.
+(2)
+The amounts shall be transferred from General Fund. A separate bank account shall be maintained to deposit the
+amounts relating to Asset Replacement Fund.
+(3)
+The Asset Replacement Register shall be maintained asset class-wise to record the amounts transferred for the
+purpose.
+(4)
+The Asset Replacement Register shall be maintained in Form No.35
+67.
+Revaluation of fixed assets.
+(1)
+The Council may carry out a revaluation of its assets, with prior permission of Government in any of the following cases:
+(a)
+When commercial development of the fixed assets are taken up after the land use and architectural control have been
+approved by competent authority;
+(b)
+At the time of lease;
+(c)
+Page 17/120
+----- PAGE 18 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+At the time of issue of municipal bonds.
+(2)
+Any increase in value of fixed assets due to revaluation shall be recorded in a 'Revaluation Reserve' Account.
+(3)
+Revaluation Reserve shall be adjusted/reduced by an amount equivalent to the depreciation charge on the revalued
+portion of the fixed asset.
+Chapter - XVI Procedure for Accounting Advances and Other Assets
+68.
+Advances.
+(1)
+The advances paid from municipal funds do not constitute expenditure, and they shall be recovered or adjusted in
+future; and they therefore shall be accounted under 'advances recoverable'.
+(2)
+All transactions relating to advances shall be recorded in the Register of Advances.
+(3)
+The Register of Advances shall be maintained in Form No. 16.
+69.
+Accounting of advances.
+(1)
+Whenever advances other than permanent advances are made, the transactions shall be recorded in the Register of
+Advances and recoveries in the form of repayments or adjustments watched.
+(2)
+The total of advances made during a month in the Register shall be agreed with the corresponding total in the Ledger.
+(3)
+When an advance is recovered in cash or adjusted by deduction from bill through the Journal Voucher, the amount shall
+be noted against the original advance in the column for the month in which the recovery or adjustment is made. The total
+of recoveries made for a month shall be agreed with the corresponding credit under advances in the Ledger.
+70.
+Permanent Advance.
+(1)
+An amount of permanent advance shall be sanctioned to an officer to meet immediately the petty expenses connected
+to his section. The amount shall be decided by the Council with reference to the average expenses to cover for a month.
+(2)
+The amount shall be recouped once in a month or whenever the permanent advance runs short duly supported with the
+details of expenses. All sub vouchers have to be stamped as 'cancelled' after payment.
+(3)
+Permanent advance shall be adjusted by debit to the appropriate expense heads for which the amount is used.
+(4)
+Register of Permanent Advance shall be maintained in Form No. 17
+71.
+Investments.
+(1)
+The Council shall maintain a Register of Investments.
+(2)
+The Register shall be maintained in Form IN 1
+(3)
+All investments belonging to the Council shall be entered in the Register. The investments are assets of the municipality.
+(4)
+The Register shall also indicate interest due and realizations on account of it from time to time. It should be ensured that
+the amounts due are realized on due dates and that there are no outstandings. In respect of interest accrued but not
+received at the end of the year, a journal entry shall be passed for accounting 'the interest amount under income'.
+Page 18/120
+----- PAGE 19 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Chapter - XVII Procedure for Accounting Deposits, Borrowings and Other Liabilities
+72.
+Deposits.
+(1)
+Deposits received shall not be accounted under income as these are liabilities. All deposits received by the municipality
+shall be entered in a Register of Deposits.
+(2)
+The Register of Deposits shall be maintained in Form No. 18.
+(3)
+All deposits received either by cash, demand draft or recovered through Journal Voucher shall be entered in the
+Register. Separate sets of pages shall be set for each of the following classes of deposits.
+(a)
+Deposits by market/shop room lessees.
+(b)
+Deposits by contractors and suppliers.
+(c)
+Other deposits
+(4)
+Deposits which are not refundable shall be credited to the relevant income head of account.
+73.
+Refund of deposits.
+(1)
+Deposits shall be refunded when an application is made for it. After being satisfied that the applicant is entitled for the
+refund and that the deposit is actually outstanding against the applicant, a Payment Order shall be prepared and the
+deposit refunded.
+(2)
+The Payment Order shall be maintained in Form No. 14
+(3)
+The deposits collected from the lessees shall be adjusted against the rents due through a Journal Voucher. The details
+of deposits adjusted shall be sent by the respective sections to the Accounts section once in every month.
+(4)
+The Summary Statement of Deposits Adjusted shall be maintained in Form No. 19.
+74.
+Lapse of deposit.
+(1)
+Deposits not claimed within three (3) years from the date it is due for payment shall be considered as lapsed and
+accounted under 'Lapsed Deposits' (income) through a Journal Voucher.
+(2)
+Lapsed deposits shall not be refunded without the sanction of competent authority.
+75.
+Borrowings.
+(1)
+The borrowings, ie., loans received by the Council do not come under income. They are liabilities repayable with
+interest.
+(2)
+All loans received by the Council shall be recorded, each on a separate page in a Register of Loans.
+(3)
+The Register of Loans shall be maintained in Form BR 1
+76.
+Municipal Bonds/Debentures.
+(1)
+Page 19/120
+----- PAGE 20 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+When the Council raises the loan through public issue of Bonds/Debentures, a separate Register of Bonds/Debentures
+shall be maintained.
+(2)
+The Register of Bonds/Debentures shall be maintained in Form BR 2.
+77.
+Sinking Fund/Escrow Account.
+(1)
+Where the terms for raising loan or issuing bonds/debentures provide the establishment of Sinking Fund or creation of
+Escrow Account, the amounts stipulated in the terms of sanction shall be transferred from the General Funds to the
+Sinking Fund or Escrow Account.
+(2)
+The purpose of establishing Sinking Fund or creation of Escrow Account is to accumulate money, adequate to repay the
+loan or bonds/debentures as per schedule.
+(3)
+The amounts to be transferred include the revenues raised through the infrastructure provided by utilizing the loan or
+bonds and a share of general funds.
+(4)
+Separate bank accounts shall be maintained for Sinking Fund and Escrow Account.
+(5)
+The Register of Sinking Fund shall be maintained in Form BR 3
+78.
+Appropriation of loans, endowments and other funds.
+(1)
+Loans, endowments and other funds for specific purpose shall be kept in separate bank accounts, and shall be
+appropriated for the purpose for which they have been raised.
+(2)
+All such funds shall be recorded in Register of Earmarked Funds. Separate pages or set of pages shall be set for each
+Fund.
+(3)
+The Register of Earmarked Funds shall be maintained in Form EMI
+Chapter - XVIII Period-end and Reconciliation Procedures
+79.
+Bank reconciliation.
+(1)
+The bank reconciliation is an exercise which aims at reconciling the bank balance as shown in the Cash book of the
+municipality with the bank balance as per the Pass Book/Statement received from the bank.
+(2)
+The bank reconciliations shall be carried for each of the bank accounts maintained by the municipality and for every
+month.
+80.
+Period end procedures.
+(1)
+The Council shall follow the period end procedures on daily, monthly, quarterly and annual basis.
+(2)
+The following procedures shall be carried out on daily basis
+(a)
+Closing of Cash Book
+(b)
+Physical verification of cash balance
+(c)
+Deposit of collections (both cash and cheques) in the bank
+Page 20/120
+----- PAGE 21 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(i)
+Checking ledger accounts with the books of original entries, i.e., Cash Book and Journal Book
+(ii)
+Verification of number of receipts issued as reported by the collection offices with the Collection Register
+(iii)
+Updation of Subsidiary Ledgers
+(3)
+The following procedures shall be carried out on monthly basis
+(a)
+Bank reconciliation
+(b)
+Recording of expenditures incurred against Permanent Advance
+(c)
+Payment of statutory deductions and remittances
+(d)
+Payment of provident fund dues and pensionary contribution in respect of employees on deputation
+(e)
+Reconciliation of Function wise Income/Expense Subsidiary Ledgers with respective Trial Balance totals.
+(f)
+Compilation of details of closing stock for recording the consumption of stores at the end of the month.
+(g)
+Closing of Ledger Accounts
+(4)
+The following procedures shall be carried out on quarterly basis
+(a)
+Reconciliation of deposits, advances, receivables and incomes
+(b)
+Provision for period-end expenses
+(c)
+Transfer of revenue grant received in advance for specific purpose to grant income
+(d)
+Recognition of grant income for revenue expenditure incurred in respect of grant receivable as reimbursement
+(e)
+Accrual of interest on borrowings
+(f)
+Recording of provision for bills remaining unpaid in respect of Special Fund expenditure
+(g)
+Accrual of interest on investments
+(h)
+Accrual of interest on loans to employees
+(i)
+Reconciliation of Capital Work in Progress (j) Reconciliation of Inter Unit Balances
+(k)
+Passing of adjustment entries (1) Closing of Ledger Accounts
+(5)
+The following procedures shall be carried out on annual basis
+(a)
+Physical verification of Stores
+(b)
+Physical verification of Fixed Assets
+(c)
+Page 21/120
+----- PAGE 22 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Transfer of Funds from Special Funds to Special Funds (Utilised)
+(d)
+Confirmation of all categories of advances
+(e)
+Provision for unrealised revenues
+(f)
+Accounting of pre-paid expenses
+(g)
+Contribution of difference in interest to the Provident Fund
+(h)
+Expenditure for the benefit of SC/ST/BC or similar other welfare schemes
+(i)
+Confirmation from Govemment/Quasi-govemment and Government owned agencies
+(j)
+Closing of Ledger Accounts
+Chapter - XIX Financial Statements
+81.
+Monthly statement of receipts and payments.
+(1)
+The Commissioner shall prepare a fund-wise statement of receipts and payments.
+(2)
+The statement shall be prepared in Table 9.19.
+(3)
+The Commissioner shall prepare the statement by the end of the following month and place it before the Council.
+82.
+Monthly Trial balance and DCB statement.
+(1)
+The Commissioner shall also prepare Trial Balance once in every month. The Trial Balance is a list of closing balances
+in all the accounts in the Ledger and the Cash books.
+(2)
+The Trial Balance shall be prepared in Table 9.14.
+(3)
+The Commissioner shall prepare the Trial Balance by the end of the following month and place it along with Demand
+Collection and Balance Statement before the Council.
+83.
+Annual financial statements.
+(1)
+Preparation of Annual Account comprising various Financial Statements is the responsibility of Head of Accounts
+Section. However, the ultimate responsibility lies with the Commissioner of the municipality. The Annual Accounts shall
+be prepared before the end of June following. The Annual Accounts shall be placed before the Council for approval.
+(2)
+The Financial Statements shall consist of:
+(a)
+Balance Sheet
+(b)
+Income and Expenditure Statement
+(c)
+Statement of Cash flows
+(d)
+Receipts and Payments Account
+(e)
+Page 22/120
+----- PAGE 23 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Notes to Accounts, and
+(f)
+Financial Performance Indicators
+(3)
+The Commissioner shall state that the books of account are maintained in the manner as required by the Act and rules;
+and as per the provisions of the Andhra Pradesh Municipal Accounts Manual. He shall also state that proper accounting
+principles have been adopted and applied consistently while accounting for the transactions and preparing the Annual
+Financial Statements. In determining the accounting treatment and manner of disclosure of an item in the Income and
+Expenditure Statement and/or in the Balance Sheet, due consideration shall be given to the materiality of the item. He
+shall also comment upon the performance of the municipality based upon the results of the Financial Performance
+Indicators. In respect of any adverse performance as reflected by the result of any Performance Indicator, the
+Commissioner shall also state the steps taken to improve the performance.
+(4)
+The Balance Sheet shall be prepared in Table 9.16.
+(5)
+The Income and Expenditure Statement shall be prepared in Table 9.15
+(6)
+The Statement of Cash flows shall be prepared in Table 9.17.
+(7)
+The Receipts and Payments Account shall be prepared in Table 9.18.
+(8)
+The Notes to Accounts shall comprise of statement of significant accounting principles, statement of contingent
+liabilities, subsidy report and other disclosures, as may be useful to understand the financial statements clearly.
+(9)
+The Financial Performance Indicators depict the performance of the municipality. They shall cover income ratios,
+expense ratios, net income ratios, efficiency ratios, leverage ratios, investment ratios, liquidity ratio, asset ratio and
+performance ratios. The Council may include new indicators also, if it desires.
+84.
+Financial Statements at the end of each quarter.
+(1)
+The municipality shall also prepare the Financial Statements like the Balance Sheet, Income and Expenditure
+Statement, Statement of Cash flows and Receipts and Payments Account, at the end of each quarter.
+(2)
+The Balance Sheet shall disclose figures as on a date for the current year and the previous year, Income and
+Expenditure Statement, Statement of Cash flows and the Receipts and Payments Accounts shall disclose quarterly
+figures, progressive year-to-date totals and the figures of the corresponding quarter of the previous year; and the
+quarterly movements in various accounts. In addition, the Income and Expenditure Statement shall also disclose the
+annual budget figures.
+(3)
+The Financial Statements at the end of each quarter shall be prepared within one month of the end of relevant quarter
+and shall be placed before the Council.
+85.
+Submission of Receipt and Payment Statement to Government.
+- The Municipality shall prepare the Receipt and Payment Statement every quarterly, half-yearly and annually and
+submit to Government by establishing linkage through Comprehensive Financial Management System (CFMS)
+86.
+Audit of annual accounts comprising various financial statements.
+- The Annual Accounts comprising various Financial Statements, on approval by the Council, shall be forwarded to the
+auditor appointed by Government for the purpose of audit.
+Chapter - XX Computerized Accounting
+87.
+Page 23/120
+----- PAGE 24 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Computerised accounting.
+(1)
+The accounting records required to be maintained under these rules may be kept in a computer based system
+(2)
+Where the records are so kept, it shall be the responsibility of the Director of Municipal Administration either by himself
+or through any agency approved by Government to ensure that appropriate controls and procedures are exercised for
+the integrity and security of the data files and programmes and storage of back up of this data and its retrieval.
+Chapter - XXI Preparation of Opening Balance Sheet
+88.
+Preparation of Opening Balance Sheet.
+(1)
+In the first year, under these rules, the municipality shall determine the opening balance of various asset and liability
+account heads at the beginning of the period and this statement shall be called the opening balance sheet.
+(2)
+The opening balance sheet shall be prepared separately for each fund.
+(3)
+In order to determine the opening balance, the municipality shall prepare an inventory of all its assets and liabilities and
+value them at the current book value based on their original cost less appropriate depreciation in the case of fixed
+assets.
+(4)
+In case the municipality is unable to determine the actual cost of a fixed asset with reasonable accuracy, it shall use the
+currrent standard cost rates prescribed by Government, deflate them to the year of purchase and then depreciate them
+to arrive at the current book value of the asset.
+89.
+Adoption of the Opening Balance Sheet.
+- After preparation of the opening balance sheet, it shall be placed before the Council for approval and adoption.
+90.
+Revision of opening balance sheet.
+(1)
+If any error or omission is noticed after opening balance sheet is prepared, such error or omission shall be incorporated
+in the Opening Balance Sheet figure, by routing through an 'Adjustment to Opening Balance Sheet' account for the
+period concerned.
+(2)
+Such adjustment in the opening balance sheet shall also be placed before the Council for approval and adoption before
+it is included in the accounts.
+Chapter - XXII Miscellaneous Provisions
+91.
+Government's orders on discrepancy.
+- If there is any discrepancy in interpreting the rules, the matter shall be referred to Government and orders passed
+thereon shall be final.
+List of Forms, Registers, Schedules and Tables
+SI. No.
+Form No.
+Details
+Reference
+1
+Schedule I
+Function Codes
+Rule 5
+2
+Schedule II
+Page 24/120
+----- PAGE 25 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Account Codes -Income
+Rule 6 (a)
+3
+Schedule III
+Account Codes -Expenses
+Rule 6 (b)
+4
+Schedule IV
+Account Codes -Liabilities s
+Rule 6 (c)
+5
+Schedule V
+Account Codes -Assets
+Rule 6 (d)
+6
+Form 1
+Cash Book
+Rule 11
+7
+Form 2
+Journal Book
+Rule 12
+8
+Form 3
+Ledger
+Rule 13
+9
+Form 4
+Receipt Voucher
+Rule 15
+10
+Form 5
+Payment Voucher
+Rule 16
+11
+Form 6
+Contra Voucher
+Rule 17
+12
+Form 7
+Journal Voucher
+Rule 18
+13
+Form 22
+Summary Statement of Bills Raised
+Rule 20 (3) & 45 (6)
+14
+Form 8
+Receipt
+Rule 24 (3)
+15
+Page 25/120
+----- PAGE 26 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Form 9
+Receipt Register
+Rule 24 (5)
+16
+Form 10
+Statement on Status of Cheques Received
+Rule 24 (7)
+17
+Form 11
+Collection Register
+Rule 27
+18
+Form 12
+Summary of Daily Collection
+Rule 28
+19
+Form 33
+Function -wise Income Subsidiary Ledger
+Rule 31
+20
+Form 13
+Register of Bills for Payment
+Rule 34 (4)
+21
+Form 14
+Payment Order
+Rule 34 (6) & 73 (2)
+22
+Form 17
+Register of Permanent Advance
+Rule 38 (3) & 70 (4)
+23
+Form 15
+Cheque Issue Register
+Rule 39
+24
+Form 41
+Bank Advice
+Rule 40 (2)
+25
+Form 42
+Register of Bank Advices
+Rule 40 (5)
+26
+Form 34
+Function-wise Expenditure Subsidiary Ledger
+Rule 43
+27
+Form 20
+Demand Register
+Rule 45 (2), 52 (2), 53 (2) and 54 (2)
+Page 26/120
+----- PAGE 27 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+28
+G1
+Grant Register
+Rule 58
+29
+Form 32
+Register of Land
+Rule 63 (1) (a)
+30
+Form 30
+Register of Immovable Properties
+Rule 63 (1) (b)
+31
+Form 31
+Register of Movable Properties
+Rule 63 (1) (c)
+32
+Form 36
+Register of Public Lighting System
+Rule 63 (1) (d)
+33
+Form 35
+Asset Replacement Register
+Rule 66
+34
+Form 16
+Register of Advances
+Rule 68
+35
+IN1
+Investment Ledger/Register
+Rule 71
+36
+Form 18
+Register of Deposits
+Rule 72
+37
+Form 19
+Summary Statement of Deposits Adjusted
+Rule 73 (4)
+38
+BR 1
+Register of Loans
+Rule 75
+39
+BR 2
+Register of Debentures
+Rule 76
+40
+BR 3
+Register of Sinking Funds
+Page 27/120
+----- PAGE 28 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Rule 77
+41
+EM 1
+Register of Earmarked Funds
+Rule 78
+42
+Table 9.19
+Receipt and Payment Account
+Rule 81 (2) & 83 (7)
+43
+Table 9.14
+Trial Balance
+Rule 82
+44
+Table 9.17
+Balance Sheet
+Rule 83 (4)
+45
+Table 9.16
+Income and Expenditure Statement
+Rule 83 (5)
+46
+Table 9.18
+Statement of Cash Flow
+Rule 83 (6)
+I
+Function Codes
+Major Head
+Code
+Description
+Minor Head
+Detailed Head
+e-Code
+Code
+Description
+Code
+Description
+210
+Establishment Expenses
+10
+Salaries, Wages and Bonus
+01
+Basic Pay
+210-10-01
+02
+Dearness Allowance
+210-10-02
+03
+House Rent Allowance
+210-10-03
+04
+Page 28/120
+----- PAGE 29 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+CCA
+210-10-04
+05
+Conveyance Allowance
+210-10-05
+06
+Interim Relief
+210-10-06
+07
+Surrender Leave Encashment
+210-10-07
+08
+Performance Bonus
+210-10-08
+11
+Wages to workers through Placement Agencies
+210-10-11
+12
+Pensionary Contribution
+210-10-12
+16
+Family Planning Incentive
+210-10-16
+17
+Graduate Allowance
+210-10-17
+18
+Post Graduate Allowance
+210-10-18
+19
+Stagnation Increment
+210-10-19
+20
+Addl. House Rent Allowance
+210-10-20
+21
+New Pension Scheme (Employer Contribution)
+210-10-21
+22
+Special Pay
+210-10-22
+20
+Benefits and Allowances
+01
+Leave Travel Concession
+210-20-01
+02
+Medical Reimbursement
+210-20-02
+03
+Tuition Fees
+Page 29/120
+----- PAGE 30 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+210-20-03
+04
+Education Allowance
+210-20-04
+05
+Uniform allowance
+210-20-05
+06
+Workmen Compensations
+210-20-06
+07
+Training
+210-20-07
+08
+Concession in Bus-Pass
+210-20-08
+10
+Educational Concession & Scholarships
+210-20-10
+12
+Special Allowance
+210-20-12
+13
+Addl. Charge Allowance
+210-20-13
+14
+Subsistence Allowance
+210-20-14
+16
+Night Shift Allowance
+210-20-16
+17
+Conveyance Allowance
+210-20-17
+18
+Non Private Practice Allowance
+210-20-18
+19
+Washing Allowance
+210-20-19
+20
+Physically Handicapped Allowance
+210-20-20
+21
+Tribal/Bad Climate Allowance
+210-20-21
+22
+Risk Allowance
+210-20-22
+23
+Typist Allowance
+Page 30/120
+----- PAGE 31 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+210-20-23
+24
+Computer Allowance
+210-20-24
+28
+Supervisory Allowance
+210-20-28
+31
+Other Allowance
+210-20-31
+30
+Pension
+01
+Service Pension
+210-30-01
+02
+Family Pension
+210-30-02
+03
+Provisional Pension
+210-30-03
+04
+Anticipatory Pension
+210-30-04
+40
+Other Terminal & Retirement Benefits
+01
+Leave encashment on Retirement
+210-40-01
+02
+Death cum Retirement gratuity
+210-40-02
+03
+Commuted Pension
+210-40-03
+04
+Pension and Leave Salary Contributions for
+Deputationists
+210-40-04
+05
+General Provident Fund Interest Shortfall
+210-40-05
+06
+Obsequies Expenses
+210-40-06
+220
+Administrative Expenses
+10
+Rent, Rates and Taxes
+01
+Rents for Hired Premises
+Page 31/120
+----- PAGE 32 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+220-10-01
+02
+Rates and Taxes
+220-10-02
+11
+Office maintenance
+01
+Electricity Charges
+220-11-01
+02
+Water Charges
+220-11-02
+03
+Office Security
+220-11-03
+04
+Hospitality expenses
+220-11-04
+12
+Communication Expenses
+01
+Telephone
+220-12-01
+02
+Mobiles
+220-12-02
+04
+Leased Lines & Internet
+220-12-04
+20
+Books & Periodicals
+01
+Newspapers & Journals
+220-20-01
+02
+Magazines
+220-20-02
+21
+Printing and Stationery
+01
+Printing
+220-21-01
+02
+Stationery
+220-21-02
+03
+Computer Consumables
+220-21-03
+04
+Service postage
+220-21-04
+Page 32/120
+----- PAGE 33 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+30
+Traveling & Conveyance
+01
+Traveling - In land
+220-30-01
+02
+Traveling - Abroad
+220-30-02
+03
+Fuel for Office Vehicles
+220-30-03
+40
+Insurance
+01
+Buildings
+220-40-01
+02
+Vehicles
+220-40-02
+03
+Electronic Equipment 3 220-40-03
+04
+Furniture
+220-40-04
+05
+Inventory
+220-40-05
+50
+Audit Fees
+01
+Statutory Audit Fee
+220-50-01
+02
+Certification Fee
+220-50-02
+03
+Out of Pocket Expenses
+220-50-03
+51
+Legal Expenses
+01
+Legal Fees
+220-51-01
+02
+Cost of recoveries of tax revenue
+220-51-02
+03
+Cost of recoveries of other revenues
+220-51-03
+04
+Compensations Ordered by Courts
+Page 33/120
+----- PAGE 34 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+220-51-04
+52
+Professional and other fees
+01
+Consultancy Charges
+220-52-01
+02
+Other Professional Charges
+220-52-02
+60
+Advertisement and Publicity
+01
+Advertisement - Print Media
+220-60-01
+02
+Advertisement -TV & Radio media
+220-60-02
+03
+Hoardings
+220-60-03
+06
+Maintenance of Statutes
+220-60-06
+61
+Membership & subscriptions
+220-61-00
+80
+Others
+220-80-00
+01
+Honorarium/sitting fee to Chairman and
+Councilors
+220-80-01
+02
+Honorarium - Others
+220-80-02
+03
+Organization of Festivals
+220-80-03
+230
+Operations & Maintenance
+10
+Power & Fuel
+01
+Power Charges for Street Lighting
+230-10-01
+02
+Power Charges for Water Pumping
+230-10-02
+03
+Power charges for other services
+Page 34/120
+----- PAGE 35 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+230-10-03
+04
+Fuel to Heavy Vehicles
+230-10-04
+05
+Fuel to Light Vehicles
+230-10-05
+06
+Fuel supply for Field Staff Vehicles
+230-10-06
+20
+Bulk Purchases
+01
+Sanitation/Conservancy Material
+230-20-01
+02
+Purchase of Medicines
+230-20-02
+03
+Fogging/Anti-malaria
+230-20-03
+30
+Consumption of Stores
+01
+Engineering Stores
+230-30-01
+02
+Transport Stores
+230-30-02
+03
+Medical Stores
+230-30-03
+04
+Central Stationary Stores
+230-30-04
+05
+Livery from PH staff
+230-30-05
+06
+Livery for engineering staff
+230-30-06
+07
+Livery for administration staff
+230-30-07
+08
+Others
+230-30-08
+40
+Hire Charges
+01
+Machinery Rent
+Page 35/120
+----- PAGE 36 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+230-40-01
+02
+Vehicles
+230-40-02
+50
+Repairs & maintenance infrastructure Assets
+01
+Main Roads
+230-50-01
+02
+By-lane Roads
+230-50-02
+03
+Bridges
+230-50-03
+04
+Fly-Overs
+230-50-04
+05
+Water Supply Lines
+230-50-05
+06
+Sewerage Lines
+230-50-06
+07
+Storm Water Drains
+230-50-07
+08
+Traffic Signals
+230-50-08
+09
+Street Lighting
+230-50-09
+10
+Burial Grounds
+230-50-10
+11
+Water Supply
+230-50-11
+12
+Solid Waste Management
+230-50-12
+13
+Transit Station
+230-50-13
+14
+Dumping yard
+230-50-14
+15
+Compost Yard
+230-50-15
+Page 36/120
+----- PAGE 37 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+21
+Other repairs and maintenances
+230-50-21
+51
+Repairs & maintenance - Civic Amenities
+01
+Major Parks
+230-51-01
+02
+Minor Parks
+230-51-02
+03
+Colony Parks
+230-51-03
+04
+Stadium
+230-51-04
+05
+Play Grounds
+230-51-05
+06
+Swimming Pools
+230-51-06
+07
+Nursery
+230-51-07
+08
+Play Materials
+230-51-08
+09
+Public Toilets
+230-51-09
+10
+Market Yards
+230-51-10
+11
+Parking Lots
+230-51-11
+12
+Avenue and Other Plantations
+230-51-12
+21
+Others
+230-51-21
+52
+Repairs & maintenance - Buildings
+01
+Community Halls
+230-52-01
+02
+Commercial Complex
+Page 37/120
+----- PAGE 38 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+230-52-02
+03
+Office Buildings
+230-52-03
+04
+Staff Quarters
+230-52-04
+11
+Other Buildings
+230-52-11
+53
+Repairs & maintenance - Vehicles
+01
+Heavy Vehicles
+230-53-01
+02
+Light Vehicles
+230-53-02
+59
+Repairs & maintenance - Others
+01
+Furniture & Fixtures
+230-59-01
+02
+Computers & Net Work
+230-59-02
+03
+Electronic Equipment
+230-59-03
+04
+Office Equipment
+230-59-04
+05
+Survey & Drawing Equipment
+230-59-05
+06
+Plant & Machinery
+230-59-06
+07
+Conservancy Tools
+230-59-07
+08
+Statues
+230-59-08
+09
+Quality Control Expenses
+230-59-09
+11
+Other Repairs and Maintenance
+230-59-11
+80
+Page 38/120
+----- PAGE 39 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Other operating & maintenance expenses
+01
+Garbage Clearance Equipment
+230-80-01
+02
+Testing & Inspection
+230-80-02
+03
+Field Survey & Inspection
+230-80-03
+04
+Water Purification
+230-80-04
+05
+Mapping, Plotting & Drawing Expenses
+230-80-05
+06
+Naming & Numbering of Streets
+230-80-06
+07
+Demolition & Removal Expenses
+230-80-07
+08
+Quality Control Expenses
+230-80-08
+09
+Prevention of Epidemics
+230-80-09
+10
+Collection and Testing of Food Samples
+230-80-10
+11
+Expenses on Unclaimed Dead Bodies
+230-80-11
+12
+Control of Stray Animals
+230-80-12
+13
+Sanitation/Conservancy Expenses
+230-80-13
+14
+Intensive/Special Sanitation including for
+Fairs & Festivals
+230-80-14
+15
+Maintenance of Garbage Dumping Yards/Transfer
+Stations
+230-80-15
+16
+Maintenance of slaughter houses
+230-80-16
+Page 39/120
+----- PAGE 40 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+21
+Others
+230-80-21
+240
+Interest & Finance Charges
+10
+Interest on Loans from Central Government
+240-10-00
+20
+Interest on Loans from State Government
+240-20-00
+30
+Interest on Loans from Government Bodies &
+Associations
+240-30-00
+40
+Interest on Loans from International Agencies
+240-40-00
+50
+Interest on Loans from Banks & Other
+Financial Institutions
+240-50-00
+60
+Other Interest
+01
+Bonds
+240-60-01
+02
+Finance Lease
+240-60-02
+03
+Hire Purchase
+240-60-03
+11
+Others
+240-60-11
+70
+Bank Charges
+01
+Miscellaneous Bank Charges
+240-70-01
+80
+Other Finance Expenses
+01
+Expenses on Issue of Bonds
+240-80-01
+02
+Surveillance Fee
+240-80-02
+03
+Transaction Processing For Collections
+Page 40/120
+----- PAGE 41 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+240-80-03
+04
+Credit Rating
+240-80-04
+11
+Other Finance Expenses
+240-80-11
+250
+Programme Expenses
+10
+Election Expenses
+01
+Local Body Elections
+250-10-01
+02
+MLA/MP Elections
+250-10-02
+20
+Own Programme
+01
+Environmental Awareness Programme
+250-20-01
+03
+Study Tour/Trainings
+250-20-03
+04
+Seminars
+250-20-04
+05
+Voluntary Garbage Disposal Programme
+250-20-05
+06
+Cultural Programmes
+250-20-06
+07
+Community Organisation / Mobilisation
+250-20-07
+08
+Special Nutritation Programme
+250-20-08
+09
+Summer/Winter Coaching Camps
+250-20-09
+11
+Others
+250-20-11
+30
+Share in Programme of others
+01
+Family Welfare Programme
+250-30-01
+Page 41/120
+----- PAGE 42 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+02
+Financial Aid for Urban Self Help Groups
+250-30-02
+03
+Disbursements to T&S / DWCUA & Self
+Help Groups under SJSRY
+250-30-03
+04
+Shilparamam Greening/Others
+250-30-04
+05
+Urban Malaria Eradication
+250-30-05
+06
+Mid Day Meals
+250-30-06
+11
+Others
+250-30-11
+260
+Revenue Grants, Contribution and Subsidies
+10
+Grants
+260-10-00
+20
+Contributions
+260-20-00
+30
+Subsidies
+260-30-00
+270
+Provisions and Write off
+10
+Provisions for Doubtful receivables
+01
+Property Tax
+270-10-01
+02
+Advertisement Tax
+270-10-02
+03
+Others
+270-10-03
+20
+Provision for other Assets
+03
+Loans & Advances to others
+270-20-03
+30
+Revenues written off
+01
+Page 42/120
+----- PAGE 43 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Property Tax
+270-30-01
+02
+Advertisement Tax
+270-30-02
+11
+Others
+270-30-11
+40
+Assets written off
+01
+Stores
+270-40-01
+02
+Investments
+270-40-02
+03
+Decline in Fixed Assets
+270-40-03
+04
+Loans & Advances to others
+270-40-04
+50
+Miscellaneous Expense written off
+01
+Deferred Revenue Expenses
+270-50-01
+271
+Miscellaneous Expenses
+10
+Loss on disposal of Assets
+271-10-00
+20
+Loss on disposal of Investments
+01
+Mutual Fund Investment/shares
+271-20-01
+30
+Decline in Value of Investments
+271-30-00
+80
+Other miscellaneous expenditure
+271-80-00
+01
+Refund of Lapsed Deposit
+271-80-01
+272
+Depreciation
+20
+Buildings
+272-20-00
+Page 43/120
+----- PAGE 44 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+30
+Roads & Bridges
+272-30-00
+31
+Sewerage and Drainage
+272-31-00
+32
+Waterworks
+272-32-00
+33
+Public Lighting
+272-33-00
+40
+Plant & machinery
+272-40-00
+50
+Vehicles
+272-50-00
+60
+Office & Other Equipments
+272-60-00
+70
+Furniture, Fixtures, Fittings and Electrical
+Appliances
+272-70-00
+80
+Other Fixed Assets
+272-80-00
+Parks and gardens
+272-80-01
+280
+Prior Period Item
+Income
+10
+Taxes
+280-10-00
+20
+Other Revenues
+280-20-00
+30
+Recovery of revenues written off
+280-30-00
+40
+Other Income
+280-40-00
+Expenses
+50
+Refund of Taxes
+280-50-00
+60
+Refund of Other Revenues
+Page 44/120
+----- PAGE 45 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+280-60-00
+80
+Other Expenses
+280-80-00
+290
+Transfer to Reserve Funds
+10
+Transfer to Capital Funds
+01
+City Development Fund
+290-10-01
+02
+UCD Fund
+290-10-02
+20
+Transfer to Earmarked Funds
+01
+Sinking Fund
+290-20-01
+02
+Salary Reserve Fund
+290-20-02
+03
+Pension Reserve Fund
+290-20-03
+30
+Revenue Surplus
+01
+General Reserve
+290-30-01
+02
+Surplus/Deficit
+290-30-02
+IV
+Account Codes - Liability
+Major Head
+Code
+Description
+Minor Head
+Detailed Heads
+e-Code
+Code
+Description
+Code
+Description
+310
+Municipal Fund
+10
+Fund
+01
+Revenue Transfers
+Page 45/120
+----- PAGE 46 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+310-10-01
+90
+Surplus/deficit
+310-90-00
+311
+Earmarked Funds
+10
+Special Funds
+01
+City Development Fund
+311-10-01
+02
+Urban Poverty Alleviation Fund
+311-10-02
+03
+Abatement of Pollution of Rivers
+311-10-03
+04
+Preservation of Heritage sites fund
+311-10-04
+05
+Revolving Fund
+311-10-05
+06
+Others
+311-10-06
+50
+Sinking Funds
+01
+City Development Bonds
+311-50-01
+02
+Others
+311-50-02
+70
+Trust or Agency Funds
+01
+Salary Reserve Fund
+311-70-01
+02
+Pension Fund
+311-70-02
+03
+General Provident Fund
+311-70-03
+06
+Old age Pension
+311-70-06
+07
+Widow Pension
+311-70-07
+Page 46/120
+----- PAGE 47 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+08
+Disabled Pension
+311-70-08
+11
+Others
+311-70-11
+312
+Reserves
+10
+Capital Contribution
+312-10-00
+11
+Capital Reserve
+312-11-00
+20
+Borrowing Redemption reserve
+312-20-00
+30
+Special Funds (Utilised)
+312-30-00
+40
+Statutory Reserve
+312-40-00
+50
+General Reserve
+312-50-00
+01
+Other Reserves
+312-50-01
+60
+Revaluation Reserve
+01
+Fixed Assets
+312-60-01
+320
+Grants, Contribution for specific purposes
+10
+Central Government
+01
+Adarsh Basti Scheme
+320-10-01
+02
+Abatement of Pollution of Rivers
+320-10-02
+03
+Jnnurm
+320-10-03
+04
+RAY
+320-10-04
+05
+Page 47/120
+----- PAGE 48 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+XII Finance Commission
+320-10-05
+06
+XIII Finance Commission
+320-10-06
+07
+MP Local Area Development
+320-10-07
+11
+Others
+320-10-11
+20
+State Government
+01
+Water Supply
+320-20-01
+02
+State Finance Commission
+320-20-02
+03
+MP Local Area Development
+320-20-03
+04
+Assembly Constituency Development Programme
+320-20-04
+06
+Jnnurm
+320-20-06
+07
+RAY
+320-20-07
+08
+Improvement of Cities
+320-20-08
+09
+MEPMA
+320-20-09
+10
+Rain Water Harvesting (RWH)
+320-20-10
+11
+Make City Green
+320-20-11
+12
+MRTS Project
+320-20-12
+13
+TWINS/e-Seva Project
+320-20-13
+14
+National Slum Development Programme (NSDP)
+Page 48/120
+----- PAGE 49 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+320-20-14
+15
+SJSRY
+320-20-15
+16
+Balika Samrudhi Yojana (BSY)
+320-20-16
+17
+Local Water Supply & Sewerage in Slums
+320-20-17
+18
+Urban Community Development (UCD)
+320-20-18
+19
+IPP VIII Project
+320-20-19
+20
+Natural Calamities Grant
+320-20-20
+21
+Reimbursement from Govt. Departments including
+R&B
+320-20-21
+22
+Abatement of Pollution of Rivers
+320-20-22
+23
+Others
+320-20-23
+30
+Other Government Agencies
+01
+Other Central Government Agencies
+320-30-01
+Other State Government Agencies
+320-30-02
+40
+Financial Institutions
+320-40-00
+50
+Welfare Bodies
+320-50-00
+60
+International Organizations
+01
+Water & Sanitation Programme (World Bank)
+320-60-01
+02
+Urban Management/Cities Alliance Programme
+(UNCHS -World Bank)
+320-60-02
+Page 49/120
+----- PAGE 50 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+06
+Others
+320-60-06
+80
+Others
+01
+Public Contribution for Works
+320-80-01
+02
+Abatement of Pollution of River (Industry
+Contribution)
+320-80-02
+03
+Other Contribution
+320-80-03
+330
+Secured Loans
+10
+Loans from Central Government
+01
+Short Term Loan
+330-10-01
+02
+Long Term Loan
+330-10-02
+20
+Loans from State Government
+01
+Short Term Loan
+330-20-01
+02
+Long Term Loan
+330-20-02
+30
+Loans from Government Bodies & Association
+330-30-00
+40
+Loans from international Agencies
+330-40-00
+50
+Loans from Banks & Other Financial
+Institutions
+01
+From Banks
+330-50-01
+02
+From Other Financial Institutions
+330-50-02
+03
+Institutional Agencies
+330-50-03
+Page 50/120
+----- PAGE 51 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+60
+Other Term Loans
+01
+HUDCO Loans
+330-60-01
+02
+Others
+330-60-02
+70
+Bonds & Debentures
+01
+Bonds & Debentures
+330-70-01
+80
+Other Loans
+330-80-00
+331
+Unsecured Loans
+10
+Loans from Central Government
+01
+Short Term Loan
+331-10-01
+02
+Long Term Loan
+331-10-02
+20
+Loans from State Government
+01
+Short Term Loan
+331-20-01
+02
+Long Term Loan
+331-20-02
+30
+Loans from Government Bodies & Association
+331-30-00
+40
+Loans from International Agencies
+331-40-00
+50
+Loans from Banks & Other Financial
+Institutions
+01
+From Banks
+331-50-01
+02
+From Other Financial Institutions
+331-50-02
+03
+Institutional Agencies
+Page 51/120
+----- PAGE 52 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+331-50-03
+60
+Other Term Loans
+01
+HUDCO Loans
+331-60-01
+70
+Bonds & Debentures
+01
+Bonds & Debentures
+331-70-01
+80
+Other Loans
+331-80-00
+340
+Deposits Received
+10
+From Contractors / Suppliers
+01
+Ernest Money Deposit
+340-10-01
+02
+Retention Money Deposit
+340-10-02
+03
+Further Security Deposit
+340-10-03
+04
+Additional Security Deposit
+340-10-04
+20
+Deposits - Revenues
+01
+Rental Deposits
+340-20-01
+02
+Security Deposits
+340-20-02
+30
+From Staff
+340-30-00
+80
+From Others
+340-80-00
+341
+Deposit works
+10
+Civil works
+01
+State Government Departments
+341-10-01
+Page 52/120
+----- PAGE 53 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+02
+Public Sector Undertakings
+341-10-02
+03
+Private Organizations & Citizens
+341-10-03
+20
+Electrical works
+341-20-00
+80
+Others
+01
+State Government Departments
+341-80-01
+02
+Public Sector Undertakings
+341-80-02
+03
+Private Organizations & Citizens
+341-80-03
+350
+Other Liabilities
+10
+Creditors
+01
+Suppliers
+350-10-01
+02
+Contractors
+350-10-02
+03
+Expenses
+350-10-03
+11
+Employee liabilities
+01
+Salary Payable
+350-11-01
+02
+Pension Payable
+350-11-02
+03
+Leave Salary Payable
+350-11-03
+04
+Terminal Benefits Payable
+350-11-04
+06
+Unpaid Salaries
+350-11-06
+07
+Page 53/120
+----- PAGE 54 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Contributory Pension Payable
+350-11-07
+12
+Interest Accrued and due
+01
+Central Government Loans
+350-12-01
+02
+State Government Loans
+350-12-02
+03
+International Agencies
+350-12-03
+04
+Financial Institutions
+350-12-04
+05
+Bonds
+350-12-05
+06
+Others
+350-12-06
+20
+Recoveries payable
+01
+GPF
+350-20-01
+02
+GPF -Employees on Deputation
+350-20-02
+03
+GIS
+350-20-03
+04
+Profession Tax
+350-20-04
+05
+APGLI
+350-20-05
+06
+LIC
+350-20-06
+07
+Banks Loan
+350-20-07
+08
+TDS from Employees
+350-20-08
+09
+APEWF
+350-20-09
+Page 54/120
+----- PAGE 55 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+10
+Court Recoveries
+350-20-10
+11
+Rent on Quarters
+350-20-11
+12
+New Pension Scheme
+350-20-12
+13
+Flag Day
+350-20-13
+14
+CM Relief Fund
+350-20-14
+15
+Labour Cess
+350-20-15
+16
+Employee Provident Fund
+350-20-16
+17
+Employee State Insurance
+350-20-17
+18
+Cooperative Society 1
+350-20-18
+19
+Cooperative Society 2
+350-20-19
+20
+Cooperative Society 3
+350-20-20
+21
+Cooperative Society 4
+350-20-21
+22
+Other Cooperative Society
+350-20-22
+24
+Other Employee Deductions
+350-20-24
+25
+TDS from Contractors
+350-20-25
+51
+Turnover Tax
+350-20-51
+52
+VAT
+350-20-52
+Page 55/120
+----- PAGE 56 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+53
+CST/GST
+350-20-53
+54
+Service Tax
+350-20-54
+55
+NAC
+350-20-55
+56
+Seignorage Charges
+350-20-56
+57
+TDS Payable Interest
+350-20-57
+58
+Other Recoveries From Contractors
+350-20-58
+61
+Court Attachments
+350-20-61
+30
+Government Dues payable
+01
+Library Cess
+350-30-01
+02
+Education Cess
+350-30-02
+03
+Court Attachment
+350-30-03
+40
+Refunds payable
+01
+Taxes
+350-40-01
+02
+Family Benefit Fund Settlements
+350-40-02
+03
+Group Insurance Settlements
+350-40-03
+04
+Unutilized Grants
+350-40-04
+06
+Development Charges to UDA
+350-40-06
+07
+Others
+Page 56/120
+----- PAGE 57 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+350-40-07
+41
+Advance Collection of Revenues
+01
+Property Tax
+350-41-01
+02
+Advertisement Tax
+350-41-02
+03
+Trade License
+350-41-03
+04
+Rent
+350-41-04
+05
+Others
+350-41-05
+80
+Others
+01
+Stale Cheque
+350-80-01
+02
+Compensation Payable
+350-80-02
+03
+Lease Charges payable
+350-80-03
+04
+Advances under Hire Purchases
+350-80-04
+05
+Election deposit from candidates
+350-80-05
+90
+Sale Proceeds
+01
+Detrained Properties
+350-90-01
+02
+Assets
+350-90-02
+03
+Stores
+350-90-03
+360
+Provisions
+10
+Provisions for Expenses
+01
+Page 57/120
+----- PAGE 58 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Establishment Expenses
+360-10-01
+02
+Administrative Expenses
+360-10-02
+03
+Operations & Maintenance
+360-10-03
+20
+Provision for Interest
+01
+Interest Accrued and not due
+360-20-01
+30
+Provision for Other Assets
+01
+Inventory
+360-30-01
+02
+Investments
+360-30-02
+40
+Provisions for Doubtful receivables
+01
+Property Tax
+360-40-01
+02
+Advertisement Tax
+360-40-02
+03
+Trade License
+360-40-03
+04
+Rents
+360-40-04
+11
+Others
+360-40-11
+V
+Account Codes - Assets
+Major Head
+Code
+Description
+Minor Head
+Detailed Heads
+e-Code
+Code
+Description
+Code
+Description
+410
+Page 58/120
+----- PAGE 59 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Fixed Assets
+10
+Land
+01
+Open Space
+410-10-01
+02
+Grounds
+410-10-02
+03
+Parks
+410-10-03
+04
+Gardens
+410-10-04
+05
+Burial ground
+410-10-05
+06
+Others
+410-10-06
+20
+Buildings
+01
+Office Buildings
+410-20-01
+02
+Commercial Complex
+410-20-02
+03
+Hospitals, Dispensaries & Health Posts
+410-20-03
+04
+Community Halls & Reading Rooms
+410-20-04
+05
+Guest Houses
+410-20-05
+06
+Staff Quarters
+410-20-06
+07
+Public Latrines & Urinals
+410-20-07
+08
+School Buildings
+410-20-08
+09
+Stadium
+410-20-09
+11
+Page 59/120
+----- PAGE 60 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Other Buildings
+410-20-11
+30
+Roads & Bridges
+01
+Concrete Road
+410-30-01
+02
+Black Topped Roads
+410-30-02
+03
+Link Roads, Parallel Roads & Slip Roads
+410-30-03
+04
+Footpaths & Table Drains
+410-30-04
+05
+Bridges & Culverts
+410-30-05
+06
+Fly-overs & Over Bridges
+410-30-06
+07
+Subways & Causeways
+410-30-07
+08
+Foot-over Bridges
+410-30-08
+11
+Others
+410-30-11
+31
+Sewerage and Drainage
+01
+Underground Drains
+410-31-01
+02
+Major Drains
+410-31-02
+03
+Minor Drains
+410-31-03
+32
+Water works
+01
+Water works
+410-32-01
+02
+Open/bore Wells
+410-32-02
+03
+Page 60/120
+----- PAGE 61 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Reservoirs
+410-32-03
+04
+Pump house
+410-32-04
+05
+Water Mains
+410-32-05
+06
+Distribution lines
+410-32-06
+07
+Water bodies - Major
+410-32-07
+08
+Water bodies - Minor
+410-32-08
+09
+Elevated Service Reservoir
+410-32-09
+10
+Ground Level Service Reservoir
+410-32-10
+11
+Summer Storage Tank
+410-32-11
+33
+Public Lighting
+01
+Lighting On Main Roads
+410-33-01
+02
+Lighting On Lanes & By-lanes
+410-33-02
+40
+Plant & Machinery
+01
+Roads
+410-40-01
+02
+Water Supply
+410-40-02
+03
+Transport
+410-40-03
+04
+Electrical
+410-40-04
+05
+Others
+410-40-05
+Page 61/120
+----- PAGE 62 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+50
+Vehicles
+01
+Ambulance
+410-50-01
+02
+Buses
+410-50-02
+03
+Cars & Jeeps
+410-50-03
+04
+Cranes/JCB/ Proclainer
+410-50-04
+05
+Trucks
+410-50-05
+06
+Tankers
+410-50-06
+07
+Sweeping Machines
+410-50-07
+08
+Autos
+410-50-08
+09
+Tractors
+410-50-09
+10
+Two Wheelers
+410-50-10
+11
+Other Vehicles
+410-50-11
+60
+Office & Other Equipments
+01
+Air Conditioners
+410-60-01
+02
+Computers
+410-60-02
+03
+Faxes
+410-60-03
+04
+Photocopiers
+410-60-04
+05
+Refrigerators
+Page 62/120
+----- PAGE 63 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+410-60-05
+06
+Network Equipment
+410-60-06
+07
+Network Cabling
+410-60-07
+08
+TV
+410-60-08
+11
+Other Equipment
+410-60-11
+70
+Furniture, Fixtures, Fittings and Electrical
+Appliances
+01
+Cabinets & Partitions
+410-70-01
+02
+Cupboards
+410-70-02
+03
+Fans
+410-70-03
+04
+Electrical Fittings
+410-70-04
+05
+Tables & Chairs
+410-70-05
+11
+Others
+410-70-11
+80
+Other Fixed Assets
+410-80-00
+90
+Assets under Disposal
+01
+Valuable Assets
+410-90-01
+02
+Scraped Assets
+410-90-02
+411
+Accumulated Depreciation
+20
+Buildings
+01
+Office Buildings
+Page 63/120
+----- PAGE 64 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+411-20-01
+02
+Commercial Complex
+411-20-02
+03
+Hospitals, Dispensaries & Health Posts
+411-20-03
+04
+Community Halls & Reading Rooms
+411-20-04
+05
+Guest Houses
+411-20-05
+06
+Staff Quarters
+411-20-06
+07
+Public Latrines & Urinals
+411-20-07
+08
+School Buildings
+411-20-08
+09
+Stadium
+411-20-09
+11
+Other Buildings
+411-20-11
+30
+Roads & Bridges
+01
+Concrete Road
+411-30-01
+02
+Black Topped Roads
+411-30-02
+03
+Link Roads, Parallel Roads & Slip Roads
+411-30-03
+04
+Footpaths & Table Drains
+411-30-04
+05
+Bridges & Culverts
+411-30-05
+06
+Fly-overs & Over Bridges
+411-30-06
+07
+Subways & Causeways
+411-30-07
+Page 64/120
+----- PAGE 65 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+08
+Foot Over Bridges
+411-30-08
+11
+Other Roads
+411-30-11
+31
+Sewerage and Drainage
+01
+Underground Drains
+411-31-01
+02
+Major Drains
+411-31-02
+03
+Minor Drains
+411-31-03
+32
+Water Works
+01
+Waterworks
+411-32-01
+02
+Open/Bore Wells
+411-32-02
+03
+Reservoirs
+411-32-03
+04
+Pump House
+411-32-04
+05
+Water Mains
+411-32-05
+06
+Distributions Lines
+411-32-06
+07
+Water Bodies - Major
+411-32-07
+08
+Water Bodies - Minor
+411-32-08
+09
+Elevated Service Reservoir
+411-32-09
+10
+Ground Level Service Reservoir
+411-32-10
+11
+Summer Storage Tank
+Page 65/120
+----- PAGE 66 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+411-32-11
+33
+Public Lighting
+01
+Lighting on Main Roads
+411-33-01
+02
+Lighting on Lanes & By-lines
+411-33-02
+40
+Plant & Machinery
+01
+Roads
+411-40-01
+02
+Water Supply
+411-40-02
+03
+Transport
+411-40-03
+04
+Electrical
+411-40-04
+05
+Others
+411-40-05
+50
+Vehicles
+01
+Ambulance
+411-50-01
+02
+Buses
+411-50-02
+03
+Cars & Jeeps
+411-50-03
+04
+Cranes/JCB/Proclainer
+411-50-04
+05
+Trucks
+411-50-05
+06
+Tankers
+411-50-06
+07
+Sweeping Machines
+411-50-07
+08
+Autos
+Page 66/120
+----- PAGE 67 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+411-50-08
+09
+Tractors
+411-50-09
+10
+Two Wheelers
+411-50-10
+11
+Other Vehicles
+411-50-11
+60
+Office & Other Equipments
+01
+Air Conditioners
+411-60-01
+02
+Computers
+411-60-02
+03
+Faxes
+411-60-03
+04
+Photocopiers
+411-60-04
+05
+Refrigerators
+411-60-05
+06
+Network Equipment
+411-60-06
+07
+Networking Cabling
+411-60-07
+08
+TV
+411-60-08
+11
+Other Equipment
+411-60-11
+70
+Furniture, Fixtures, Fittings and Electrical
+Appliances
+01
+Cabinets & Partitions
+411-70-01
+02
+Cupboards
+411-70-02
+03
+Fans
+411-70-03
+Page 67/120
+----- PAGE 68 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+04
+Electrical Fittings
+411-70-04
+05
+Tables & Chairs
+411-70-05
+11
+Others
+411-70-11
+80
+Other Fixed Assets
+411-80-00
+412
+Capital Work-ln-Progress
+20
+Capital work in Progress - Buildings
+01
+Office Buildings
+412-20-01
+02
+Commercial Complex
+412-20-02
+03
+Hospitals, Dispensaries & Health Posts
+412-20-03
+04
+Community Halls & Reading Rooms
+412-20-04
+05
+Guest Houses
+412-20-05
+06
+Staff Quarters
+412-20-06
+07
+Public Latrines & Urinals
+412-20-07
+08
+School Buildings
+412-20-08
+09
+Stadium
+412-20-09
+11
+Other Buildings
+412-20-11
+30
+Roads & Bridges
+01
+Concrete Road
+412-30-01
+Page 68/120
+----- PAGE 69 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+02
+Black Topped Roads
+412-30-02
+03
+Link Roads, Parallel Roads & Slip Roads
+412-30-03
+04
+Footpaths & Table Drains
+412-30-04
+05
+Bridges & Culverts
+412-30-05
+06
+Fly-Overs & Over Bridges
+412-30-06
+07
+Subways & Causeways
+412-30-07
+08
+Foot-Over Brides
+412-30-08
+11
+Others
+412-30-11
+31
+Sewerage and Drainage
+01
+Underground Drains
+412-31-01
+02
+Major Drains
+412-31-02
+03
+Minor Drains
+412-31-03
+32
+Water Works
+01
+Water Works
+412-32-01
+02
+Open/bore Wells
+412-32-02
+03
+Reservoirs
+412-32-03
+04
+Pump House
+412-32-04
+05
+Water Mains
+Page 69/120
+----- PAGE 70 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+412-32-05
+06
+Distribution lines
+412-32-06
+07
+Water bodies - Major
+412-32-07
+08
+Water bodies - Minor
+412-32-08
+09
+Elevated Service Reservoir
+412-32-09
+10
+Ground Level Service Reservoir
+412-32-10
+11
+Summer Storage Tank
+412-32-11
+33
+Public Lighting
+01
+Lighting On Main Roads
+412-33-01
+02
+Lighting On Lanes & By-lanes
+412-33-02
+40
+Plant & Machinery
+01
+Roads
+412-40-01
+02
+Water Supply
+412-40-02
+03
+Transport
+412-40-03
+04
+Electrical
+412-40-04
+05
+Others
+412-40-05
+50
+Vehicles
+01
+Ambulance
+412-50-01
+02
+Buses
+Page 70/120
+----- PAGE 71 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+412-50-02
+03
+Cars & Jeeps
+412-50-03
+04
+Cranes/JCB/Proclainer
+412-50-04
+05
+Trucks
+412-50-05
+06
+Tankers
+412-50-06
+07
+Sweeping machines
+412-50-07
+08
+Autos
+412-50-08
+09
+Tractors
+412-50-09
+10
+Two wheelers
+412-50-10
+11
+Other Vehicles
+412-50-11
+70
+Furniture, Fixtures, Fittings and Electrical
+Appliances
+01
+Cabinets & Partitions
+412-70-01
+02
+Cupboards
+412-70-02
+03
+Fans
+412-70-03
+04
+Electrical Fitting
+412-70-04
+05
+Tables & Chairs
+412-70-05
+11
+Others
+412-70-11
+80
+Other Fixed Assets
+Page 71/120
+----- PAGE 72 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+412-80-00
+420
+Investments - General Fund
+10
+Central Government Securities
+420-10-00
+20
+State Government Securities
+420-20-00
+30
+Debentures and Bonds
+420-30-00
+40
+Preference Shares
+420-40-00
+50
+Equity Shares
+420-50-00
+60
+Units of Mutual Funds
+420-60-00
+80
+Other Investments
+01
+Fixed Deposits
+420-80-01
+90
+Accumulated Provision
+420-90-00
+421
+Investments - Other Funds
+10
+Central Government Securities
+421-10-00
+20
+State Government Securities
+421-20-00
+30
+Debentures and Bonds
+421-30-00
+40
+Preference Shares
+421-40-00
+50
+Equity Shares
+421-50-00
+60
+Units of Mutual Funds
+421-60-00
+80
+Other Investments
+Page 72/120
+----- PAGE 73 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+01
+Fixed Deposits with Banks
+421-80-01
+90
+Accumulated Provision
+421-90-00
+430
+Stock - in- hand
+10
+Stores
+01
+Engineering Stores
+430-10-01
+02
+Transport Stores
+430-10-02
+03
+Medical Stores
+430-10-03
+04
+Central Stationary Stores
+430-10-04
+20
+Loose Tools
+430-20-00
+80
+Others
+430-80-00
+431
+Sundry Debtors (Receivables)
+10
+Receivables for Property Taxes
+01
+Private Properties
+431-10-01
+02
+Government Properties
+431-10-02
+03
+Vacant Lands
+431-10-03
+19
+Receivable for Other Taxes
+01
+Private Properties
+431-19-01
+02
+Government Properties
+431-19-02
+03
+Other Taxes
+Page 73/120
+----- PAGE 74 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+431-19-03
+20
+Receivables for Cess
+431-20-00
+30
+Receivable for Fees & User Charges
+01
+Water Supply
+431-30-01
+02
+Trade License
+431-30-02
+03
+Others
+431-30-03
+40
+Receivable from other sources
+01
+Rent
+431-40-01
+02
+Interest Accrued & Due
+431-40-02
+03
+Interest Accrued but not due
+431-40-03
+04
+Interest Receivable on Employee Loans
+431-40-04
+05
+Others
+431-40-05
+50
+Receivable from Government
+01
+State Government
+431-50-01
+02
+Central Government
+431-50-02
+03
+Government Departments
+431-50-03
+04
+Public Sector Undertakings
+431-50-04
+80
+Receivables control accounts
+01
+Property Taxes
+431-80-01
+Page 74/120
+----- PAGE 75 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+State Govt Cess/levies in Taxes - Control
+accounts
+91
+State Govt Cess/ levies in Property Taxes -
+Control account
+431-91-00
+92
+State Govt Cess/ levies in Water Taxes - Control
+account
+431-92-00
+99
+State Govt Cess/ levies in Other Taxes - Control
+account
+431-99-00
+432
+Accumulated Provisions against Debtors
+(Receivables)
+10
+Provision for outstanding Property Taxes
+432-10-00
+11
+Provision for outstanding Water Taxes
+432-11-00
+12
+Provision for outstanding Other Taxes
+432-12-00
+20
+Provision for outstanding Cess
+432-20-00
+30
+Provision for outstanding Fees & User
+Charges
+432-30-00
+40
+Provision for outstanding other receivable
+432-40-00
+91
+State Govt Cess/ levies in Property Taxes -
+Provision account
+432-91-00
+92
+State Govt Cess/ levies in Water Taxes -
+Provision account
+432-92-00
+99
+State Govt Cess/ levies in Other Taxes -
+Provision account
+432-99-00
+440
+Pre-paid Expenses
+10
+Page 75/120
+----- PAGE 76 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Establishment
+440-10-00
+20
+Administration
+01
+Rent, Rates Taxes
+440-20-01
+02
+Insurance
+440-20-02
+11
+Others (Prepaid Expenses)
+440-20-11
+30
+Operations & Maintenance
+01
+Annual Maintenance Contracts
+440-30-01
+450
+Cash and Bank balance
+10
+Cash
+01
+Cash On Hand
+450-10-01
+02
+Cash In Transit
+450-10-02
+51
+Cheques-in-hand
+450-10-51
+91
+Inter Bank Account Fund Transfer
+450-10-91
+Balance with Bank - Municipal Fund
+21
+Nationalised Banks
+01
+State Bank of India
+450-21-01
+02
+State Bank of Hyderabad
+450-21-02
+03
+Andhra Bank
+450-21-03
+04
+Canara Bank
+450-21-04
+22
+Other Scheduled Banks
+Page 76/120
+----- PAGE 77 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+01
+ICICI Bank
+450-22-01
+02
+IDBI Bank
+450-22-02
+03
+HDFC Bank
+450-22-03
+23
+Scheduled Cooperative Banks
+450-23-00
+24
+Post Office
+450-24-00
+Balance with Bank - Special Funds
+41
+Nationalised Banks
+01
+State Bank Of India
+450-41-01
+02
+State Bank Of Hyderabad
+450-41-02
+03
+Andhra Bank
+450-41-03
+04
+Canara Bank
+450-41-04
+42
+Other Scheduled Banks
+01
+ICICI Bank
+450-42-01
+02
+IDBI Bank
+450-42-02
+03
+HDFC Bank
+450-42-03
+43
+Scheduled Cooperative Banks
+450-43-00
+44
+Post Office
+450-44-00
+Balance with Bank - Grant Funds
+61
+Nationalized Banks
+01
+Page 77/120
+----- PAGE 78 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+State Bank Of India
+450-61-01
+02
+State Bank Of Hyderabad
+450-61-02
+62
+Other Scheduled Banks
+450-62-00
+63
+Scheduled Cooperative Banks
+450-63-00
+64
+Post Office
+450-64-00
+460
+Loans, Advances and Deposits
+10
+Loans and advances to employees
+01
+House Building Advance
+460-10-01
+02
+Vehicle Advance
+460-10-02
+03
+Computer Advance
+460-10-03
+04
+Festival Advance
+460-10-04
+05
+Education Advance
+460-10-05
+06
+Other Advance
+460-10-06
+07
+Pay advance
+460-10-07
+08
+LTC Advance
+460-10-08
+09
+Marriage Advance
+460-10-09
+10
+Medical Advance
+460-10-10
+11
+Spl Festival Advance
+460-10-11
+Page 78/120
+----- PAGE 79 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+20
+Employee Provident Fund Loans
+460-20-00
+30
+Loans to Others
+460-30-00
+40
+Advance to Suppliers and contractors
+01
+Suppliers
+460-40-01
+02
+Contractors
+460-40-02
+03
+Expenses
+460-40-03
+04
+Materials Issued to Contractors
+460-40-04
+50
+Advance to others
+01
+Employees for works
+460-50-01
+02
+Travel Advance
+460-50-02
+03
+Imprest
+460-50-03
+04
+Executing agency for projects
+460-50-04
+60
+Deposits with external Agencies
+01
+Telephone
+460-60-01
+02
+Electricity
+460-60-02
+03
+Petrol Pumps
+460-60-03
+11
+Other Deposit with External Agencies
+460-60-11
+80
+Other Current Assets
+01
+Page 79/120
+----- PAGE 80 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+HP Instalments receivable
+460-80-01
+11
+Others
+460-80-11
+461
+Accumulated Provisions against Loans,
+Advances and Deposits
+10
+Loans to Others
+461-10-00
+20
+Advances
+461-20-00
+30
+Deposits
+461-30-00
+470
+Other Assets
+10
+Deposit Works -Expenditure
+01
+Civil Works
+470-10-01
+02
+Electric Works
+470-10-02
+03
+Other Works
+470-10-03
+20
+Inter Unit Accounts
+470-20-00
+51
+Inter Fund Transfer
+470-20-51
+30
+Interest Control Payable
+470-30-00
+480
+Miscellaneous Expenditure to be written off
+10
+Loan Issue Expenses
+01
+Deferred Revenue Expenses
+480-10-01
+20
+Discount on Issue of loans
+480-20-00
+30
+Others
+Page 80/120
+----- PAGE 81 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+480-30-00
+Form 1
+Name of the ULB:_____________________
+Cash Book
+Receipt
+Sr. No.
+Date
+Rcpt. Vchr. No.
+Code of Account
+Particulars of Receipt
+L/F
+Cash Amount (Rs.)
+Bank Amount (Rs.)
+1
+2
+3
+4
+5
+6
+7
+8
+Payment
+Sr. No.
+Date
+Rcpt. Vchr. No.
+Code of Account
+Particulars of Payment
+L/F
+Cash Amount (Rs.)
+Bank Amount (Rs.)
+9
+10
+11
+12
+13
+14
+15
+16
+Notes. - ? Balance brought forward is the opening balance to be entered
+? The date of receipt to be shown in Cash book shall be the date on which amount has actually been received
+? All moneys received shall immediately and without reservations be entered in the Cash book
+? The receipts shall be classified in the column provided according to budget heads
+? The payment side of Cash book shall be posted from the details of vouchers and of the cheque drawn
+? The amount side of each cheque shall be entered as soon as the cheque is signed
+? Each entry in the cash book should be attested by the authorised officer
+? The classification and totals of cash book should be initiated by some responsible officer other than the writer of Cash
+book
+? Cash book should be closed daily
+Form 2
+Name of the ULB:_____________________
+Journal Book
+Page 81/120
+----- PAGE 82 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Sr. No.
+Date
+Jrnl. Vchr. No.
+Code of Account
+Particulars
+L/F
+Debit Amount (Rs.)
+Credit Amount (Rs.)
+1
+2
+3
+4
+5
+6
+7
+8
+Form 3
+Name of the ULB:_____________________
+Ledger
+__________________Account
+Dr.
+Cr.
+Date
+Voucher No.
+Code of Account
+Particulars
+L/F
+Amount (Rs.)
+Date
+Voucher No.
+Code of Account
+Particulars
+L/F
+Amount (Rs.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Form 4
+Name of the ULB:______________
+Receipt Voucher
+Name of the Bank:_________Pay-in-slip Ref. No./Date: ________
+Name of The Fund:____________
+Page 82/120
+----- PAGE 83 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+CRV/BRV No:____________Date:____________
+Budget
+Code of Account
+Account Description
+Challan for Remittance of Money No.
+Amount (Rs.)
+'Function
+Functionary
+1
+2
+3
+4
+5
+6
+Total
+Prepared by:
+Verified by:
+Approved by:
+Posted by:
+Date:
+Date:
+Date:
+Date:
+Notes. - 1. A separate Bank Receipt Voucher shall be prepared in respect of each separate Bank Book maintained.
+2. All the challans for remittance of money, the details of which are included in this Bank Receipt Voucher, shall be
+attached to it.
+Form 5
+Name of the ULB:______________
+Payment Voucher
+Name of the Bank:__________Date:__________Section:__________No:__________Name of
+Claimant:________________
+Name of the Fund:____________CPV/BPVP.O./W.O. No.:
+Budget
+Code of Account
+Account Description
+Payment Order No.
+Cheque No. / Bank Advice No.
+Amount (Rs.)
+Function
+Functionary
+1
+2
+3
+4
+5
+6
+7
+Total (in words):
+Prepared by:
+Verified by:
+Approved by:
+Page 83/120
+----- PAGE 84 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Posted by:
+Date:
+Date:
+Date:
+Date:
+Received Payment
+Signature of Receiver
+Notes. - 1. A separate Bank Payment Voucher shall be prepared in respect of each separate Bank Book maintained.
+2. Payment Order for which payment is made shall be attached to the Bank Payment Voucher.
+3. The payment vouchers and its supportings shall be cancelled with 'paid' stamp.
+Form 6
+Name of the ULB:___________
+Contra Voucher
+Date:__________
+Contra Voucher No:_________
+Code of Account
+Account Description
+Debit Amount (Rs.)
+Credit Amount (Rs.)
+1
+2
+3
+4
+Total
+Prepared By
+Verified By
+Approved By
+Posted By
+Date
+Date
+Date
+Date
+Note. - The supporting documents forming the basis of the entry shall be attached to the Contra Voucher.
+Form 7
+Name of the ULB:_________________
+Journal Voucher
+Date:___________
+Name of the Fund:__________Journal Voucher No:____________
+Budget
+Code of Account
+Account Description
+Debit Amount (Rs.)
+Credit Amount (Rs.)
+Function
+Functionary
+1
+2
+3
+4
+5
+6
+Page 84/120
+----- PAGE 85 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Total
+Prepared By
+Verified By
+Approved By
+Posted By
+Date
+Date
+Date
+Date
+Note. - 1. The supporting documents forming the basis of the entry shall be attached to the Journal Voucher.
+2. The narration for the entry should be clearly (understandably) stated.
+Form No. 22
+Name of the ULB:___________
+Summary Statement of Bills Raised for the Period____________ in respect of
+____________________
+Date:
+Sr. No.__________
+Ward No.
+Particulars (Revenue Head-wise)
+Arrears (Rs.)
+Current Demand (Rs.)
+Total (Rs.)
+Year (Others)
+Year (-3)
+Year (-2)
+Year (-1)
+Current Year's Arrear
+1
+2
+3
+4
+5
+6
+7
+8
+Property & Other Taxes
+Tax revenues (specify)
+Distrant Fee
+Warrant Fee
+Other Fees
+Penalty
+Other, Specify ____________
+Total bill raised for income of ULB
+Revenue collected in Advance Adjusted
+Total
+|
+Amount in Words: Rupees ____________________________________
+{|
+Prepared
+By:*__________________________Examined and entered
+Checked
+Page 85/120
+----- PAGE 86 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+By:*___________________________Authorised Officer
+Dated
+Dated
+|}
+* Record the name, designation and signature of the person.
+Note. - This statement should be prepared separately for each ward and then consolidated.
+Form 8
+Name of the ULB:____________________
+Receipt
+Date:
+Received from Shri_____________ a sum of
+Rs._____________ (in words) towards___________________________
+vide cash/cheque/demand draft/Banker's cheque no_____________
+dated_______________ drawn on___________ Bank,____________ (Place
+of the Bank.)
+------------------------------
+Signature of Authorised Officer
+------------------
+Signature of Clerk
+------------------------------
+----------
+Entered in Collection Register
+Page No.
+N.B. Cheque/Draft/Banker's cheque are
+subject to realization
+Note. - Separate receipt books can be maintained for Cash / Cheques.
+Form 9
+Name of the ULB:_______________
+Receipt Register
+Sr. No.
+Receipt Number
+Receipt Date
+Mode of receipt Cash/ Cheque/draft
+Name of the Drawer
+Cheque/ Draft No.
+Bank (for amounts received thru Cheque/ draft)
+1
+2
+3
+4
+5
+6
+7
+Opening total
+Days total **
+Closing total
+Cash (for amounts received by Cash)
+Deposited into Bank Account No.
+Date of Deposit
+Date of Realisation
+Whether Returned
+Page 86/120
+----- PAGE 87 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Remarks*
+7
+8
+9
+10
+11
+12
+* Specify the details of the substitute cheque received in case of dishonour of the cheque.
+** This total shall be tallied with total as per the Collection Register for the day and also the amount as per the 'Summary
+of daily collections'
+Note. - 1. For each entry made; record the Name, Designation, and Signature of the person making the entry in the
+register and the person checking the entry.
+2. This can be prepared in perforated sheets, as the same shall be used for making support to the deposit slip into the
+designated bank account or to other collection offices.
+3. Separate sheets shall be used in respect of Cash and Cheques/drafts received
+Form 10
+Name of the ULB:_______________
+Statement on Status of Cheques Received
+From____________________by______________________
+Date:__________
+Sr. No.:__________
+Sr. No.
+Sr. No. of the Statement of Cheques Deposited
+received
+Date of the Statement of Cheques Deposited
+received
+Cheque/ Draft No.
+Amount (Rs.)
+Deposited into Bank Account No.
+Realised/ Returned
+Date of Realisation/ Return intimation from
+the bank
+1
+2
+3
+4
+5
+6
+7
+8
+Prepared By*
+:____________________________ Received By*
+:________________________________
+Checked By* :
+_____________________________________ Dated:
+Dated:
+* Record the name, designation and signature of the person.
+Form 11
+Name of the ULB:____________________
+Collection Register of__________________________________ for the Year 20__to 20__
+Section:_________
+Page 87/120
+----- PAGE 88 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Sr. No.
+Date of Receipt
+Receipt No. with book no.
+Name of the payer
+Reference number **
+Particulars of Income
+Total (Rs.)
+Remarks
+Account Head* (Rs.)
+Account Head * (Rs.)
+Account Head * (Rs.)
+Account Head * (Rs.)
+Others (Specify)* (Rs.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Opening total
+Days total #
+Closing total
+{|
+Prepared
+By***:_______________________________
+Checked By***
+:_________________________________
+Entered By :***_____________________________
+Date:
+Checked By :***_____________________________
+|}
+* Specify the head of Income under which collection is made
+** Specify the identification details in respect of the cheque, e.g., Bill No. in case of Property & Other Tax Collections,
+Tender No./Work Order No. in case of Earnest Money Deposit or Security Deposit, etc.
+*** Record the name, designation and signature of the person.
+# This total shall be tallied with total as per the Receipt Register (GEN- 9) for the day and also the amount as per the
+'Summary of daily collections ' (GEN- 12)
+Note. - Each day's collection should be recorded on a separate page of the Register and every page should be signed
+as provided.
+Form 12
+Name of the ULB:_____________
+Summary of Daily Collection of_______________________Collection Office/Collection Centre
+Date:__________
+Sr. No.:__________
+Sr. No.
+Name of the Section
+Page 88/120
+----- PAGE 89 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Name of the Revenue Head
+Amount (Rs.)
+Amount (Rs.)
+Deposited With*
+1
+2
+3
+4
+5
+6
+Revenue accounted for on Cash basis #
+1
+Tax Section
+Property Transfer Charges
+2
+Water Supply
+Water Connection Charges
+Water Tanker Charges
+Road Damage Charges
+3
+Town Planning Section
+Building Permit Fee
+Revenue accounted
+for on Accrual basis
+4
+Tax Section
+Property Tax
+5
+Water Supply
+Water Charges
+Grand Total
+Amount in Words: Rupees___________________
+Receipt No. issued by the Collection Office:
+(in case collections are deposited with
+Collection Office)
+Cash
+_____________
+Rs:__________
+Cheque
+_____________
+Rs:__________
+(For cheques realised)
+Total
+Rs.__________
+{|
+Prepared By** :_______________
+Examined and entered
+Checked By** :_______________
+Accountant/Authorised Officer
+Dated:
+Dated:
+Page 89/120
+----- PAGE 90 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+|}
+* Specify the Bank Name and Account Number in case of amount directly deposited with bank.
+** Record the name, designation and signature of the person.
+# For revenues accounted for on Cash basis, one consolidated figure for the total collections may be given instead of
+giving a receipt-wise entry.
+# Example of cash basis of accounting. - Transfer charges relating to Transfer of Properties has to be recognised only
+on actual receipt basis
+Form 33
+Name of the ULB:______________
+Function-Wise Income Subsidiary Ledger
+Function:
+SI. No
+Function code
+Functions Head
+Total Income (Rs.)
+Major Heads of Income
+Tax Revenue Code:
+Assigned Revenue
+Rental Income from
+Properties
+Fees & User
+Charges
+Sale & Hire
+Charges
+Revenue Grants
+.....
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Cumulative total at the beginning of the
+month (Rs.)
+Cumulative total at the end of the month
+(Rs.)
+* For each Major Revenue, columns for functions relevant to revenue will only be opened.
+Form 13
+Name of the ULB:__________________
+Register of Bills for Payment for the Year_______________
+Function:______________
+Sr. No.
+Date of presentation by the Supplier/
+Contractor
+Name of Party/ Contractor
+Particulars
+Page 90/120
+----- PAGE 91 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Amount of Bill (Rs.)
+Initials of Authorised Officer
+Date of Sanction
+1
+2
+3
+4
+5
+6
+7
+Voucher No.
+Amount Sanctioned (Rs.)
+Date of Payment or issue of cheque
+Amount Disallowed (Rs.)
+Balance outstanding at the end of the year
+(Rs.)
+Reason for delay in payment
+Remarks
+8
+9
+10
+11
+12
+13
+14
+Note. - For each entry made; record the Name, Designation, and Signature of the person making the statement and the
+person checking the entry.
+Form 14
+Name of the ULB:___________________
+Payment Order
+Vide Payment Order
+No:_____________Date:____________ Cheque No:___________
+Name and address of
+Payee:
+Stock / Bills for
+Payment:
+Reference to Book /
+Register
+Head of Account:
+Bank Account No:
+Amount Claimed By
+The Party Rs.___________Vide Bill No:_________Date:_________
+Recommended by the
+Section Rs.___________ Vide Bill No:_________Date:_________
+Admitted by the
+Pre-Audit Rs.____________ Vide JV No:__________Date:____________
+Amount Paid
+Rs._________(Rupees______________________________________________)
+I have examined the claim and found it correct
+in all respects.
+| Date..........
+Page 91/120
+----- PAGE 92 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Date...........
+{|
+Accounts Officer
+Commissioner or the Authorised Officer
+|-
+| |
+|
+|
+|
+|
+|
+|-
+|
+| Pay
+Rupees..............................................................................................(in
+words)
+| To
+|
+|
+|
+|-
+|
+| .......................................................................................................
+| The Accountant for payment.
+|
+|-
+| |
+|
+| ......................................................................
+|-
+|
+|
+Date
+Authorised Officer
+|
+Date
+Commissioner Or the Authorised Officer
+|-
+|
+| Received payment of
+Rs.............................................(in
+words)....................................................... in
+full settlement of the claim.
+| Paid by cheque/draft
+No........................................date..............................
+|-
+|
+| and entered in the cash book on
+Page.......................................................
+|-
+|
+Page 92/120
+----- PAGE 93 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+|
+|
+|
+|
+|
+|-
+|
+| Stamp
+|
+Account Officer
+Commissioner or the Authorised Officer
+|-
+|
+| Payees Signature
+| |
+|
+|
+|
+|}
+Form 17
+Name of the ULB:_________________
+Register of Permanent Advance
+of__________________for the year_____________
+Initial disbursement/Recoupment of the
+Permanent
+Sr. No.
+Date
+Payment Order No.
+Sr. No. of Expenditures for which Payment Order
+is submitted
+Amount (Rs.)
+1
+2
+3
+4
+5
+Expenditure
+Daily Balance (Rs.)
+Initials of the
+officer holding the advance
+Remarks
+Nature of Expenditure
+Date of Bill
+To whom paid
+Amount Paid (Rs.)
+6
+7
+8
+9
+10
+11
+Page 93/120
+----- PAGE 94 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+12
+(5-9)
+Note. - For each entry made; record the Name, Designation and Signature of the person making the statement and the
+person checking the entry.
+Form 15
+Name of the ULB:__________
+Cheque Issue Register
+Sr. No.
+Date
+Bank Payment Voucher
+No. & Date
+Payment Order Number
+& Date
+Name of the Payee
+Nature of Payment
+Cheque/ Draft No.
+Date of Cheque/ Draft
+Amount (Rs.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Entered By
+Signature of the First Authorised Signatory
+Signature of the Second Authorised Signatory
+Date of Issue of Cheque/ Draft
+Signature of the Recipient of Cheque/ Draft
+Date of Clearance
+Remarks *
+10
+11
+12
+13
+14
+15
+16
+* Specify the details of the stale cheques and the subsequent revalidation of the cheque or issue of the fresh cheques.
+Note. - For each entry made; record the Name, Designation and Signature of the person making the entry in the register
+and the person checking the entry.
+Form 41
+Name of the ULB:____________
+Bank Advice
+Bank Advice No:
+Date:
+To
+Manager,
+Page 94/120
+----- PAGE 95 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+_________ Bank
+_________
+Sir,
+Transfer Of Funds From Bank Account No.
+Please Transfer The Following Funds From The
+Account Of The Municipality Through Bank Transfer
+S No.
+Name of the Person to whom transfer to be made
+Name of the Bank (of transferee)
+Bank Account Details (Account Number, IFSC Code)
+Amount (Rs.)
+(Rupees............................................only)
+Yours faithfully,
+Commissioner
+Form 42
+Name of the ULB:___________
+Register of Bank Advices
+Sr. No.
+Date
+Bank Payment Voucher No. & Date
+Payment Order Number & Date
+Name of the Payee
+Nature of Payment
+Bank Advice No.
+Bank Advice Date
+Amount (Rs.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Entered By
+Signature of the First Authorised Signatory
+Signature of the Second Authorised Signatory
+Date of Issue to Bank
+Date of Clearance
+Remarks*
+10
+11
+12
+13
+14
+15
+Note. - For each entry made; record the Name, Designation and Signature of the person making the entry in the register
+and the person checking the entry.
+Form 34
+Name of the ULB:__________
+Page 95/120
+----- PAGE 96 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Function-Wise Expenditure Subsidiary Ledger
+Function:
+SI. No.
+Function code
+Functions Head
+Total Expenditure (Rs.)
+Major Heads of Expenditure
+Establishment
+Administrative
+Operations & Maintenance
+Interest & Finance
+Programme
+Revenue Grants
+......
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Total for the month (Rs.)
+Cumulative total at the beginning of the
+month (Rs.)
+Cumulative total at the end of the month
+(Rs.)
+* For each major expenditure, columns for functions relevant to the expenditure will only be opened.
+Form 20
+Name of the ULB:____________
+Demand Register of_________ * Income For the Year 20__ to 20__
+__________ Section
+__________ Ward or Circle
+Sr. No.
+Date
+Bill No.
+Name of the person from whom income is due
+Particulars
+1
+2
+3
+4
+5
+Arrears
+Year (Others)
+Year (-3)
+Year (-2)
+Year (-1)
+Page 96/120
+----- PAGE 97 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Current Year
+Bill **
+Collections
+Remission/Write-off
+Others (Specify) (Rs.)
+Total (Rs.)
+No. and date of order
+Revenue* (Rs.)
+Revenue* (Rs.)
+21
+22
+23
+24
+25
+Demand
+Revenue* (Rs.)
+Revenue* (Rs.)
+Distrant Fee (Rs.)
+Warrant Fee (Rs.)
+Other Fees (Rs.)
+Penalty (Rs.)
+Others (Specify) (Rs.)
+Total (Rs.)
+6
+7
+8
+9
+10
+11
+12
+13
+Remission/Write-off
+Balance
+Distrant Fee (Rs.)
+Warrant Fee (Rs.)
+Other Fees (Rs.)
+Penalty (Rs.)
+Others (Specify) (Rs.)
+Total (Rs.)
+Revenue* (Rs.)
+Revenue * (Rs.)
+26
+27
+28
+29
+30
+31
+32
+33
+Collections
+Receipt Number & Date of collection Revenue*
+Page 97/120
+----- PAGE 98 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+(Rs.)
+Revenue* (Rs.)
+Revenue* (Rs.)
+Distrant Fee (Rs.)
+Warrant Fee (Rs.)
+Other Fees (Rs.)
+Penalty (Rs.)
+14
+15
+16
+17
+18
+19
+20
+Balance
+Remarks
+Distrant Fee (Rs.)
+Warrant Fee (Rs.)
+Other Fees (Rs.)
+Penalty (Rs.)
+Others (Specify) (Rs.)
+Total (Rs.)
+34
+35
+36
+37
+38
+39
+40
+* Separate columns shall be maintained in respect of each revenue for which demand is raised in the same bill.
+** Entries shall be separately made for each bill raised. Entry shall be made only for the current demand raised.
+Notes. - 1. Provide a reference of the Bill No. for Notice Fee, Warrant Fee, Other Fees and Penalty in Column No. 3.
+2. Provide a reference of Form -25 (Register of Refunds, Remissions and Write-offs for remission and write-offs in
+Column No. 23.
+3. For each entry made; record the Name, Designation and Signature of the person making the entry in the register and
+the person checking the entry.
+Form G 1
+Name of the ULB:____________
+Grant Register*
+Sr. No.
+Name of the Grant
+Order/Designation of the Authority sanctioning
+the grant
+Nature of the Grant **
+Period of the Grant
+Sanctioned Amount (Rs.)
+Grant Received in Advance
+Date
+Amount (Rs.)
+1
+2
+Page 98/120
+----- PAGE 99 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+3
+4
+5
+6
+7
+8
+Expenditure Incurred on Specific Grants
+Grant unutilised on expiry of grant period
+(Rs.)
+Refund of unutilised Grant
+Date
+Voucher Number
+Nature of Expenditure
+Amount (Rs.)
+Date of Payment
+Date
+Amount (Rs.)
+9
+10
+11
+12
+13
+14
+15
+16
+* Maintain separate registers for Capital and Revenue Grants.
+** State whether Grants received from Central Govt., State Govt, or Other Govt, agencies.
+Note. -  For each entrv made; record the Name. Designation and Signature of the person making the entrv in the register
+and the person checking the entry.
+Form 32
+Name of ULB:_____________
+Register of Land
+Asset Identification No.:_____________Sketch the boundaries of the Land:__________Description/Use of the
+Land:_________Specify, if leasehold/freehold:________Location of the Land:________Survey No. of the
+Land:____________Area (sq. mtr.):___________Title documents available:____________Mode of
+acquisition:____________Specify whether any building, trees, etc., acquired with land:____Value paid for acquiring
+building, trees, etc:________Security Deposit retained:________Date and amount of Security Deposit
+released:___________
+Sr. No.
+Date of acquisition/improvement
+Payment Order No.
+Ref. No. of Cash Book /Journal Book/ Ledger
+where entry is recorded
+Ref. No. of Register of Immovable Property
+Cost of acquisition / improve ment (Rs.)
+To whom paid
+Purpose of Expenditure
+Source of Funds
+1
+2
+3
+Page 99/120
+----- PAGE 100 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+4
+5
+6
+7
+8
+9
+Total for the year 20
+-20
+Specify how land is being currently used
+Date of Disposal
+Receipt Voucher No.
+Name of the person to whom land is disposed
+Value Realised (Rs.)
+Initials of the Authorised Officer
+Remarks
+10
+11
+12
+13
+14
+15
+16
+Notes. - 1. Details of all the land belonging to the municipal body, irrespective of the fact, whether it is vacant or any
+structure has been constructed on that, should be included here. Unique asset ID Nos. to be allotted to each item.
+2. Each plot of land shall be recorded on a separate page in the register.
+3. Specify if land is industrial/agricultural/residential in 'Description of Land'.
+4. For each entry made, record the Name, Designation and Signature of the person making entry in the register and the
+person checking the entry.
+5. Totals should be taken at the end of each year in respect of total cost incurred on acquisition / improvement (from the
+date of acquisition) for each of the land owned / utilised by the ULB.
+Form 30
+Name of the ULB:________
+Register of Immovable Property
+Asset Identification No.:____________Description of the Structure:___________Location of the
+Structure:___________Survey No. of the land on which Structure is located:______Dimensions of the
+Structure:____________Area of land on which constructed (sq. mtr.):________Title documents available: 
+__________Mode of acquisition:__________Warranty / Defects Liability Clause:___________Security Deposit
+retained:_________Date and amount of Security Deposit released:__________
+Sr. No.
+Date of acquisition / construction / improvement
+Payment Order No.
+Ref. No. of  Cash Book/Journal Book / Ledger
+where entry is recorded
+Ref. No. of Register of Land
+Cost of acquisition / improvement  (Rs.)
+(Specify incidental cost separately)
+To whom paid/contractor
+Purpose of Expenditure
+Source of Funds
+In case of Building, specify how building is
+being currently used
+Page 100/120
+----- PAGE 101 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Total for the year 20* *-20**
+Total for the year 20
+-20
+Opening Written Down Value (Rs.) (equal to column
+6 in first year)
+Year of Depreciation
+Depreciation provided (Rs.)
+Closing Written Down Value (Rs.)
+Date of Disposal
+Receipt Voucher No.
+Name of the person to whom Structure is disposed
+Sale Value (Rs.)
+Initials of the Authorised Officer
+Remarks
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+(11-13)
+Total for the year 20* *-20**
+Total for the year 20* *-20**
+Notes. - 1. All the structures should be categorised into relevant asset class. Unique asset identification numbers are to
+be provided for all assets initially. Separate Registers shall be maintained for each class of structures owned by the
+ULB.
+2. Each structure shall be recorded on a separate page in the register.
+3. At the end of the accounting year, the amount in column 14 in respect of the current year shall be the amount to be
+entered in column 11 of the next year (next row).
+4. In the year in which there is any improvement to the asset, add the cost of improvement to the current year's opening
+written down value.
+5. For each entry made, record the Name, Designation and Signature of the person making entry in the register and the
+person checking the entry.
+6. Totals should be taken at the end of each year in respect of total cost incurred on acquisition / construction /
+improvement (from the date of acquisition/construction) for each of the Structure owned by the ULB.
+7. In Remarks column, indicate whether the ULB has the ownership right to the property or only utilisation rights.
+Form 31
+Page 101/120
+----- PAGE 102 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Name of the ULB:__________________
+Register of Movable Property
+Sr. No.
+Asset Identification  No.
+Particulars and description of the Property
+Location of the Property
+Number or quantity
+Date of acquisition / construction /  improvement
+Mode of acquisition
+Payment Order No.
+Ref. No. of Cash Book / Journal Book / Ledger
+where entry is recorded
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Total for the year 20
+-20
+Total for the year 20
+-20
+Cost of acquisition/ construction / improvement
+(Rs.)
+To whom paid
+Purpose of Expenditure
+Source of Funds
+Opening Written Down Value of the property (Rs.)
+(equal to column 10 in first year)
+Year of Depreciation
+Depreciation provided (Rs.)
+Closing Written Down Value (Rs.)
+Date of Disposal
+10
+11
+12
+13
+14
+15
+16
+17
+18
+(14-16)
+Total for the year 20
+-20
+Total for the year 20
+-20
+To whom Disposed and Nature of Disposal
+Page 102/120
+----- PAGE 103 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+No. and date of Disposal Order
+Number or quantity disposed
+Amount realised if sold, & date of credit in
+treasury or bank (Rs.)
+Balance quantity
+Security Deposit retained (Rs.)
+Date and amount of Security Deposit released
+Initials of the Authorised Officer
+Remarks
+19
+20
+21
+22
+23
+24
+25
+26
+27
+Total for the year 20
+-20
+Total for the year 20
+-20
+Note. - 1. All the movable assets should be categorised into relevant asset class with unique ID nos. Separate Registers
+shall be maintained for each class of movable assets owned by the ULB.
+2. At the end of the accounting year, the amount in column 17 in respect on the current year shall be the amount to be
+entered in column 14 of the next year (next row).
+3. In the year in which there is any improvement to the asset, add the cost of improvement to the total of current year's
+opening written down value and cost of improvement.
+4. For each entry made; record the Name, Designation, and Signature of the person making the entry in the register and
+the person checking the entry.
+5. In case of Plant & Machinery, the details should be given section-wise, location-wise. Separate folios should be
+allotted for each of the locations.
+6. Plant & Machinery of Water Works and Drainage System and sub-station and transformers of the Public Lighting
+System shall be recorded in this Form.
+7. Details of any improvements to the plant and machinery, which has resulted into increasing the capacity of the plant
+and machinery, should be mentioned separately.
+8. In case of Plant & Machinery, specify the date of commencement of operations and the number of shifts for which
+plant & machinery is operated along with the description of the property in column no. 3.
+9. In case of Vehicles, specify the vehicle no., registration no., engine no. and chasis no. along with the description of
+the vehicle, year of manufacture and 'make' in column no. 3.
+10. In Remarks column, indicate whether the Municipality has the ownership right to the property or have only utilisation
+rights.
+11. Totals should be taken at the end of each year in respect of total cost incurred on acquisition / construction /
+improvement (from the date of acquisition / construction) for each of the movable asset owned by the ULB.
+Form 36
+Name of the ULB:___________
+Register of Public Lighting System
+Area/Location/Survey No.:___________Title documents available:____________Mode of
+acquisition____________Warranty / Defects Liability Clause:_____________Security Deposit
+retained:____________Date and amount of Security Deposit released:_____________
+Sr. No.
+Page 103/120
+----- PAGE 104 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Asset Identification No.
+Number of lamp posts
+Meters of cables used
+Date of acquisition / improvement
+Mode of acquisition
+Payment Order No.
+Ref. No. of Cash Book / Journal Book / Ledger
+where entry is recorded
+1
+2
+3
+4
+5
+6
+7
+8
+Total for the year 20
+-20
+Total for the year 20
+-20
+Cost of acquisition / improvement (Rs.)
+To whom paid
+Purpose of Expenditure
+Source of Funds
+Opening Written Down Value (Rs.) (equal to column
+9 in first year)
+Year of Depreciation
+Depreciation provided (Rs.)
+9
+10
+11
+12
+13
+14
+15
+Total for the year 20
+-20
+Total for the year 20
+-20
+Closing Written Down Value of the property (Rs.)
+Date of Disposal
+Receipt Voucher No.
+Name of the person to whom Property disposed
+Value Realised (Rs.)
+Initials of the Authorised Officer
+Remarks
+16
+(13-15)
+17
+18
+19
+Page 104/120
+----- PAGE 105 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+20
+21
+22
+Total for the year 20
+-20
+Total for the year 20
+-20
+Note. - 1. Separate Registers shall be maintained in respect of each location.
+2. At the end of the accounting year, the amount in column 16 in respect on the current year shall be the amount to be
+entered in column 13 of the next year (next row).
+3. In the year in which there is any improvement to the asset, add the cost of improvement to the current year's opening
+written down value.
+4. Cost incurred in acquisition and erection of lampposts and that in respect of cables shall be indicated separately.
+5. For each entry made; record the Name, Designation and Signature of the person making the entry in the register and
+the person checking the entry
+6. Totals should be taken at the end of each year in respect of total cost incurred on acquisition / improvement (from the
+date of acquisition) for each of the location.
+Form 35
+Name of the ULB:_______
+Asset Replacement Register
+Sr. No.
+Source
+Utilised
+Balance (Rs.)
+Date of transfer to Asset Replacement Bank
+Voucher No.
+Amount (Rs.)
+Date of acquisition / construction / improvement
+Payment Order No.
+Ref. No. of Cash Book/ Journal Book / Ledger
+where entry is recorded
+Cost of acquisition/ construction / improvement
+(Rs.) (please specify incidental cost separately)
+To whom paid / Name of the contractor
+Ref. No. of Fixed Asset Register *
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Note. - 1. Separate folio should be used for different Asset-class.
+2. For each entry made, record the Name, Designation and Signature of the person making entry in the register and the
+person checking the entry.
+* Reference shall be provided for Register of Immovable property, Register of Movable property, etc.
+Form 16
+Page 105/120
+----- PAGE 106 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Name of the ULB:_____________________
+Register Of Advances For The Year 20__ To 20__
+Sr. No.
+Date
+Name of the person to whom the advance is paid
+Particulars of the Advance
+Bank Payment Voucher Number & Date
+Payment Order Number & Date
+Amount (Rs.)
+Date of Repayment/ Adjustment
+Voucher Number of Repayment/ Adjustment
+Balance remaining unadjusted at the end of the
+year
+Remarks
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Note. - 1. After each entry, leave few blank spaces depending on the repayment/adjustment schedule of the Advance
+2. For each entry made; record the Name, Designation and Signature of the person making the entry in the register and
+the person checking the entry.
+Form IN - 1
+Name of the ULB:__________
+Investment Ledger / Register
+Sr. No.
+No. and date of resolution authorising
+investment
+Date of investment
+Particulars of investment quoting no. and date
+of Govt. Bond or FDR no. of the Bank
+Purchase Price (Rs.)
+Face Value (Rs.)
+Due date of receipt of interest
+Amount of interest due on
+Initials of Authorised Officer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Page 106/120
+----- PAGE 107 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Amount of interest recovered (Rs.)
+Date on which interest recovered
+Date / month in which adjusted in accounts
+Amount realised either on sale or maturity of
+investment (Rs.)
+Date on which proceeds were realised
+Date / month of adjustment in accounts
+Initials of Authorised Officer
+Remarks
+10
+11
+12
+13
+14
+15
+16
+17
+Seal/Signature of authorised officer
+Note. - i. Separate folio would be allotted to each type of investment.
+ii. Separate ledger / register for each type of fund investment should preferably be maintained. For example, separate
+ledger may be maintained for General Fund Investment, GPF investment, Pension Fund Investment, etc.
+Form 18
+Name of the ULB:____________
+Register of Deposits for the Year 20__ to 20__
+In respect of_________________
+Section:_______
+Sr. No.
+Date
+Name of the Party
+Nature/ Type/Kind of Deposit
+Receipt Number
+Amount (Rs.)
+1
+2
+3
+4
+5
+6
+Refund or Adjustments
+Balance Deposit (Rs.)
+Remarks**
+Date & Voucher No.
+Adjusted against demand of
+Amount (Rs.)
+Income*
+Year
+Amount (Rs.)
+7
+8
+9
+10
+Page 107/120
+----- PAGE 108 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+11
+12
+13
+* Specify the head of account of the income against which the deposit is adjusted.
+** Details of the Lapsed Deposits should be given in the "Remarks" column.
+Note. -  For each entry made; record the Name, Designation and Signature of the person making the statement and the
+person checking the entry.
+Form 19
+Name of the ULB:_________
+Summary Statement of Deposits Adjusted
+During the Period__________
+In respect of__________
+Date:
+Sr. No.______
+Particulars (Revenue Head-wise)
+Arrears (Rs.)
+Current Demand (Rs.)
+Total (Rs.)
+Deposits Adjusted Register No.
+Year (Others)
+Year (-3)
+Year (-2)
+Year (-1)
+1
+2
+3
+4
+5
+6
+7
+8
+Total
+{|
+Amount in Words:
+Rupees_________________________
+Prepared By :*_____________
+Examined and entered
+Checked By :*____________
+Accountant/Authorised Officer
+Dated:
+Dated:
+|}
+* Record the name, designation and signature of the person.
+Form BR 1
+Name of the ULB___________
+Register of Loans
+1. Section from which loan received______________2. Purpose of Loan____________3. No. & date of resolution /
+orders sanctioning the loan___4. Amount of Loan sanctioned______________5. Rate of Interest [whether half-yearly or
+yearly]_________6. No. of installment_________________7. Amount of each installment ____________
+Receipt of Loan
+Amount due for repayment
+Page 108/120
+----- PAGE 109 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Initials of the officer
+Date of Receipt
+Amount Received
+Total Amount Received
+Due Date of Repayment
+Amount of Principal
+Amount of Interest
+Total Amount due to repayment
+1
+2
+3
+4
+5
+6
+7
+8
+Amount Repaid
+Balance
+Remarks
+Date of Repayment
+Principal Amount
+Interest
+Total
+Principal Amount
+Interest
+Total
+9
+10
+11
+12
+13
+14
+15
+16
+Note. - 1. Separate folio shall be allotted to each loan.
+2. The format for capital grant register would be similar.
+3. Pages of ledger / register would be numbered.
+4. In case of more than one loan, summary of all loans shall be drawn suitably in the register.
+5. For each entry made, record the Name, Designation and Signature of the person making the entry in the register and
+the person checking the entry
+Form BR 2
+Name of the ULB________________________
+Register of Debentures
+Date of order sanctioning the issue of debenture:Amount raised by issue of debentures (Rs.):Date of issue of
+Debentures:Purpose of issuing debentures:Details of Guarantee and Security furnished:Name of the Debenture-trustee,
+if any:Interest payment Schedule:Date of maturity:Repayment Schedule:
+Debenture face value(Rs.)Rate of interest payable on debentures:
+Sr. No
+Debenture Folio No.
+Debenture Certificate Nos.
+Distinctive number of
+Page 109/120
+----- PAGE 110 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Debentures issued
+Name and Address of
+the Debenture holder
+Date of becoming a debenture holder
+Date of ceasing as a debenture holder
+Initials of Authorised Officer
+From
+To
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Payment of Interest on Debentures
+Initials of Authorised Officer
+Remarks
+Date when due
+Amount due (Rs.)
+Date of Payment
+Amount paid (Rs.)
+10
+11
+12
+13
+14
+15
+Notes. - (1) Details of all the holders who have been issued debentures of a particular series shall be listed above.
+(2)
+Separate folios shall be allotted for each series of the debentures issued.
+(3)
+Three to four lines should be left after each certificate number to record the transfer entries for those certificates.
+(4)
+Date on which a person becomes a debenture holder and the date on which he ceases to be such shall be mentioned
+for all the transfers affected.
+(5)
+For each entry made, record the Name, Designation and Signature of the person making the entry in the register and
+the person checking the entry.
+Form BR 3
+Name of the ULB________
+Register of Sinking Funds
+Amount of loan and rate of interest:Date of raising the loan:Amount of sinking fund installment:Rate of interest provided
+for in the Agreement at which sinking fund develops
+Previous Balance (Rs.)
+Receipts
+Annual Instalments (Rs.)
+Date of Credit
+Total (Rs.)
+Page 110/120
+----- PAGE 111 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Amount of interest received/ accrued on
+Investments (Rs.)
+Theoretical value as on 31st March (Rs.)
+1
+2
+3
+4
+5
+6
+(1+2)
+(4+5)
+Investments
+Previous Balance
+Purchased during the year
+Total
+Actual value at cost (Rs.)
+Face Value (Rs.)
+Value at Cost (Rs.)
+Face Value (Rs.)
+Date of investment
+Value at Cost (Rs.)
+Face Value (Rs.)
+7
+8
+9
+10
+11
+12
+13
+(7+9)
+( 8+10)
+Investments
+Difference (Rs.)
+Remarks
+Present Value of Sinking Fund
+Market Value of securities mentioned in column 13
+on 31st March (Rs.)
+Uninvested Cash Balance of sinking fund as on
+31st March (Rs.)
+Total (Rs.)
+14
+15
+16
+17
+18
+( 8+10)
+(14+15)
+(16-6)
+Note. - For each entry made, record the Name, Designation and Signature of the person making the entry in the register
+and the person checking the entry
+Form EM 1
+Page 111/120
+----- PAGE 112 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Register of Earmarked Funds
+Name of the Fund ___________
+On creation/ addition to Fund
+Date of Receipt
+Reference of voucher No.
+Particulars
+Amount (Rs.)
+Cumulative Amount (Rs.)
+1
+2
+3
+4
+5
+On Utilisation of Fund
+Balance in fund (Rs.) (5-10)
+Remarks
+Date of Payment
+Reference of voucher No.
+Particulars
+Amount (Rs.)
+Cumulative Amount (Rs.)
+6
+7
+8
+9
+10
+11
+12
+Note. - 1. Interest earned on investments and profit on disposal of investments made from the Earmarked Funds shall
+be recorded in column 1 to 5 to update the balance of Earmarked Funds
+2. Loss on disposal of investments shall be recorded in column 6 to 10 to reduce the balance of Earmarked Fund
+3. For each entry made; record the Name, Designation, and Signature of the person making the entry in the register and
+the person checking the entry.
+Table 9.19
+Receipts and Payments Account for the Period from _______ to ________
+Code No.
+Head of Account
+Current Period Amount (Rs.)
+Corresponding Previous Period Amount (Rs.)
+Code No.
+Head of Account
+Current Period Amount (Rs.)
+Corresponding Previous Period Amount (Rs.)
+Opening Balances
+# Cash balances including Imprest Balances with
+Banks/Treasury (including balances in designated bank accounts)
+Operating Receipts
+Operating Payments
+1-10
+Tax Revenue
+2-10
+Page 112/120
+----- PAGE 113 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Establishment Expenses
+1-20
+Assigned Revenues & Compensations
+2-20
+Administrative Expenses
+1-30
+Rental income from Municipal Properties
+2-30
+Operations and Maintenance
+1-40
+Fees & User Charges
+2-40
+Interest & Finance Charges
+1-50
+Sale & Hire Charges
+2-50
+Programme Expenses
+1-60
+Revenue Grants, Contributions & Subsidies
+2-60
+Revenue Grants, Contributions & Subsidies
+1-70
+Income from Investments
+1-71
+Interest Earned
+4-30
+Purchase of Stores
+1-80
+Other Income
+Other Collections on behalf of State and Central
+Government
+Non-Operating Receipts
+Non-Operating Payments
+3-30/31
+Loans Received
+3-50
+Other' Payables
+3-40
+Deposits Received
+**
+Refunds Payable
+3-20
+Grants and contribution for specific purposes
+**
+Repayment of Loans
+*
+Sale proceeds from Assets
+**
+Refund of Deposits
+*
+Realisation of Investment - General Fund
+Page 113/120
+----- PAGE 114 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+4-10
+Acquisition / Purchase of Fixed Assets
+*
+Realisation of Investment - Other Funds
+4-12
+Capital Work - in - Progress
+3-41
+Deposit works
+3-41
+Deposit works
+3-50
+Revenue Collected in Advance
+4-20
+Investments - General Fund
+*
+Loans & Advances to Employees (recovery)
+4-21
+Investments - Other Funds
+*
+Other Loans & Advances (recovery)
+4-60
+Loans & Advances to Employees
+*
+Deposits with External Agencies (recovery)
+4-40
+Prepaid Expenses
+4-60
+Other Loans & Advances
+Other Receipts [specify]
+4-60
+Deposits with External Agencies
+Other Payments [specify]
+Closing Balances
+# Cash balances including Imprest Balances with
+Banks/Treasury (including balances in designated bank accounts)
+Grand Total
+Grand Total
+# Bank Balances operate for Grants and Special Funds
+* Details in respect of these items will be available in the corresponding Asset Ledger Accounts
+** Details in respect of these items will be available in the corresponding Liability Ledger Accounts
+Table 9.14
+Trial Balance for the period from _____to______
+Code No
+Particulars
+Debit (Rs.)
+Credit (Rs.)
+Total
+Table 9.17
+Balance Sheet of ________ as on _________
+Code No
+Description of items
+Page 114/120
+----- PAGE 115 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Schedule No.
+Current Year Amount (Rs.)
+Previous Year Amount (Rs.)
+Liabilities
+Reserve & Surplus
+3-10
+3-11
+3-12
+Municipal (General)
+Fund
+Earmarked Funds
+Reserves
+B-l
+B-2
+B-3
+Total Reserves & Surplus
+3-20
+Grants, Contributions for specific purposes
+B-4
+Loans
+3-30
+Secured Loans
+B-5
+3-31
+Unsecured Loans
+B-6
+Total Loans
+Current Liabilities and Provisions
+3-40
+3-41
+3-50
+3-60
+Deposits Received
+Deposit works
+Other Liabilities
+(Sundry Creditors)
+Provisions
+B-7
+B-8
+B-9
+B-10
+Total Current Liabilities andProvisions
+Total Liabilities
+4-10
+Assets
+Fixed Assets
+Gross Block
+B-11
+4-11
+Less: Accumulated Depreciation
+Net Block
+Page 115/120
+----- PAGE 116 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+4-12
+Capital Work-in-Progress
+Total Fixed Assets
+4-20
+4-21
+Investments
+Investment ?
+General
+Fund Investments - Other Funds
+B-12
+B-13
+Total Investments
+4-30
+4-31
+4-32
+Current Assets,
+Loans and Advances
+Stock in Hand
+(Inventories)
+Sundry Debtors
+(Receivables)
+Gross amount
+outstanding
+Less: Accumulated provision against bad and
+doubtful Receivables
+B-14
+B-15
+Net amount outstanding
+4-40
+4-50
+4-60
+4-61
+Prepaid Expenses
+Cash and Bank
+Balances
+Loans, advances and
+deposits
+Less: Accumulated provision against Loans
+B-16
+B-17
+B-18
+Net Amount outstanding
+Total Current Assets, Loans & Advances
+4-70
+4-80
+Other Assets
+Miscellaneous Expenditure (to the extent not
+written off)
+B-19
+B-20
+Total Assets
+Page 116/120
+----- PAGE 117 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Table 9.16
+Income and Expenditure Statement for the period from _________ to ____________
+Code No.
+Item/ Head of Account
+Schedule No
+Current Year Amount (Rs.)
+Previous Year Amount (Rs.)
+1
+2
+3
+4
+5
+1-10
+1-20
+1-30
+1-40
+1-50
+1-60
+1-70
+1-71
+1-80
+Income
+Tax Revenue
+Assigned Revenues &
+Compensation
+Rental Income From
+Municipal Properties
+Fees & User
+Charges
+Sale & Hire
+Charges
+Revenue Grants,
+Contributions & Subsidies
+Income From
+Investments
+Interest Earned
+Other Income
+1-1
+1-2
+1-3
+1-4
+1-5
+1-6
+1-7
+1-8
+1-9
+A
+Total - Income
+2-10
+2-20
+2-30
+Page 117/120
+----- PAGE 118 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+2-40
+2-50
+2-60
+2-70
+2-71
+2-72
+Expenditure
+Establishment
+Expenses
+Administrative
+Expenses
+Operations &
+Maintenance
+Interest &
+Finance Charges
+Programme Expenses
+Revenue Grants,
+Contributions & Subsidies
+Provisions &
+Write Off
+Miscellaneous
+Expenses
+Depreciation
+1-10
+1-11
+1-12
+1-13
+1-14
+1-15
+1-16
+1-17
+B
+Total - Expenditure
+A-B
+Gross surplus/ (deficit) of income over
+expenditure before Prior Period Items
+2-80
+Add: Prior period Items (Net)
+1-18
+Gross surplus/ (deficit) of income over
+expenditure after Prior Period Items
+2-90
+Less: Transfer to Reserve Funds
+Net balance being surplus/ deficit carried
+over to Municipal Fund
+Table 9.18
+Statement of Cash Flow
+Particulars
+Previous Year (Rs.)
+Current Year (Rs.)
+A. Cash flows from
+Page 118/120
+----- PAGE 119 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+Operating Activities:
+Gross surplus/
+(deficit) over expenditure Adjustments for
+Add:
+Depreciation
+Interest &
+finance expenses
+Less:
+Profit on disposal of
+assets
+Dividend Income
+Investment income
+Adjusted income over expenditure before
+effecting changes in current assets and current liabilities and
+extra-ordinary items.
+Changes in current
+assets and current liabilities
+(Increase) / decrease
+in Sundry debtors
+(Increase) / decrease
+in Stock in hand
+(Increase) / decrease
+in prepaid expenses
+(Increase) / decrease in other current assets
+(Decrease)/ increase
+in Deposits received
+(Decrease)/ increase
+in Deposits works
+(Decrease)/ increase
+in other current liabilities
+(Decrease)/ increase
+in provisions
+Extra-ordinary items (Specify)
+Net cash generated from/ (used in) operating
+activities (A)
+B. Cash flows from
+Investing Activities
+(Purchase) of fixed
+assets & CWIP
+(Increase) / Decrease
+in Special Funds/Grants
+(Increase) / Decrease
+in Earmarked Funds
+(Purchase) of
+Investments
+Add:
+Proceeds from
+disposal of assets
+Proceeds from
+disposal of investments
+Investment income
+Page 119/120
+----- PAGE 120 -----
+The Andhra Pradesh Municipalities (Preparation of Accounts) Rules, 2017
+received
+Interest income received
+Net cash generated from/ (used in) investing
+activities (B)
+C. Cash flows from
+Financing Activities
+Add:
+Loans from
+banks/others received
+Less:
+Loans repaid during
+the period
+Loans & advances
+to employees
+Loans to others
+Finance expenses
+Net cash generated from (used in) financing
+activities (C)
+Net increase/ (decrease) in cash and cash
+equivalents (A + B + C)
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+Cash and Cash equivalents at the end of the
+year comprises of the following account balances at the end of
+the year:
+i. Cash Balances
+ii. Bank Balances
+iii. Co-operative
+banks Balances
+iv. Balances with
+Post offices
+v. Balances with other banks
+Total
+Note. - items in () brackets denote as that they are to be deducted
+Related AI tags, queries and research notes
+Translation
+Page 120/120

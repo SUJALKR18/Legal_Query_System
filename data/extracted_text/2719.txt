@@ -1,0 +1,239 @@
+
+----- PAGE 1 -----
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz f...
+The Use of low power devices or equipments for indoor applications
+in the 433 to 434 MHz frequency range (Exemption from Licensing
+Requirement) Rules, 2012
+Source: https://indiankanoon.org/doc/192527857/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz frequency range (Exemption
+from Licensing Requirement) Rules, 2012
+UNION OF INDIA
+India
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz frequency range (Exemption
+from Licensing Requirement) Rules, 2012
+Rule
+THE-USE-OF-LOW-POWER-DEVICES-OR-EQUIPMENTS-FOR-INDOOR-APPLICATIONS-IN-THE-433-TO-434-MHZ-
+FREQUENCY-RANGE-EXEMPTION-FROM-LICENSING-REQUIREMENT-RULES-2012 of 2012
+Published on 12 September 2012
+Commenced on 12 September 2012
+[This is the version of this document from 12 September 2012.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz frequency range (Exemption
+from Licensing Requirement) Rules, 2012
+Published vide Notification New Delhi, the 12th September, 2012
+Page 1/5
+----- PAGE 2 -----
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz f...
+Ministry of Communications and Information Technology
+(Wireless Planning and Coordination Wing)
+G.S.R. 680(E). - In exercise of the powers conferred by Sections 4 and 7 of the Indian Telegraph Act, 1885 (
+13 of 1885
+) and Sections 4 and 10 of the Indian Wireless Telegraphy Act, 1933 (17 of 1933), the Central Government hereby
+makes the following rules, namely:-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Use of low power devices or equipments for indoor applications in the 433 to 434 MHz
+frequency range (Exemption from Licensing Requirement) Rules, 2012.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+- In these rules, unless the context otherwise requires, words and expressions used in these rules and not defined, but
+defined in the Indian Telegraph Act, 1885 (
+13 of 1885
+); and the Indian Wireless Telegraphy Act, 1933 (17 of 1933) shall have the same meanings respectively assigned to
+them in those the Indian Telegraph Act, 1885 (
+13 of 1885
+); and the Indian Wireless Telegraphy Act, 1933 (17 of 1933).
+3.
+Use of low power devices or equipments ,for indoor applications in the 433 to 434 MHz frequency range.
+- No person shall require license to establish, maintain, work, possess or deal in any wireless equipment for the purpose
+of usage of low power devices, or equipments for indoor applications in the 433 to 434 MHz frequency range, on
+non-interference, Non-protection and shared (non exclusive) basis, with built-in antenna and Technical parameters as
+specified in the Table below, namely: -
+Table
+Technical characteristics
+Frequency Band
+Maximum Effective Radiated Power (ERP),and Emission, Bandwidth
+Antenna
+(1)
+(2)
+(3)
+433 to 434 MHz
+10 milliwattsWith a channel bandwidth
+within 10 KHz
+Built-in only
+Provided that it does not in any way, affects the licensing rights or procedures of existing and planned wireless
+operations, in this frequency band.
+4.
+Interference.
+- The effect of unwanted energy due to one or a combination of emissions, radiations or induction upon reception in a
+radio communication system, manifested by any performance degradation, misinterpretation, or loss of information
+which could be extracted in the absence of such unwanted energy, where any person whom a license has been issued
+under the provisions of section 4 of the Indian Telegraph Act, 1885 (
+13 of 1885
+) and section 4 of the Indian Wireless Telegraphy Act, 1933 (17 of 1933) informs that his licensed system is getting
+harmful interference from any other radio communication system exempted under these rules, the user of such
+Page 2/5
+----- PAGE 3 -----
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz f...
+unlicensed wireless equipment shall take necessary steps to avoid interference by relocating the equipment, reducing
+the power, using special type of antennae including discontinuation of such wireless use, if required:
+Provided that, before such discontinuation, a reasonable opportunity to explain the circumstances shall be given to such
+unlicensed user of wireless equipment by the issuing authority.
+5.
+Equipment.
+(1)
+The low power devices or equipments shall be of Equipment Type Approved designed and constructed in such a
+manner so that the technical parameters shall conform to the limits specified in the Table referred to in rule 3.
+(2)
+The application for obtaining the Equipment Type Approval shall be made to the Central Government in the application
+format given in Annexure.
+Annexure
+Application For Equipment Type Approval
+Section-A-applicant
+1.
+Name of manufacturing agency applying For equipment type
+approval
+:
+2.
+Postal address of manufacturing agency
+:
+3.
+Name of product and the product identification (model number
+etc..)
+:
+Section-B-Details of Transmitter
+1.
+Frequency range
+:
+2.
+No. of preset switchable channels
+:
+3.
+No. of voice / Data / TV Channels(In case of multi-channel
+equipment)
+:
+4.
+Tx-Rx channel separation(In case of Duplex / multi-channel
+equipment)
+:
+5.
+Adjacent channel separation(In case of multi-channel
+equipment)
+:
+6.
+Frequency stability
+:
+7.
+Spurious / Harmonic radiations
+:
+Page 3/5
+----- PAGE 4 -----
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz f...
+i. Carrier suppression(In case of carrier suppressed
+systems)
+:
+ii. Unwanted side band suppression(In case of SSB systems)
+:
+iii. 2ndHarmonic radiations
+:
+iv. 3rdharmonic radiations
+:
+8.
+Max. Frequency Deviation
+:
+9.
+Mode of Emission
+:
+10.
+Bandwidth of Emission
+:
+11.
+Test Tone Deviation
+:
+12.
+Base band frequency(In case of multi channel equipment)
+:
+13.
+Type of modulation to be required
+:
+14.
+Pre-emphasis
+:
+15.
+Power out-put(At the input of antenna)
+:
+16.
+Any other information
+:
+Section-C- Details of Receivers
+1.
+Frequency range
+:
+2.
+Mode of reception
+:
+3.
+Spurious response of receiver
+:
+4.
+Sensitivity
+:
+5.
+Frequency stability
+Page 4/5
+----- PAGE 5 -----
+The Use of low power devices or equipments for indoor applications in the 433 to 434 MHz f...
+:
+6.
+(a) Effective noise temperature
+:
+(b) Threshold input level
+:
+7.
+Intermediate frequency
+:
+8.
+De-emphasis
+:
+9.
+Selectivity
+:
+10.
+Any other particulars
+:
+Signature of applicant
+Place :
+Date :
+(Note: Separate application should be submitted for each type of equipment)
+Related AI tags, queries and research notes
+Translation
+Page 5/5

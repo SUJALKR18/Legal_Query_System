@@ -1,0 +1,1467 @@
+
+----- PAGE 1 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency
+Resolution Process for Corporate Persons) Regulations, 2017
+Source: https://indiankanoon.org/doc/170853991/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons)
+Regulations, 2017
+UNION OF INDIA
+India
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons)
+Regulations, 2017
+Rule
+INSOLVENCY-AND-BANKRUPTCY-BOARD-OF-INDIA-FAST-TRACK-INSOLVENCY-RESOLUTION-PROCESS-FOR-
+CORPORATE-PERSONS-REGULATIONS-2017 of 2017
+Published on 14 June 2017
+Commenced on 14 June 2017
+[This is the version of this document from 14 June 2017.]
+[Note: The original publication document is not available and this content could not be verified.]
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons)
+Regulations, 2017
+Published vide Notification No. IBBI/2017-18/GN/REG 012, dated 14.6.2017
+No. IBBI/2017-18/GN/REG 012. - In exercise of the powers conferred under sections 58, 196 and 208 read with section
+240 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Insolvency and Bankruptcy Board of India hereby
+Page 1/28
+----- PAGE 2 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+makes the following Regulations, namely-
+Chapter I
+Preliminary
+1.
+Short title and commencement.
+(1)
+These Regulations may be called the [Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution
+Process for Corporate Persons) Regulations, 2017]
+[Substituted by Notification No. IBBI/2017-18/GN/REG017, dated 5.10.2017 (w.e.f. 14.6.2017)]
+.
+(2)
+These Regulations shall come into force on June 14, 2017.
+(3)
+These Regulations shall apply to the fast track process under Chapter IV of Part II of the Code.
+2.
+Definitions.
+(1)
+In these Regulations, unless the context otherwise requires-
+(a)
+"applicant" means the person filing an application under Chapter IV of Part II of the Code;
+(b)
+"Code" means the Insolvency and Bankruptcy Code, 2016;
+(c)
+"Code of Conduct" means the code of conduct for insolvency professionals as set out in the Insolvency and Bankruptcy
+Board of India (Insolvency Professionals) Regulations, 2016;
+(d)
+"committee" means a committee of creditors established under section 21;
+(e)
+[ "dissenting financial creditor" means a financial creditor who voted against the resolution plan or abstained from voting
+for the resolution plan, approved by the committee;]
+[Substituted by Notification No. IBBI/2017-18/GN/REG23, dated 31.12.2017 (w.e.f. 14.6.2017)]
+(f)
+"electronic form" shall have the meaning assigned to it in the Information Technology Act, 2000 (
+21 of 2000
+);
+(g)
+"electronic means" means an authorized and secured computer programme which is capable of producing confirmation
+of sending communication to the participant entitled to receive such communication at the last electronic mail address
+provided by such participant and keeping record of such communication;
+(ga)
+[ "evaluation matrix" mean such parameters to be applied and the manner of applying such parameters, as approved by
+the committee, for consideration of resolution plan for its approval'
+[Inserted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+(gb)
+"fair value" mean the estimated realizable value of the assets of the corporate debtor, if they were to be exchanged on
+the insolvency commencement date between a willing buyer and a willing seller in an arm's length transaction, after
+proper marketing and where the parties had acted knowledgeably, prudently and without compulsion;]
+(h)
+"fast track process" means the fast track insolvency resolution process for corporate persons under Chapter IV of Part II
+of the Code;
+(i)
+Page 2/28
+----- PAGE 3 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+"fast track process costs" means the costs in Regulation 30;
+(j)
+"fast track process period" means the period of ninety days beginning from the fast track commencement date and
+ending on the ninetieth day;
+(k)
+"identification number" means the Limited Liability Partnership Identification Number under the Limited Liability
+Partnership Act, 2008, or the Corporate Identity Number under the Companies Act, 2013, as the case may be;
+(l)
+"fast track commencement date" means the date of admission of an application by the Adjudicating Authority for
+initiating the fast track process under Chapter IV of Part II of the Code;
+(m)
+"insolvency professional entity" means an entity recognised as such under the Insolvency and Bankruptcy Board of India
+(Insolvency Professionals) Regulations, 2016;
+(n)
+[ "liquidation value" means the estimated realizable value of the assets of the corporate debtor, if the corporate debtor
+were to be liquidated on the insolvency commencement date;]
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+(o)
+"participant" means a person entitled to attend a meeting of the committee under section 24 or any other person
+authorised by the committee to attend the meeting;
+(p)
+"registered valuer" means a person registered as such in accordance with the Companies Act, 2013 (
+18 of 2013
+) and rules made thereunder;
+(q)
+"section" means section of the Code;
+(r)
+"video conferencing or other audio and visual means" means such audio and visual facility which enables the
+participants in a meeting to communicate concurrently with one another and to participate effectively in the meeting.
+(2)
+Unless the context otherwise requires, words and expressions used and not defined in these Regulations, but defined in
+the Code, shall have the meanings assigned to them in the Code.
+Chapter II
+General
+3.
+Eligibility for resolution professional.
+(1)
+An insolvency professional shall be eligible to be appointed as a resolution professional for a fast track process of a
+corporate debtor if he, and all partners and directors of the insolvency professional entity of which he is a partner or
+director, are independent of the corporate debtor.
+Explanation. - A person shall be considered independent of the corporate debtor, if he -
+(a)
+is eligible to be appointed as an independent director on the board of the corporate debtor under section 149 of the
+Companies Act, 2013 (
+18 of 2013
+), where the corporate debtor is a company;
+(b)
+is not a related party of the corporate debtor; or
+(c)
+has not been an employee or proprietor or a partner:
+1.
+Page 3/28
+----- PAGE 4 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+) of a firm of auditors or company secretaries in practice or cost auditors of the corporate debtor; or
+2.
+) of a legal or a consulting firm, which has or had any transaction with the corporate debtor amounting to ten per cent or
+more of the gross turnover of such firm,
+at any time in the preceding three years.
+(2)
+An insolvency professional shall not be eligible to be appointed as a resolution professional if he, or the insolvency
+professional entity of which he is a partner or director, is under a restraint order of the Board.
+(3)
+An insolvency professional shall make disclosures at the time of his appointment and thereafter in accordance with the
+Code of Conduct.
+(4)
+An insolvency professional shall not continue as a resolution professional if the insolvency professional entity of which
+he is a director or a partner, or any other partner or director of such insolvency professional entity represents any other
+stakeholders in the same fast track process.
+4. Access to books.
+- Without prejudice to section 17(2)(d), the interim resolution professional may access the books of account, records and
+other relevant documents and information, to the extent relevant for discharging his duties under the Code, of the
+corporate debtor held with¹
+(a)
+depositories of securities;
+(b)
+professional advisors of the corporate debtor;
+(c)
+information utilities;
+(d)
+other registries that record the ownership of assets;
+(e)
+members, promoters, partners, board of directors and joint venture partners of the corporate debtor; and
+(f)
+contractual counterparties of the corporate debtor.
+5.
+Extortionate credit transaction.
+- A transaction shall be considered an extortionate credit transaction under section 50(2) where the terms:
+(a)
+require the corporate debtor to make exorbitant payments in respect of the credit provided; or
+(b)
+are unconscionable under the principles of law relating to contracts.
+Chapter III
+Public Announcement
+6.
+Public announcement.
+(1)
+An insolvency professional shall make a public announcement immediately on his appointment as an interim resolution
+professional.
+Explanation. - 'Immediately' means not later than three days from the date of his appointment.
+(2)
+The public announcement referred to in sub-regulation (1) shall -
+(a)
+be in Form A;
+(b)
+Page 4/28
+----- PAGE 5 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(i)
+be published in one English and one regional language newspaper with wide circulation at the location of the registered
+office and principal office, if any, of the corporate debtor and any other location where in the opinion of the interim
+resolution professional, the corporate debtor conducts material business operations;
+(ii)
+be hosted on the website, if any, of the corporate debtor; and
+(iii)
+be hosted on the website, if any, designated by the Board for the purpose,
+(c)
+provide the last date for submission of proofs of claim, which shall be ten days from the date of appointment of the
+interim resolution professional.
+(3)
+The applicant shall bear the expenses of the public announcement which may be reimbursed by the committee to the
+extent it ratifies them.
+Explanation. - The expenses on the public announcement shall not form part of fast track process costs.
+Chapter IV
+Proof of Claims
+7.
+Claims by operational creditors.
+(1)
+An operational creditor, other than workman or employee of the corporate debtor, shall submit proof of his claim to the
+interim resolution professional in person, by post or by electronic means in Form B.
+Provided that such person may submit supplementary documents or clarifications in support of the claim before the
+constitution of the committee.
+(2)
+The existence of debt due to the operational creditor under this Regulation may be proved on the basis of-
+(a)
+the records available with an information utility, if any; or
+(b)
+other relevant documents, including -
+(i)
+a contract for the supply of goods and services with corporate debtor;
+(ii)
+an invoice demanding payment for the goods and services supplied to the corporate debtor;
+(iii)
+an order of a court or tribunal that has adjudicated upon the non-payment of a debt, if any; or
+(iv)
+financial accounts.
+8.
+Claims by financial creditors.
+(1)
+A financial creditor shall submit proof of claim to the interim resolution professional in electronic form in Form C:
+Provided that such person may submit supplementary documents or clarifications in support of the claim before the
+constitution of the committee.
+(2)
+The existence of debt due to the financial creditor may be proved on the basis of -
+(a)
+the records available with an information utility, if any; or
+(b)
+other relevant documents, including -
+(i)
+Page 5/28
+----- PAGE 6 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+a financial contract supported by financial statements as evidence of the debt;
+(ii)
+a record evidencing that the amounts committed by the financial creditor to the corporate debtor under a facility has
+been drawn by the corporate debtor;
+(iii)
+financial statements showing that the debt has not been repaid; or
+(iv)
+an order of a court or tribunal that has adjudicated upon the non-payment of a debt, if any.
+9.
+Claims by workmen and employees.
+(1)
+A workman or an employee of the corporate debtor shall submit proof of claim to the interim resolution professional in
+person, by post or by electronic means in Form D:
+Provided that such person may submit supplementary documents or clarifications in support of the claim, on his own or
+if required by the interim resolution professional, before the constitution of the committee.
+(2)
+Where there are dues to numerous workmen or employees of the corporate debtor, an authorised representative may
+submit one proof of claim for all such dues on their behalf in Form E.
+(3)
+The existence of dues to workmen or employees may be proved by them, individually or collectively on the basis of -
+(a)
+records available with an information utility, if any; or
+(b)
+other relevant documents, including -
+(i)
+a proof of employment such as contract of employment for the period for which such workman or employee is claiming
+dues;
+(ii)
+evidence of notice demanding payment of unpaid dues and any documentary or other proof that payment has not been
+made; or
+(iii)
+an order of a court or tribunal that has adjudicated upon the non-payment of a dues, if any.
+9A.
+[ Claims by other creditors.
+[Inserted by Notification No. IBBI/2017-18/GN/REG 014, dated 16.8.2017 (w.e.f. 14.6.2017)]
+(1)
+A person claiming to be a creditor, other than those covered under Regulations 7, 8, or 9, shall submit proof of its claim
+to the interim resolution professional or resolution professional in person, by post or by electronic means in Form F of
+the Schedule.
+(2)
+The existence of the claim of the creditor referred to in sub-section (1) may be proved on the basis of-
+(a)
+the records available in an information utility, if any, or
+(b)
+other relevant documents sufficient to establish the claim, including any or all of the following-
+(i)
+documentary evidence demanding satisfaction of the claim;
+(ii)
+bank statements of the creditor showing non-satisfaction of claim;
+(iii)
+an order of court or tribunal that has adjudicated upon non-satisfaction of claim, if any.]
+Page 6/28
+----- PAGE 7 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+10.
+Substantiation of claims.
+- The interim resolution professional or the resolution professional, as the case may be, may call for such other evidence
+or clarification as he deems fit from a creditor for substantiating the whole or part of its claim.
+11.
+Cost of proof proving the debt.
+- A creditor shall bear the cost of proving the debt due to such creditor.
+12.
+Submission of proof of claims.
+(1)
+Subject to sub-regulation (2), a creditor shall submit proof of his claim on or before the last date mentioned in the public
+announcement.
+(2)
+A creditor, who failed to submit proof of claim within the time stipulated in the public announcement, may submit proof of
+such claim to the interim resolution professional or the resolution professional, as the case may be, till the approval of a
+resolution plan by the committee.
+(3)
+Where the creditor in sub-regulation (2) is a financial creditor, it shall be included in the committee from the date of
+admission of such claim:
+Provided that such inclusion shall not affect the validity of any decision taken by the committee prior to such inclusion.
+13.
+Verification of claims.
+(1)
+The interim resolution professional or the resolution professional, as the case may be, shall verify every claim, as on the
+fast track commencement date, within seven days from the last date of the receipt of the claims, and thereupon maintain
+a list of creditors containing names of creditors along with the amount claimed by them, the amount of their claims
+admitted and the security interest, if any, in respect of such claims, and update it.
+(2)
+The list of creditors shall be -
+(a)
+available for inspection by the persons who submitted proofs of claim;
+(b)
+available for inspection by members, partners, directors and guarantors of the corporate debtor;
+(c)
+displayed on the website, if any, of the corporate debtor;
+(d)
+filed with the Adjudicating Authority; and
+(e)
+presented at the first meeting of the committee.
+14.
+Determination of amount of claim.
+(1)
+Where the amount claimed by a creditor is not precise or cannot be determined due to any contingency or other reason,
+the interim resolution professional or the resolution professional, as the case may be, shall make the best estimate of
+the amount of the claim based on the information available with him.
+(2)
+The interim resolution professional or the resolution professional, as the case may be, shall revise the amount of claims
+admitted, including the estimates of claims made under sub-regulation (1), as soon as may be practicable, when he
+receives additional information warranting such revision.
+15.
+Debt in foreign currency.
+Page 7/28
+----- PAGE 8 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+- The claims denominated in foreign currency shall be valued in Indian currency at the official exchange rate as on the
+fast track commencement date.
+Explanation. - "official exchange rate" means the reference rate published by the Reserve Bank of India or derived from
+such reference rates.
+Chapter V
+Committee of Creditors
+16.
+Committee with only operational creditors.
+(1)
+Where the corporate debtor has no financial debt or where all financial creditors are related parties of the corporate
+debtor, the committee shall be set up in accordance with this Regulation.
+(2)
+The committee formed under this Regulation shall consist of following members: -
+(a)
+eighteen largest operational creditors by value:
+Provided that if the number of operational creditors is less than eighteen, the committee shall include all such
+operational creditors;
+(b)
+one representative elected by all workmen other than those workmen included under sub-clause (a); and
+(c)
+one representative elected by all employees other than those employees included under sub-clause (a).
+(3)
+Every member of the committee formed under this Regulation shall have voting rights in proportion of the debt due to
+such creditor or debt represented by such representative, as the case may be, to the total debt.
+Explanation. - For the purposes of this sub-regulation, 'total debt' means the sum of-
+(a)
+the amount of debt due to the creditors listed in sub-regulation 2(a);
+(b)
+the amount of the aggregate debt due to workmen under sub-regulation 2(b); and
+(c)
+the amount of the aggregate debt due to employees under sub-regulation 2(c).
+(4)
+A committee formed under this Regulation and its members shall have the same rights, powers, duties and obligations
+as a committee comprising financial creditors and its members, as the case may be.
+17.
+Filings by the interim resolution professional.
+(1)
+The interim resolution professional shall file a report certifying the constitution of the committee to the Adjudicating
+Authority on or before the expiry of twenty-one days from the date of his appointment.
+(2)
+Based on records of the corporate debtor and claims, if the interim resolution professional is of the opinion that the fast
+track process is not applicable to the corporate debtor as per notifications under section 55(2), he shall file an
+application to the Adjudicating Authority along with the report in sub-regulation (1), to pass an order converting the fast
+track process to corporate insolvency resolution process under Chapter II of Part II of the Code.
+(3)
+If the Adjudicating Authority passes an order converting fast track to corporate insolvency resolution process on an
+application under sub-regulation (2), the process shall be carried on in accordance with the Insolvency and Bankruptcy
+Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016.
+(4)
+The interim resolution professional shall convene the first meeting of the committee within seven days of filing the
+report(s) under this Regulation.
+Page 8/28
+----- PAGE 9 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+Chapter VI
+Meetings of the Committee
+18.
+Meetings of the committee.
+- A resolution professional may convene a meeting of the committee as and when he considers necessary, and shall
+convene a meeting if a request to that effect is made by members of the committee representing thirty-three per cent of
+the voting rights.
+19.
+Notice for meetings of the committee.
+(1)
+Subject to this Regulation, a meeting of the committee shall be called by giving not less than seven days' notice in
+writing to every creditor, delivered at the address he has provided to the resolution professional and such notice may be
+served by hand delivery, or by registered post but in any event, be served on every participant by electronic means in
+accordance with Regulation 20.
+(2)
+The committee may reduce the notice period from seven days to such other period of not less than twenty four hours, as
+it deems fit.
+20.
+Service of notice by electronic means.
+(1)
+A notice by electronic means may be sent to the participants through e-mail as a text or as an attachment to email or as
+a notification providing electronic link or Uniform Resource Locator for accessing such notice.
+(2)
+The subject line in e-mail shall state the name of the corporate debtor, the place, if any, the time and the date on which
+the meeting is scheduled.
+(3)
+If notice is sent in the form of a non-editable attachment to an e-mail, such attachment shall be in the Portable
+Document Format or in a non-editable format together with a 'link or instructions' for recipient for downloading relevant
+version of the software.
+(4)
+When notice or notifications of availability of notice are sent by an e-mail, the resolution professional shall ensure that it
+uses a system which produces confirmation of the total number of recipients e-mailed and a record of each recipient to
+whom the notice has been sent and copy of such record and any notices of any failed transmissions and subsequent
+re-sending shall be retained as "proof of sending".
+(5)
+The obligation of the resolution professional shall be satisfied when he transmits the e-mail and he shall not be held
+responsible for a failure in transmission beyond its control.
+(6)
+The notice made available on the electronic link or Uniform Resource Locator shall be readable, and the recipient should
+be able to obtain and retain copies and the resolution professional shall give the complete Uniform Resource Locator or
+address of the website and full details of how to access the document or information.
+(7)
+If a creditor, other than a member of the committee, fails to provide or update the relevant e-mail address to the
+resolution professional, the non-receipt of such notice by such participant of any meeting shall not invalidate the
+decisions taken at such meeting.
+21.
+Contents of the notice for meeting.
+(1)
+The notice shall inform the participants of the venue, the time and date of the meeting and of the option available to
+them to participate through video conferencing or other audio and visual means, and shall also provide all the necessary
+information to enable participation through such means.
+Page 9/28
+----- PAGE 10 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(2)
+The notice of the meeting shall provide that a creditor may attend and vote in the meeting either in person or through an
+authorised representative:
+Provided that such creditor shall inform the resolution professional, in advance of the meeting, of the identity of the
+authorised representative who will attend and vote at the meeting on its behalf.
+(3)
+The notice of the meeting shall contain an agenda of the meeting with the following-
+(i)
+a list of the matters to be discussed at the meeting;
+(ii)
+a list of the issues to be voted upon at the meeting; and
+(iii)
+copies of all documents relevant to the matters to be discussed and the issues to be voted upon at the meeting; and
+(4)
+The notice of the meeting shall-
+(a)
+state the process and the manner for voting and the time schedule, including the time period during which the votes may
+be cast:
+(b)
+provide the login ID and the details of a facility for generating password and for keeping security and casting of an
+electronic vote in a secure manner; and
+(c)
+provide contact details of the person who will address the queries connected with the voting.
+22.
+Quorum at the meeting.
+(1)
+A meeting of the committee shall be quorate if members of the committee representing at least thirty-three percent of the
+voting rights are present either in person or by video conferencing or other audio and visual means:
+Provided that the committee may modify the percentage of voting rights required for quorum in respect of any future
+meetings of the committee.
+(2)
+Where a meeting of the committee could not be held for want of quorum, unless the committee has previously decided
+otherwise, the meeting shall automatically stand adjourned at the same time and place on the next day.
+(3)
+In the event a meeting of the committee is adjourned in accordance with sub-regulation (2), the adjourned meeting shall
+be quorate with the members of the committee attending the meeting.
+23.
+Participation through video conferencing.
+(1)
+The notice convening the meetings of the committee shall provide the participants an option to attend the meeting
+through video conferencing or other audio and visual means in accordance with this Regulation.
+(2)
+The resolution professional shall make necessary arrangements to ensure uninterrupted and clear video or audio and
+visual connection.
+(3)
+The resolution professional shall take due and reasonable care-
+(a)
+to safeguard the integrity of the meeting by ensuring sufficient security and identification procedures;
+(b)
+to ensure availability of proper video conferencing or other audio and visual equipment or facilities for providing
+transmission of the communications for effective participation of the participants at the meeting;
+Page 10/28
+----- PAGE 11 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(c)
+to record proceedings and prepare the minutes of the meeting;
+(d)
+to store for safekeeping and marking the physical recording(s) or other electronic recording mechanism as part of the
+records of the corporate debtor;
+(e)
+to ensure that no person other than the intended participants attends or has access to the proceedings of the meeting
+through video conferencing or other audio and visual means; and
+(f)
+to ensure that participants attending the meeting through audio and visual means are able to hear and see, if applicable,
+the other participants clearly during the course of the meeting:
+Provided that the persons, who are differently abled, may make request to the resolution professional to allow a person
+to accompany him at the meeting.
+(4)
+Where a meeting is conducted through video conferencing or other audio and visual means, the scheduled venue of the
+meeting as set forth in the notice convening the meeting, which shall be in India, shall be deemed to be the place of the
+said meeting and all recordings of the proceedings at the meeting shall be deemed to be made at such place.
+24.
+Conduct of meeting.
+(1)
+The resolution professional shall act as the Chairperson of the meeting of the committee.
+(2)
+At the commencement of a meeting, the resolution professional shall take a roll call when every participant attending
+through video conferencing or other audio and visual means shall state, for the record, the following:-
+(a)
+his name;
+(b)
+whether he is attending in the capacity of a member of the committee or any other participant;
+(c)
+whether he is representing a member or group of members;
+(d)
+the location from where he is participating;
+(e)
+that he has received the agenda and all the relevant material for the meeting; and
+(f)
+that no one other than him is attending or has access to the proceedings of the meeting at the location of that person.
+(3)
+After the roll call, the resolution professional shall inform the participants of the names of all persons who are present for
+the meeting and confirm if the required quorum is complete.
+(4)
+The resolution professional shall ensure that the required quorum is present throughout the meeting.
+(5)
+From the commencement of the meeting till its conclusion, no person other than the participants and any other person
+whose presence is required by the resolution professional shall be allowed access to the place where meeting is held or
+to the video conferencing or other audio and visual facility, without the permission of the resolution professional.
+(6)
+The resolution professional shall ensure that minutes are made in relation to each meeting of the committee and such
+minutes shall disclose the particulars of the participants who attended the meeting in person, through video
+conferencing, or other audio and visual means.
+(7)
+The resolution professional shall circulate the minutes of the meeting to all participants by electronic means within
+Page 11/28
+----- PAGE 12 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+forty-eight hours of the said meeting.
+Chapter VII
+Voting by the Committee
+25.
+Voting by the committee.
+(1)
+The actions listed in section 28(1) shall be considered in meetings of the committee.
+(2)
+Any action other than those listed in section 28(1) may be considered in meetings of the committee.
+(3)
+The resolution professional may, at the meeting, take a vote of the members of the committee who are participating in
+the meeting on any item listed for voting after discussion on the same.
+(4)
+The resolution professional shall -
+(a)
+circulate the minutes of the meeting by electronic means to all members of the committee within forty-eight hours of the
+conclusion of the meeting; and
+(b)
+seek a vote on the matters listed for voting in the meeting from the members of the committee who did not participate in
+the meeting or did not vote at the meeting, if any, by electronic means or electronic voting system, where the voting shall
+be kept open for twenty-four hours from the circulation of the minutes.
+(5)
+At the end of the voting period, the electronic voting portal shall forthwith be blocked.
+(6)
+Once a vote on a resolution is cast by a member of the committee, such member shall not be allowed to change it
+subsequently.
+(7)
+The resolution professional shall within twenty four hours of the conclusion of the voting, or forty eight hours of the
+conclusion of the meeting if no electronic vote is required to be sought under this regulation, circulate by electronic
+means the decision of the committee on agenda items along with the names of the members of the committee who
+voted for or against the decision, or abstained from voting.
+Explanation. - For the purposes of these Regulations -
+(a)
+the expressions "voting by electronic means" and its grammatical variant or "electronic voting system" means a "secured
+system" based process of display of electronic ballots, recording of votes of the members of the committee and the
+number of votes polled in favour or against, such that the voting exercised by way of electronic means gets registered
+and counted in an electronic registry in a centralized server with adequate cyber security;
+(b)
+the expression "secured system" means computer hardware, software, and procedure that -
+(i)
+are reasonably secure from unauthorized access and misuse;
+(ii)
+provide a reasonable level of reliability and correct operation;
+(iii)
+are reasonably suited to perform the intended functions; and
+(iv)
+adhere to generally accepted security procedures.
+Chapter VIII
+Conduct of the Fast Track Process
+26.
+[ Appointment of registered valuer.
+Page 12/28
+----- PAGE 13 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+- The resolution professional shall within seven days of his appointment, appoint one registered valuer to determine the
+fair value and the liquidation value of the corporate debtor in accordance with Regulation 34.
+Provided that the following person shall not be appointed as registered valuers, namely.
+(a)
+a relative of the resolution professional;
+(b)
+a related party of the corporate debtor;
+(c)
+an auditor of the corporate debtor at any time during the five year preceding the insolvency commencement date; or
+(d)
+a partner or director of the insolvency professional entity of which the resolution professional is a partner or director.]
+27.
+Transfer of debt due to creditors.
+(1)
+In the event a creditor assigns or transfers the debt due to such creditor to any other person during the fast track
+process period, both parties shall provide the interim resolution professional or the resolution professional, as the case
+may be, the terms of such assignment or transfer and the identity of the assignee or transferee.
+(2)
+The resolution professional shall notify each creditor and the Adjudicating Authority of any resultant change in the
+committee within two days of such change.
+28.
+Sale of assets outside the ordinary course of business.
+(1)
+The resolution professional may sell unencumbered asset(s) of the corporate debtor, other than in the ordinary course of
+business, if he is of the opinion that such a sale is necessary for a better realisation of value under the facts and
+circumstances of the case:
+Provided that the book value of all assets sold during fast track process period in aggregate under this sub-regulation
+shall not exceed ten percent of the total claims admitted by the interim resolution professional.
+(2)
+A sale of assets under this Regulation shall require the approval of the committee.
+(3)
+A bona fide purchaser of assets sold under this Regulation shall have a free and marketable title to such assets
+notwithstanding the terms of the constitutional documents of the corporate debtor, shareholders' agreement, joint
+venture agreement or other document of a similar nature.
+29.
+Assistance of local district administration.
+- The interim resolution professional or the resolution professional, as the case may be, may make an application to the
+Adjudicating Authority for an order seeking the assistance of the local district administration in discharging his duties
+under the Code or these Regulations.
+Chapter IX
+Fast Track Process Costs
+30.
+Fast track process costs.
+- "Fast track process costs" shall mean -
+(a)
+the amount of any interim finance and the costs incurred in raising such finance;
+(b)
+the fees payable to any person acting as a resolution professional;
+(c)
+any costs incurred by the resolution professional in running the business of the corporate debtor as a going concern;
+Page 13/28
+----- PAGE 14 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(d)
+any costs incurred at the expense of the Government to facilitate the process;
+(e)
+amounts due to suppliers of essential goods and services under Regulation 31;
+(f)
+amounts due to a person whose rights are pre-judicially affected on account of the moratorium imposed under section
+14(1)(d);
+(g)
+expenses incurred on or by the interim resolution professional to the extent ratified under Regulation 32;
+(h)
+expenses incurred on or by the resolution professional fixed under Regulation 33; and
+(i)
+other costs directly relating to the fast track process and approved by the committee.
+31.
+Essential supplies.
+- The essential goods and services referred to in section 14(2) shall mean-
+(a)
+electricity;
+(b)
+water;
+(c)
+telecommunication services; and
+(d)
+information technology services, to the extent these are not a direct input to the output produced or supplied by the
+corporate debtor.
+Illustration - Water supplied to a corporate debtor will be essential supplies for drinking and sanitation purposes, and not
+for generation of hydro-electricity.
+32.
+Costs of the interim resolution professional.
+(1)
+The applicant shall fix the expenses to be incurred on or by the interim resolution professional.
+(2)
+The Adjudicating Authority shall fix expenses where the applicant has not fixed expenses under sub-regulation (1).
+(3)
+The applicant shall bear the expenses which shall be reimbursed by the committee to the extent it ratifies.
+(4)
+The amount of expenses ratified by the committee shall be treated as fast track process costs.
+Explanation. - For the purposes of this Regulation, "expenses" means the fee to be paid to the interim resolution
+professional and other expenses, including the cost of engaging professional advisors, to be incurred by the interim
+resolution professional.
+33.
+Resolution professional costs.
+- The committee shall fix the expenses to be incurred on or by the resolution professional and the expenses shall
+constitute fast track process costs.
+Explanation. - For the purposes of this Regulation, "expenses" mean the fee to be paid to the resolution professional
+and other expenses, including the cost of engaging professional advisors, to be incurred by the resolution professional.
+Chapter X
+Resolution Plan
+34.
+[ Fair value and Liquidation value.
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+Page 14/28
+----- PAGE 15 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(1)
+The registered valuer appointed under regulation 26 shall submit to the resolution professional an estimate of the fair
+value and of the liquidation value computed in accordance with internationally accepted valuation standards, after
+physical verification of the inventory and fixed assets of the corporate debtor.
+(2)
+After the receipt of resolution plans in accordance with the Code and these regulations the resolution professional shall
+provide  the fair value and the liquidation value to every member of the committee in electronic form, on receiving and
+undertaking from the member to the effect that such member shall maintain confidentially of the fair value and the
+liquidation value and shall not use such values to cause an undue gain or undue loss to itself or any other person and
+comply with the requirements under sub-section (2) of the section 29.
+The resolution professional and registered valuer shall maintain the confidentiality of the fair value and the liquidation
+value.]
+35.
+Information memorandum.
+- [(1) Subject to sub-regulation (4), the resolution professional shall submit the information memorandum in electronic
+form to-
+(a)
+each member of the committee within two weeks of his appointments as resolution professional; and
+(b)
+each prospective resolution applicant latest by the date of invitation of resolution plan under clause (h) of sub-section (2)
+of section 25 of the code.]
+(2)
+The information memorandum shall contain the following details of the corporate debtor-
+(a)
+[ assets and liabilities with such description, as on the insolvency commencement date, as are generally necessary for
+ascertaining their values;
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+Explanation. - 'Description' includes the details such as date of acquisition cost of acquisition, remaining useful life,
+identification number, depreciation charges, book value and any other relevant details.]
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+(b)
+the latest annual financial statements;
+(c)
+audited financial statements of the corporate debtor for the last two financial years and provisional financial statements
+for the current financial year made up to a date not earlier than fourteen days from the date of the application;
+(d)
+a list of creditors containing the names of creditors, the amounts claimed by them, the amount of their claims admitted
+and the security interest, if any, in respect of such claims;
+(e)
+particulars of a debt due from or to the corporate debtor with respect to related parties;
+(f)
+details of guarantees that have been given in relation to the debts of the corporate debtor by other persons, specifying
+which of the guarantors is a related party;
+(g)
+the names and addresses of the members or partners holding at least one per cent stake in the corporate debtor along
+with the size of stake;
+(h)
+details of all material litigation and an ongoing investigation or proceeding initiated by Government and statutory
+authorities;
+(i)
+the number of workers and employees and liabilities of the corporate debtor towards them;
+Page 15/28
+----- PAGE 16 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(j)
+[ ***]
+[Omitted by Notification No. IBBI/2017-18/GN/REG23, dated 31.12.2017 (w.e.f. 14.6.2017)]
+(k)
+[ ***]
+[Omitted by Notification No. IBBI/2017-18/GN/REG23, dated 31.12.2017 (w.e.f. 14.6.2017)]
+(l)
+other information, which the resolution professional deems relevant to the committee.
+(3)
+A member of the committee may request the resolution professional for further information of the nature described in this
+regulation and the resolution professional shall provide such information to all members within reasonable time if such
+information has a bearing on the resolution plan.
+(4)
+[ The resolution professional shall share the information memorandum after receiving an undertaking from a member of
+the committee or a prospective resolution applicant to the effect that such member or resolution applicant shall maintain
+confidentiality of the information and shall not use such information to cause and undue gain or undue loss to itself or
+any other person and comply with the requirements under sub-section (2) of section 29.]
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+35A.
+[ Invitation of Resolution Plans.
+[Inserted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+(1)
+The resolution professional shall issue an invitation, including evaluation matrix, to the prospective resolution applicants
+in accordance with clause (h) of sub-section (2) of section 25 to submit resolution plans at least fifteen days before the
+last date of submission of resolution plans.
+(2)
+Where the invitation does not contain the evaluation matrix the resolution professional shall issue with the approval of
+the committee the evaluation matrix to the prospective resolution applicants at least eight days before the last date for
+submission of resolution plans.
+(3)
+The resolution professional may modify the invitation, the evaluation matrix or both with the approval of the committee
+within the timelines given under sub-regulation(1) or sub-regulation (2) as the case may be.
+(4)
+The timelines specified under this regulation shall not apply to an ongoing fast track corporate insolvency resolution
+process-
+(a)
+where a period of less than twenty-two days is left for submission of resolution plans under sub-regulation (1);
+(b)
+where a period of less than eleven days is left for submission of submission of resolution plans under sub-regulation (2).
+(5)
+The resolution professional shall publish brief particulars of the invitation in Form G of the Schedule:
+(a)
+on the website, if any, of the corporate debtor; and
+(b)
+on the website, if any designated by the Board for the purpose.]
+36.
+[ Resolution plan.
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+(1)
+A resolution plan shall provide for the measures,as may be necessary for insolvency resolution of the corporate debtor
+for maximization of value of its assets, including but not limited to the following-
+Page 16/28
+----- PAGE 17 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(a)
+transfer of all or part of the assets of the corporate debtor to one or more persons;
+(b)
+sale of all or part of the assets whether subject to any security interest or not;
+(c)
+the substantial acquisition of shares of the corporate debtor, or the merger or consolidation of the corporate debtor with
+one or more persons;
+(d)
+satisfaction or modification of any security interest;
+(e)
+curing or waiving of any breach of the terms of any debt due from the corporate debtor;
+(f)
+reduction in the amount payable to the creditors;
+(g)
+extension of a maturity date or a change in interest rate or other terms of a debt due from the corporate debtor;
+(h)
+amendment of the constitutional documents of the corporate debtor;
+(i)
+issuance of securities of the corporate debtor, for cash, property, securities, or in exchange for claims or interests, or
+other appropriate purpose; and
+(j)
+change in portfolio of goods or services produced or rendered by the corporate debtor;
+(k)
+change in technology used by the corporate debtor; and
+(l)
+obtaining necessary approvals from the Central and State Government and other authorities.]
+37.
+Mandatory contents of the resolution plan.
+(1)
+A resolution plan shall identify specific sources of funds that will be used to pay the -
+(a)
+fast track process costs and provide that the fast track process costs will be paid in priority to any other creditor;
+(b)
+liquidation value due to operational creditors and provide for such payment in priority to any financial creditor which shall
+in any event be made before the expiry of thirty days after the approval of a resolution plan by the Adjudicating Authority;
+and
+(c)
+liquidation value due to dissenting financial creditors and provide that such payment is made before any recoveries are
+made by the financial creditors who voted in favour of the resolution plan.
+(1A)
+[ A resolution plan shall include a statement as to how it has dealt with the interests of all stakeholders, including
+financial creditors and operational creditors, of the corporate debtor]
+[Inserted by Notification No. IBBI/2017-18/GN/REG017, dated 5.10.2017 (w.e.f. 14.6.2017)]
+(2)
+A resolution plan shall provide:
+(a)
+the term of the plan and its implementation schedule;
+(b)
+the management and control of the business of the corporate debtor during its term; and
+(c)
+adequate means for supervising its implementation.
+Page 17/28
+----- PAGE 18 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+(3)
+[ A resolution plan shall contain details of the resolution applicant and other connected persons to enable the committee
+to assess the credibility of such applicant and other connected persons to take a prudent decision while considering the
+resolution plan for its approval.
+Explanation. - For the purposes of this sub-regulation,-
+(i)
+'details' shall include the following in respect of the resolution applicant and other connected persons, namely:-
+(a)
+identity;
+(b)
+conviction for any offence , if any, during the preceding five years;
+(c)
+criminal proceedings pending, if any;
+(d)
+disqualification, if any, under Companies Act, 2013, to act as a director;
+(e)
+identification as a willful defaulter, if any, by any bank or financial institution or consortium thereof in accordance with the
+guidelines of the Reserve Bank of India;
+(f)
+debarment, if any, from accessing to, or trading in, securities markets under any order or directions of the Securities and
+Exchange Board of India,; and
+(g)
+transactions, if any, with the corporate debtor in the preceding two years.
+(ii)
+the expression 'connected persons' means-
+(a)
+persons who are promoters or in the management or control of the resolution applicant;
+(b)
+persons who will be promoters or in management or control of the business of the corporate debtor during the
+implementation of the resolution plan;
+(c)
+holding company, subsidiary company, associate company and related party of the persons referred to in items (a) and
+(b).]
+38.
+Approval of resolution plan.
+- (1) A resolution applicant shall submit resolution plan(s) prepared in accordance with the Code and these regulations
+to the resolution professional within the time given in the invitation made under clause (h) of sub-section (2) of section
+25.]
+[Substituted by Notification No. IBBI/2017-18/GN/REG23, dated 31.12.2017 (w.e.f. 14.6.2017)[]
+(2)
+[ The resolution professional shall submit to the committee all resolution plans which comply with the requirements of the
+Code and regulations made thereunder along with the details of following transactions, if any, observed, found or
+determined by him:-
+(a)
+preferential transactions under section 43;
+(b)
+undervalued transactions under section 45;
+(c)
+extortionate credit transactions under section 50; and
+(d)
+fraudulent transactions under section 66,
+Page 18/28
+----- PAGE 19 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+and the orders, if any, of the adjudicating authority in respect of such transactions.]
+[Substituted by Notification No. IBBI/2017-18/GN/REG020, dated 7.11.2017 (w.e.f. 14.6.2017)]
+(3)
+The committee may approve any resolution plan with such modifications as it deems fit.
+(3A)
+[ The committee shall, while approving the resolution plan under sub-section (4) of section 30, specify the amount
+payable from resources under the resolution plan for the purposes under sub-regulation (1) of regulation 37.]
+[Inserted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+(4)
+[ The resolution professional shall submit the resolution plan approved by the committee to the Adjudicating Authority, at
+least fifteen days before the expiry of the maximum period permitted under section 56 for the completion of the fast track
+corporate insolvency resolution process, with the certification that -
+(a)
+the contents of the resolution plan meet all the requirements of the Code and the Regulations; and
+(b)
+the resolution plan has been approved by the committee.
+Provided that the timeline specified in this sub-regulation shall not apply to an ongoing fast track corporate insolvency
+resolution process which has completed 50th day from its commencement date.]
+[Substituted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+(5)
+The resolution professional shall forthwith send a copy of the order of the Adjudicating Authority approving or rejecting a
+resolution plan to the participants and the resolution applicant.
+(6)
+A provision in a resolution plan which would otherwise require the consent of the members or partners of the corporate
+debtor, as the case may be, under the terms of the constitutional documents of the corporate debtor, shareholders'
+agreement, joint venture agreement or other document of a similar nature, shall take effect notwithstanding that such
+consent has not been obtained.
+(7)
+No proceedings shall be initiated against the interim resolution professional or the resolution professional, as the case
+may be, for any actions of the corporate debtor, prior to the fast track commencement date.
+(8)
+A person in charge of the management or control of the business and operations of the corporate debtor after a
+resolution plan is approved by the Adjudicating Authority, may make an application to the Adjudicating Authority for an
+order seeking the assistance of the local district administration in implementing the terms of a resolution plan.
+39.
+Extension of the fast track process period.
+(1)
+The committee is of the opinion that the fast track process cannot be completed within the stipulated 90 days, it may
+instruct the resolution professional to make an application to the Adjudicating Authority under section 56 to extend the
+fast track process period.
+(2)
+The resolution professional shall, on receiving an instruction from the committee under this Regulation, make an
+application to the Adjudicating Authority for such extension.
+(Schedule)
+Form A
+Public Announcement
+(Under Regulation 6 of the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for
+Corporate Persons) Regulations, 2017)
+For the Attention of the Creditors of [Name of Corporate Debtor]
+Relevant Particulars
+1.
+Page 19/28
+----- PAGE 20 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+Name of Corporate Debtor
+2.
+Date of Incorporation of Corporate Debtor
+3.
+Authority under which Corporate Debtor is
+Incorporated / Registered
+4.
+Corporate Identity Number / Limited Liability
+Identification Number of Corporate Debtor
+5.
+Address of the Registered Office and Principal
+office (if any) of Corporate Debtor
+6.
+Fast Track Commencement Date in Respect of
+Corporate Debtor
+7.
+Estimated Date of Closure of Fast Track Process
+8.
+Name, Address, Email Address and the
+Registration Number of the Interim Resolution Professional
+9.
+Last Date for Submission of Claims
+Notice is hereby given that the National Company Law Tribunal has ordered the commencement of a fast track process
+against the [name of the corporate debtor] on [fast track commencement date].
+The creditors of [name of the corporate debtor], are hereby called upon to submit a proof of their claims on or before
+[insert the date falling ten days from the appointment of the interim resolution professional] to the interim resolution
+professional at the address mentioned against item 8.
+[The financial creditors shall submit their proof of claims by electronic means only. All other creditors may submit the
+proof of claims in person, by post or by electronic means]
+[Substituted by Notification No. IBBI/2017-18/GN/REG 014, dated 16.8.2017 (w.e.f. 14.6.2017)]
+Submission of false or misleading proofs of claim shall attract penalties.
+Name and Signature of Interim Resolution Professional :
+Date and Place
+(Schedule)
+Form B
+Proof of Claim by Operational Creditors Except Workmen and Employees
+(Under Regulation 7 of the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for
+Corporate Persons) Regulations, 2017)
+[Date]
+To
+The Interim Resolution Professional / Resolution Professional
+[Name of the Insolvency Resolution Professional / Resolution Professional]
+[Address as set out in public announcement]
+From
+[Name and address of the operational creditor]
+Subject: Submission of proof of claim.
+Madam/Sir,
+[Name of the operational creditor], hereby submits this proof of claim in respect of the fast track process in the case of
+[name of corporate debtor]. The details for the same are set out below:
+Particulars
+1.
+Page 20/28
+----- PAGE 21 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+Name of Operational Creditor
+2.
+Identification number of Operational Creditor(If an incorporated body provide identification number and proof of
+incorporation. If a partnership or individual provide identification records* of all the partners of the individual)
+3.
+Address and Email Address of Operational Creditor for Correspondence
+4.
+Total Amount of Claim(Including any interest as at the fast track commencement date)
+5.
+Details of Documents by Reference to which the Debt can be substantiated
+6.
+Details of any dispute as well as the record of pendency or order of suit or arbitration proceedings
+7.
+Details of how and when debt incurred
+8.
+Details of any Mutual Credit, Mutual Debts, or other Mutual Dealing between the corporate debtor and the creditor which
+may be set-off against the claim
+9.
+Details of any retention of title arrangements in respect of goods or properties to which the claim refers
+10.
+Details of the Bank Account to which the amount of the claim or any part thereof can be transferred pursuant to a
+resolution plan
+11.
+List of Documents attached to this proof of claim in order to prove the existence and non-payment of claim due to the
+operational creditor
+Signature of operational creditor or person authorised to act on his behalf[Please enclose the authority if this is being
+submitted on behalf of an operational creditor]
+Name in Block Letters
+Position with or in relation to creditor
+Address of person signing
+*PAN number, passport, AADHAAR Card or the identity card issued by the Election Commission of India
+(Schedule)
+Affidavit
+I, [name of deponent], currently residing at [insert address], do solemnly affirm and state as follows:
+1. [Name of corporate debtor], the corporate debtor was, at the fast track commencement date, being the __________
+day of __________ 20__, justly and truly indebted to me in the sum of Rs. [insert amount of claim].
+2. In respect of my claim of the said sum or any part thereof, I have relied on the documents specified below:
+[Please list the documents relied on as evidence of claim]
+3. The said documents are true, valid and genuine to the best of my knowledge, information and belief.
+4. In respect of the said sum or any part thereof, I have not nor has any person, by my order, to my knowledge or belief,
+for my use, had or received any manner of satisfaction or security whatsoever, save and except the following:
+[Please state details of any mutual credit, mutual debts, or other mutual dealings between the corporate debtor and the
+creditor which may be set-off against the claim.]
+Solemnly, affirmed at [insert place] on _________________ day, the __________day of__________ 20_____
+Before me,
+Notary/ Oath Commissioner
+Deponent's Signature
+Verification
+I, the Deponent hereinabove, do hereby verify and affirm that the contents of paragraph ___ to __of this affidavit are true
+and correct to my knowledge and belief and no material facts have been concealed therefrom.
+Verified at ______ on this _____ day of ____ 201__
+Page 21/28
+----- PAGE 22 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+Deponent's Signature
+(Schedule)
+Form C
+Proof Of Claim By Financial Creditors
+(Under Regulation 8 of the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for
+Corporate Persons) Regulations, 2017)
+[Date]
+To
+The Interim Resolution Professional / Resolution Professional,
+[Name of the Insolvency Resolution Professional / Resolution Professional]
+[Address as set out in public announcement]
+From
+[Name and address of the registered office and principal office of the financial creditor]
+Subject: Submission of proof of claim.
+Madam/Sir,
+[Name of the financial creditor], hereby submits this proof of claim in respect of the fast track process in the case of
+[name of corporate debtor]. The details for the same are set out below:
+Particulars
+1.
+Name of Financial Creditor
+2.
+Identification number of Financial Creditor(If an incorporated body provide identification number and proof of
+incorporation. If a partnership or individual provide identification records* of all the partners of the individual)
+3.
+Address and Email Address of Financial Creditor for Correspondence
+4.
+Total Amount of Claim(Including any interest as at the fast track commencement date)
+5.
+Details of Documents by Reference to which the Debt can be substantiated
+6.
+Details of how and when debt incurred
+7.
+Details of any Mutual Credit, Mutual Debts, or other Mutual Dealing between the corporate debtor and the creditor which
+may be set-off against the claim
+8.
+Details of any security held the value of the security and the date it was given
+9.
+Details of the Bank Account to which the amount of the claim or any part thereof can be transferred pursuant to a
+resolution plan
+10.
+List of Documents attached to this proof of claim in order to prove the existence and non-payment of claim due to the
+operational creditor
+Signature of financial creditor or person authorised to act on his behalf[Please enclose the authority if this is being
+submitted on behalf of an financial creditor]
+Name in Block Letters
+Position with or in relation to creditor
+Address of person signing
+*PAN number, passport, AADHAAR Card or the identity card issued by the Election Commission of India.
+Affidavit
+I, [Name of deponent], currently residing at [insert address], do solemnly affirm and state as follows:
+1. [Name of corporate debtor], the corporate debtor was, at the fast track commencement date, being the __________
+Page 22/28
+----- PAGE 23 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+day of __________ 20__, justly and truly indebted to me in the sum of Rs. [insert amount of claim].
+2. In respect of my claim of the said sum or any part thereof, I have relied on the documents specified below:
+[Please list the documents relied on as evidence of claim]
+3. The said documents are true, valid and genuine to the best of my knowledge, information and belief.
+4. In respect of the said sum or any part thereof, I have not nor has any person, by my order, to my knowledge or belief,
+for my use, had or received any manner of satisfaction or security whatsoever, save and except the following:
+[Please state details of any mutual credit, mutual debts, or other mutual dealings between the corporate debtor and the
+creditor which may be set-off against the claim.]
+Solemnly, affirmed at [insert place] on _________________ day, the __________day of__________ 20_____
+Before me,
+Notary/ Oath Commissioner
+Deponent's Signature
+Verification
+I, the Deponent hereinabove, do hereby verify and affirm that the contents of paragraph ___ to __of this affidavit are true
+and correct to my knowledge and belief and no material facts have been concealed therefrom.
+Verified at ______ on this _____ day of ____ 201__
+Deponent's Signature
+(Schedule)
+Form D
+Proof of Claim by a Workman or an Employee
+(Under Regulation 9 of the Insolvency and Bankruptcy (Fast Track Insolvency Resolution Process for Corporate
+Persons) Regulations, 2017)
+[Date]
+To
+The Interim Resolution Professional / Resolution Professional
+[Name of the Insolvency Resolution Professional / Resolution Professional]
+[Address as set out in public announcement]
+From
+[Name and address of the workman / employee]
+Subject: Submission of proof of claim.
+Madam/Sir,
+[Name of the workman / employee], hereby submits this proof of claim in respect of the fast track process in the case of
+[name of corporate debtor]. The details for the same are set out below:
+Particulars
+1.
+Name of Workman Creditor
+2.
+Pan Number, Passport, Identity Card, issued by the election commission of India or Aadhaar Card of workman/
+employee
+3.
+Address and Email Address (if any) of workman/ employee for Correspondence
+4.
+Total Amount of Claim(Including any interest as at the fast track commencement date)
+5.
+Details of Documents by Reference to which the claim can be substantiated
+6.
+Details of any dispute as well as the record of pendency or order of suit or arbitration proceedings
+7.
+Details of how and when claim arose
+8.
+Details of any mutual credit, mutual debts, or other mutual dealing between the corporate debtor and the creditor which
+Page 23/28
+----- PAGE 24 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+may be set-off against the claim
+9.
+Details of the Bank Account to which the amount of the claim or any part thereof can be transferred pursuant to a
+resolution plan
+10.
+List of Documents attached to this proof of claim in order to prove the existence and non-payment of claim due to the
+operational creditor
+Signature of workman/ employee or person authorised to act on his behalf[Please enclose the authority if this is being
+submitted on behalf of an financial creditor]
+Name in Block Letters
+Position with or in relation to creditor
+Address of person signing
+Affidavit
+I, [name of deponent], currently residing at [insert address], do solemnly affirm and state as follows:
+1. [Name of corporate debtor], the corporate debtor was, at the fast track commencement date, being the __________
+day of __________ 20__, justly and truly indebted to me in the sum of Rs. [insert amount of claim].
+2. In respect of my claim of the said sum or any part thereof, I have relied on the documents specified below:
+[Please list the documents relied on as evidence of claim]
+3. The said documents are true, valid and genuine to the best of my knowledge, information and belief.
+4. In respect of the said sum or any part thereof, I have not nor has any person, by my order, to my knowledge or belief,
+for my use, had or received any manner of satisfaction or security whatsoever, save and except the following:
+[Please state details of any mutual credit, mutual debts, or other mutual dealings between the corporate debtor and the
+creditor which may be set-off against the claim.]
+Solemnly, affirmed at [insert place] on _________________ day, the __________day of__________ 20_____
+Before me,
+Notary/ Oath Commissioner
+Deponent's Signature
+Verification
+I, the Deponent hereinabove, do hereby verify and affirm that the contents of paragraph ___ to __of this affidavit are true
+and correct to my knowledge and belief and no material facts have been concealed therefrom.
+Verified at ______ on this _____ day of ____ 201__
+Deponent's Signature
+(Schedule)
+Form E
+Proof of Claim Submitted by Authorised Representative of Workmen and Employees
+(Under Regulation 9 of the Insolvency and Bankruptcy (Fast Track Insolvency Resolution Process for Corporate
+Persons) Regulations, 2017)
+[Date]
+To
+The Interim Resolution Professional / Resolution Professional,
+[Name of the Insolvency Resolution Professional / Resolution Professional]
+[Address as set out in public announcement]
+From
+[Name and address of the duly authorised representative of the workmen / employees]
+Subject: Submission of proofs of claim.
+Madam/Sir,
+I, [name of authorised representative of the workmen / employees], currently residing at [address of authorised
+representative of the workmen / employees], on behalf of the workmen and employees employed by the above named
+corporate debtor and listed in Annexure A, solemnly affirm and say:
+1. That the above named corporate debtor was, at the fast track commencement date, being the ________ day of
+______ 20 ___, justly truly indebted to the several persons whose names, addresses, and descriptions appear in the
+Page 24/28
+----- PAGE 25 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+Annexure A below in amounts severally set against their names in such Annexure A for wages, remuneration and other
+amounts due to them respectively as workmen or/ and employees in the employment of the corporate debtor in respect
+of services rendered by them respectively to the corporate debtor during such periods as are set out against their
+respective names in the said Annexure A.
+2. That for which said sums or any part thereof, they have not, nor has any of them, had or received any manner of
+satisfaction or security whatsoever, save and except the following:
+[Please state details of any mutual credit, mutual debts, or other mutual dealings between the corporate debtor and the
+creditor which may be set-off against the claim.]
+Deponent
+Annexure
+1. Details of Employees/ Workmen
+S No.
+Name if Employee/ Workman
+Identification Number (Pan Number, Passport or
+Aadhaar Card)
+Total Amount Due (Rs.)
+Period over which amount due
+1.
+2.
+3.
+4.
+2. Particulars of how debt was incurred by the corporate debtor, including particulars of any dispute as well as the record
+of pendency of suit or arbitration proceedings (if any).
+3. Particulars of any mutual credit, mutual debts, or other mutual dealings between the corporate debtor and the creditor
+which may be set-off against the claim.
+Attachments:
+(a)
+Documents relied as evidence as proof of debt and as proofs of non-payment of debt.
+(b)
+Affidavit in the form set out in this Form E.
+Affidavit
+[Please Submit if Application Submitted by Authorised Representative on behalf of Workmen / Employees]
+I, [name of deponent], currently residing at [insert address], do solemnly affirm and state as follows:
+1. [Name of corporate debtor], the corporate debtor was, at the fast track commencement date, being the __________
+day of __________ 20__, justly and truly indebted to me in the sum of Rs. [insert amount of claim].
+2. In respect of my claim of the said sum or any part thereof, I have relied on the documents specified below:
+[Please list the documents relied on as evidence of claim]
+3. The said documents are true, valid and genuine to the best of my knowledge, information and belief.
+4. In respect of the said sum or any part thereof, I have not nor has any person, by my order, to my knowledge or belief,
+for my use, had or received any manner of satisfaction or security whatsoever, save and except the following:
+[Please state details of any mutual credit, mutual debts, or other mutual dealings between the corporate debtor and the
+creditor which may be set-off against the claim.]
+Solemnly, affirmed at [insert place] on _________________ day, the __________day of__________ 20_____.
+Before me,
+Notary/ Oath Commissioner
+Deponent's Signature
+Verification
+I, the Deponent hereinabove, do hereby verify and affirm that the contents of paragraph ___ to __of this affidavit are true
+and correct to my knowledge and belief and no material facts have been concealed therefrom.
+Verified at ______ on this _____ day of ____ 201__.
+Deponent's Signature
+Page 25/28
+----- PAGE 26 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+[Form F]
+[Inserted by Notification No. IBBI/2017-18/GN/REG 014, dated 16.8.2017 (w.e.f. 14.6.2017)]
+Proof of Claims by Creditors (other than financial creditors and operational creditors)
+(Under Regulation 9-A of the Insolvency and Bankruptcy Board of India (Fast track Insolvency Resolution Process for
+Corporate Persons) Regulations, 2017)
+[Date]
+To
+The Interim Resolution Professional / Resolution Professional,
+[Name of the Insolvency Resolution Professional / Resolution Professional]
+[Address as set out in public announcement]
+From
+[Name and address of the creditor]
+Subject: Submission of proofs of claim.
+Madam/Sir,
+I, [name of creditor], hereby submit the following proof of claim in respect of the corporate insolvency resolution process
+in the case of [name of corporate debtor]. The details of the same are set out below:
+Particulars
+1.
+Name of Creditor
+2.
+Identification number of the creditor(If an incorporated body corporate, provide identification number and proof of
+incorporation. If a partnership or individual, provide identification* record of all partner or the individuals)
+3.
+Address and Email Address of the creditor for correspondence
+4.
+Description of the claim (Including the amount of the claim as at the insolvency commencement date)
+5.
+Details of Documents by Reference to which the claim can be substantiated
+6.
+Details of how and when the claim arose
+7.
+Details of any mutual credit, mutual debts, or other mutual dealing between the corporate debtor and the creditor which
+may be set-off against the claim
+8.
+Details of:a. any security held the value of security and its date, orb. retention title arrangement in respect of goods or
+properties to which the claim refers
+9.
+Details of the Bank Account to which the amount of the claim or any part thereof can be transferred pursuant to a
+resolution plan
+10.
+List of Documents attached to this proof of claim in order to prove the existence and non-satisfaction of claim due to the
+creditor
+Signature of the creditor or any person authorised to act on his behalf[Please enclose the authority if this is being
+submitted on behalf of an creditor]
+Name in Block Letters
+Position with or in relation to the creditor
+Address of person signing
+* PAN, Passport, Aadhaar or the identity card issued by the Election Commission of India.
+Affidavit
+I, [name of deponent], currently residing at [insert address], do solemnly affirm and state as follows:
+1. [Name of corporate debtor], the corporate debtor was, at the insolvency commencemnt date, being the __________
+Page 26/28
+----- PAGE 27 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+day of __________ 20__, justly and truly indebted to me for the claim, the value of which amount to Rupees. [insert
+amount of claim].
+2. In respect of my claim, I have relied on the documents specified below:
+[Please list the documents relied on as evidence of claim]
+3. The said documents are true, valid and genuine to the best of my knowledge, information and belief.
+4. In respect of the claim, I have not nor has any person, by my order, to my knowledge or belief, for my use had or
+received any manner of satisfaction or security whatsover, save and except the following (if any):
+[Please state details of any mutual credit, mutual debts, or other mutual dealings between the corporate debtor and the
+creditor which may be set-off against the claim.]
+Solemnly, affirmed at [insert place] on _________________ day, the __________day of__________ 20_____.
+Before me,
+Notary/ Oath Commissioner
+Deponent's Signature
+Verification
+I, the Deponent hereinabove, do hereby verify and affirm that the contents of paragraph ___ to __of this affidavit are true
+and correct to my knowledge and belief and no material facts have been concealed therefrom.
+Verified at ______ on this _____ day of ____ 201__.
+Deponent's Signature
+[Form G]
+[Inserted by Notification No. IBBI/2017-18/GN/REG 025, dated 7.2.2018 (w.e.f. 14.6.2017)]
+Invitation of Resolution Plan
+(Under sub-regulation (5) of regulation 35A of the Insolvency and Bankruptcy Board of India (Fast track Insolvency
+Resolution Process for Corporate Persons) Regulations, 2017)
+For the attention of the prospective resolution applicants of (Name of Corporate Debtor)
+Sl No.
+Particulars
+1.
+Name of Corporate Debtor
+2.
+Date of Incorporation of Corporate Debtor
+3.
+Authority under which Corporate Debtor is
+Incorporated / Registered
+4.
+Corporate Identity Number / Limited Liability
+Identification Number of Corporate Debtor
+5.
+Address of the Registered Office and Principal
+office (if any) of Corporate Debtor
+6.
+Fast Track  Insolvency Commencement Date in Respect of
+Corporate Debtor
+7.
+Estimated Date of Closure of Fast Track Insolvency Resolution Process
+8.
+Date of Issue of Information memorandum
+9.
+Manner of obtaining the information memorandum by the prospective resolution applicant
+10.
+Date of issue of invitation for resolution plans
+11.
+Page 27/28
+----- PAGE 28 -----
+Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Cor...
+Manner of Obtaining the invitation by the prospective resolution applicant
+12.
+Date of issue of evaluation matrix
+Signature of Resolution Professional
+For................ (Name of Corporate Debtor)
+Date and Place.........
+[Inserted by Notification No. IBBI/2017-18/GN/REG020, dated 7.11.2017 (w.e.f. 14.6.2017)]
+Related AI tags, queries and research notes
+Translation
+Page 28/28

@@ -1,0 +1,1382 @@
+
+----- PAGE 1 -----
+Nidhi Rules, 2014
+Nidhi Rules, 2014
+Source: https://indiankanoon.org/doc/111049496/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Nidhi Rules, 2014
+UNION OF INDIA
+India
+Nidhi Rules, 2014
+Rule NIDHI-RULES-2014 of 2014
+Published on 31 March 2014
+Commenced on 31 March 2014
+[This is the version of this document from 31 March 2014.]
+[Note: The original publication document is not available and this content could not be verified.]
+Nidhi Rules, 2014
+Published vide Notification No. G.S.R. 258(E), dated 31.3.2014
+Last Updated 17th February, 2020
+Government of India
+Ministry of Corporate Affairs
+G.S.R. 258(E). - In exercise of the powers conferred under sub-section (1) of section 406 read with sub-sections (1) and
+(2) of 469 of the Companies Act, 2013, the Central Government hereby makes the following rules, namely: -
+1.
+Short title and commencement.
+(1)
+These Rules may be called Nidhi Rules, 2014.
+Page 1/26
+----- PAGE 2 -----
+Nidhi Rules, 2014
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Application.
+- These rules shall apply to, -
+(a)
+every company which had been declared as a Nidhi or Mutual Benefit Society under sub-section (1) of section 620A of
+the Companies Act, 1956;
+(b)
+every company functioning on the lines of a Nidhi company or Mutual Benefit Society but has either not applied for or
+has applied for and is awaiting notification to be a Nidhi or Mutual Benefit Society under sub-section (1) of section 620A
+of the Companies Act, 1956; and
+(c)
+every company incorporated as a Nidhi pursuant to the provisions of section 406 of the Act.
+(d)
+[ every company declared as Nidhi or Mutual Benefit Society under sub-section (1) of section 406 of the Act]
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+3.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Companies Act, 2013 (
+18 of 2013
+);
+(b)
+"Doubtful Asset" means a borrowal account which has remained a nonperforming asset for more than two years but less
+than three years;
+(c)
+"Loss Asset" means a borrowal account which has remained a nonperforming asset for more than three years or where
+in the opinion of the Board, a shortfall in the recovery of the loan account is expected because the documents executed
+may become invalid if subjected to legal process or for any other reason;
+(d)
+"Net Owned Funds" means the aggregate of paid up equity share capital and free reserves as reduced by accumulated
+losses and intangible assets appearing in the last audited balance sheet:
+Provided that the amount representing the proceeds of issue of preference shares shall not be included for calculating
+Net Owned Funds.
+(da)
+[ "Nidhi" means a company which has been incorporated as a Nidhi with the object of cultivating the habit of thrift and
+savings amongst its members, receiving deposits from, and lending to, its members only, for their mutual benefit, and
+which complies with the rules made by the Central Government for regulation of such class of companies.]
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+(e)
+"Non-Performing Asset" means a borrowal account in respect of which interest income or instalment of loan towards
+repayment of principal amount has remained unrealised for twelve months;
+(f)
+"Standard Asset" means the asset in respect of which no default in repayment of principal or payment of interest has
+occurred or is perceived and which has neither shown signs of any problem relating to repayment of principal sum or
+interest nor does it carry more than normal risk attached to the business;
+(g)
+"Sub-Standard Asset" means a borrowal account which is a non performing asset:
+Page 2/26
+----- PAGE 3 -----
+Nidhi Rules, 2014
+Provided that reschedulement or renegotiation or rephasement of the loan instalment or interest payment shall not
+change the classification of an asset unless the borrowal account has satisfactorily performed for at least twelve months
+after such reschedulement or renegotiation or rephasement.
+(2)
+Words and expressions used herein, but not defined in these rules and defined in the Act or in the Companies
+(Specification of definitions details) Rules, 2014 shall have the same meaning as assigned to them in the Act or in the
+said Rules.
+3A.
+[ Declaration of Nidhis.
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+The Central Government, on receipt of application (in Form NDH-4 along with fee thereon) of a public company for
+declaring it as Nidhi and on being satisfied that the company meets the requirements under these rules, shall notify the
+company as a Nidhi in the Official Gazette:
+Provided that a Nidhi incorporated under the Act on or after the commencement of the Nidhi (Amendment) Rules, 2019
+shall file Form NDH-4 within sixty days from the date of expiry of: -
+(a)
+one year from the date of its incorporation; or
+(b)
+the period up to which extension of time has been granted by the Regional Director under sub-rule (3) of rule 5:
+Provided further that nothing in the first proviso shall prevent a Nidhi from filing Form NDH-4 before the period referred
+therein:
+Provided also that that in case a company does not comply with the requirements of this rule, it shall not be allowed to
+file Form No. SH-7 (Notice to Registrar of any alteration of share capital) and Form PAS-3 (Return of Allotment).]
+4.
+Incorporation and incidental matters.
+(1)
+A Nidhi [***]
+[Omitted 'to be incorporated under the Act' by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+shall be a public company and shall have a minimum paid up equity share capital of five lakh rupees.
+(2)
+On and after the commencement of the Act, no Nidhi shall issue preference shares.
+(3)
+If preference shares had been issued by a Nidhi before the commencement of this Act, such preference shares shall be
+redeemed in accordance with the terms of issue of such shares.
+(4)
+Except as provided under the proviso to sub-rule (e) to rule 6, no Nidhi shall have any object in its Memorandum of
+Association other than the object of cultivating the habit of thrift and savings amongst its members, receiving deposits
+from, and lending to, its members only, for their mutual benefit.
+(5)
+Every [***]
+[Omitted 'Company incorporated as a' by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+"Nidhi" shall have the last words 'Nidhi Limited' as part of its name.
+5.
+Requirements for minimum number of members, net owned fund etc.
+(1)
+Every Nidhi shall, within a period of one year [from the date of its incorporation]
+[Substituted 'from the commencement of these rules' by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f.
+31.3.2014).]
+, ensure that it has -
+(a)
+not less than two hundred members;
+Page 3/26
+----- PAGE 4 -----
+Nidhi Rules, 2014
+(b)
+Net Owned Funds of ten lakh rupees or more;
+(c)
+unencumbered term deposits of not less than ten per cent. of the outstanding deposits as specified in rule 14; and
+(d)
+ratio of Net Owned Funds to deposits of not more than 1:20.
+(2)
+Within ninety days from the close of the first financial year after its incorporation and where applicable, the second
+financial year, Nidhi shall file a return of statutory compliances in Form NDH-1 along with such fee as provided in
+Companies (Registration Offices and Fees) Rules, 2014 with the Registrar duly certified by a company secretary in
+practice or a chartered accountant in practice or a cost accountant in practice.
+(3)
+If a Nidhi is not complying with clauses (a) or (d) of sub-rule (1) above, it shall within thirty days from the close of the first
+financial year, apply to the Regional Director in Form NDH-2 along with fee specified in Companies (Registration Offices
+and Fees) Rules, 2014 for extension of time and the Regional Director may consider the application and pass orders
+within thirty days of receipt of the application.
+[Provided that the Regional Director may extend the period upto one year from the date of receipt of application.]
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+Explanation. - For the purpose of this rule "Regional Director" means the person appointed by the Central Government
+in the Ministry of Corporate Affairs as a Regional Director;
+(4)
+If the failure to comply with sub-rule (1) of this rule extends beyond the second financial year, Nidhi shall not accept any
+further deposits from the commencement of the second financial year till it complies with the provisions contained in
+sub-rule (1) [and gets itself declared under sub-section (1) of section 406]
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+, besides being liable for penal consequences as provided in the Act.
+6.
+General restrictions or prohibitions.
+- No Nidhi shall -
+(a)
+carry on the business of chit fund, hire purchase finance, leasing finance, insurance or acquisition of securities issued by
+any body corporate;
+(b)
+issue preference shares, debentures or any other debt instrument by any name or in any form whatsoever;
+(c)
+open any current account with its members;
+(d)
+acquire another company by purchase of securities or control the composition of the Board of Directors of any other
+company in any manner whatsoever or enter into any arrangement for the change of its management, unless it has
+passed a special resolution in its general meeting and also obtained the previous approval of the Regional Director
+having jurisdiction over such Nidhi;
+Explanation. - For the purposes of this sub-rule, "control" shall have the same meaning assigned to it in clause (27) of
+section 2 of the Act;
+(e)
+carry on any business other than the business of borrowing or lending in its own name:
+Provided that Nidhis which have adhered to all the provisions of these rules may provide locker facilities on rent to its
+members subject to the rental income from such facilities not exceeding twenty per cent. of the gross income of the
+Nidhi at any point of time during a financial year.
+(f)
+accept deposits from or lend to any person, other than its members;
+(g)
+Page 4/26
+----- PAGE 5 -----
+Nidhi Rules, 2014
+pledge any of the assets lodged by its members as security;
+(h)
+take deposits from or lend money to any body corporate;
+(i)
+enter into any partnership arrangement in its borrowing or lending activities;
+(j)
+issue or cause to be issued any advertisement in any form for soliciting deposit:
+Provided that private circulation of the details of fixed deposit schemes among the members of the Nidhi carrying the
+words "for private circulation to members only" shall not be considered to be an advertisement for soliciting deposits.
+(k)
+pay any brokerage or incentive for mobilising deposits from members or for deployment of funds or for granting loans.
+7.
+Share capital and allotment.
+(1)
+Every Nidhi shall issue [fully paid up]
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+equity shares of the nominal value of not less than ten rupees each:
+Provided that this requirement shall not apply to a company referred to in sub-rules (a) and (b) of rule 2.
+(2)
+No service charge shall be levied for issue of shares.
+(3)
+Every Nidhi shall allot to each deposit holder at least a minimum of ten equity shares or shares equivalent to one
+hundred rupees:
+Provided that a savings account holder and a recurring deposit account holder shall hold at least one equity share of
+rupees ten.
+8.
+Membership
+(1)
+A Nidhi shall not admit a body corporate or trust as a member.
+(2)
+Except as otherwise permitted under these rules, every Nidhi shall ensure that its membership is not reduced to less
+than two hundred members at any time.
+(3)
+A minor shall not be admitted as a member of Nidhi:
+Provided that deposits may be accepted in the name of a minor, if they are made by the natural or legal guardian who is
+a member of Nidhi.
+9.
+Net owned funds.
+- Every Nidhi shall maintain Net Owned Funds (excluding the proceeds of any preference share capital) of not less than
+ten lakh rupees or such higher amount as the Central Government may specify from time to time.
+10.
+Branches.
+(1)
+A Nidhi may open branches, only if it has earned net profits after tax continuously during the preceding three financial
+years.
+(2)
+Subject to the provisions contained in sub-rule (1), a Nidhi may open up to three branches within the district.
+(3)
+If a Nidhi proposes to open more than three branches within the district or any branch outside the district, it shall obtain
+the prior permission of the Regional Director and an intimation is to be given to the Registrar about opening of every
+branch within thirty days of such opening.
+Page 5/26
+----- PAGE 6 -----
+Nidhi Rules, 2014
+(4)
+No Nidhi shall open branches or collection centres or offices or deposit centres, or by whatever name called outside the
+State where its registered office is situated.
+(5)
+No Nidhi shall open branches or collection centres or offices or deposit centres, or by whatever name called unless
+financial statement and annual return (up to date) are filed with the Registrar.
+(6)
+A Nidhi shall not close any branch unless it-
+(a)
+publishes an advertisement in a newspaper in vernacular language in the place where it carries on business at least
+thirty days prior to such closure, informing the public about such closure;
+(b)
+fixes a copy of such advertisement or a notice informing such closure of the branch on the notice board of Nidhi for a
+period of at least thirty days from the date on which advertisement was published under clause (a) ; and
+(c)
+gives an intimation to the Registrar within thirty days of such closure.
+11.
+Acceptance of deposits by Nidhis.
+(1)
+A Nidhi shall not accept deposits exceeding twenty times of its Net Owned Funds (NOF) as per its last audited financial
+statements.
+(2)
+In the case of companies covered under clauses (a) and (b) of rule 2 and existing on or before 26th July, 2001 and
+which have accepted deposits in excess of the aforesaid limits, the same shall be restored to the prescribed limit by
+increasing the Net Owned Funds position or alternatively by reducing the deposit according to the table given below:
+Table
+Ratio of Net Owned Funds to Deposits (as on
+31.3. 2013)
+Date by which the company has to achieve
+prescribed ceiling of 1:20
+a) More than 1:20 but upto 1:35
+By 31.3. 2015
+b) More than 1:35 but upto 1:45
+By 31.3. 2016
+c) More than 1:45
+By 31.3. 2017
+(3)
+The companies which are covered under the Table in sub-rule (2) above shall not accept fresh deposits or renew
+existing deposits if such acceptance or renewal leads to violation of the prescribed ratio.
+(4)
+The ratio specified in sub-rule (2) above shall also apply to incremental deposits.
+12.
+Application form for deposit.
+(1)
+Every application form for placing a deposit with a Nidhi shall contain the following particulars, namely:-
+(a)
+Name of Nidhi;
+(b)
+Date of incorporation of Nidhi;
+(ba)
+[ The date of declaration or notification as Nidhi]
+Page 6/26
+----- PAGE 7 -----
+Nidhi Rules, 2014
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+(c)
+The business carried on by Nidhi with details of branches, if any;
+(d)
+Brief particulars of the management of Nidhi (name, addresses and occupation of the directors, including DIN);
+(e)
+Net profits of Nidhi before and after making provision for tax for the preceding three financial years;
+(f)
+Dividend declared by Nidhi during the preceding three financial years;
+(g)
+Mode of repayment of the deposit;
+(h)
+Maturity period of the deposit;
+(i)
+Interest payable on the deposit;
+(j)
+The rate of interest payable to the depositor in case the depositor withdraws the deposit prematurely;
+(k)
+The terms and conditions subject to which the deposit may be accepted or renewed;
+(l)
+A summary of the financials of the company as per the latest two audited financial statements as given below:
+(i)
+Net Owned Funds
+(ii)
+Deposits accepted
+(iii)
+Deposits repaid
+(iv)
+Deposits claimed but remaining unpaid
+(v)
+Loans disbursed against -
+(a)
+immovable property;
+(b)
+deposits; and
+(c)
+gold and jewellery
+(vi)
+Profit before tax
+(vii)
+Provision for tax
+(viii)
+Profit after tax
+(ix)
+Dividend per share
+(m)
+any other special features or terms and conditions subject to which the deposit is accepted or renewed.
+(2)
+The application form shall also contain the following statements, namely: -
+(a)
+in case of non-payment of the deposit or part thereof as per the terms and conditions of such deposit, the depositor may
+Page 7/26
+----- PAGE 8 -----
+Nidhi Rules, 2014
+approach the [Bench of the National Company Law Tribunal]
+[Substituted 'Registrar of companies' by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+having jurisdiction over Nidhi;
+(b)
+in case of any deficiency of Nidhi in servicing its depositors, the depositor may approach the National Consumers
+Disputes Redressal Forum, the State Consumers Disputes Redressal Forum or District Consumers Disputes Redressal
+Forum, as the case may be, for redressal of his relief;
+(c)
+a declaration by the Board of Directors to the effect that the financial position of Nidhi as disclosed and the
+representations made in the application form are true and correct and that Nidhi has complied with all the applicable
+rules;
+(d)
+a statement to the effect that the Central Government does not undertake any responsibility for the financial soundness
+of Nidhi or for the correctness of any of the statement or the representations made or opinions expressed by Nidhi;
+(e)
+the deposits accepted by Nidhi are not insured and the repayment of deposits is not guaranteed by either the Central
+Government or the Reserve Bank of India; and
+(f)
+a verification clause by the depositor stating that he had read and understood the financial and other particulars
+furnished and representations made by Nidhi in his application form and after careful consideration he is making the
+deposit with Nidhi at his own risk and volition.
+(3)
+Every Nidhi shall obtain proper introduction of new depositors before opening their accounts or accepting their deposits
+and keep on its record the evidence on which it has relied upon for the purpose of such introduction.
+(4)
+For the purposes of introduction of depositors, a Nidhi shall obtain documentary evidence of the depositor in the form of
+proof of identity and address as under:
+(a)
+Proof of Identity (any one of the following)
+(i)
+Passport
+(ii)
+Unique Identification Number
+(iii)
+Income-tax PAN card
+(iv)
+Elector Photo Identity Card
+(v)
+Driving licence
+(vi)
+Ration card
+(b)
+Proof of address (any one of the following)
+(i)
+Passport
+(ii)
+Unique Identification Number
+(iii)
+Elector Photo Identity Card
+(iv)
+Driving licence
+Page 8/26
+----- PAGE 9 -----
+Nidhi Rules, 2014
+(v)
+Ration card
+(vi)
+Telephone bill
+(vii)
+Bank account statement
+(viii)
+Electricity bill
+(documents referred to serial numbers (vi), (vii) and (viii) above shall not be more than two months old)
+13.
+Deposits.
+(1)
+The fixed deposits shall be accepted for a minimum period of six months and a maximum period of sixty months.
+(2)
+Recurring deposits shall be accepted for a minimum period of twelve months and a maximum period of sixty months.
+(3)
+In case of recurring deposits relating to mortgage loans, the maximum period of recurring deposits shall correspond to
+the repayment period of such loans granted by Nidhi.
+(4)
+The maximum balance in a savings deposit account at any given time qualifying for interest shall not exceed one lakh
+rupees at any point of time and the rate of interest shall not exceed two per cent. above the rate of interest payable on
+savings bank account by nationalised banks.
+(5)
+A Nidhi may offer interest on fixed and recurring deposits at a rate not exceeding the maximum rate of interest
+prescribed by the Reserve Bank of India which the Non-Banking Financial Companies can pay on their public deposits.
+(6)
+A fixed deposit account or a recurring deposit account shall be foreclosed by the depositor subject to the following
+conditions, namely:-
+(a)
+a Nidhi shall not repay any deposit within a period of three months from the date of its acceptance;
+(b)
+where at the request of the depositor, a Nidhi repays any deposit after a period of three months, the depositor shall not
+be entitled to any interest up to six months from the date of deposit;
+(c)
+where at the request of the depositor, a Nidhi makes repayment of a deposit before the expiry of the period for which
+such deposit was accepted by Nidhi, the rate of interest payable by Nidhi on such deposit shall be reduced by two per
+cent. from the rate which Nidhi would have ordinarily paid, had the deposit been accepted for the period for which such
+deposit had run:
+Provided that in the event of death of a depositor, the deposit may be repaid prematurely to the surviving depositor or
+depositors in the case of joint holding with survivor clause, or to the nominee or to legal heir with interest up to the date
+of repayment at the rate which the company would have ordinarily paid, had such deposit been accepted for the period
+for which such deposit had run.
+14.
+Un-encumbered term deposits.
+- Every Nidhi shall invest and continue to keep invested, in unencumbered term deposits with a scheduled commercial
+bank (other than a co-operative bank or a regional rural bank), or post office deposits in its own name an amount which
+shall not be less than ten per cent. of the deposits outstanding at the close of business on the last working day of the
+second preceding month:
+Provided that in cases of unforeseen commitments, temporary withdrawal may be permitted with the prior approval of
+the Regional Director for the purpose of repayment to depositors, subject to such conditions and time limit which may be
+specified by the Regional Director to ensure restoration of the prescribed limit of ten per cent.
+Page 9/26
+----- PAGE 10 -----
+Nidhi Rules, 2014
+15.
+Loans.
+(1)
+A Nidhi shall provide loans only to its members.
+(2)
+The loans given by a Nidhi to a member shall be subject to the following limits, namely:-
+(a)
+two lakh rupees, where the total amount of deposits of such Nidhi from its members is less than two crore rupees;
+(b)
+seven lakh fifty thousand rupees, where the total amount of deposits of such Nidhi from its members is more than two
+crore rupees but less than twenty crore rupees;
+(c)
+twelve lakh rupees, where the total amount of deposits of such Nidhi from its members is more than twenty crore rupees
+but less than fifty crore rupees; and
+(d)
+fifteen lakh rupees, where the total amount of deposits of such Nidhi from its members is more than fifty crore rupees:
+Provided that where a Nidhi has not made profits continuously in the three preceding financial years, it shall not make
+any fresh loans exceeding fifty per cent. of the maximum amounts of loans specified in clauses (a), (b), (c) or (d).
+Provided further that a member shall not be eligible for any further loan if he has borrowed any earlier loan from the
+Nidhi and has defaulted in repayment of such loan.
+(3)
+For the purposes of sub-rule (2), the amount of deposits shall be calculated on the basis of the last audited annual
+financial statements.
+(4)
+A Nidhi shall give loans to its members only against the following securities, namely:-
+(a)
+gold, silver and jewellery:
+Provided that the repayment period of such loan shall not exceed one year.
+(b)
+immovable property:
+Provided that the total loans against immovable property [excluding mortgage loans granted on the security of property
+by registered mortgage, being a registered mortgage under section 69 of the Transfer of Property Act, 1882 (IV of 1882)]
+shall not exceed fifty per cent. of the overall loan outstanding on the date of approval by the board, the individual loan
+shall not exceed fifty per cent. of the value of property offered as security and the period of repayment of such loan shall
+not exceed seven years.
+(c)
+fixed deposit receipts, National Savings Certificates, other Government Securities and insurance policies:
+Provided that such securities duly discharged shall be pledged with Nidhi and the maturity date of such securities shall
+not fall beyond the loan period or one year whichever is earlier:
+Provided further that in the case of loan against fixed deposits, the period of loan shall not exceed the unexpired period
+of the fixed deposits.
+16.
+Rate of interest.
+- The rate of interest to be charged on any loan given by a Nidhi shall not exceed seven and half per cent. above the
+highest rate of interest offered on deposits by Nidhi and shall be calculated on reducing balance method:
+Provided that Nidhi shall charge the same rate of interest on the borrowers in respect of the same class of loans and the
+rates of interest of all classes of loans shall be prominently displayed on the notice board at the registered office and
+each branch office of Nidhi.
+17.
+Rules relating to Directors.
+(1)
+Page 10/26
+----- PAGE 11 -----
+Nidhi Rules, 2014
+The Director shall be a member of Nidhi.
+(2)
+The Director of a Nidhi shall hold office for a term up to ten consecutive years on the Board of Nidhi.
+(3)
+The Director shall be eligible for re-appointment only after the expiration of two years of ceasing to be a Director.
+(4)
+Where the tenure of any Director in any case had already been extended by the Central Government, it shall terminate
+on expiry of such extended tenure.
+(5)
+The person to be appointed as a Director shall comply with the requirements of sub-section (4) of section 152 of the Act
+and shall not have been disqualified from appointment as provided in section 164 of the Act.
+18.
+Dividend.
+- A Nidhi shall not declare dividend exceeding twenty five per cent. or such higher amount as may be specifically
+approved by the Regional Director for reasons to be recorded in writing and further subject to the following conditions,
+namely:-
+(a)
+an equal amount is transferred to General Reserve;
+(b)
+there has been no default in repayment of matured deposits and interest; and
+(c)
+it has complied with all the rules as applicable to Nidhis.
+19.
+Auditor.
+(1)
+No Nidhi shall appoint or re-appoint an individual as auditor for more than one term of five consecutive years.
+(2)
+No Nidhi shall appoint or re-appoint an audit firm as auditor for more than two terms of five consecutive years;
+Provided that an auditor (whether an individual or an audit firm) shall be eligible for subsequent appointment after the
+expiration of two years from the completion of his or its term.
+Explanation. - For the purposes of this proviso:
+(i)
+in case of an auditor (whether an individual or audit firm), the period for which he or it has been holding office as auditor
+prior to the commencement of these rules shall be taken into account in calculating the period of five consecutive years
+or ten consecutive years, as the case may be;
+(ii)
+appointment includes re-appointment.
+20.
+Prudential norms.
+(1)
+Every Nidhi shall adhere to the prudential norms for revenue recognition and classification of assets in respect of
+mortgage loans or jewel loans as contained hereunder.
+(2)
+Income including interest or any other charges on non-performing assets shall be recognised only when it is actually
+realised and any such income recognised before the asset became non-performing and which remains unrealised in a
+year shall be reversed in the profit and loss account of the immediately succeeding year.
+(3)
+(a)
+In respect of mortgage loans, the classification of assets and the provisioning required shall be as under:
+Nature of Asset
+Provision Required
+Page 11/26
+----- PAGE 12 -----
+Nidhi Rules, 2014
+Standard Asset
+No provision
+Sub-standard Asset
+10% of the aggregate outstanding amount
+Doubtful Asset
+25% of the aggregate outstanding amount
+Loss Asset
+100% of the aggregate outstanding amount
+Provided that a Nidhi may make provision for exceeding the percentage specific herein.
+(b)
+The estimated realisable value of the collateral security to which a Nidhi has valid recourse may be reduced from the
+aggregate outstanding amount, if the proceedings for the sale of the mortgaged property have been initiated in a court of
+law within the previous two years of the interest, income or instalment remaining unrealised.
+(4)
+In case of companies which were incorporated on or before 26-07-2001, such companies shall make provisions in
+respect of loans disbursed and outstanding as on 31-03-2002 for income reversal and non-performing assets as per
+table given below:
+For the year ended
+Extent of provision
+31-03-2015
+Un-provided balance on equal basis over the
+three
+31-03-2016
+31-03-2017
+years as specified in the preceding column.
+(5)
+(a)
+The Notes on the financial statements of a year shall disclose -
+(i)
+the total amount of provisions, if any, to be made on account of income reversal and non-performing assets remaining
+unrealised;
+(ii)
+the cumulative amount provided till the previous year;
+(iii)
+the amount provided in the current year; and
+(iv)
+the balance amount to be provided.
+(b)
+Such disclosure shall continue to be made until the entire amount to be provided has been provided for.
+(6)
+In respect of loans against gold or jewellery -
+(a)
+the aggregate amount of loan outstanding against the security of gold or jewellery shall either be recovered or renewed
+within three months from the due date of repayment;
+(b)
+if the loan is not recovered or renewed and the security is not sold within the aforesaid period of three months, the
+company shall make provision in the current year's financial statements to the extent of unrealised amount or the
+aggregate outstanding amount of loan including interest as applicable;
+(c)
+no income shall be recognised on such loans outstanding after the expiry of the three months period specified in (a)
+above or sale of gold or jewellery, whichever is earlier; and
+Page 12/26
+----- PAGE 13 -----
+Nidhi Rules, 2014
+(d)
+the loan to value ratio shall not exceed 80 percent.
+Explanation. - For the purposes of this rule, the term 'loan to value ratio' means the ratio between the amount of loan
+given and the value of gold or jewellery against which such loan is given.
+21.
+Filing of half yearly return.
+- Every company covered under rule 2 shall file half yearly return with the Registrar in Form NDH-3 along with such fee
+as provided in Companies (Registration Offices and Fees) Rules, 2014 within thirty days from the conclusion of each
+half year duly certified by a company secretary in practice or chartered accountant in practice or cost accountant in
+practice.
+22.
+Auditor's certificate.
+- The Auditor of the company shall furnish a certificate every year to the effect that the company has complied with all
+the provisions contained in the rules and such certificate shall be annexed to the audit report and in case of
+non-compliance, he shall specifically state the rules which have not been complied with.
+23.
+Power to enforce compliance.
+(1)
+For the purposes of enforcing compliance with these rules, the Registrar of companies may call for such information or
+returns from Nidhi as he deems necessary and may engage the services of chartered accountants, company secretaries
+in practice, cost accountants, or any firm thereof from time to time for assisting him in the discharge of his duties.
+(2)
+In respect of any Nidhi which has violated these rules or has failed to function in terms of the Memorandum and Articles
+of Association, the [Central Government]
+[Substituted 'concerned Regional Director' by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+may appoint a Special Officer to take over the management of Nidhi and such Special Officer shall function as per the
+guidelines given by [Central Government]
+[Substituted 'such Regional Director' by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+:
+Provided that an opportunity of being heard shall be given to the concerned Nidhi by the [Central Government]
+[Substituted 'Regional Director' by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+before appointing any Special Officer.
+23A.
+[ Compliance with rule 3A by certain Nidhis.
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+- Every company referred to in clause (b) of rule 2 and every Nidhi incorporated under the Act, before the
+commencement of Nidhi (Amendment) Rules, 2019, shall also get itself declared as such in accordance with rule 3A
+within a period of one year from the date of its incorporation or within a period of [nine months] from the date of
+commencement of Nidhi (Amendment) Rules, 2019, whichever is later:
+Provided that in case a company does not comply with the requirements of this rule, it shall not be allowed to file Form
+No. SH-7 (Notice to Registrar of any alteration of share capital) and Form PAS-3 (Return of Allotment).]
+23B.
+[ Companies declared as Nidhis under previous company law to file Form NDH-4.
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+- Every company referred in clause (a) of rule 2 shall file Form NDH-4 alongwith fees as per the Companies
+(Registration Offices and Fees) Rules, 2014 for updating its status:
+Provided that no fees shall be charged under this rule for filing Form NDH-4, in case it is filed within six month of the
+commencement of Nidhi (Amendment) Rules, 2019:
+Provided further that, in case a company does not comply with the requirements of this rule, it shall not be allowed to file
+Form No. SH-7 (Notice to Registrar of any alteration of share capital) and Form PAS-3 (Return of Allotment).]
+24.
+Page 13/26
+----- PAGE 14 -----
+Nidhi Rules, 2014
+Penalty for non-compliance.
+- If a company falling under rule 2 contravenes any of the provisions of the rules prescribed herein, the company and
+every officer of the company who is in default shall be punishable with fine which may extend to five thousand rupees,
+and where the contravention is a continuing one, with a further fine which may extend to five hundred rupees for every
+day after the first during which the contravention continues.
+Annexure
+Form NDH-1
+Return of Statutory Compliances
+(Pursuant to sub rule (2) of rule 5 of Nidhi
+Rules, 2014)
+1.
+Corporate Identification Number (CIN) of Nidhi
+:
+2.
+(a) Name of the Nidhi:
+(b) Address of the registered office :
+(c) E-mail id, if any:
+(d) Phone Number:
+3.
+(a) Number of subscribers to the Memorandum
+(b) Number of members admitted since date of
+incorporation upto the end of the first financial year
+(c) Number of persons who have ceased to be
+members upto the end of the first financial year
+(d) Number of members as at the end of the
+first financial year
+4.
+Whether the number of members as at the end of
+the first financial year is 200 or more
+Yes
+No
+5.
+If answer to Sl. No. 4 is No, whether
+application for extension of time has been made to Registrar
+Yes
+No
+If yes, SRN of the application
+6.
+Paid up equity share capital Free reserves
+---------------
+Less: Accumulated Losses Other intangible
+assets (give breakup)
+---------------
+Net Owned Funds
+---------------
+7.
+Unencumbered Term Deposits
+(See rule 14)
+(a) (i) deposit(s) in scheduled commercial
+Banks (in Rs)
+(ii) Deposits in Post Office (in Rs)
+Page 14/26
+----- PAGE 15 -----
+Nidhi Rules, 2014
+---------------
+Total unencumbered term deposits
+---------------
+(b) deposits outstanding at the close of
+business on the last working day of the second preceding month:
+(c) Percentage of (a)/(b):
+8.
+Ratio of Net Owned Funds to Deposits:
+Verification
+I am authorised by the Board of Directors of
+the Company vide resolution no............. dated...............
+to sign this form and declare that all the requirements of
+Companies Act, 2013 (
+18 of 2013
+) and the rules made thereunder
+in respect of the subject matter of this form and matters
+incidental thereto have been complied with. I also declare that
+all the information given herein above is true, correct and
+complete including the attachments to this form and nothing
+material has been suppressed. It is hereby further certified
+that the professional ( Name and Type i.e. C.A/CS/CWA/ to Given)
+certifying this form has been duly engaged for this purpose.
+To be digitally signed by
+Designation (to be given)
+DIN of the person signing the form
+Certificate by practicing professional
+I declare that I have been duly engaged for the
+purpose of certification of this form. It is hereby certified
+that I have gone through the provisions of the Companies Act,
+2013 (18 of 2013) and rules thereunder for the subject matter of
+this form and matters incidental thereto and I have verified the
+above particulars (including attachment(s)) from the original
+records maintained by the Company (name of Nidhi) which is
+subject matter of this form and found them to be true, correct
+and complete and no information material to this form has been
+suppressed. I further certify that;
+a. The said records have been properly
+prepared, signed by the required officers of the Company and
+maintained as per the relevant provisions of the Companies Act,
+2013 (18 of 2013) and were found to be in order;
+b. All the required attachments have been
+completely and legibly attached to this form;
+Signature
+Chartered Accountant/Cost Accountant/Company
+Secretary in practice whether Associate or Fellow
+Membership No. and also CP No.
+Note:
+This eform has been taken on file maintained by
+the Registrar of companies through electronic mode and on the
+basis of statement of correctness given by the filing company.
+Attention is also drawn to provisions of section 448 of the Act
+Page 15/26
+----- PAGE 16 -----
+Nidhi Rules, 2014
+which provide for punishment for false statement and
+certification.
+Form NDH-2
+Application for extension of Time
+(Pursuant to sub-rule (3) of rule 5 of Nidhi
+Rules, 2014)
+The Regional Director
+Ministry of Corporate Affairs,
+(respective jurisdiction)
+1.
+Corporate Identification Number (CIN) of Nidhi
+:
+2.
+(a) Name of the Nidhi:
+(b) Address of the registered office :
+(c) E-mail id, if any:
+(d) Phone Number:
+3.
+Date of Incorporation :
+4.
+Application filed for : extension of time for
+complying with rule
+5(1)(a)
+5(1)(d)
+5.
+Position as at the end of the previous
+financial year
+(based on audited financial statement)
+(a) Number of members
+(b) Ratio of Net Owned Funds to Deposits
+6.
+Period for which extension is sought for
+complying with the requirement of
+(a) Rule 5(1)(a) or
+(b) Rule 5(1)(d) or
+(c) Both (a) & (b) above
+7.
+Reasons for not complying with the requirements
+of rule 5(1)(a) and/or rule 5(1)(d)
+8.
+Details of application( in brief)
+(Box to be provided)
+---------------------------------------------------------------------------------------------------------------
+Verification
+I am authorized by the Board of Directors of
+the Company vide resolution no............. dated...............
+to sign this form and declare that all the requirements of
+Companies Act, 2013 (
+18 of 2013
+) and the rules made thereunder
+in respect of the subject matter of this form and matters
+Page 16/26
+----- PAGE 17 -----
+Nidhi Rules, 2014
+incidental thereto have been complied with. I also declare that
+all the information given herein above is true, correct and
+complete including the attachments to this form and nothing
+material has been suppressed.
+To be digitally signed by
+Designation (to be given)
+DIN of the person signing the form
+Attachments:
+1. Board resolution
+2. Detailed application
+3. Audited financial statements( last
+available)
+4. Reasons and justification for the
+application
+Note:
+Attention is also drawn to provisions of
+section 448 which provide for punishment for false statement and
+certification.
+For office use only: E-form Service Request
+Number (SRN).................. E-form filing date....
+Digital signature of the authorising officer
+This e-form is hereby approved/rejected
+{|
+|-
+|
+| Date of signing
+|}
+Form NDH-3
+(Pursuant to rule 21 of Nidhi Rules, 2014)
+Half Yearly Return
+(All information shall be furnished for the
+half year ended 30th September and 31st March of every year;
+wherever space is not sufficient, separate sheet containing the
+required details shall be attached)
+----------------------------------------------------------------------------------------------------------------------
+1.
+Name of the Nidhi
+2.
+CIN
+3.
+Registered office
+4.
+Branch details
+(i) Total Number of branches
+(ii) Names and addresses of branches within the
+district
+(iii) Names and addresses of branches outside
+the District, if any
+(iv) Number of branches opened during the half
+year and their addresses
+(v) Number of branches closed during the half
+Page 17/26
+----- PAGE 18 -----
+Nidhi Rules, 2014
+year and their addresses
+5.
+Membership
+(a) Total number of members at the beginning of
+the half-year
+(b) Number of persons admitted as members
+during the half year
+(c) Number of persons who have ceased to be
+members during the half year
+(d) Total number of members at the end of the
+half year
+6.
+Deposits (Amount in Rs)
+{|
+Nature of
+deposits
+Balance of deposits at the beginning of the half
+year
+Received during the half year
+Repaid during the half year
+Balance of deposits at the end of the half year
+Fixed Deposit
+Recurring Deposit
+Savings Deposit
+Cumulative Deposit
+Others, if any (specify)
+Total
+|-
+| 7.
+| Loans (Amount in Rs)
+|-
+|
+|
+Nature of Loans
+Balance of Loan at the beginning of the half year
+Disbursed during the half year
+Realized during the half year
+Balance of Loans at the end of the half year
+Loans against immovable property
+Loans against Jewels
+Loans against Deposits
+Other loans, if any (specify security)
+Loans to employees
+Total
+|-
+| 8.
+| Details relating to litigation, if any.
+|-
+|
+|
+At the beginning of the half year
+Page 18/26
+----- PAGE 19 -----
+Nidhi Rules, 2014
+Filed during the half year
+Disposed off during the half year
+Outstanding at the end of the half year
+No: of cases
+Amount (Rs)
+No: of cases
+Amount (Rs)
+No: of cases
+Amount (Rs)
+No: of cases
+Amount (Rs)
+Suit filed accounts
+|-
+| 9.
+| Financial summary:
+|-
+|
+| (i) Ratio of Net Owned Funds to Deposits
+|-
+|
+| (ii) Total amount of unencumbered Term
+Deposits(Rs)
+|-
+|
+| (iii) Names and addresses of the Scheduled
+Commercial
+|-
+|
+| Bank/Post Office where such deposits have been
+|-
+|
+| Placed, with the amount of deposit in each.
+|-
+|
+| (iv) Percentage of unencumbered Term Deposits
+to the total deposits outstanding
+|-
+|
+| (v) Paid up share capital(total)
+|-
+|
+| (vi) Amount of paid up Preference Share capital
+|-
+|
+| (a) Outstanding at the beginning of the half year
+|-
+|
+| (b) Redeemed during the period
+|-
+|
+| (c) Outstanding at the end of the half year
+Page 19/26
+----- PAGE 20 -----
+Nidhi Rules, 2014
+|-
+|
+| ----------------------------------------------------------------------------------------------------------------
+|-
+|
+| Verification
+|-
+| I am authorized by the Board of Directors of
+the Company vide resolution no............. dated...............
+to sign this form and declare that all the requirements of
+Companies Act, 2013 (
+18 of 2013
+) and the rules made thereunder
+in respect of the subject matter of this form and matters
+incidental thereto have been complied with. I also declare that
+all the information given herein above is true, correct and
+complete including the attachments to this form and nothing
+material has been suppressed. It is hereby further certified
+that the professional ( Name and Type i.e. C.A/CS/CWA/ to Given)
+certifying this form has been duly engaged for this purpose.
+|-
+| To be digitally signed by
+|-
+|
+| Designation (to be given)
+|-
+|
+| DIN of the person signing the form
+|-
+|
+| Certificate by practicing professional
+|-
+| I declare that I have been duly engaged for the
+purpose of certification of this form. It is hereby certified
+that I have gone through the provisions of the Companies Act,
+2013.
+(18 of 2013) and rules thereunder for the subject matter of
+this form and matters incidental thereto and I have verified the
+above particulars (including attachment(s)) from the original
+records maintained by the Company (name of Nidhi) which is
+subject matter of this form and found them to be true, correct
+and complete and no information material to this form has been
+suppressed. I further certify that;
+|-
+| a. The said records have been properly
+prepared, signed by the required officers of the Company and
+maintained as per the relevant provisions of the Companies Act,
+2013. and were found to be in order;
+|-
+| b. All the required attachments have been
+completely and legibly attached to this form;
+Page 20/26
+----- PAGE 21 -----
+Nidhi Rules, 2014
+|-
+| c. It is understood that I shall be liable for
+action under Section 448 of the Companies Act, 2013 for wrong
+certification, if any found at any stage.
+|-
+| Signature
+|-
+| Chartered Accountant/ Cost Accountant/Company
+Secretary in practice whether Associate or Fellow
+|-
+| Membership No. and also CP No.
+|-
+|
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--
+|-
+| Note: This eform has been taken on file
+maintained by the Registrar of Companies through electronic mode
+and on the basis of statement of correctness given by the filing
+company. Attention is also drawn to provisions of Section 448
+which provide for punishment for false statement and
+certification.
+|}
+[Form NDH-4]
+[Inserted by Notification No. G.S.R. 467(E), dated 1.7.2019 (w.e.f. 31.3.2014).]
+[Pursuant to section 406 of the Companies
+Act, 2013and rule 3A, rule 23A and rule 23B of the Nidhi Rules,
+2014]
+Form for filing application for declaration
+as Nidhi Company and for updation of status by Nidhis.
+Form languageEnglishHindi
+Refer the instruction kit for filing the form.
+*This form is for:Application for
+declaration as Nidhi Company
+Application for updating of status as Nidhi
+1 (a).
+*Corporate Identification Number (CIN)
+{|
+|
+|-
+| (b).
+| Global Location
+number (GLN) of Company
+|
+|-
+| 2(a).
+| Name of the company
+|
+|-
+| (b)
+| Address of
+Page 21/26
+----- PAGE 22 -----
+Nidhi Rules, 2014
+Registered office of the company
+|
+|-
+| (c)
+| Phone
+|
+|-
+| (d)
+| Fax
+|
+|-
+| (e)
+| *email id of the
+company
+|
+|-
+| 3.
+| *Equity paid-up
+capital
+|
+|-
+| 4.
+| Number of members as
+on date of application/ updation of status
+|
+|-
+| 5.
+| *Do the objects of
+the company as per its memorandum and article of association
+cover only those activities permitted for approved Nidhi
+companiesYesNo
+|-
+|
+|
+|-
+| 6.
+| If no, give details
+of any activities in the memorandum of association (MoA) not
+permitted by Nidhi Rules, 2014.
+|-
+|
+|
+|-
+| 7(a).
+| * Whether the
+company has carried out any financial dealings with any person
+other than its members.YesNo
+|-
+|
+| (b). If yes, give
+details
+Page 22/26
+----- PAGE 23 -----
+Nidhi Rules, 2014
+|
+|
+|-
+|
+|
+|-
+| 8(a).
+| *Whether the
+company has complied with the Nidhi Rules, 2014YesNo
+|-
+|
+| (b) If no, give
+details and reasons thereof
+|
+|
+|-
+|
+|
+|-
+| 9(a).
+| *Number of branches
+opened by the company and places where opened along with dates
+of opening
+|
+|-
+|
+| Details of branches
+|-
+|
+|
+Name of Branch
+District
+State/UT
+Date of Opening
+|-
+| 10.
+| *The ratio of net
+owned funds to deposits accepted
+|
+|
+|-
+| 11.
+| *Is the ratio of
+loan on immovable property within the prescribed limit
+| YesNo
+|-
+|
+|
+Attachments
+1. Copy of resolution of the board of directors
+in support of the proposal of the company
+Page 23/26
+----- PAGE 24 -----
+Nidhi Rules, 2014
+2. Certificate signed by two directors regarding
+the number of members as on date of application (membership
+should not be less than 200)
+3. Certificate from the auditors of the company
+to the effect that the company has  complied with the Nidhi
+Ruels, 2014.
+4. Copy of notification through which company
+was declared Nidhi under the Companies Act, 1956 or previous
+company law (where applicable)
+5. Optional Attachments, if any
+|-
+|
+|
+List of Attachments
+{|
+|-
+|
+|}
+|-
+|
+|
+|-
+|
+| Declaration
+|-
+|
+| To the best of my
+knowledge and belief, the information given in this application
+and its attachments is correct and complete.
+|-
+|
+| I have been
+authorised by the board of directors' resolution dated(DD/MM/YYYY) to sign and submit this application
+|-
+|
+| *To be digitally
+signed by
+|-
+|
+| Director or manager
+or secretary or CEO or CFO of the company
+|
+|-
+|
+| Designation
+|
+|-
+|
+| DIN of the director;
+PAN of the manager or CEO or CFO or membership number of company
+secretary
+Page 24/26
+----- PAGE 25 -----
+Nidhi Rules, 2014
+|
+|-
+|
+| Certificate by
+practicing professional
+|-
+|
+| I declare that I
+have been duly engaged for the purpose of certification of this
+form. It is hereby certified that I have gone through the
+provisions of the Companies Act, 2013 and rules thereunder for
+the subject matter of this form and matters incidental thereto
+and I have verified the above particulars (including
+attachment(s)) from the original/certified records maintained by
+the Company/applicant which is subject matter of this form and
+found them to be true, correct and complete and no information
+material to this form has been suppressed. I further certify
+that:
+|-
+|
+| i. The said records
+have been properly prepared, signed by the required officers of
+the Company and maintained as per the relevant provisions of the
+Companies Act, 2013 and were found to be in order;
+|-
+|
+| ii. All the required
+attachments have been completely and legibly attached to this
+form.
+|-
+|
+| To be digitally
+signed by
+|
+|
+|-
+|
+| Chartered accountant
+(in whole-time practice); or
+|
+|-
+|
+| Cost accountant (in
+whole-time practice); or
+|
+|-
+|
+| Company secretary
+(in whole-time practice)
+|
+|-
+Page 25/26
+----- PAGE 26 -----
+Nidhi Rules, 2014
+|
+| Whether associate or
+fellow
+| Associate
+| Fellow
+|-
+|
+| Membership number
+| Certificate of
+Practice number
+|-
+|
+| Note: Attention
+is also drawn to provisions of Section 447, section 448 and 449
+of the Companies Act, 2013 which provide for punishment for
+fraud, punishment for false statement and punishment for false
+evidence respectively.
+|-
+|
+|
+For office use only:
+eForm Service request number (SRN)
+eForm filling date(DD/MM/YYYY)
+Digital signature of the authorising officer
+This e-Form is hereby approved
+This e-Form is hereby rejected
+Date of signing
+(DD/MM/YYYY)
+|}
+Related AI tags, queries and research notes
+Translation
+Page 26/26

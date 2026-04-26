@@ -1,0 +1,146 @@
+
+----- PAGE 1 -----
+Shipping Bill (Electronic Integrated Declaration and Paperless Processing) Regulations, 20...
+Shipping Bill (Electronic Integrated Declaration and Paperless
+Processing) Regulations, 2019
+Source: https://indiankanoon.org/doc/178214315/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Shipping Bill (Electronic Integrated Declaration and Paperless Processing) Regulations, 2019
+UNION OF INDIA
+India
+Shipping Bill (Electronic Integrated Declaration and Paperless Processing) Regulations, 2019
+Rule
+SHIPPING-BILL-ELECTRONIC-INTEGRATED-DECLARATION-AND-PAPERLESS-PROCESSING-REGULATIONS-20
+19 of 2019
+Published on 25 April 2019
+Commenced on 25 April 2019
+[This is the version of this document from 25 April 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+Shipping Bill (Electronic Integrated Declaration and Paperless Processing) Regulations, 2019
+Published vide Notification No. G.S.R. 326(E), dated 25.4.2019
+Ministry of Finance
+(Department of Revenue)
+(Central Board of Indirect Taxes And Customs)
+G.S.R. 326(E). - In exercise of the powers conferred by section 157 read with section 50 of the Customs Act, 1962 (
+52 of 1962
+Page 1/3
+----- PAGE 2 -----
+Shipping Bill (Electronic Integrated Declaration and Paperless Processing) Regulations, 20...
+) and in supersession of the Shipping Bill (Electronic Integration Declaration) Regulations, 2011, except as respects
+things done or omitted to be done before such supersession, the Central Board of Indirect Taxes and Customs, hereby
+makes the following regulations, namely: -
+1.
+Short title, application and commencement.
+(1)
+These regulations may be called the Shipping Bill (Electronic Integrated Declaration and Paperless Processing)
+Regulations, 2019.
+(2)
+They shall apply to export of goods from all customs stations where the Indian Customs Electronic Data Interchange
+System is in operation.
+(3)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires, -
+(a)
+"Act" means the Customs Act, 1962 (
+52 of 1962
+);
+(b)
+"authorised person" means an exporter or a person authorised by him who has a valid licence under the Customs
+Brokers Licensing Regulations, 2018 and includes an employee of the Customs broker who has been issued a photo
+identity card in Form G under the Customs Brokers Licensing Regulations, 2018;
+(c)
+"electronic integrated declaration" means particulars relating to the export goods that are entered in the Indian Customs
+Electronic Data Interchange System;
+(d)
+"ICEGATE" means the customs automated system of Central Board of Indirect Taxes and Customs;
+(e)
+"section" means section of the Act;
+(f)
+"service centre" means the place specified by the Principal Commissioner or the Commissioner of Customs, as the case
+may be, where the data entry of an electronic integrated declaration, is carried out;
+(g)
+"shipping bill" means an electronic integrated declaration accepted and assigned a unique number by the Indian
+Customs Electronic Data Interchange System, and includes its electronic records or print outs.
+Explanation. - For the purposes of this clause, the expression "electronic records" shall have the meaning assigned to it
+in the Information Technology Act, 2000 (
+21 of 2000
+);
+(h)
+"supporting documents" means the documents in the electronic form or otherwise, which are relevant to the clearance of
+the export goods under sections 17 and 50 of the Act, respectively.
+(2)
+Words and expressions used in these regulations and not defined but defined in the Customs Act, 1962 (
+52 of 1962
+) shall have the meanings as assigned to them in the said Act.
+3.
+Authorised person to enter, etc. electronic integrated declaration.
+Page 2/3
+----- PAGE 3 -----
+Shipping Bill (Electronic Integrated Declaration and Paperless Processing) Regulations, 20...
+- The authorised person shall -
+(a)
+enter the electronic integrated declaration and upload the supporting documents on the ICEGATE by affixing his digital
+signature on the ICEGATE; or
+(b)
+get the electronic integrated declaration made on the ICEGATE along with the supporting documents by availing the
+services at the service centre.
+Explanation. - For the purposes of this regulation, the expression "digital signature" shall have the meaning assigned to
+it in the Information Technology Act, 2000 (
+21 of 2000
+);
+4.
+Shipping bill when deemed to be filed and self assessment completed.
+- The shipping bill shall be deemed to have been filed and self-assessment completed when, after entry of the electronic
+integrated declaration on the ICEGATE or by way of data entry through the service centre, a shipping bill number is
+generated by the Indian Customs Electronic Data Interchange System for the said declaration.
+5.
+Order under section 51 or section 69.
+- After the completion of assessment, payment of duty or cess, etc. if any, and examination of export goods, if so
+required, an order permitting clearance, under sub-section (1) of section 51 or section 69 as the case may be, shall be
+made and the order under this regulation may be recorded on the ICEGATE and conveyed electronically to the
+authorised person, the custodian, and to any other person(s) designated by the authorised person.
+6.
+Retention of assessed copy of shipping bill and supporting documents.
+- The authorised person shall retain, for a period of five years from the date of presentation of the shipping bill, the
+assessed copy of the shipping bill, digital or otherwise, and all supporting documents in original, which were used or
+relied upon by him in submitting the electronic integrated declaration, and shall produce them before Customs
+authorities in connection with any action or proceedings under the Act or under any other law for the time being in force.
+7.
+Generation of authenticated copy of shipping bill.
+- An authenticated copy of shipping bill may be generated at the request of the authorised person if possession of the
+said copy is required by him for compliance of provisions of any law for the time being in force.
+8.
+Penalty for contravention, etc. of regulations.
+- Any authorised person who contravenes any provision of these regulations or who fails to comply with any provisions
+of these regulations shall be liable to a penalty which may extend to fifty thousand rupees.
+Related AI tags, queries and research notes
+Translation
+Page 3/3

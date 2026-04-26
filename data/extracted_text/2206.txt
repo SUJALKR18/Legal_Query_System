@@ -1,0 +1,351 @@
+
+----- PAGE 1 -----
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 20...
+The Quality Of Service (Code Of Practice For Metering And Billing
+Accuracy) Regulation, 2006
+Source: https://indiankanoon.org/doc/138298628/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 2006
+UNION OF INDIA
+India
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 2006
+Rule
+THE-QUALITY-OF-SERVICE-CODE-OF-PRACTICE-FOR-METERING-AND-BILLING-ACCURACY-REGULATION-200
+6 of 2006
+Published on 21 March 2006
+Commenced on 21 March 2006
+[This is the version of this document from 21 March 2006.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 2006
+Published vide Notification F. No. 305-8/2004 (QOS), dated 21.3.2006, published in the Gazette of India, Extraordinary,
+Part 3, Section 4, dated 22.3.2006.
+1040.
+TRAI, F. No. 305-8/2004 (QOS), dated 21st March, 2005. - In exercise of the powers conferred upon it under section 36
+read with paragraphs (i) and (v) of clause (b) and clause (d) of sub-section (1) of section 11 of TRAI Act, 1997, the
+Telecom Regulatory Authority of India hereby makes the following regulation, namely :-
+Page 1/7
+----- PAGE 2 -----
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 20...
+1.
+Short title, extent and commencement
+. - (i) This regulation shall be called "Quality of Service (Code of Practice for Metering and Billing Accuracy) Regulation,
+2006" (5 of 2006) (hereinafter called the "Regulation") .
+(ii)
+This regulation shall be applicable to all the Basic Service Providers, Unified Access Service Providers and Cellular
+Mobile Telephone Service Providers, including Mahanagar Telephone Nigam Limited and Bharat Sanchar Nigam
+Limited.
+(iii)
+This regulation shall come into effect from the date of its publication in the Official Gazette.
+2.
+Definitions
+. - In this regulation, unless the context otherwise requires,-
+(i)
+"Act" means the Telecom Regulatory Authority of India Act, 1997.
+(ii)
+"Basic Telecommunication Services" means services derived from a Public Switched Telephone Network (PSTN) and as
+specified in the license.
+(iii)
+"Cellular Mobile Telephone Services" means services derived from a Public Land Mobile Network (PLMN) & as specified
+in the license. This includes both Cellular Mobile Telephone Service provided through GSM and CDMA Technology.
+(iv)
+"Quality of Service" is the main indicator of the performance of a telephone network and of the degree to which the
+network conforms to the stipulated norms.
+(v)
+Words and expressions used in this regulation and not defined here shall bear the same meaning as assigned to them
+in the Act.
+3.
+Purpose of laying down the Code of Practice for metering and billing accuracy
+.-The purpose of laying down the Code of Practice for metering and billing accuracy is to:
+(i)
+Bring uniformity and transparency in the procedures being followed by service providers with regard to metering and
+billing.
+(ii)
+Prescribe standards relating to accuracy of measurement and reliability of billing.
+(iii)
+Measure the accuracy of billing provided by the Service Providers from time to time and to compare them with the norms
+so as to assess the level of performance.
+(iv)
+Minimize the incidences of billing complaints.
+(v)
+Protect the interest of consumers of telecommunication services.
+4.
+Code of Practice for metering and billing accuracy
+.-The service provider is required to comply with the Code of Practice for metering and billing accuracy as laid down in
+Annexure 1.
+5.
+Review
+. - The Code of Practice for metering and billing accuracy as given in regulation 4 above may be reviewed by the
+Authority from time to time. The Authority, on reference from any affected party, and for good and sufficient reasons,
+may review and modify this regulation.
+Page 2/7
+----- PAGE 3 -----
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 20...
+6.
+Auditing of metering and billing system
+.-The Authority shall notify the panel of auditors to certify the metering and billing system of service providers. The
+service providers shall arrange audit of their metering and billing system in compliance with this regulation on an annual
+basis through any one of the auditors as may be notified by the Authority and an audit certificate thereof shall be
+furnished to the Authority not later than 30th June of every year.
+7.
+Explanatory memorandum
+.-This regulation contains at Annexure 2, an explanatory memorandum, which explains the background and reasons for
+its issuance.
+8.
+Interpretation
+.-In case of any doubt regarding interpretation of any of the provisions of this regulation, the decision of the Authority
+shall be final and binding.
+Annexure-1
+Code of Practice for metering and billing accuracy
+1. Information relating to Tariffs
+1.1
+Before a customer is enrolled as a subscriber of any telecommunication service, he shall be provided in advance with
+detailed information relating to the tariff for using that service, in accordance with TRAI's Direction
+No.301-26/2003-TRAI(Eco) dated 2nd May, 2005 and No.301-49/2005-Eco dated 16.09.2005. Further, the service
+provider should inform the customer in writing, within a week of activation of service, the complete details of his tariff
+plan. Such information shall be in the format "C" prescribed in TRAI Direction No.301-26/2003-TRAI (Econ.) dated 2nd
+May, 2005. In addition, the following information shall also be provided.
+- Quantity related charges (e.g. the charge for each SMS message, or kilobyte of data transmitted).
+- Accuracy of measurement of time, duration and of quantity, and also the resolution and rounding rules, including the
+underlying units, used when calculating the charges for an individual event or an aggregation of events
+- Contractual terms and conditions for supply, restriction and cessation of Service
+1.2
+The information required in clause 1.1 shall be available on the Service Provider's web site, as prescribed in TRAI
+Direction No.301-26//2003-TRAI (Econ.) dated 2nd May, 2005.
+1.3
+Where a value-added service (e.g. download of content, such as a film clip or ring tone) or entry to an interactive service
+(such as a game) can be selected through a choice of the service user (e.g. by dialing a specific number) then the
+charge for the service must be provided to him before he commits to use the service.
+2. Provision of Service
+The services provided to the customer and all subsequent changes therein shall be those agreed with him in writing
+prior to providing the service or changing its provisions.
+4.
+3. Accuracy of Measurement
+3.1
+All charges must be consistent with the published Tariff applicable to the end-user charged.
+3.2
+Unless otherwise specified in the published Tariff or previously agreed Tariff, a charge shall be determined in
+accordance with the following limits :
+(a)
+Where the charge is dependent upon duration, the recorded duration shall be measured to within:
+(i)
+Between +1 seconds and –1 second; or
+(ii)
+Between +0.01% (1:10,000) to –0.02% (1:5,000)
+Page 3/7
+----- PAGE 4 -----
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 20...
+whichever is less stringent; and
+(b)
+where the charge is dependent upon the time of day, the time of day shall be recorded to within ±1 second, traceable to
+an appropriate time reference; and
+(c)
+where the charges are dependent upon the counting of occurrences of a particular type, the count shall be accurate to
+no more than plus 1/25,000 (0.004%) or minus 1/1,000 (0.1%).
+3.3
+Where measurement under clauses 3.2 (a), (b) & (c) reveals systematic errors in timing or counting that result in
+overcharged events which are not stated in published Tariffs then correction should take place to ensure accurate Bills.
+4. Reliability of Billing
+4.1
+The performance of a Total Metering and Billing System shall be, subject to the tolerances specified in clause 3.2 :
+(a)
+the numbers of items of service usage that are overcharged events or undercharged events, as a proportion of the total
+number of chargeable events, shall not exceed the limits shown in Table 1; and
+(b)
+the sum of the values of the errors in the overcharged events or undercharged events, as a proportion of the total value
+of the total number of Chargeable events, shall not exceed the limits shown in Table 1.
+Table 1
+Total Metering and Billing System reliability performance requirements
+Chargeable events
+Performance
+Number under or not charged
+0.1% (1 in 1000)
+Number overcharged
+0.004% (1 in 25,000)
+Value under or not charged
+0.05% (1 in 2000)
+Value overcharged
+0.002% (1 in 50,000)
+4.2
+Where implementation of an order for a service, feature or discount which depends on the number or duration of
+chargeable events is applied at variance with published Tariffs, each chargeable event within the scope of the incorrectly
+applied order shall be an undercharged event or an overcharged event, as appropriate, for the purposes of clause 4.1.
+4.3
+Where an item of service usage is completed other than intended, but the charge applied is correct for the service as
+delivered, this shall not be regarded as either an undercharged event or an overcharged event.
+4.4
+The increase in duration or number of items of service usage resulting from degraded transmission performance shall
+not be taken into account when computing the performance of the system.
+5. Applying Credit to Accounts
+5.1
+For post-pay accounts, payments made by a customer shall be credited to his account within 3 working days of receipt
+of the cash/ cheque. Where credit is given by the service provider, this shall be applied within one working day of its
+agreement.
+5.2
+For pre-pay accounts, top-up credit shall be applied to a customer's account within 15 minutes of its application. Where
+credit is given by the service provider, this shall be applied within 1 day of its agreement.
+6. Timeliness of Post Pay Billing
+6.1
+Page 4/7
+----- PAGE 5 -----
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 20...
+The timeliness of bill issue or bill data file issue shall be subject to systematic processes.
+6.2
+Any chargeable events the details of which are not available when the bill is prepared shall be included in a subsequent
+bill, but not later than the fourth monthly bill after the chargeable events occurred. Any details not so presented shall be
+written off and if significant be counted against the performance for undercharged events in clause 4.1. Exceptionally,
+event details from a separate service provider may be billed up to three months after receipt.
+6.3
+Agreement to extend the timescales described in clause 6.2 may be sought from the TRAI. An extension will only be
+available on an irregular basis. Decisions will be made on application for an extension concerning :
+(a)
+the method in which how customers will be informed of a protracted delay in rendering call records onto a subsequent
+bill; and
+(b)
+the integrity of the billing process audit arrangements.
+6.4
+The service provider shall contract with its delivery agent to ensure that an effectual bill or bill data file delivery schedule
+is in place. The existence of such a contract shall be subject to audit.
+7. Restriction and Removal of Service
+Where the service provider unilaterally intends to restrict or cease service to the customer, a notice shall be provided to
+the customer in advance of such action so that the customer has reasonable time to take preventive action to avoid
+restriction or cessation of service.
+8. Complaint Handling
+8.1
+The service provider shall have a documented process for identifying, investigating and dealing with billing complaints
+and creating appropriate records thereof.
+8.2
+The service provider shall carry out a root cause analysis for each upheld billing complaint, categorise the cause and
+establish proportionate remedial action to correct it.
+8.3
+Where the root cause affects multiple customer accounts, then all affected Bills shall, if practicable, be included in a
+recovery programme.
+8.4
+Where remedial action has not been completed and the cause is likely to affect other bills when issued, then the service
+7 provider shall take reasonable steps to ensure that they are checked and, if necessary, corrected, before being sent to
+the customer. If not checked and corrected such Bills shall be included in a recovery programme (clause 8.3).
+9.
+Materiality
+Compliance with the requirements contained in this regulation shall need to be demonstrated only in relation to products
+and services that have a material impact on the customer's bill. This materiality is deemed to be :
+(a)
+where the service provider's turnover from a product or service comprises 5% or more of its total turnover with the
+customers targeted for that product or service; or
+(b)
+where the number of customers subscribing to a product or service offered by the service provider comprises 5% or
+more of the customers targeted for that product or service; or
+(c)
+at the specific direction of the TRAI.
+10.
+Submission of Compliance.
+The service providers shall submit the compliance of above code of practice to TRAI on yearly basis.
+Annexure-2
+Page 5/7
+----- PAGE 6 -----
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 20...
+Explanatory Memorandum
+Background
+1. TRAI has been regularly receiving many billing related complaints, particularly from the mobile customers. For
+building the confidence of the subscribes in the Billingk and Call Charging Systems of Telecom Operators, an
+international consultant had been engaged to help carry out an audit of the metering and billing system of different
+service providers. The objective of the exercise was to help TRAI define the parameters with benchmarks for fair and
+reliable metering and billing system. The auditing of the billing of mobile operators revealed that while the billing systems
+being used by various operators are comparable to other systems being deployed by major international players, some
+of the process/procedure being followed by the mobile operators leads to customer complaints and the attendant
+customer dissatisfaction.
+2. As a follow-up to the audit of the billing system of mobile operators, the Authority had developed a draft Code of
+Practice for metering and billing accuracy, which has benchmarks for metering and billing system, so as to bring
+standardization and transparency in the procedures being followed by various operators. The Authority had undertaken
+public consultation on the draft Code of Practice for metering and billing accuracy along with other issues emerged out
+of auditing of billing systems of mobile operators such as charging for undelivered SMS and short duration calls by
+releasing a Consultation Paper on these issues on 2nd May, 2005. This paper discusses these benchmarks, Code of
+practice for metering and billing accuracy, the international Practices and regime for regulating the Code of Practice.
+Open House Discussions with the stakeholders were held at Hyderabad, Kolkata, Mumbai and Delhi in
+September/October 2005. The Authority considered the comments received from stakeholders while finalizing the
+regulation.
+Code of Practice for metering and billing accuracy
+3. The service providers, though broadly in agreement with the benchmarking and Code of Practice, were not in favour
+of a separate benchmarking other than those given in the QOS Regulation. The parameter given in the QOS regulation
+is complaints-based measure of billing accuracy. While analysis of upheld billing complaints to find root.causes is useful
+in preventing further occurrences of a problem, and is to be encouraged, it is a proactive process. System assessment
+and performance measurement, if done frequently, has the advantage of identifying problems and rectifying them before
+the subscriber becomes aware of them. This reduces the incidence of complaints, benefiting the operator through the
+reduction of costs of complaint handling and reducing the burden of complaints referred to the regulator. As such, the
+Authority felt that it would be appropriate to implement a Code of Practice for metering and billing accuracy.
+Information relating to Tariffs
+4.1
+During the consultation process on billing issues TRAI had issued the following directions/order relating to tariff :
+(i)
+Presenting, marketing or offering tariff plan in any misleading manner is not permitted. All monthly fixed recurring
+charges which are compulsory for the subscriber under any given plan shall be conveyed as a single figure under one
+head (TRAI's direction dated 16-9-2005).
+(ii)
+The Service Providers must inform the customer in writing, within a week of activation of service, the complete details of
+his tariff plan. In addition, as and when there are any changes in any aspect/item of tariff in the chosen package, the
+operator shall intimate, in writing, such changes to those subscribers whose tariff packages undergo a change (TRAI's
+direction dated 29-6-2005 on information to customers about complete details of the tariff plan).
+(iii)
+The Service Providers must publish in all communications/advertisements relating to premium rate services, e.g. ring
+tones, wall paper, astrology, quiz etc. the pulse rate/tariff for the service (TRAI's direction dated 3-5-2005 on Premium
+Rate Services).
+(iv)
+Websites of the service providers shall contain comparison of tariff plans in terms of estimated monthly bill i.e. financial
+implications based on certain preset assumptions along with the complete details (TRAI's direction, dated 2-5-2005).
+4.2
+These directions/order are also incorporated in the Code of Practice. The information regarding rounding rules, accuracy
+of measurement of time and of quantity, and also the resolution and rounding rules, including the underlying units, used
+Page 6/7
+----- PAGE 7 -----
+The Quality Of Service (Code Of Practice For Metering And Billing Accuracy) Regulation, 20...
+when calculating the charges for an individual event or an aggregation of events could be given to a customer in writing
+at the time of his enrolment or immediately thereafter, but within a week of activation of service. In the case of a pre-paid
+customer this information could be given along with the SIM Card.
+4.3
+Presently the service providers are offering a range of value added services, many of which are premium rate services
+like tele-voting, telequiz, games, contests etc. In order that the customer is aware of the different rates for these
+premium rate services it has been provided in the Code of Practice that the customer should be provided information
+about the charges for the premium rate service every time before he commits to use the service. The service providers
+should implement necessary changes in their IVR system for enabling automatic provisions of information about
+premium rate services.
+4.4
+Regarding provision of service at Item 4.1 (ii), the service providers had represented that SMS may be allowed as a
+medium for obtaining the consent of the customer for any service. The Authority has accepted this suggestion and SMS
+could be used as a medium for obtaining the consent of the customer for any service. Such consent through SMS
+should be explicit and there shall be no deemed consent i.e. consent through default, if no message is received by the
+service provider.
+5. The Authority shall identify a panel of Agencies capable for auditing the billing system. These Agencies are expected
+to be notified by 30th April, 2006. The service providers may appoint any one of these Agencies for auditing their billing
+system vis-a-vis the Code of Practice for metering and billing accuracy. The certification of the billing system should be
+done on an annual basis. The Certificate issued by the Agency shall be filed with TRAI not later than 30th June of every
+financial year. The charges for such certification of the billing system shall be borne by the service providers. The
+service providers shall take corrective action on the inadequacies, if any, pointed out by the Agency in the Certificate
+and an Action Taken Report thereon shall be filed with TRAI not later than 30th September of every financial year.
+6. Before finalisation of this regulation, this regulation in its draft form was sent to all the service providers and consumer
+organizations for their comments.
+Related AI tags, queries and research notes
+Translation
+Page 7/7

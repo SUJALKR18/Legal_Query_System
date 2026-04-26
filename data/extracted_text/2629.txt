@@ -1,0 +1,248 @@
+
+----- PAGE 1 -----
+Legal Metrology (Numeration) Rules, 2011
+Legal Metrology (Numeration) Rules, 2011
+Source: https://indiankanoon.org/doc/128725550/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Legal Metrology (Numeration) Rules, 2011
+UNION OF INDIA
+India
+Legal Metrology (Numeration) Rules, 2011
+Rule LEGAL-METROLOGY-NUMERATION-RULES-2011 of 2011
+Published on 7 January 2011
+Commenced on 7 January 2011
+[This is the version of this document from 7 January 2011.]
+[Note: The original publication document is not available and this content could not be verified.]
+Legal Metrology (Numeration) Rules, 2011
+Published vide Notification No. GSR 13 (E) Dated 7.1.2011.
+2051.
+MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION
+(Department of Consumer Affairs)
+NOTIFICATION
+G.S.R. 13(E)., New Delhi, the 7th January, 2011-In exercise of the powers conferred by sub-section (1) read with clause
+(f) of sub-section (2) of section 52 of the Legal Metrology Act, 2009 (
+1 of 2010
+), the Central Government hereby makes the following rules, namely: 
+1.
+Page 1/5
+----- PAGE 2 -----
+Legal Metrology (Numeration) Rules, 2011
+Short title and commencement.
+(1)
+These rules may be called the Legal Metrology (Numeration) Rules, 2011.
+(2)
+They shall come into force [on the 1st of April, 2011]
+[Substituted Notification No. G.S.R. 109 (E) dated 23.2.2011 "on the 1st day of March, 2011"]
+2.
+Procedure for making Numeration.
+(1)
+Every numeration shall be made in accordance with the decimal system.
+(2)
+Every number shall be represented on base ten.
+(3)
+In representing any number in digits, the International form of Indian numerals, namely, 0,1,2,3,4,5,6,7,8,9 or a
+combination thereof shall be used.
+3.
+Manner in which numbers exceeding three digits shall be written in words.
+-Numbers expressed in digits exceeding three shall be written in words in the manner specified in the Schedule annexed
+to these rules.
+4.
+Manner in which numbers shall be written.
+(1)
+While writing In accordance with any Indian· terminology, any number in digits exceeding three, the decimal point shall
+be taken as the starting point and the first three digits, whether to the left or right of the decimal point, shall be grouped
+together and the subsequent digits shall be divided in groups of two and neither dots nor commas shall be inserted in
+the spaces intervening between such groups of digits.
+Example: 23 14 345.732 23 50.
+(2)
+While writing in accordance with English terminology, any number in digit exceeding three, the deCimal point shall be
+taken as the starting point and the digits, whether to the left or to the right of the decimal point, shall be divided into
+groups of three, starting from the decimal point and neither dots nor commas shall be inserted in the spaces intervening
+between such groups of digits.
+Example: 123 345.732 456.
+5.
+Repeal and savings.
+(1)
+The Standards of Weights and Measures (Numeration) Rules, 1987 (herein under referred to as the said rules) and
+hereby repealed.
+Provided that such repeal shall not affect:
+(a)
+the previous operations of the said rules or anything done or omitted to be done or suffered therein; or
+(b)
+any right, privilege, obligation or liability acquired, accrued or incurred under the said rules; or
+(c)
+any penalty, forfeiture or punishment incurred in respect of any offence committed against the said rules; or
+(d)
+any investigation, legal proceedings or remedy in respect of any such right, privilege, obligation, liability, penalty,
+forfeiture or punishment as a foresaid. And any such investigation, legal proceedings or remedy may be instituted,
+continued or enforced and any such penalty, forfeiture or punishment may be imposed as if the said rules had not been
+rescinded.
+(2)
+Page 2/5
+----- PAGE 3 -----
+Legal Metrology (Numeration) Rules, 2011
+Notwithstanding such repeal anything done or any action taken or purported to have been done or taken including
+approval of letter, exemption granted, fees collected, any adjudication, enquiry or investigation commenced or show
+cause notice, decision, determination, approval, authorisation issued, given or done under the said rules shall if in force
+at the commencement of the said rules continue to be in force and have effect as if issued, given or done under the
+corresponding provisions of these rules.
+(3)
+The provisions of these rules shall apply to any application made to the Central Government or as the case may be the
+State Government under the said rules for licence, registration of manufacturers, importers, dealers, repairers of weights
+and measures pending at the commencement of these rules and to any proceedings consequent thereon and to any
+registration granted in pursuance thereof.
+(4)
+Any legal proceeding pending in any court under the said rules at the commencement of these rules may be continued
+in that court as if these rules had not been framed.
+(5)
+Any appeal preferred to the Central Government or as the case may be the State Government under the said rules and
+pending shall be deemed to have been made under the corresponding provisions of these rules.
+SHEDULE
+(See Rule 3)
+Serial
+Number
+Numeral
+Hindi
+numeration
+in
+Roman Scripts
+Hindi
+numeration
+in
+Devnagiri
+Numeration
+in English
+1
+103
+Hazar
+gtkj
+Thousand
+2
+104
+Das
+Hazar
+nl gtkj
+Ten
+thousand
+3
+105
+Lakh
+yk[k
+Hundred
+thousand
+4
+106
+Page 3/5
+----- PAGE 4 -----
+Legal Metrology (Numeration) Rules, 2011
+Das
+Lakh
+nl yk[k
+Milion
+5
+107
+Crore
+djksM
+Ten
+Million
+6
+108
+Das
+Crore
+nl djksM
+Hundred
+Milion
+7
+109
+Arab
+vjc
+Billion
+8
+1010
+Das
+Arab
+nl vjc
+Ten
+Billion
+9
+1011
+Kharab
+[kjc
+Hundred
+Billion
+10
+1012
+Das
+Kharab
+nl [kjc
+Trillion
+11
+1013
+Neel
+uhy
+Ten
+Trillion
+12
+1014
+Das
+Neel
+Page 4/5
+----- PAGE 5 -----
+Legal Metrology (Numeration) Rules, 2011
+nl uhy
+Hundred
+Trillion
+13
+1015
+Padam
+ine
+Thousand
+Trillion
+14
+1016
+Das
+Padam
+nl ine
+Ten
+Thousand Trillion
+15
+1017
+Shankh
+'ka[k
+Hundred
+Thousand Trillion
+16
+1018
+Das
+Shankh
+nl 'ka[k
+Thousand
+Thousand Trilli
+Related AI tags, queries and research notes
+Translation
+Page 5/5

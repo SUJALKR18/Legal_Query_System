@@ -1,0 +1,2559 @@
+
+----- PAGE 1 -----
+Bihar Registration Rules, 2008
+Bihar Registration Rules, 2008
+Source: https://indiankanoon.org/doc/181967342/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+11
+]
+State of Bihar - Act
+Bihar Registration Rules, 2008
+BIHAR
+India
+Bihar Registration Rules, 2008
+Rule BIHAR-REGISTRATION-RULES-2008 of 2008
+Published on 17 October 2008
+Commenced on 17 October 2008
+[This is the version of this document from 17 October 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+Bihar Registration Rules, 2008
+Published vide Notification No. S.O. No.-I/M1- 229/2006-2653, dated 17.10.2008
+Last Updated 8th February, 2020
+S.O. No.-I/M1- 229/2006-2653. - In exercise of the power conferred by clause (a) and (aa) of sub Section (1) of Section
+69 of the Registration Act 1908 (as amended by Registration and other related laws (amendment) Act 2001 the
+Inspector General of Registration with the approval of the Government of Bihar makes following Rules: -
+Chapter - I 1. Short Title Extent & Commencement.
+(1) These rules may be called the Bihar Registration Rules 2008.
+(2) It shall extend to the whole of the State of Bihar.
+(3) It shall come into force with effect from the date of notification.
+2.
+Page 1/48
+----- PAGE 2 -----
+Bihar Registration Rules, 2008
+Definition.
+- In these rules unless there is any thing repugnant in subject or context -
+(i)
+"The Act" means The Registration Act 1908;
+(ii)
+"Appendix" means an Appendix to these Rules;
+(iii)
+"District Sub Registrar" means the Sub-Registrar at the district headquarter whose office is amalgamated with the office
+of the Registrar and having the powers of the Registrar delegated from time to time;
+(iv)
+"Registration officer" includes both a District Sub Registrar and a Sub-Registrar,
+(v)
+"Minimum Value Register" to be referred herein as "MVR" means the Guidelines register of minimum estimated value of
+land as prepared under the Bihar Stamp (Prevention of under-valuation of Instruments) Rules 1995 and Bihar Stamp
+(Prevention of Under Valuation of Instruments) (Amendment) Rules 2006 for implementation of Sec.. 47-A of the Indian
+Stamp Act 1899;
+(vi)
+"Computer" means computer as defined u/s 2(1)(i) of the Information Technology Act 2000;
+(vii)
+"Computer Operator" means an employee of the Registration Office State level Society and District level Societies BOT
+operator or Hardware supplier who works on computer under the instructions of the Registering Officer;
+(viii)
+"Computer system" means computer system as defined u/s 2(1)(l) of the Information Technology Act 2000;
+(ix)
+"Archival" means capturing data including images on the electronic storage media like CD DVD the tape the Hard Disk
+and the like with the intention of preserving the same for long periods and for retrieving in contemporary electronic
+system whenever required and includes re-archiving and includes preservation of Books and Fee Books prepared
+manually from hard copies;
+(x)
+"CD" or "Compact Disk" or "DVD" means an electronic record or electronic storage device on which data including
+images can be stored in an electronic digital form and may be transferred into contemporary electronic system;
+(xi)
+"electronic record" means data record or data generated image or sound stored received or sent in a form of microfilm or
+computer generated microfiche;
+(xii)
+"Hardware" means the electronic devices like Computer Scanner Printer CD DVD Web Camera Biometric Device and
+other devices used to capture store and process data in digital form and include generator and other devices for
+providing uninterrupted power supply to the system;
+(xiii)
+"Scanner" means an electronic device used in conjunction with a computer and a suitable software to convert
+documents on paper into electronic digital images to be stored on electronic media and to be retrieved when required
+and the words 'scanning' and 'scanned' shall be construed accordingly;
+(xiv)
+"Software" means a set of computer programmes or coded instructions given to the computer system to make the latter
+perform different predetermined functions and to generate the desired output and includes software for operating system
+and for managing database;
+(xv)
+"Web Camera" and "Biometric Devices" includes a digital camera for taking photographs in electronic digital images and
+finger print scanner respectively;
+(xvi)
+"PDF files" mean files generated on computer portable document format capable of not being tampered after being
+Page 2/48
+----- PAGE 3 -----
+Bihar Registration Rules, 2008
+written;
+(xvii)
+"District level Societies" mean Societies registered under Societies Registration Act 1860 in each district for the
+purposes of supplying hardware meeting the expenditure of computerization activity and ensuring smooth functioning of
+computerized system of registration;
+(xviii)
+"State level Society" or "BISCORE" means the Society registered under Societies Registration Act 1860 at state level
+and headed by a state government official of rank not below that of the Secretary to the state government for the
+purposes of preserving and maintaining the Software used in the process of registration and for providing guidance and
+supervision to the District level Societies.
+3.
+Territorial jurisdiction.
+(1)
+The jurisdiction of a Sub Registry office shall be on the basis of mouzas specified by revenue thanas revenue circles
+and the district.
+(2)
+The sub registry office situated at the District headquarter and amalgamated with the office of the Registrar shall be
+known as District Sub Registry office.
+(3)
+The state government in public interest by notification may: -
+(i)
+remove a Sub Registry office from one place to establish it at other place or,
+(ii)
+create a Sub Registry office at any place if so required.
+Chapter - II 4. Registration of documents.
+(1)
+The registration of the documents shall be done through a computerized process using software prescribed by the
+Department of Registration.
+Provided that manual registration may continue till computerized registration process does not start in a registration
+office.
+Provided further that after the registry office adopts computerized process of registration manual registration shall not be
+undertaken in any circumstance.
+(2)
+The stamp duty registration fee and all other payable fees shall be paid by the parties through the Challan prescribed in
+Form no-1 of Appendix-A.
+(3)
+District level Society specially created for this purposes and headed by the Collector-cum-District Registrar ex-officio
+shall undertake financial aspects of computerization activity. Inspector of Registration offices (IRO) of the concerned
+Division and all Registering Officers in the district shall be its ex-officio members. District sub Registrar will be its
+ex-officio member-Secretary. The IRO shall be ex-officio vice-chairman of the executive committee of the society.
+(4)
+A society shall be registered at the State level for technical support and guidance to the district level societies. The
+Assistant Inspector General of Registration in-charge of computerization shall be its Member-Secretary.
+(5)
+The State level society shall be responsible for maintaining the software procured by the state government for use in the
+computerized process of registration. No other software shall be utilized for the registration process.
+(6)
+A service charge shall be charged for each page of the document registered by the district level society at the rate
+decided by the Department of Registration from time to time. The expenses on hardware consumables and other
+incidental items shall be met from the amount collected as service charge. The remaining amount shall be transferred to
+a State level society for meeting the objectives of the State level society and the District level societies:
+Page 3/48
+----- PAGE 4 -----
+Bihar Registration Rules, 2008
+Provided that there may be different service charges for different districts.
+(7)
+The hardware for computerized registration system shall be procured on hire basis by the District level society under the
+overall guidance of the State Level society:
+Provided that it will be permissible to purchase occasional hardware for augmenting the efficiency of system taken on
+hire basis.
+(8)
+Service charge shall also be deposited by the parties in the bank account of the District level society through the
+composite challan mentioned in sub-rule (2) above.
+5.
+Conditions of admissibility.
+- The details of land and property as are referred to in Rule 3 of the MVR Rules shall be deemed to be sufficient
+description for identification of property under Section 21 of the Act.
+6.
+Preparation of the documents.
+(1)
+The parties shall be at liberty to get their documents prepared either on Stamp paper or on plain A-4 size paper of the
+standard of Royal Executive Bond paper. All enclosures maps and plans shall also be in the size of A-4 size Bond
+Paper.
+(2)
+Section 68-A(2) of the Act provides for the document writing by the advocates pleaders and mukhtars in addition to by
+the document writers licensed for this purpose. The parties shall also be at liberty to draw up their documents
+themselves.
+Explanation. - The Registration Department may also make standard formats available to the public for commonly used
+instruments either directly or through some agency.
+Chapter - III 7. Presentation of documents.
+(1)
+The document shall before being presented before the Registering Officer u/s 32 be placed along-with its enclosures
+and the party's copy of the challan of payment before the computer operator authorized for this purpose. The computer
+operator shall enter data as required in Appendix--B of these Rules and check the availability of enclosures as required
+in Appendix- C and shall process it through the software provided for this purpose.
+(2)
+The computer operator shall on one hand generate a draft memo of presentation for the assistance of the presentient
+and on the other hand shall generate a draft of endorsements required by Registering Officer for his assistance.
+(3)
+The memo of presentation shall be in the form as mentioned in Appendix-B of these Rules and shall clearly indicate the
+stamp duty registration fee and other fees required under law to be paid by the parties for registration as also the
+amount actually paid by the parties.
+(4)
+If the amount paid by the parties is less than the amount to be paid under law the memo of presentation shall indicate
+the deficient amount and the party shall be expected to pay it again in the bank in the same manner as prescribed in
+sub-rule (1). In such cases on presentation of the supplementary challan as a proof of payment of the remaining amount
+the computer operator shall enter the same and generate fresh memo of presentation for the party.
+(5)
+The operator shall return the memo of presentation along with the document and its enclosures to the party for
+presentation before the Registering Officer u/s 32 of the Act. The presentient shall sign the memo of presentation and
+present the document along with it to the Registering Officer.
+(6)
+The Registering Officer shall cause a receipt generated under Section- 52 of the Act in Form--2 of Appendix--A and be
+provided to the presentient from the computer operator.
+8.
+Page 4/48
+----- PAGE 5 -----
+Bihar Registration Rules, 2008
+Procedure in case of presentation u/s 25 or appearance u/s 34.
+- In cases where the registrar permits the presentation of the instrument with fine after four months as prescribed in
+Section-25 or permits appearance of the executant under proviso of Section-34 the presentient or the executant which
+ever is the case shall submit an application before the Registering Officer stating the cause of delay who shall forward it
+to the District sub registrar on the same day. The Registering Officer shall dispose of such petition for delayed
+presentation and/or the admission of execution instantly where after the document shall undergo the procedure of
+computerized registration.
+9.
+Registration of documents.
+(1)
+On presentation of the document the Registering Officer shall check as to whether the document has been classified
+correctly and shall verify online from bank's computer as to whether the amount mentioned in challan has actually been
+paid. He shall further examine that --
+(a)
+the enclosures required under law have been provided,
+(b)
+the challan and the stamp papers are genuine,
+(c)
+the document is admissible for registration under Act and the Rules,
+(d)
+the parameters of urban property given are prima-facie acceptable,
+(e)
+there is no inter-lineation blanks erasures or alterations in the document.
+Provided that till on-line computer connectivity is available the Registering Officer shall make alternative arrangement for
+cross verification of the deposits.
+(2)
+If the presentient chooses to present the document with stamp duty less than that permissible as per MVR the
+Registering Officer shall refer the case to the IRO exercising the delegated authority of the collector u/s 47-A of the
+Stamp Act.
+(3)
+If the Registering Officer is satisfied that the document is admissible under the Act and the Rules it satisfies all the
+requirements mentioned in sub rule (1) and the stamp duty has been paid as per Schedule 1-A of the Indian Stamp
+Act,1899 the digital photograph and the finger-prints of the parties and photograph and the thumb impression of the
+identifiers shall be captured on the back of the first page and if necessary continued on the back of the subsequent
+pages of the document.
+(4)
+The Registering Officer shall register the document if all the executants appear and admit their execution. He shall sign
+the endorsements of admissibility and endorsement u/s 52 58 and 60 in Form-3 in Appendix-A simultaneously and affix
+his signature on the front of each page of the document along with his seal.
+(5)
+Where all the executants do not appear the Registering Officer shall sign the endorsements except that required under
+Section- 60 with respect to the persons who have appeared. In such cases if the other executants appear and admit
+their execution within the time prescribed u/s 34 the Registering Officer shall at that later point of time sign the
+endorsements under Section-58 with respect to them after all executant's appearance and admission of execution by all
+executants  shall also sign endorsement u/s 60. In such cases an additional sheet in Form-3 of Appendix-A shall be got
+generated through the computer for the use of Registering Officer.
+(6)
+The document so registered shall be forwarded to the computer operator and the enclosures shall be forwarded to the
+clerks responsible for their maintenance.
+(7)
+A consolidated gist of all endorsements in Form no-4 of Appendix-A shall be generated on the first page of the
+Page 5/48
+----- PAGE 6 -----
+Bihar Registration Rules, 2008
+registered document below the impression of stamp or on the top of it if the document is on plain paper. The gist shall
+necessarily contain the name of the Registering Officer date of registration Book number and the page numbers of the
+Book on which the document has been registered.
+(8)
+The registered document shall be forwarded to the computer operator in-charge of scanning the document that shall
+scan the entire document and print a hard copy of the registered document.
+(9)
+The computer operator shall make an endorsement- 'scanned by me' on the last page of the document and shall put his
+signature and date as a proof that he has scanned the document. He shall also make a similar endorsement and sign it
+on the hard copy.
+(10)
+Each hard copy of the registered document shall be certified by the Registering Officer to be a true copy of the electronic
+record at the end of the day.
+10.
+Maps and Plans.
+- The Registering Officer shall write the deed number Book number and year on the maps and plans enclosed with the
+document before the document is scanned.
+11.
+Prompt return of the document after registration.
+- As soon as the document is registered and scanned it shall be returned to the presentient or person authorized by him
+for this purpose in writing on submission of receipt issued under Rule 7(6). The office shall keep the receipt in its record.
+Explanation 1. - Every endeavour shall be made to return the registered document to the presentient after scanning it on
+the same day preferably within 20-30 minutes.
+2. In exceptional cases where the presentient requests in writing the registered document may be returned to a person
+nominated by him for this purpose on submission of receipt issued under Rule 7(6)
+12.
+Identification of the executant.
+- The identification of the executant shall be done preferably by one of his co-villagers whose identity may be verified by
+any of the following documents --
+(i)
+Voter's identity card,
+(ii)
+Ration card,
+(iii)
+PAN card,
+(iv)
+Motor vehicle license:
+Provided that a licensed document writer of that office may also identify an executant.
+13.
+Signature of illiterate Person.
+- When a person who cannot write shall sign his name by means of a mark or by touching the pen his name shall be
+recorded at length and the writer of the name shall also sign his name and put his own signature in attestation that the
+mark was affixed or the pen touched in his presence.
+14.
+Procedure of registration of documents presented in duplicate triplicate copies etc.
+- Where two or more than two copies of the same document is presented for registration at the same time each
+document shall be separately registered and scanned in the same manner as original one following the procedure
+described in Rule 7 & 9.
+15.
+Procedure of re-registration of documents.
+- A document tendered for reregistration shall be treated in all respects as if it were a new document and shall be
+Page 6/48
+----- PAGE 7 -----
+Bihar Registration Rules, 2008
+registered and scanned afresh following the procedure described in Rule 9.
+16.
+Registration at a place other than the office.
+(1)
+Whenever the Registering Officer is required to attend to the parties at a place other than his office under the provisions
+of Section- 31 33 and 38 he shall himself attend the party on payment of fees prescribed in article J and K of the Table
+of Fees and take the photograph and finger prints and the admission of execution of the document manually or through
+the mobile computer unit.
+(2)
+Such documents shall also be registered through the procedure as prescribed for computerized registration except to
+this extent immediately after being brought to the office.
+17.
+Enquiry by the Registering Officer under MVR Rules.
+- The Registering Officer is expected to get an enquiry made under Rule 4(4) of MVR rules of the information furnished
+in all instruments of conveyance registered by him with respect to details of land and property and if it is found that any
+wrong information has been given with a view to evade the stamp duty he shall refer the case to the Collector under
+Rule 10 of the MVR rules.
+18.
+In cases in which the Registering Officer is interested personally.
+(1)
+The document in which a sub-registrar is interested personally either directly or indirectly shall be registered by the
+District sub-registrar only.
+(2)
+The document in which a District sub-registrar is personally interested directly or indirectly shall be registered by a
+sub-registrar deputed by the District Registrar to register that document specifically.
+Chapter - IV 19. Refusal of duly presented document.
+- A duly presented document may be refused for registration under following circumstances: --
+(i)
+If the description of identification of the property as defined in Rule-5 has not been given as required under the Act and
+Rules.
+(ii)
+If the executant denies execution (Section 35).
+(iii)
+If the executant fails to appear and admit execution (Section34).
+(iv)
+If the person by whom the document purported to have been executed were dead and his representative or assign deny
+execution (Section 35).
+(v)
+If the person purporting to have executed the document appear to be a minor an idiot or a lunatic (Section 35).
+(vi)
+If the Registering Officer is not satisfied by the identity of the person appearing before him claiming that he has executed
+the document (Section 35):
+Provided that a document shall not be refused under this clause unless the party fails to prove his identity within the time
+allowed under Section 34.
+(vii)
+If the Registering Officer is not Satisfied of the truth of the allegation that a person who executed the document is dead
+(Section 35):
+Provided that a document shall not be refused for registration under this clause unless the party fails to prove the death
+of the executant within the time allowed in Section 34.
+(viii)
+If the admitting agent's power-of-attorney has not been made in accordance with the Act or if an alleged representative
+Page 7/48
+----- PAGE 8 -----
+Bihar Registration Rules, 2008
+or assign has failed to prove his status (Section 35).
+(ix)
+If the parties fail or refuse to mention the additions of executants and claimants.
+(x)
+If the prescribed fee or fine has not been paid under Section 25 34 and 80 of the Act.
+(xi)
+If a document is said to be executed by a deaf and dumb person who does not understand the transaction nor express
+himself by signs or in writing.
+(xii)
+Where a person admits his signature to a document but states that he signed the paper when it was blank and no
+document was written thereon.
+(xiii)
+If a deed of surrender of lease which claimed exemption from stamp duty because the original lease was so exempt is
+presented and the party refuses to produce the original lease or a certified copy of it in order to satisfy the Registering
+Officer that the document is either properly stamped or not liable for stamp duty.
+(xiv)
+Where any or some of the representatives of a deceased executant deny execution while others admit it registration of
+the document shall be wholly refused subject to the provisions of Section 73 of the Act.
+(xv)
+On refusal or neglect to appear on an appointed date after services of summons under Section 36 of the Act.
+20.
+Reasons of refusal to register to be recorded.
+(1)
+The Registering Officer while refusing the registration of a document shall clearly state the reasons of refusal in his own
+hand and the same shall be recorded in the computer on the same day. The serial number of such refusals shall be
+numbered consecutively for a calendar year and shall be kept as Book no- II. A printout of the order shall also be taken
+from the computer to verify that it has been entered in the computer correctly.
+(2)
+The Registering Officer after recording the refusal in Book no- II shall immediately communicate the same to the
+presentient of the document either by post or by any other reliable means.
+(3)
+Records of refusal in Book no-II shall be in Form-5 in Appendix-A.
+21.
+Procedure on failure of the executant to appear within four months from execution of the document.
+(1)
+When a document has been presented to a sub-registrar for registration within the period prescribed by Section 23
+namely within four months from date of execution and the executant fails to appear to admit execution within that period
+the sub-registrar shall immediately after the expiry of said period record a formal refusal to register for being entered in
+Book-II leaving it to the parties to appeal to the Registrar under Section 72 within thirty days if they think proper Provided
+that the Sub-Registrar shall not record such an order of refusal if the person presenting the document or claiming under
+it has before the expiry of the said period initiated proceedings under Section-36 to procure the appearance of the
+executant or has taken steps under Section 38 for his examination.
+(2)
+In the case of an appeal under Section 72 mentioned in sub rule (1) the Registrar shall not pass an order directing the
+Sub-Registrar to register the document unless it is shown on the appearance of the executant before the Registrar that
+his non-appearance before the Sub-Registrar within the period prescribed by Section 23 was due to urgent necessity or
+unavoidable accident. If the Registrar passes such an order a fine shall be imposed as provided in the proviso to Section
+34(1).
+(3)
+In the case referred to in the proviso to sub rule (1) the Registrar shall on receipt of the Sub-Registrar's report direct the
+document to be kept pending the disposal of the proceeding initiated under Section 36 or under Section 38 but not for a
+Page 8/48
+----- PAGE 9 -----
+Bihar Registration Rules, 2008
+period exceeding eight months from the date of execution.
+Chapter - V 22. Indexes.
+(1)
+Indexes No. I II III and IV shall be automatically generated by the computer. They shall be maintained in Form numbers I
+II III and IV of Appendix-D.
+(2)
+The pages of indexes shall be numbered serially and shall be kept in English.
+(3)
+Memoranda and sale certificates shall also be indexed in the manner as provided in sub rule (1) and (2) of this rule
+above.
+23.
+Memoranda of documents.
+(1)
+The memoranda required by Section 66 of the Act shall be electronically generated and sent to the concerned
+sub-registrar in Form No.- 10 in Appendix- E in such a way that it reaches him on the same day.
+(2)
+The concerned sub registrar shall preserve it in a separate file to be called Memoranda File.
+24.
+Supplementary Documents.
+(1)
+A registered document of sale mortgage or settlement can be rectified for an error or omission by a supplementary
+agreement if it does not change the document materially.
+Explanation. - Change or addition in the name of any party; change or addition in boundary location or extent of the
+property and change in the consideration amount of the instrument shall be deemed to be a material change in the
+document.
+(2)
+A supplementary document rectifying a registered document shall be registered only if presented with original document
+and when all certified copies issued are available before the Registering Officer.
+(3)
+The Registering Officer shall exercise his authority under Section 84 of the Act for procurement of all such certified
+copies.
+(4)
+The Registering Officer shall make endorsement regarding the gist of the rectification not only in the book preserving the
+copy of the document but also on the original document and on the certified copies of the parties simultaneously.
+Registering Officer shall also supplement the information in the database and will flag the pdf file of the original
+document in the concerned CD for not being copied without the copy of supplementary document:
+Provided that such rectification deed shall not be registered after one year of the registration of the original document.
+25.
+Endorsements.
+- All endorsements shall be made in the following forms --
+(1)
+Following four endorsements,
+(a)
+Certificate of admissibility under Rule-5in Form-3(a)
+(b)
+Endorsement under Section 52 in Form-3(b)
+(c)
+Endorsement under Section 58 in Form-3(c) and
+(d)
+Endorsement of registration under Section 60 in Form no-(3d) of Form No- 3 in Appendix-A shall be on one sheet of the
+document. This sheet of endorsement shall be an essential part of the document and shall be enclosed after the last
+Page 9/48
+----- PAGE 10 -----
+Bihar Registration Rules, 2008
+page of the document and shall be scanned with the original document.
+(2)
+In addition to the above endorsements a summary of all the endorsements in Form no.- 4 in Appendix- A shall be printed
+on the front page of the document.
+(3)
+Every visit under Rule-18 shall be made in Form no-6 in Appendix-A and shall be written on the back of the Second
+sheet of the document.
+(4)
+Endorsement for registration of wills and authority to adopt under Section 41 shall be in Form no- 7 in Appendix-A.
+(5)
+When a sealed cover containing a will is opened the endorsement of opening shall be in Form no- 8(a) in Appendix- A
+and when sealed cover containing a will is opened under an order of the Court the endorsement shall be recorded in
+Form no-8(b) in Appendix-A.
+26.
+Administration and record of oath.
+(1)
+The discretion reposed in the Registering Officer by Section- 63 to administer oath shall not be exercised unless he
+doubts the truth of any verbal statement made to him.
+(2)
+An oath or affirmation administered by a Registering Officer shall be administered according to the form of oath or
+affirmation prescribed by the High Court of Judicature at Patna for witnesses under Section- 7 of the Indian Oaths Act (X
+of 1873) and reproduced in Form no-9 in Appendix-A.
+(3)
+Statements made on oath shall not be recorded on the document to which they relate but shall be recorded on a
+separate sheet of paper and a note to the effect that the statements have been so recorded shall be endorsed on the
+document it self.
+Chapter - VI 27. Provisions of Power of Attorney.
+(1)
+A power of attorney shall not be recognized as authorizing an agent to act on behalf of a principal under the Act unless it
+contains an express or implied authority in that behalf.
+(2)
+Powers of attorney that contains or imply an authority to appear in a registration office to present documents for
+registration under Section-32 on behalf of the principal or to admit the execution of documents under Section- 34
+executed by the principal must be authenticated under Section- 33(a).
+(3)
+Endorsements on authentication of power of attorney shall be in Form no- 10 in Appendix-A.
+(4)
+A Register of Power of Attorney (Authentication) shall be maintained in Form No.- 13 in Appendix- A.
+28.
+Endorsement when a special power of attorney is used.
+- When ever a special Power of attorney is used in registration offices for the purposes of Section- 32 or Section- 34 an
+endorsement shall be made upon it in Form no-11 in Appendix-A and it shall be returned forthwith to the party by whom
+it was presented and after the inspection of it the Registering Officer shall return the power of attorney to the party by
+whom it was presented.
+29.
+Procedure with regard to Wills.
+(1)
+A will in a sealed cover shall not be received for deposit except otherwise prescribed by Section- 42. After deposit of the
+sealed cover the district Sub Registrar shall give a computer generated under Section- 52 to the depositor.
+(2)
+The Registrar shall explain to every person depositing a will that no steps will be taken by the government to ascertain
+Page 10/48
+----- PAGE 11 -----
+Bihar Registration Rules, 2008
+the date of the testator's death or to communicate the beneficiaries after his death and a note to that effect shall be
+given on the receipt as referred above.
+(3)
+The Registrar shall transcribe in Register Book no-5 the name and status of the depositor name of the person identifying
+the depositor the year/ month/ day and hour of deposit of the sealed cover and any other legible inscription which may
+be on the seal of the cover.
+(4)
+The sealed cover shall be then kept and retained by the Registrar in the safe custody in the office.
+(5)
+If the testator who has deposited such sealed cover wishes to withdraw it he shall apply either personally or by
+authorized agent the Registrar if he is satisfied that the applicant is actually the testator or his agent shall deliver the
+cover accordingly.
+(6)
+When such copy has been made the Registrar shall re-deposit the original will.
+(7)
+If on the death of a testator the application is filed under sub-rule (5) and the Registrar is satisfied that the testator is
+dead he shall in the presence of the applicant open the cover and on payment of prescribed fee the contents of the will
+shall be copied in Book No-III.
+(8)
+When a sealed cover is opened under Section-44 the fact shall be noted in Register Book No- V in Form No.- 14 in
+Appendix- A by the Registrar and shall be signed and dated by him. If the sealed cover is opened under an order of a
+Civil Court this fact shall also be noted in the register.
+(9)
+If any Court orders for production of a sealed cover containing a will the Registrar shall without opening the sealed cover
+shall send it to the Court and shall make an entry of the fact in the register.
+30.
+Revocation of wills and authority to adopt to be registered in Book no-III.
+- Revocation or cancellation of a will or an authority to adopt shall be registered in Book no-III fee being charged under
+Article-C of the Table of Fees.
+Chapter - VII 31. Authentication of Register Books.
+(1)
+No corrections shall be permissible in the hard copies as generated from the computer.
+(2)
+The hard copies of the registered documents shall be bound in the form of Books as mentioned in Section-51 of the Act.
+(3)
+Each register book shall be covered by a plain sheet of paper before being bound and the following certificate shall be
+recorded on it by the Registering Officer: -
+"This book contains...............pages consecutively numbered and it also contains certified hard copies of document
+numbers............. to................ registered in this office."
+(4)
+A certificate shall also be given on the CDs of the electronic records in the following manner: -----
+"This CD contains pdf files of document numbers..............to.........of vol no. - to - of book no...........for the year.........
+registered at S.R.O-----------------."
+32.
+Application for searches and copies.
+(1)
+Any application to make a search in any book or to obtain a certified copy from the Books or records in a sub-registry
+office or in the office of the District Registrar shall be made in Form No-2 in Appendix-E along with the copy of the
+challan indicating payment of prescribed fees as per the Table of Fee.
+(2)
+The computer operator specially authorized for this work shall give an acknowledgement to the applicant attached with
+Page 11/48
+----- PAGE 12 -----
+Bihar Registration Rules, 2008
+the application under sub rule (1) above
+(3)
+The computer operator shall make required search and /or print the copy of from the relevant pdf file and after putting
+his signature and date and forward it to the registering officer:
+Provided that certified copies of the records not on computer shall be prepared manually through photocopy by the staff
+authorized for this purpose .
+All such applications shall be numbered serially from January to December each year and shall be kept and preserved
+in a separate file.
+(4)
+If the required pdf file is not in the computer then the registering officer shall cause call it from the office and shall make
+it available to the computer operator.
+(5)
+All such applications shall be numbered serially from January to December each year and shall be kept and preserved
+in a separate file.
+(6)
+The computer operator enter the details of searches made and copies issued in the register maintained in Form no--3 in
+Appendix--E in the computer.
+(7)
+The registering officer shall sign each page of the certified copy before delivering it to the applicant.
+33.
+Supply of Information to officials for public purposes.
+- Information and certified copies required by any court the officials of the State Government and the Central
+Government for bona-fide public purposes shall be furnished on cost basis on the rates as decided by the District level
+Society.
+34.
+Issue and requisition of Summons.
+(1)
+Summons under Section- 75(4) shall be issued by the Registrar according to the procedure prescribed in orders V and
+XVI in the Ist schedule to the Code of Civil Procedure 1908.
+(2)
+Every application to a Registering Officer to procure the issue of summons under Section- 36 shall be accompanied by
+the sum required for the payment of expenses of the person whose appearance is desired and also the peon's fee fixed
+by the rules governing the officer or Court who is to issue summons.
+(3)
+The Registering Officer shall forward a draft summon in duplicate with a forwarding letter to the officer or the Court.
+(4)
+The sub-registrar shall ordinarily make requisition for issue of summons to the Sub- Divisional Magistrate of his
+jurisdiction.
+35.
+Production of registers in Courts.
+(1)
+The Record Keeper or any senior clerk of the office duly authorized by the Registering Officer shall produce
+Register-Books whenever they are required to be produced in a Court.
+(2)
+A register shall be maintained in the office in which letter number and date of requisition from the Court date of
+production name of the clerk by whom the record was produced and the date of return of the record shall be entered by
+the record keeper and shall be signed and dated by the record keeper and the Registering Officer.
+36.
+Seals.
+(1)
+The Sub Registrar may authorize any responsible staff of his office to be in the custody of his seal prescribed in
+Page 12/48
+----- PAGE 13 -----
+Bihar Registration Rules, 2008
+Section-15 of the Act and to put it under his signatures on the documents and papers wherever required.
+(2)
+Such Seals which have become unfit for use shall be destroyed by the District-Sub Registrar only and a record of the
+same shall be maintained.
+37.
+Office Hours.
+- The Registering Officer and all his subordinates shall be present in his office during office hours on all working days.
+Chapter - VIII 38. Record rooms.
+- There shall be a record room at each sub registration office where all manual and electronic records shall be kept and
+maintained by every Sub Registrar in accordance with the instructions issued by the Inspector general of Registration
+from time to time.
+39.
+Records to be kept in the Registration Offices.
+(1)
+Each District Sub Registrar's office shall be a central office of electronic data for the district and the database of the
+subordinate offices shall be transferred in its own data base before being forwarded in the CDDVD or any electronic
+form meant for the office of the Inspector of Registration Offices.
+(2)
+All Registering Officers shall maintain electronic records as well as Books and Registers of hard copies in their offices as
+prescribed in rule 42.
+(3)
+The electronic data pertaining to the transactions of a sub-registry office shall also be kept in the office of the Registrar
+in the manner prescribed in sub-rule (5).
+(4)
+The CDs-DVD or the electronic record shall be prepared of the electronic database of pdf files of Books and Registers
+and scanned registered documents by each office. One copy of the CD-DVD or any electronic form shall be sent to the
+office of the Inspector of Registration Offices through the District sub- registrar and the other copy of the CD shall be
+sent to the Inspector General of Registration directly by the Registering Officer at a frequency directed by the IGR.
+(5)
+The CDs-DVDs or any electronic record for data base registers and scanned registered documents shall be label-ed in
+Form-12(a) 12(b) &12(c) as prescribed in Appendix-A respectively.
+(6)
+The database CDs-DVDs or any electronic form shall be written each month in 3 copies. CDs for electronic files of
+Books and Registers shall be written as prescribed in rule 42. in one copy as per the requirement of the office. The pdf
+files of all Books and Registers of a registering office shall be written on CD in 3(three) copies at a frequency mentioned
+in rule- 42. Remaining two copies shall be sent to IRO and IGR respectively for preservation at the end of the calendar
+year.
+(7)
+Each office of the District sub- Registrar shall be a central office of electronic database for the district and the database
+of the subordinate offices shall be transferred in its own database before forwarding the CD-DVD or any electronic form
+meant for the Inspector General of Registration.
+(8)
+The Registering Officers shall be responsible for ensuring that the CDs are written and transmitted in time and the
+Books and Registers of hard copies are bound regularly.
+(9)
+Every Registering Officer shall be responsible for the preservation and safe custody of registration records including
+those of previous years which have been accumulated in or have been transferred to his office.
+40.
+Preservation and maintenance of Registers.
+(1)
+The Books and the Registers to be maintained as computer files and the manner and frequency of printing of those hard
+Page 13/48
+----- PAGE 14 -----
+Bihar Registration Rules, 2008
+copies which are required shall be in accordance with following table:--
+Sl. No
+Name of Register
+Frequency of generation of pdf file
+Hard copy of pdf file to be printed or not ?
+Frequency of printing of hard copy
+1
+2
+3
+4
+5
+1.
+Book I
+After about 600 pages
+No
+Record wise
+2.
+Book III
+After about 100 pages
+"
+"
+3.
+Book IV
+"
+"
+"
+4.
+Book V
+Annually
+Yes
+Annually
+5.
+Index I, II, III and IV
+"
+No
+No
+6.
+Catalogue Register
+"
+Yes
+Annually
+7.
+Fees Book (including stamp duty BT Act &
+service charge)
+Monthly
+No
+Daily
+8.
+Pending Register
+Annually
+"
+Page 14/48
+----- PAGE 15 -----
+Bihar Registration Rules, 2008
+No
+9.
+Book II- Refusal Register (manual orders of
+Registering Officers entered in the computer)
+Annually
+"
+Case wise
+10.
+Register of Power of Attorney
+"
+"
+"
+11.
+Register for Searches and Copies
+Monthly
+"
+Application wise
+12.
+Visit Register
+Annually
+"
+"
+13.
+Register of reference of documents u/s 47-A and
+impounding of documents u/s 33 of the Indian Stamp Act 1899
+Annually
+"
+Case wise
+14.
+Register of Finger prints/Thumb impression
+Monthly
+"
+No
+15.
+Registers of documents received under Sec.
+17(2), Sale certificates and memoranda
+Annually
+"
+"
+Explanation. - (1) Column 4 indicates that hard copy of pdf files of certain books and registers shall not be required to be
+printed. Column 5 indicates that some of these registers shall be prepared manually in folders by their printouts taken on
+case to- case basis.
+(2)
+The Registering Officer shall ensure that entries endorsements and necessary information required for maintaining all
+Books and Registers are entered in the computer every day.
+(3)
+The printout of the information retrieved from them by the Registering Officer and certified by him shall be deemed to be
+true copy of the original record for the purposes of proving their contents under Indian Evidence Act.
+(4)
+Following books and registers shall be maintained manually also:--
+(a)
+Page 15/48
+----- PAGE 16 -----
+Bihar Registration Rules, 2008
+Book I III and IV,
+(b)
+Catalogue Register (in form no-1 in Appendix-E),
+(c)
+CD Register (in Form no-4 in Appendix- E ),
+(d)
+Fee Book (in Form no-5 in Appendix- E),
+(e)
+Book II (in Form no-5 in Appendix-A),
+(f)
+Register for searches and copies (in Form no-3 in Appendix-E),
+(g)
+Visit and commission Register (in Form no-6 in Appendix-E),
+(h)
+Register of reference of documents u/s 47-A (in Form no-7 in Appendix-E,) and register of impounding of documents u/s
+33 of the Indian Stamp Act 1899(in Form no-8 in Appendix-E),
+(i)
+Cash Book (in Form no-9 in Appendix-E),
+(j)
+Pending Register (in Form - 11 of Appendix - E),
+(k)
+Stock book of furniture and other non-perishables items (in Form no- 12 (1) of Appendix- E),
+(l)
+Stock Book of Perishable and consumable items (in Form no- 12 (2) of Appendix-E).
+Explanation. - Their shall be separate stock books of perishable and consumables of District level society and
+Registering officers shall be responsible for ensuring that items purchased by the society are not entered in the book of
+the Registry office and vice versa.
+(5)
+The registers shall be preserved as classified in Appendix- F of these Rules.
+41.
+Comparison of books with catalogues.
+(1)
+Whenever a Registering Officer shall hand over charge of his office to other sub registrar or the District Sub Registrar
+the officer receiving charge shall compare the books kept in the record room of his office with the catalogue register and
+make a note on the register that he has found the stock of the books complete in the catalogue.
+(2)
+A CD Register shall be maintained in Form no--4 in Appendix--E containing details of CDs prepared stored and remitted
+to the District Sub Registrar's office for Inspector of Registration Offices and Inspector General of Registration. The
+Registering officer shall keep the CDs-DVDs or any electronic record stored in his office in the charge of a responsible
+staff.
+(3)
+The staff taking over charge shall compare and verify the CDs with the CD Register maintained under sub-rule (2) above
+and hand over to them to his successor on proper receipt in the CD Register.
+(4)
+The CDs-DVDs or the electronic records shall be preserved as most valuable items and the Registering officer shall be
+responsible for protecting them from damage from moisture heat electric or magnetic effects etc.
+42.
+Destruction of unclaimed documents.
+(1)
+Registered/refused documents (other than wills) remaining unclaimed in any registration office for a period exceeding
+two years will be destroyed with the approval of the Inspector General of Registration:-
+Page 16/48
+----- PAGE 17 -----
+Bihar Registration Rules, 2008
+Provided that documents related to the Government authorities may be sent to the concerned office or the concerned
+department.
+(2)
+The wills and cancellation of wills that remains unclaimed whether registered or refused shall not be destroyed and shall
+be kept in the office in safe custody.
+43.
+Conditions precedent to destruction.
+(1)
+Before any document is destroyed a notice shall be displayed and published at some conspicuous place and as far as
+possible on the Internet in the office by the Registering Officer.
+(2)
+In January of each year a list of old records and unclaimed documents to be destroyed after expiry of the period as
+described in Appendix-F shall be prepared in each sub-Registry office and shall be sent to the Inspector General of
+Registration for orders of destruction.
+(3)
+As soon as the approval of the Inspector General of Registration for destruction is received the records shall be
+destroyed and a note to this effect shall be recorded signed and dated by the sub registrar in the destruction register.
+44.
+Refunds.
+(1)
+In case a person deposits the registration fee and other fees for registration of a document in the Bank in advance
+through the Bank Challan and due to some unavoidable reasons fails to get his document registered the fees deposited
+by him may be refunded in the same manner as the refund of unused and spoilt stamp papers.
+(2)
+The person claiming refund of registration fee shall apply to the collector in Form no-13 of Appendix-E.
+(3)
+Each Registering Officer shall send a monthly statement of refund to the Inspector General of Registration in Form
+No-14 of Appendix-E.
+Chapter - IX 45. Power of Inspector General of Registration to issue instructions.
+(1)
+The Inspector General of Registration shall have the power to issue instructions from time to time consistent with the Act
+and these Rules.
+(2)
+Instructions issued by the Inspector General of Registration shall have the force of standing orders and shall be
+complied by the Registering Officers and other officers of the Registration Department.
+(3)
+The Inspector General of Registration shall specify from time to time the configuration of hardware and the software to
+be used in registration offices of the state as may be required for the computerized system of registration.
+(4)
+The state level society shall ensure supply of hardware and the software for computerized system of registration at all
+registration offices.
+46.
+Repeals.
+- The Bihar Registration Rules 1937 shall be repealed with effect from the date on which these rules come into effect.
+47.
+Savings.
+- Nothing shall invalidate the registration of documents through the Bihar Registration Rules 1937 and through
+computerized system of registration and other acts relating thereto prior to coming of these rules into effect.
+Appendix - A
+Form No. - 1
+[See Rule - 4 (2)]
+Page 17/48
+----- PAGE 18 -----
+Bihar Registration Rules, 2008
+Under Rs. ............................. (in words) ............................. only
+Original copy
+(for the use of Accountant Generals office)
+Government of Bihar
+Department of Registration Excise & Prohibition Non standard
+(Registration)
+Bank challan for payment of Stamp duty/Registration fee and Land Lords Registration fee for registration of instruments.
+1.
+Name/address of the party ............................................................
+(on whose behalf it is being deposited)............................................................
+2. Kind of document ........................................................
+3. Registration office ...................................................
+4.
+Name of the Bank and Branch ...........................................................
+5. Details of amount to be paid
+Sl. No.
+Item of payment and head
+Amount
+(1)
+(2)
+(3)
+(a)
+Stamp duty- Major Head-0030-Stamp and Registration-Sub Major
+Head-02-Stamp Non-judicial Minor Head-103-payment of stamp duty
+on instruments- Sub-Head-0001-Total receipt primary unit- 75 49-
+Total receipt- Bill code- R0030021030001
+(b)
+Registration fee - Major Head-0030-Stamp and Registration-Sub-
+Major Head-03-Registration fee-Minor Head-104-Registration fee
+for registration of documents-Sub-Head-0001-Total receipt Primary
+unit- 75 49-Total receipt- Bill code- R0030031040001
+(c)
+Land Lord's fee - Major Head-0029-Land Revenue Minor Head-
+800-other receipts - Sub-Head-0006-Other receipt - Primary unit-
+75 49-Income from registration of Land. Bill code- R0029008000006
+Mode of payment :
+Case/Cheque/Draft/
+Grand Total
+Total Amount in words
+..............................
+Place : ..................
+Date : ...................
+Name and Signature of depositor
+* Give detail of cheque/Draft on the back.
+* Cheque/Draft shall be acceptable only after transfer.
+For Use of The Bank
+Scroll No. ....................... Date ................ Received Rs. ..................
+(in words Rupees .........................................) as per detail given in above column 5.
+Seal & signature of the authorized officer
+-----------------------------------------------------------------------
+Appendix- A
+Page 18/48
+----- PAGE 19 -----
+Bihar Registration Rules, 2008
+Form No.- 1
+[See Rule - 4 (2)]
+Under Rs. .................... (in words) ........................ only
+Second copy
+(for the use of Treasury)
+Government of Bihar
+Department of Registration Excise & Prohibition Non Standard
+(Registration)
+Bank challan for payment of Stamp duty/Registration fee and Land Lords Registration fee for registration of instruments.
+1. Name/address of the party...............................................
+(on whose behalf it is being deposited)..........................
+2. Kind of document ..................................
+3. Registration office .....................................
+4. Name of the Bank and Branch .....................................
+5. Details of amount to be paid
+Sl. No.
+Item of payment and head
+Amount
+(1)
+(2)
+(3)
+(a)
+Stamp duty- Major Head-0030-Stamp and Registration-Sub Major
+Head-02-Stamp Non-judicial Minor Head-103-payment of stamp duty
+on instruments- Sub-Head-0001-Total receipt primary unit- 75 49-
+Total receipt- Bill code- R0030021030001
+(b)
+Registration fee - Major Head-0030-Stamp and Registration-Sub-
+Major Head-03-Registration fee-Minor Head-104-Registration fee
+for registration of documents-Sub-Head-0001-Total receipt Primary
+unit- 75 49-Total receipt- Bill code- R0030031040001
+(c)
+Land Lord's fee - Major Head-0029-Land Revenue Minor Head-
+800-other receipts - Sub-Head-0006-Other receipt - Primary unit-
+75 49-Income from registration of Land. Bill code- R0029008000006
+Mode of payment :
+Case/Cheque/Draft/
+Grand Total
+Total Amount in words
+..............................
+Place : ...................
+Date : ....................
+Name and Signature of depositor
+* Give detail of cheque/Draft on the back.
+* Cheque/Draft shall be acceptable only after transfer.
+For Use of The Bank
+Scroll No. ............................ Date ................. Received Rs. .................. (in words Rupees .........................) as per detail
+given in above column 5.
+Seal & signature of the authorized officer
+------------------------------------------------------------------------------------------------------------------------------
+To be maintained by the Bank Detail of deposits against service charge for Registration Name & Address of the
+Page 19/48
+----- PAGE 20 -----
+Bihar Registration Rules, 2008
+depositor ...............................................................
+Amount Rs. ......................./In word ................................ESCRO Account No..............
+Date of deposit : ...................................
+Bank Scroll No. ...................................
+Seal & Receipt of the Bank
+* (Number of pages of the document + 2) X Rs. 20/-
+Appendix- A
+Form No.- 1
+[See Rule - 4 (2)]
+Under Rs. ............... (in words) ......................... only
+Third copy
+(for the use of Registry office)
+Government of Bihar
+Department of Registration Excise & Prohibition Non standard
+(Registration)
+Bank challan for payment of Stamp duty/Registration fee and Land Lords Registration fee for registration of instruments.
+1. Name/address of the party ........................................................
+(on whose behalf it is being deposited)................................................
+2. Kind of document .......................................................
+3. Registration office ......................................................
+4. Name of the Bank and Branch ...........................................................
+5. Details of amount to be paid
+Sl. No.
+Item of payment and head
+Amount
+(1)
+(2)
+(3)
+(a)
+Stamp duty- Major Head-0030-Stamp and Registration-Sub Major
+Head-02-Stamp Non-judicial Minor Head-103-payment of stamp duty
+on instruments- Sub-Head-0001-Total receipt primary unit- 75 49-
+Total receipt- Bill code- R0030021030001
+(b)
+Registration fee - Major Head-0030-Stamp and Registration-Sub-
+Major Head-03-Registration fee-Minor Head-104-Registration fee
+for registration of documents-Sub-Head-0001-Total receipt Primary
+unit- 75 49-Total receipt- Bill code- R0030031040001
+(c)
+Land Lord's fee - Major Head-0029-Land Revenue Minor Head-
+800-other receipts - Sub-Head-0006-Other receipt - Primary unit-
+75 49-Income from registration of Land. Bill code- R0029008000006
+Mode of payment :
+Case/Cheque/Draft/
+Grand Total
+Total Amount in words
+..............................
+Place : ...................
+Date : ....................
+Name and Signature of depositor
+* Give detail of cheque/Draft on the back.
+Page 20/48
+----- PAGE 21 -----
+Bihar Registration Rules, 2008
+* Cheque/Draft shall be acceptable only after transfer.
+For Use of The Bank
+Scroll No. ................................... Date .............................. Received Rs. ..................
+(in words Rupees ............................ as per detail given in above column 5.
+Seal & signature of the authorized officer
+-----------------------------------------------------------------------------------------------------------------------------
+Appendix- A
+Form No.- 1
+[See Rule - 4 (2)]
+Under Rs. ........................ (in words) ............................. only
+Forth copy
+(for the use of Depositor)
+Government of Bihar
+Department of Registration Excise & Prohibition Non Standard
+(Registration)
+Bank challan for payment of Stamp duty/Registration fee and Land Lords Registration fee for registration of instruments.
+1. Name/address of the party ......................................
+(on whose behalf it is being deposited)........................................
+2. Kind of document ....................................................................
+3. Registration office ..................................
+4. Name of the Bank and Branch .......................................
+5. Details of amount to be paid
+Sl. No.
+Item of payment and head
+Amount
+(1)
+(2)
+(3)
+(a)
+Stamp duty- Major Head-0030-Stamp and Registration-Sub Major
+Head-02-Stamp Non-judicial Minor Head-103-payment of stamp duty
+on instruments- Sub-Head-0001-Total receipt primary unit- 75 49-
+Total receipt- Bill code- R0030021030001
+(b)
+Registration fee - Major Head-0030-Stamp and Registration-Sub-
+Major Head-03-Registration fee-Minor Head-104-Registration fee
+for registration of documents-Sub-Head-0001-Total receipt Primary
+unit- 75 49-Total receipt- Bill code- R0030031040001
+(c)
+Land Lord's fee - Major Head-0029-Land Revenue Minor Head-
+800-other receipts - Sub-Head-0006-Other receipt - Primary unit-
+75 49-Income from registration of Land. Bill code- R0029008000006
+Mode of payment :
+Case/Cheque/Draft/
+Grand Total
+Total Amount in words
+..............................
+Place : ...................
+Date : ....................
+Name and Signature of depositor
+* Give detail of cheque/Draft on the back.
+Page 21/48
+----- PAGE 22 -----
+Bihar Registration Rules, 2008
+* Cheque/Draft shall be acceptable only after transfer.
+For Use of The Bank
+Scroll No. ...................... Date ....................... Received Rs. .................. (in words Rupees ..................................) as per
+detail given in above column 5.
+Seal & signature of the authorized officer
+-------------------------------------------------------------------------------------------------------------------------------
+To be maintained by the Bank Detail of deposits against service charge for Registration Name & Address of the
+depositor ....................... Amount Rs. ................................../In word .............................ESCRO Account No..............
+Date of deposit : ...................................
+Bank Scroll No. ...................................
+Seal & Receipt of the Bank
+* (Number of pages of the document + 2) X Rs. 20/-
+Government of Bihar
+Form no..2 / Appendix-A [See Rule - 7 (6)]
+Registry Office.......................
+Receipt under
+section 52 clause (b)
+Government of Bihar
+Form no-2 / Appendix-A [See Rule - 7 (6)]
+Registry Office.....................
+Receipt under
+section 52,clause (b)
+Token No. ...............................
+Token No...........................
+Serial No.................................
+Serial No.....................................
+Filing
+date........................................
+Filing
+date..........................................
+Document No.....................................
+Document
+No.......................................
+Book
+No.............................................
+Book
+No.............................................
+Document presented by...........................
+Document presented by...........................
+Executed by
+Executed
+by..........................................
+In favour of....................................
+In favour of....................................
+Fee Details
+Fee Details
+....................................................
+......................................................
+Fee articles
+Fee articles
+Amount paid
+Page 22/48
+----- PAGE 23 -----
+Bihar Registration Rules, 2008
+Amount paid
+Fee A(1)......................
+Fee A(1)..................
+Fee (A3)......................
+Fee A(3)...................
+Fee A(8)......................
+Fee A(8)...................
+Fee A(9)......................
+Fee A(9)................. ..
+Fee A(10)......................
+Fee A(10)................
+DD..........................
+DD........................
+Fee E........................
+Fee E......................
+Fee I.........................
+Fee I.......................
+Fee J(1)......................
+Fee J(1).....................
+Fee J(2).. ...................
+Fee J(2).....................
+Fee K(1)a.................
+Fee K(1)(a)................
+Fee K(1)b...................
+Fee K(1)(b)................
+Fee K(1)c................
+Fee K(1)(c)................
+Fee K(2)...................
+Fee K(2)...................
+Fee L(i).....................
+Fee Li......................
+Fee L(ii)..................
+Fee Lii .....................
+Fee L(iii )..................
+Fee Liii.....................
+Fee M-(b)..................
+Fee M(b)....................
+Fee N(a)..................
+Fee N(a) ...................
+LLR ......................
+LLR.........................
+Proc Fee ..................
+Proc Fee.....................
+Service charge............
+Service charge..............
+Total.................................
+Total...............................
+Dated..........
+Sub-Registrar
+Dated....................
+Sub-Registrar
+Page 23/48
+----- PAGE 24 -----
+Bihar Registration Rules, 2008
+Received document
+Appendix- A
+Form No.- 3
+[See Rule- 9 (4) and Rule 25 (1)]
+Endorsement of Certificate of Admissibility-Form no.- 3 (a)
+Admissible under Rule 5 duly stamped (or exempted form or does not require stamp duty) under article......of Schedule-
+I-A of the Indian Stamp Act 1899 also admissible under section 26(a) of the B.T.Act
+Stamp duty paid under Indian Stamp Act Rs............................................
+Addl. Stamp duty paid under /Municipal Act Rs.........................................
+Fee Paid
+Registration fee
+LLR+Process fee
+Service charge
+Total
+----------
+--------
+-------
+Total amount Paid(Regn.fee+LLR-Proc+service charge).....
+Date:.......................
+Registering Officer
+Endorsement under section 52 ---Form no-3(b)
+Presented for registration at Registration Office at.................................on............................... by
+Shri/Smt...............................................Son/wife of Shri....................................................... by
+profession............................Status-executant/claimant/representative /agent for Shri .................................... one of the
+executants/claimants vide Deed no. ................of year...........Registered at..................
+Signature/ L.T.I of Presentient
+Registering Officer
+Endorsement under section 58-Form no.- 3 (c)
+Execution is admitted by those executants and identified by the person whose names photographs fingerprints and
+signatures are affixed as such on the back page/pages of the instrument.
+Date: ........
+Registering Officer
+Endorsement of Certificate of Registration under section 60-Form no.- 3 (d)
+Registered at Registration office.................................... in Book no. ...........Volume no. .............on page no. ............. For
+the year................ and stored in CD Volume No. ..............Year............... The document no. is printed on the front page
+of the document.
+Date: ........
+Registering Officer
+Appendix - A
+Form No. - 4
+[See Rule- 9 (7)]
+Summary of Endorsement
+This document was presented for registration on this day .............................. by Shri/Shri mati
+...................................................................... . A stamp duty of Rs. .................. and other fees of Rs. ................ has been
+paid in it The document was found admissible The names photographs and finger printers and signatures of the
+executants and their identifier Who have admitted execution before me are affixed on the reverse page.
+This document has been registered as deed no. ................... in Book No. .................... Volume no. ......................... on
+pages from ..............to ................ and has been preserved in total ......................... pages in C.D. No. ................./Year
+........................ .
+Signature with date
+........................
+Page 24/48
+----- PAGE 25 -----
+Bihar Registration Rules, 2008
+Date : ..............
+(name of the registering officer)
+Registering officer ...................
+Place ......................
+Appendix - A
+Form No. - 5
+[See Rule - 20 (3)]
+Record of reasons for refusal to register
+Refusal No. ...............
+Year- ........................
+Date of the execution of instrument
+and names of
+executants. Reason for refusal
+Registering Officer.
+Dated
+......
+Date of communication of the order of refusal.
+Date of application for copy of the reasons
+for refusal.
+Date on which the copy was furnished to the
+applicant
+Note of the result of appeal to the Registrar
+under section 72 or of application under section 73.
+Note of any order of Court
+Date of presentation.
+Name of the presenting party.
+Name of the claimant.
+Appendix-A
+Form No.- 6
+[See Rule - 25 (3)]
+Endorsement by registering officer under section 38 (2) under section 33 (3) or (38)2.)
+Today on ..................I Registering officer.....................visited the residence of Shri/Smt..............................Son/
+wife/daughter of Shri.................................by profession............... at............and examined said
+Shri/Smt............................................. who has been identified by Shri................................. son of Shri
+.......................................... Resident of village/Muhalla ................................/P.S.......................Town.................
+District...................... by profession.....................and said Shri/Smt........................... admitted / or denied the execution of
+this power / or document.
+Full signature and thumb impression of executant.
+Ditto ditto of witness or witnesses
+Registering Officer. /Commissioner
+Appendix-A
+Form No.- 7
+[See Rule - 25 (3)]
+Endorsement under section 41.
+From the evidence of Shri..................................,son of Shri........................... I am satisfied (1) that this will (or authority)
+was executed by Shri............................ son of..............................of  the testator (or donor) ; (2) that the said testator (or
+donor) is dead; and (3) that Shri................................... son of............................. ,the presentient is entitled to present it
+under section 40 Act XVI of 1908 and I accordingly admit it to registration under section 41 of the Act.
+Signature of Registering Officer
+Appendix - A
+Form No.- 8 (a)
+Page 25/48
+----- PAGE 26 -----
+Bihar Registration Rules, 2008
+[See Rule- 25 (5)]
+Presented for deposit at ............... A.M./P.M. on the day of ..................20 at the registry office (or else where) by son of
+.................. aged ..................... by profession ........................ testator (or agent for ....................testator under a power of
+attorney no. ................................). He is personally known to me or has been identified to my satisfaction by
+................................ son of ................. resident of .................................. This cover has been sealed in
+.............................. places the inscription on the sealer being.
+Signature of Registering Officer
+Appendix - A
+Form No.- 8 (b)
+[See Rule - 25 (5)]
+Having satisfied my self that the testator hereof is dead the sealed cover containing this will is opened this the
+................................ day of ................... 200.....,
+On the application and in the presence of .....................................(name and addition).
+Signature of applicant
+Signature of Registering Officer
+date- ..........................
+Seal
+Appendix - A
+Form No. - 9
+[See Rule - 26 (2)]
+Record of Oath.
+I ......................... S/o .................... swear in the name of God that the evidence which I shall give in this case shall be
+true that I will conceal nothing and that no part of my evidence shall be false.
+So help me God.
+Signature ..........
+Affirmation
+I ........................ S/o .......................................... solemnly declare that evidence which I shall give in this case shall be
+true that I will conceal nothing and that no part of my evidence shall be false.
+Signature .....................
+[Christian witnesses to whom oaths are administered are to be sworn upon the New Testament. In other cases the oaths
+are to be administered upon such symbol or accompanied by such act as may be usual or as such witness may
+acknowledge to be binding on his conscience.]
+Appendix - A
+Form No. 10
+[See Rule - 27 (3)]
+Endorsement on authentication of power-of-attorney.
+(a)
+When the principal executing the power appears at the registration office :-
+Executed in my presence on the day of 19 by Shri.................. son of /husband of..............................resident
+of.....................,by profession ......... whose identity was proved by the testimony of Shri............................... son
+of......................and I accordingly authenticate it under section 33 Act XVI of 1908 and record it as no. for 19.
+Full signature and thumb impression of principal.
+Ditto
+ditto
+of witness or witnesses.
+Seal and signature of registering officer.
+Date : .........
+(b)
+When the principal is exempted from appearance : -
+Having visited and examined at his/ her residence the principal Shri/smt........................ son/ daughter/wife of
+Shri..................................Resident of ................................. by profession whose identity was proved by the evidence of
+Page 26/48
+----- PAGE 27 -----
+Bihar Registration Rules, 2008
+E F Shri.....................................son of........................... H G resident of................... I am satisfied that this
+power-of-attorney has been voluntarily executed by him/ her and accordingly authenticate it under section 33 of Act XVI
+of 1908 and record it as no.
+Full signature and thumb impression of principal.
+Ditto
+ditto
+of witness or witnesses.
+Date : ...............
+Seal and signature of registering Officer.
+Appendix- A
+Form No. - 11
+[See Rule - 28]
+Endorsement on use of a special power of attorney
+Presented this day in connection with the registration of document bearing serial no.
+........ for
+Date : ................
+Seal and signature of registering officer.
+Appendix- A
+Form No. 12 (a)
+[See Rule - 39 (5)]
+Labelling of Data Backup Files
+Name of registration office ..................... This Cd/dvd contains total ......................data backup files of period dated
+................... to ........................ in MB/GB.
+Signature of authorized clerk
+Appendix- A
+Form No. 12 (b)
+[See Rule - 39 (5)]
+Labelling of Registers
+Name of registration office ...................................................
+This CD/DVD contains total ......................registers namely ........................................... of period dated ........................ to
+............................in .......................MB/GB.
+Signature of authorized clerk
+Appendix - A
+Form No. 12 (c)
+[See Rule - 39 (5)]
+Labelling of Scanned Registered Documents
+Name of registration office ..............................
+This CD/DVD contains total ......................scanned registered documents no............................to ...................................
+of period dated ................................ to ............................ in ................ MB/GB.
+Signature of authorized clerk
+Appendix- A
+Form No. 13
+[See Rule - 27 (4)]
+Register of Powers-of-Attorney.
+Registration Office ..........................................
+Serial number for the year.
+Names and additions of principals.
+Names and additions of attorney.
+Names and additions of witnesses and
+identifiers.
+Date of authentication.
+Page 27/48
+----- PAGE 28 -----
+Bihar Registration Rules, 2008
+Abstract.
+1
+2
+3
+4
+5
+6
+Copy of footnote. Sub-Registrar.
+Appendix- A
+Form No.- 14
+[See Rule - 29 (8)]
+(Book - V)
+Register of deposit of wills.
+Office of the Registrar of .............................
+Serial on of will deposited.
+Year month day and hour.
+Name and address of the testator and of his
+agent when the will is deposited by an agent of the testator.
+Names of the persons identifying the
+depositor.
+Copy of superscription on the sealed cover.
+Copy of inscription ( if any ) on the seal.
+1
+2
+3
+4
+5
+6
+Date of order or withdrawal under section 44.
+Date of application to open the cover under
+section 45.
+Date on which the sealed cover is opened.
+Date on which the sealed cover in Book no. 3
+under section 40 or section 46 and its serial number therein.
+Date on which the will is removed into Court
+under section 46.
+Remarks.N. B. - The Registrar's signature
+should be appended with date to entries in columns 5 and 6 and
+his signature ort initial to those in columns 7 to
+7
+8
+9
+10
+11
+12
+Appendix-B
+[See Rule - 7 (3)]
+Memo of Presentation of Document
+Token No.
+: ............
+Filed on.
+Page 28/48
+----- PAGE 29 -----
+Bihar Registration Rules, 2008
+: ..........
+1.
+Document Detail
+:
+SRO Office.
+:...................
+Challan Amount....................
+Challan No.........................
+Reg. Year.
+:
+Date of deposit.....................
+Transaction.
+:
+2.
+Presentient Detail
+: Presented by Executant Self
+Name........................
+Sex......
+Profession :
+F/H Name. :
+Status------
+executant / claimant / agent/ attorney
+Address. :
+Status
+: executant himself/ attorney of executant/
+claimant (tick the right status)
+3.
+Party Detail:
+Executant. :
+Sex:
+Profession :
+Fath./Hus. Name. :
+Address. :
+4.
+Total No. of Property :
+Property No. :
+i. Property Detail:
+Circle :
+Corp/Mun./NAC:
+Tauji No. :
+Thana No. :
+Ward No. :
+Seat No. :
+Mauja :
+Hold. No. :
+Khata No. :
+Land use :
+House No. :
+P.No./M.Pl.No.:
+Local Body :
+Flat No. :
+Page 29/48
+----- PAGE 30 -----
+Bihar Registration Rules, 2008
+Khewat No. :
+Boundary
+East :
+West :
+North :
+South :
+ii. Calculation of chargeable value :
+a. Total area of land :
+Decimal
+ai. Area in Decimal:
+b. Minimum Value (MVR) :
+Rs. ........ Per decimal
+c. Total value as per MVR :
+Rs. ........ (ai x b)
+d. Consideration Value :
+Rs. ..........
+e. Chargeable Value :
+Rs. ...........
+iii. Fee Detail :
+a. Stamp Duty Required :
+Rs. .........
+b. Add. Stamp Duty :
+Rs. .........
+c. Total Stamp Duty :
+Rs. ......... (a +b)
+d. Reg. Fee :
+Rs............
+5.
+Total Detail of payment of Fee :
+(a) Challan No. :........
+Challan Date : ..................
+Bank Code :
+Stamp Duty
+Reg. Fee
+LLR &Pro. Fee
+ESCROW/service charge
+Total
+Required :..
+Paid :.......
+Balance :...
+6.
+List of enclosures attached:
+- Declaration u/s 16 of BLR FCA,ASL Act 1961 in
+case of Rural
+- Notice u/s 12,18 and 26A of BT Act
+- Declaration in Form 4 under Bihar Stamp Rules
+1995.
+7.
+Please tick one of the followings: --
+Declaration : --
+a. I have paid the required stamp duty and
+Page 30/48
+----- PAGE 31 -----
+Bihar Registration Rules, 2008
+registration fee. Please register my instrument.
+b. I do not consider balance stamp duty stated
+in para 5 to be reasonable. Please refer the matter to the
+Collector u/s 47-A.
+Signature of the Presentient
+Appendix - C
+[See Rule - 7 (1)]
+Enclosures: Cheek ship
+date : ......................
+1.
+Property detail Name of Mouza
+.........................................
+Yes / No
+Name of Anchal
+.........................................
+Yes / No
+Name of District
+.........................................
+Yes / No
+Name of S.R.O
+...........................................
+Yes / No
+Location of road
+.............................................
+Yes / No
+Kind of properly
+.............................................
+Yes / No
+Nature of use
+....................................
+2.
+Payment of fees Stamp duty paid
+................................
+Registration fee paid ..........................
+LLR / P. fee paid
+...............................
+Date of payment ................................
+Copy of bank challan enclosed .............
+Appendix - D
+Form No-I
+[See Rule - 22 (1)]
+Index - I
+Office of the District sub-registrar/Sub-registrar........................
+Name of party
+Status of party
+Father'same/Husband's name
+Address
+Name of registration office
+Serial no of document
+1
+2
+Page 31/48
+----- PAGE 32 -----
+Bihar Registration Rules, 2008
+3
+4
+5
+6
+Serial no of document
+Deed no.
+CD no.
+Total page
+Token no.
+Filing date
+Date of registration
+6
+7
+8
+9
+10
+11
+12
+Appendix - D
+Form No - II
+[See Rule - 22 (1)]
+Index - II
+Office of the District sub-registrar/Sub-registrar .............................
+Token no.
+Date of filing
+Deed no.
+Date of registration
+Mouza/ Muhalla
+Thana no./ Ward no.
+Revenue circle
+Khata no.
+1
+2
+3
+4
+5
+6
+7
+8
+Plot no. /Holding
+no.
+Area in Decimal/
+square feet
+Road-wise location
+CD No.
+Total pages
+Property type
+Use of land
+In case of
+structure the year of construction
+9
+Page 32/48
+----- PAGE 33 -----
+Bihar Registration Rules, 2008
+10
+11
+12
+13
+14
+15
+16
+Appendix - D
+Form No-III
+[See Rule - 22 (1)]
+Index - III
+Office of the District sub-registrar/Sub-registrar ....................
+Token no.
+Filing date
+Deed No.
+Date of registration
+Name of the party
+Status
+1
+2
+3
+4
+5
+6
+Father's/ Husband's Name
+Address
+C D no.
+Page no.
+Volume No/ Year
+Page from-----to------
+7
+8
+9
+10
+11
+12
+Appendix - D
+Form No-IV
+[See Rule - 22 (1)]
+Index - IV
+Office of the District sub-registrar/Sub-registrar .........................
+Token no.
+Filing date
+Deed No.
+Date of registration
+Name of the party
+Status
+1
+2
+3
+4
+Page 33/48
+----- PAGE 34 -----
+Bihar Registration Rules, 2008
+5
+6
+Father's/ Husband's Name
+Address
+C D no.
+Page no.
+Volume No/
+Year Page from--------to---------
+7
+8
+9
+10
+11
+12
+Appendix-E
+Form No.- 1
+[See Rule - 40 (4)]
+Catalogue of books/Registers.
+Serial no.
+District or sub-district to which the
+book-relates.
+Date when opened.
+Title of book.
+Volume.
+1
+2
+3
+4
+5
+Number of documents etc. in each.
+Number of pages written on.
+Number of
+Remarks.
+Back.
+Shelf.
+6
+7
+8
+9
+10
+Appendix-E
+Form No. - 2
+[See Rule - 32 (1)]
+Application for search /certified copy.
+Office of District sub registrar/ Sub-registrar--------------------------
+Date of Application--------------------- Serial no. of application-----
+Name of applicant
+Status-Executant/ claimant/Other party
+Purpose--for search/ for copy/ Both search and
+copy
+Detail of document
+Page 34/48
+----- PAGE 35 -----
+Bihar Registration Rules, 2008
+Document no.
+Date and year of registration
+Name of office where registered
+Executant's name
+Claimant's name
+1
+2
+3
+4
+5
+6
+7
+8
+Details of fee paid
+Date on which search made
+Date of delivery of certified copy
+Signature of applicant on receipt of copy
+Searching fee
+Copying fee
+Total amount of fee paid
+Name of Bank where deposited
+Date of deposit
+Challan no. & date
+9
+10
+11
+12
+13
+14
+15
+16
+17
+.............................................................................................................................
+Acknowledgement of Application & Fee
+Office of the district sub registrar/ sub registrar- .........
+Application no.................................,Date of application.......................,Name of
+applicant.................................................................................,Purpose of application---- Search/ for certified copy Deed
+no.......... Year..........Office of registration.................................Fee paid- Searching fee.Rs................. Copying
+fee.Rs........... Total Rs................. .
+Signature of Record Keeper
+Appendix-E
+Form No.- 3
+[See Rule - 32 (6)]
+Register of applications for search and copy.
+Serial number of application.
+Date of application.
+Whether for search or for inspection or for
+copy.
+Name and of address applicant.
+Interest of applicant in document. etc.
+whether executant or claimant.
+Page 35/48
+----- PAGE 36 -----
+Bihar Registration Rules, 2008
+Particulars furnished by applicant for
+identification of document.
+Reference to his previous application (if
+any).
+Under F(1)(i) and (ii)
+1
+2
+3
+4
+5
+6
+7
+8
+Fees paid.
+Date of payment.
+Date of search.
+Result of search etc. successful or
+unsuccessful otherwise.
+Date on which stamps deposited.
+Under F(1)(iii)
+Under G.
+Under G(a).
+9
+10
+11
+12
+13
+Date on which copy was prepared.
+Date on which copy was delivered.
+Signature of applicant for search.
+Signature of applicant and date on receipt of
+an attested copy.
+Remarks (with Sub-Registrar's initials.)
+14
+15
+16
+17
+18
+Appendix- E
+Form No. - 4
+[See Rule - 40 (4)]
+Register of CD/DVD.
+Registration Office ........................
+Sl. No.
+Description of data stored
+Period of data
+Date of writing CD/DVD
+Total space written on CD/DVD
+Date on which CD/DVD sent to District
+Sub-Register Inspector of Registration Offices/Inspector General
+of Registration
+Page 36/48
+----- PAGE 37 -----
+Bihar Registration Rules, 2008
+Signature of authorized clerk
+1
+2
+3
+4
+5
+6
+7
+Appendix -E
+Form No-5
+[See Rule - 40 (4)]
+Fee Book of Date: .........................
+Office of the District sub-registrar/Sub-registrar ...........................
+Token no. and year
+Date of presentation
+Presentient's name and status
+Type of document
+Value of the document on which stamp/fee paid
+Registration fee/ article and amount
+LLR /Process fee.
+1
+2
+3
+4
+5
+6
+7
+Stamp duty by paper
+Stamp duty by challan
+Total Stamp duty
+Stamp under I.S.Act
+Additional stamp duty
+Date of registration
+Serial no. of deed
+8
+9
+10
+11
+12
+13
+14
+Deed no.
+Book No./Volume no.
+CD Volume No./Year
+Revenue Anchal/Mouza
+Challan no. and date of deposit of stamp duty
+/ and registration fee
+Remarks
+15
+16
+17
+Page 37/48
+----- PAGE 38 -----
+Bihar Registration Rules, 2008
+18
+19
+20
+Appendix- E
+Form No.- 6
+[See Rule - 40 (4)]
+Register of Visits and Commissions.
+Registration Office ............................
+Serial no.
+Date of application.
+Date of visit.
+Name of person to be examined.
+Place of residence.
+Cause of visit under section 31 or of visit or
+commission under Section 33 or section 38.
+1
+2
+3
+4
+5
+6
+Fees paid under Articles J and K.
+Amount of traveling allowance paid.
+Signature of applicant.
+Name of person by whom the visit is paid.
+Register number of the deed and the volume in
+which it is copied.
+Remarks.
+7
+8
+9
+10
+11
+12
+Appendix- E
+Form No. - 7
+[See Rule - 40 (4)]
+Register of reference of documents u/s 47-A of the I.S. Act 1899.
+Registration Office.........................................
+Serial no. of case referred
+Date of execution
+Date of presentation
+Date of registration Deed no.
+Name and address of executant
+Name and address of claimant
+Area transferred
+Value set forth in the instrument
+1
+2
+3
+4
+Page 38/48
+----- PAGE 39 -----
+Bihar Registration Rules, 2008
+5
+6
+7
+8
+Letter no. & date of reference
+Estimated market value
+Market value fixed by the Collector
+Difference of stamp duty paid
+Date of return of document
+Date of appeal if any
+Remarks
+9
+10
+11
+12
+13
+14
+15
+Appendix-E
+Form No.- 8
+[See Rule - 40 (4)]
+Register of documents impounded.
+Registry office .........................
+Serial no.
+Date of
+presentation
+Nature of document
+Name of parties
+By whom presented
+Amount of
+consideration
+Stamp affixed
+From-
+To-
+1
+2
+3
+4
+5
+6
+7
+8
+Date on which document was sent to Collector
+Date on which it was received back
+Stamp adjudicated
+Penalty imposed
+Date on which notice issued to the presentient
+for deposit of fees etc.
+Date on which it was admitted to or refused
+registration
+Number of the document and the volume in which
+Page 39/48
+----- PAGE 40 -----
+Bihar Registration Rules, 2008
+registered or number in Book no. 2
+Remarks
+9
+10
+11
+12
+13
+14
+15
+16
+Appendix-E
+Form No. - 9
+[See Rule - 40 (4)]
+Cash Book of Registration Office ......... Date: ...........
+Amount received
+Head of Account
+Items
+Total
+Receipt credited into Government Account
+1
+2
+3
+4
+5
+To whom paid
+On what Account
+Payments from Permanent Advance
+Total Expenditure
+Total balance in hand
+6
+7
+8
+9
+10
+Signature of Registering Officer
+Signature of in-charge clerk
+Appendix - E
+Form No. 10
+[See Rule - 23 (1)]
+Memorandum of Document.
+Registration office ...........................
+Nature of document date on which the document
+was admitted to registration and endorsement of certificate of
+registration on the document.
+Names and addresses of parties.
+Short name of property effected and tauzi
+number (where possible).
+Amount of consideration money.
+Executants.
+Claimants.
+1
+Page 40/48
+----- PAGE 41 -----
+Bihar Registration Rules, 2008
+2
+3
+4
+5
+Signature of Registering Officer
+Name of Office.............................
+Appendix-E
+Form No. -11
+[See Rule - 40 (4) (J)]
+Pending Register of documents.
+Registration Office.......................................
+Serial no.
+Date of execution
+Serial no. of document/ Token No. and date
+Name of the presentient
+Date of presentation
+Fee paid
+1
+2
+3
+4
+5
+6
+Reason of pending
+Date of admission to registration
+Deed no and year
+Date of refusal if the registration is refused
+Date of refund if any
+Remarks
+7
+8
+9
+10
+11
+12
+Appendix - E
+Form No. - 12 (1)
+[See Rule - 40 (4) (k)]
+Stock Register of durables valuables and furniture.
+Registration Office ............................
+Sl. No.
+Description of Article and quantity
+Price
+Date of purchase/Date of supply
+Signature of registering officer
+Signature of the incharge clerk
+1
+2
+3
+4
+5
+Page 41/48
+----- PAGE 42 -----
+Bihar Registration Rules, 2008
+6
+Disposal
+Certificate of quarterly verification by the
+Registering officer
+Remarks
+Date of disposal
+Reason of disposal
+Method of disposal
+7
+8
+9
+10
+11
+Appendix - E
+Form No. - 12 (2)
+[See Rule - 40 (4) (l)]
+Stock Book of perishable and consumable items.
+Registration Office .........................
+Sl. No.
+Description of Article and quantity
+Price
+Date of purchase/Date of supply
+Signature of registering officer
+Signature of the incharge clerk
+1
+2
+3
+4
+5
+6
+Disposal
+Certificate of quarterly verification by the
+Registering officer
+Remarks
+Date of disposal
+Reason of disposal
+Method of disposal
+7
+8
+9
+10
+11
+Appendix - E
+Form No.- 13
+[See Rule - 44 (2)]
+Application for refund of Registration fee & other fees.
+To : The Collector .............................
+Sir,
+I had deposited the Registration fee and other fees for registration of my document as details given below. For some
+reasons I could not get my document registered.
+Kindly refund the amount of registration fee and other fees deposited by me in the Government Account which could not
+Page 42/48
+----- PAGE 43 -----
+Bihar Registration Rules, 2008
+be used.
+Sl. No.
+Name & address of applicant and date of
+application
+Applicants status Presentient/
+Executant/claimant
+Executant's name and address
+Claimant's name & address
+1
+2
+3
+4
+5
+Amount deposited.
+Date of deposit and name and Branch of the
+Bank where deposited
+Authority no. and date of Accountant General
+Amount of refund paid
+Date of payment and signature of the registry
+officer.
+6
+7
+8
+9
+10
+Registration Fee-
+L.L.R. Fee-
+Process Fee-
+Total-
+(in words.-
+Signature of the Applicant.
+Address...................
+Date : .................
+Appendix - E
+Form No. - 14
+[See Rule - 44 (3)]
+Statement of Refund
+Sro _______________ Dis _________________ Month _____________
+Sl.No.
+Application No.
+Name of applicant
+Status Exe/claimant/Stamp duty
+Amount Stamp duty
+Registration fee
+1
+2
+3
+4
+5
+6
+LLR & Pncen fe.
+Page 43/48
+----- PAGE 44 -----
+Bihar Registration Rules, 2008
+Date of deposit
+Bank name
+Reason for refund
+Date of order of Refund.
+Amount of refund Date of refund
+Remark
+7
+8
+9
+10
+11
+12
+13
+Appendix - F
+[See Rule - 40 (5)]
+(A)
+Records to be preserved permanently.
+1. Abolition of
+offices.
+2. Building cases.
+3. Catalogues.
+4. Conversion of
+office.
+5. Destruction list
+of old records.
+6. Destruction list
+of old records and unclaimed documents with orders sanctioning
+and report of destruction.
+7. Establishment-
+Permanent- papers in connection with sanction or alteration of
+cadre pay etc.
+8. Important
+circulars and general letters.
+9. Index register of
+correspondence.
+10. Instructions or references on points of law
+or procedure; stamp duty or registration fees.
+11. Jurisdiction
+cases.
+12. Location of
+offices or change of headquarters.
+13. Opening of new
+officers.
+14. Orders and
+sanction of a permanent character until revised.
+15. Qazil's records
+under Regulations XXXIX of 1793.
+16. Record room
+register for appeal cases.
+17. Register books of
+documents and their indexes kept prior to Act XVI of 1864.
+Page 44/48
+----- PAGE 45 -----
+Bihar Registration Rules, 2008
+18. Register of Wills
+transferred to the Sadr office from the muffassal sub registry
+office.
+19. All petitions of appeals under section 72
+and applications under section 73.
+(B)
+Records to be preserved for 50 years
+1. Applications for revocation of Power of attorney.
+2. Register of thumb impressions/ finger prints.
+3. Register of Power of attorney.
+4. Order books.
+(C)
+Records to be preserved for 35 years.
+1. Appointment cases
+and cases regarding confirmation including first joining or
+charge reports.
+2. Appeals of
+important nature (including appeals under section 72 of the
+Indian Registration Act).
+3. Orders of
+Government and of the Accountant-General-of important and
+permanent nature.
+4. Printed annual and
+triennial reports.
+5. Register books (except Register of refusals
+and such volumes of Register books I as consist of file books of
+memoranda received under section 64,or section 66 of Act VIII of
+1871, III of 1877 or scribed by and translations and true copies
+filed under the various Registration Acts (Acts XVI of 1864 XX of
+1866 VIII of 1871 III of 1877 and XVI of 1908).
+6. Order books.
+7. Transfer of
+records.
+8. Plaints or
+pleadings.
+9. All lists of
+exhibits and all receipts for returned exhibits,
+10. The autographic
+extract of the evidence.
+11. The final
+judgment and decision or order.
+12. The combined
+title page and fly leaf in which A papers are referred to.
+13. The written
+statement of the defendant or the counter-petition.
+14. List of contents.
+15.Acquittance Roll of pay and allowances of
+permanent employees and remuneration of extra clerks
+(D)
+Records to be preserved for 12 years.
+1. Advance for
+Page 45/48
+----- PAGE 46 -----
+Bihar Registration Rules, 2008
+building purposes.
+2. Pending Register
+3. Book no. 2
+4. Cash book.
+5. Dismissal cases
+order in respect of which have not been revised.
+6. Fee Books
+(including those kept under Tenancy Acts).
+6. (a)Files and
+notifications about transfer.
+7. Furniture and
+other durable articles supply of.
+8. Refund Register
+9. Register of
+Appeals and application Under section-72.
+10. Inspection
+reports.
+11. Unimportant circulars general letters and
+Government orders.
+12. All the evidence
+oral and documentary on which the subject matter of the case is
+decided.
+13. List of documents
+admitted in evidence.
+14. All petitions and
+papers including those relating to proceedings incidental to the
+case not specified as included in files A and C.
+15. Requisition form
+for verification of security bonds.
+16.Register of visit
+and commission
+17. Register of
+stationary accounts
+18. Expenditure
+statements
+19. Statement of
+remittance to treasury
+20. Theft cases
+(E)
+Records to be preserved for 6 years.
+1. Budget files.
+2. Contingent
+registers.
+3. Leave accounts of non-gazetted Government
+servants who have retired or died.
+4. Pay bills
+(excluding those of extra clerks).
+5. Pension Cases.
+6. Service books of officers dead or retired.
+(F)
+Records to be preserved for 3 years
+Page 46/48
+----- PAGE 47 -----
+Bihar Registration Rules, 2008
+1. Leave cases.
+2. Maps- supply of.
+3. Notices and copies
+of notes of Revocation of powers.
+4. Pay bills of extra
+clerks and other papers relating to the
+5. Peon book
+Night-watchman's hand book list of unimportant registers.
+6. Refunds.
+7. Register of
+application for search and copy.
+8. Register of copies
+and memoranda dispatched to other offices.
+9. Register of
+attendance
+10. Application for
+issue of summonses and copies of summonses with service returns.
+11. Application for
+search and copy and for visits and commissions.
+12. Acknowledgement
+receipt of papers.
+13. Account matters
+of routine
+14. Book binding
+cases.
+15. Challan books.
+16. Charge report.
+17. Contingent
+expenditure case Diaries of officers.
+18. Extra and
+temporary establishment cases.
+19. Form-Supply of.
+20. Indents for forms and stationery.
+21. Register of
+casual leave.
+22. Register of extra
+clerks.
+23. Register of
+accounts of service postage stamps.
+24. Register of
+records temporarily removed from and brought back into the
+record-room.
+25. Receipts referred
+to in section 52 of the Registration Act.
+26. Receipts for
+copies memo and sale certificates etc.
+27. Receipts for fees
+and traveling allowances under section 31 of the Registration
+Act.
+28. Receipts for fees
+paid for search and copy.
+Page 47/48
+----- PAGE 48 -----
+Bihar Registration Rules, 2008
+29. Returns and
+statements monthly and quarterly.
+30. Reminders.
+31. Remarks on annual
+report.
+32. Travelling
+allowance bills and cases relating thereto.
+33. Tenancy Act
+notices.
+34. Charge report.
+35.Contingent
+expenditure case
+36. Diaries of
+officers.
+37. Extra and
+temporary establishment cases.
+38. Form-Supply of.
+39.Indents for forms and stationery.
+Related AI tags, queries and research notes
+Translation
+Page 48/48

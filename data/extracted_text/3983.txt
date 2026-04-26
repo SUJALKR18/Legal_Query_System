@@ -1,0 +1,522 @@
+
+----- PAGE 1 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+Andhra Pradesh Information Technology (Electronic Service Delivery
+) Rules, 2011
+Source: https://indiankanoon.org/doc/104291028/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Andhra Pradesh - Act
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+ANDHRA PRADESH
+India
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+Rule ANDHRA-PRADESH-INFORMATION-TECHNOLOGY-ELECTRONIC-SERVICE-DELIVERY-RULES-2011 of 2011
+Published on 18 October 2011
+Commenced on 18 October 2011
+[This is the version of this document from 18 October 2011.]
+[Note: The original publication document is not available and this content could not be verified.]
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+Published vide Notification No. G.O. Ms. No. 10, Information Technology & Communication (Infrastructure), Dated
+18.10.2011
+Last Updated 10th September, 2019
+No. G.O. Ms. No. 10. - In exercise of the powers conferred by sub-section (1) of section 90 of the Information
+Technology Act, 2000 (Act 21 of 2000), the Government of Andhra Pradesh hereby makes the following rules - The
+Andhra Pradesh Information Technology (Electronic Service Delivery) Rules, 2011.
+1.
+Short Title, Extent and Commencement.
+Page 1/10
+----- PAGE 2 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+(a)
+These rules may be called the Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011.
+(b)
+They shall extend to the whole of the State of Andhra Pradesh.
+(c)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+- In these Rules, unless the context otherwise requires, -
+(a)
+"Act" means the Information Technology Act 2000 (Act 21 of 2000) ;
+(b)
+"Authorized Agent" means an operator of an electronically enabled kiosk, who is permitted under these rules, either by
+the Government or by the Authorized Service Provider to deliver public services to the users with the help of a computer
+resource, following the procedures prescribed herein ;
+(c)
+"Authorized Service Provider" means a body corporate authorized by the Director of Electronic Service Delivery, to
+establish and manage a system of delivering services electronically, in accordance with these Rules. The Authorized
+Service Provider can also be a Department or Agency of the Government ;
+(d)
+"Body Corporate" means any company and includes a firm, sole proprietorship or other association of individuals
+engaged in commercial or professional activities ;
+(e)
+"Certificate" means a certificate or the certified copies required to be issued by a Statutory Authority empowered under
+any Act, Rule, Regulation or Order of the Government, to issue a certificate to confirm the status, right or responsibility
+of a person, natural or artificial, in accordance with any such Act, Rule, Regulation or Order of the Government and
+includes a certificate in electronic form printed and issued by an Authorized Agent or an Authorized Service Provider or
+/the State Electronic Records Repository on such special stationery as may be prescribed by the respective
+departments ;
+(f)
+"Competent Authority" means a Statutory Authority, empowered under any Act, Rule, Regulation or Order of the
+Government to issue a certificate or grant of a License, permit, sanction or approval or for authorizing a payment or
+receipt on behalf of the Government ;
+(g)
+"Digital Signature Certificate" means the certificate issued under subsection (4) of Section 35 of the Act ;
+(h)
+"Digitally Signed Database" means a collection of data or information created, stored and managed in electronic form
+and authenticated by a Statutory Authority or a Competent Authority using his or her Digital Signature Certificate ;
+(i)
+"Director of Electronic Service Delivery" means the official of the Government notified as the Director of Electronic
+Service Delivery ;
+(j)
+"Electronic Service Delivery" means the delivery of public services in the form of receipt of forms and applications, issue
+or grant of any license, permit, certificate, sanction or approval and the receipt or payment of money by electronic
+means following the procedure prescribed hereunder ;
+(k)
+"Kiosk Operator" means the individual identified and retained by the Authorized Service Provider or the Government as
+Authorized Agent ;
+(l)
+"Public Service" means any service provided by the Government or any of its agencies either directly or through any
+authorized service provider, which shall include, inter alia, the receipt of forms and applications, issue or grant of any
+Page 2/10
+----- PAGE 3 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+license, permit, certificate, sanction or approval and the receipt or payment of money ;
+(m)
+"State Electronic Records Repository" within the Information Technology & Communications department is an electronic
+repository of the Departments’ Digitally Signed Records for the purpose of accessing such certificates at a centralized/
+decentralized locations and printing and delivering them to the Citizens through courier or by post.
+3.
+Use of Digital Signature Certificates for Electronic Service Delivery.
+(a)
+It shall be lawful for the Competent Authorities and other Statutory Authorities to deliver public services adopting the
+system of Electronic Service Delivery with the use of Digital Signature Certificates, in accordance with these rules.
+(b)
+The nature of the license, permit, certificate, sanction or approval and of the receipt or payment of money, which can be
+effected under the system of Electronic Service Delivery , shall be such as those notified by the Director of Electronic
+Service Delivery from time to time.
+(c)
+Any license, permit, certificate, sanction or approval delivered in accordance with these rules shall be admissible in any
+proceedings, without further proof or production of the original, as evidence of any contents of the original or of any fact
+stated therein of which direct evidence would be admissible.
+(d)
+The receipt or payment of money by or in favour of Government adopting the system of Electronic Service Delivery shall
+be deemed to be a receipt or payment effected in compliance with the Financial code and Treasury code of the
+Government.
+4.
+Duty of the Government to deliver all public Services through electronic mode.
+(1)
+Every Competent Authority/ the Heads of the Department shall publish as prescribed within one hundred and eighty
+days from the coming into force of these Rules: -
+(a)
+The public services of the department, agency or body which are to be delivered through electronic mode;
+(b)
+The date by which each such service shall be made available through electronic mode;
+(c)
+The manner of delivery of such services and their service levels;
+(d)
+The designated officers for delivery of each such service through electronic mode; and, thereafter, review and update
+these publications every year.
+(2)
+Notwithstanding anything stated above,
+(a)
+all public services of each department, agency or body shall be delivered in electronic mode within 5 years from the
+coming into force of these Rules.
+(b)
+the competent authority / the Heads of the Department, while introducing electronic services, shall ensure that
+convenient assisted access to such electronic services shall also be made available.
+5.
+Constitution and Powers of Director of Electronic Service Delivery.
+(a)
+The Government of Andhra Pradesh has laid out a clear vision to create a knowledge society by using Information
+Technology in all aspects of development and governance. Pioneering efforts are being made to reach the benefits of
+Information Technology to the citizens - urban and rural, rich and poor, literate and illiterate and has created eSeva
+(Electronically Deliverable Services) to provide Citizen Services.
+Page 3/10
+----- PAGE 4 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+(b)
+The Director of Electronic Service Delivery shall have the powers specified in these rules, including the power to grant,
+suspend or revoke authorization to the Authorized Service Providers, notification of Information Technology systems as
+'protected systems', within the meaning assigned to the same under the Act, basing on the satisfactory results of audit of
+systems engaged in Electronic Service Delivery, and such other powers as the Government may notify from time to
+time.
+(c)
+It shall be the responsibility of the Director of Electronic Service Delivery to ensure that the system of Electronic Service
+Delivery, specified under these rules functions efficiently and effectively for the benefit of the users.
+6.
+Notification of Competent Authorities.
+(a)
+All the departments of the Government shall inform Director of Electronic Service Delivery, the list of Competent
+Authorities in respect of different public services and local limits of their respective jurisdictions in the State. The
+information shall specify the nature of such service, the names of the competent authorities, the period of effectiveness
+of the authority and the extent of jurisdiction.
+(b)
+It shall be the responsibility of the respective appointing/controlling authorities of Competent Authorities to inform the
+Director of Electronic Service Delivery immediately with respect to retirements, transfers, suspensions or termination
+from services of employees holding positions of Competent Authorities and also shall get these changes implemented in
+their respective software applications through their technology partners. The above process should be part of charge
+handing over and taking over consequent on such retirements, transfers, suspensions or termination from services of
+employees.
+(c)
+The Director of Electronic Service Delivery shall publish all such notifications and changes appropriately in the State
+Portal for the information of general public, the Authorized Service Providers for Electronic Service Delivery and the
+Authorized Agents.
+7.
+Authorized Service Providers for Electronic Service Delivery.
+(a)
+The Director of Electronic Service Delivery may authorize body corporates suitably qualified, equipped for the purpose
+and selected through the specified process to undertake activities required for delivery of public services electronically.
+(b)
+It shall be the responsibility of the Authorized Service Provider to provide the notified services electronically to the users
+in conformity with these rules, by establishing the required delivery infrastructure and a network of Authorized Agents.
+(c)
+The Authorized Service Providers shall be accountable for the efficiency, quality and accuracy of the services provided.
+The participating departments may, for this purpose, lay down norms on the efficiency, quality and accuracy in provision
+of their respective services, in the form of service levels.
+8.
+Suspension and Revocation of Authorization by Director of Electronic Service Delivery.
+(a)
+The Director of Electronic Service Delivery may, if he is satisfied after making such enquiry, as he may think, that the
+Authorized Service Provider or any authorized Agent appointed by such Authorized Service Provider has made a
+statement in, or relation to, the application for the issue or renewal of the authorization, which is incorrect or false in
+material particulars; failed to comply with the terms and conditions subject to which the authorization was granted; failed
+to maintain the procedures and standards under this Act, any rule, regulation or order made thereunder, revoke the
+authorization of such Authorized Service Provider.
+(b)
+The Director of Electronic Service Delivery may not revoke the operation of an authorization unless the Authorized
+Service Provider has been given a reasonable opportunity of showing cause against the proposed revocation.
+Page 4/10
+----- PAGE 5 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+(c)
+The Director of Electronic Service Delivery may, if he has reasonable cause to believe that there is any ground for
+revoking a authorization under sub-rule (a), by order suspend such authorization pending the completion of any inquiry
+ordered by him;
+Provided that no authorization shall be suspended for a period exceeding ten days unless a notice of 15 days is given to
+the Authorized Service Provider by the Director of Electronic Service Delivery, explaining the circumstances
+necessitating the revocation of the authorization, examine the explanation, if any, submitted by the Authorized Service
+Provider in response to such a notice, before coming to a conclusion to revoke the authorization.
+(d)
+As soon as may be after an authorization is revoked, the Director of Electronic Service Delivery shall make alternative
+arrangements for delivery of services electronically, to the extent they are adversely impacted by such revocation.
+(e)
+No Authorized Service Provider whose authorization has been suspended or any Authorized Agent appointed by such
+Authorized Service Provider shall provide any notified services electronically to the users in conformity with these rules,
+during such suspension.
+Where the authorization of a Authorized Agent is suspended or revoked, the Director of Electronic Service Delivery shall
+publish notices of such suspension or revocation, as the case may be, in the State Portal.
+9.
+Commencement of Operation by Authorized Service Provider.
+- The Authorized Service Provider shall commence its commercial operation for Electronic Service Delivery (ESD) only
+after -
+(a)
+It has confirmed to the Director of Electronic Service Delivery the adoption of procedures and standard specified under
+these rules; and
+(b)
+It has installed facilities and infrastructure associated with efficient delivery of electronic services and in an error-free
+manner.
+10.
+Requirements prior to Cessation as Authorized Agency.
+- Before ceasing to act as an Authorized Service Provider, such an Authorized Service Provider shall, give notice to the
+Director of Electronic Service Delivery of its intention to cease acting as an Authorized Service Provider:
+Provided that
+(a)
+the notice shall be made ninety days before ceasing to act as Authorized Service Provider or ninety days before the date
+of expiry of authorization;
+(b)
+Advertise sixty days before the expiry of authorization or ceasing to act as a Authorized Service Provider, as the case
+may be, the intention in such daily newspaper or newspapers and in such manner as the Director of Electronic Service
+Delivery may determine;
+(c)
+The notice shall be sent to the Director of Electronic Service Delivery and affected Authorized Agents by digitally signed
+email;
+(d)
+Make a reasonable effort to ensure that discontinuing its certification services, causes minimal disruption to its
+Authorized Agents and users.
+11.
+Appointment of Authorized Agents by the Authorized Service Provider.
+(a)
+The Authorized Service Provider may appoint such number of Authorized Agents, as may be needed to deliver the
+services electronically in a manner convenient to the users, and in any case, in a number calculated as per the norms
+prescribed by the Director of Electronic Service Delivery in this regard.
+Page 5/10
+----- PAGE 6 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+(b)
+Selection Criteria of Authorized Agent by Authorized Service Provider: Following stipulations are made for selection of
+Authorized Agents by Authorized Service Provider -
+(i)
+The Authorized Agent should be a village youth of same village or neighboring village to the extent possible.
+(ii)
+Essential minimum education qualification of the Authorized Agent should be a 10th pass from any recognized board.
+(iii)
+The Authorized Agent should be fluent in speaking, reading and writing the local dialect as well as have base level
+knowledge of English language.
+(iv)
+The Authorized Agent should preferably have a certificate from any computer institute showing that he/she knows the
+basic operations of the computer and usage of standard applications. Otherwise the Authorized Service Provider should
+make arrangements for the selected Authorized Agent to be trained in Basic Computer operations/ usage.
+(v)
+The Authorized Agent should undergo a behavioral as well as assessment test for Information Technology, Telugu and
+English language skills.
+(c)
+The Authorized Service Provider shall ensure that all the Authorized Agents obtain Digital Signature Certificates before
+they are permitted to deliver any public service electronically.
+(d)
+The Authorized Service Provider may also impart appropriate training to the Authorized Agent to impart them the skills
+required to deliver the electronic services efficiently and in an error-free manner.
+(e)
+The Model Terms and Conditions for appointment of Authorized Agents is at Annexure I and the Declaration to be
+signed by the Authorized Agent for Delivering the Electronic Services is at Annexure II.
+12.
+Creation of repository of digitally signed electronic records by Government Authorities.
+(a)
+All Government Authorities, Statutory Authorities or Certificate Issuing Authorities, empowered by any Act, Rule,
+Regulation or order of the Government, to issue any license, permit, certificate, sanction or approval, may, as soon as
+can be, after the coming into effect of these rules create, establish and maintain a repository and database of digitally
+signed electronic records together with the associated software applications and work-flow to enable electronic delivery
+of such licenses, permits, certificates, sanctions or approvals as the case may be. For such purpose, Head of the
+Department controlling several Statutory Authorities or Government Authorities may establish and maintain a centralized
+application and a repository of digitally signed electronic records.
+(b)
+The prescribed security procedures, as defined in the Information Technology Act 2000, shall be followed by the Head of
+the Department and the Government Authorities, Statutory Authorities and Competent Authorities, in respect of the
+electronic data, information, applications, repository of digitally signed electronic records and Information Technology
+assets under their respective control.
+13.
+Procedure for making changes in a repository of digitally signed electronic records.
+(a)
+Any Statutory Authority, Government Authority or Competent Authority, either suo moto, or on an application by an
+interested party, may make or order to make an appropriate change in a repository of digitally signed electronic records,
+after following the procedure prescribed in the relevant Act, Rule, Regulation or Order.
+(b)
+Any such authority shall have privileges for making or ordering changes only in respect of the electronic records
+pertaining to their own jurisdiction.
+(c)
+Page 6/10
+----- PAGE 7 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+Any change effected to any record in a repository of digitally signed electronic records, and any addition or deletion of a
+record from such repository of electronic records shall invariably be digitally signed by the respective authority and an
+electronic audit trail of all such changes shall be maintained.
+14.
+Creation of secure application software for Electronic Service Delivery.
+(a)
+All the Departments of the Government participating in the scheme of Electronic Service Delivery, shall get appropriate
+software applications created, using which, the Statutory Authority, Government Authority or Competent Authority,
+digitally signs the license, permit, certificate, sanction or approvals, and get the same audited by a third party agency, so
+as to ensure its security, reliability, performance and consistency, before it is deployed.
+(b)
+Every Authorised Service Provider shall create its own application software in consultation with the respective
+departments, which will enable such Authorized Service Providers to deliver electronic services in accordance with
+these rules.
+(c)
+Such application software shall, inter alia, possess the following features and capabilities
+(i)
+Secure Login of Authorized Agents and other employees of the Authorized Agency, as are required to access the
+application system, through use of Digital Signature Certificates;
+(ii)
+Secure access of Authorized Agents, to the repositories of digitally signed electronic records maintained by the
+Government Authorities, Statutory Authorities and Competent Authorities, for printing and delivery of the digitally signed
+license, permit, certificate, sanction or approvals;
+(iii)
+Assigning of a unique identification to each license, permit, certificate, sanction or approval and to the voucher or receipt
+issued by any authorized agent while providing electronic services to the citizens;.
+(d)
+The application software shall comply with the requirement of the Information Technology (use of Electronic Records
+and Digital Signatures) Rules 2004. The Director of Electronic Service Delivery shall get such software application
+audited by a third party agency, as to its security, reliability, performance and consistency, before it is deployed by the
+Authorized Agency.
+15.
+Delivery of Electronic Services by the Authorized Agent / Authorized Service Provider/ Director of State Electronic
+Records Repository.
+(a)
+On a request made by a user for provision of a service, relating to the issue of any license, permit, certificate, sanction
+or approval and to the receipt or payment of money, the Authorized Agent shall access the respective departmental
+repository of digitally signed electronic records through their secured application specified in Rule 14 above, in respect
+of any license, permit, certificate or approval or the database in respect of any payment or receipt.
+(b)
+The Authorized Agent shall be permitted to have such access only with the use of his or her digital signature certificate.
+(c)
+The Authorized Agent shall accept the prescribed fees, tax, duty, payment along with the applicable service charge,
+download the related license, permit, certificate, sanction or approval or the database record relating to any payment or
+receipt, print the license, permit, certificate, sanction or approval from the repository of digitally signed electronic
+records, or the payment voucher or receipt from the relevant database, and print the document using the secure
+application software.
+(d)
+The document relating to any license, permit, certificate, sanction or approval shall consist of the following information
+(i)
+The license, permit, certificate, sanction or approval in the form prescribed in the relevant Act, Rule, Regulation or
+Page 7/10
+----- PAGE 8 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+Order;
+(ii)
+The name and designation of the Competent Authority, Statutory Authority or Government Authority who had digitally
+signed the electronic record along with the date and time of creation of such record;
+(iii)
+A declaration automatically generated in the name and designation of the current incumbent of the office of Competent
+Authority, Statutory Authority or Government Authority, to the effect that the electronic record was preserved from the
+time it was originally signed digitally till date, adopting the prescribed security procedure;
+(e)
+The Authorized Agent shall issue a printed receipt for all payments received.
+16.
+Verification of Digitally Signed documents.
+(a)
+The respective participating department shall cause to be created a system (portal/website) of online verification of any
+license, permit, certificate, sanction, approval or receipt in a particular manner delivered by any Authorized Agent/ State
+Electronic Records Repository in the course of the delivery of any notified electronic service.
+(b)
+Any person or authority, desirous of verifying the authenticity of any document or certificate issued under these rules,
+may access such portal/website using the unique number printed on the document sought to be verified.
+17.
+Audit of the Information Systems and Accounts of Authorized Service Provider.
+(a)
+The Director of Electronic Service Delivery may cause an audit to be conducted of the records and accounts of the
+Authorized Agencies in the State, at such intervals as deemed necessary by an agency empanelled as an information
+security auditing organization.
+(b)
+Such an audit may cover aspects such as the security, confidentiality and the privacy of information, the functionality
+and performance of any software application used in the Electronic Service Delivery and the accuracy of accounts kept
+by the Authorized Agencies.
+(c)
+It shall be incumbent on the Authorized Agencies to provide such information and assistance to the audit agencies, to
+comply with the directions given by the audit agencies and to rectify the defects and deficiencies pointed out by the audit
+agencies.
+18.
+Use of Special Stationery in Electronic Service Delivery.
+- The special stationery used for delivery of the services shall be prescribed by the respective departments. The
+Authorized Agencies shall use the said special stationery for delivering the services.
+19.
+Penalty for contravention of Rules.
+- Whoever knowingly or intentionally contravenes any provisions of these rules, for the contravention of which no
+punishment has been separately provided in the Act, shall be punishable with imprisonment up to six months, or with
+fine which may extend up to fifty thousand rupees, or both.
+20.
+Penalty for committing fraud.
+- Whoever knowingly or intentionally commits a fraud, causing wrongful loss to any Government agency or to user, by
+fraudulent misuse of the Electronic Service Delivery system, shall be punishable with imprisonment term that may
+extend up to 3 years, and shall also be liable to fine.
+21.
+Penalty for misrepresentation.
+- Whoever makes any misrepresentation to, or suppresses any material fact from the Director of Electronic Service
+Delivery for obtaining any authorization, shall be punished with imprisonment for a term which may extend to two years,
+Page 8/10
+----- PAGE 9 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+or with fine which may extend to one lakh rupees, or with both.
+22.
+Guidelines to the participating Departments to create a secured application for processing the requests.
+- The Powers are vested with Director of Electronic Service Delivery to issue the regulations consistent with the Act, and
+any rules made there under, by the Central or State Government, to carry out the purposes of these Rules, which may
+including the following aspects:
+(a)
+the manner of creating, establishing and maintaining the repository of digitally signed electronic records specified in
+Chapter 4 of the act;
+(b)
+the manner of encrypting sensitive electronic records requiring confidentiality, while they are digitally signed;
+(c)
+the manner of implementing the security guidelines, including the requirements for the storage and management of
+cryptographic keys, restrictions for downloading the certificates onto browsers and of complying with the requirements of
+Competent Authorities;
+(d)
+the requirements for maintaining audit trails of all changes made to digitally signed databases, specified in Rule 13;
+(e)
+the manner of digitally signing the event of deletion of a record from the repository of digitally signed electronic records,;
+(f)
+the manner of provisioning secure access to the repository of digitally signed electronic records and
+(g)
+the manner of storage and management of the Digital Signature Certificates of the Authorized Agents.
+(h)
+the norms on the service levels to be complied with by the Authorized Agency.
+(i)
+the format or formats of the documents and declarations referred to therein,
+(j)
+procedure for online verification of transactions, envisaged in Rule 16.
+Annexure I
+(See Rule 11 (e) of the Andhra Pradesh Information Technology (Electronic Service Delivery)Rules, 2011)
+Model Terms and Conditions for appointment of Authorized Agents
+The terms and conditions for the functioning of the Authorized Agents shall inter alia include the following-
+(1)
+The Authorized Agent shall establish infrastructure and information technology resources as per the prescribed
+standards and requirement;
+(2)
+The Authorized Agent shall render all the notified and permitted services as per the provisions of these Rules;
+(3)
+The Authorized Agent shall maintain an accurate audit trail of all operations;
+(4)
+The Authorized Agent shall print the correct information or document without any errors, omissions or
+misrepresentations as available in the electronic form on the prescribed stationary.
+(5)
+The Authorized Agent shall use the Electronic Service Delivery (ESD) for purposes specified in these Rules, avoiding
+unauthorized, illegal or malafide uses of ESD systems.
+(6)
+The Authorized Agent shall maintain appropriate security controls to protect its information technology resources and
+processing facilities as prescribed by the Authorized Agency.
+(7)
+The Authorized Agent shall attend the training as prescribed by the Authorized Service Provider for efficient rendering of
+Page 9/10
+----- PAGE 10 -----
+Andhra Pradesh Information Technology (Electronic Service Delivery ) Rules, 2011
+services to the users.
+(8)
+The Authorized Agent shall accept any other related obligation(s) as may be notified under the Rules and any
+Regulations or Order made thereunder;
+(9)
+The Authorized Agent shall acknowledge that every such appointment as an Authorized Agent under the Rules, is not
+transferable or heritable.
+Annexure II
+(See Rule 11 (e) of the Andhra Pradesh Information Technology (Electronic Service Delivery) Rules, 2011)
+Declaration to be signed by the Authorized Agent for Delivering the Electronic Services
+I,
+, having been appointed as an Authorized Agent by M/s.
+(Name of the Authorized Service Provider) having its registered office at
+.. , to electronically deliver services as notified under the AP information Technology (Electronic Service Delivery ) Rules
+2011 with the location of my IT Center / kiosk / Common Service Centre at
+(location), make the following declaration.
+(1)
+That the computer output in the form of computer printouts attached herewith is the correct representation of its original
+as contained in the computer systems accessed by me for providing the service.
+(2)
+That the information contained in the computer printouts has been produced form the aforesaid computer systems
+during the period over which the computer was used regularly.
+(3)
+That during the said period, information of the kind contained in the computer printout was regularly recorded by the
+aforesaid computer systems in the ordinary course of the activities.
+(4)
+That throughout the material part of the said period, the computer was operating properly, and there have been no such
+operational problems that affect the accuracy of the electronic record contained in the aforesaid computer systems.
+That the matter stated above is correct to best of my knowledge and belief.
+Signature of AA:
+Name of AA:
+Public Key of Digital Signature of AA:
+Date:
+Place:
+Related AI tags, queries and research notes
+Translation
+Page 10/10

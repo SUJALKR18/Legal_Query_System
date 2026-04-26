@@ -1,0 +1,716 @@
+
+----- PAGE 1 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+Rajasthan Electricity Regulatory Commission (Intra-State ABT)
+Regulations, 2006
+Source: https://indiankanoon.org/doc/27181351/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Rajasthan - Act
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+RAJASTHAN
+India
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+Rule RAJASTHAN-ELECTRICITY-REGULATORY-COMMISSION-INTRA-STATE-ABT-REGULATIONS-2006 of 2006
+Published on 24 August 2006
+Commenced on 24 August 2006
+[This is the version of this document from 24 August 2006.]
+[Note: The original publication document is not available and this content could not be verified.]
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+Published vide Notification No. RERC/Secy/Reg. 50, dated 24.8.2006
+Last Updated 21st May, 2019
+Notification No. RERC/Secy/Reg. 50. - In exercise of the powers conferred by Section 181 of the Electricity Act, 2003
+(Act 36 of 2003) the Rajasthan Electricity Regulatory Commission after previous publication makes the following
+regulations:-
+1.
+Short title applicability and commencement.
+(1)
+Page 1/14
+----- PAGE 2 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+These regulations shall be called the Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+and will come into force w.e.f. 1.10.2006.
+2.
+Definitions.
+(1)
+"ABT" means availability based tariff. ABT is a three-part tariff comprising of fixed charges, variable charges and UI
+charges. The fixed charges are linked to availability and variable charges to the scheduled energy. The Unscheduled
+Interchange (UI) rate is applicable to the deviations from the schedule.
+(2)
+"Drawal" means the electricity delivered at the interconnection of transmission system or 'user' installation with specified
+network.
+(3)
+"Injection" means the electricity transfer by the generating company or licensee to the user at a pre-defined
+interconnection point with specified network, for the intra-state generating stations directly connected to the specified
+network, the injection schedule is the generation schedule:
+Provided, in case of electricity supply by the inter-state generating stations or trading licensee, if the electricity is
+supplied at a point other than the transmission network of Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPN) or
+transmission licensees within the State, this will be reduced by the interstate losses to arrive at the electricity injected.
+(4)
+"Inter-state ABT rate or UIR" means unscheduled interchange rates as specified by the Central Electricity Regulatory
+Commission (CERC).
+(5)
+"Inter-state ABT rate" or "UIs" means unscheduled interchange rates as specified by the Rajasthan Electricity
+Regulatory Commission.
+(6)
+"Intra-state Generating Station" means the generating station, not an inter-state generating station but operating within
+the State and supplying its entire generation within the State.
+(7)
+"Inter state users" mean users effecting part or total power purchase from inter-state sources.
+(8)
+"Intra state user" means user effecting part or full power purchase only from intra state suppliers.
+(8)
+"User" means the generating station, distribution licensee, trading licensee and open access consumers within the state
+utilizing the specified network.
+(10)
+"Supplier" means the generating station, distribution licensee and trading license, effecting power supply to open access
+consumer within the State.
+(11)
+"Time block" is as defined in Indian Electricity Grid Code. Presently it is for 15 minutes.
+(12)
+"Specified network" means state transmission network of 132 kv and above owned and operated by the transmission
+licensee(s) of the state including RVPN.
+For the purpose of this regulation distribution licensee, generating stations & trading licensee means intra state
+distribution licensees, intra state generating station & intra state trading licensees respectively.
+All words and expressions appearing in these regulations and not defined herein above bear the meaning assigned to
+them in the following order:
+(i)
+RERC (Terms & Conditions for Open Access) Regulations 2004,
+(ii)
+State Grid Code
+(iii)
+Page 2/14
+----- PAGE 3 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+Indian Electricity Grid Code
+(iv)
+The Electricity Act-2003.
+3.
+Applicability of ABT.
+- Intra-state ABT is applicable to the users, required to give daily schedules to the State Load Despatch Centre (SLDC),
+unless excluded from the applicability of ABT under these Regulations and fulfilling the following specific conditions
+during the period of its operation:
+Provided, the ABT applicability will remain suspended for the period of Grid disturbance, islanded mode of grid operation
+conveyed by SLDC as per grid Code provisions.
+(1)
+Generating Stations. - A generating station except the following gets covered by intra-state ABT, if:-
+(I)
+Covered by inter-state ABT, or
+(II)
+Nuclear, Wind and Solar Power Stations, or
+(III)
+Run of River Hydro Power Stations without storage facility, and hydro power stations of Rajasthan Rajya Vidyut Utpadan
+Nigam Limited (RVUN) and its partnership projects
+(IV)
+Power Plants of capacity below 10 MW capacity:
+Provided, intra state ABT will not be applicable to a generating station or trading licensee or distribution licensee
+effecting supply to open access consumer unless, such generating station or a trading licensee is governed by the
+inter-state ABT or intra-state ABT, as the case may be:
+Provided, in respect of captive power plants (CPP) the rated capacity of the generating station, will be the effective rated
+capacity available after captive use i.e. the captive use will not be less than 51% of the installed capacity:
+Provided further, the ABT applicability to CPP will be governed by the relevant Regulations of RERC.
+(2)
+Licensee. - A Distribution/trading licensee will be covered by intra-state ABT, if
+(i)
+It affects the drawal from the generating stations & licensees governed by interstate and/or intra-state ABT and
+(ii)
+Its total drawal during a time block exceeds the drawal from Non-ABT sources i.e. generating, trading licensee &
+distribution licensees not governed by interstate or intra-state ABT:
+Provided, the intra-state ABT shall be applicable only on bilateral exchanges, if for such exchanges, scheduling &
+payment as per ABT, for deviations from schedule has been agreed.
+(3)
+Open Access Consumer. - An open access consumer, within the State, will be governed by intra-state ABT only, in
+respect of electricity supplied to him by the generating station/licensee governed by inter-state/intra-state ABT, intra
+state ABT will be applicable to the extend of such supply only:
+Provided, drawal schedule of open access consumer for a working day shall be the normal drawal schedule of a working
+day and that of a holiday shall be the normal drawal schedule of a holiday. Any deviation of more than 5% will be treated
+as gaming & may be disallowed by SLDC.
+4.
+Unscheduled Interchange (UI) rates.
+- UI rates under intrastate ABT shall be the rates as specified by CERC for northern region for each 15 minutes block
+linked to frequency adjusted to account for inter state transmission losses as here under:
+UIS = UIR/(1 -L)
+Where:
+UIS is Intra-state ABT rate for a frequency step
+UIR is UI rate applicable for Northern Region for that frequency step
+Page 3/14
+----- PAGE 4 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+L is Inter-state transmission losses of northern region in per unit
+5.
+Determination of schedule/drawal and intra-state UI charges.
+- (1) Scheduling procedure. -All suppliers and all users (governed by inter state/intra state ABT) shall comply with the
+scheduling and dispatch requirements specified in the state grid code. The process of communicating the available
+capacity and load schedule for the day, shall be completed at least 2 Hrs. before, the commencement of the next day
+schedule by the SLDC.
+The SLDC will evolve a practicable procedure in line with the "Scheduling and Dispatch procedure" prescribed in
+chapter-9 of Grid Code part-II, - "Load Despatch & System Operation Code", for reporting the availability and the
+schedule will be such that all the scheduling activities are completed by 2300 Hrs. including the notifying spare capacity
+available in the State to effect its optimum use.
+(2)
+Data Compilation. - (i) The electricity drawal by a distribution licensee or open access consumer, corresponding to
+injection or vice versa will be determined as follows: -
+D = I x (1-Loss) - (1)
+or I = D/(l-Loss) - (2)
+Where:
+D is electricity drawal by the user at its premises
+I is electricity injection
+Loss = transmission losses of State Grid in per unit
+(ii)
+The drawal schedule and the actual drawal by the user at the injection point shall be converted to that at specified
+network by applying above formula after accounting for intra-state transmission losses as approved by the Commission
+from time to time.
+Note. - For the year 2006-07, transmission losses are 4.5% and will continue to be applicable for subsequent years until
+revised.
+(iii)
+Drawal schedule/actual drawal will be considered with positive sign and generation schedule/actual injection will be
+considered with negative sign.
+(iv)
+For the purpose of these Regulations, scheduled and actual drawal by a distribution licensee at interconnection point(s)
+with RVPN's Transmission system will account for the purchased generation within its area of supply. The generation at
+intra-state generating stations supplying electricity to more than one user will be accounted for by SLDC based on the
+respective share m the capacity to determine scheduled and actual drawal by the distribution licensee.
+(v)
+In case of multipoint supply to distribution licensee or open access consumer located within a well-defined contiguous
+territorial area, the load schedule/drawal will be deter-mined by summation of load schedule/actual drawal (from all
+sources) at interconnection within specified network adjusted for losses as above:
+Provided where the supply points are not provided with ABT meters, the integration procedure will be mutually agreed
+by the concerned generating station, licensee or open access consumer and SLDC.
+(3)
+Preparation and Settlement of Unscheduled Interchange (UI) Accounts. - (i) In respect of distribution licensees and
+generating stations, UI account of Northern region for the State as a whole, and intra-state UI account will be prepared
+as here under:-
+(I)
+To work out the scheduled drawal from NRLDC, total drawal schedule of the users will be reduced by:
+(i)
+Schedules of non-ABT bilateral purchases.
+(ii)
+Schedules of ABT bilateral purchases.
+(iii)
+Page 4/14
+----- PAGE 5 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+Schedules of non-ABT generation.
+(iv)
+Schedules of ABT generation.
+SLDC will sum up the scheduled drawal of the inter state users to arrive at the total drawal schedule from northern
+region.
+(II)
+Based on the actual injection and actual drawal, the actual drawal from northern region by each user will be worked out
+by subtracting the actual injection and drawal here under:
+(i)
+Actual of non-ABT bilateral purchases.
+(ii)
+Actual of ABT bilateral purchases.
+(iii)
+Actual of Non-ABT generation.
+(iv)
+Actual of ABT generation.
+SLDC will sum up the actual drawal of all inter state users to arrive at the actual gross drawal from northern region.
+(III)
+Subtraction of the scheduled drawal from the actual drawal (II above) will provide the schedule deviation i.e. gross UI to
+be segregated into inter state UI and intra state UI from the external source.
+(IV)
+If the gross UI from northern region, worked out as above, is positive i.e. net over drawal by the state from northern
+region, this will be allocated among the overdrawing users m proportion to their gross overdrawal (Interstate and
+Intrastate UI from external source) as worked out at S.No. Ill above.
+(V)
+If the gross UI from northern region, is negative i.e. net underdrawal by the state from the northern region, it will be
+allocated among the under drawing users in proportion to their gross underdrawal (Interstate UI and Intrastate UI from
+external source) worked out at S.No. III above.
+(VI)
+The figures so worked at (IV) or (V) above will be the provisional Inter state UI.
+(VII)
+Subtracting the provisional interstate UI worked out at (VI) from the gross UI will be the notional Intra state UI from
+external sources.
+(VIII)
+On the basis of deviation from injection/generation/drawal schedule vis-a-vis the actual generation and drawal, the
+intrastate UI pertaining to generating stations located within the state a worked out at S.No. (III), will be subtracted from
+the notional UI arrived at (VII i will be the aggregate Intrastate UI.
+(IX)
+If, there is difference between the final Interstate UI account of NREB and the provisional inter state UI worked out as at
+(V) above, and there is no change of sign, provisional inter state UI will be adjusted towards difference, otherwise it is to
+be carried over to next time block.
+(X)
+Intra State ABT calculation sheet for UI for a time block is enclosed at Annexure-1.
+(ii)
+(1) The entitlement of an open access consumer (other than licensee), in actual injection at interconnection point by the
+supplier will be in proportion of the apportionment assigned to the open access consumer by the supplier in the schedule
+or revision thereof, which will not exceed the open access contract demand with permissible variation.
+(2)
+Unscheduled interchange (UI), contractual back up supply and temporary supply to open access consumer will be
+worked out as follows:-
+Let 'D' = Actual drawal by an open access consumer during a time block
+Page 5/14
+----- PAGE 6 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+'E' = Entitlement as per actual injection to an open access consumer at his premises duly adjusted for intra state
+transmission losses, after considering generation/injection, disallowed by the SLDC.
+'C' = Contract demand of open access consumers with distribution licensee.
+'S' = Standby supply contract demand.
+(a)
+In case of O.A. supplier not governed by ABT then:-
+(i)
+If D < E
+then (E-D)/( 1-loss) will be treated as inadvertent supply to distribution licensee for which no adjustment is available to
+such open access consumers, unless specifically provided in RERC Regulations.
+(ii)
+If DE > then:
+(I)
+if (D-E) < C then D-E is the electricity supplied by the distribution licensee
+(II)
+If (D-E) > C then
+Gross overdrawal by an open access consumer will be (D-E) - CGN
+(III)
+This gross overdrawal, over and above the standby contract demand will be considered as overdrawal under regular HT
+supply, under HT supply agreement otherwise under temporary supply.
+(b)
+In case an O.A. supplier governed by ABT, if permissible deviation is-pl to + p2 of the schedule and Sd is the scheduled
+drawal, and;.
+(i)
+If D < Sd then
+E=D or, Sd (1-P1), whichever is higher. UI will be E-Sd
+(ii)
+If D > Sd then
+E=D or, Sd(l + P2), whichever is less. UI will be E-Sd
+With 'E' so determined, further accounting will be as per clause (a) above.
+(3)
+If generating company/licensee, supplying electricity to an open access consumer, governed by interstate or intra-state
+ABT, then entitlement of open access consumer will be based on scheduled injection or revision thereof duly adjusted
+for intra state transmission losses.
+(4)
+Unscheduled Interchange of trading licensee will be determined by the distribution licensee in whose are generating
+station of trading licensee is injecting power.
+(5)
+The demand and energy account of open access consumer as above will be determined by the distribution licensee in
+whose area of supply, open access consumer is located. Where the supplier is not situated in the area of supply of
+distribution licensee, then distribution licensee in whose area, the supplier is situated, will convey the schedule injection
+and actual injection to another distribution licensee.
+(4)
+Reactive drawal. - Reactive energy drawal/injection at State Grid
+(i)
+by Vitran Nigams,
+(ii)
+for open access supply to open access consumers;
+(iii)
+by open access supplier and
+(iv)
+Page 6/14
+----- PAGE 7 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+at interchange points between Vitran Nigams,
+will be subject to adjustments based on KV Arh drawal/injection as per rates and Terms and Conditions specified by
+RERC from time to time.
+6.
+Responsibility and requirements.
+(1)
+Primarily, SLDC will be the agency responsible for implementation of intra-state ABT, and coordination with NRLDC for
+inter state ABT application in consultation with generators, transmission licensee, traders, distribution licensee and open
+access consumers. SLDC shall process the metering data received from all the stations and will maintain the energy
+account on regular basis and shall take all measures necessary to prevent any possible gaming.
+(2)
+All expenses to upgrade necessary software, hardware, human resources for real time operations and communication of
+data to SLDC etc. as allowed by the Commission will be recovered as per the RERC (Levy of Fee and Charges by
+SLDC) Regulations 2004.
+(3)
+All stake holders will comply with the SLDC directions and will provide the required assistance in time on regular basis.
+SLDC is authorized to impose penalty not exceeding Rupees five lacs on the users, in case of non-compliance of the
+directions. SLDC will direct RVPN/ distribution licensee to disconnect or to effect curtailment of supply to the user in
+such a situation.
+(4)
+ABT compliant metering, will be the interface metering as per CEA's (Installation and Operation of Meters) Regulations,
+2006 at the points of injection/drawal, to the meter will be provided by the respective user who will ensure proposed data
+communication to SLDC. The time synchronization of the metering system will be through Global Positioning System
+(GPS) with counter check from Heerapura central billing station. Respective users will bear their own expenses.
+(5)
+For the purpose of intra-state ABT, the existing metering CTs and PTs/CVTs installed and operating in the system will
+be valid until replaced by the specified accuracy class.
+(6)
+The distribution licensees will set up their own load dispatch center or may utilize the facility available at Kota, Bhilwara,
+Ratangarh sub-SLDCs to monitor and control their power drawal, injection/ drawal of open access consumer on real
+time basis and will setup communication links with SLDc in ensuring effective and efficient operations.
+Illustrative example for a time block
+Annexure-1
+S.No
+Particulars
+SLDC's energy account for
+NRLD Cenergy account
+Remark
+AVVNL
+JVVNL
+Jd. VVNL
+trader/ DL
+General Stn.
+A.
+Alloc. Non ABT %
+Alloc. first charge
+Alloc. ABT %
+Alloc. first charge
+Scheduled drawal/ generation (MU)
+1. drawal of licensee
+2. Gen. Non ABT
+Page 7/14
+----- PAGE 8 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+3. Gen. ABT
+4. Net drawal from NR
+35%
+0
+36%
+0
+1800
+-175
+-900
+725
+35%
+0
+36%
+0
+1800
+-175
+-900
+725
+28%
+0
+28%
+0
+1400
+-140
+-700
+560
+2%
+0
+0
+40
+100
+-10
+-40
+50
+-500
+-2540
+2060
+Alloc./Share shown
+in Column 3 to 6
+Alloc./Share shown in Column 3 to 6
+B.
+Actual drawal/ generation (MU)
+1. actual drawal of licensee
+2. act. Gen. Non ABT
+3. act. Gen. ABT
+4. Net drawal from NR.
+1900
+-158
+-986
+756.1
+1800
+Page 8/14
+----- PAGE 9 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+-158
+-986
+656.1
+1400
+-126
+-767
+506.8
+80
+-9
+-40
+31
+-450
+-2780
+1950
+Alloc./share shown in
+Column 3 to 6
+Alloc./share shown in Column 3 to 6
+C.
+Deviation from schedule = actual
+(-) schedule = (B)-(A) (MU)
+1. licensees
+2. Non ABT gen.
+3. ABT gen.
+4. Net UI licensees
+100
+17.5
+-86.4
+31.1
+0
+17.5
+-86.4
+-68.9
+0
+14
+-67.2
+-53.2
+-20
+1
+0
+-19
+50
+-240
+-110
+D.
+Intra state UI calculations (till
+NRLDC account is received) (MU)
+1. a. overdrawal
+b. under drawal
+c. overdrawal adj.
+d. underdrawal adj.
+2. inter discom exch.
+Page 9/14
+----- PAGE 10 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+3. intra state UI D2-c3
+31.1
+0
+0
+0
+31.1
+117.50
+0
+-68.9
+0
+-53.71
+-15.19
+71.21
+0
+-53.2
+0
+-41.47
+-11.73
+55.47
+0
+-19
+0
+-14.81
+-4.19
+-4.19
+0
+0
+0
+0
+0
+240
+0
+-110
+-110
+0.00
+0
+E.
+Inter state UI on receipt of
+NRLDC's account(MU)
+1. Total UI
+2. UI specific to lie.
+3. Adjustment for prev block
+4. adj. For NRLDC UI
+5. inter state UI E(2)+E(4) Billing
+8
+0
+8
+-2
+-64.46
+-66.46
+4
+Page 10/14
+----- PAGE 11 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+-49.77
+-45.77 prev. block
+-17.77
+-17.77
+-121
+10
+-1
+-132
+To be adjusted only if its sign is same as that
+of c(4). Otherwise carry forward to next block
+F.
+Inter state ABT rate (Rs./Unit)
+1 for intra state UI (Rs. in
+million)
+2 for inter state UI (Rs. in
+million)
+Total (1+2)
+269.08
+17.60
+286.68
+2.20
+163.08
+-146.20
+16.88
+2.15
+127.04
+-100.69
+26.34
+intra state (Rs./
+Unit)
+-9.59
+-39.10
+-48.69
+ABT rate
+-549.60
+-549.60
+2.29
+268.35
+268.35
+sum Column 3 to 8
+0
+-0.05
+-0.05
+Annexure-2.
+(in MW)
+Particulars
+Open Access Supplier not governed BY ABT
+Open Access Supplier governed BY ABT
+case-1
+case-2
+case-3
+Page 11/14
+----- PAGE 12 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+case-4
+case-5
+case-6
+case-7
+case-8
+1
+Open Access injection/schedule
+10
+10
+10
+10
+10
+10
+10
+10
+2
+HT supply contract demand ('C')
+5
+5
+5
+5
+5
+5
+5
+5
+3
+Stand by suppy contract demand ('S')
+9
+9
+9
+9
+9
+9
+9
+10
+4
+Actual dawal CD')
+8
+15
+20
+27
+8
+15
+20
+27
+5
+(a) Deviation from schedule
+-2
+5
+10
+17
+Page 12/14
+----- PAGE 13 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+(b) permissible deviation -5% to +5% at UI
+-0.5
+0.5
+0.5
+0.5
+6
+Open access entitlement ('E')
+10
+10
+10
+10
+9.5
+10.5
+10.5
+10.5
+7
+Adjustment for
+(a) Open access
+8
+10
+10
+10
+8
+10.5
+10.5
+10.5
+(b) HT supply contract demand ('CO
+0
+5
+5
+5
+0
+4.5
+5
+5
+(c) standby supply ?
+0
+0
+5
+9
+0
+0
+4.5
+10
+(d) overdrawal
+0
+0
+0
+3
+0
+0
+Page 13/14
+----- PAGE 14 -----
+Rajasthan Electricity Regulatory Commission (Intra-State ABT) Regulations, 2006
+0
+1.5
+(e) inadvtant supply to discom
+2
+0
+0
+0
+1.5
+0
+0
+0
+# injection applicable for case 1 to 4 and schedule applicable for case 5 to 8
+Related AI tags, queries and research notes
+Translation
+Page 14/14

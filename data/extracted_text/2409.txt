@@ -1,0 +1,488 @@
+
+----- PAGE 1 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+The Energy Conservation (Form And Manner And Time For
+Furnishing Information With Regard To Energy Consumed And
+Action Taken On Recommendations Of Accredited Energy Auditor)
+Rules, 2008
+Source: https://indiankanoon.org/doc/7934608/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard To Energy Consumed
+And Action Taken On Recommendations Of Accredited Energy Auditor) Rules, 2008
+UNION OF INDIA
+India
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard To Energy Consumed
+And Action Taken On Recommendations Of Accredited Energy Auditor) Rules, 2008
+Rule
+THE-ENERGY-CONSERVATION-FORM-AND-MANNER-AND-TIME-FOR-FURNISHING-INFORMATION-WITH-REGA
+RD-TO-ENERGY-CONSUMED-AND-ACTION-TAKEN-ON-RECOMMENDATIONS-OF-ACCREDITED-ENERGY-AUDIT
+OR-RULES-2008 of 2008
+Published on 26 June 2008
+Commenced on 26 June 2008
+[This is the version of this document from 26 June 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+Page 1/10
+----- PAGE 2 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard To Energy Consumed
+And Action Taken On Recommendations Of Accredited Energy Auditor) Rules, 2008
+Published vide Notification G.S.R. 486(E), dated 26.6.2008, published vide Notification Gazette of India, Extra, Ptar 2,
+Section 3(i) dated 30.6.2008.
+10.
+/527
+In exercise of the powers conferred by clause (h) of sub-section (2) of section 56 read with clause (k) of section 14 of the
+Energy Conservation Act, 2001 (52 of 2001), the Central Government, hereby makes the following rules, namely:-
+1.
+Short title and commencement
+.-(1) These rules may be called the Energy Conservation (Form and Manner and Time for Furnishing Information with
+Regard to Energy Consumed and Action Taken on Recommendations of Accredited Energy Auditor) Rules, 2008.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions
+.-(1) In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Energy Conservation Act, 2001 ;
+(b)
+"Form" means the forms specified under rule 3;
+(c)
+"year" means the financial year beginning on the 1st day of April and ending on the 31st March following;
+(2)
+Words and expression used herein and not defined, but defined in the Act shall have the meanings assigned to them in
+the Act.
+3.
+Form and time limit for furnishing of information by the designated consumers with regard to energy consumed and
+action taken on the recommendations of the accredited energy auditor
+.-(1) Every designated consumer within three months of the submission of energy audit report by the accredited energy
+auditor shall, furnish in electronic form as well as in a hard copy, to the designated agency,-
+(a)
+details of information on energy consumed during the year preceding to the year for which energy audit was undertaken
+as verified by the accredited energy auditor, in Form 1;
+(b)
+details of specific energy consumption product-wise for the period referred to in clause (a), in Form 1;
+(c)
+details of the action taken on the recommendations made by the accredited energy auditor in the energy audit report
+submitted under the Act, in Form 2;
+(2)
+Every designated consumer shall furnish to the designated agency every year, the details of progress made in
+consequence of the action taken by it as per clause (c) of sub-rule (1) of rule 3 together with the details of energy
+efficiency improvement measures implemented and consequent savings achieved in Form 3, within three months of the
+close of that year.
+4.
+Manner of furnishing information
+.-(1) Every designated consumer shall furnish the information under rule 3 after getting the same authenticated by its
+energy manager appointed or designated in terms of notification number S.O. 318(E), dated the 2nd March, 2007.
+(2)
+The information under sub-rule (1) shall be strictly in accordance with the energy audit report of the accredited energy
+auditor.
+Page 2/10
+----- PAGE 3 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+FORM 1
+Details Of Energy Consumed And Specific Energy Consumption, Product-Wise, Based On Verified Data
+[See rule 3 (1) (a) and (b)]
+1. Name of the Unit
+2. The sector in which unit falls
+(Refer Annexure 1)
+3 (a) Complete address of Unit's location (including Chief Executive's name and designation) with mobile, telephone, fax
+nos. and e-mail.
+(b) Year of establishment
+4. Registered office address with telephone, fax numbers and e-mail
+5. Name, designation, address, mobile, telephone, fax numbers and e-mail of energy manager
+6. Production and capacity utilization details
+Year
+Main products
+Units (Please specify)
+Installed capacity (a)
+Actual production (b)
+% Capacity utilisation
+(b/a) x 100
+Specific energy consumption
+200-200
+Product 1
+Product 2
+Other products
+Year 200-200
+7.0 Energy consumption and cost
+7.1 Electricity consumption and cost
+(A) Purchased electricity
+(i) Units
+(millions kWh/year)
+(ii) Total cost (Rs.
+millions/year)
+(iii) Plant connected load (kW)
+(iv) Contract demand (kVA) with utility
+(v) Connected load (kW)
+(B) Own Generation
+(a) Through Diesel Generating sets
+(i) Annual generation
+(millions kWh/year)
+(ii) Total cost (Rs.
+million/year)
+(iii) Fueal used (HSD/LDO/LSHS/LSFO-(Refer Annexure 2)
+(vi) Total annual fuel cost (Rs. million)
+(b) Through steam turbine/generator
+(i) Annual generation (millions kWh/year)
+(ii) Fuel used state which type of fuel was used (C=coal, B=biomas, E=electrifity). If coal was used, state which grade,
+i.e., C/I=Imported or, C/F=Coal of grade F
+(c) Through gas turbind
+(i) Annual generation (millions kWh/year)
+(ii) Fuel used (state which type of fuel was used Natural Gas (NG), Piped Natural Gas (PNG), Compressed Natural Gas
+(CNG), Naphtha)
+Page 3/10
+----- PAGE 4 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+(iii) Gross calorific value (kCal/SCM)
+(iv) Annual fuel consumption (SCM)
+(v) Total annual fuel cost (Rs. million)
+(C) Total generation of electricity (millions kWh/year) 7.1 (B) [a(i)+b(i)+c(i)]
+(D) Electricity supplied to the grid/others (specify million kWh/year)
+(E) Total Electricity consumed (millions kWh/year) 7.1 [A(i)+C-D]
+7.2 Fuel consumption and % cost for process heating
+(A) Coal
+(i) Gross calorific value (kCal/kg)
+(ii) Quantity purchased (tonne/year)
+(iii) Quantity used for power generation (tonne/year)
+(iv) Quantity used as raw material, if any (tonne/year)
+(v) Quantity used for process heating
+(tonne/year)
+(vi) Total coal cost for process (Rs. million/year)
+(B) Lignite
+(i) Gross calorific value (kCal/kg)
+(ii) Quantity purchased (tonne/year)
+(iii) Quantity used for power generation (tonnes/year)
+(iv) Quantity used as raw material, if any (tonne/year)
+(v) Quantity used for process heating
+(tonne/year)
+(vi) Total used for process heating (tonne/year)
+(C) Biomass other purchase solid fuels (please specify) bagasse, rice husk, etc.
+(i) Average moisture content as fired (%)
+(ii) Average gross calorific value as fired (kCal/kg)
+(iii) Quantity purchased (tonne/year)
+(iv) Quantity used as raw material, if any (tonne/year)
+(v) Quantity used for process heating
+(tonne/year)
+(vi) Total baggase cost for process (Rs. million/year)
+7.3 Liquid
+(A) Furnace Oil (F.O.)
+(i) Gross calorific value (kCal/kg)
+(ii) Quantity purchased (kL/year)
+(iii) Quantity used for power generation (kL/year)
+(iv) Quantity used as raw material, if any (kL/year)
+(v) Quantity used for process heating
+(kL/year)
+(vi) Total F.O. cost for process heating (Rs. million/year)
+(B) LowSulphurHeavy Stock (LSHS)
+(i) Gross calorific value (kCal/kg)
+(ii) Quantity purchased (tonne/year)
+(iii) Quantity used for power generation (tonne/year)
+(iv) Quantity used as raw material, if any (tonne/year)
+(v) Quantity used for process heating
+(tonne/year)
+(vi) Total LSHS Cost for process heating
+(Rs. million/year)
+(C) HighSulphurHeavy Stock (HSHS)
+(i) Gross calorific value (kCal/kg)
+Page 4/10
+----- PAGE 5 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+(ii) Quantity purchased (tonne/year)
+(iii) Quantity used for power generation (tonne/year)
+(iv) Quantity used as raw material, if any (tonne/year)
+(v) Quantity used for process heating
+(tonne/year)
+(vi) Total HSHS cost for process heating (Rs. million/year)
+(D) Diesel Oil
+(a) High Speed Diesel (HSD)
+(i) Gross calorific value (kCal/kg)
+(ii) Quantity purchased (kL/year)
+(iii) Quantity used for power generation (tonne/year)
+(iv) Quantity used as raw material, if any (kL/year)
+(v) Quantity used for process heating
+(kL/year)
+(vi) Total HSD cost for process heating (Rs. million/year)
+(b) Light Diesel Oil (LDO)
+(i) Gross calorific value (KCal/kg)
+(ii) Quantity purchased (kL/year)
+(iii) Quantity used for power generation (kL/year)
+(iv) Quantity used as raw material, if any (kL/year)
+(v) Quantity used for process heating
+(kL/year)
+(vi) Total LDO cost for process heating (Rs. million/year)
+7.4 Gas
+(A) Compressed Natural Gas (CNG)
+(i) Gross calorific value (kCal/SCM)
+(ii) Quantity purchased (million SCM/year)
+(iii) Quantity used for power generation (million SCM/year)
+(iv) Quantity used as raw material, if any (million SCM/year)
+(v) Quantity used for process heating
+(million SCM/year)
+(vi) Total cost of natural gas for process heating (Rs. Million/year)
+(B) Liquefied Petroleum Gas (LPG)
+(i) Gross calorific value (kCal/SCM)
+(ii) Quantity purchased (million SCM/year)
+(iii) Quantity used for power generation (million SCM/year)
+(iv) Quantity used as raw material, if any (million SCM/year)
+(v) Quantity used for process heating
+(million SCM/year)
+(vi) Total cost of LPG for process heating (Rs. million/year)
+(C) Gas generated as by product/waste in the plant and used as fuel
+(i) Name
+(ii) Gross calorific value (kCal/SCM)
+(iii) Quantity used for process heating (million SCM/year)
+(iv) Total cost of by product gas for process heating (Rs. Million/year)
+7.5 Solid waste
+Solid waste generated in the plant and used as fuel
+(i) Name
+(ii) Gross calorific value (kCal/kg)
+(iii) Quantity used for process heating (tonne/year)
+(iv) Total cost of solid waste for process heating (Rs. Million/year)
+Page 5/10
+----- PAGE 6 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+7.6 Liquid waste
+(A) Liquid effluent/waste generated in the plant and used as fuel
+(i) Name
+(ii) Gross calorific value (kCal/kg)
+(iii) Quantity used for process heating
+(tonne/year)
+(iv) Total cost of liquid effluent for process heating (Rs. million/year)
+7.7 Others
+(i) Name
+(ii) Average gross calorific value (kCal/kg)
+(iii) Quantity used for power generation
+(tonnes/year)
+(iv) Quantity used for process heat (tonnes/year)
+(v) Annual cost of the other source
+...............................................
+...............................................
+Signature
+Signature
+Name of the energy manager,
+Name of the accredited energy auditor
+Name of the company
+Accreditation details
+Full address
+Seal
+Seal
+ANNEXURE I - Name Of Sectors
+Aluminum, cement, chemicals, chlor-alkali, fertilisers, gas crackers, iron and steel, naphtha crackers, pulp and paper,
+petrochemicals, petroleum refineries, sugar, textile.
+ANNEXURE 2
+HSD
+High Speed Diesel
+LDO
+Light Diesel Oil
+LSHS
+LowSulphurHeavy Stock
+LSFO
+LowSulphurFurnace Oil
+C
+Coal
+B
+Biomass
+E
+Electricity
+C/I
+Coal Imported
+C/F
+Indian Coal grade F
+NG
+Natural Gas
+PNG
+Piped Natural Gas
+Page 6/10
+----- PAGE 7 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+CNG
+Compressed Natural Gas
+FO
+Furnace Oil
+LPG
+Liquefied Petroleum Gas
+SCM
+Standard Cubic Metre
+(15°C and 1.01325 bar)
+KL
+Kilo Litre
+Million
+Ten (10) lakh
+FORM 2
+Details Action Taken On Recommendations Of Accredited Energty Auditor For Improving Energy Efficiency
+[See rule 3(1) (c)]
+Sl. No.
+Energy efficiency improvement measures - (Suggested categories of areas of energy efficiency improvement for
+obtaining details of energy savings - See Annexure 3)
+Investment Millions Rupees
+Reasons for not implementing the measure
+Date of completion of measure/likely completion
+Life cycle years
+Annual energy savings
+Oil
+Gas
+Coal
+Electricity
+Other
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+.............................
+.............................
+Signature
+Signature
+Name of the energy manager
+Name of the accredited energy auditor
+Name of the company
+Accreditation details
+Full address
+Seal
+Contact person
+E-mail address
+Page 7/10
+----- PAGE 8 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+Telephone/Fax numbers
+Plant address
+1. Estimate the predicted life of the measure, meaning the number of year the level of first year energy savings or even
+larger amounts will materialise.
+2. Life commercial units of litre, kg, tonnes, normal cubic meter, kWh or MWh and Indicate the unit. Indicate the
+anticipated potential in energy savings.
+ANNEXURE 3
+Suggested Categories Of Areas Of Energy Efficiency Improvement For Obtaining Details Of Energy Savings
+1. Better house keeping measures
+2. Installation of improved process monitoring and control instrumentation, or software
+3. Fuel Handling System
+4. Steam Generation System
+5.
+Steam Distribution System
+6.
+Electricity Generation System
+7.
+Hot Water System
+8.
+Compressed Air System
+9.
+Raw/Process Water System
+10. Cooling Water System
+11.
+Process Cooling/Refrigeration System
+12.
+Heating, Ventilation and Air Conditioning System
+13.
+Electrical System
+14.
+Lighting System
+15.
+Melting/Heating/Drying Equipment (e.g.) Furnaces, Heaters, Klins, Ovens, Dryers, Evaporators, etc.
+16.
+Heat Exchangers
+17.
+Pumps, Compressors, Fans, Blowers, Piping, Ducting
+18.
+Process Equipment (e.g.) Reactors, Separation Equipment, Material, Handling Equipment, etc.
+19.
+Transformers
+20.
+Electric Motors and Drives
+21.
+Process Technology
+22.
+Process Integration
+23.
+Process Control and Automation
+24.
+Other Non-equipment Measures (e.g.) Plant Operation/Scheduling, Tariff Schedule, etc.
+Page 8/10
+----- PAGE 9 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+25.
+Recovery of waste hear for process heat or power generation
+26.
+Retrofitting, modification or sizing of fans, blowers, pumps, including duct systems
+27.
+Other
+FORM 3
+[See rule 3(2)]
+Details Of Energy Efficiency Improvement Measures Implemented, Investment Made And Savings In Energy Achieved
+And Progress Made In The Implementation Of Other Recommendations
+A. Implemented:
+Sl. No.
+Description of energy efficiency improvement measure
+Category
+Investment (Rupees)
+Verified savings (Rupees)
+Verified energy savings
+Units
+Fuel
+Remarks
+1
+2
+3
+B. Under implementation:
+Sl. No.
+Description of energy efficiency improvement measure
+Category
+Investment (Rupees) estimated
+Verified savings (Rupees) estimated
+Verified energy savings estimated
+Units
+Fuel
+Status of implementation
+1
+2
+3
+.............................
+.............................
+Signature
+Signature
+Name of the energy manager
+Name of the accredited energy auditor
+Name of the company
+Accreditation details
+Full address
+Seal
+Contact person
+E-mail address
+Telephone/Fax numbers
+Plant address
+1. Use "C.No" column of Form 2 as reference - See Annexure "3" for adoption
+Page 9/10
+----- PAGE 10 -----
+The Energy Conservation (Form And Manner And Time For Furnishing Information With Regard T...
+2. First year
+3. Use conventional energy, volume or mass units with proper prefix k=103,M=106, G=109
+Related AI tags, queries and research notes
+Translation
+Page 10/10

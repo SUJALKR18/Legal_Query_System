@@ -1,0 +1,226 @@
+
+----- PAGE 1 -----
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection...
+The Life Insurance Corporation of India Information Technology
+Specialist Group (Selection, terms and conditions of service and
+payment of Allowance) Rules, 2007
+Source: https://indiankanoon.org/doc/167361984/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection, terms and conditions of
+service and payment of Allowance) Rules, 2007
+UNION OF INDIA
+India
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection, terms and conditions of
+service and payment of Allowance) Rules, 2007
+Rule
+THE-LIFE-INSURANCE-CORPORATION-OF-INDIA-INFORMATION-TECHNOLOGY-SPECIALIST-GROUP-SELECTIO
+N-TERMS-AND-CONDITIONS-OF-SERVICE-AND-PAYMENT-OF-ALLOWANCE-RULES-2007 of 2007
+Published on 25 April 2007
+Commenced on 25 April 2007
+[This is the version of this document from 25 April 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection, terms and conditions of
+service and payment of Allowance) Rules, 2007
+Published vide Notification No. G.S.R. 304(E), dated 25th April, 2007
+Page 1/5
+----- PAGE 2 -----
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection...
+Ministry of Finance
+(Department of Economic Affairs)
+(Insurance Division)
+G.S.R. 304(E). - In exercise of the powers conferred by Section 48 of the Life Insurance Corporation Act, 1956 (
+31 of 1956
+), the Central Government hereby makes the following rules regulating method of selection, terms and conditions of
+service and Payment of Allowance of Information Technology Specialist Group of the Insurance Corporation of India,
+namely:-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Life Insurance Corporation of India Information Technology Specialist Group (Selection,
+terms and conditions of service and payment of Allowance) Rules, 2007.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Application.
+- These rules shall apply to the whole-time salaried employees of the Corporation in India only.
+3.
+Definitions.
+- In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Life Insurance Corporation Act, 1956 (
+31 of 1956
+);
+(b)
+"Competent authority" means the Chairman of the Corporation;
+(c)
+"Committee" means the committee formed by the Chairman.
+(d)
+"Employee" means an employee of the Life Insurance Corporation of India and includes any person who became an
+employee of the Corporation on the appointed day under the Act;
+(e)
+"Staff Rules" means the Life Insurance Corporation of India (Staff) Regulation, 1960;
+(f)
+"The Corporation" means the Life Insurance Corporation of India.
+All words and expressions used herein and not defined but defined in the Life Insurance Corporation of India (Staff)
+Regulations, 1960, Life Insurance Corporation of India, Class I Officers (Revision of Terms and Conditions of Service)
+Rules, 1985, Life Insurance Corporation of India, Class III and Class IV Employees (Revision of Terms and Conditions
+of Service) Rules, 1985, Life Insurance Corporation Act, 1956 or the Insurance Act, 1938 or the Insurance Rules, 1939
+or the Life Insurance Corporation Regulations, 1959 shall have respectively the meanings assigned to them in those
+Acts or Rules or Regulations, as the case may be.
+4.
+Structure of the Information Technology Specialist Group.
+- The Group, in ascending order of hierarchy, shall consist of Developers, Business System Analysis and Project
+Leaders. The employees shall be posted at Software Development Center at Central Office, Centralized Projects at
+Central Office and at other designated centers where Software Development Project teams are located now or in future.
+5.
+Eligibility.
+- Confirmed employees in the cadre of Higher Grade Assistant and above will be eligible for the following posts:
+Employees in the Cadre of
+Page 2/5
+----- PAGE 3 -----
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection...
+Eligible for the post of
+(i) Higher Grade Assistant (HGA),Assistant Administrative
+Officer (AAO),Administrative Officer (AO)
+Developer
+(ii) Administrative Officer* andAssistant Divisional Manager
+(ADM)
+Business System Analyst
+*Only those Administrative Officers are eligible who have
+completed three years as Developer.
+(iii) Assistant Divisional Manager** and above
+Project Leader
+**Only those Assistant Divisional Managers are eligible who
+have completed three years as Business System Analyst.
+6.
+Selection Procedure.
+(1)
+The selection for the officials who are working as Developer, Business system Analyst and Project leader in Central
+office software Development center, centralized information Technology projects shall be made based on their work
+record and interview.
+(2)
+The selection for the other officials shall be made based on their work record, written test and interview to ascertain the
+aptitude and domain of technical knowledge.
+7.
+Conditions of Selection.
+(1)
+An official selected under these rules shall be required to execute an agreement with the Corporation, undertaking to
+serve the Corporation for a minimum period of five years. If he/she leaves the services of the Corporation before the
+expiry of the bond period, he/she shall be liable to pay an amount of liquidated damages of Rupees five lakhs. The
+amount of liquidated damages will not be reduced proportionately, even if the official have served the Corporation for a
+part of the bond period.
+(2)
+In addition to recovery of liquidated damages, the Corporation will also recover from those leaving its service before
+completion of the bond period, the entire amount of expenses on training given to them, if any.
+(3)
+After the amount of recovery has been determined and advised, the Corporation may charge interest at the ruling bank
+rate, in case the payment is not made within a maximum period of two months. The Corporation will have the right to
+adjust the recovery against the amount of superannuation dues payable to the officer leaving its service before the
+expiry of the bond period.
+8.
+Designation of Information Technologist Specialists.
+(1)
+In respect of rule 6 above, the selection to the post of Developer, Business System Analyst, Project Leader shall be
+based on the performance in the Test/Interview and recommendations of the Committee consisting of Executive Director
+(Personnel), Executive Director (Information Technology/Business Process Re-engineering) and any other person(s)
+nominated by the chairman.
+(2)
+In respect of those Administrative Officers and Assistant Divisional Managers who are already members of information
+technology specialist Group and eligible for the selection to the post of Business System Analyst and Project Leader,
+respectively, as per rule 5 above, shall be so selected by the Competent Authority or any authority delegated by him on
+the basis of Interview and recommendation of the above Committee.
+(3)
+Page 3/5
+----- PAGE 4 -----
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection...
+The cases of employees not selected as above for the elevated post will be reconsidered for selection through the same
+mechanism on half-yearly basis.
+9.
+Payment of allowance.
+(1)
+In addition to the salary and other benefits applicable to the cadre, the selected personnel on joining the Information
+Technology Specialist Group and till the period he remains there, shall be paid a fixed allowance as under, which shall
+not count as basic pay for any purpose:
+(i) Developer
+- Rs.10,000/- per month
+(ii) Business System Analysts
+(BSAs)
+- Rs. 15,000/- per month
+(iii) Project Leader
+- Rs. 20,000/- per month
+(2)
+Payment of allowance as specified above will be applicable from the date the employee takes over charge in the
+concerned post. However, newly selected personnel in the above Group shall not be paid the allowance for the first six
+months. His/her performance will be reviewed at the end of six months and if found satisfactory, allowance shall be
+sanctioned from the date of joining the Group.
+(3)
+The functional allowance of Rs. 400/- p.m. or Rs.500/- p.m., as the case may be, drawn by Higher Grade Assistant
+(Programmer)/Programmers or System Analysts or Programmers-cum-System Analysts in the scale of pay of Higher
+Grade Assistant, Assistant Administrative Officer, Administrative Officer or Assistant Divisional Manager shall not be
+payable on their joining the Information Technology Specialists Group.
+(4)
+Those employees who are posted out of Information Technology Specialist Group at some stage, if entitled for
+Functional Allowance applicable to the posts of Higher Grade Assistant (Programmer)/ Programmers or System
+Analysts or Programmers-cum-System Analysts in the scale of pay of Assistant Administrative Officer Administrative
+Officer or Assistant Divisional Manager shall start drawing the same from the date of their joining the department to
+which he/she is transferred.
+(5)
+The allowance shall cease to be payable to an employee /officer who has given a notice of resignation or voluntary
+retirement under the Life Insurance Corporation of India (Staff) Regulations, 1960 or the Life Insurance Corporation of
+India (Employees) Pension Rules, 1995, from the date of such notice. However, subject to the rules in this regard if such
+an employee/officer is allowed to withdraw the notice of resignation or voluntary retirement, the allowance may be paid,
+if otherwise payable, to such an employee as if the notice was not given at all.
+10.
+Review Mechanism.
+(1)
+The continuation of the allowance in the post will be based on the half-yearly review of the performance and the
+recommendation of the Committee. In case of employees not found eligible for continuing in the Information Technology
+Specialist Group on such review, the payment of allowance shall cease from the date, the employee is posted out of
+Information Technology Specialist Group. Further, subject to the applicability, such employees shall be governed as per
+sub-rule (4) of rule 9.
+(2)
+The selected employee working in the Information Technology Specialist Group may be posted outside the said Group
+by the Chairman or any authority to whom such powers are delegated by the Chairman.
+11.
+Where the Chairman is of the opinion that it is necessary or expedient so to do, he may, with the approval of the Central
+Government, by order and for reasons to be recorded in writing, relax any of the provisions of these rules with respect to
+Page 4/5
+----- PAGE 5 -----
+The Life Insurance Corporation of India Information Technology Specialist Group (Selection...
+any class or categories of persons.
+12.
+Power to issue instructions.
+- The Chairman with the approval of the Central Government may, from time to time issue such instructions as may be
+necessary to give effect to and carry out the provisions of these rules.
+13.
+Interpretation.
+- Where any doubt or difficulty arises as to the interpretation of these instructions, it shall be referred to the Central
+Government for its decision.
+Related AI tags, queries and research notes
+Translation
+Page 5/5

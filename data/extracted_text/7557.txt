@@ -1,0 +1,3074 @@
+
+----- PAGE 1 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+The U.P. Electricity Regulatory Commission (Captive and
+Non-Conventional Energy Generating Plants) Regulations, 2009
+Source: https://indiankanoon.org/doc/45531771/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Uttar Pradesh - Act
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating Plants) Regulations,
+2009
+UTTAR PRADESH
+India
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating Plants) Regulations,
+2009
+Rule
+THE-U-P-ELECTRICITY-REGULATORY-COMMISSION-CAPTIVE-AND-NON-CONVENTIONAL-ENERGY-GENERATI
+NG-PLANTS-REGULATIONS-2009 of 2009
+Published on 22 March 2010
+Commenced on 22 March 2010
+[This is the version of this document from 22 March 2010.]
+[Note: The original publication document is not available and this content could not be verified.]
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating Plants) Regulations,
+2009
+Published vide notification No. UPERC/Secy/CNCE Regulation, 2009/696 dated 22.03.2010.
+In exercise of powers conferred under section 181 read with Sections 9, 61, 86(1)(a), 86(1)(b) and 86(1)(e) of the
+Electricity Act, 2003, and all other powers enabling in this behalf, the Uttar Pradesh Electricity Regulatory Commission
+Page 1/57
+----- PAGE 2 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+hereby makes the following Regulations, namely:
+Chapter 1
+Preliminary
+1.
+Short title and commencement.
+(1)
+These Regulations shall be called the UPERC (Captive and Non-Conventional Energy Generating Plants) Regulations,
+2009 (hereinafter referred to as CNCE Regulations, 2009).
+(2)
+These Regulations shall be reckoned to have come into force from 1st October, 2009 and shall remain in force up to
+31.3.2014, unless reviewed earlier or extended by the Commission.
+(3)
+Words and expressions used in these Regulations and not defined herein but defined in the Electricity Act, 2003
+(hereinafter referred to as 'the Act'), as amended from time to time, shall have the meaning as assigned to them under
+the Act.
+2.
+Scope and extent of application.
+(1)
+These Regulations shall apply to Captive and Non-Conventional Energy Generating Plants setup in the State of Uttar
+Pradesh.
+(2)
+The provisions of Availability Based Tariff (hereinafter referred to as 'ABT') in respect to functions, duties and
+obligations, as provided, for Generating Plants under ABT shall apply to these Generating Plants also, unless provided
+otherwise.
+(3)
+For Generating Plants commissioned on or after 1.4.09, where the Generating Plant/Company has adopted Clean
+Development Mechanism (CDM), the proceeds of carbon credit from approved CDM project shall be shared in the
+following manner, namely :-
+(a)
+100% of the gross proceeds on account of CDM shall be retained by the project developer during the first year of
+commercial operation of the Generating Plants;
+(b)
+During the second year of commercial operation, the share of the beneficiaries shall be 10% which shall progressively
+increase by 10% every year till it reaches 50%, whereafter the proceeds shall be shared in equal proportion, by the
+Generating Company and the beneficiaries.
+(c)
+Annual Energy Audit of each Generating Plant shall be compulsory under relevant provisions of Energy Conservation
+Act, 2001.
+(d)
+The Generating Plant/Company shall abide by obligations cast on it by orders of the Central/State Commission issued
+from time to time in respect to promotion of Non-Conventional Energy Sources.
+(e)
+The Generating Plant/Company shall abide by the provisions of the Act, Rules, Codes, Regulations, Orders and
+Directions of the appropriate Authority/Commission issued from time to time regarding generation and evacuation of
+electricity.
+(f)
+If any difficulty arises in giving effect to these Regulations, the Commission may, on its own motion or otherwise, by an
+order and after giving a reasonable opportunity to those likely to be affected by such order, make such provisions, as
+may appear to be necessary for removing the difficulty.
+3.
+Tariff determination.
+Page 2/57
+----- PAGE 3 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+- The tariff in respect of a Generating Plant under these Regulations shall be applicable to the capacities or the units in
+respect to which an agreement has been reached between the parties for supply of electricity:
+Provided also that any commercial arrangement, other than tariff, made or agreed between the parties in a Power
+Purchase Agreement for supply of electricity, prior to UPERC CNCE Regulations, 2005, may be continued with the
+approval of the Commission for such time as considered appropriate by the Commission. However the tariff under such
+agreement shall be determined as per provisions of these Regulations.
+4.
+Tariff for Non-Conventional Energy Generating Plants other than covered under these Regulations.
+- For Non-Conventional Energy Generating Plants, other than covered under these Regulations, the tariff shall be
+determined by the Commission on case to case basis on receipt of an application for this purpose.
+5.
+Approval of Power Purchase Agreement.
+- The Distribution Licensee shall make an application for approval of Power Purchase Agreement entered into with the
+Generating Plant in such form and such manner as prescribed in these Regulations and UPERC (Conduct of Business)
+Regulations notified by the Commission from time to time.
+6.
+Definitions.
+- (i) "Banking of power" is the process under which a Generating Plant supplies power to the grid not with the intention of
+selling it to either a third party or to a Licensee, but with the intention of exercising its eligibility to draw back this power
+from the grid;
+(ii)
+"CNCE Regulations, 09" means UPERC (Captive and Non-Conventional Energy Generating Plants) Regulations, 2009
+as amended from time to time;
+(iii)
+"Commission" means the Uttar Pradesh Electricity Regulatory Commission;
+(iv)
+"Contracted Capacity" means the capacity in MW as agreed to be supplied by the Generating company to a Distribution
+Licensee under the Power Purchase Agreement;
+(v)
+"Date of commercial operation or COD"- in relation to a unit means the date declared by the generator on achieving
+maximum continuous rating through a successful trial run and in relation to the Generating Plant, the date of commercial
+operation means the date of commercial operation of the last unit or block of Generating Plant and the expression
+'commissioning' shall be construed accordingly;
+(vi)
+"IEGC" means the Grid Code specified by the Central Regulatory Commission under clause (h) of sub-section (1) of
+Section 79 of the Act;
+(vii)
+"Ownership" in relation to a Generating Station or power plant set up by a company or any other body corporate shall
+mean the equity share capital with voting rights. In other cases ownership shall mean proprietary interest and control
+over the Generating Station or power plant;
+(viii)
+"Peak Hours/Off Peak Hours" means the hours declared as such by the State Load Despatch Centre from time to time
+unless specified otherwise in this Regulations or by order of the Commission;
+(ix)
+"Power Purchase Agreement" or 'PPA' means an agreement between a Generating Company and a Distribution
+Licensee for supply of power on the terms and conditions specified therein and with the provisions that the tariff for sale
+of power shall be as determined by the Commission from time to time;
+(x)
+"Reforms Act" means the Uttar Pradesh Electricity Reforms Act, 1999;
+(xi)
+"RLDC" means the Regional Load Despatch Centre established under subsection (1) of Section 27 of the Act;
+Page 3/57
+----- PAGE 4 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+(xii)
+"SLDC" means State Load Despatch Centre established in Uttar Pradesh under sub-section (1) of Section 31 of the Act;
+(xiii)
+"UPEGC" means the State Grid Code specified under clause (h) of subsection (1) of Section 86 of the Act by the
+Commission;
+(xiv)
+"UPERC Open Access Regulations" means the Uttar Pradesh Electricity Regulatory' Commission (Terms and
+Conditions for Open Access) Regulations, 2004 as amended from time to time;
+7.
+General Power to Amend.
+- The Commission may, at any time and on such terms as to costs or otherwise, as it may think fit, amend any defect or
+error in any proceeding before it, and all necessary amendments shall be made for the purpose of determining the real
+question or issue arising in the proceedings.
+8.
+Power to Relax.
+- The Commission, for reasons to be recorded in writing, may vary any of the provisions of these Regulations on its own
+motion or on an application made before it by any interested party.
+Chapter 2
+Captive Power Generation
+9.
+Object.
+- As per the provisions of the Act, supply of electricity from a Captive Generating Plant through the grid shall be
+regulated in the same manner as the Generating Station of a Generating Company. These Regulations seek to achieve
+efficient, safe, well-co-ordinated operation of the plant, connectivity with the grid and exchange of information among the
+various utilities in the State grid, Central Utilities and Northern Regional Grid, as the case may be. Non-compliance of
+these Regulations shall be liable for action under the appropriate provision of the Act.
+10.
+Generation from Captive Power Plants.
+(1)
+A power plant shall qualify as a 'Captive Generating Plant', under Section 9 read with Section 2(8) of the Act and Rule 3
+of The Electricity Rules, 2005.
+(2)
+It shall be the obligation of the Captive Users to ensure the captive consumption at the percentages mentioned in The
+Electricity Rules, 2005. In case the minimum percentage of captive use is not complied within any year, the entire
+electricity generated shall be treated as if it is a supply of electricity by a Generating Company.
+11.
+General conditions for Captive Generating Plants.
+(1)
+These Regulations shall apply to all existing Captive Generating Plants as well as proposed Captive Generating Plants
+having an installed capacity of 1 MW or above irrespective of their connectivity with the grid.
+(2)
+Any person intending to set-up a Captive Generating Plant shall submit the detailed project report, scheduled date of
+commercial operation and half yearly progress report of construction of the plant to the Commission for information and
+record. The necessary information to be accompanied with the detailed project report shall be as per Annexure-1 of
+these Regulations:
+Provided that all existing Captive Generating Plants (whether connected with the grid or not shall furnish the desired
+information in Annexure-1 and 3 of these Regulations within 90 days from the date of notification of these Regulations).
+Non-compliance shall be liable for action under the appropriate provisions of the Act.
+(3)
+The Captive Generating Plant shall abide by the grid discipline and shall not be entitled to any compensation in the
+event of grid failure or any interruptions or damage to the plant or its associated sub-stations or transmission line on
+Page 4/57
+----- PAGE 5 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+account of any happening in the grid.
+(4)
+All provisions of these Regulations except for those relating to supply in the grid and tariff shall also apply to the captive
+plants having no connectivity with the grid.
+(5)
+The Commission may in its discretion refer any technical matter relating to Generation and Transmission to Central
+Electricity Authority for examination.
+12.
+Obligations of the Captive Generating Plant.
+(1)
+The Captive Generating Plant shall establish, operate and maintain Generating Station, sub-station, tie lines and
+dedicated transmission lines connected thereto in accordance with:
+(a)
+The technical standards for construction of electrical plants, electric lines and connectivity with the grid as specified by
+the Authority;
+(b)
+Safety requirements for construction, operation and maintenance of electrical plants and electric lines as specified by
+the Authority;
+(c)
+UPEGC or Indian Electricity Grid Code (IEGC);
+(d)
+The conditions for installation of meters for supply of electricity as specified by the Authority and/or the State
+Transmission Utility (STU).
+(2)
+In extra-ordinary' circumstances, the Captive Generating Plants shall operate and maintain the plant in accordance with
+the directions issued by the State Government and the Commission may offset the consequential adverse financial
+impact of such direction, as it considers appropriate.
+13.
+Duties of the Captive Generating Plant.
+(1)
+The Captive Generating Plant shall generate electricity' primarily for its own use and shall:
+(a)
+submit the technical details regarding its Generating Stations to the Appropriate Commission and the Authority;
+(b)
+submit information to the Commission in respect to availability, generation achieved, demand met, plant load factor,
+auxiliary consumption, specific heat rate, specific oil consumption and other information as specified under Annexures 1
+& 3 of these Regulations;
+(c)
+Co-ordinate with SLDC and/or STU for scheduling and dispatch of electricity.
+(2)
+The plant shall be under obligation to comply with the directions issued to it by SLDC and shall pay fee and charges
+payable to SLDC as specified by the Commission from time to time.
+(3)
+The Captive Generating Plant shall not be required to obtain licence under the Act for establishing, operating or
+maintaining a dedicated transmission line.
+(4)
+The Captive Generating Plant shall ensure compliance of all general or specific direction, Rules or Regulations made by
+the Commission for the generating companies.
+(5)
+The Captive Generating Plant shall ensure that the Distribution Licensee has submitted Power Purchase Agreement to
+the Commission as mentioned in Regulation 17(1) of these Regulations for approval.
+Page 5/57
+----- PAGE 6 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+14.
+Open Access.
+(1)
+A Captive Generating Plant shall have right to 'open access' for carrying electricity from its plant to the destination of its
+use by using transmission and/or distribution system or associated facilities with such lines or system and for that
+purpose, Rules, Regulations and Orders passed by the Appropriate Commission shall apply.
+(2)
+The plant seeking 'Open Access' within or outside the State through the grid shall be regulated under Regulations
+specified by the Appropriate Commissions.
+15.
+Transmission Charges and Wheeling Charges.
+- The Plant or the Consumer, seeking 'Open Access' to the State and/or Inter State Transmission Systems and/or
+distribution system for carrying the electricity to the destination of use, shall pay the transmission charges, wheeling
+charges and such other charges for use of such facilities as determined by the Appropriate Commission(s).
+16.
+Surcharge and Additional Surcharge.
+(1)
+A Captive Power plant shall not be liable to pay surcharge over and above transmission and/or wheeling charges for
+carrying the generated electricity from its plant to the destination of its own use or for the use of its members, as
+prescribed under the Act:
+Provided that in case of supply of power to a consumer or to a person other than its members, such consumer or person
+shall pay surcharge over and above transmission and w heeling charges as determined by the Commission.
+(2)
+Open Access Consumer receiving supply of electricity from a person other than the Distribution Licensee of his area of
+supply, shall pay an additional surcharge, over and above transmission and/or wheeling charges and surcharge, as
+determined by the Commission.
+17.
+Sale of Power.
+(1)
+A Captive Generating Plant may enter into an agreement with the Distribution Licensee for sale of its surplus capacity
+based on Model PPA available at Annexure - 4 to these Regulations. The parties to the agreement may make plant/site
+specific changes in the Model PPA not inconsistent with the Act and relevant Regulations Such changes shall however
+be subject to approval of the Commission:
+Provided that the plant may also supply electricity to a consumer who is permitted open access as per provisions of
+Open Access Regulations.
+(2)
+The Distribution Licensee shall pay the transmission charges and/or wheeling charges for such supply, as may be
+determined by the Commission:
+Provided further that Distribution Licensee may require emergency assistance following an extensive failure in the
+system. Subject to technical feasibility, the Captive Generating Plant may, if requested by the Licensee, extend power
+supply from its Generating Station to the Licensee's system. In such circumstances, the tariff for such supply shall be
+mutually agreed.
+18.
+Tariff.
+- The tariff for supply of electricity by a plant at pithead location to a Distribution Licensee shall be as per Schedule-1 of
+these Regulations:
+Provided that the Commission shall approve the transportation cost of fuel for non-pithead locations on case to case
+basis on a petition filed by the Generating Plant.
+Note. - (1) The tariff for supply of electricity from the plant, having more than one unit commissioned in different years,
+shall be based on weighted average of the contracted capacities of the units commissioned in different years.
+(2)
+Page 6/57
+----- PAGE 7 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+The tariff for supply of electricity during the period of synchronization and commissioning of the unit shall be equal to the
+variable cost.
+19.
+Purchase of Electricity.
+- Any person, who establishes, maintains and operates a Generating Plant, may purchase electricity from a Generating
+Company or Distribution Licensee in case his plant is not in a position to generate electricity to meet the requirement in
+the event of emergency or shut down or maintenance of the plant including supply to township housing the operating
+staff:
+Provided that such purchase of electricity, from a Distribution Licensee of the area in which the plant is located, shall be
+charged under appropriate category of the rate schedule of tariff. This shall apply only to those generators who have
+entered into PPA with the Distribution Licensee:
+Provided also that in case of purchase of power for purposes other than mentioned above, the generator may purchase
+electricity through a trader or a Generating Company or a Distribution Licensee other than Distribution Licensee of the
+area in which the plant is located at the rate as mutually agreed however, surcharge and additional surcharge besides
+other charges shall be payable as determined by the Commission:
+Provided further that the tariff payable by a captive plant to a Distribution Licensee, in case of banking of energy, shall
+be as per Regulation 39(B), if that plant has an arrangement of banking of energy with such Distribution Licensee.
+20.
+Capacity of the Plant and Location.
+(1)
+The capacity of the plant shall be based on the need of a person intending to establish a Captive Generating Plant. The
+location, fuel linkage and other required resources may be in conformity with the National Electricity Policy and National
+Electricity Plan.
+(2)
+Captive Generating Plant owner shall clearly mention the fuel linkages in the project report and ensure that Government
+of India/State Government guidelines regarding use of fuel arc complied with.
+21.
+Environmental Clearance.
+- The Captive Generating Plant owner shall abide by the emission standards set by the Union/State Government. The
+Captive Generating Plant shall obtain all the required environmental and pollution clearances from the Central/State
+pollution control authorities and submit copies of clearance certificates to the Commission.
+Chapter 3
+Non-Conventional Energy (Nce) Source Based Generation And Co-Generation
+22.
+Object.
+(1)
+These Regulations seek to achieve promotion of generation of electricity from NCE source based Generation and
+Co-generation, facilitate connectivity of Generating Plants with the grid, ensure sale of electricity to any person and
+specify a percentage of the total generated electricity from Non-conventional source: that shall be purchased by
+Distribution Licensee of the area in which the plant is located. These Regulations also seek to operate the plant in an
+efficient, safe and well-coordinated manner ensuring exchange of information among the various utilities in the State
+grid. Central Utilities and Northern Regional Grid, as the case may be. Non-compliance of these Regulations shall be
+liable for action under the appropriate provision of the Act.
+(2)
+The provisions of Availability Based Tariff shall be implemented and the Generating Plants shall be subject to day ahead
+scheduling with the exception that on operation, actual generation shall be deemed as the actual schedule.
+23.
+Generation from Non-Conventional Energy Sources.
+(1)
+A person may construct, maintain and operate a Generating Plant and a dedicated transmission line for generation and
+evacuation of electricity from NCE source based Generation and cogeneration.
+Page 7/57
+----- PAGE 8 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+(2)
+The plant shall deem to be a Generating Company within the meaning of Section 7 of the Act. However, for generation
+from small hydro, the provisions of Section 8 of the Act shall apply.
+(3)
+The Commission may direct tire Distribution Licensee to purchase power from these sources through competitive
+bidding when generation from non-conventional sources would compete with conventional sources in terms of cost of
+electricity.
+24.
+General conditions for NCE source based Generation.
+- These Regulations shall apply to:
+(a)
+All the existing Generating Stations generating electricity from NCE source based Generation and Co-generation in the
+State of Uttar Pradesh as on the dale of notification of these Regulations irrespective of their connectivity with the grid or
+distribution system.
+(b)
+All Generating Stations generating electricity from Non-Conventional Energy Sources commissioned after the
+notification of these Regulations irrespective of their connectivity with the grid or distribution system.
+(c)
+All provisions of these Regulations except for those relating to supply in the grid and tariff shall also apply to plants
+having no connectivity with the grid.
+25.
+Capacity of NCE Generating Plants.
+(1)
+The optimum capacity of Generating Plant shall be assessed by the Generating Company in the detailed project report
+in view of potential of electricity generation available with such source.
+(2)
+Any person intending to set-up a NCE source based Generating Plant shall submit the detailed project report, scheduled
+date of commercial operation and half yearly progress report of construction of the plant to the Commission for
+information and record. The necessary information to be accompanied with the detailed project report shall be as per
+Annexure - 2 of these Regulations.
+(3)
+The Commission may in its discretion refer any technical matter relating to Generation and Transmission to Central
+Electricity Authority for examination.
+(4)
+The Generating Plant shall abide by the grid discipline and shall not be entitled for any compensation in the event of grid
+failure or any interruptions or damage to the plant or its associated sub-stations or transmission line on account of any
+happening in the grid.
+26.
+Environmental and other Clearances.
+(1)
+The Generating Plant shall abide by the emission standards, as the case may be, set by the Union/State Government
+and for that purpose it shall obtain all the required environmental and pollution clearances from the Central/State
+Pollution Control Authorities and submit copies of Clearance Certificates to the Commission.
+(2)
+The Generating Plant shall obtain necessary clearances from non-Conventional Energy Development Agency, U.P.
+27.
+Obligations of NCE Generating Plants.
+(1)
+The Generating Plant shall establish, operate and maintain Generating Station, sub-station and dedicated transmission
+lines connected therewith in accordance with:
+(a)
+Page 8/57
+----- PAGE 9 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+The technical standards for construction of electrical plants, electric lines and connectivity with the grid as specified by
+the Authority.
+(b)
+Safety requirements for construction, operation and maintenance of electrical plants and electric lines as specified by
+the Authority.
+(c)
+UPEGC or Indian Electricity Grid Code (IEGC).
+(d)
+The conditions for installation of meters for supply of electricity as specified by the Authority or the State Transmission
+Utility.
+(2)
+The Generating Plant shall enter into a Power Purchase Agreement with the Distribution Licensee of the area in which
+the plant is located for a period of 20 years from the date of its commissioning, in line with the Model Power Purchase
+Agreement (hereinafter called Model PPA) available at Annexure-4 to these Regulations. The parties to the agreement
+may make plant/site specific changes in the Model PPA not inconsistent with the Act, these Regulations and other
+relevant Regulations. Such changes shall however be subject to approval of the Commission:
+Provided that all Power Purchase Agreements signed by the plants existing on the date of notification of these
+Regulations shall be modified by means of a supplementary agreement to remove any inconsistencies with these
+Regulations, if any.
+(3)
+In extraordinary circumstances, the Generating Company shall operate and maintain the Generating Plant in
+accordance with the directions issued by the State Government and the Commission may offset the consequential
+adverse financial impact of such direction on the Generating Company, as it considers appropriate.
+28.
+Duties of NCE source based Generating Plants.
+(1)
+The Generating Plant shall:
+(a)
+Submit the technical details regarding its Generating Stations to the Appropriate Commission and the Authority;
+(b)
+Submit the information to the Commission in respect to generation, demand met, capacity availability, plant load factor,
+auxiliary consumption, specific heat rate and specific oil consumption and other information as specified under
+Annexure-2 and 3 of these Regulations;
+(c)
+Co-ordinate with SLDC and/or State Transmission Utility for scheduling and despatch of electricity.
+(2)
+The Plant shall be under obligation to comply with the directions issued to it by SLDC and shall pay fee and charges
+payable to SLDC as specified by the Commission from time to time by order.
+(3)
+The Generating Plant shall not be required to obtain licence under the Act for establishing, operating or maintaining a
+dedicated transmission line.
+(4)
+The Generating Plant shall ensure compliance of all general or specific direction, Rules or Regulations made by the
+Commission for the Generating Companies.
+(5)
+The Generating Plant shall ensure that the Distribution Licensee has submitted Power Purchase Agreement to the
+Commission as mentioned in Regulation 27(2) of these Regulations for approval.
+29.
+Sale of Power.
+(1)
+All NCE source based Generation and Co-generation plants shall be allowed to sell power, over and above the capacity
+Page 9/57
+----- PAGE 10 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+required for their own use, to the Distribution Licensee in whose area the plant is located at the rate specified in
+Schedule II:
+Provided that purchases under these Regulations, may be referred to as Renewable Purchase Obligation 'RPO', shall
+be restricted to 8.0% of total power in MUs purchased by concerned Distribution Licensee. The Solar and Wind power (if
+found in the State) shall be purchased by the Distribution Licensee over and above 8%.
+The Distribution Licensee on an offer made by the said plants for entering into a PPA, the same shall be signed by such
+Licensee within two months failing which the Generating Company may approach the Commission for suitable remedy.
+The Distribution Licensee shall purchase such capacity through competitive bidding process as and when notified by the
+Commission:
+Provided further that the plant shall be allowed to sell the power available after sale to the concerned Distribution
+Licensee to any other Licensee or a consumer at mutually agreed rate:
+Provided further that supply to any Distribution Licensee other than the Distribution Licensee of the area in which the
+plant is located or to any consumer shall be subject to provisions of Open Access Regulations.
+(2)
+Notwithstanding any other provisions of these Regulations, a Distribution Licensee may require emergency assistance
+following an extensive failure in the system. Subject to technical feasibility, the Generating Plant may, on a request from
+the Licensee, extend power supply from its Generating Station to the Licensee's system. Under such circumstances, the
+tariff for supply shall be mutually agreed.
+30.
+Tariff.
+- The tariff for supply of electricity by the plant to a Distribution Licensee shall be as per Schedule-II of these
+Regulations.
+Note. - (1) The tariff for supply of electricity from the plant, having more than one unit commissioned in different years,
+shall be based on weighted average of the contracted capacities of the units commissioned in different years.
+(2)
+The tariff for supply of electricity during the period of synchronization and the commissioning of the unit shall be equal to
+the variable cost.
+However, in case of small hydro plants and other non-conventional and renewable sources of energy based plants, the
+tariff for supply of electricity during the period of synchronization and the commissioning of unit shall be equal to the 50
+percent of the tariff.
+(3)
+"Plant Load Factor" shall mean the total sent out energy corresponding to generation during the period expressed as a
+percentage of sent out energy corresponding to contracted capacity in that period.
+PLF =| ES X 10000000CC X (100 - AUX) X 8760| %
+Where,
+ES - Energy sold in MU during the year,
+CC - Contracted capacity in MW,
+AUX - Normative Auxiliary Consumption (i.e.8.5% for Co-generation).
+31.
+Open Access.
+(1)
+A Generating Plant shall have right to 'open access' for carrying electricity from its plant to the destination of its use by
+using transmission and/or distribution system or associated facilities with such lines or system and for that purpose,
+Rules, Regulations and Orders passed by the Appropriate Commission shall apply.
+(2)
+The plant seeking 'Open Access' within or outside the State through the grid shall be regulated under Regulations
+specified by the Appropriate Commissions.
+32.
+Transmission Charges and Wheeling Charges.
+- The plant or the consumer, seeking 'open access' to the State and/or Inter State Transmission Systems and/or
+distribution system for carrying the electricity generated by it to the destination of use, shall pay the transmission
+Page 10/57
+----- PAGE 11 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+charges, wheeling charges and such other charges for use of such facilities as determined by the Appropriate
+Commission(s).
+33.
+Surcharge and Additional Surcharge.
+- A person, having established a Generating Plant shall be liable to pay surcharge and additional surcharge if it seeks
+open access for the transmission/wheeling of electricity' from his plant to a destination for consumption of power for his
+own use. In case, the power is supplied to a consumer then such consumer shall pay surcharge and the additional
+surcharge determined by the Commission. Surcharge and Additional Surcharge shall be over and above transmission
+and/or wheeling charges.
+34.
+Purchase of Electricity by the Plant.
+- Any person, who establishes, maintains and operates a Generating Plant, may purchase electricity from a Generating
+Company or Distribution Licensee in case his plant is not in a position to generate electricity to meet the requirement in
+the event of emergency or shut down or maintenance of the plant including supply to township housing the operating
+staff:
+Provided that such purchase of electricity, from a Distribution Licensee of the area in which the plant is located, shall be
+charged under appropriate category of the rate schedule of tariff. No minimum consumption guarantee or other charges
+shall be levied on such declared load. Excess load over and above the declared load shall be billed according to the
+provision of the relevant Schedule of Tariff specified by the Commission. This shall apply only to those generators who
+have entered into PPA with the Distribution Licensee:
+Provided also that in case of purchase of power for purposes other than mentioned above, the generator may purchase
+electricity through a trader or a Generating Company or a Distribution Licensee other than Distribution Licensee of the
+area in which the plant is located at the rate as mutually agreed however, surcharge and additional surcharge besides
+other charges shall be payable as determined by the Commission.
+Chapter 4
+Common Terms And Conditions
+35.
+Evacuation of Power.
+(1)
+The Generating Plant shall supply power to the Distribution Licensee of its area through a 33 KV or higher voltage line
+terminating at the nearest 132 KV Sub-station as per the voltage and capacity as given below:
+(i)
+installed capacity upto 10 MW on 33 KV;
+(ii)
+installed capacity above 10 MW on 132 KV;
+The Distribution Licensee or State Transmission Utility shall ensure that the plant is allowed to be connected to the
+nearest sub-station in order to control length of line subject to technical feasibility:
+Provided that in ease of existing plants, the connectivity shall be the same as existing on the date of these Regulations
+coming into effect:
+Provided also that in ease of plants where the scheme for connectivity has already been approved by the Commission in
+PPA and the same are commissioned after the date of these Regulations coming into effect, the connectivity as per that
+approved scheme shall be allowed:
+Provided further that in ease of generation from Non-Conventional sources other than bagasse/biomass based
+generation, like wind, solar, hydro, municipal waste, industrial wastes (including solid,semi-solid, liquid and gaseous
+wastes) and biogas, the Commission may allow evacuation of power at 11KV.
+(2)
+The plant shall be responsible for construction of the evacuation system for connecting its plant with the sub-station of
+the Distribution Licensee or STU/any Transmission Licensee, as per the scheme approved by the Commission in PPA,
+of its own or through any other agency engaged for that purpose. The cost of laying the dedicated transmission line to
+the sub-station, the required bays, associated terminal equipments and synchronization equipments shall be borne by
+the Generating Plant and such works shall be undertaken under approval and supervision of the Licensee/STU or any
+Page 11/57
+----- PAGE 12 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Transmission Licensee of the area in which the plant is located:
+Provided that above construction of evacuation system at 132 KV or higher voltage shall be carried out under the
+approval and supervision of the STU or any Transmission Licensee:
+Provided further that the land for extending the bay(s) shall be provided by the owner (the Distribution Licensee or
+STU/any Transmission Licensee) of the substation free of cost:
+Provided further that in ease of evacuation through temporary arrangements, approved by the Commission on a petition
+filed by the Generating Company, the applicable fixed cost in the tariff shall be reduced by the proportion of the
+approved normative capital cost of transmission system. For this purpose normative capital cost of transmission system
+shall be considered Rs. 0.25 Cr./MW. The applicable tariff in such cases shall be decided on case to case basis by the
+Commission.
+(3)
+In ease the Generating Company elects to get the dedicated transmission line constructed by other than
+STU/Distribution Licensee, the supervision charges shall be payable to Distribution Licensee or STU or any
+Transmission Licensee as the ease may be.
+However, in ease of Solar and Wind energy plants, as a promotional measure, the grid connectivity at approved voltage
+shall be provided by the Distribution Licensee and the total cost on construction of sub-station and transmission line
+including bay etc. shall be borne by Distribution Licensee of the area. In case, the substation/transmission line comes
+under STU/any other Transmission Licensee, the same shall be borne by STU/any other Transmission Licensee. The
+cost incurred thereof shall be allowed in tariff of the Distribution Licensee or STU/any other Transmission Licensee.
+36.
+Maintenance of Transmission lines and Equipment.
+(1)
+The Generating Plant shall be responsible for the maintenance of terminal equipment at the generating end and the
+dedicated transmission lines. However, Distribution Licensees or STU, as the case may be, shall carry maintenance of
+the dedicated transmission line if so desired by the Generating Company on mutually agreed charges.
+(2)
+The Distribution Licensee or the Transmission Licensee or the State Transmission Utility, as the case may be, shall be
+responsible for maintenance of the terminal equipment(s) at the sub-station of the concerned Licensee. The operation
+and maintenance cost shall be considered as pass through by the Commission while determining the wheeling and
+transmission charges of the concerned Licensee or State Transmission Utility, as the case may be.
+(3)
+In case of Solar and Wind energy plants, total cost on maintenance of substation and transmission line including bay
+etc. shall be borne by Distribution Licensee or STU/any other Transmission Licensee, as the case may be, and the cost
+incurred shall be allowed in tariff of the STU/any other Transmission Licensee.
+37.
+Metering Arrangement.
+- The Generating Plant shall provide ABT compatible Special Energy Meters at the point of injection and point of drawl
+and shall comply with all metering requirements as notified by the State Transmission Utility:
+Provided that in case of Solar and Wind energy Generating Plants the entire cost on metering shall be borne by the
+Licensee:
+Provided that the point of injection and point of drawl for the purpose of recording and billing purposes shall be the
+sub-station of the Licensee/STU:
+Provided also that metering at generator terminal shall be as per the guidelines issued by the Authority:
+Provided further that while calculating the energy billed, the meter reading in MWH taken at sub-station shall be
+multiplied by a factor as follows to compensate the transmission losses (the line losses to be taken as percentage per
+km/MW).
+Multiplying Factor = 100/(100 - 0.001 x L x C.C.)
+L = Length of line in km
+C.C. = Contracted Capacity in MW
+Loss factor = 0.001/km/MW
+38.
+Page 12/57
+----- PAGE 13 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Energy Accounting and Billing.
+- The State Load Despatch Centre shall do energy accounting and billing and the same shall be communicated to the
+utilities interacting with the grid as per the scheme framed by SLDC in pursuance of the provisions of UPERC
+Regulations:
+Provided that in case of sale to the Distribution Licensee of the area, the PPA may provide for joint metering and in such
+cases, energy accounting and billing shall be done by the Generating Plant in association with the concerned
+Distribution Licensee.
+39.
+Banking of Power.
+- (A) Non-Conventional Energy Source based Generation and Co-generation Plants:
+The Generating Plants shall be allowed to bank power, for the purpose of withdrawal of the banked power in the event of
+emergency or shut down or maintenance of the plant, subject to following conditions:
+(a)
+Banking of energy upto 100%, as agreed between the plant and the Distribution Licensee, shall be allowed during the
+period 17:00 hrs to 22:00 Hrs. (specified as peak hours for this purpose).
+(b)
+Withdrawal of power shall be allowed only during the period other than 17:00 hrs. to 22:00 Hrs.
+(c)
+The plants shall provide ABT compliant Special Energy Meters and the monthly settlement of energy sales shall be done
+based on:
+(i)
+Power supplied during the peak hours as per SEM meter readings
+(ii)
+Power banked as per daily schedules given for banking of power during the month.
+The lower of the two shall be considered as banked power and monthly settlement shall be done for the balance energy
+supplied by the plant at the rale specified for supply of electricity to Distribution Licensee:
+Provided that till implementation of intra-State ABT in the State of Uttar Pradesh, lower of the power supplied during the
+peak hours as per SEM meter readings and the power banked as per the declaration given by the Generating Plant shall
+be considered as banked power.
+(d)
+The banking as well as withdrawal of banked energy shall be subject to day-ahead scheduling.
+(e)
+The power withdrawn by the plant as ascertained by SEM readings, which could not be considered as withdraw all from
+banked power, shall be considered as power purchased by the plant.
+(f)
+The purchase of power by these plants under clause (e) or otherwise shall be charged for the maximum-recorded
+demand and the energy- at rate specified in the Schedule of retail Tariff corresponding to the declared load by the
+generator. No minimum consumption guarantee or other charges shall be levied on such generators. Excess load over
+and above the declared load shall be billed according to the provision of the relevant Schedule of Tariff specified by the
+Commission. This shall apply only to those generators who have commissioned the supply of power under the PPA with
+the Licensee.
+(g)
+A Generating Plant shall be allowed to withdraw power that was banked during a particular financial year in the same
+year or during the following financial year.
+(h)
+The banked power remaining unutilized on the expiry of the following financial year would be treated as sale and the
+financial settlement shall be made at the scheduled tariff for the year during which the power was banked. No banking
+charges shall be deducted from such unutilized banked energy.
+(i)
+Banking charges shall be 12.5% of the energy banked.
+(B)
+Page 13/57
+----- PAGE 14 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Captive Generating Plants:
+Captive Generating Plants shall be allowed banking subject to following conditions:
+(i)
+The withdrawal of banked energy, subject to deduction of banking charges of 12.5%, shall be allowed during the period
+other than 17:00 Hrs. to 22:00 Hrs., specified as peak hours.
+(ii)
+The plant shall provide ABT compliant special energy meters and the monthly settlement of energy shall be in the
+following manner;
+(a)
+A maximum of 75%, as agreed between such plants and the Distribution Licensee, of the energy supplied to the
+Licensee during the day shall be considered as banked energy and the remaining as energy sold to the Licensee,
+(b)
+Withdrawal of banked energy shall be subject to deduction of 12.5% of the banked energy as banking charges payable
+to the Licensee,
+(c)
+The demand posed by the plant in KVA while purchasing power from Distribution Licensee combined with demand due
+to withdrawal of banked energy by the captive plant shall be considered as the total demand (maximum demand) posed
+by the captive plant and the same shall not exceed the contracted demand which the plant has agreed to purchase from
+the Distribution Licensee:
+Provided that the demand charges payable by the captive plant to the Distribution Licensee shall be as determined by
+the Commission, from time to time, in appropriate rate schedule of retail tariff:
+Provided also that if the maximum demand exceeds the contracted demand, such excess demand shall be paid at
+additional rate as specified by the Commission, from time to time, in the appropriate rate schedule of retail tariff.
+(d)
+The withdrawal of banked energy shall be adjusted against the energy purchased from the Distribution Licensee during
+period other than 17:00 Hrs. to 22:00 Hrs. The balance energy supplied by the Distribution Licensee shall be billed at
+rate of energy charges specified by the Commission, from time to time, in appropriate rate schedule of retail tariff.
+(iii)
+The banking as well as withdrawal of power shall be subject to day ahead scheduling.
+(iv)
+The energy withdrawn by the plant, during 17:00 Hrs. to 22:00 Hrs. as ascertained by energy meter readings, shall be
+considered as power purchased by the plant from the Licensee.
+(v)
+No minimum charge shall be levied on such plants in computing bill based on 39(B)(ii)(c), (d) and (iv).
+(vi)
+The captive plant shall be allowed to withdraw power that was banked during a particular financial year either in the
+same year or during the following financial year.
+(vii)
+The banked energy remaining unutilized on the expiry of the following financial year would be treated as sale to the
+Distribution Licensee and the? financial settlement shall be made at the rate specified by the Commission for the year
+during which the power was banked. No banking charges shall be deducted from such unutilized banked energy.
+40.
+Payment Mechanism.
+- For payment of bills made through a letter of credit within a period of one month of presentation of bill for supplied
+power, a rebate of 2% shall be allowed. If the payments arc made by a mode other than through a letter of credit but
+within a period of one month of presentation of bill, a rebate of 1% shall be allowed. In case the payment of bills for
+supplied power by the beneficiary(ies) is delayed beyond a period of 2 months from the date of billing, a late payment
+surcharge at the rate of 1.25% per month shall be levied by the Generating Company:
+Provided further that the rate and payment terms approved by UPERC from time to time for the respective consumer
+category' under 'Rate Schedule for Tariff shall apply for purchase of electricity by the plant:
+Provided further that in respect of, transmission charges, wheeling charges, surcharge and additional surcharge, as the
+Page 14/57
+----- PAGE 15 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+case may be, payable by the plant for purchase of electricity under these Regulations, the payment mechanism provided
+under the relevant Regulations shall apply.
+41.
+Miscellaneous Provisions.
+- In case of any inconsistency in these Regulations with the provisions of the Act, as amended from time to time, the
+provisions of the Act shall have the overriding effect.
+42.
+Repeal.
+- UPERC CNCE Regulations, 05 shall stand repealed with effective date of these Regulations.
+I
+Tariff For Sale Of Power By
+A Captive Generating Plant
+I - Tariff for sale of Power by a Captive Generating Plant
+As per Commission's Order dated 09-09-2009 on Draft "Uttar Pradesh Electricity Regulatory' Commission (Terms and
+Conditions of supply of power from Captive and Non-conventional Energy Generating Plants) Regulations, 09) (CNCE
+Regulations, 09).
+1. Tariff for Coal Based Captive Generating Plants. - Tariff structure comprising of fixed and variable costs would be
+applicable for sale of power by pit-head located Coal Based Captive Generating Plant to the Distribution Licensee of its
+area.
+For non-pit head plants, the transportation cost of fuel shall be separately determined on case to case basis.
+Under CNCE Regulations, 2005 the tariff was determined considering the following throe categories :
+1. Unit size below 200 MW
+2. Unit size 200/210/250 MW
+3. Unit size above 500 MW
+However based on information available with Commission, no PPA has been signed for above unit sizes by any
+Distribution Licensee or any Captive Capacity comprising of the said unit sizes established by any Generating Company
+under CNCE Regulations, 2005. Also, no new capacity addition comprising of any of the above mentioned unit sizes
+seem to be in the offing. Therefore, under these Regulations, the tariff has been determined in the following three
+categories in respect to Captive Generating Plants:
+1. Unit sizes upto 100 MW.
+2. Unit sizes above 100 MW but upto 300 MW.
+3. Unit sizes above 300MW.
+Further, the tariff for above categories of plant has been dealt with the time of commissioning.
+The RoE for all the Captive Generating Plants has been considered as 15.5% (pretax) whereas Rate of interest for
+existing plants has been considered as 10.25% and for new plants (units commissioned on or after 1.04.09) as 12.8%.
+The variable cost shall be escalated @ 6 % per annum for subsequent years and O&M expenditure shall be escalated
+@ 5.72%.
+(i)
+Existing Captive units commissioned prior to FY 2005-06. - For Captive units Commissioned prior to FY 2005-06, the
+Commission has considered the same normative parameters as applicable for new- plants except for Station Heat Rate
+(SHR) which is considered as 2900 kcal/kWh instead of 2800 kcal/kWh. Tariff for such units shall be as given in Table-1
+below :
+Table-1: Tariff for Existing Captive units commissioned prior to FY 2005-06
+Captive ? Existing Projects (Prior to
+FY 2005-06)
+Financial Year
+Fixed Cost(Rs/kWh)
+Variable Cost(Rs/kWh)
+Total Cost(Rs/kWh)
+FY 2009-10
+0.62
+Page 15/57
+----- PAGE 16 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+1.31
+1.92
+FY 2010-11
+0.63
+1.39
+2.02
+FY 2011-12
+0.64
+1.47
+2.11
+FY 2012-13
+0.66
+1.56
+2.22
+FY 2013-14
+0.68
+1.65
+2.33
+(ii)
+Existing Captive units commissioned during FY 2005-06 to FY 2008-09. - The fixed & variable costs for the existing
+plants of unit size upto 100 MW commissioned during FY 2005-06 to FY 2008-09 has been determined based on
+revised norms and is given in Table-2 and Table-3 respectively. Total tariff for such plants shall be as given in Table-4
+below.
+Table-2: Fixed Cost for Existing Captive units commissioned during FY 2005-06 to FY 2008-09
+Captive - Existing Projects (Fixed Cost: Rs /Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2005-06
+1.08
+1.06
+1.03
+1.00
+0.97
+FY 2006-07
+1.16
+1.13
+1.10
+1.07
+1.04
+FY 2007-08
+1.23
+1.20
+1.17
+1.14
+1.11
+FY 2008-09
+1.31
+Page 16/57
+----- PAGE 17 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+1.28
+1.25
+1.22
+1.19
+Table-3: Variable Cost for Existing Captive units commissioned during FY 2005-06 to FY 2008-09
+Captive-Existing Projects
+Financial Year
+Variable Cost (Rs/Kwh)
+FY 2009-10
+1.26
+FY 2010-11
+1.34
+FY 2011-12
+1.42
+FY 2012-13
+1.50
+FY 2013-14
+1.60
+Table-4 : Tariff for Existing Captive units commissioned during FY 2005-06 to FY 2008-09
+Captive - Existing Projects (Total Cost:
+Rs/Kwh)
+Year of Commissioning
+FY 2009-10
+FY 2010-11
+FY 2011-12
+FY 2012-13
+FY 2013-14
+FY 2005-06
+2.35
+2.39
+2.45
+2.50
+2.57
+FY 2006-07
+2.42
+2.47
+2.52
+2.57
+2.64
+FY 2007-08
+2.50
+2.54
+2.59
+2.65
+2.71
+FY 2008-09
+2.57
+2.62
+2.67
+2.72
+2.78
+Page 17/57
+----- PAGE 18 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+(iii)
+Captive units commissioned on or after 1st April 2009 -
+The fixed and variable costs and total tariff for the new plants commissioned on or after 1st April 2009 shall be as given
+in Table-5, 6 and 7 respectively.
+Table-5 : Fixed Cost for New Captive units commissioned on or after 1st April 2009
+Captive - New Projects (Fixed Cost: Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+Unit Size (0-100 MW)
+FY 2009-10
+1.71
+1.66
+1.61
+1.56
+1.51
+FY 2010-11
+1.76
+1.71
+1.66
+1.61
+FY 2011-12
+1.81
+1.76
+1.71
+FY 2012-13
+1.86
+1.81
+FY 2013-14
+1.91
+Unit Size (100-300 MW)
+FY 2009-10
+1.51
+1.46
+1.42
+1.37
+1.33
+FY 2010-11
+1.55
+1.50
+1.46
+1.41
+FY 2011-12
+1.60
+1.55
+1.50
+FY 2012-13
+1.64
+Page 18/57
+----- PAGE 19 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+1.59
+FY 2013-14
+1.68
+Unit Size (Above 300 MW)
+FY 2009-10
+1.31
+1.27
+1.23
+1.20
+1.16
+FY 2010-11
+1.35
+1.31
+1.27
+1.23
+FY 2011-12
+1.39
+1.34
+1.30
+FY 2012-13
+1.42
+1.38
+FY 2013-14
+1.46
+Table-6 : Variable Cost for New Captive units commissioned on or after 1st April 2009
+Variable Cost
+Financial Year
+Rs/Kwh0-100 MW
+Rs/Kwh101-300 MW
+Rs/KwhAbove 300 MW
+FY 2009-10
+1.25
+1.11
+1.09
+FY 2010-11
+1.33
+1.17
+1.16
+FY 2011-12
+1.40
+1.24
+1.23
+FY 2012-13
+1.49
+1.32
+1.30
+FY 2013-14
+1.58
+1.40
+1.38
+Table-7: Effective Tariff for New Captive units commissioned on or after 1st April 2009
+Page 19/57
+----- PAGE 20 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Captive - New Projects (Total Cost: Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+Unit Size (0-100 MW)
+FY 2009-10
+2.96
+2.99
+3.02
+3.05
+3.09
+FY 2010-11
+3.09
+3.12
+3.15
+3.19
+FY 2011-12
+3.22
+3.25
+3.28
+FY 2012-13
+3.35
+3.39
+FY 2013-14
+3.49
+Unit Size (100-300 MW)
+FY 2009-10
+2.61
+2.63
+2.66
+2.69
+2.73
+FY 2010-11
+2.72
+2.75
+2.78
+2.81
+FY 2011-12
+2.84
+2.86
+2.90
+FY 2012-13
+2.96
+2.99
+FY 2013-14
+3.08
+Unit Size (Above 300 MW)
+FY 2009-10
+Page 20/57
+----- PAGE 21 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+2.40
+2.43
+2.46
+2.50
+2.54
+FY 2010-11
+2.51
+2.54
+2.57
+2.61
+FY 2011-12
+2.61
+2.65
+2.68
+FY 2012-13
+2.73
+2.76
+FY 2013-14
+2.84
+(iv)
+Electricity (MW/MU) supplied over and above 80% PLF. - The tariff of the captive generating plants has been
+determined at 80% PLF. It might be willing to supply at PLF above 80%. For such supply, only variable cost and
+incentive shall be paid as follows :-
+1. Variable cost applicable for new plants or existing plants, as the case may be.
+2. Incentive @ 35 paisa per unit
+II
+Tariff For Non-Conventional Energy Generating Plants
+(A)
+Bagasse based Co-generation Plants
+(B)
+Biomass based Generation Plants
+(C)
+Small Hydro Generation Plants
+(D)
+Solar Power Generation Plants
+(E)
+Other NCE Generation Plants
+II - Tariff for sale of Power by a Non-Conventional Energy Generating Plant
+As per Commission's Order dated 09-09-2009 on Draft "Uttar Pradesh Electricity Regulatory Commission (Terms and
+Conditions of supply of power from Captive and Non-conventional Energy Generating Plants) Regulations, 09" (CNCE
+Regulations, 09).
+(A)
+Bagasse Based Co-Generation Plants
+The tariff structure for Bagasse based co-generation plants has been provided for existing plants (Commissioned prior to
+FY 2005-06 and during FY 2005-06 to FY 2008-09) as well as for new projects commissioned on or after 1st April 2009.
+The RoE for all the bagasse based Co-Generation Plants has been considered as 16.0% (pre tax) whereas rate of
+interest for existing plants has been considered as 10.25% and for new plants (units commissioned on or after 1.04.09)
+as 12.8%. The variable cost shall be escalated @ 6 % per annum for subsequent years and O&M expenditure shall be
+escalated @ 5.72%.
+(i)
+Tariff for Existing Bagasse projects Commissioned prior to FY 2005-06 and during FY 2005-06 to FY 2008-09. - The
+Page 21/57
+----- PAGE 22 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Fixed & variable costs and total tariff for the existing plants for control period of these regulations shall be as given in
+Tables 8, 9 and 10 respectively.
+Table-8: Fixed Cost of Existing Bagasse Plants
+Bagasse - Existing Projects (Fixed  Cost:
+Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2005-06 or earlier
+1.75
+1.70
+1.66
+1.62
+1.58
+FY 2006-07
+1.86
+1.81
+1.77
+1.72
+1.68
+FY 2007-08
+1.97
+1.92
+1.87
+1.83
+1.78
+FY 2008-09
+2.09
+2.04
+1.99
+1.94
+1.89
+Table-9 : Variable Cost of Existing Bagasse Plants
+Bagasse - Existing Projects
+Financial Year
+Variable Cost (Rs/kWh)
+FY 2009-10
+2.07
+FY 2010-11
+2.19
+FY 2011-12
+2.32
+FY 2012-13
+2.46
+FY 2013-14
+2.61
+Table-10 : Effective Tariff of Existing Bagasse Plants
+Bagasse - Existing Projects (Total Cost: Rs/Kwh)
+Page 22/57
+----- PAGE 23 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2005-06 or earlier
+3.81
+3.89
+3.98
+4.08
+4.19
+FY 2006-07
+3.92
+4.00
+4.09
+4.18
+4.29
+FY 2007-08
+4.04
+4.11
+4.20
+4.29
+4.39
+FY 2008-09
+4.15
+4.23
+4.31
+4.40
+4.50
+(ii)
+Tariff for New Bagasse projects commissioned on or after 1st April 2009. - The fixed & variable costs and total tariff for
+the new plants for control period of these regulations shall be as given in Tables 11, 12 and 13 respectively.
+Table-11: Fixed Cost of New Bagasse Plants
+Bagasse - New projects (Fixed Cost : Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2009-10
+2.46
+2.39
+2.32
+2.25
+2.18
+FY 2010-11
+2.53
+2.46
+2.38
+Page 23/57
+----- PAGE 24 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+2.31
+FY 2011-12
+2.60
+2.52
+2.45
+FY 2012-13
+2.67
+2.59
+FY 2013-14
+2.74
+Table-12 : Variable Cost of Existing Bagasse Plants
+Bagasse - New Projects
+Financial Year
+Variable Cost (Rs/kWh)
+FY 2009-10
+1.75
+FY 2010-11
+1.86
+FY 2011-12
+1.97
+FY 2012-13
+2.09
+FY 2013-14
+2.21
+Table-13: Effective Tariff of New Bagasse Plants
+Bagasse - New Projects (Fixed Cost : Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2009-10
+4.21
+4.24
+4.29
+4.34
+4.40
+FY 2010-11
+4.39
+4.43
+4.47
+4.53
+FY 2011-12
+4.57
+4.61
+4.67
+FY 2012-13
+4.76
+4.81
+FY 2013-14
+Page 24/57
+----- PAGE 25 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+4.96
+(iii)
+Incentive. - The bagasse based generating plants, to generate more power beyond 50% PLF alongwith the variable
+cost, as applicable, shall be paid incentive as below:
+Table-14: Incentive Structure for Nov Bagasse Plants
+Plant Load Factor
+Incentive
+More than 50%
+25 Paise per Kwh
+(B)
+Biomass based Generation Plants. - In CNCE Regulations 2005, the tariff for existing plants was determined same as of
+bagasse based co-generation plants. As there has been only one biomass based generating power plant in FY 2008-09,
+based on prudence check of relevant information on performance parameters from all sources, the Commission has
+decided to determine tariff for existing as well as new projects (commissioned on or after 1st April 2009) separate from
+bagasse. To encourage capacity addition from biomass, the Commission has also decided that the parameters for
+fixation of tariff for existing biomass based generating plants shall be the same as decided for the new plants.
+The RoE for all the biomass based generation plants has been considered as 16.0% (pre-tax) whereas rate of interest
+for existing plants has been considered as 10.25% and for new plants (units commissioned on or after 1.04.09) as
+12.8%. The variable cost shall be escalated @ 6 % per annum for subsequent years and O&M expenditure shall be
+escalated @ 5.72%.
+The detailed tariff structure for biomass based plants has been discussed in the order.
+(i)
+Tariff for Biomass Projects -
+(a)
+Fixed Cost -
+The fixed costs based on the parameters discussed in the order shall be as given in Table-15.
+Table-15: Fixed Cost of Biomass Plants
+Biomass based generating plants (Fixed Cost:
+Rs/Kwh)Bagasse - New Projects (Fixed Cost: Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2008-09
+1.68
+1.65
+1.61
+1.58
+1.55
+FY 2009-10
+1.77
+1.73
+1.69
+1.66
+1.62
+FY 2010-11
+1.82
+1.78
+1.74
+Page 25/57
+----- PAGE 26 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+1.70
+FY 2011-12
+1.87
+1.83
+1.79
+FY 2012-13
+1.91
+1.87
+FY 2013-14
+1.96
+(b)
+Variable cost -
+The Variable Costs shall be as given in Table-16.
+Table-16 : Variable Cost of Biomass Plants
+Biomass based generating plants
+Financial Year
+Variable Cost (Rs/kWh)
+FY 2009-10
+2.61
+FY 2010-11
+2.77
+FY 2011-12
+2.93
+FY 2012-13
+3.11
+FY 2013-14
+3.29
+(a)
+Effective Tariff -
+The total tariff for a biomass plant shall be as given in Table-17.
+Table-17: Effective Tariff of Biomass Plants
+Biomass - New Projects (Total Cost: Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2008-09
+4.29
+4.41
+4.55
+4.69
+4.84
+FY 2009-10
+4.38
+4.50
+4.63
+4.77
+4.92
+FY 2010-11
+Page 26/57
+----- PAGE 27 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+4.58
+4.71
+4.85
+5.00
+FY 2011-12
+4.80
+4.93
+5.08
+FY 2012-13
+5.02
+5.17
+FY 2013-14
+5.26
+(ii)
+Incentive for Existing & New Plants. - To provide suitable incentive to  biomass based generating plants to generate
+more power i.e. above 80%, the generator shall be paid as below :-
+(a)
+Variable cost as applicable; plus
+(b)
+Incentive as below
+Table-18: Incentive Structure of Biomass Plants
+Plant Load Factor
+Incentive
+More than 80%-85%
+15 Paise per Kwh
+More than 85%
+25 Paise per Kwh
+(C)
+Small Hydro Power Plant. - The tariff for Small Hydro plants as discussed in the order has been provided for old projects
+commissioned from FY 2005-06 to FY 2008-09; although, as per the available information with the Commission, no plant
+was commissioned during period of CNCE Regulations, 2005. The tariff for Small Hydro plants (new projects), to be
+commissioned on or after 1st April 2009, based on approved capital cost and PLF, has been taken separately.
+The RoE for all the small hydro generating plants has been considered as 16.0% (pre-tax) whereas rate of interest for
+existing plants has been considered as 10.25% and for new plants (units commissioned on or after 1.04.09) as 12.8%.
+The O&M expenditure shall be escalated @ 5.72%.
+(i)
+Tariff for Old Small Hydro Power Plants -
+Effective Tariff -
+The effective tariff for the Old Small Hydro Power Plants shall be as given in Table-19.
+Table-19 : Effective Tariff of Small Hydro Plants - Old Projects (Rs/Kwh)
+Year of Commissioning
+FY2009-10
+FY2010-11
+FY2011-12
+FY2012-13
+FY2013-14
+FY 2005-06 or earlier
+2.89
+2.81
+2.73
+2.65
+Page 27/57
+----- PAGE 28 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+2.57
+FY 2006-07
+3.06
+2.97
+2.89
+2.81
+2.73
+FY 2007-08
+3.24
+3.15
+3.06
+2.97
+2.89
+FY 2008-09
+3.42
+3.33
+3.24
+3.15
+3.06
+(ii)
+Tariff for New Small Hydro Power Plants.-
+(iii)
+Effective Tarif. - The effective tariff for New Small Hydro Power Plants, based on its approved capital cost in Rs Cr/MW
+and Plant load factor (PLF), is as follows:
+Table-20 : Effective Tariff of Small Hydro Plants
+PLF (35% to 40%), Capital Cost (Rs 5.3 Cr MW)
+Year of Operation
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2009-10
+3.83
+3.71
+3.58
+3.46
+3.34
+2010-11
+3.94
+3.82
+3.69
+3.56
+2011-12
+4.06
+3.93
+3.80
+2012-13
+4.17
+4.04
+2013-14
+Page 28/57
+----- PAGE 29 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+4.29
+PLF (More than 40% to 45%), Capital Cost (Rs
+5.75 Cr MW)
+Year of Operation
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2009-10
+3.67
+3.55
+3.43
+3.31
+3.20
+2010-11
+3.78
+3.65
+3.53
+3.41
+2011-12
+3.89
+3.76
+3.63
+2012-13
+4.00
+3.87
+2013-14
+4.11
+PLF (More than 45% to 50%), Capital Cost (Rs
+6.2 Cr MW)
+Year of Operation
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2009-10
+3.54
+3.42
+3.31
+3.20
+3.08
+2010-11
+3.64
+3.52
+3.41
+3.29
+2011-12
+3.75
+3.63
+Page 29/57
+----- PAGE 30 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+3.51
+2012-13
+3.86
+3.73
+2013-14
+3.96
+PLF (More than 50% to 55%), Capital Cost (Rs
+6.65 Cr MW)
+Year of Operation
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2009-10
+3.43
+3.32
+3.21
+3.10
+2.99
+2010-11
+3.54
+3.42
+3.31
+3.19
+2011-12
+3.64
+3.52
+3.40
+2012-13
+3.74
+3.62
+2013-14
+3.84
+PLF (More than 55% to 60%), Capital Cost (Rs
+7.1 Cr MW)
+Year of Operation
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2009-10
+3.35
+3.24
+3.13
+3.02
+2.92
+2010-11
+3.45
+3.33
+Page 30/57
+----- PAGE 31 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+3.22
+3.11
+2011-12
+3.55
+3.43
+3.32
+2012-13
+3.65
+3.53
+2013-14
+3.75
+PLF (More than 60% to 65%), Capital Cost (Rs
+7.55 Cr MW)
+Year of Operation
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2009-10
+3.27
+3.17
+3.06
+2.96
+2.85
+2010-11
+3.37
+3.26
+3.15
+3.05
+2011-12
+3.47
+3.36
+3.25
+2012-13
+3.57
+3.45
+2013-14
+3.67
+PLF (More than 65% to 70%), Capital Cost (Rs
+8.0 Cr MW)
+Year of Operation
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2009-10
+3.21
+3.11
+3.00
+Page 31/57
+----- PAGE 32 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+2.90
+2.80
+2010-11
+3.31
+3.20
+3.09
+2.99
+2011-12
+3.40
+3.29
+3.18
+2012-13
+3.50
+3.39
+2013-14
+3.60
+(a)
+Incentive. - The tariff indicated above shall be applicable for the small hydro power plants for the different range of PLF.
+If PLF of a plant during a year exceeds the range; it shall be eligible for an incentive of 35 paise for every additional unit
+delivered at generator terminal.
+For e.g. A Plant having PLF of 43% shall fall in the range of 40%-45%; then any production beyond 45 % PLF shall be
+eligible for incentive of 35 paise per unit.
+Similarly, A plant having PLF of 59% shall fall in the range of 55%-60%; then any production beyond 60 % PLF shall be
+eligible for incentive of 35 paise per unit.
+D. Solar Power Plant. - With newer technologies, the costs of solar plants arc changing drastically. GOI is in die process
+of evolving detailed policy and tariff for solar power. As such in future the tariff for solar power shall be determined and
+notified by a separate order by the Commission. Till such time, the tariff orders on Solar Power Plants determined by the
+Commission shall be applicable for both the cases/schemes as mentioned below :-
+(i)
+Not Covered under MNRE scheme. - The tariff for Solar Power Plants not covered under GOI Incentive scheme,
+commissioned upto 31-12-2011, shall be as given below :-
+Table-21: Tariff for Solar Plants
+Types of Solar Power Plants
+Rate of Electricity for 20 Years
+Solar Photovoltaic
+Rs. 15.00/kWh
+Solar Thermal
+Rs. 13.00/kWh
+(ii)
+Covered under MNRE scheme. - For Solar Power Plants covered under MNRE scheme the orders of the Commission
+shall be applicable.
+(E)
+Other NCE Projects (Except Bagasse/Biomass/SHP/Solar). - For this category, there was no representation from other
+NCE based generators, therefore the Commission approves minimum of the tariff from existing and new generating
+plants based on non-conventional resources. As soon as the projects come in the state, the Commission may review the
+tariff even on case to case basis.
+(i)
+Tariff for other NCE sources-Existing Plants. - The tariff for other existing NCE plants shall be @ Rs.2.89/kWh with an
+escalation of 5.72% p.a.
+(ii)
+Tariff for other NCE sources - New Plants. - The tariff for other NCE projects shall be @ Rs.3.21/Kwh with an escalation
+Page 32/57
+----- PAGE 33 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+of 5.72% p.a.
+Annexure-1
+Information To Be Submitted By An Existing/proposed Captive Generating Plant Alongwith The Detailed Project Report
+(Dpr)
+1. Whether the Captive Generating Plant is a company or body corporate or association or body of individuals,
+incorporated or not.
+2. State the destination for his own use or for use of its members.
+3. Site-map indicating location.
+4. Technical details of Generating Set(s).
+5. Single line diagram (details of interconnection at both ends, protection, inter-locks etc.
+6. Single line diagram of power evacuation system for sale of power to Licensee.
+7. Whether complies with the standards specified by the authority Letter of Consent for Establishment issued by Uttar
+Pradesh Pollution Control.
+8. Board.
+9. Statement of Interruption details.
+10. Copy of existing wheeling, banking, sale of surplus power arrangement.
+11. Copy of agreement of supply/purchase.
+12. Details of calculation of cost of generation;
+(a)
+First year
+(b)
+Levelised
+13. Any other details considered necessary.
+14. Feasibility Report.
+15. Details of communication and data transfer facility established
+16. Details of person(s) responsible for scheduling and despatch activities and coordination with SLDC
+17. Existing/Proposed connectivity conditions
+18. Operation and maintenance of dedicated transmission line (State whether the line was constructed at the expense of
+the plant or by a Licensee).
+19. Details of metering, state whether ABT compatible meter is installed or not.
+Note. - (a) A half yearly progress report shall be submitted in respect of the proposed Captive Generating Plant in the
+month of April and October every year till its commissioning.
+(b)
+A Completion report shall be filed by with the Commission within 60 days of commissioning of the plant.
+Annexure-2
+Information To Be Submitted By An Existing/proposed Non-Conventional Energy Source Based Co-Generation And
+Generation Plant Alongwith The Detailed Project Report (Dpr)
+1. Site-map indicating location.
+2. Technical details of Generating Set(s).
+3. Single line diagram (details of interconnection at both ends, protection, interlocks etc.).
+4. Single line diagram of power evacuation system for sale of power to Licensee.
+5. Letter of Consent for Establishment issued by Uttar Pradesh Pollution Control Board
+6. Copy of agreement of supply and purchase of electricity with any Licensee or Generating Company.
+7. Details of calculation of cost of generation;
+(a)
+First year
+(b)
+Leveliscd.
+8. Feasibility Report.
+9. Details of communication and data transfer facility established.
+10. Details of person(s) responsible for scheduling and despatch activities and coordination with/SLDC and RLDC.
+Page 33/57
+----- PAGE 34 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+11. Existing/Proposed connectivity conditions.
+12. Operation and maintenance of dedicated transmission line (state whether the line was constructed at the expense of
+the plant or by a Licensee).
+13. Details of metering, state whether ABT compatible meter is installed or not.
+14. Any other details considered necessary.
+Note. - (a) A half yearly progress report shall be submitted in respect of the proposed Captive Generating Plant in the
+month of April and October every year till its commissioning.
+(b)
+A Completion report shall be filed by with the Commission within 60 days of commissioning of the plant.
+Annexure-3
+Yearly Report To Be Filed By Captive And Nce Generating Plants
+Part-A : Captive and Co-generation (biomass/bagasse)
+1. Name of the Generating Company
+2. Name of the Power Station
+3. Details for the period ending 31st March
+4. Capital cost (Rs.Cr.)
+5. Equity (Rs.Cr.)
+6. Outstanding Loan (Rs.Cr.)
+7. Depreciated cost (Rs.Cr.)
+8. Depreciation (%)
+9. O&M (Actual) (Rs.Cr.)
+10. Actual Availability (%)
+11. Plant Load Factor (%)
+12. Gross Energy Generated (MU)
+13. Auxiliary Consumption (%)
+14. Specific heat rate (Kcal/Kwh.)
+15. Specific oil consumption (ml/Kwh.)
+16. Consumption of coal (MT)
+17. Purchase of coal (MT)
+18. Consumption of oil (KL)
+19. Purchase of oil (KL)
+20. Average Stock of coal maintained/month(MT)
+21. Average Stock of oil maintained/month (KL)
+22. Average Receivables (in months) (Rs.Cr.)
+23. Requirement of spares (% of capital cost)
+24. GCV of coal (Kcal/Kg.)
+25. GCV of oil (Kcal/Lt.)
+26. Average price of coal (per MT)
+27. Transportation cost (Rs. per MT) for coal
+28. Average price of oil (per KL)
+29. Interest on Loans
+30. Interest on Working Capital
+31. Unit wise details as on 31st March of the year:
+Unit No.
+Rated capacity (MW)
+De-rated capacity (MW)
+Date of synchronization
+Date of commercial operations
+Date of stabilization
+Type of cooling system
+Type of fuel
+Page 34/57
+----- PAGE 35 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Annual Maintenance (Days) Forced outage (days)
+Partial outage (days)
+Target Availability Actual Availability Generation
+Coal consumption per Kwh
+Oil consumption per Kwh
+Cost of R&M (Rs.Cr.)
+Part-B Small Hydro Generating Stations
+1. Name of the Generating Company
+2. Name of the Power Station
+3. Details for the period ending
+31st.
+March........
+4. Capital cost (Rs. Cr.)
+5. Equity (Rs. Cr.)
+6. Loan (Rs. Cr.)
+7. Depreciated cost (Rs. Cr.)
+8. Depreciation (%)
+9. O&M (Actual) (Rs. Cr.)
+10. Actual Availability (%)
+11. Availability Achieved (%)
+12. Designed energy (MU)
+13. Primary Energy (MU)
+14. Energy generated (MU)
+15. Secondary Energy generated (MU)
+16. Auxiliary Consumption (%)
+17. Transformation Losses (%)
+18. Average Receivables (in months)
+19. Requirement of spares (% of capital cost)
+20. Interest on Loans
+21. Interest on Working Capital
+22. Unit wise details as on 31st March of the year:
+Unit No.
+Rated capacity (MW)
+De-rated capacity (MW)
+Date of synchronization Date of commercial operation Annual Maintenance (Days)
+Forced outage (days)
+Partial outage (days)
+Target Availability Actual Availability Generation
+Type of station (surface/underground)
+Type of excitation Cost of R&M(Rs. Cr.)
+Part-C Solar, Wind, Municipal/Industrial Waste and other NCE Generating Stations
+1. Name of the Generating Company
+2. Name of the Power Station
+3. Details for the period ending       31st March.........
+4. Capital cost (Rs.Cr.)
+5. Equity (Rs.Cr.)
+6. Loan (Rs.Cr.)
+7. Depreciated cost (Rs.Cr.)
+8. Depreciation (%)
+9. O&M (Actual) (Rs.Cr.)
+10. Target Availability (%)
+Page 35/57
+----- PAGE 36 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+11. Availability Achieved (%)
+12. Energy generated (MU)
+13. Auxiliary Consumption (%)
+14. Transformation Losses (%)
+15. Average Receivables (in months)
+16. Requirement of spares (% of capital cost)
+17. Transportation cost involved in fuel procurement
+18. Interest on Loans
+19. Interest on Working Capital
+20. Unit wise details as on 31st March of the year:
+Unit No.
+Rated capacity (MW)
+De-rated capacity (MW)
+Date of synchronization
+Date of commercial operation
+Annual Maintenance
+(Days)
+Forced outage (days)
+Partial outage (days)
+Target Availability
+Actual Availability
+Generation
+Cost of R&M (Rs. Cr.) if any
+Annexure-4
+Model Power Purchase Agreement
+Between
+(Name of the Generating Plant)
+AND
+(Name of the DISCOM, say M/s. ABC Limited)
+This agreement is made this day of, (hereinafter called the Effective Date), by and between (...Name of the Generating
+Company ....) registered under the (....Provisions of the Act..... ) and having its registered office at (....Regd. Office
+address.....), hereinafter called the "Generating Company", which expression shall, unless repugnant to the context or
+meaning thereof, include its successors and assignees as party of the first part and (.....Name of the DISCOM, say M/s.
+ABC Limited ), a Company registered under (......the Company's Act, 1956.....), having its Registered Office at (...enter
+Regd. Office Address...), hereinafter called "ABCL", which expression shall, unless repugnant to the context or meaning
+thereof, include its successors and assignees as party of the second part.
+WHEREAS, the Generating Company is engaged in the business of...........................................and other incidental
+businesses situated at................................in the State of Uttar Pradesh, more particularly described in Annexure-I
+attached hereto and made a part hereof and,
+AND WHEREAS, ABCL is a distribution licensee operating in the State of Uttar Pradesh, and has licence to supply
+power in......................................part of the State.
+AND WHEREAS, the Generating Company intends to own, maintain and operate a power plant situated
+at........(hereinafter referred to as the Plant) having a generating capacity of...MW and generate electricity primarily for
+his own consumption to the extent of.....MW and is desirous to supply ....MW/MU to ABCL from such plant, and
+(Applicable to Captive Plant)
+or
+AND WHEREAS, the Generating Plant owns, maintains and operates a power plant situated.......at (hereinafter referred
+to as the Plant) having a generating capacity of.....MW and generates electricity primarily for his own consumption to the
+extent of...MW and is desirous to supply ....MW/MU from such plant to ABCL, and (Applicable to Captive Plant)
+or
+WHEREAS, the Generating Company owns and operates/intends to own and operate a (Bagasse based Co-generation
+Page 36/57
+----- PAGE 37 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Plant/Other co-generation Plant/Biomass based plant/Solar plant/Micro /Mini/Canal based hydel power plant /Municipal
+waste/industrial Waste/Biogas based plant) plant situated at (hereinafter referred to as the Plant) having a generating
+capacity of.....MW and generate Power Purchase Agreement electricity for his own consumption to the extent of. . . MW
+and..../MW for supplying electricity so generated by the Generating Plant's facility to ABCL, and
+or
+WHEREAS the Generating Company has undertaken to implement the power project by installing Plant and Equipment
+having installed capacity of................MW situated at (hereinafter referred to as the Plant) its production facility and
+complete erection, installation and commissioning of the said capacity and make it operational by (......CoD......), and
+(Applicable for new plants only)
+WHEREAS, the Generating Company desires to sell surplus (after its own use)/entire (...Insert capacity in MW...) power
+generated in the Generating Plant's facility ... MW, and ABCL agrees to purchase electricity generated from such
+capacity by the Generating Plant for sale, under the terms and conditions set forth herein, and
+WHEREAS, the Generating Company agrees to purchase........MW power for it's such plant from ABCL and ABCL
+agrees to supply.......MW power to such plant at retail tariff as per Regulations specified by the Commission, and
+WHEREAS the parties to this Agreement agree for prior consultation with the State Transmission Utility for the purpose
+of implementation of this agreement and seek its approval for permitting, inter alia, interconnection to the generating
+plant with the (write name) grid sub-station owned by STU or other transmission licensee (delete whichever not
+applicable), and
+WHEREAS the parties to the agreement bind themselves for compliance of all relevant provisions specified by the
+Commission in different regulations regulating the functioning of State Transmission Utility, other Transmission Licensee
+and State Load Despatch Centre.
+Now, therefore, in consideration of premises and mutual agreements, covenants and conditions set forth herein, it is
+hereby agreed by and between the parties as follows :-
+1. Definitons. - Other than those defined below', the words/expressions used in this agreement, unless repugnant to the
+context, shall have the meaning assigned to them in the Electricity Act, 2003, UP Electricity Reforms Act, 1999 and U.P.
+Electricity Grid Code as amended from time to time, "UPERC (Captive and Non-Conventional Energy Generating
+Plants) Regulations, 2009" shall mean in short "CNCE Regulations, 09"; as amended from time to time, and the rules
+framed thereunder. The words/expressions listed below shall have the meanings respectively assigned hereunder.
+1.1
+'Bill Meter' means ABT compatible Import and Export Meter on the basis of which energy bills shall be raised by the
+Generating Plant/ABCL.
+1.2
+'Check Meter' means ABT compatible Import and Export Meter for performing a check on the accuracy of the Bill Meter.
+1.3
+'Date of Commissioning' means the date on which supply of Energy is commercially commenced by the Generating
+Plant to ABCL and includes COD.
+1.4
+'Export Meter' means Bill Meter installed at the grid sub-station (write name) of ABCL/STU for measurement of Active
+Energy, Maximum demand and Power factor for Energy exported to the Generating Plant from ABCL/STU's Grid
+Sub-Station (write name).
+1.5
+'Energy Account Month' means period from date of meter reading in previous month to date of meter reading in following
+month and such period should not exceed 35 days.
+1.6
+'Sub-Station' means sub-station (write name) of 33 KV or higher voltage owned, maintained and operated by ABCL or
+UP Power Transmission Corporation Limited or other transmission licensee (delete whichever not applicable).
+1.7
+'Import Meter' means Bill Meter installed at the grid sub-station of ABCL/STU (delete whichever not applicable) for
+Measurement of Active Energy, Maximum demand and Power factor of Energy Imported to ABCL from the Generating
+Plant.
+1.8
+Page 37/57
+----- PAGE 38 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+'L.C.' means "revolving and self - replenishing Letter of Credit".
+1.9
+'Bill' means a bill raised, that includes all charges to be paid by ABCL with respect to sale of Power by the Generating
+Plant to ABCL.
+1.10
+'STU' means State Transmission Utility.
+1.11
+'TOD' means "Time of day", for the purpose of Metering.
+1.12
+'UPERC' means the U.P. Electricity Regulatory Commission.
+1.13
+'Wheeling' means the operation whereby the distribution system of a distribution licensee is used by another person for
+the conveyance of electricity on payment of charges to be determined under section 62 of the Electricity Act 2003.
+1.14
+"UPERC (Captive and Non-Conventional Energy Generating Plants) Regulations, 2009" shall mean in short "CNCE
+Regulations, 09"; as amended from time to time.
+2. Power Purchase, Sale and Banking. -
+2.1
+ABCL shall accept and purchase .........................MUs/....... MW (delete whichever not applicable) of power made
+available by the Generating Plant's captive/bagasse based cogeneration/biomass/Mini/Micro Hydel Plants/other NCE
+Plants (delete whichever not applicable) in accordance with the terms and conditions of this Agreement, at the rate
+specified for such plant in Schedule I/II (delete whichever not applicable) of "CNCE Regulations, 09"; as amended from
+time to time. Except for Income Tax, all other taxes, duties and other levies imposed by the Central and/or State
+Government or other local authorities directly relating to generation shall be payable by ABCL on production of
+necessary supporting documents by the Generating Plant, while those relating to sale of electricity, shall be borne and
+payable by ABCL.
+(Explanation: The price as per Schedule-II of the "CNCE Regulations,09"; shall apply only in the event of generation of
+power by using non conventional or renewable fuel for generating power. In case conventional fuel is used, the tariff
+shall be as per
+I of the "CNCE Regulations, 09".)
+2.
+2. The rate applicable for supply of electricity by ABCL to the Generating Plant shall be as per the tariff determined by
+the Commission under appropriate 'Rate Schedule of Tariff for the consumer category determined on the basis of the
+total load requirement of the plant and billing done in the manner as specified by the Commission in the Regulations.
+2.3
+The provisions set out in Annexure-II shall govern the sale and accounting for power purchased by ABCL.
+2.4
+The Generating Company shall abide by the provisions of the Act, Rules, Codes, Regulations, Orders and Directions of
+the appropriate Authority/Commission issued from time to time regarding generation and evacuation of electricity.
+12.2
+The generating company agrees to bank energy to the extent of......% of the energy supplied to ABCL from the plant
+during the period......and ABCL agrees to allow withdrawal of the banked energy during the time specified by the
+Commission.
+12.3
+The provisions of Banking and wheeling of electricity shall be as per the CNCE Regulations.
+3. Maintenance Requirement Of The Generating Plant
+3.1
+The Generating Plant's annual maintenance schedule shall normally be from ..........to..............The Generating Plant
+shall inform ABCL and the STU regarding the Maintenance schedule in accordance with provisions of the UP Electricity
+Grid Code as revised by the Commission from time to time.
+3.2
+Page 38/57
+----- PAGE 39 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Environmental Clearance and compliance of environmental standards shall be the sole responsibility of the generating
+plant.
+4. Supply Schedule
+The Generating Plant shall furnish to ABCL and the State Transmission Utility (STU) or State Load Despatch Centre
+(SLDC), as the case may be, a day ahead Supply Schedule, schedule of banking and withdrawal of banked energy and
+other information, as required in the CNCE Regulations and UP Electricity Grid Code as amended from time to time or
+provisions of any other regulation, code, order or direction in that regard or as desired otherwise.
+5. Billing Procedure And Payments
+5.1
+ABCL shall raise monthly bill for electricity purchased by the Generating Plant as per its normal billing cycle after taking
+into account energy withdrawn from the banked energy and maximum recorded demand in the manner as specified by
+the Commission in the CNCE Regulations and such bill shall be payable within the time period stipulated in the General
+Conditions of Tariff.
+5.2
+The Generating Plant shall raise monthly bill based on the monthly joint meter reading in the Bill Meter at the grid
+sub-station (write name) after deduction of bankable energy as certified by ABCL and in such cases, energy accounting
+and billing shall be done by the Generating Plant in association with the concerned Distribution Licensee.
+The State Load Despatch Centre shall do energy accounting and billing and the same shall be communicated to the
+utilities interacting with the grid as per the scheme framed by SLDC in pursuance of the provisions of UPERC
+Regulations.
+5.3
+The Monthly Bill raised by the Generating Plant shall be delivered to ABCL at its designated office (write name) on or
+before the fifth (5th) working day of the following month hereinafter called the Monthly Bill date.
+5.4
+ABCL shall make full payment against such Monthly Bills to the Generating Plant within thirty (30) working days of the
+receipt of the Monthly Bill through irrevocable revolving & self-replenishing letter of credit of a value equal to the billable
+amount opened with a public sector bank in favour of the Generating Plant or through any other mode. The L.C. opening
+and maintenance charges shall be borne by the Distribution Licensee. The L.C. shall cover the average monthly billing
+for units indicated in the supply schedule furnished under para-4 above for the particular calendar quarter. The L.C. shall
+be updated by 5th working day of the calendar quarter.
+5.5
+A rebate of ..... percent on the billed amount shall be allowed for payment made through LC within one month of the date
+of billing and for default in payment beyond two months from the date of billing, a surcharge at the rate of ...... percent
+per month or part thereof shall be levied on the billed amount. Format of the Monthly Bill to be raised by the Generating
+Plant is given in Annexure-III attached hereto and made a part of this agreement.
+If the payment is made by a mode other than through LC but within a period of one month of presentation of bill by the
+generating company, a rebate of percent shall be allowed. However, a surcharge at the rate of   percent per month or
+part thereof shall be levied on the billed amount in case of default in payment beyond two months from the date of
+billing.
+5.6
+The bills raised by the Generating Plant shall be paid in full subject to the conditions that :-
+(i)
+There is no apparent arithmetical error in the bill(s).
+(ii)
+The bill(s) is/are claimed as per tariff referred to in para 2 of this agreement.
+(iii)
+They are in accordance with the energy account referred to in para 14 of this agreement.
+5.7
+In case of any dispute regarding the bill raised by the Generating Plant, ABCL shall file a written objection with the
+Generating Plant within fifteen days of receipt of the bill giving full particulars of the disputed item(s), with full details/data
+and reasons of dispute and amount disputed against each item The Generating Plant shall resolve the above dispute(s)
+Page 39/57
+----- PAGE 40 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+with ABCL within 30 days.
+5.8
+In case, the dispute is not resolved within 30 days as provided in para-5.7 above, and in the event it is decided to
+proceed with the Arbitration as provided in para-23 of this agreement, then ABCL shall pay 100% of the disputed
+amount forthwith and refer the dispute for arbitration as provided in this agreement. The amount of excess/shortfall with
+respect to the said disputed amount on final award of arbitration shall be paid/adjusted; but in case of excess, the
+adjustment shall be made with interest at the rate of 1.25% per month from the date on which the amount in dispute was
+refundable by the generating company to ABCL.
+6. Parallel Operations
+Grid sub-station (write name) owned by ABCL/STU/other transmission licensee (delete whichever not applicable) shall
+allow the Generating Plant to interconnect its facility and operate in parallel with ABCL/STU/other transmission
+licensee's (delete whichever not applicable) system, subject to the provisions of this Agreement, Electricity Act, 2003
+and the UP Electricity Grid Code as amended from time to time.
+7. Generation Facilities Owned And Operated By The Generating Plant
+7.1
+The Generating Company shall own, install, operate, and maintain the generating plant equipments and associated
+dedicated transmission line described in Annexure-I. The Generating Plant shall follow such operating procedures on its
+side of the electric interconnection with ABCL/STUs (delete whichever not applicable) system, as are consistent with
+applicable laws, rules and regulations, the terms and conditions of this Agreement, provisions of the UP Electricity Grid
+Code, and other related guidelines, if any, issued by UPERC, SLDC, ABCL, STU and any other concerned
+Transmission licensee.
+7.2
+In the event, any other non-conventional/renewable fuel or fuels are used by the Generating Plant to supplement
+bagasse/biomass the fuel linkage shall be the responsibility of the Generating Plant. No pass through of cost on account
+of this shall be permitted. (Applicable only to Co-generation Plants).
+Or
+7.2
+This point is intentionally left blank for inclusion of sight specific changes -
+7.3
+All electrical equipments shall be installed in compliance with the requirements of the Director of Electrical Safety,
+Government of Uttar Pradesh and safety specifications of the Central Electricity Authority (CEA) under section 53 of the
+Electricity Act, 2003.
+7.4
+The Generating Plant further agrees to make no material changes or additions to its facility, which may have an adverse
+effect on ABCL/STU/other transmission licensee (delete whichever not applicable) system, or amend the single-line
+diagram, relay list and/or trip scheme given in Annexure-I, without ABCL's prior written consent. ABCL agrees that such
+consent shall not be unreasonably withheld or given without the prior permission of STU.
+7.5
+Without prejudice to the foregoing, the Generating Plant shall install, operate, and maintain its facility in accordance with
+accepted prudent utility' practices in the electricity industry. The Generating Plant's operation and Maintenance
+schedules and staffing shall be adequate to meet such standards at all times.
+7.6
+ABCL/STU/other transmission licensee (delete whichever not applicable) shall follow such operating procedures on its
+side of the electric interconnection point with the Generating Plant, as required to receive power from the Generating
+Plant's facility, without avoidable interruptions or adverse consequences on the Generating Plant, and consistent with
+applicable laws, rules and regulations, and the terms and conditions of this Agreement.
+8. Interconnection Facilities
+8.1
+Power from the Generating Plant shall be transmitted at ............... voltage through a........KV line from the Generating
+plant located at ..............................The power so transmitted shall be interfaced with ABCL's 33 KV/132KV or higher grid
+sub-station located at.............. (write name of the sub-station) owned by/STU/other transmission licensee (delete
+Page 40/57
+----- PAGE 41 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+whichever not applicable).
+8.2
+The cost of the dedicated transmission line from the Generating Plant to the designated grid sub-station (write name) of
+ABCL/STU/other transmission licensee (delete whichever not applicable) and the cost of interfacing at both ends (the
+Generating Plant and grid sub-station) including work at the ABCL/STU/other transmission licensee (delete whichever
+not applicable) sub-station, cost of bay, tie-line, terminal equipments and associated synchronizing equipments, shall be
+borne by the Generating Plant. (Not applicable in case of solar and wind power generating plants.)
+8.3
+Left blank for parties to enter the provision of construction of the transmission line in accordance with the provisions of
+CNCE Regulations and orders of the Commission as mutually agreed.
+(Explanation. - The technical and other specifications of the work shall be finalized with ABCL's/STU's approval and be
+in accordance with standards and specifications laid by ABCL, construction of 132 KV or higher voltage line shall be
+done under the supervision of STU/other transmission licensee (delete whichever not applicable). The lines constructed
+for the evacuation of power from the Generating Plant, shall not be used for transmitting/supplying power for any other
+purpose, without a mutual agreement between the Generating Plant and ABCL /STU/other transmission licensee (delete
+whichever not applicable), and without prior approval of UPERC. Existing transmission/distribution lines of ABCIJSTU
+(as the case may be) may be utilized for evacuation of power from the Generating Plant to the Grid sub-station, on the
+basis of a mutual agreement between the Generating Plant and ABCL and/or STU (as the case may be), with the
+approval of UPERC. Notwithstanding the above, the work of interfacing at ABCL/STU/other transmission licensee's
+(delete whichever not applicable) sub-Station will be done by ABCL/STU/other transmission licensee (delete whichever
+not applicable) only.)
+8.4
+The Generating Plant shall be responsible for the maintenance of equipment at the generating end.
+8.5
+Left blank for parties to enter the provision of maintenance of the transmission line in accordance with the provisions of
+CNCE Regulations as mutually agreed.
+8.6
+Any work to be done by the Generating Plant shall be taken up only with a specific approval and on the basis of
+approved drawings and specifications from ABCL and in compliance with the safety requirements as per the UP
+Electricity Grid Code. On the completion of work, final approval shall be obtained from ABCL/STU (as the case may be)
+before charging the line. The Generating Plant would obtain all statutory clearances/approvals required for this purpose.
+8.7
+The Generating Plant shall consult ABCL/STU/other transmission licensee (delete whichever not applicable) on the
+scheme of protection of the interconnecting line/s and the facilities at both ends, and accordingly provide the equipment
+at both ends. The protection system, installed by the Generating Plant, shall be checked by ABCL/STU/other
+transmission licensee (delete whichever not applicable).
+8.8
+Without limiting the foregoing, the Generating Plant and ABCL/STU/other transmission licensee (delete whichever not
+applicable) shall, operate and maintain the interconnection and parallel operation facility in accordance with accepted
+good engineering practices in the electricity industry and the UP Electricity Grid Code as amended from time to time and
+directions of Director Electrical Safety (GOUP) and safety requirements as specified by the Authority under section 53 of
+the Act.
+8.9
+The interconnection facilities, to be provided by the Generating Plant arc set forth in Annexure-IV attached hereto and
+made a part hereof.
+9. Protective Equipment & Interlocking
+9.1
+The interconnection facilities shall include necessary protective equipment and interlocking devices, which shall be so
+coordinated that any malfunctioning or abnormality in the generators or in the bus of the Generating Plant shall not
+adversely reflect on or affect ABCL/STU/other transmission licensees (delete whichever not applicable) grid system. In
+event of any malfunctioning or abnormality, the system shall be designed to ensure that the Generating Plant's breaker
+Page 41/57
+----- PAGE 42 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+trips first to protect the equipment. Prior to adopting it the Generating Plant shall obtain approval of ABCL/STU/other
+transmission licensee (delete whichever not applicable) for the protection logic of the generator system and the
+synchronisation scheme.
+9.2
+The Generating Plant shall install necessary equipment to eliminate feeding of reverse power from the Grid to the
+Generating Plant's system in absence of any agreement for purchase of power with ABCL.
+10. Technical Assistance By Abcl & Generating Plants Responsibility
+10.1
+On request, ABCL, in consultation with STU, shall provide reasonable technical assistance to the Generating Plant in
+preparing the design and specifications of the required facilities and for laying down the standard operating and
+maintenance procedures. The Generating Plant, however, shall be responsible for procurement, installation, testing,
+maintenance and operation of the electrical system installed in the Generating Plant's premises.
+10.2
+Notwithstanding the above, ABCL shall not be responsible for any damage caused to the electrical system/generating
+set of the Generating Plant, on account of errors or defects in the design, procurement, installation, testing, maintenance
+and operation of the system.
+11. Arrangements At The Point Of Supply
+12.1
+The Generating Plant shall make all arrangements for parallelling the set/s with ABCL/STU/other transmission licensee's
+(delete whichever not applicable) grid in consultation with and to the satisfaction of ABCL and/or STU, subject to the
+approval of the Director of Electrical Safety, Government of Uttar Pradesh and safety specifications of the Central
+Electricity Authority (CEA) under Section 53 of the Electricity Act, 2003.
+12. Synchronisation
+12.1
+The Generating Plant shall synchronise its power generating set in consultation with
+the...................................(Designated Authority), in-charge of the  sub-station of ABCL/STU/other transmission licensee
+(delete whichever not applicable) and as per provisions of the UP Electricity Grid Code as amended from time to time.
+The Generating Plant shall give seven (7) days prior intimation of the synchronisation programme to the Nodal Officer:
+(i)
+when commissioning the plant for the first-time,
+(ii)
+when commissioning after completion of the annual maintenance programme.
+12.2
+ABCL/STU/other transmission licensee (delete whichever not applicable) shall not be responsible for the damage, if any,
+caused to the plant and equipment of the Generating Plant due to failure of the synchronising or the protective system
+provided by the Generating Plant.
+13. Liaison With & Assistance From Abcl
+The Generating Plant shall closely liaise with the Nodal Officer of ABCL and the STU and shall inform the date of
+commencement of delivery of power to the designated officials of ABCL and STU one month in advance and also
+arrange for testing and commissioning of the protection system at least 15 days in advance. If requested by the
+Generating Plant, ABCL, in consultation with STU as the case may be, shall extend assistance for testing, subject to the
+condition that the Generating Plant shall pay the charges for such assistance to ABCL, if so indicated by the concerned
+Testing Division of ABCL. This charge shall be reasonable and be based on the manhours devoted by ABCL staff and
+their usual levels of remuneration, and ABCL equipment used. (Applicable to Cogen & other NCE Plants Only)
+Or
+This point is intentionally left blank for inclusion of site specific provisions.
+14. Metering
+14.1
+The Generating Plant shall supply two identical sets of ABT compliant meters, with the facility for downloading data to
+measure the quantity and time details of the power exported from and imported by the Generating Plant, conforming to
+the specifications approved by ABCL/STU, along with all necessary associated equipments. These meters shall be
+Page 42/57
+----- PAGE 43 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+installed and maintained by ABCL/STU/other transmission licensee (delete whichever not applicable). These meters
+shall be installed at the grid sub-station of ABCL/STU/other transmission licensee (as the case may be) at the
+inter-connection point. One set of export/import meters shall be termed as Bill Meter and other set will serve as the
+Check Meter. The complete metering system consisting of meters, Current Transformers & Potential Transformers shall
+conform to the 0.2 accuracy class, individually and collectively, and shall comply with the technical standards, accuracy
+and calibration requirements of the Indian Electricity Rules and the specifications of the Bureau of Indian Standard and
+the guidelines of CEA for installation of meters.
+14.2
+The joint meter readings shall be recorded in the format given in Annexure-V & VI.
+14.3
+The Meter/Metering system shall be properly sealed and made pilfer proof, to the satisfaction of both parties.
+14.4
+ABCL (in consultation with STU if the generating plant is connected to the sub-station of STU/other transmission
+licensee) shall, test all the metering equipment for accuracy, in the presence of a representative of the Generating Plant,
+if the Generating Plant so elects, at least once every year while the agreement is in force. Either party may, however,
+elect to get the meters tested at any time they so desire, at their own cost, in the presence of the other party.
+14.5
+ABCL/STU's designated representative and the representative of the Generating Plant shall jointly certify the meter test
+results. After every testing all metering equipment and the metering system shall be securely sealed jointly by the
+representatives of ABCL and the Generating Plant.
+14.6
+The reading and testing of meters and associated equipment shall be in accordance with accepted good engineering
+practices in the electricity industry.
+14.7
+Calibration, inspection and testing of meters and the associated equipment shall be the responsibility of ABCL, who shall
+bear the related costs.
+14.8
+Meter readings shall be taken jointly by parties as indicated below :-
+(i)
+ABCL side -....................................... (Designation of Authorised Official)
+(ii)
+Generating Plant side - Authorised representative of the Generating Plant.
+14.9
+The reading of the Bill Meter shall form the basis for the energy account, provided that the magnitude (i.e. absolute
+value) of the difference between the Check and Bill Meter reading is within one percent of the Bill Meter reading.
+14.10
+If in any month the readings of the Bill Meter and Check Meter are found to be doubtful or beyond the permissible 1%
+deviation indicated above, both sets of meters shall be checked and calibrated in the presence of authorised
+representatives of both the parties. Corrections shall be made, if required, on the basis of the error detected during this
+process, in the Monthly Bill for the period between the previous meter readings and the date and time from which
+accurate readings become available through replacement or re-calibration. These corrections shall be full and final for
+the Bill of that month.
+14.11
+During the period of checking and calibration of both meters simultaneously another export and import meter duly
+calibrated would be installed by ABCL (in consultation with STU if the plant is connected to the s/s of STU/other
+transmission licensee). For this purpose, one spare set of meters would be required to be available with the generating
+plant at all times.
+14.12
+If the Bill Meter is found to be defective, and the Check meter is found to be accurate then the reading from the latter
+shall be used for billing purpose and the Bill meters would be re-calibrated and re-installed or replaced by duly tested
+and calibrated meters, as necessary. Where error in the Check Meter is indicated beyond permissible limit but there is
+Page 43/57
+----- PAGE 44 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+no error in the Bill Meter, monthly energy account would be prepared on the basis of the Bill Meter reading and the
+Check Meter shall be immediately re-calibrated and re-installed or replaced as necessary. If both meters are found to be
+defective, then the Bill will be revised on the basis of the inaccuracy discovered in the testing. The M.R.I. output from the
+meters shall be considered an authentic document for verification.
+14.13
+Metering at generating terminal of each unit of the generating plant shall be ensured as per the guidelines of the Central
+Electricity Authority.
+15. Acceptance And Approval Of Abcl
+ABCL's acceptance or approval for equipment, additions or changes to equipment, and their operational setting etc.,
+would be required. Such acceptance/approval shall not be unreasonably withheld and shall be based on ABCL's existing
+policies and practices after the clearance of STU (only in case the generating plant is connected to the s/s of STU/other
+transmission licensee) is obtained.
+16. Commissioning Of Generation Facilities
+The Generating Plant shall commission the generation facility and synchronise it with ABCL's/STU system (as the case
+may be) grid by...............
+In case, the plant is commissioned beyond the said dates of commissioning, the tariff applicable for sale of electricity
+from the plant to ABCL shall be the rate corresponding to the year in which the Commissioning of the plant was agreed
+to as above in case of delay. However, in the case of delay in Commissioning of the plant for reasons beyond the
+reasonable control of the generating company, the provisions of para 26 of the Agreement shall apply.
+17. Continuity Of Service
+17.1
+The supply of electricity by the Generating Plant shall be governed by instructions from the state load despatch centre,
+as per the provisions of the U.P. Electricity Grid Code as amended from time to time. However, ABCL/STU/other
+transmission licensee (as the case may be) may require the Generating Plant to temporarily curtail or interrupt deliveries
+of power only when necessary in the following circumstances :-
+(1)
+Repair and/or Replacement and/or Removal of ABCL's/STU/other transmission licensee (as the case may be)
+equipment or any part of its system that is associated with the Generating Plant's facility; and/or
+(2)
+Endangerment of Safety: If ABCL/STU/other transmission licensee (as the case may be) determines that the continued
+operation of the facility may endanger the safety of ABCL's/STU/other transmission licensee (as the case may be)
+personnel or integrity of ABCL's/STU/other transmission licensee (as the case may be) electric system, or have an
+adverse effect on the provision of electricity to ABCL/STU/other transmission licensee's (as the case may be) other
+consumers/customers; and/or
+(3)
+Force Majeure conditions as defined in para 26.
+Note. - Any necessary inspection, investigation or maintenance of ABCL/STU/other transmission licensee's (as the case
+may be) equipment or any part of its system that is associated with the Generating Plant's facility shall be planned by
+ABCL/STU/other transmission licensee (as the case may be) to coincide with the scheduled outage of the Generating
+Plant's generation system;
+17.2
+Before disconnecting the Generating Plant from ABCL/STU/other transmission licensee's (delete whichever not
+applicable) system, ABCL shall, except in the case of an emergent situation, give advance intimation to the Generating
+Plant through telephone/wireless or through other means of communication along with reasons for disconnection, and
+the likely period of the disconnection. However, subsequent to disconnection, ABCL/STU/other transmission licensee
+(delete whichever not applicable) shall immediately notify the Generating Plant by telephone and confirm in writing the
+reasons for, and the likely period of, disconnection. During the period so notified ABCL shall not be obligated to accept
+or pay for any power from the Generating Plant.
+17.3
+In any such event as described above, ABCL/STU/other transmission licensee (delete whichever not applicable) shall
+take all reasonable steps to minimise the frequency and duration of such interruptions, curtailments, or reductions.
+Page 44/57
+----- PAGE 45 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+17.4
+ABCL/STU/other transmission licensee (delete whichever not applicable) shall avoid scheduling any event described in
+17.1 above, to the extent reasonably practical, during the Generating Plant's operations. Where the scheduling of such
+an event during the Generating Plant's operations cannot be avoided, ABCL/STU/other transmission licensee (delete
+whichever not applicable) shall provide the Generating Plant with fifteen days advance notice in writing to enable the
+Generating Plant to cease delivery of Power to ABCL at the scheduled time.
+17.5
+In order to allow the Generating Plant's facility to remain on-line and to minimise interruptions to Generating Plant
+operations, the Generating Plant may provide automatic equipment that will isolate the Generating Plant's facility from
+ABCL/STU's (as the case may be) system during major system disturbances.
+18. Daily/monthly/annual Report
+The Generating Plant shall submit daily/monthly/annual and other reports on the format, and as per the procedure,
+specified in the UP Electricity Grid Code as amended from time to time and under the CNCE Regulations or as desired
+by the STU other transmission licensee (delete whichever not applicable) and ABCL.
+The Generating Plant shall submit six monthly progress report during the construction of the plant to the distribution
+licensee. A completion report shall be filed by with the Commission within 60 days of commissioning of the plant.
+19. Clearances, Permits And Licenses
+The Generating Plant shall obtain, at its own expense, all authorisations, permits, and licences required for the
+construction, installation and operation of the Generating Plant's facilities and any interconnection facilities, including but
+not limited to, rights-of-way or casements. ABCL shall provide reasonable assistance, including permissions, approvals
+and clearances from STU, to the Generating Plant if so requested by the Generating Plant.
+20. Duration
+20.1
+Unless terminated by default, this agreement shall be valid till the expiry of 20 years from the date of commissioning of
+the plant.
+20.2
+The agreement may be renewed or extended for such period as may be mutually agreed between the Generating
+Company and ABCL on expiry of initial term of 20 years.
+21. Events Of Default And Termination
+21.1
+The occurrence of any of the following events at any time during the term of this agreement shall constitute a default by
+the Generating Plant:
+(a)
+Failure on the part of the Generating Plant to use reasonable diligence in operating, maintaining, or repairing the
+Generating Plant's facility, such that the safety of persons and property, ABCL's equipment, or ABCL's service to others
+is adversely affected; or
+(b)
+Failure or refusal by the Generating Plant to perform its material obligations under this agreement; or
+(c)
+Abandonment of its interconnection facilities by the Generating Plant or the discontinuance by the Generating Plant of
+services covered under this agreement, unless such discontinuance is caused by force majeure, or an event of default
+by ABCL, or
+(d)
+Failure by the Generating Plant to abide by all statutory provisions, rules, regulations, directions and conditions for
+installation, operation and supply of power and maintenance of co-generation units etc., enforced from time to time by
+the Union/State Government, UPERC or other empowered authorities, including compliance with the UP Electricity Grid
+Code or as amended from time to time, or
+(e)
+Failure by the Generating Plant to pay ABCL any amount payable and due under this agreement within ninety (90)
+working days of the demand being raised.
+21.2
+Page 45/57
+----- PAGE 46 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+The occurrence of any of the following at any time during the term of this agreement shall constitute a default by ABCL :-
+(a)
+Failure to pay to the Generating Plant any amount payable and due under this agreement within ninety (90) working
+days of the receipt of the bill/monthly purchase bill; or
+(b)
+Failure to use reasonable diligence in operating, maintaining, or repairing ABCL's interconnecting facilities, such that the
+safety of persons or property in general, or the Generating Plants equipment or personnel arc adversely affected; or
+(c)
+Failure or refusal by ABCL to perform its material obligations under this agreement; or
+(d)
+Abandonment of its interconnection facilities by ABCL or the discontinuance by ABCL of services covered under this
+agreement, unless such discontinuance is caused by force majeure or an event of default by the Generating Plant.
+(e)
+Except for failure to make any payment due, within ninety (90) working days of receipt of the monthly purchase bill, if an
+event of default by including non-payment of bills either party extends beyond a period of ninety (90) working days after
+receipt of written notice of such event of default from the non-defaulting party, then the non-defaulting party may, at its
+option, terminate this agreement by delivering written notice of such termination to the party in default.
+(f)
+Failure by either ABCL or the Generating Plant to exercise any of its rights under this agreement shall not constitute a
+waiver of such rights. Neither party' shall be deemed to have waived the performance of any obligation by the other
+party under this agreement, unless such a waiver has specifically been made in writing and approved by the UPERC.
+21.3
+ABCL reserves the right to terminate this agreement upon one months notice to the Generating Plant, if the Generating
+Plant's facility fails to commence production of electric power within three months from the planned commercial
+operation date shown in Annexure-1.
+22. Communication
+In order to have effective co-ordination between ABCL and the Generating Plant, a designated official shall be kept on
+duty round the clock by the Generating Plant and ABCL in their respective premises, with information to each other
+about the name, location, telephone number etc., of the official. Without prejudice to discharge of their rightful duties by
+others, this duty official shall take necessary action on receiving information about developments from the other party.
+The Generating Plant shall provide reliable and effective communication through wireless/hotline etc., between the
+Generating Plant & the interconnecting sub-station of ABCL/STU/other transmission licensee (delete whichever not
+applicable) and between the Generating Plant and the SLDC. The Generating Plant shall make provision for an RTU for
+remote monitoring of voltage, current and other related electrical parameters, as may be required by the STU.
+23. Disputes And Arbitration
+In the event of any dispute or difference between the parties concerning performance of this agreement and/or the rights
+and liabilities of the parties in respect of which a procedure for the resolution is not otherwise provided for in this
+agreement the following provisions shall apply:
+(a)
+......................................(Designation of Authorised Official) on behalf of ABCL, and the authorised representative of the
+Generating Plant would be empowered to indicate explicitly the nature and material particulars of the
+dispute/dissatisfaction and the relief sought, and serve notice thereof on the other, with copy to the
+ABCL's................................ (Designation of Senior Official of ABCL) of the circle under whose jurisdiction the
+Generating Plants/plant is located.
+(b)
+On receiving such information, the............................................ (Designation of Senior Official of ABCL) of the Circle of
+ABCL in which the Generating Plant is located, shall be required to personally meet the authorised representative of the
+Generating Plant and the ................... ...................(Designation of ABCL's Official) Executive Engineer of the concerned
+Division, at his own office, separately and/or together, within 15 (Fifteen) days of the date of receipt of such notice, and
+attempt in good faith to resolve the dispute to the mutual satisfaction of the two parties, within the stipulations dictated by
+the letter and spirit of the agreement.
+Page 46/57
+----- PAGE 47 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+(c)
+If the dispute is not resolved by way of a settlement being arrived at and duly signed by each of the above officers within
+(30) thirty days of the date of receipt of the notice described in clause (a) above, the matter may be referred by cither or
+both the above designated officers of the two parties to the ABCL's............................................(Designation of Senior
+Official of ABCL), who has direct supervisory jurisdiction over the .............................(Designation of Senior Official of
+ABCL) referred to above, with information to the Chief Executive of the Generating Plant. Within 15 days of receipt of
+such notice, the .................... ...........(Designation of Senior Official of ABCL) and the Chief Executive of the Generating
+Plant would be required to meet at the former's office and endeavour to settle the dispute within a further period of (30)
+thirty days. i.e. within a total period of 45 (forty five) days from the initial date of receipt of the notice by
+the......................................(Designation of Senior Official of ABCL).
+(d)
+If the said dispute/dissatisfaction remains unresolved, cither party can file a petition before UPERC, whose decision will
+be final and binding on both the parties. UPERC shall be empowered to determine the exact nature and modalities of
+the procedure to be adopted in resolving the matter.
+24. Indemnification
+24.1
+The Generating Plant shall indemnify, defend, and render harm free, ABCL, its Members, Directors, Officers, Employees
+and Agents, and their respective heirs, successors, legal representatives and assignees, from and against any and all
+liabilities, damages, costs, expenses (including attorneys fees), losses, claims, demands, action, causes of action, suits,
+and proceedings of every kind, including those for damage to property of any person or entity (including the Generating
+Plant) and/or for injury to or death of any person (including the Generating Plant's employees and agents), which directly
+or indirectly result from or arise out of or in connection with negligence or wilful misconduct of the Generating Plant.
+24.2
+ABCL shall indemnify and render the Generating Plant, its Directors, Officers, Employees and Agents, and their
+respective heirs, successors, legal representatives and assignees harmless from and against any and all liabilities,
+damages, costs, expenses (including outside attorneys fees), losses, claims, demands, actions, causes of action, suits
+and proceedings of every kind, including those for damage to the property of any person or entity (including ABCL)
+and/or injury to or death of any person (including ABCL's employees and agents), which directly or indirectly result from
+or arise out of or in connection with negligence or wilful misconduct by ABCL.
+25. Assignment
+This agreement may not be assigned by cither ABCL or the Generating Plant without the consent in writing of the other
+party, except that either party may assign its rights under this agreement, or transfer such rights by operation of law, to
+any corporation with which or into which such party shall merge or consolidate or to which such party shall transfer all or
+substantially all of its assets; provided that such assignee or transferee shall expressly assume, in writing, delivered to
+the other party to this Agreement, all the obligations of the assigning or transferring party under this Agreement.
+26. Force Majeure
+26.1
+If any party hereto is wholly or partially prevented from performing any of its obligations under this agreement by reason
+of or due to lightning, earthquake, riots, fire, floods, invasion, insurrection, rebellion, mutiny, tidal wave, civil unrest,
+epidemics, explosion, the order of any Court, judge or civil authority, change in State or National law, war, any act of
+God or a public enemy, or any other similar or dissimilar cause reasonably beyond its exclusive control and not
+attributable to its neglect, then in any such event, such party shall be excused from whatever performance is prevented
+by such event, to the extent so prevented, and such party shall not be liable for any damage, sanction or loss for not
+performing such obligations.
+26.2
+The party invoking this clause shall satisfy the other party of the occurrence of such an event and give written notice
+explaining the circumstances, within seven days to the other party and take all possible steps to revert to normal
+conditions at the earliest.
+26.3
+Any payments that become/have become due under this agreement shall not be withheld, on grounds of force majeure
+conditions developing.
+Page 47/57
+----- PAGE 48 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+27. Authority To Execute
+Each respective party represents and warrants as follows :-
+(a)
+Each party has all necessary rights, powers and authority to execute, deliver and perform this agreement.
+(b)
+The execution, delivery and performance of this agreement by each respective party shall not result in a violation of any
+law or result in a breach of any Government Authority, or conflict with, or result in a breach of, or cause a default under,
+any agreement or instrument to which either respective party is a party or by which it is bound.
+(c)
+No consent of any person or entity not a party to this agreement, including any Governmental Authority, is required for
+such execution, delivery and performance by each respective party. All necessary consents have been cither obtained
+or shall be obtained in the future as and when they become due.
+28. Liability And Dedication
+28.1
+Nothing in this agreement shall create any duty, standard of care, or liability to be discharged by any person not a party'
+to it.
+28.2
+No undertaking by one party to the other under any provision of this agreement shall constitute the dedication of that
+party's system or any portion thereof to the other party or to the public; or affect the status of ABCL as a public utility or
+constitute the Generating Plant or the Generating Plant's facility as a public utility.
+29. Nodal Agency Of Abcl
+The.......................(Designation of Senior Official of ABCL) shall act as a nodal agency for implementing this agreement.
+30. Amendments
+Any waiver, alteration, amendment or modification of this agreement or any part hereof shall not be valid unless it is in
+writing, signed by both the parties and approved by UPERC.
+31. Binding Effect
+This agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors,
+legal representatives, and permitted assignees.
+32. Notices
+Any written notice provided hereunder shall be delivered personally or sent by registered post, acknowledgement due,
+or by courier for delivery on written receipt, with pre-paid postage or courier charges, to the other party, at the following
+address:
+THE .........................., (Designation of Senior Official of ABCL)
+ABCL:
+-----------
+-----------
+Generating Plant
+-----------
+-----------
+Notice delivered personally shall be deemed to have been given when it is delivered at the the case may be, at address
+set forth above and actually delivered to such person or left with and received by a responsible person in that office.
+Notice sent by post or courier shall be deemed to have been given on the date of actual delivery as evidenced by the
+date appearing on the acknowledgement of delivery.
+Any party to this agreement may change its address for serving a written notice, by giving written notice of such change
+to the other party.
+33. Effect Of Section And Annexure Headings
+The headings or titles of the various sections and annexures hereof are for convenient reference and shall not affect the
+construction or interpretation of any provision of this agreement.
+34. Non-Waiver
+No delay or forbearance by either party in the exercise of any remedy or right will constitute a waiver thereof, and the
+exercise or partial exercise of a remedy or right shall not preclude further exercise of the same or any other remedy or
+Page 48/57
+----- PAGE 49 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+rights.
+35. Relationship Of The Parties
+Nothing in this agreement shall be deemed to constitute either party hereto as partner, agent or representative of the
+other party or create any fiduciary relationship between the parties.
+36. Entire Agreement
+This agreement constitutes the entire understanding and agreement between the parties
+37. Governing Law
+This agreement shall be governed by and construed in accordance with the laws applicable in the State of Uttar Pradesh
+38. No Party Deemed Drafter
+The parties agree that no party shall be deemed to be the drafter of this agreement and that in the event this agreement
+is ever construed by arbitrators, or by a court of law, no inference shall be drawn against either party on account of this
+agreement or any provision hereof being drafted by them. ABCL and the Generating Plant acknowledge that both
+parties have contributed substantially and materially to the preparation of this Agreement.
+39. Approvals
+Wherever approvals from either ABCL or the Generating Plant are required in this Agreement, it is understood that such
+approvals shall not be unreasonably withheld.
+40. Annexures
+Annexures-I to IX Would Form Part Of This Agreement.
+41. Standard For Decision Making
+41.1
+All operational decisions or approvals that are to be made at the discretion of either ABCL or the Generating Plant,
+pursuant to the terms of this agreement, including specifications and design criteria etc., shall be made or performed
+according to good engineering practices prevailing in the electricity industry.
+41.2
+Professional decisions or activities undertaken by either party for the purpose of constructing, installing, removing,
+maintaining or operating any facility, which may affect the operations of the other party's facility or facilities, shall be
+made or performed according to good engineering practices prevailing in the electricity industry.
+IN WITNESS.
+WHEREOF, ABCL and the Generating Plant have executed this agreement as of the........ Day of....... in the year............
+FOR THE GENERATING PLANT:
+FOR ABCL:
+NAME:
+NAME:
+DESIGNATION:
+DESIGNATION:
+ADDRESS:
+ADDRESS:
+WITNESSED BY:
+WITNESSED BY:
+NAME:
+NAME:
+DESIGNATION:
+DESIGNATION:
+ADDRESS:
+ADDRESS:
+Annexure I
+The Generating Company's Generation Facilities
+1. The Generating Plant:
+(a)
+NAME:
+(b)
+Page 49/57
+----- PAGE 50 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+LOCATION:
+(c)
+CHIEF EXECUTIVE:
+(d)
+CONTACT PERSON:
+(e)
+MAILING ADDRESS:
+(f)
+TELEPHONE NUMBER:
+(g)
+FAX NUMBER:
+(h)
+EMERGENCY TELEPHONE NUMBER :
+2. Generating Equipment:
+(a)
+BOILERS:
+(b)
+TURBO-GENERATOR SETS:
+(c)
+GENERATION VOLTAGE:
+(d)
+SPEED:
+(e)
+TYPE OF GOVERNOR.
+(b)
+TRANSFORMER:
+FIRST SYNCHRONISATION WITH ______KV LINE (INITIAL OPERATION DATE):
+Transmission Line:.........KV line connecting with......KV Sub-station of ABCL/STU/other transmission licensee (delete
+whichever not applicable) COMMERCIAL OPERATION DATE:
+3. Stipulations relating to the facilities:
+3.1
+For the purpose of this agreement the Generating Plant's facility includes all real estate, fixtures, and property owned,
+controlled, operated or managed by the Generating Plant in connection with or to facilitate generation, transmission,
+delivery, or furnishing of electricity or required to interconnect and deliver the electricity to ABCL's system.
+(Explanation. - A single-line diagram relay list and trip scheme of the Generating Plant's facility, reviewed and accepted
+by ABCL at the time the Agreement is signed, shall be attached to this agreement and made part hereof. The single-line
+diagram, relay list, and trip scheme shall expressly identify the point of electrical interconnection of the Generating
+Plant's facility to ABCL/STU/other transmission licensee's (delete whichever not applicable) system. Material changes or
+additions to the Generating Plant's generating and interconnection facilities reflected in the single-line diagram, relay list,
+and trip scheme shall be approved by ABCL.)
+3.2
+The Generating Plant shall furnish, install, operate and maintain facilities such as breakers, relays, switches,
+synchronising equipment, monitoring equipment, and control and protective devices as suitable for parallel operation
+with ABCL/STU/other transmission licensee's (delete whichever not applicable) system and acceptable to ABCL. Such
+facilities shall be accessible to authorised ABCL personnel for inspection, with prior intimation to the Generating Plant
+3.3
+The Generating Plant shall furnish, in accordance with ABCL/STU/other transmission licensee's (delete whichever not
+applicable) requirements, all conductors, service switches, fuses, meter sockets, meter and instrument transformer
+housings and mountings, switches, meter buses, meter panels, and similar devices required for the service connection
+and meter installation at ABCL/STU/other transmission licensee's (delete whichever not applicable) premises. This
+equipment shall be installed and commissioned by ABCL/STU/other transmission licensee (delete whichever not
+Page 50/57
+----- PAGE 51 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+applicable)
+3.4
+ABCL shall review and approve the design drawings and Bill of Material for the Generating Plant's electrical equipment,
+required to interconnect with ABCL/STU/other transmission licensee's (delete whichever not applicable) system. The
+type of electrical equipment, the type of protective relaying equipment and the settings affecting the reliability and safety
+of operation of ABCL/STU/other transmission licensee's (delete whichever not applicable) and the Generating Plant's
+interconnected system shall be approved by ABCL. ABCL, at its option, may request witnessing operation of the control,
+synchronising, and protection schemes.
+3.5
+The Generating Plant shall provide a manual isolating device, which provides a visible break to separate the Generating
+Plant's facilities from ABCL/STU/other transmission licensee's (delete whichever not applicable) system. Such a
+disconnecting device shall be lockable in the OPEN position and be readily accessible to ABCL/STU/other transmission
+licensee (delete whichever not applicable) personnel at all times.
+4. Operating Procedures:
+4.1
+The Generating Plant shall operate its plant when interconnected with the grid as per the procedure given in the UP
+Electricity Grid Code as amended from time to time. The overall responsibility of operation and implementation of the UP
+Electricity Grid Code rests with the State Load Despatch Centre and the State Transmission Utility under the provisions
+of the Act, 2003.
+4.2
+The Generating Plant's normal annual Maintenance shall be carried out from............to.............
+4.3
+The Generating Plant shall notify ABCL/STU/other transmission licensee's (delete whichever not applicable)
+interconnecting sub-station and SLDC prior to synchronising a generator on to or taking a generator off of the system.
+Such notification should be as far in advance as reasonably possible under the circumstances causing the action.
+5. Single Line Diagram
+Annexure-II
+Sale And Accounting For Power
+1. In case the Generating Plant is not a consumer of ABCL, protective gear at ABCL/STU's (as the case may be)
+sub-station would be designed to ensure that reverse flow' of power from ABCL's system to the Generating Plant is
+totally blocked out and the circuit breaker at the sub-station gets opened automatically when required. However,
+notwithstanding this provision, if any export to the Generating Plant takes place, it would be paid for by the Generating
+Plant in accordance with the terms of this agreement.
+2. On the first day of the Energy Account Month, the Generating Plant shall provide information in writing or Generation
+Schedule to SLDC and M/s ABCL, when ABT is implemented in the state about the quantity of power to be wheeled by
+way of purchase or sale or banking, as the case may be, during the month.
+3. ABCL will purchase electricity based on the principle of merit order despatch and in accordance with provisions of the
+Supply Licence, CNCE Regulations & Directions of UPERC and other statutory authorities, and requirements of the
+State Load Despatch Centre. (Applicable to Captive Generating Plants Only)
+or
+The purchase of electricity by ABCL shall be subject to the provisions of the Distribution Licence, CNCE Regulations &
+Directions of UPERC and other statutory authorities, and requirements of the State Load Despatch Centre. (Applicable
+to Cogeneration & NCE Plants)
+4. Power accounting and billing would be done on the basis of the section titled "Metering" in the main agreement
+(Clause No. 14.0)
+Annexure-III
+Sample Monthly Bill
+Invoice
+Date :
+For the Month of:
+Monthly Purchase Bill No.
+Page 51/57
+----- PAGE 52 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Name of Buyer: ABCL
+Name of the Generating Plant.
+Address:
+Address:
+Town:
+Town:
+District:
+District:
+PIN Code:
+PIN Code:
+Tel. No.:
+Tel. No.:
+Fax:
+Fax:
+DESCRIPTION
+QUANTITY
+UNIT PRICE
+AMOUNT
+1. ENERGY SUPPLIED (KWh)
+2. ENERGY FOR WHEELING (KWh)
+3. ENERGY FOR PAYMENT (KWh) (1-2)
+Banked Energy
+1. Energy banked during the month
+2. Energy balance as on preceding month
+3. Energy scheduled for withdrawal during the month
+4. Banking charges
+5. Energy withdrawn during the month (3-4)
+6. Energy banked at the end of the month (1 +2-3)
+Other Charges
+Less/Add:
+SUBTOTAL :
+TOTAL DUE :
+Verified by:
+For Generating Plant Ltd.
+For ABCL
+Authorised Signatory
+Authority Signatory
+Annexure-IV
+Interconnection Facilities Provided By The Generating Plant
+ITEMSPROVIDED
+NOTPROVIDED
+LINE BAY/S
+(a)
+STRUCTURES
+(b)
+BUS BARS, CLAMPS AND CONNECTORS
+(c)
+GROUNDING GRID
+(d)
+ISOLATORS
+(e)
+Page 52/57
+----- PAGE 53 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+CURRENT TRANSFORMERS
+(f)
+CIRCUIT BREAKERS
+(g)
+CONTROL CUBICLES
+(h)
+CONTROL CABLING
+(i)
+AC/DC POWER SUPPLY
+(j)
+COMMUNICATION EQUIPMENT
+(k)
+SYNCHRONISATION & PROTECTION FACILITIES
+(l)
+AUTOMATIC VOLTAGE REGULATOR
+(m)
+AUTO SYNCHRONISATION UNIT
+(n)
+CHECK SYNCHRONISATION RELAY
+Protection For Internal Faults:
+(a)
+DIFFERENTIAL GENERATOR
+(b)
+DIFFERENTIAL UNIT TRANSFORMER
+(c)
+RESTRICTED EARTH FAULT
+(d)
+STATOR EARTH FAULT
+(e)
+ROTOR EARTH FAULT
+(f)
+INTER-TURN FAULT
+(g)
+OVER VOLTAGE
+(h)
+LOSS OF EXCITATION
+(i)
+UNDER VOLTAGE
+(j)
+REVERSE POWER
+(k)
+LOW FORWARD POWER RELAY
+Protection Against Grid Faults:
+(a)
+MINIMUM IMPEDANCE (DISTANCE PROTECTION RELAY)
+(b)
+UNBALANCE (NEGATIVE PHASE SEQUENCE)
+(c)
+O/C & E/F (UNIT TRANSFORMER)-LT & HT
+ITEMS
+ITEMS
+Page 53/57
+----- PAGE 54 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+PROVIDED
+NOT
+PROVIDED
+(a)
+OVERLOAD ALARM
+(b)
+OVERFLUXING RELAY
+PROTECTION AGAINST GRID DISTURBANCES:
+(a)
+UNDER FREQUENCY
+(b)
+OVER FREQUENCY
+(c)
+POLE SLIP
+Annexure-V
+Bill Meter Readings Of Generating Plant
+READING SHOULD BE TAKEN ON 1st WORKING DAY OF EVERY MONTH, AT 12.00 NOON.
+NAME OF THE GENERATING PLANT:
+PLACE:
+TALUKA:
+DISTRICT:
+STATE:
+C.T. RATIO AVAILABLE/CONNECTED:
+P.T. RATIO AVAILABLE/CONNECTED:
+SCALE FACTOR (IF ANY):
+MULTIPLYING FACTOR (MF):
+BILLING METER MAKE/NUMBER:
+METER READINGS:KWH
+EXPORT METERREADING
+IMPORT METERREADING
+PREVIOUS READING
+CURRENT READING
+DIFFERENCE
+DIFFERENCE X MULTIPLYING
+FACTOR
+Authorised Signatory
+Authorised Signatory
+Authorised Signatory
+EXECUTIVE ENGINEERTRANSMISSION
+EXECUTIVE ENGINEERABCL
+AUTHORISED REPRESENTATIVEGENERATING
+PLANT
+DATE:
+Notes -
+1. ABCL/STU/other transmission licensee (delete whichever not applicable) shall maintain a daily logbook to record
+hourly readings of the Bill Meter/HT Meter.
+2. The Generating Plant shall maintain a daily log to record the hourly generation and supply in KWh, along with the
+schedule given by ABCL's Despatcher.
+3. If the meter is changed, the reason/s, date, time of meter change and new meter make and number must be recorded
+by both parties.
+Annexure-VI
+Page 54/57
+----- PAGE 55 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Check Meter Readings Of Generating Plant
+READING SHOULD BE TAKEN ON 1st WORKING DAY OF EVERY MONTH, AT 12.00 NOON.
+NAME OF THE GENERATING PLANT:
+PLACE:
+TALUKA:
+DISTRICT:
+STATE:
+C.T. RATIO AVAILABLE/CONNECTED:
+P.T. RATIO AVAILABLE/CONNECTED:
+SCALE FACTOR (IF ANY):
+MULTIPLYING FACTOR (MF):
+CHECK METER MAKE/NUMBER:
+METER READINGS:KWH
+EXPORT METERREADING
+IMPORT METERREADING
+PREVIOUS READING
+CURRENT READING
+DIFFERENCE
+DIFFERENCE X MULTIPLYING
+FACTOR
+Authorised Signatory
+Authorised Signatory
+Authorised Signatory
+EXECUTIVE ENGINEERTRANSMISSION
+EXECUTIVE ENGINEERABCL
+AUTHORISED REPRESENTATIVEGENERATING
+PLANT
+DATE:
+Notes :-
+1. ABCL /STU/other transmission licensee (delete whichever not applicable) shall maintain a daily logbook to record
+hourly readings of the Check Meter/HT Meter.
+2. The Generating Plant shall maintain a daily log to record the hourly generation and supply in KWh, along with the
+schedule given by ABCL's despatcher.
+3. If the meter is changed, the reason/s, dale, time of meter change and new meter make and number must be recorded
+by both parties.
+Annexure-VII
+Daily Generation Report
+Date
+NAME OF THE GENERATING PLANT:
+Installed generation capacity (MW):
+Active Power (KWh)
+Time
+Scheduled
+Meter Reading
+Difference x M.F.
+00
+01
+02
+03
+04
+05
+Page 55/57
+----- PAGE 56 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Total (for each
+column)
+Summary of Active Power, KWh
+Time
+Scheduled
+Meter Reading
+Difference x M.F.
+Daily-
+0600-2200
+2200-0600
+Cumulative for Month-
+0600-2200
+2200-0600
+To:
+1. Concerned SLDC, ABCL
+2. Executive Engineer, Transmission, ABCL
+3. Authorised Representative of the Generating Plant
+Annexure-VIII
+Monthly Tripping Report
+Name and Address of the Generating Plant:
+Installed generation Capacity (MW):
+Date of First Commissioning (Synchronising):
+Date of Commercial Operation:
+Date of Synchronising:
+Progressive Days (generation): In Days
+Tripping On Fault:
+Tripping
+Reason for Tripping
+Synchronisation
+Total time lost
+Remarks
+Sl. No.
+Page 56/57
+----- PAGE 57 -----
+The U.P. Electricity Regulatory Commission (Captive and Non-Conventional Energy Generating...
+Date
+Time
+Relay operated
+Mech.
+Electrical
+Other
+Date
+Time
+Hr.
+Min.
+Hr.
+Min.
+Hr.
+Min.
+To:
+1. Concerned SLDC, ABCL
+2. Authorised Person/Executive Engineer, STU /other Transmission Licen-sce/ABCL (as the case may be)
+3. Authorized Representative of the Generating Plant
+Annexure-IX
+Planned & Forced Outage
+Outage
+Reason for Outage
+Synchronisation
+Total time lost
+Remarks
+Sl. No.
+Date
+Time
+No Fuel
+Mech.
+Electrical
+Other
+Date
+Time
+Hr.
+Min.
+Hr.
+Min.
+Hr.
+Min.
+Progressive Days :
+Time Lost (In Hours) :
+• During Month & Year
+• Since First Commissioning
+To:
+1. Concerned SLDC, ABCL
+2. Authorised Person/Executive Engineer, STU/other Transmission Licensee/ABCL (as the case may be)
+3. Authorized Representative of the Generating Plant
+Related AI tags, queries and research notes
+Translation
+Page 57/57

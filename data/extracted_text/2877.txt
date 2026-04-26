@@ -1,0 +1,274 @@
+
+----- PAGE 1 -----
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Ex...
+Use of Very Low Power Radio Frequency Devices or Equipments for
+Inductive Applications (Exemption from Licensing Requirement)
+Rules, 2015
+Source: https://indiankanoon.org/doc/36455029/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Exemption from Licensing
+Requirement) Rules, 2015
+UNION OF INDIA
+India
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Exemption from Licensing
+Requirement) Rules, 2015
+Rule
+USE-OF-VERY-LOW-POWER-RADIO-FREQUENCY-DEVICES-OR-EQUIPMENTS-FOR-INDUCTIVE-APPLICATIONS-
+EXEMPTION-FROM-LICENSING-REQUIREMENT-RULES-2015 of 2015
+Published on 16 September 2015
+Commenced on 16 September 2015
+[This is the version of this document from 16 September 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Exemption from Licensing
+Requirement) Rules, 2015
+Published vide Notification No. G.S.R. 697(E), dated 16.9.2015
+Page 1/6
+----- PAGE 2 -----
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Ex...
+Last Updated 10th October, 2018
+G.S.R. 697(E). - In exercise of the powers conferred by Sections 4 and 7 of the Indian Telegraph Act, 1885 (
+13 of 1885
+) and Sections 4 and 10 of the Indian Wireless Telegraphy Act, 1933 (
+17 of 1933
+), the Central Government hereby makes the following rules, namely: -
+1.
+Short title and commencement.
+(1)
+These rules may be called the Use of Very Low Power Radio Frequency Devices or Equipments for Inductive
+Applications (Exemption from Licensing Requirement) Rules, 2015.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+[ Application.
+[Substituted by Notification No. G.S.R. 996(E), dated 5.10.2018 (w.e.f 16.9.2015).]
+- These rules shall be applicable in the 302 to 435 KHz, 855 to 1050 KHz and 1.89 to 2.31 MHz frequency bands.]
+3.
+[ Definition.
+[Substituted by Notification No. G.S.R. 996(E), dated 5.10.2018 (w.e.f 16.9.2015).]
+- In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Indian Telegraph Act, 1885 (
+13 of 1885
+);
+(b)
+"Authority" means the authority notified by the Central Government under sub-section (2) of section 4 of the Indian
+Telegraph Act, 1885 (
+13 of 1885
+);
+(c)
+words and expressions used in these rules and not defined but defined in the Act and the Indian Wireless Telegraphy
+Act, 1933 (
+17 of 1933
+), shall have the same meanings respectively as assigned to them in those Acts.
+(d)
+"Field Strength" means Electric field strength (dBuv/m) or Magnetic strength (dBuA/m) of the radio signal.]
+4.
+[ Exemption.
+[Substituted by Notification No. G.S.R. 996(E), dated 5.10.2018 (w.e.f 16.9.2015).]
+- Notwithstanding anything contained in any law for the time being in force, no licence shall be required by any person to
+establish, maintain, work, possess or deal in any wireless equipment for the purpose of usage of Very Low Power Radio
+Frequency Devices or Equipments for Inductive Applications (wireless charging etc.) in the 302 to 435 KHz, 855 to 1050
+KHz and 1.89 to 2.31 MHz frequency bands on non-interference, non-protection and shared (non-exclusive) basis, with
+the maximum Field Strength Limits as specified in the Table below, namely : -
+Technical Characteristics
+S.No.
+Frequency Range
+Maximum Field Strength Limits
+1
+302 to 435 KHz
+Page 2/6
+----- PAGE 3 -----
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Ex...
+-15 dBuA/m (H-Field Strength) at 10 metres
+2
+855 to 1050 KHz
+-15 dBuA/m (H-Field Strength) at 10 metres
+3
+1.89 to 2.3 MHz
+-15 dBuA/m (H-Field Strength) at 10 metres
+Provided that wherever specific service license is required from the Central Government, the provisions of these rules
+shall not apply:
+Provided further that wherever the use of this band for airborne devices or applications is required, the
+provisions of these rules shall not apply.]
+5.
+Conditions.
+- The exemptions granted under rule 4 shall be subject to the following conditions, namely: -
+(a)
+the effect of unwanted energy due to one or a combination of emissions, radiations or induction upon reception in a
+radio communication system, manifested by any performance degradation, misinterpretation, or loss of information
+which could be extracted in the absence of such unwanted energy, where any person whom a license has been issued
+under the provisions of Section 4 of the Indian Telegraph Act, 1885 (
+13 of 1885
+); and Section 4 of the Indian Wireless Telegraphy Act, 1933 (
+17 of 1933
+) informs the authority that his licensed system is getting harmful interference from any other radio communication
+system exempted under these rules, then such authority shall call upon the user of such unlicensed wireless equipment
+to take necessary steps to avoid interference by relocating the equipment, reducing the power and using special type of
+antennae; failing which such authority shall recommend discontinuation of such wireless use:
+Provided that, before such discontinuation, a reasonable opportunity to explain the circumstances shall be given to such
+unlicensed user of wireless equipment by such authority.
+(b)
+these very low power Radio Frequency devices or equipments for inductive applications shall be of Equipment type
+approved and designed and constructed in such a manner so that the technical parameters shall conform to the limits
+specified in the Table referred to in rule 4:
+Provided that the application for obtaining equipment type approval shall be made to the Central Government in the
+application format given in Annexure to these rules.
+Annexure
+Application For Equipment Type Approval
+Section-A- Applicant
+1.
+Name of manufacturing agency applying for
+equipment type approval
+:
+2.
+Postal Address of manufacturing Agency
+:
+3.
+Name of Product and
+the product
+Identification (model number etc.)
+:
+Section- B- Details of Transmitter
+1.
+Page 3/6
+----- PAGE 4 -----
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Ex...
+Frequency range
+:
+2.
+No. of preset switchable channels
+:
+3.
+No. of voice /Data/
+TV Channels
+(In case of multi- channel equipment)
+:
+4.
+Tx-Rx channel
+separation
+(In case of Duplex/multi-channel equipment)
+:
+5.
+Adjacent channel
+separation
+(In case of multi-channel equipment)
+:
+6.
+Frequency stability
+:
+7.
+Spurious/ Harmonic radiations
+:
+(i) Carrier
+suppression
+(In case of carrier suppressed systems)
+:
+(ii) Unwanted side
+band suppression
+(In case of SSB systems)
+:
+(iii) 2nd Harmonic radiations
+:
+(iv) 3rd Harmonic radiations
+:
+8.
+Max. Frequency Deviation
+:
+9.
+Mode of Emission
+:
+10.
+Bandwidth of Emission
+:
+11.
+Test Tone Deviation
+:
+12.
+Page 4/6
+----- PAGE 5 -----
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Ex...
+Base band frequency
+(In case of multi-channel equipment)
+:
+13.
+Type of modulation to be required
+:
+14.
+Pre-emphasis
+:
+15.
+Power output
+(At the input of antenna)
+:
+16.
+Any other information
+:
+Section-C- Details of Receivers
+1.
+Frequency range
+:
+2.
+Mode of reception
+:
+3.
+Spurious response of receiver
+:
+4.
+Sensitivity
+:
+5.
+Frequency stability
+:
+6.
+(a) Effective noise temperature
+:
+(b) Threshold input level
+:
+7.
+Intermediate frequency
+:
+8.
+De-emphasis
+:
+9.
+Selectivity
+:
+10.
+Any other particulars
+:
+Signature of the applicant
+Place :
+Page 5/6
+----- PAGE 6 -----
+Use of Very Low Power Radio Frequency Devices or Equipments for Inductive Applications (Ex...
+Date :
+(Note: Separate application should be
+submitted for each type of equipment.)
+Related AI tags, queries and research notes
+Translation
+Page 6/6

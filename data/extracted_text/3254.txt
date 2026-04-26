@@ -1,0 +1,1463 @@
+
+----- PAGE 1 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Joint Electricity Regulatory Commission (Terms and Conditions for
+Tariff determination from Renewable Energy Sources) Regulations,
+2019
+Source: https://indiankanoon.org/doc/138365109/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination from Renewable Energy
+Sources) Regulations, 2019
+UNION OF INDIA
+India
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination from Renewable Energy
+Sources) Regulations, 2019
+Rule
+JOINT-ELECTRICITY-REGULATORY-COMMISSION-TERMS-AND-CONDITIONS-FOR-TARIFF-DETERMINATION-FR
+OM-RENEWABLE-ENERGY-SOURCES-REGULATIONS-2019 of 2019
+Published on 24 July 2019
+Commenced on 24 July 2019
+[This is the version of this document from 24 July 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination from Renewable Energy
+Sources) Regulations, 2019
+Published vide Notification F. No. JERC-25/2019, dated 24.7.2019
+Page 1/28
+----- PAGE 2 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Last Updated 3rd August, 2019
+F. No. JERC-25/2019. - In exercise of the powers conferred under Sub-section (1) of Section 181 read with Clauses
+(zd), (ze) and (zf) of the Electricity Act, 2003 (Act
+No. 36 of 2003
+) (hereinafter referred to as 'the Act'), and all other powers enabling it in this behalf including sub-ordinate legislation,
+rules, statutory orders, resolutions, clarifications issued by the Government in terms of the Act, the Joint Electricity
+Regulatory Commission for the State of Goa and Union Territories (UTs), after previous publication, hereby makes the
+following Regulations, namely:
+1.
+Short Title, Scope, Extent and Commencement.
+- 1.1 These Regulations may be called the Joint Electricity Regulatory Commission (Terms and Conditions for Tariff
+determination from Renewable Energy Sources) Regulations, 2019 [hereinafter referred to as "Renewable Energy Tariff
+Regulations, 2019".
+1.2
+These Regulations shall extend to the State of Goa and the Union Territories of Andaman and Nicobar Islands,
+Chandigarh, Dadra & Nagar Haveli, Daman & Diu, Lakshadweep, and Puducherry.
+1.3
+These Regulations shall come into force from the date of publication in the official gazette.
+2.
+Definitions and Interpretations.
+- 2.1 Words, terms and expressions defined in the Electricity Act, 2003, as amended from time to time and used in the
+Renewable Energy Tariff Regulations, 2019 shall have and carry the same meaning as defined and assigned in the said
+Act.
+2.2
+All other expressions used herein but not specifically defined in the Act or Regulations but defined under any other law
+passed by a competent legislature and applicable to the electricity industry in the State of Goa and UTs shall have the
+meaning assigned to them in such law. Subject to the above, expressions used herein but not specifically defined in the
+Act or any other law passed by a competent legislature shall have the meaning as is generally assigned in the electricity
+industry.
+2.3
+In the interpretation of this Renewable Energy Tariff Regulations, 2019, unless the context otherwise requires:
+(1)
+Words in the singular or plural term, as the case may be, shall also be deemed to include the plural or the singular term,
+respectively;
+(2)
+References to any statutes, Regulations or guidelines shall be construed as including all statutory provisions
+consolidating, amending or replacing such statutes, Regulations or guidelines, as the case may be, referred to;
+(3)
+Terms "include" or "including" shall be deemed to be followed by "without limitation" or "but not limited to" regardless of
+whether such terms are followed by such phrases or words of like import.
+2.4
+In the Renewable Energy Tariff Regulations, 2019, unless it is repugnant to the context:
+(1)
+"Act" means the Electricity Act, 2003 (
+36 of 2003
+) and subsequent amendments thereof;
+(2)
+"Auxiliary energy consumption" or "AUX" in relation to a period in case of a generating station means the quantum of
+energy consumed by auxiliary equipment of the generating station, and transformer losses within the generating station,
+expressed as a percentage of the sum of gross energy generated at the generator terminals of all the units of the
+generating station;
+Page 2/28
+----- PAGE 3 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+(3)
+"Biomass" means wastes produced during agricultural and forestry operations (for example straws and stalks) or
+produced as a by-product of processing operations of agricultural produce (e.g., husks, shells, de-oiled cakes, etc);
+wood produced in dedicated energy plantations or recovered from wild bushes/weeds; and the wood waste produced in
+some industrial operations;
+(4)
+"Biomass gasification" means a process of incomplete combustion of biomass resulting in production of combustible
+gases consisting of a mixture of Carbon monoxide (CO), Hydrogen (H2) and traces of Methane (CH4), which is called
+producer gas;
+(5)
+"Biogas" means a gas created when organic matter like crop residues, sewage and manure breaks down in an
+oxygen-free environment (ferments);
+(6)
+"Capital cost" means the capital cost as defined in Regulations 13, 26, 30, 35, 40, 45, 55, 64 and 70 (of the applicable
+technology);
+(7)
+"Capacity Utilisation Factor (CUF in abbreviation)" means the ratio of actual gross energy generated by the project to the
+equivalent energy output at its rated capacity over the year;
+(8)
+"CERC" or "Central Commission" means the Central Electricity Regulatory Commission;
+(9)
+"Check Meter" means a meter, which shall be connected to the same core of the current transformer (CT) and voltage
+transformer (VT) to which main meter is connected and shall be used for accounting and billing of electricity in case of
+failure of main meter;
+(10)
+"COD" or "Commercial Operation Date" or "Date of commercial operation" means the date on which the generating plant
+is synchronised with the grid system;
+(11)
+"Commission" means the Joint Electricity Regulatory Commission for the State of Goa and Union Territories (except
+Delhi);
+(12)
+"Conduct of Business Regulations" means Joint Electricity Regulatory Commission (Conduct of Business) Regulations,
+2009, as amended from time to time;
+(13)
+"Control Period" means the period during which the norms for determination of tariff specified in these Regulations shall
+remain in force;
+(14)
+"Contracted load" or "Contract demand" means the maximum demand in kW, kVA or HP, agreed to be supplied by the
+Licensee and indicated in the agreement executed between the Licensee and the consumer;
+(15)
+"Distribution Company/ Distribution Licensee (Discom in brief)" means a person granted a Licence under Section 14 (b)
+of the Act authorizing him to operate and maintain a distribution system and supply electricity to the consumers in its
+area of supply
+(16)
+"Energy Purchase Agreement" means an agreement executed between the Distribution Licensee and the Project
+Developer for procurement of power from Renewable Energy Projects in accordance with the provisions of these
+Regulations;
+(17)
+"Existing Renewable Energy Plants", means renewable generating stations, which have achieved COD prior to coming
+into force of these Regulations;
+(18)
+Page 3/28
+----- PAGE 4 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+"Gross Calorific Value" or 'GCV' in relation to a fuel used in generating station means the heat produced in kilocalories
+by complete combustion of one kilogram of solid fuel or one litre of liquid fuel or one standard cubic meter of gaseous
+fuel, as the case may be;
+(19)
+"Gross Station Heat Rate" or 'SHR' means the heat energy input in kilocalories required to generate one kilowatt-hour
+(kWh) of electrical energy at generator terminals of a thermal generating station;
+(20)
+"High Tension (HT)" means a voltage level above 440 Volts;
+(21)
+"Installed capacity" or "IC" means the summation of the name plate capacities of all the units of the generating station or
+the capacity of the generating station (reckoned at the generator terminals), approved by the Commission from time to
+time;
+(22)
+"Inter-connection Point" shall mean interface point of renewable energy generating facility with the transmission system
+or distribution system, as the case may be:
+i. in relation to wind energy projects and solar photovoltaic projects, inter-connection point shall be line isolator on
+outgoing feeder on HV side of the pooling sub-station;
+ii. in relation to small hydro power, biomass power and solar thermal power projects, the interconnection point shall be
+line isolator on outgoing feeder on HV side of generator transformer;
+(23)
+"Island area" means Andaman and Nicobar Islands and Lakshadweep under the jurisdiction of the Commission;
+(24)
+"Licence" means a licence granted under Section 14 of the Act;
+(25)
+"Low Tension (LT)" means the voltage of 230 volts between the phase and neutral or 440 volts between any two phases
+under normal conditions subject to the percentage variation permissible from time to time;
+(26)
+"Mainland area" means all areas other than Island areas falling under the jurisdiction of the Commission;
+(27)
+"Maximum Demand" means the highest load measured in average kVA or kW at the point of supply of a consumer
+during any consecutive period of 30 (thirty) minutes time block or as provided by the Commission, during the billing
+period;
+(28)
+"MNRE" means the Ministry of New and Renewable Energy of the Government of India;
+(29)
+"Municipal Solid Waste" or "MSW" means and includes commercial and residential wastes generated in a municipal or
+notified areas in either solid or semi-solid form excluding industrial hazardous wastes but including treated bio-medical
+wastes;
+(30)
+"Operation and Maintenance expenses" or 'O&M expenses' means the expenditure incurred on operation and
+maintenance of the project, and includes the expenditure on manpower, repairs, spares, consumables, insurance and
+overheads;
+(31)
+"Plant Load Factor or (PLF)" in relation to a generating station for a given period means the total sent out energy
+corresponding to scheduled generation during the period, expressed as a percentage of sent out energy corresponding
+to installed capacity in that period and shall be computed in accordance with the following formula:
+N
+PLF = 10000 x ?SGi/ {N x IC x (l00-AUXn)}%,
+Where,
+IC = Installed Capacity of the generating station or unit in MW,
+SGi = Scheduled Generation in MWh for the ith time block of the period,
+Page 4/28
+----- PAGE 5 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+N = Number of time blocks during the period, and
+AUXn = Normative Auxiliary Energy Consumption as a percentage of gross energy generation;
+(32)
+"Plasma Gasification" is a non-combustion, non-thermal (cold) as well as thermal (hot) process using plasma, which
+converts organic and inorganic matter into syngas (synthesis gas primarily made up of Hydrogen and Carbon
+monoxide), Potable water and Green fuel. A plasma is created to ionize gas and convert waste matter into syngas,
+which is channelized to generate power through Brayton Heat Cycle.
+(33)
+"Project" means a generating station or the evacuation system up to inter-connection point, as the case may be, and in
+case of a small hydro generating station includes all components of generating facility such as dam, intake water
+conductor system, power generating station and generating units of the scheme, as apportioned to power generation;
+(34)
+"Refuse derived fuel" or "RDF" means segregated combustible fraction of solid waste other than chlorinated plastics in
+the form of pellets or fluff produced by drying, de-stoning, shredding, dehydrating, and compacting combustible
+components of municipal solid waste that can be used as fuel;
+(35)
+"Renewable Energy" or "RE" means the grid quality electricity generated from renewable energy sources;
+(36)
+"Renewable Energy Power Plants" means the power plants other than the conventional power plants generating grid
+quality electricity from renewable energy sources;
+(37)
+"Renewable Energy Sources" means renewable sources such as small hydro, wind, solar including its integration with
+combined cycle, biomass, bio fuel cogeneration, urban or municipal waste and other such sources as approved by the
+MNRE;
+(38)
+"Small Hydro" means Hydro Power projects with a station capacity up to and including 25 MW;
+(39)
+"Solar PV power" means the Solar Photo Voltaic power project that uses sunlight for direct conversion into electricity
+through Photo Voltaic;
+(40)
+"Solar Thermal power" means the Solar Thermal power project that uses sunlight for direct conversion into electricity
+through Concentrated Solar Power technology based on either line focus or point focus principle;
+(41)
+"Tariff period" means the period for which tariff is to be determined by the Commission on the basis of norms specified
+under these Regulations;
+(42)
+"Tariff Order" in respect of a Licensee means the last order in force issued by the Commission for that Licensee
+indicating the tariff to be charged by the Licensee from various categories of consumers for supply of electricity;
+Explanation. - Any Distribution Licensee, Transmission Licensee and generating Units connected to the distribution
+system and the person availing open access in transmission or distribution system are also included in this term;
+(43)
+"Tidal Power" means the Tidal power projects, which use the energy obtained from tidal waves to generate electricity;
+(44)
+"Useful Life" in relation to a unit of a generating station including evacuation system shall mean the following duration
+from the date of commercial operation (COD) of such generation facility, namely: -
+(a) Wind energy power project
+25 years
+(b) Biomass power project with Rankine cycle
+technology
+20 years
+(c) Small Hydro Plant
+Page 5/28
+----- PAGE 6 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+35 years
+(d) Municipal Solid Waste (MSW)/ and Refuse
+Derived Fuel (RDF) based power project
+20 years
+(e) Solar PV/Solar thermal power project With or
+without Energy Storage
+25 years
+(f) Hybrid Wind and Solar
+25 years
+(g) Biomass Gasifier based power project
+20 years
+(h) Biogas based power project
+20 years;
+(45)
+"Year" means a financial year.
+2.5
+Save as aforesaid and unless repugnant to the context or if the subject matter otherwise requires, words and
+expressions used in these Regulations and not defined hereunder, but defined in the Act, or other Regulations issued by
+the Commission shall have the meanings assigned to them respectively in the Act or any other Regulations issued by
+the Commission.
+3.
+Scope and Extent of Application.
+- 3.1 These Regulations shall apply in all cases where tariff for power generating station or a unit thereof commissioned
+during the Control Period and based on renewable sources of energy, is to be determined by the Commission under
+Section 62 read with Section 86 of the Act.
+3.2
+Provided that in cases of Wind, Small Hydro project, Biomass power based on Rankine cycle, Solar PV with or without
+energy storage, Solar Thermal power projects, Biomass gasifier, Biogas power project, Municipal Solid Waste, Refuse
+derived fuel-based power projects, Cold Plasma Gasification projects and Tidal Wave power projects, these Regulations
+shall apply subject to the fulfilment of eligibility criteria specified in Regulation 4 of these Regulations.
+4.
+Eligibility Criteria.
+(1)
+Wind Power project. - using new wind turbine generators, located at the sites approved by State Nodal Agency/State
+Government;
+(2)
+Small Hydro Project. - located at the sites approved by State Nodal Agency/ State Government using new plant and
+machinery, and installed power plant capacity to be lower than or equal to 25 MW at single location;
+(3)
+Solar PV and Solar Thermal Power Project. - Based on technologies approved by MNRE;
+(4)
+Biomass Gasifier based Power Project. - The project shall qualify to be termed as a biomass gasifier-based power
+project, if it is using new plant and machinery and having a Grid connected system that uses 100% producer gas engine,
+coupled with gasifier technologies approved by MNRE;
+(5)
+Biomass Power Project based on Rankine Cycle Technology. - Biomass power projects using new plant and machinery
+based on Rankine cycle technology and using biomass fuel sources, without use of fossil fuel;
+(6)
+Biogas based Power Project. - The project shall qualify to be termed as a biogas-based power project, if it is using new
+plant and machinery and having grid connected system that uses 100% Biogas fired engine, coupled with Biogas
+technology for co-digesting agriculture residues, manure and any other biowaste as may be approved by MNRE;
+Page 6/28
+----- PAGE 7 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+(7)
+Municipal Solid Waste (MSW) based Power Projects. - The project shall qualify to be termed as a Municipal Solid Waste
+(MSW) based power project if it is using new plant and machinery based on Rankine cycle technology and using
+Municipal Solid Waste (MSW) as fuel sources;
+(8)
+Refuse Derived Fuel (RDF) based Power Projects. - The project shall qualify to be termed as a Refuse derived fuel
+(RDF) based power project, if it is using new plant and machinery based on Rankine cycle technology and using Refuse
+derived fuel (RDF) as fuel sources;
+(9)
+Plasma Gasification based Power Projects. - The project shall qualify to be termed as "Plasma Gasification based power
+project" if it is using new plant and machinery based on the plasma gasification technology and it is used commercially
+as a form of waste treatment and has been tested for the gasification of municipal solid waste, biomass, industrial waste,
+hazardous waste and solid hydrocarbons, such as coal, oil sands, pet coke and oil shale.
+(10)
+Tidal Wave Power Projects. - The project shall qualify to be termed as Tidal wave power projects, which uses the energy
+obtained from tidal waves to generate electricity.
+Chapter -1 General Principles
+5.
+Control Period.
+- The Control Period under these Regulations shall be of three (3) years starting from the date of the notification of these
+Regulations, or as extended by the commission upon expiry of the control period. The first year of the control period
+shall be the financial year 2019-20 :
+Provided that the tariff determined as per these Regulations for the RE projects commissioned during the Control
+Period, shall continue to be applicable for the entire duration of the Tariff Period as specified in Regulation 6 below:
+6.
+Tariff Period.
+- 6.1 The Tariff Period for Renewable Energy power projects will be as per their Useful Life as defined in Regulation 2.4
+(44).
+6.2
+Tariff Period under these Regulations shall be considered from the date of commercial operation of the respective
+Renewable Energy generating plants.
+6.3
+Tariff determined as per these Regulations shall be applicable for Renewable Energy power projects for the entire
+duration of the Tariff Period as stipulated under Clause (6.1) and (6.2).
+7.
+Generic Tariff.
+- 7.1 The Generic Tariff shall be determined by the Commission in accordance with these Regulations for the following
+types of projects:
+(1)
+Solar PV (for Gross Metering);
+(2)
+Wind Energy based projects;
+(3)
+Small hydro based projects:
+Provided that, in case of special circumstances, the Project Developer may approach the Commission for determination
+of Project Specific Tariff for above types of projects:
+Provided further that the Generic Tariff determined by the Commission through a Generic Tariff Order shall be excluding
+the impact of Capital Subsidy:
+Provided also that in case any Project under the above types of Projects avails Government Subsidy, the Project
+Developer shall approach the Commission for determination of Project Specific Tariff:
+Provided also that Financial and Operational norms except Capital Cost, O&M Expenses and Capacity Utilisation Factor
+Page 7/28
+----- PAGE 8 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+or Plant Load Factor (as applicable) as specified in these Regulations would be the ceiling norms while determining the
+Project Specific Tariff.
+8.
+Project Specific Tariff.
+- 8.1 Project Specific Tariff, on case to case basis, shall be determined by the Commission for the following types of
+projects:
+(1)
+Solar Thermal;
+(2)
+Biomass Power Projects based on Rankine cycle Technology;
+(3)
+Biomass Gasifier based projects;
+(4)
+Biogas based projects;
+(5)
+Municipal Solid Waste, Refuse Derived Fuel based projects with Rankine cycle technology and plasma gasification as
+approved by MNRE;
+(6)
+Tidal power projects;
+(7)
+Solar PV with/without battery bank (Hybrid or Stand-alone)
+(8)
+Solar and Wind Hybrid
+(9)
+Any other Renewable Energy technology as approved by MNRE.
+(10)
+As per third proviso of Regulation 7.1, Project seeking Government subsidy.
+8.2
+Determination of Project specific tariff for generation of electricity from such Renewable Energy sources shall be in
+accordance with such terms and conditions as stipulated under relevant Orders of the Commission:
+8.3
+No annual generic tariff shall be determined for the technologies mentioned in Clause 8.1 of this Regulation:
+Provided that the Financial and Operational norms as may be specified in these Regulations would be the ceiling norms
+suitably adjusted for subsidy amount (if any), while determining the Project Specific Tariff.
+9.
+Petition and Proceedings for Determination of Tariff.
+- 9.1 The Commission shall determine the generic tariff at the beginning of each year of the Control Period for
+Renewable Energy technologies mentioned at Regulation 7 for projects to be commissioned in that year.
+9.2
+A Petition for determination of Project Specific Tariff shall be filed by the Project developer and shall be accompanied
+by:
+9.2.1
+Information in Forms 1.1, 1.2, 2.1 and 2.2 as applicable, and as appended in these Regulations;
+9.2.2
+Fees for filing the Petition, as applicable;
+9.2.3
+Detailed project report outlining the following:
+(a)
+technical and operational details;
+(b)
+site specific aspects;
+Page 8/28
+----- PAGE 9 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+(c)
+premise for capital cost and financing plan, etc.;
+(d)
+A statement of all applicable terms and conditions;
+(e)
+expected expenditure for the period for which tariff is to be determined;
+(f)
+A statement containing full details of calculation of any subsidy and incentive received, due or assumed to be due from
+the Central Government and/or State Government / Administration;
+(g)
+the proposed tariff calculated without consideration of the subsidy and incentive (with working in iterative excel format).
+9.2.4
+The consent from Distribution Licensee to procure power at tariff approved by the Commission in the form of Initialled
+Energy Purchase Agreement (EPA), Memorandum of Understanding (MoU) or letter from the Distribution Licensee of
+the area.
+9.2.5
+Any other information that the Commission requires from the Petitioner to submit.
+9.2.6
+The proceedings for determination of tariff shall be in accordance with the JERC (Conduct of Business) Regulations,
+2009 as amended from time to time.
+10.
+Procurement of Power from Renewable Energy Projects.
+- 10.1 For Renewable Energy Technologies, for which Generic Tariff is determined by the Commission, the Distribution
+Licensee may procure power from such projects either at the Generic Tariff approved by the Commission or through the
+competitive bidding process:
+Provided that in case the Distribution Licensee opts to procure power from any Renewable Energy Project(s) set up
+within their licensed area at the Generic Tariff for 1 MW and above approved by the Commission, the Distribution
+Licensee shall file the Petition for prior approval of Energy Purchase Agreement for procurement of power from such
+Renewable Energy Project(s);
+Provided further that in case the Distribution Licensee opts to procure power from Renewable Energy Projects through
+competitive bidding process in accordance with the guidelines issued by the central government, the Generic Tariff
+determined by the Commission shall act as a ceiling tariff and for such procurement of power, the Distribution Licensee
+shall file the Petition for adoption of tariff under Section 63 of the Act;
+Provided also that the Distribution Licensee can procure power from Grid Connected Rooftop mounted, ground mounted
+and floating Solar Power Project of any capacity less than 1 MW and above 1kW at the Generic Tariff approved by the
+Commission for Solar PV without specific approval of Energy Purchase Agreement:
+Provided also that in case the Project Developer intends to set up two Grid Connected Rooftop mounted projects at
+single Rooftop, one for Net Metering and other for supply of power to Distribution Licensee under Gross Metering, the
+rooftop area for these two projects shall be separately earmarked and the two projects shall be installed separately
+without any interface between the two Projects.
+10.2
+For Renewable Energy Projects, for which the Project Specific Tariff is determined by the Commission, the Distribution
+Licensee shall file the Petition for prior approval of Energy Purchase Agreement for procurement of power from such
+Renewable Energy Project(s):
+Provided that in case the Project Developer and Distribution Licensee opt to file the Petition for approval of EPA and
+determination of tariff, the Project Developer and Distribution Licensee shall file Joint Petition in this regard.
+10.3
+The Distribution Licensee shall comply with all the statutory and regulatory provisions for procurement of power from
+Renewable Energy Projects, as applicable from time to time.
+All Renewable Energy power plants shall be treated as 'Must Run' power plants and procurement of power by
+Distribution Licensee from such power plants shall not be subjected to 'Merit Order Despatch' principles. Provided that
+Page 9/28
+----- PAGE 10 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+the Renewable Energy Power Plant with installed capacity of 5 MW and above shall be required to furnish to Distribution
+Licensee a month-wise schedule. The Renewable Energy Power Plant shall also co-ordinate with State Load Dispatch
+Centre in respect to Optimum scheduling and dispatch of electricity as per provisions of the State Grid Code.
+11.
+Tariff Structure.
+- 11.1 The tariff for Renewable Energy technologies shall be single-part tariff consisting of the following fixed cost
+components:
+(a)
+Operation and maintenance expenses;
+(b)
+Interest on loan capital;
+(c)
+Depreciation;
+(d)
+Interest on working capital;
+(e)
+Return on equity:
+Provided that for Renewable Energy technologies like biomass power projects having fuel cost component, single-part
+tariff with two components, fixed cost component and fuel cost component, shall be determined.
+12.
+Tariff Design.
+- 12.1 The generic tariff shall be determined considering the year of commissioning of the project, on levelized basis for
+the Tariff Period:
+Provided that for Renewable Energy technologies having single-part tariff with two components, tariff shall be
+determined on levelized basis considering the year of commissioning of the project for fixed cost component while the
+fuel cost component shall be determined on the basis of year of operation.
+12.2
+For the purpose of levelized tariff computation, the discount factor equivalent to Post Tax weighted average cost of
+capital shall be considered.
+12.3
+Levelization shall be carried out for the 'useful life' of the Renewable Energy project.
+12.4
+The above principles shall also apply for project specific tariff.
+Chapter-2 Financial Principles
+13.
+Capital Cost.
+- 13.1 The norms for Capital Cost as specified in the subsequent technology specific Chapters shall be inclusive of all
+capital works including plant and machinery, transportation cost, civil work, erection and commissioning, financing and
+interest during construction, and evacuation infrastructure up to inter-connection point:
+Provided that for project specific tariff determination, the generating company shall submit the break-up of Capital Cost
+items along with its Petition in the manner specified under Regulation 9.
+14.
+Debt Equity Ratio.
+- 14.1 For the purpose of determination of tariff, the following provisions shall apply:
+(a)
+Debt Equity ratio of 70:30 shall be considered:
+Provided that if the equity actually deployed is less than 30% (thirty percent) the actual equity shall be considered, and if
+the equity actually deployed is more than 30 % (thirty percent) of the capital cost, equity in excess of 30 % (thirty
+percent) shall be treated as normative loan:
+Provided further that the equity invested and loan drawn in foreign currency shall be designated in Indian Rupees on the
+date of each investment, using the selling rates notified by the Reserve Bank of India on the date of such investment.
+Page 10/28
+----- PAGE 11 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+(b)
+The Commission shall take into consideration any capital grant or subsidy offered by the Central or State Government or
+any other agency, while determining the tariff under these Regulations.
+15.
+Loan and Finance Charges.
+- 15.1 Loan Tenure
+For the purpose of determination of tariff, a loan tenure of 12 years shall be considered.
+15.2
+Interest Rate
+(a)
+The loans arrived at in the manner indicated in Regulation 14 shall be considered as gross normative loan for calculation
+for interest on loan.
+(b)
+The normative loan outstanding as on April 1st of every year shall be worked out by deducting the cumulative repayment
+up to March 31st of previous year from the gross normative loan.
+(c)
+For the purpose of computation of tariff for Renewable Energy Projects in Mainland Areas, normative interest rate as
+mentioned in the Table below shall be considered.
+Table: Normative Interest Rate
+Particulars
+Interest Rates
+Mainland
+SBI MCLR (One-year tenor) prevalent during the
+last available six months + 200 basis points
+Island
+SBI MCLR (One-year tenor) prevalent during the
+last available six months + 300 basis points
+(d)
+Notwithstanding any moratorium period availed by the generating company, the repayment of loan shall be considered
+from the first year of commercial operation of the project and shall be equal to the annual depreciation allowed.
+16.
+Depreciation.
+- 16.1 The value base for the purpose of depreciation shall be the Capital Cost of the asset admitted by the Commission.
+16.2
+The Salvage value of the asset shall be considered as 10% and depreciation shall be allowed up to maximum of 90% of
+the Capital Cost of the asset.
+16.3
+Depreciation rate of 5.83% per annum shall be considered for first 12 years and remaining depreciation shall be spread
+during remaining useful life of the RE projects considering the salvage value of the project as 10% of project cost.
+16.4
+Depreciation shall be chargeable from the first year of commercial operation:
+Provided that in case of commercial operation of the asset for part of the year, depreciation shall be charged on pro rata
+basis.
+17.
+Return on Equity.
+- 17.1 The value base for the equity shall be 30% of the capital cost or actual equity (in case of project specific tariff
+determination) as determined under Regulation 14.
+17.2
+The normative Return on Equity shall be:
+(a)
+14% for Renewable Energy Projects in Mainland areas;
+Page 11/28
+----- PAGE 12 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+(b)
+16% for Renewable Energy Projects in Island areas;
+to be grossed up by prevailing Minimum Alternate Tax (MAT) rate as on 1st April of available year at the time of
+determination of tariff for the entire useful life of the project.
+18.
+Interest on Working Capital.
+- 18.1 The Working Capital requirement in respect of Wind energy projects, Small Hydro Power, Solar PV and Solar
+thermal power projects shall be computed in accordance with the following:
+(a)
+Operation & Maintenance expenses for one month;
+(b)
+Receivables equivalent to 2 (Two) months of energy charges for sale of electricity calculated on the normative Capacity
+Utilisation Factor (CUF / PLF) as applicable;
+(c)
+Maintenance spares @ 15% of Operation and Maintenance expenses.
+18.2
+The Working Capital requirement in respect of Biomass power projects with Rankine Cycle technology, Biogas, Biomass
+Gasifier based power projects, Municipal Solid Waste and Refuse Derived Fuel projects, and Cold plasma projects shall
+be computed in accordance with the following clause:
+(a)
+Fuel costs of four months for normative Plant Load Factor (PLF);
+(b)
+Operation & Maintenance expense for one month;
+(c)
+Receivables equivalent to 2 (Two) months of fixed and variable charges for sale of electricity calculated on the target
+PLF;
+(d)
+Maintenance spares @ 15% of annual Operation and Maintenance expenses.
+18.3
+Normative Rate of Interest on Working Capital shall be considered as follows:
+Table: Normative Working Capital Interest Rate
+Particulars
+Interest Rates
+Mainland
+State Bank of India MCLR (One-Year Tenor)
+prevalent during the last available six months + 300 basis points
+Island
+State Bank of India MCLR (One-Year Tenor)
+prevalent during the last available six months + 400 basis points
+19.
+Calculation of CUF/PLF.
+- 19.1 The number of hours for calculation of CUF/PLF (wherever applicable) for various RE technologies shall be 8760.
+20.
+Operation and Maintenance Expenses.
+- 20.1 'Operation and Maintenance' or O&M expenses shall comprise of repair and maintenance (R&M), establishment
+including employee expenses, and administrative and general (A&G) expenses.
+20.2
+O&M expenses shall be determined for the Tariff Period based on normative O&M expenses as specified by the
+Commission subsequently in these Regulations for the first Year of Control Period.
+20.3
+Normative O&M expenses allowed during first year of the Control Period (i.e. FY 2019-20) under these Regulations shall
+Page 12/28
+----- PAGE 13 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+be escalated at average inflation factor of previous three years considering 60% weightage for the actual point to point
+inflation over Wholesale Price Index numbers as per Office of Economic Advisor, Ministry of Commerce and Industry,
+Government of India and 40% weightage for the actual Consumer Price Index for Industrial Workers (all India) as per
+Labour Bureau, Government of India in the previous three years.
+21.
+Rebate.
+- 21.1 For payment of bills to the generating company through letter of credit, a rebate of 2% shall be allowed.
+21.2
+Where payments are made by any mode other than through letter of credit within a period of one month of presentation
+of bills by the generating company, a rebate of 1% shall be allowed.
+22.
+Late payment surcharge.
+- 22.1 In case the payment of any bill payable under these Regulations is delayed beyond a period of 60 days from the
+date of receipt of bill, a late payment surcharge at the rate of 1.25% per month shall be levied by the generating
+company.
+23.
+Sharing of CDM Benefits.
+- 23.1 The proceeds of the carbon credit (if any) from approved CDM project shall be shared between generating
+company and concerned distribution company buying renewable power in the following manner, namely, 100% of the
+gross proceeds on account of CDM benefit to be retained by the project developer in the first year after the date of
+commercial operation of the generating station;
+23.2
+In the second year, the share of the distribution company shall be 10%, which shall be progressively increased by 10%
+every year till it reaches 50%, where after the proceeds shall be shared in equal proportion, by the generating company
+and the distribution company.
+24.
+Subsidy or incentive by the Central / State Government.
+- 24.1 The Commission shall take into consideration any incentive or subsidy offered by the Central or State
+Government, including accelerated depreciation benefit if availed by the generating company, for the renewable energy
+power plants while determining the tariff under these Regulations:
+Provided that the following principles shall be considered for ascertaining Income Tax benefit on account of accelerated
+depreciation, if availed, for the purpose of tariff determination:
+i. Assessment of benefit shall be based on normative Capital Cost, accelerated depreciation rate as per relevant
+provisions under Income Tax Act and corporate Income Tax rate;
+ii. Capitalization of RE project during second half of the fiscal year;
+iii. Per unit benefit shall be derived on levelized basis at discount factor equivalent to weighted average cost of capital
+25.
+Taxes and Duties.
+- 25.1 Tariff determined under these Regulations shall be exclusive of taxes and duties as may be levied by the
+appropriate Government / Administration:
+Provided that the taxes and duties levied by the appropriate Government / Administration shall be allowed as pass
+through on actual incurred basis.
+Chapter-3 Technology Specific Parameters for Wind Energy
+26.
+Capital Cost.
+- 26.1 The Capital Cost for Wind Energy Projects shall comprise of the cost of the Wind Turbine Generator including its
+auxiliaries, land cost, site development charges and other civil works, charges for transportation to site, evacuation cost
+up to inter-connection point, financing charges and Interest during Construction, and capital investment relating to
+forecasting and scheduling.
+26.2
+The Capital Cost for Wind Energy Projects shall be as follows:
+Page 13/28
+----- PAGE 14 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+(a) Mainland area:
+Rs. 5.25 Crore/MW;
+(b) Island areas (Andaman & Nicobar):
+Rs. 6.25 Crore/MW;
+(c) Island areas (Lakshadweep):
+Rs. 7.00 Crore/MW;
+27.
+Capacity Utilisation Factor (CUF).
+- 27.1 The Capacity Utilisation Factor (CUF) norm for Wind Energy Projects for this Control Period shall be as follows:
+Goa
+18%
+Andaman & Nicobar Islands
+18%
+Puducherry
+21%
+Lakshadweep
+20%
+Daman
+19%
+Chandigarh
+18%
+Dadra & Nagar Haveli
+18%
+DIU
+26%
+28.
+Operation and Maintenance (O & M) Expenses.
+- 28.1 The normative O&M Expenses for the first year of the Control Period, i.e., FY 2019-20 shall be:
+(a)
+1.5% of the Capital Cost for Wind Energy Projects in Mainland areas;
+(b)
+2% of the Capital Cost for Wind Energy Projects in Island areas.
+28.2
+The normative O&M expenses for subsequent years shall be derived in accordance with the escalation mechanism
+specified at Regulation 20.3.
+29.
+Auxiliary Consumption.
+- 29.1 Normative Auxiliary Consumption for the Wind Energy Projects shall be 0.25%.
+Chapter 4
+Technology Specific Parameters for Small Hydro Project
+30.
+Capital Cost.
+- 30.1 The normative Capital Cost for small hydro projects shall be as follows:
+Projects in Mainland Areas:
+a. Below 5 MW:
+Rs. 7.79 Cr/MW,
+b. 5 MW to 25 MW:
+Rs. 7.07 Cr/MW
+Projects in Island Areas:
+a. Below 5 MW:
+Rs. 10.50 Cr/MW,
+Page 14/28
+----- PAGE 15 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+b. 5 MW to 25 MW:
+Rs. 9.00Cr/MW
+30.2
+The Capital Cost specified above will remain valid for the entire duration of the Control Period unless reviewed earlier by
+the Commission.
+31.
+Capacity Utilisation Factor.
+- 31.1 CUF for Small Hydel Projects shall be 30%..
+32.
+Auxiliary Consumption.
+- 32.1 Normative Auxiliary Consumption for small hydro projects shall be 1.0%.
+33.
+Operation and Maintenance Expenses.
+- 33.1 The normative O&M Expenses for the first year of the Control Period, i.e., FY 2019-20 shall be:
+(a)
+2% of the Capital Cost for Small Hydel Projects in Mainland areas;
+(b)
+2.5% of the Capital Cost for Projects in Island areas.
+33.2
+The normative O&M expenses for subsequent years shall be derived in accordance with the escalation mechanism
+specified at Regulation 20.3.
+Chapter 5
+Technology Specific Parameters for Solar PV Power Project (for Gross metering)
+34.
+Technology Aspects.
+- 34.1 Norms for Solar Photovoltaic (PV) power projects under these Regulations shall be applicable for grid connected
+PV systems that directly convert solar energy into electricity and are based on technologies such as crystalline silicon or
+thin film, etc., as may be approved by MNRE.
+35.
+Capital Cost.
+- 35.1 The normative Capital Cost for Solar PV projects shall be as follows:
+(a)
+Solar PV Projects in Mainland Areas:      Rs. 5.00 Cr/MW (without capital Subsidy);
+(b)
+Solar PV Projects in Island Areas:      Rs. 6.00 Cr/MW (without capital Subsidy).
+35.2
+The Capital Cost specified above will remain valid for the entire duration of the Control Period unless reviewed earlier by
+the Commission.
+36.
+Capacity Utilization Factor.
+- 36.1 The Capacity Utilization Factor (CUF) for solar PV Projects shall be as shown below:
+State / Union Territory
+CUF %
+Puducherry
+18%
+Dadra & Nagar Haveli
+18%
+Lakshadweep
+17%
+Andaman & Nicobar Islands
+17%
+Page 15/28
+----- PAGE 16 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Daman
+18%
+Diu
+18%
+Chandigarh
+17%
+Goa
+18%
+Provided that the Commission may deviate from the norm in case of project specific tariff determination in accordance
+with Regulations 9.
+37.
+Operation and Maintenance Expenses.
+- 37.1 The normative O&M expenses for the first year of the Control Period, i.e., FY 2019-20, shall be:
+(a)
+1.5% of Capital Cost for first year, for Solar PV Projects in Mainland Areas;
+(b)
+2.0% of Capital Cost for first year, for Solar PV Projects in Island Areas.
+37.2
+The normative O&M expenses for subsequent years shall be derived in accordance with the escalation mechanism
+specified at Regulation 20.3.
+38.
+Auxiliary Consumption.
+- 38.1 The auxiliary consumption factor shall be 0.25% of the gross generation:
+Provided that the Commission may deviate from the above norm in case of project specific tariff determination in
+accordance with Regulation 9.
+Chapter 6
+Technology Specific Parameters for Solar Thermal Power Project
+39.
+Technology Aspects.
+- 39.1 Norms for Solar Thermal Power Projects under these Regulations shall be applicable for Concentrated Solar
+Power (CSP) technologies, viz., line focusing or point focusing, as may be approved by MNRE, and using direct
+sunlight, concentrating it several times to reach higher energy densities and thus, higher temperatures whereby the heat
+generated is used to operate a conventional power cycle to generate electricity.
+40.
+Capital Cost.
+- 40.1 The Commission shall determine only project specific Capital Cost and tariff based on prevailing market trends for
+Solar Thermal Power project prevailing at the time of filing Petition for Tariff Determination.
+41.
+Capacity Utilisation Factor.
+- 41.1 The CUF for Solar Thermal Power project shall be determined by the Commission, while approving project
+specific tariff.
+42.
+Operation and Maintenance Expenses.
+- 42.1 The Commission shall determine project specific O&M expenses based on prevailing market trends for Solar
+Thermal Power project.
+43.
+Auxiliary Consumption.
+- 43.1 The auxiliary consumption factor shall be 10% of gross normative generation.
+Chapter 7
+Technology Specific Parameters for Biomass Power Projects based on Rankine Cycle Technology
+44.
+Page 16/28
+----- PAGE 17 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Technology Aspect.
+- 44.1 The norms for tariff determination specified hereunder are for Biomass Power projects based on Rankine cycle
+technology application using air-cooled or water-cooled condenser.
+45.
+Capital Cost.
+- 45.1 The Commission shall determine project specific Capital Cost and tariff for Biomass Power Projects on the
+Petition filed by Project Developer.
+46.
+Plant Load Factor.
+- 46.1 Threshold PLF for determining fixed charge component of Tariff shall be:
+(a)
+During 1st year: 70%;
+(b)
+From 2nd Year onwards: 80%.
+47.
+Auxiliary Consumption.
+- 47.1 The auxiliary power consumption factor shall be as follows:-
+(a)
+For the project using water cooled condenser:
+i. During first year of operation: 11%
+ii. From 2nd year onwards: 10%
+(b)
+For the project using air cooled condenser:
+i. During first year of operation: 13%
+ii. From 2nd year onwards: 12%
+48.
+Station Heat Rate.
+- 48.1 The Station Heat Rate for Biomass Power projects shall be:
+(a)
+For projects using travelling grate boilers: 4200 kcal/kWh;
+(b)
+For projects using Atmospheric Fluidised Bed Combustion (AFBC) boilers: 4125 kcal/ kWh.
+49.
+Operation and Maintenance Expenses.
+- 49.1 The normative O&M expenses for the first year of the Control Period, i.e., FY 2019-20 shall be 5% of the capital
+cost for first year.
+49.2
+The normative O&M expenses for subsequent years shall be derived in accordance with the escalation mechanism
+specified at Regulation 20.3.
+50.
+Fuel Mix.
+- 50.1 The Biomass Power plant shall be designed in such a way that it uses different types of non-fossil fuels available
+within the vicinity of the Biomass Power project such as crop residues, agro-industrial residues, forest residues, etc., and
+other biomass fuels as may be approved by MNRE.
+50.2
+The Biomass Power Generating Companies shall ensure fuel management plan to ensure adequate availability of fuel to
+meet the respective project requirements.
+50.3
+The Fuel Price and Calorific Value of Fuel shall be approved by the Commission based on the Petition filed for Project
+Specific Tariff considering the type of fuel proposed to be used in the Project.
+50.4
+Page 17/28
+----- PAGE 18 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Biomass fuel price at the time of determination of tariff may be approved by the Commission based on an independent
+study if required, to be carried out by constituting a State/ UT level committee consisting of representatives of State/UT
+Nodal Agency, State Government, Distribution Licensees, biomass power producers association and any other
+organization.
+51.
+Use of Fossil Fuel.
+- 51.1 The use of fossil fuels shall not be considered.
+52.
+Monitoring Mechanism for the use of fossil fuel.
+- 52.1 The Project Developer shall furnish a monthly fuel usage statement and monthly fuel procurement statement duly
+certified by Chartered Accountant/Cost Accountant to the beneficiary (with a copy to appropriate agency appointed by
+the Commission for the purpose of monitoring the fossil and nonfossil fuel consumption) for each month, along with the
+monthly energy bill.
+52.2
+Non-compliance with the condition of fossil fuel usage by the Project Developer during any financial year, shall result in
+withdrawal of applicability of tariff as per these Regulations for such Biomass Power project.
+53.
+Revenue Generation from the By-product.
+- Any revenue that is generated from the by products like fertilizers or charcoal shall also be considered while
+determining the Tariff.
+Chapter 8
+Technology Specific Parameters for Biomass Gasifier Power Projects
+54.
+Technology Aspect.
+- 54.1 The norms for tariff determination specified hereunder are for Biomass Gasifier Power projects.
+55.
+Capital Cost.
+- 55.1 The Commission shall determine only project specific capital cost and tariff based on prevailing market trends for
+Biomass Gasifier Power project based on the Petition filed by Project Developer.
+56.
+Plant Load Factor.
+- 56.1 Threshold PLF for determining fixed charge component of tariff shall be 85%.
+57.
+Auxiliary Consumption.
+- 57.1 The auxiliary power consumption factor shall be 10% for the determination of tariff.
+58.
+Operation and Maintenance Expenses.
+- 58.1 The Commission shall determine project specific O&M expenses based on prevailing market trends for Biomass
+Gasifier Power Projects.
+59.
+Fuel Mix.
+- 59.1 The Biomass Gasifier Power plant shall be designed in such a way that it uses different types of nonfossil fuels
+available within the vicinity of biomass power project such as crop residues, agro-industrial residues, forest residues,
+etc., and other biomass fuels as may be approved by MNRE.
+59.2
+The Biomass Gasifier based Power Generating Companies shall ensure fuel management plan to ensure adequate
+availability of fuel to meet the respective project requirements.
+59.3
+The Fuel Price and Calorific Value of Fuel shall be approved by the Commission based on the Petition filed for Project
+Specific Tariff considering the type of fuel proposed to be used in the Project.
+59.4
+Page 18/28
+----- PAGE 19 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Biomass fuel price at the time of determination of tariff may be approved by the Commission based on an independent
+study if required, to be carried out by constituting a State/ UT level committee consisting of representatives of State/UT
+Nodal Agency, State Government, Distribution Licensees, biomass power producers association and any other
+organization.
+60.
+Use of Fossil Fuel.
+- 60.1 The use of fossil fuels shall not be considered.
+61.
+Monitoring Mechanism for the use of fossil fuel.
+- 61.1 The Project Developer shall furnish a monthly fuel usage statement and monthly fuel procurement statement duly
+certified by Chartered Accountant/Cost Accountant the beneficiary (with a copy to appropriate agency appointed by the
+Commission for the purpose of monitoring the fossil and nonfossil fuel consumption) for each month, along with the
+monthly energy bill.
+61.2
+Non-compliance with the condition of fossil fuel usage by the Project Developer during any financial year, shall result in
+withdrawal of applicability of tariff as per these Regulations for such Biomass Power project.
+62.
+Revenue Generation from the By-product.
+- Any revenue that is generated from the by products like fertilizers or charcoal shall also be considered while
+determining the Tariff.
+Chapter 9
+Technology specific parameters for Biogas based Power Projects
+63.
+Technology Aspect.
+- 63.1 The norms for tariff determination specified hereunder are for grid connected biogas-based power projects that
+use 100% Biogas fired engine, coupled with Biogas technology for co-digesting agriculture residues, manure and other
+bio- waste as may be approved by MNRE.
+64.
+Capital Cost.
+- 64.1 The Commission shall determine only project specific Capital Cost and tariff based on prevailing market trends for
+Biogas based project.
+65.
+Plant Load Factor.
+- 65.1 Threshold PLF for determining fixed charge component of Tariff shall be 90%.
+66.
+Auxiliary Consumption.
+- 66.1 The auxiliary power consumption factor shall be 12% for the determination of tariff.
+67.
+Operation and Maintenance Expenses.
+- 67.1 The Commission shall determine project specific O&M expenses based on prevailing market trends for Biogas
+based Power Projects.
+68.
+Fuel Cost (Feed stock Price).
+- 68.1 The Fuel Price and Calorific Value of Fuel shall be approved by the Commission based on the Petition filed for
+Project Specific Tariff considering the type of fuel proposed to be used in the Project.
+68.2
+Biomass fuel price at the time of determination of tariff may be approved by the Commission based on an independent
+study if required, to be carried out by constituting a State/ UT level committee consisting of representatives of State/UT
+Nodal Agency, State Government, Distribution Licensees, biomass power producers association and any other
+organization.
+Chapter 10
+Page 19/28
+----- PAGE 20 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Technology specific parameters for Power Projects using Municipal Solid Waste/Refuse Derived Fuel and based on
+Rankine cycle technology
+69.
+Technology Aspect.
+- 69.1 The norms for tariff determination specified hereunder are for power projects which use Municipal Solid Waste
+(MSW) and refuse derived fuel (RDF) and are based on Rankine cycle technology application, combustion or
+incineration, Bio-methanation, Pyrolysis and High-end gasifier technologies.
+70.
+Capital Cost.
+- 70.1 The Commission shall determine only project specific Capital Cost and tariff based on prevailing market trends for
+MSW and RDF projects.
+71.
+Plant Load Factor.
+- 71.1 Threshold PLF for determining fixed charge component of tariff for the power projects which use MSW and RDF,
+shall be:
+Sl. No.
+PLF
+MSW
+RDF
+1
+First year
+70%
+65%
+2
+From 2nd year onwards
+80%
+72.
+Auxiliary Consumption.
+- 72.1 The auxiliary power consumption for MSW / RDF based power projects shall be 15%.
+73.
+Station Heat Rate.
+- 73.1 The Station Heat Rate for MSW/RDF based power projects shall be approved by the Commission while
+determining the Project Specific tariff.
+74.
+Operation and Maintenance Expenses.
+- 74.1 The normative O&M expenses for the first year of the Control Period, i.e., FY 2019-20 shall be 5% of Capital Cost
+for first year for Mainland Areas and 6% of Capital Cost for first year for Island Areas.
+74.2
+The normative O&M expenses for subsequent years shall be derived in accordance with the escalation mechanism
+specified at Regulation 20.3.
+75.
+Fuel Cost and Calorific Value.
+- 75.1 The Fuel Price and Calorific Value of Fuel shall be approved by the Commission based on the Petition filed for
+Project Specific Tariff considering the type of fuel proposed to be used in the Project.
+Chapter 11
+Miscellaneous
+76.
+Deviation from norms.
+- 76.1 Tariff for sale of electricity generated from a generating plant based on Renewable Energy sources, may also be
+agreed between a generating company and a licensee, in deviation from the norms specified in these Regulations
+subject to the conditions that the levelized tariff over the useful life of the project on the basis of the norms in deviation
+Page 20/28
+----- PAGE 21 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+does not exceed the levelized tariff calculated on the basis of the norms specified in these Regulations.
+77.
+Power to Relax.
+- 77.1 The Commission may by general or special order, for reasons to be recorded in writing, and after giving an
+opportunity of hearing to the Parties likely to be affected, may relax any of the provisions of these Regulations on its own
+motion or on an application made before it by an interested person.
+78.
+Power to Remove Difficulties.
+- 78.1 In case of any difficulty arising while giving effect to the provisions of these Regulations, the Commission may
+either suo-motu or on a Petition, by an order, make such provisions not inconsistent with the provisions of the Act as
+may appear to be necessary for removing the difficulty.
+79.
+Repeal and Savings.
+- 79.1 Save as otherwise provided in this Renewable Energy Tariff, Regulations, 2019, JERC (Grid Connected Ground
+Mounted and Solar Rooftop and Metering) Regulations, 2015, together with amendments made from time to time, are
+hereby repealed.
+80.
+Power to amend.
+- 80.1 The Commission may at any time add, vary, alter, suspend, modify, amend or repeal any of the provisions of
+these Regulations.
+Annexures
+Form-1.1: Template for (Wind/ small hydro/Solar PV/ Solar Thermal)
+Sl. No.
+Assumption Head
+Sub-head
+Sub-head (2)
+Unit
+Parameter
+1
+Power Generation
+Capacity
+Installed Power Generation
+MW
+Capacity
+Capacity Utilization Factor (CUF)
+%
+%
+Commercial Operation Date (COD)
+dd/mm/yyyy
+Useful Life
+Years
+2
+Project Cost
+Capital Cost/ MW
+Normative Capital Cost
+Rs. Crore
+Capital Cost
+Rs. Crore /MW
+Capital Subsidy, if any
+Rs. Crore
+Net Capital Cost
+Page 21/28
+----- PAGE 22 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Rs. Crore
+3
+Financial Assumption
+Debt Equity
+Tariff Period
+Years
+Debt
+%
+Equity
+%
+Debt Component
+Total debt amount
+Rs. Crore
+Total equity amount
+Rs. Crore
+Loan Amount
+Rs. Crore
+Moratorium Period
+Years
+Repayment Period (inclmoratorium)
+Years
+Interest Rate
+%
+Equity Component
+Equity Amount
+Rs. Crore
+RoE for 1st10 years
+% p.a.
+RoE 11thyear onwards
+% p.a.
+Discount Rate
+%
+Depreciation
+Dep Rate for 1st12 years
+%
+Dep rate 13thyear onwards
+%
+Incentives
+GBI, if any
+Rs. Crore
+Period for GBI
+Years
+4
+O& M Expenses
+Normative O&M Expenses p.a.
+Rs. Crore
+O&M Expenses p.a.
+Rs. Crore
+Escalation Factor
+%
+5
+Page 22/28
+----- PAGE 23 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Working Capital
+O&M Expenses p.a.
+% of O&M Expenses
+Month
+Maintenance Spares
+%
+Receivables
+Month
+Interest on WC
+%
+Form - 1.2: Template for (Biomass/MSW/RDF)
+Sl. No.
+Assumption Head
+Sub-head
+Sub-head (2)
+Unit
+Parameter
+1
+Power Generation
+Capacity
+Installed Power Generation
+MW
+Aux Consumption
+%
+PLF (1styear)
+%
+PLF (2ndyear onwards)
+%
+COD
+dd/mm/yyyy
+Useful Life
+Years
+2
+Project Cost
+Capital Cost/ MW
+Normative Capital Cost
+Rs. Crore
+Capital Cost
+Rs. Crore /MW
+Capital Subsidy, if any
+Rs. Crore
+Net Capital Cost
+Rs. Crore
+3
+Financial Assumption
+Debt Equity
+Tariff Period
+Years
+Debt
+%
+Equity
+Page 23/28
+----- PAGE 24 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+%
+Debt Component
+Total debt amount
+Rs. Crore
+Total equity amount
+Rs. Crore
+Loan Amount
+Rs. Crore
+Moratorium Period
+Years
+Repayment Period (inclmoratorium)
+Years
+Interest Rate
+%
+Equity Component
+Equity Amount
+Rs. Crore
+RoE for 1st10 years
+% p.a.
+RoE 11thyear onwards
+% p.a.
+Discount Rate
+%
+Depreciation
+Dep Rate for 1st12 years
+%
+Dep rate 13thyear onwards
+%
+Incentives
+GBI, if any
+Rs. Crore
+Period for GBI
+Years
+4
+O& M Expenses
+Normative O&M Expenses
+Rs. Crore
+O&M Expenses p.a.
+Rs. Crore
+Escalation Factor
+%
+5
+Working Capital
+O&M Expenses
+% of O&M Expenses
+Month
+Maintenance Spares
+%
+Receivables
+Month
+Interest on WC
+Page 24/28
+----- PAGE 25 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+%
+6
+Fuel Related assumptions
+Station Heat Rate
+During 1styear
+Kcal/kWh
+2ndyear onwards
+Kcal/kWh
+Fuel Type and mix
+Fuel Type-1
+%
+Fuel Type-2
+%
+MSW
+%
+RDF
+%
+Fossil Fuel (Coal)
+%
+GCV of Fuel Type-1
+Kcal/kWh
+GCV fo Fuel Type-2
+Kcal/kWh
+GCA of MSW
+Kcal/kWh
+GCA of RDF
+Kcal/kWh
+GCA of Fossil Fuel (Coal)
+Kcal/kWh
+Biomass Price (fuel Type-1)/Yr 1
+Rs./MT
+Biomass Price (fuel Type-2)/Yr 1
+Rs./MT
+MSW Price/Yr 1
+Rs./MT
+RDF Price/Yr 1
+Rs./MT
+Fossil Fuel (Coal) Price)/ Yr 1
+Rs./MT
+Fuel Price Escalation Factor
+% p.a
+Form - 2.1: Template for (Wind/ small hydro/Solar PV/Solar Thermal): Determination of Tariff Components - Yearwise
+upto Useful Life
+Units Generation
+Unit
+Yr 1
+Yr 2
+Yr 3
+Yr 4
+,,,,
+,,,,
+Page 25/28
+----- PAGE 26 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+,,,
+,,,,
+,,,,
+Installed Capacity
+MW
+Net Generation
+MU
+Tariff Components (Fixed charges)
+O&M Expenses
+Rs. Crore
+Depreciation
+Rs. Crore
+Interest on Loan
+Rs. Crore
+Interest on working capital
+Rs. Crore
+Return on Equity
+Rs. Crore
+Total Fixed Cost
+Rs. Crore
+Per Unit Tariff Components
+Per Unit O&M Expenses
+Rs./kWh
+Per Unit Int on term loan
+Rs./kWh
+Per unit interest on working capital
+Rs./kWh
+Per unit RoE
+Rs./kWh
+Per Unit Tariff Components
+Rs./kWh
+Levilised Tariff
+Discount Factors
+Discount Tariff Components
+Rs./kWh
+Levilized Tariff
+Rs/kWh
+Form-2.2: Template for (Biomass/ MSW/RDF): Determination of Tariff Components - Yearwise upto Useful Life
+Units Generation
+Unit
+Yr 1
+Yr 2
+Yr 3
+Yr 4
+,,,,
+,,,,
+,,,
+,,,,
+,,,,
+Installed Capacity
+MW
+Page 26/28
+----- PAGE 27 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Net Generation
+MU
+Tariff Components (Fixed charges)
+O&M Expenses
+Rs. Crore
+Depreciation
+Rs. Crore
+Interest on Loan
+Rs. Crore
+Interest on working capital
+Rs. Crore
+Return on Equity
+Rs. Crore
+Total Fixed Cost
+Rs. Crore
+Tariff Components (Fixed)
+Per Unit O&M Expenses
+Rs./kWh
+Per Unit Int on term loan
+Rs./kWh
+Per unit interest on working capital
+Rs./kWh
+Per unit RoE
+Rs./kWh
+Per Unit Tariff Components
+Rs./kWh
+Tariff Components (Variable)
+Fuel Type-1
+Rs Crore
+Fuel Type-2
+Rs Crore
+Fossil Fuel (Coal)
+Rs Crore
+Municipal Solid Waste
+Rs Crore
+Refuse Derived Fuel
+Rs Crore
+Sub-Total (Fuel Costs)
+Rs Crore
+Fuel Cost allowable to power
+Rs Crore
+Levilised Tariff
+Discount Factors
+Discount Tariff Components (Fixed)
+Rs./kWh
+Discount Tariff Components (Variable)
+Rs./kWh
+Discount Tariff Components (Total)
+Rs./kWh
+Levilized Tariff (Fixed)
+Rs./kWh
+Page 27/28
+----- PAGE 28 -----
+Joint Electricity Regulatory Commission (Terms and Conditions for Tariff determination fro...
+Levilized Tariff (Variable)
+Rs./kWh
+Levilized Tariff (Total)
+Rs./kWh
+Related AI tags, queries and research notes
+Translation
+Page 28/28

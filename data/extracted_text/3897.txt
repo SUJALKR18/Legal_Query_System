@@ -1,0 +1,678 @@
+
+----- PAGE 1 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+Andhra Pradesh Electricity Regulatory Commission (Interim
+Balancing and Settlement Code) Regulation, 2006
+Source: https://indiankanoon.org/doc/67897152/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Andhra Pradesh - Act
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) Regulation, 2006
+ANDHRA PRADESH
+India
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) Regulation, 2006
+Act 2 of 2006
+Published on 1 January 2006
+Commenced on 1 January 2006
+[This is the version of this document from 1 January 2006.]
+[Note: The original publication document is not available and this content could not be verified.]
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) Regulation, 2006
+(Regulation No. 2 of 2006)
+Last Updated 24th September, 2019
+In terms of provisions of Section 42(2) of the Electricity Act, 2003, the Commission notified the APERC (Terms and
+Conditions of Open Access) Regulation, 2005 (No.2 of2005), which came into force w.e.f 1-7-2005. Clause 19.4 of that
+Regulation provides that the balancing and settlement of energy and demand shall be done in accordance with the
+Balancing and Settlement Code to be approved by the Commission. The Commission has also been expressing its
+keenness to introduce the ABT regime at the State level. Pending finalization of a comprehensive settlement system for
+the State pool under ABT, the Commission considered it appropriate to specify an Interim Balancing and Settlement
+Page 1/13
+----- PAGE 2 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+Code, envisaging a day-ahead wheeling schedule of energy on the basis of 15-minute time blocks, and monthly
+settlement of deviations. The Commission accordingly formulated a draft Regulation, published the same in the Andhra
+Pradesh Gazette on 6-8-2005, and issued a press release seeking comments/suggestions from all stakeholders and the
+public at large and also placed it on the website of the Commission. 36 persons/ organizations including Transmission
+Licensee and Distribution Licensees have responded to the publication by sending their comments/suggestions in
+writing. The Commission has considered all these comments/suggestions, made modifications as considered
+appropriate and finalised the Regulation.
+In exercise of the powers conferred by Section 181 read with Sections 42(2), 66 and 94 (2) of the Electricity Act 2003
+(36 of 2003) and all other powers enabling it in that behalf, the Andhra Pradesh Electricity Regulatory Commission
+hereby makes the following Regulation, namely:-
+1.
+Short title, Commencement and interpretation.
+(a)
+This Regulation may be called the Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and
+Settlement Code) Regulation, 2006.
+(b)
+This Regulation shall extend to the whole of Andhra Pradesh.
+(c)
+This Regulation shall come into force on 1-12-2006.
+2.
+Definitions.
+- In this Regulation, unless the context otherwise requires:-
+(a)
+"Act" means the Electricity Act 2003 (36 of 2003);
+(b)
+"APERC" or "Commission" means the Andhra Pradesh Electricity Regulatory Commission:
+(c)
+"Billing month" means the period between any two successive meter-reading dates, as provided in the Open Access
+Agreement:
+(d)
+"Distribution Licensee" or "DISCOM" means a licensee authorised to operate and maintain a distribution system for
+supplying electricity to the consumers in his area of supply;
+(e)
+"Losses" means the energy losses in percentage for an EHT system as a single system and for all other voltage levels,
+the losses in percentage as provided in the applicable Tariff Order of the Commission, or the actual levels of energy
+losses as provided in this Regulation.
+Explanation. - (i) If the wheeling of electricity is through the distribution system of more than one distribution licensee or
+if the Entry/Exit point is connected to EHT system, the losses would include the transmission loss and the distribution
+loss up to the voltage level of the distribution licensee in whose area of supply such exit/entry point (whichever is lower)
+is located
+(ii)
+If the entry and exit points are located within the distribution system (33 kV and below) of the same distribution licensee,
+the losses would include only the distribution loss of the distribution licensee up to the voltage level at the relevant exit or
+the entry point(s), whichever is lower.
+(f)
+"Scheduled Consumer" means a consumer who has a supply agreement with the distribution licensee in whose area of
+supply the consumer is located and also has a supply agreement with a person other than the distribution licensee
+under the Open Access Regulation and includes a consumer of a distribution licensee who also avails of wheeling
+facility for carrying the electricity from his captive generating plant to the destination of his own use.
+(g)
+"Time Block" means each block of fifteen (15) minutes for which the energy meters record specified electrical
+Page 2/13
+----- PAGE 3 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+parameters and quantities, with the first time block for a day starting at 00:00 hours.
+(h)
+"Open Access Agreement" means an agreement entered into between the Transmission and/or Distribution Licensees
+and the persons availing Open Access facility under clause 12 of the Open Access Regulation.
+(i)
+"Open Access Consumer" or "OA Consumer" means a consumer not having a supply agreement with the distribution
+licensee in whose area of supply the consumer is located, but availing or intending to avail supply of energy from a
+person other than that distribution licensee under the Open Access Regulation and includes a consumer availing
+wheeling facility for carrying the electricity from his captive generating plant to the destination of his own use without
+having a supply agreement with the distribution licensee of the area in which the consumer’s premises is located.
+(j)
+"Open Access Regulation" means the A. P. Electricity Regulatory Commission (Terms and Conditions of Open Access)
+Regulations, 2005 (Regulation No.2 of 2005).
+(k)
+"Open Access Generator" means a generating company using or intending to use the transmission system and/ or the
+distribution system of the licensees in the State for supply of electricity to a Scheduled Consumer or OA Consumer
+under the Open Access Regulation.
+(l)
+"State" means the State of Andhra Pradesh.
+(m)
+"Wheeling schedule" means the schedule for a fifteen (15) minute time block provided by the Scheduled Consumer, an
+OA Consumer or an OA Generator, to the SLDC, pursuant to clause 4 of this Regulation, read with clause 6.
+(n)
+The words and expressions used in this Regulation and not defined herein but defined in the Open Access Regulation
+shall have the same meaning as assigned to them in the Open Access Regulation and those not also defined in the
+Open Access Regulation but defined in the Act, shall have the same meaning as assigned to them in the Act.
+3.
+Extent of Application.
+- The Interim Balancing & Settlement Code set out in this Regulation shall apply to Open Access Generators, Scheduled
+Consumers and OA Consumers.
+4.
+Scheduling.
+- 4.1 Each Open Access Generator, Scheduled Consumer and OA Consumer shall provide a Wheeling Schedule in the
+format as at Appendix - 1(a), to the SLD/D1SCOM for each fifteen (15) minute time block for a day, on a day-ahead
+basis by 10:00 a.m. on the day preceding the commencement of the first time block for which the wheeling of energy is
+scheduled, with a copy each to the State Transmission Utility (APTRANSCO) and the concerned DISCOM:
+Provided that an Open Access Generator, Scheduled Consumer and OA Consumer requiring to wheel electricity from
+more than one generating station with the interface points located at different locations (with separate metering at each
+entry point) shall provide separate wheeling schedule for the entry point(s) of each generating station:
+Provided also that the Wind-based or Mini-hydel Open Access Generators shall not be required to provide a day-ahead
+wheeling schedule and the actual electricity injected by them shall be deemed to be the scheduled energy.
+4.2
+The OA generators scheduling their supply to more than one schedule/OA consumer or the scheduled/OA consumer
+receiving supply from more than one OA generator shall communicate to the SLD/DISCOM (along with the day-ahead
+schedule) the inter-se order of allocation of the actual generation among the Schedule/OA consumers or the inter-se
+order of allocation of the actual consumption among the OA generators as the case may be. Such communication of
+inter-se order of allocation/consumption to the SLDC/D1SCOM shall be deemed to have been done with prior consent of
+all the parties involved and binding on all the OA generators, Scheduled consumers and OA consumers.
+4.3
+In the event of failure to submit the wheeling schedule in accordance with clause 4.1, the latest wheeling schedule
+available with the SLDC/DISCOM shall be treated as the effective wheeling schedule.
+Page 3/13
+----- PAGE 4 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+4.4
+SLDC shall communicate the final day-ahead schedule to the respective parties along with inter-se order of allocation of
+consumption/generation capacities wherever applicable as per the time-frame set out in the State Grid Code and the
+same shall be binding on all parties.
+5.
+Allocation of Capacity by OA Generators.
+- 5.1 The sum total of the Capacity allocations by an OA Generator for any time block to all the Scheduled Consumers
+and OA Consumers shall not exceed the available capacity from his generating plant being not higher than the installed
+capacity or contracted Open Access capacity, whichever is lower.
+5.2
+The OA Generator shall also indicate the allocated capacity in kW at the exit point(s) for each consumer in the Format at
+Appendix - 1 (a) using the loss levels as specified in the applicable Tariff Order of the Commission. The energy account
+of the billing month shall be finalized based on the transmission and distribution losses specified by the Commission in
+the applicable Tariff Order.
+5.3
+The SLDC/DISCOM shall verify the capacity allocated at the Exit point(s) and correct it in case of discrepancy, if any.
+The computations of SLDC shall be final and binding on all.
+6.
+Revenue of Wheeling Schedule.
+- In case of any system constraint, the SLDC/DISCOM may modify the schedules of Open Access Generators,
+Scheduled Consumers and/or the OA Consumers, as the case may be, at any time in accordance with the Grid Code
+and the Open Access Regulation, which shall be conveyed to them. Compliance with the instructions of SLDC shall not
+be reckoned as a deviation by the concerned Generator/Consumer from the schedule. The Open Access Generator,
+Scheduled Consumer or OA Consumer, shall not, however, be entitled to revise a wheeling schedule during the course
+of a day.
+7.
+Meter Reading, Energy Accounting and Settlement.
+- 7.1 SLDC shall undertake the accounting of energy for each time block on monthly basis with the assistance of the
+Energy Billing Centre (EBC) of the State Transmission Utility (STU) in respect of the Open Access Generators,
+Scheduled Consumers and the OA Consumers who are connected to the transmission system, In respect of the Open
+Access Generators, Scheduled Consumers and the OA Consumers who are connected to the distribution system, it is
+the EBC that shall be responsible for energy accounting and settlement in co-ordination with the DISCOMs.
+7.2
+Such Account shall be examined and signed by a Committee comprising the STU. DISCOMs and Generators:
+Provided that in the case of Generators, only one representative, as approved by the Commission, from each class of
+Generators mentioned below shall be represented on the Committee:
+Central Generating Stations (CGS)
+APGENCO
+Independent Power Producers (IPPS)
+Non-conventional Energy (NCE) Developers (Biomass, Mini-hydel, Hydro, Wind, etc.) Captive Power Plants (CPs)
+7.3
+The monthly meter readings shall be taken by the respective DISCOM at all the entry points at 33 kV and below and at
+all the exit point(s) of the Open Access Generators located in its licensed area, as identified in the wheeling schedules.
+Where, however, the entry point is connected to the Transmission system, such monthly readings shall be taken by the
+Transmission Licensee:
+Provided that the readings for each time block shall be retrieved through a Meter Reading Instrument (MRI) or otherwise
+by the respective Licensees mentioned above once in a week and shall be transmitted to the SLDC. The meter readings
+as and when taken shall also to be made available to the Open Access Generator/Consumer in whose premises the
+readings are taken, or to his representative, if available.
+In case of failure of metering equipment or non-availability of MRI data, a suitable methodology as approved by the
+Commission may be employed for finalizing the energy account. The Licensees may submit proposed data-substitution
+Page 4/13
+----- PAGE 5 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+methodology for Commission’s approval within one month of issue of this Regulation.
+7.4
+The SLDC shall finalize the energy account of the Open Access transactions of a billing month with the assistance of
+EBC and arrive at the deviations for each time block and the consequent adjustments integrated over the month in
+respect of all Open Access Generators, Scheduled Consumers and the OA Consumers in accordance with the
+procedure specified herein.
+8.
+Settlement of Energy/demand at exit Point in Respect of Scheduled Consumer.
+- 8.1 The Scheduled energy (in kWh) at exit point shall be calculated for each time block from the scheduled capacity
+(kW) at the Exit point, as provided in the wheeling schedule, by multiplying it with the period of time block in hours.
+8.2
+The Scheduled demand at exist point shall be calculated by dividing the scheduled capacity (kW) at exist point by the
+power factor for the time block, for which purpose the Power factor shall be equal to the recorded kWh divided by kVAh.
+8.3
+The Scheduled energy of a Scheduled Consumer from an OA Generator for each time-block shall be deducted from the
+recorded energy (in the inter-se order of such Generators, as and if intimated by the consumer, in case the consumer is
+availing of energy from more than one Generator) as a first charge. The balance energy shall be deemed to have been
+supplied by the DISCOM and shall have to be paid for as per the terms of the supply agreement with the DISCOM:
+Provided that where there is a deviation between the scheduled capacity and actual capacity being injected at an Entry
+point in a time block, the shortfall, if any, in the capacity allocated to the Scheduled Consumer shall be deemed to have
+been drawn by the Scheduled Consumer from the DISCOM and the energy corresponding to such shortfall shall be paid
+for by the party which has contracted for the Open Access capacity with the Licensee to the DISCOM as per the energy
+tariff applicable for the same consumer category of DISCOM under which the Scheduled Consumer would normally fall.
+8.4
+The Scheduled demand at Exist point or the actual demand made available to a consumer from each OA Generator at
+that Exist point in a time-block whichever is less, shall be deducted from the recorded demand (in the inter-se order of
+such Generators, as confirmed by the SLDC while finalizing the day-ahead schedule, in case the consumer is availing of
+energy from more than one Generator). The balance demand for each time-block shall be deemed to have been
+consumed from the DISCOM and shall be paid for as per the terms of the supply agreement with the DISCOM.
+9.
+Settlement of Energy at exist point in Respect of OA Consumers.
+- 9.1 The Scheduled Energy at Exist point of an OA Consumer shall be calculated from the Scheduled capacity from an
+OA Generator at the Exist point for each time block as provided in clause 8.1 above.
+9.2
+In case the Open Access Consumer is receiving supply from more than one Open Access generator, the total, energy
+and demand recorded shall be deemed to have been consumed from the respective Open Access Generators in the
+inter-se order of Generators as confirmed by the SLDC while finalizing the day-ahead schedule.
+9.3
+The excess energy recorded, if any, at the exist point for any time block with reference to scheduled energy or the actual
+energy available at that Exist point, whichever is less, shall be deemed to have been consumed by the Generator or the
+OA consumer whoever has contracted for the Open Access capacity with the Licensee, from the DISCOM and shall be
+paid for by the Open Access Generator/Consumer at the energy tariff applicable for the same consumer category of
+DISCOM to which the OA Consumer would normally belong. Such excess consumption shall also attract all penal
+provisions provided in the applicable Tariff Order like those in respect of Low Power Factor, voltage surcharge, etc and
+wherever applicable, the relevant charges shall also be paid for by the OA generator/ OA consumer.
+9.4
+The Scheduled demand at exist point or the actual demand made available to a consumer from each OA Generator at
+that Exist point in a time -block whichever is less, shall be deducted from the recorded demand (in the inter-se order of
+such Generators, as confirmed by the SLDC while finalizing the day-ahead schedule, in case the consumer is availing of
+energy from more than one Generator). The balance demand for each time-block shall be deemed to have been
+consumed from the DISCOM and shall be paid at twice the demand charges applicable for the same consumer category
+Page 5/13
+----- PAGE 6 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+of DISCOM to which the OA Consumer would normally belong.
+10.
+Settlement for OA Generators at Entry Point.
+- 10.1 The excess drawals of energy and demand by Scheduled Consumers on account of under-generation by the
+Generator for each time block, shall be deemed to have been drawn from the DISCOM. The energy and demand
+charges for such excess drawls shall be paid for by the Scheduled Consumer in accordance with the proviso to clause
+8.3 and as per clause 8.4 respectively.
+10.2
+The excess drawal of energy and demand by an OA Consumer on account of under -generation by the Generator for
+each time block shall be deemed to have been drawn by the Generator (or Open Acr°ss Consumer whoever has
+contracted for Open Access Capacity) and shall be paid for by the Generator/ Consumer as per the normal energy tariff
+and twice the demand charges applicable for thcT same consumer category to which the OA Consumer would normally
+belong.
+10.3
+The underdrawals by Scheduled Consumers and/or OA Consumers shall have impact on the Generator and on the
+DISCOM in whose area of supply the Exist Point is located. Such underdrawals at Exist point shall be treated as
+inadvertent energy supplied by the Generator to the DISCOM(s) and shall not be paid for by the DISCOM.
+10.4
+Injection of energy by an OA Generator over and above the scheduled capacity at an Entry point shall not be accounted
+for. In such cases, only the scheduled capacity at exist point shall be accounted for as having been supplied by the
+Generator to the Scheduled Consumer or the OA Consumer, as the case may be.
+10.5
+In case of wind and mini-hydel OA generators the actual generation during the month shall be deemed as scheduled
+energy. For the purpose of settlement in respect of scheduled/OA consumer availing supply from these OA generators,
+the actual generation during the month will be apportioned for each time block of the month and deviations reckoned
+accordingly.
+11.
+Levy of Surcharge and Additional / Surcharge.
+- Each Open Access Generator, Scheduled Consumer and OA Consumer shall, in addition to the tariff and other
+charges mentioned in the preceding clauses, also be required to pay, wherever applicable, the surcharge in accordance
+with the provisions of the Open Access Regulation as also the applicable additional surcharge, if any, under Section 42
+(4) of the Act.
+12.
+Banking.
+- 12.1 No generators other than the Wind and Mini Hydel power generators shall be allowed the facility of banking the
+electricity generated by them:
+Provided that in the case of existing users of wheeling facility, the energy already banked as per the subsisting
+agreements as on the date of coming into force of this Regulation, shall be allowed to be wheeled as hithertofore till the
+expiry of the balance period available for utilization of the banked energy:
+Provided, however, that in the case of generators whose cases are pending appeals in the Hon’ble High Court of Andhra
+Pradesh and/or the Hon’ble Supreme Court, this provision shall be applicable subject to the final decision of the High
+Court and/or the Supreme Court, as the case may be.
+12.2
+The banking facility to the Wind and Mni Hydel power generators shall be subject to the conditions specified in Appendix
+- 3.
+13.
+Dispute Resolution.
+- All disputes and complaints shall be referred to the SLDC for resolution, which shall not decide a matter without first
+affording an opportunity to the concerned parties to represent their respective points of view. The decisions of the SLDC
+shall be binding on all parties.
+14.
+Page 6/13
+----- PAGE 7 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+Issue of Orders and Practice Directions.
+- Subject to the provisions of the Act. the A.P. Electricity Reform Act, 1998, and this Regulation, the Commission may,
+from time to time, issue orders and practice directions in regard to the implementation of this Regulation, the procedure
+to be followed and other matters, which the Commission has been empowered by this Regulation to specify or direct.
+15.
+Power To Remove Difficulties.
+- In case of any difficulty in giving effect to any of the provisions of this Regulation, the Commission may be general or
+special order, issue appropriate directions to Open Access Generators, Scheduled Consumers, OA Consumers,
+Transmission Licensee(s), Distribution licensee(s) etc., to take suitable action, not being inconsistent with the provisions
+of the Act, which appear to the Commission to be necessary or expedient for the purpose of removing the difficulty.
+16.
+Saving.
+- Nothing contained in this Regulation shall affect the rights and privileges of the Consumers under any other law for the
+time being in force, including the Consumer Protection act, 1986 (68 of 1986).
+17.
+Power to Amend.
+- The Commission may from time to time and, vary, alter, suspend, modify, amend or repeal any provisions of this
+Regulation.
+Appendix - 1 (A)
+Format for the Day-ahead Wheeling Schedule for each 15 minute time block of the day
+Date:
+Declared capacity for the day
+Name of the Generator;
+{|
+Time block
+Available Capacity
+|-
+| Address of the
+Generating Station:
+|-
+| Entry point voltage:
+|}
+DISCOM
+Name of the Consumer
+Voltage level of Exist point
+Time Blocks
+Allocated capacity at Entry point Kw
+Net capacity at Exit point kW
+Any other information to be provided:
+Signature of the OA Generator /Scheduled Consumer/OA Consumer
+Note. - An example each for computation of Net capacity at Exit point is given in Appendix -1(b) and examples for
+Settlement are given in Appendix-2
+Appendix -1 (B)
+Computation of Net capacity at the Exit point
+Date:
+Declared capacity for the day
+Name of the Generator: Z in SPDCLEntry point voltage: 132 kV
+{|
+Time block
+Available Capacity
+|}
+Page 7/13
+----- PAGE 8 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+DISCOM
+Name of the consumer
+Voltage level of Exit point
+Time Blocks
+Allocated capacity at Entry point kW
+Net capacity at Exit point kW
+1. Sch. Consr.
+11 kW
+1 to 96
+1,000
+830.80
+SPDCL
+2 Sch. Consr.
+132 kV
+1 to 96
+2,000
+1900.00
+3. OA Consr.
+33kV
+lto 96
+1,000
+893.40
+Total for SPDCL
+1. Sch. Consr.
+11 kV
+1 to 96
+1,000
+827.20
+CPDCL
+2. Sch.Consr.
+33 kV
+1 to 96
+3,000
+2676.60
+3. OA Consr.
+132 kV
+1 to 96
+5,000
+4750.00
+Total for CPDCL
+1. Sch. Consr.
+llkV
+1 to 96
+1,000
+821.00
+NPDCL
+2. OA Consr.
+33 kV
+1 to 96
+2,000
+1778.60
+Page 8/13
+----- PAGE 9 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+Total for NPDCL
+1. Sch. Consr.
+11 kV
+1 to 96
+1,600
+818.90
+EPDCL
+2. OA Consr.
+33 kV
+1 to 96
+3,000
+2636.70
+Total for EPDCL
+Grand Total
+20,000
+17983.20
+N.B. - In the Table above, the following loss levels have been taken into consideration, sourced from the Commission’s
+Tariff Order for FY 2005-06. The loss levels of corresponding FY as per the Tariff Order of the Commission for the
+relevant year should be taken for computation of the net capacity at exit point:
+Transmission losses = 5%Distribution losses up to the Voltage level of exist point
+(Percentage)
+Voltage
+SPDCL
+CPDCL
+NPDCL
+EPDCL
+33kV 5.66
+5.66
+5.78
+6.07
+7.11
+11 kV 11.92
+11.92
+12.28
+12.90
+13.11
+LT 20.44
+20.44
+20.50
+23.05
+21.30
+Example for calculation of Losses. - OA Consumer 3 of SPDCL
+? 132 kV + Losses up to 33 kV? (5+5.66=10.66%)? 1000 X 10.66/100 = 106.60 kW
+Appendix -2
+(A)
+. Where Generator is Generating at the level of Scheduled Capacity:
+(kW)
+{|
+|-
+| DISCOM
+| Consumer
+Page 9/13
+----- PAGE 10 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+| Sch. Cap at Exist Point
+| Recorded consumption
+| Accountable to Generator
+| Accountable to DISCOM
+| Deviation at Exist point
+|-
+|
+| 1. Sch. Consr.
+| 830.80
+| 1000
+| 830.80
+| 169.20
+| Nil
+|-
+| SPDCL
+| 2. Sch. Consr.
+| 1900.00
+| 2000
+| 1900.00
+| 100.00
+| Nil
+|-
+|
+| 3. OA Consr.
+| 893.40
+| 1200
+| 893.40
+| 306.60
+| 306.60
+|-
+|
+| 4. Sch. Consr.
+| 827.20
+| 600
+| 600.00
+| 0.00
+| (-) 227.70
+|-
+| CPDCL
+| 5. Sch. Consr.
+| 2676.60
+| 3000
+| 2676.60
+| 323.40
+| Nil
+|-
+|
+| 6. OA Consr.
+| 4750,00
+| 4000
+| 4000.00
+Page 10/13
+----- PAGE 11 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+| 0.00
+| (-) 750.00
+|-
+|
+| 7. Sch. Consr.
+| 821.00
+| 1100
+| 821.00
+| 279.00
+| Nil
+|-
+| NPDCL
+| 8. OA Consr.
+| 1778.60
+| 1900
+| 1778.60
+| 121.40
+| 121.40
+|-
+|
+| 9. Sch. Consr.
+| 818.90
+| 1200
+| 818.90
+| 381.10
+| Nil
+|-
+| EPDCL
+| 10. OA Consr.
+| 2636.70
+| 2500
+| 2500.00
+| 0.00
+| (-) 163.30
+|}
+(B)
+. Where Generator is under Generating w.r.t Scheduled Capacity:
+d capacity = 20,000 kW Actual capacity = 18,000 kW
+(kW)
+Consumer
+Sch. Cap at Entry Point
+Sch. Cap at Exit Point
+Actual capacity at Entry point
+Actual capacity at Exist point
+Recorded consumption
+Deviation
+1. Sch. Consr.
+1000
+830.80
+900
+747.72
+Page 11/13
+----- PAGE 12 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+1000
+83.08
+2. Sch. Consr
+2000
+1900.00
+1800
+1710.00
+2000
+190.00
+3. OA Consr.
+1000
+893.40
+900
+804.06
+1200
+395.94
+4. Sch. Consr
+1000
+827.20
+900
+744.48
+600
+(-) 144.48
+5. Sch. Consr.
+3000
+2676.60
+2700
+2408.94
+3000
+267.66
+6. OA Consr.
+5000
+4750.00
+4500
+4275.00
+4000
+(-) 275.00
+7. Sch. Consr.
+1000
+821.00
+900
+738.90
+1100
+82.10
+8. OA Consr.
+2000
+1778.60
+1800
+1600.74
+1900
+299.26
+Page 12/13
+----- PAGE 13 -----
+Andhra Pradesh Electricity Regulatory Commission (Interim Balancing and Settlement Code) R...
+9. Sch. Consr.
+1000
+818.90
+900
+737.01
+1200
+81.89
+10. OA Consr.
+3000
+2636.70
+2700
+2373.03
+2500
+126.97
+Appendix - 3
+Terms and Conditions for banking facility allowed to Wind power and Mini-hydel Power Generators
+1. Banking allowed during all the 12 months.
+2. Drawals are subject to the following:
+(a)
+The banking year shall be from January to December.
+(b)
+The banking charges shall be in kind @ 2% of the energy delivered at the point of injection.
+(c)
+Drawals shall be permitted only during the 6-month period, from July to December. The banked energy remaining
+unutilized as on 31st December shall be treated as lapsed.
+(d)
+Drawal of banked energy during the peak hours i.e. 06:00 to 09:00 hours and 18:00 hours to 21:00 hours shall not be
+permitted.
+Related AI tags, queries and research notes
+Translation
+Page 13/13

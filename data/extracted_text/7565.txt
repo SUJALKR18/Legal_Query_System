@@ -1,0 +1,448 @@
+
+----- PAGE 1 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+The U.P. Electricity Regulatory Commission (Promotion of Green
+Energy Through Renewable Purchase Obligation) Regulations, 2010
+Source: https://indiankanoon.org/doc/181719511/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Uttar Pradesh - Act
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Purchase Obligation)
+Regulations, 2010
+UTTAR PRADESH
+India
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Purchase Obligation)
+Regulations, 2010
+Rule
+THE-U-P-ELECTRICITY-REGULATORY-COMMISSION-PROMOTION-OF-GREEN-ENERGY-THROUGH-RENEWABL
+E-PURCHASE-OBLIGATION-REGULATIONS-2010 of 2010
+Published on 17 August 2010
+Commenced on 17 August 2010
+[This is the version of this document from 17 August 2010.]
+[Note: The original publication document is not available and this content could not be verified.]
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Purchase Obligation)
+Regulations, 2010
+Published Vide Notification. No. UPERC/Secy/Regulation/10-787 dated 17.08.2010, published in the U.P. Gazette,
+Extraordinary, Part 1-Ka, dated 25.12.2010.
+In exercise of powers conferred under Sections 61, 66, 86(1)(e) and 181 of the Electricity Act, 2003 and all other powers
+Page 1/9
+----- PAGE 2 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+enabling it in this behalf and after previous publication, the Uttar Pradesh Electricity Regulatory Commission hereby
+makes the following regulations, namely :
+1.
+Short Title and Commencement.
+(1)
+These regulations may be called the Uttar Pradesh Electricity Regulatory Commission (Promotion of Green Energy
+through Renewable Purchase Obligation) Regulations, 2010;
+(2)
+These regulations shall come into force from the date of their publication in the Official Gazette.
+(3)
+These regulations shall apply throughout the State of Uttar Pradesh.
+2.
+Definitions and Interpretations.
+(1)
+In these regulations, unless the context otherwise requires:
+(a)
+"Act" means the Electricity Act, 2003 (36 of 2003)
+(b)
+"Captive user" means the person or member within the meaning of Section 2 (8) of the Act being the end user of the
+electricity generated in captive generating plant primarily for his own use and the term 'captive use' shall be construed
+accordingly;
+(c)
+"Central Agency" means the agency operating the National Load Despatch Centre or such other agency as the Central
+Commission may designate from time to time;
+(d)
+"Central Commission" means the Central Electricity Regulatory Commission referred to in sub-section (1) of Section 76
+of the Act;
+(e)
+"Certificate" means the renewable energy certificate issued by the Central Agency in accordance with the detailed
+procedures laid down by it and under the provisions specified in the CERC REC Regulations;
+(f)
+"CERC REC Regulations" means live Central Electricity Regulatory Commission (Terms and Conditions for recognition
+and issuance of Renewable Energy Certificate for Renewable Energy Generation) Regulations, 2010 and amendments
+thereof;
+(g)
+"Commission" means the Uttar Pradesh Electricity Regulators Commission as referred to in sub-section (1) of Section
+82 of the Act;
+(h)
+"Eligible Entity" means the entity eligible to receive the certificates under the CERC REC Regulations;
+(i)
+"floor price" means the minimum price as determined by the Central Commission in accordance with the CERC REC
+Regulations, as amended from time to time, at and above which the certificate can be dealt in power exchange;
+(j)
+"Forbearance price" means the ceiling price as determined by the Central Commission in accordance with the CERC
+REC Regulations, as amended from time to time, within which only the certificate can be dealt in power exchange;
+(k)
+"MINRE" means the Ministry of New and Renewable Energy, Government of India.
+(l)
+"Obligated entity" means the distribution licensee, captive user and open access consumer in the State, which is
+mandated to fulfill renewable purchase obligation under these regulations subject to fulfillment of conditions outlined
+under clause 3.2 hereof;
+Page 2/9
+----- PAGE 3 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+(m)
+"Open access consumer" means the consumer availing open access under sub-section (2) of Section 42 of the Act;
+(n)
+"Power Exchange" means any exchange operating as the power exchange for electricity in terms of the orders issued by
+the Central Commission.
+(o)
+"Preferential tariff" means the tariff fixed by the Appropriate Commission for sale of energy from a generating station
+based on renewable energy sources to a distribution licensee;
+(p)
+"Renewable energy sources" means renewable electricity' generating sources such as small, hydro, wind, solar,
+biomass, bio-fuel co-generation (including bagasse based co-generation), urban or municipal waste and such other
+sources as recognized or approved by MNRE or State Government;
+(q)
+"Renewable purchase obligation" means the requirement as specified in clause 4 hereof, under clause (e) of sub-section
+(1) of Section 86 of the Act, for the obligated entity to purchase electricity generated from renewable energy sources;
+(r)
+"State" means the State of Uttar Pradesh ;
+(s)
+"State Agency" means the agency in the State as designated by the Commission under clause 8.1 hereof;
+(t)
+"Year" means a financial year.
+(2.2) Words and expressions used in these regulations and not defined herein but defined in the Act or the CERC REC
+Regulations or any other Regulations issued by the Commission, shall have the same meanings as assigned to them
+respectively in the Act or the CERC REC Regulations or such other Regulations issued by the Commission.
+3.
+Scope and Extent of Application.
+- (3.1) These regulations shall apply to generating companies, in respect of the grant of accreditation by the State
+Agency to the renewable energy projects.
+(3.2) These regulations shall be applicable to :
+(a)
+distribution licensees;
+(b)
+captive user(s) - who consumes electricity generated from its grid connected captive generating plant having installed
+capacity of 1 MW and above (or such other capacity as may be stipulated by the Commission from time to time by an
+order); and
+(c)
+open access consumer(s) - who consumes electricity procured from conventional fossil fuel based generation through
+open access subjected to renewable purchase obligation to the extent of his consumption met through such source.
+4.
+Renewable Purchase Obligation.
+- (4.1) Every obligated entity shall purchase a minimum percentage of its total consumption of electricity (in kWh) from
+renewable energy sources under the renew able purchase obligation during each financial year.
+The minimum percentages referred to above are given below in Table-A :
+Year
+Minimum quantum of purchase from renewable
+energy sources as % age of total energy consumed (in kWh)
+Non-Solar
+Solar
+Total (2+3)
+1
+2
+Page 3/9
+----- PAGE 4 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+3
+4
+2010-11
+3.75
+0.25
+4
+2011-12
+4.50
+0.5
+5
+2012-13
+5.0
+1
+6
+Provided that if the obligate entity has established the fact that the minimum quantum of purchase from solar energy
+[shown in column (3) above] is not available in the market cither in the form of solar power or solar certificate in a
+particular year and the Commission is satisfied with this fact, then additional non-solar energy over and above that
+shown in column (2) above shall be purchased for fulfilment of total renewable purchase obligation in accordance to
+column (4) above :
+Provided further that such obligation to purchase renewable energy shall be inclusive of the purchases, if any, already
+being made from renewable energy sources by the concerned obligated entity :
+Provider further that renewable energy being received, if any, by the obligated entity for own use from its own generating
+station, shall be accounted for fulfilment of its renewable purchase obligation :
+Provided also that the power from renewable energy sources being purchased by the distribution licensees under the
+existing power purchase agreements shall continue till the validity of the existing agreements, even if the total purchases
+under such agreements exceed the percentages specified hereinabove.
+(4.2) The Commission may, either on its own motion or on recommendation of the State Agency or on receipt of an
+application from the obligated entity, revise for any year, the percentage targets given in clause 4.1 hereinabove as
+deemed appropriate.
+(4.3) The renewable purchase obligation specified for the year 2012-13 shall continue beyond 2012-13 until any revision
+is effected by the Commission in this regard.
+(4.4) The renewable purchase obligation so specified in these regulations shall supersede the renewable purchase
+obligation as may be mentioned in any other regulation or order thereof issued/passed by the Commission.
+Explanation. - The purchases by an obligated entity at preferential tariff, if any, from a generating station based on
+renewable energy sources shall continue to be inclusive in the renewable purchase obligation.
+5.
+Certificates under the Regulations of the Central Commission.
+- (5.1) Subject to the terms and conditions contained in these regulations, the certificates issued under the CERC REC
+Regulations shall be the valid instrument for the discharge of the mandatory obligations set out in these regulations for
+the obligated entities to purchase electricity from renew able energy' sources :
+Provided that in the event of the obligated entity fulfilling the renewable purchase obligation by purchase of certificates,
+the obligation to purchase electricity from generation based on solar energy source can be fullfilled by purchase of solar
+certificates and the obligation to purchase electricity from generation based on renewable energy other than solar can
+be fulfilled by purchase of non-solar certificates.
+(5.2) Subject to such directions as the Commission may give from time to time, the obligated entity shall act consistent
+with the CERC REC Regulations in regard to the procurement of the certificates for fulfillment of the renewable purchase
+obligation under these regulations.
+(5.3) The certificates purchased by the obligated entities from the power exchange in terms of the regulation of the
+Central Commission mentioned in clause 5.1 hereinabove shall be deposited by the obligated entities to the State
+Agency in accordance with the procedure laid down under these regulations.
+(5.4) In case of genuine difficulty in complying with the renewable purchase obligation on account of non-availability of
+Page 4/9
+----- PAGE 5 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+renewable power or certificates, the obligated entity can approach the Commission to carry forward the compliance
+requirement to the next year.
+6.
+Obligated Entities.
+- (6.1) Distribution Licensee :
+(6.1.1) Every distribution licensee shall, on a yearly basis on or before 51h March, submit to the State Agency under
+intimation to the Commission, the details of the estimated quantum of purchase from renewable energy sources for the
+ensuing year. The estimated quantum of such purchase shall be in accordance with clause 4. In the event of the actual
+cons; option being different from that approved by the Commission, the commitment towards renewable purchase
+quantum shall be deemed to have been modified to that extent in accordance with clause 4.
+(6.1.2) The distribution licensee shall submit quarterly status to the State Agency in respect of compliance of renewable
+purchase obligation in accordance with the procedure as referred to in clause 8.2.
+(6.1.3) The distribution licensee shall also submit a detailed statement to the State Agency under intimation to the
+Commission at the end of each year in respect of compliance of renewable purchase obligation.
+(6.1.4) Despite availability of power from renewable energy sources and certificates, if the distribution licensee fails to
+fulfill its commitment towards minimum purchase from renewable energy sources, it shall be liable to deposit amount
+into a separate fund as per clause 7.
+(6.2) Captive User and Open Access Consumer :
+(6.2.1) Every captive user and open access consumer shall have to submit in advance necessary details regarding total
+estimated consumption of electricity and the quantum of power proposed to be purchased from renewable energy
+sources for fulfilling its renewable purchase obligation. The details shall be submitted to the State Agency on a y early
+basis on or before 15th March under intimation to the Commission.
+(6.2 2) The captive user and open access consumer shall submit quarterly status to the State Agency in respect of
+compliance of renewable purchase obligation in accordance with the procedure as referred to in clause 8.2.
+(6.2.3) The captive user and open access consumer shall submit under affidavit a detailed statement in respect of
+compliance of renewable purchase obligation to the State Agency at the end of each year under intimation to the
+Commission.
+(6.2.4) Captive user and open access consumer shall purchase power from renewable energy sources in accordance
+with clause 4. They may also fulfill their renewable purchase obligation through purchase of certificates. If the captive
+user or open access consumer is unable to fulfill the minimum purchase criteria, then it shall deposit into a separate fund
+the amount as per clause 7.
+7.
+RPO Regulatory Fund.
+- If the obligated entity does not fulfill its commitment towards minimum purchase from renewable energy sources during
+any year as provided in these regulations, the Commission may direct the obligated entity to, deposit into a separate
+fund such amount as the Commission may determine on the basis of the shortfall in units of renewable purchase
+obligation, RPO Regulatory Charges and the forbearance price. For this purpose, a fund shall be created and
+maintained by such obligated entity in accordance with the procedure as referred to in clause 8.2 :
+Provided that RPO Regulatory Charges shall be equivalent to the applicable preferential tariff for solar or non-solar
+renewable energy' sources or any other rate as may be stipulated by the Commission :
+Provided further that the RPO Regulatory Fund so created shall be utilised, as may be directed by the Commission, for
+purchase of the certificates or for development of transmission and distribution infrastructure in the State related to
+generating stations based on renewable energy sources or in any other manner as may be stipulated by die
+Commission :
+Provided further that the Commission may empower the State Agency to procure out of the amount available in the fund
+the required number of certificates from the Power Exchange;
+Provided also that the obligated entity shall be in breach of these regulations if it fails to deposit the amount directed by
+the Commission within fifteen days from the date of communication of the direction ;
+Provided also that where any obligated entity fails to comply with the obligation to purchase the required percentage of
+power from renewable energy sources and/or the renewable energy' certificates, it shall be liable for action as may be
+decided by the Commission.
+Page 5/9
+----- PAGE 6 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+8.
+State Agency and its Functions.
+- (8.1) The State Agency shall act as the agency for accreditation and recommending the renewabgle energy projects for
+registration and to undertake such functions incidental to the compliance of renewable purchase obligation as may be
+assigned by the Commission from time to time.
+Provided that the Commission shall, by general or special order, designate as it considers appropriate any agency to
+function as State Agency.
+(8.2) The State Agency shall discharge its functions in accordance with the procedure laid down under these regulations
+:
+Provided that the State Agency shall develop and submit within sixty days of issue of these regulations the draft
+procedure for approval of the Commission :
+Provided further that nothing in these regulations bars the Commission from issuing the procedure on its own motion, by
+general or special order as it considers appropriate, in consultation with the State Agency and other stakeholders in
+case the State Agency fails to submit the draft procedure or in view of special circumstances for which the reasons shall
+be recorded in writing.
+(8.3) The Commission may issue directions to the State Agency with regard to the discharge of its functions and the
+State Agency shall comply with those directions.
+(8.4) The State Agency shall act in a manner consistent with the provisions of the CERC REC Regulations, to the extent
+applicable to it.
+(8.5) The State Agency shall submit to the Commission a quarterly status and an annual statement regarding
+compliance of renewable purchase obligation by the obligated entities, in accordance with the procedure as referred to
+in clause 8.2 and may submit recommendations, if any, to the Commission.
+(8.6) The Commission shall, either on its own motion or on request of the State Agency, constitute by an order as
+deemed appropriate a Co-ordination Committee for facilitating the implementation of these regulations :
+Provided that the State Agency shall nominate any one of its Officer to head such Committee.
+9.
+Eligibility for Accreditation.
+- A generating company engaged in generation of electricity from renewable energy sources shall be eligible to apply for
+accreditation subject to following conditions :
+(a)
+it has connectivity to the State Network,
+(b)
+it docs not have any power purchase agreement for the capacity related to such generation to sell electricity at a
+preferential tariff determined by the Commission; and
+(c)
+it possesses the necessary infrastructure required to carryout energy metering and time-blockwise accounting.
+10.
+Grant of Accreditation.
+- (10.1) A generating company fulfilling the eligibility criteria as provided in clause 9 may apply for accreditation with the
+State Agency :
+Provided that the application for accreditation shall also include geographical location of the applicant, metering details,
+point of injection and quantum of power to be injected to the State grid/network for which accreditation has been applied
+for.
+(10.2) The State Agency shall, in consultation with the concerned transmission licensee and/or distribution licensee,
+process the application and grant accreditation or otherwise to the applicant within thirty days from the date of receipt of
+application :
+Provided that an applicant shall be given a reasonable opportunity of being heard before his application is rejected :
+Provided further that in case application is rejected, then the reasons for rejection shall be recorded in writing.
+Provided also that in case the State Agency faces any difficulty in the process of consultation or co-ordination, it may
+approach the Commission for appropriate directions.
+(10.3) A person aggrieved by the decision of the State Agency under proviso to clause 10.2 may approach the
+Page 6/9
+----- PAGE 7 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+Commission for redressal within fifteen days from the date of receipt of communication of such decision and the
+Commission may pass order, as deemed appropriate.
+(10.4) Accreditation shall be valid for a period of five years from the date of accreditation certificate unless otherwise
+revoked prior to expiry of such validity period under clause 13.
+(10.5) Grant of accreditation shall not entitle an applicant to inject any such power to the State grid/network unless the
+applicant/renewable energy generating company or buyer, as the case may be, obtains open access in accordance with
+the regulations specified by the Appropriate Commission :
+Provided that if a generating plant is embedded in the distribution system of a distribution licensee, it shall not require to
+obtain open access for supplying electricity to such licensee.
+11.
+Renewable Energy Pricing under REC mechanism.
+- The generating company (i.e. eligible entity), after obtaining accreditation, shall sell the electricity so generated and
+subsequently obtains and sells renewable energy certificates (representing environmental attributes associated with
+renewable energy generation) in the following manner:
+(a)
+it shall sell the electricity generated either -
+(i)
+to the distribution licensee(s) of the State, at a price not exceeding the pooled cost of power purchase of such
+distribution licensee (s);
+(ii)
+to any other licensee, open access consumer or a captive user in the State at a mutually agreed rate;
+(iii)
+to any person through power exchange.
+Explanation. - For the purpose of these regulations 'Pooled Cost of Power Purchase' means the weighted average
+pooled price at which the distribution licensee purchased electricity including cost of self-generation, if any, in the
+previous year from all the long-term and short-term energy suppliers, but excluding those based on renewable energy
+sources, as the case may be.
+(b)
+it shall obtain certificates from the Central Agency based on certified injection report of SLDC;
+(c)
+it may sell the certificates in power exchange within the band of a floor price and a forbearance price subject to the
+provisions of CERC REC Regulations :
+Provided that the Central Commission may, in consultation with the Central Agency and Forum of Regulators, from time
+to time provide for the floor price and forbearance price separately for solar and non-solar certificates :
+Provided further that, with the progressive development of the electricity sector, the pricing methodologies for electricity
+component and renewable energy certificates shall be reviewed at periodic intervals as may be considered appropriate
+by the Commission.
+12.
+Monitoring during Accreditation.
+- Subject to the procedure as referred to in clause 8 2, the State Agency shall, in co-ordination with concerned
+transmission licensee and/or distribution licensee, monitor the accredited project, maintain operation of accounts and
+undertake other functions incidental to the monitoring of such accredited project:
+Provided that generating company after obtaining accreditation shall submit annual status to the State Agency in respect
+of accreditation and other matters connected therewith :
+Provided further that an application for extension of validity of existing accreditation shall be made to the State Agency
+atleast ninety days prior to expiry of validity of existing accreditation.
+13.
+Revocation of Accreditation.
+- (13.1) If the State Agency, after making an enquiry or based on the report of Central Agency, is satisfied that public
+interest so requires, it may revoke accreditation of the renewable energy generating company where such company.
+(a)
+Page 7/9
+----- PAGE 8 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+breaches any of the terms and conditions of its accreditation which is expressly declared by such accreditation so as to
+render it liable to revocation; and
+(b)
+makes wilful and prolonged default, in the opinion of the State Agency, in doing anything required of it by or under these
+regulations.
+(13.2) The State Agency before revoking the accreditation under clause 13.1 shall give to such renewable energy
+generating company reasonable opportunity for being heard.
+(13.3) Notwithstanding the provisions of clause(s) 13.1 and 13.2, the Commission may from time to time direct the State
+Agency to initiate enquiry and/or revocation process against such renewable energy generating company if the
+Commission deems it fit.
+(13.4) A person aggrieved by the decision of the State Agency under clause 13.1 may approach the Commission for
+redressal within fifteen days from the date of such decision being communicated and the Commission may pass order,
+as deemed appropriate.
+14.
+Fees and Charges.
+- (14.1) The Commission may from time to time, based on the proposal in this regard from the State Agency or on its
+own motion, determine, by order, the fees and charges payable by the obligated entities and/or the persons applying for
+accreditation, and for maintaining the validity or accreditation and other matters connected therewith.
+(14.2) The fees and charges payable may include non-refundable application fee, one-time accreditation fee, annual fee
+and other charges for discharging its function in accordance with these regulations, as the Commission may consider
+appropriate.
+(14.3) The fees and charges paid by the obligated entities and the renewable energy generating companies shall be
+collected by the State Agency and utilised in consultation with the Commission.
+15.
+Information System.
+- The State Agency shall post the following documents/information on its website in a separate web-page titled
+"Accreditation of Re-Projects".
+(a)
+These regulations;
+(b)
+Procedure as mentioned in these regulations;
+(c)
+List of applications alongwith necessary details received by the State Agency for accreditation;
+(d)
+List of accreditation granted, indicating -
+(i)
+Name of Re-generating company/station;
+(ii)
+Point of injection;
+(iii)
+Capacity (MW) for which accreditation has been granted.
+(e)
+List of applications where approval for accreditation has not been granted alongwith reasons thereof;
+(f)
+Summary statement of Re-procurement and RPO compliance by obligated entities.
+16.
+Redressal Mechanism.
+- All disputes arising out of or under these regulations shall be decided by the Commission on a petition made in this
+behalf by the person aggrieved.
+17.
+General Power to Amend.
+Page 8/9
+----- PAGE 9 -----
+The U.P. Electricity Regulatory Commission (Promotion of Green Energy Through Renewable Pu...
+- The Commission may, at any time and on such terms as it may deem fit, amend/vary/delete/modify any of the
+provisions of these regulations and make necessary amendments thereof.
+18.
+Power to relax.
+- The Commission may by general or special order, for reasons to be recorded in writing, relax any of the provisions of
+these regulations on its own motion or on an application made before it by an interested person.
+19.
+Miscellaneous.
+- (19.1) Nothing in these regulations shall be deemed to limit or otherwise affect the power of the Commission to make
+such orders as may be necessary to meet the ends of justice or to prevent abuse of process of the Commission.
+(19.2) Nothing in these regulations shall bar the Commission from adopting a procedure in conformity with the provisions
+of the Act, and is at variance with any of the provisions of these regulation, if the Commission, in view of the special
+circumstance of a matter or class of matters and for reasons to be recorded in writing, deems it necessary or expedient
+for so dealing with such a matter or class of matters.
+Related AI tags, queries and research notes
+Translation
+Page 9/9

@@ -1,0 +1,524 @@
+
+----- PAGE 1 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+Central Electricity Regulatory Commission (Open Access In
+Inter-State Transmission), 2004
+Source: https://indiankanoon.org/doc/106523912/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+UNION OF INDIA
+India
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+Rule
+CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-OPEN-ACCESS-IN-INTER-STATE-TRANSMISSION-2004 of
+2004
+Published on 6 February 2004
+Commenced on 6 February 2004
+[This is the version of this document from 6 February 2004.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+Published vide Notification Gazette of India, Extra, Part 3, Section 4, dated 6.2.2004
+1599.
+Noti.ND-L-7/25(4) 2003 Dated the 30.1.2004.- In exercise of powers conferred by Section 178 of the Electricity Act,
+2003 and all other powers enabling in this behalf, and after previous publication, the Central Electricity Regulatory
+Commission, hereby makes the following regulations, namely:-
+1.
+Page 1/10
+----- PAGE 2 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+Short Title and Commencement.-
+(i)
+These regulations may be called the Central Electricity Regulatory Commission (Open Access in Inter-state
+Transmission) Regulations, 2004.
+(ii)
+(a)
+These regulations, except Clause (iii) of Regulation 6 shall come into force from the date of their publication in the
+Official Gazette;
+(b)
+Clause (iii) of Regulation 6 shall come into force after expiry of 90 days from the date of publication of these regulations
+in the Official Gazette and during this period of 90 days, reservation for short-term customers shall be done on
+first-come-first-served basis:
+Provided that the period for such reservation shall not exceed the period of 90 days from the date of publication of these
+regulations in the Official Gazette.
+2.
+Definitions.-
+In these regulations, unless the context otherwise requires-
+(a)
+"Act" means the Electricity Act, 2003 (
+36 of 2003
+);
+(b)
+"Allotted Transmission Capacity" means the power transfer in MW between the specified point(s) of injection and
+point(s) of drawal allowed to a long-term customer on the inter-state transmission system under normal circumstances
+and the expression "allotment of transmission capacity" shall be construed accordingly;
+(c)
+"Commission" means Central Electricity Regulatory Commission referred to in Section 76 of the Act;
+(d)
+"Direct customer" means a person directly connected to the system owned or operated by the Central Transmission
+Utility;
+(e)
+"Embedded customer" means a person who is not a direct customer;
+(f)
+"Existing beneficiary" means a person having firm allocation from a central power generating station on the date of
+coming into force of these regulations and who has entered into Bulk Power Transmission Agreement with the Central
+Transmission Utility;
+(g)
+"Grid Code" means the Grid Code specified by the Commission under Clause (h) of sub-section (1) of Section 79 of the
+Act and includes the Indian Electricity Grid Code applicable on the date of commencement of these regulations;
+(h)
+"Nodal agency" means the nodal agency defined in regulation 8 of these regulations;
+(i)
+"Open access customer" means a consumer permitted by the State Commission to receive supply of electricity from a
+person other than distribution licensee of his area of supply, and the expression includes a generating company and a
+licensee, who has availed of or intends to avail of open access;
+(j)
+"Reserved Transmission Capacity" means the power transfer in MW between the specified point(s) of injection and
+point(s) of drawal allowed to a short-term customer on the transmission system depending on availability of transmission
+capacity and the expression "reservation of transmission capacity" shall be construed accordingly;
+(k)
+"Transmission Customer" means any person, including open access customer using transmission system of a
+Page 2/10
+----- PAGE 3 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+transmission licensee;
+(l)
+Words and expressions used and not defined in these regulations but defined in the Act or the Grid Code, shall have the
+meaning assigned to them under the Act or the Grid Code, as the case may be.
+3.
+Extent of Application.-
+These regulations shall apply for access to inter-state transmission system.
+4.
+Categorisation of Transmission Customers.-
+(i)
+The transmission customers shall be divided into two categories, namely: -
+(a)
+Long-term customers, and
+(b)
+Short-term customers.
+(ii)
+The persons availing or intending to avail access to the inter-state transmission system for a period of twenty five years
+or more shall be the longterm customers:
+Provided that the existing beneficiaries of a regional transmission system owned or operated by the Central
+Transmission Utility shall be deemed to be the long-term customers of the particular regional system owned or operated
+by the Central Transmission Utility for the purpose of these regulations.
+(iii)
+The transmission customers other than the long-term customers shall be the short-term customers:
+Provided that the maximum duration for which the short-term access allowed at a time shall not exceed one year:
+Provided further that the short-term customer shall be eligible and reeligible to obtain fresh reservation after expiry of his
+term.
+5.
+Criteria for allowing transmission access.-
+(i)
+The long-term access shall be allowed in accordance with the transmission planning criterion stipulated in the Grid
+Code;
+(ii)
+The short-term access shall be allowed, if request can be accommodated by utilising: -
+(a)
+Inherent design margins;
+(b)
+Margins available due to variation in power flows; and
+(c)
+Margins available due to in-built spare transmission capacity created to cater to future load growth.
+6.
+Criteria for Allotment/Reservation of Transmission Capacity.-
+(i)
+Allotment priority of a long-term customer shall be higher than reservation priority of a short-term customer;
+(ii)
+In case of short-term customers, at given point of time, if all the requests for access can be accommodated, each
+short-term customer shall pay the transmission charges in accordance with regulation 16;
+(iii)
+(a)
+In case of short-term access, if the capacity sought to be reserved by the customers is more than the available
+transmission capacity at that point of time, the Regional Load Despatch Centre concerned shall invite snap bids through
+fax/e-mail;
+Page 3/10
+----- PAGE 4 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+(b)
+The floor price for the bidding shall be the price determined in accordance with regulation 16;
+(c)
+The bidders shall quote price in terms of percentage points above the floor price;
+(d)
+The reservation of transmission capacity will be made in decreasing order of the price quoted;
+(e)
+In case of equal price, if required, the reservation of transmission capacity shall be made pro rata to the capacity sought;
+(f)
+The customer getting reservation for a capacity less than the capacity sought by him shall pay charges quoted by him
+and the customers getting transmission capacity reservation equal to the capacity sought by them shall pay charges
+quoted by the last customer getting reservation of transmission capacity;
+(iv)
+The Regional Load Despatch Centres shall, within 45 days, formulate a detailed procedure for reservation of
+transmission capacity to short-term customers, including the detailed procedure for bidding.
+7.
+Within a category (long-term or short-term), there shall be no discrimination between open access customers and
+self-use by an integrated entity like the State Electricity Board. The transmission licensees shall declare existing
+long-term customers using their system (including self-use and use by unbundled agencies which were previously
+integrated) either on their own website or on the website of the Regional Load Despatch Centre or the State Load
+Despatch Centre concerned within 180 days. All future requests for use of the transmission system for inter-state
+transmission shall be handled in accordance with these regulations.
+8.
+Nodal Agency.-
+(i)
+The nodal agency for arranging the long-term transmission access shall be the Central Transmission Utility if its system
+is used, otherwise the nodal agency shall be transmission licensee in whose system the point of drawal of electricity is
+situate;
+(ii)
+The nodal agency for the short-term transmission access shall be the Regional Load Despatch Centre of the region
+where point of drawal of electricity is situate.
+9.
+Procedure for Long-Term Customer.-
+(i)
+An application for long-term access shall be submitted to the nodal agency;
+(ii)
+The application shall contain the details, such as capacity needed, point(s) of injection, point(s) of drawal, duration of
+availing open access, peak load, average load and such other additional information that may be specified by the nodal
+agency:
+Provided that the nodal agency shall issue necessary guidelines, procedure and application forms within 30 days of
+publication of these regulations in the Official Gazette.
+(iii)
+The application shall be accompanied by a non-refundable application fee of Rs one lakh payable in the name and in the
+manner to be decided by the nodal agency;
+(iv)
+Based on system studies conducted in consultation with other agencies involved including other transmission licensees,
+the nodal agency shall, within 30 days of receipt of the application, intimate to the applicant whether or not the long-term
+access can be allowed without further system strengthening:
+Provided that where the long-term access can be allowed without further system strengthening, this shall be allowed
+immediately after entering into commercial agreements.
+(v)
+Page 4/10
+----- PAGE 5 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+If, in the opinion of the nodal agency, further system strengthening is essential before providing the long-term access,
+the applicant may request the nodal agency to carry out the system studies and preliminary investigation for the purpose
+of cost estimates and completion schedule for system strengthening;
+(vi)
+The nodal agency shall carry out the studies immediately on receipt of request from the applicant under clause (v) and
+intimate results of the studies within 90 days of receipt of request from the applicant;
+(vii)
+The applicant shall reimburse the actual expenditure incurred by the nodal agency for system strengthening studies:
+Provided that the fee of rupees one lakh paid by the applicant shall be adjusted against the actual expenditure to be
+reimbursed by the applicant.
+10.
+The allotment of transmission capacity to a long-term customer may be relinquished or transferred to any other
+long-term customer in accordance with regulation 12 of these regulations.
+11.
+Bulk Power Transmission Agreement
+A long-term customer shall enter into Bulk Power Transmission Agreement with the transmission licensee for use of
+inter-state transmission system.
+12.
+Exit Option.-
+(i)
+A long-term customer shall not relinquish or transfer his rights and obligations specified in the Bulk Power Transmission
+Agreement, without prior approval of the Commission.
+(ii)
+The relinquishment or transfer of right and obligations by a long-term customer shall be subject to payment of
+compensation, as may be determined by the Commission.
+13.
+Procedure for Short-Term Customer.-
+(i)
+A short-term customer shall submit an application for transmission access to the nodal Regional Load Despatch Centre;
+(ii)
+The application shall contain the details such as capacity needed, point of injection, point of drawal, duration of availing
+open access, peak load, average load and such other additional information that may be specified by the Regional Load
+Despatch Centre;
+(iii)
+The application shall be accompanied by a non-refundable application fee of Rs five thousand payable in the name and
+in the manner to be decided by the Regional Load Despatch Centre;
+(iv)
+The reserved transmission capacity shall not be transferred by a shortterm customer to any other customer.
+14.
+Non-Utilisation of reserved transmission capacity by short-term Customer.-
+(i)
+In case a short-term customer is unable to utilise, full or substantial part of the reserved transmission capacity reserved,
+he shall inform the Regional Load Despatch Centre along with reasons for his inability to utilise the reserved
+transmission capacity and may surrender the reserved transmission capacity;
+(ii)
+The Regional Load Despatch Centre may reduce or cancel the reserved transmission capacity of a short-term customer
+when such a short-term customer frequently under-utilises the reserved transmission capacity;
+(iii)
+The transmission short-term customer, who has surrendered the reserved transmission capacity or whose reserved
+transmission capacity has been reduced or cancelled, shall bear full transmission charges and the scheduling and
+system operation charges based on original reserved transmission capacity and the period for which the transmission
+Page 5/10
+----- PAGE 6 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+capacity was reserved;
+(iv)
+The transmission capacity available as a result of surrender or reduction or cancellation of the reserved transmission
+capacity by the Regional Load Despatch Centre under clause (i) or clause (ii) above, may be reserved for any other
+short-term open access customer in accordance with these regulations.
+15.
+Treatment of Existing Transactions.-
+Any person, other than the existing beneficiary, using the inter-state transmission system on the date of commencement
+of these regulations, shall be given 60 days notice by the Regional Load Despatch Centre to submit an application to the
+nodal agency for grant of access to the transmission system in accordance with these regulations.
+16.
+Transmission Charges.-
+The transmission charges for use of the transmission system of the transmission licensee for inter-state transmission
+shall be regulated as under, namely:-
+(i)
+The annual transmission charges shall be determined by the Commission in accordance with the terms and conditions
+of tariff notified by the Commission from time to time and after deducting the adjustable revenue from the short-term
+customers, these charges shall be shared by the long-term customers;
+(ii)
+(a)
+The charges payable by a short-term customer shall be calculated in accordance with the following methodology:
+ST_RATE = 0.25 x [ TSC/ Av_CAP ]/ 365
+Where: ST_RATE is the rate for short-term open access customer in Rs per MW per day.
+Note.- ST_RATE shall be calculated and applied for each - (a) regional system; (b) inter-regional link, and (c) system of
+the State Transmission Utility or the State Electricity Board or any other transmission licensee forming part of the
+inter-state system.
+"TSC" means the Annual Transmission Charges of the transmission licensee for the previous financial year determined
+by the Appropriate Commission.
+"Av_CAP" means the average capacity in MW served by the transmission system of the transmission licensee in the
+previous financial year and shall be the sum of the generating capacities connected to the transmission system and
+contracted capacities of other transactions handled by the system of the transmission licensee.
+(b)
+The transmission charges payable by a short-term customer shall be for one day and in multiples of whole number of
+days.
+(c)
+Non-availability of TSC for the transmission system shall not be reason for delay in providing transmission access and
+where TSC for any transmission licensee are not available, the per MW per day charge applicable for the system owned
+by the Central Transmission Utility of the region in which the system of transmission licensee is situate, shall be used.
+(d)
+Every transmission licensee shall declare rate in Rs per MW per day, which shall remain fixed for a period of one year:
+Provided that in case of north-eastern region, where the Uniform Common Pooled Transmission Tariff (UCPTT) of 35
+paise/KWh is applicable, the Central Transmission Utility shall notify ST_RATE as 25% of the UCPTT in Rs/MW/Day.
+Provided further that where reservation of transmission capacity has been done consequent to bidding in the manner
+specified in Regulation 6, the ST_RATE shall be taken as the floor price for bidding.
+(iii)
+25% of the charges collected from the short-term customer shall be retained by the transmission licensee and the
+balance 75% shall be adjusted towards reduction in the transmission charges payable by the long-term customers.
+17.
+Scheduling and System Operation Charges.-
+(i)
+The scheduling and system operation charges of Rs.3000/-per day or part of the day shall be paid by a short-term
+Page 6/10
+----- PAGE 7 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+customers to each Regional Load Despatch Centre and State Load Despatch Centre involved in the transaction;
+(ii)
+The scheduling and system operation charges collected by the Regional Load Despatch Centre in accordance with
+clause (i) above shall be in addition to the fees and charges approved by the Commission.
+Explanation.- Scheduling and system operation charges shall be payable by a generating company when allowed
+access under these regulations.
+18.
+Unscheduled Inter-change (UI) charges.-
+(i)
+The mismatch between the scheduled and the actual drawal at drawal point(s) and scheduled and the actual injection at
+injection point(s) shall be met from the grid and shall be governed by UI pricing mechanism applicable to the inter-state
+transactions;
+(ii)
+A separate bill for UI charges shall be issued to the direct customers and in case of the embedded customers, a
+composite UI bill for the State as a whole shall be issued, the segregation for which shall be done at the State level.
+19.
+Reactive Energy Charges.-
+The payment for the reactive energy charges for the direct customers on account of open access shall be calculated in
+accordance with the scheme applicable to transactions involving inter-state transmission approved by the Commission
+from time to time.
+20.
+The reactive energy charges payable to or receivable by the State Electricity Board or the State Transmission Utility
+shall be paid to or received from the pool by the State Electricity Board or the State Transmission Utility concerned and
+shall not be apportioned to the embedded customers.
+21.
+The reactive energy drawals and injections by the embedded customers shall be governed by the regulations applicable
+within the State concerned.
+22.
+Time-schedule for Processing Application.-
+As far as practicable, the following time schedule shall be adhered to by the respective nodal agency for processing of
+the application for grant of open access:
+Sl. No.
+Type of Service/activity
+Maximum processing time
+1.
+Short term Service
+Up to one day
+12 hours
+Up to one week
+Two days
+Up to one month
+Seven days
+Up to one year
+Thirty days
+2.
+Long term Service
+Intimation regarding feasibility of access without  system strengthening
+30 days
+Intimation of results of studies for system strengthening with cost estimates and completion schedule
+90 days
+23.
+Page 7/10
+----- PAGE 8 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+Curtailment Priority.-
+When because of transmission constraints or otherwise, it becomes necessary to curtail the transmission service of the
+transmission customers, the short-term customers shall be curtailed first followed by the long-term customers:
+Provided that within a category, all users shall have same curtailment priority and shall be curtailed pro rata to the
+allotted transmission capacity in the case of longterm customers and the reserved transmission capacity in the case of
+short-term customers.
+24.
+Other Commercial Conditions.-
+Other commercial conditions for transmission charges and scheduling and system operation charges, such as, terms of
+payment, creditworthiness, indemnification, and force majeure conditions shall be standardised within 60 days by the
+Central Transmission Utility for long-term customers and by the Regional Load Despatch Centre for the short-term
+customers .
+25.
+Special Energy Meters.-
+The Special Energy Meters shall be installed by the direct customers and if required, also by the embedded customers.
+26.
+The Special Energy Meters installed shall be capable of time differentiated measurements (15 minutes) of active energy
+and voltage differentiated measurement of reactive energy as specified by the Central Transmission Utility or the
+Regional Load Despatch Centre.
+27.
+The Special Energy Meters shall be always maintained in good condition.
+28.
+The Special Energy Meters for the direct customer shall be open for inspection by any person authorised by the Central
+Transmission Utility or the Regional Load Despatch Centre.
+29.
+Energy losses.-
+The transmission customers shall bear average energy losses in the transmission system as estimated by the Regional
+Load Despatch Centre and the State Load Despatch Centre concerned. The energy losses in the transmission system
+shall be compensated by additional injection at the injection point(s). The information regarding average energy losses
+for the previous 52 weeks shall be posted on the website of the Regional Load Despatch Centres and the State Load
+Despatch Centres.
+30.
+Compliance of Grid Code.-
+The open access customers shall comply with the provisions of the Grid Code in force from time to time.
+31.
+Collection and Disbursement of charges.-
+(i)
+The transmission charges in respect of long-term customers shall be payable directly to respective transmission
+licensee;
+(ii)
+The transmission charges and the scheduling and system operation charges in respect of short-term customers shall be
+collected and disbursed by the nodal Regional Load Despatch Centre. The nodal Regional Load Despatch Centre may
+require the transmission charges and scheduling and system operation charges to be paid in advance for a maximum
+period of one month, the detailed procedure for which shall be finalised by jointly by the Regional Load Despatch
+Centres;
+(iii)
+The short-term customers shall pay 2% of the billed amount for transmission charges and scheduling and system
+operation charges as handling and service charges to the nodal Regional Load Despatch Centre and these charges
+shall not be adjusted against the Regional Load Despatch Centre fees and charges approved by the Commission;
+(iv)
+The collection and disbursement of the unscheduled inter-change charges and the reactive energy charges shall be
+Page 8/10
+----- PAGE 9 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+governed in accordance with the procedure and methodology specified by the Commission from time to time.
+32.
+Information System.-
+Each Regional Load Despatch Centre and State Load Despatch Centre shall post following information on their
+websites in a separate web-page titled "Open access information" :
+(i)
+Floor rate in rupees per MW per day for the short-term customers (ST_RATE) for each - (a) regional system (b)
+inter-regional link, and (c) system of the State Transmission Utility or the State Electricity Board or any other
+transmission licensee with detailed calculations in support of such rate in respect of all the transmission licensees
+situate within the region or the State concerned;
+(ii)
+A status report on the current short-term customers indicating:-
+(a)
+Name of customer;
+(b)
+Period of the access granted (start date and end date);
+(c)
+Point(s) of injection;
+(d)
+Point(s) of drawal;
+(e)
+Transmission systems used (in terms of region and ownership);
+(f)
+Reserved transmission capacity; and
+(g)
+Applicable rate (Rs per MW per day).
+Note.- The status report shall be updated upon every change in status.
+(iii)
+Month-wise and year-wise report on past short-term customers indicating:
+(a)
+Name of the customer;
+(b)
+Period of the access granted (start date and end date);
+(c)
+Point(s) of injection;
+(d)
+Point(s) of drawal;
+(e)
+Transmission systems used (on the basis of region and ownership);
+(f)
+Reserved transmission capacity;
+(g)
+Applicable rate (Rs per MW per day); and
+(h)
+Actual load factor.
+Note.- All previous reports shall also be available in the web-archives.
+(iv)
+Information regarding usage of the inter-regional links and the links between the Central Transmission Utility and state
+systems (in case of the Regional Load Despatch Centre) and inter-state links (in case of State Load Despatch Centre)
+indicating:
+(a)
+Page 9/10
+----- PAGE 10 -----
+Central Electricity Regulatory Commission (Open Access In Inter-State Transmission), 2004
+Time of updating;
+(b)
+Name of the link;
+(c)
+Total transmission capacity of the link;
+(d)
+Scheduled capacity use (giving customer-wise break-up); and
+(e)
+Current capacity of the link in use.
+Note.- This information should be updated at least on hourly basis, and where ever feasible on 15 minute basis.
+(v)
+The information regarding average energy losses for the previous 52 weeks.
+33.
+The publication of the web-based information system shall commence within 30 days in case of the Regional Load
+Despatch Centres and within 180 days in case of the State Load Despatch Centres. Each transmission licensee shall
+make available the above information to the Regional Load Despatch Centre or State Load Despatch Centre concerned.
+34.
+All transmission licensees shall declare current long-term customers using their system (including self-use and use by
+unbundled agencies which were previously integrated) with details thereof either on their own websites or on the website
+of the Regional Load Despatch Centre or the State Load Despatch Centre concerned, within
+180.
+days.
+Note.- This list shall be updated as and when change in status takes place.
+35.
+Redressal Mechanism.-
+All complaints regarding unfair practices, delays, discrimination, lack of information, supply of wrong information or any
+other matter related to open access in inter-state transmission shall be directed to the Member Secretary, Regional
+Electricity Board or Regional Power Committee, as the case may be, of the region in which the authority against whom
+the complaint is made, is located. The Member Secretary, Regional Electricity Board or the Regional Power Committee,
+as the case may be, shall investigate and endeavour to resolve the grievance:
+Provided that any matter which the Member Secretary, Regional Electricity Board or the Regional Power Committee, as
+the case may be, is unable to resolve, shall be reported to the Commission for a decision.
+36.
+Coordination.-
+The responsibilities assigned to the Regional Load Despatch Centres of formulation of procedures, guidelines and
+application forms under these regulations shall be coordinated by the Central Transmission Utility.
+Related AI tags, queries and research notes
+Translation
+Page 10/10

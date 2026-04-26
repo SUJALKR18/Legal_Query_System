@@ -1,0 +1,121 @@
+
+----- PAGE 1 -----
+The Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz (Exempti...
+The Indoor Use of low power Equipment in the frequency band 2.4
+GHz to 2.4835 GHz (Exemption from Licensing Requirement) Rules,
+2004
+Source: https://indiankanoon.org/doc/88382460/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz (Exemption from Licensing
+Requirement) Rules, 2004
+UNION OF INDIA
+India
+The Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz (Exemption from Licensing
+Requirement) Rules, 2004
+Rule
+THE-INDOOR-USE-OF-LOW-POWER-EQUIPMENT-IN-THE-FREQUENCY-BAND-2-4-GHZ-TO-2-4835-GHZ-EXEMPT
+ION-FROM-LICENSING-REQUIREMENT-RULES-2004 of 2004
+Published on 25 August 2004
+Commenced on 25 August 2004
+[This is the version of this document from 25 August 2004.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz (Exemption from Licensing
+Requirement) Rules, 2004
+Published vide Notification No. G.S.R. 542(E), dated 25th August, 2004
+Page 1/3
+----- PAGE 2 -----
+The Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz (Exempti...
+Ministry of Communications and Information Technology
+(Wireless Planning and Coordination Wing)
+G.S.R. 542(E). - In exercise of the powers conferred by sections 4 and 7 of the Indian Telegraph Act, 1885 (
+13 of 1885
+) and section 4 and 10 of the Indian Wireless Telegraphy Act, 1933 (17 of 1933) and in supersession of the "Indoor Use
+of Wireless LAN (W-LAN) Equipment using Bluetooth and IEEE 802.11b Standard in 2.4 GHz band (Exemption from
+Licensing Requirement) Rules, 2003", except as respect things done or omitted to be done before such supersession,
+the Central Government hereby makes the following rules, namely:
+1.
+Short title and commencement.
+(1)
+These rules may be called the Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz
+(Exemption from Licensing Requirement) Rules, 2004.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definition.
+- In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Indian Telegraph Act, 1885 (
+13 of 1885
+);
+(b)
+Effective Radiated Power (ERP) includes the gain of the antenna, if any;
+(c)
+Words and expressions used in these rules and not defined, but defined in the Act and the Indian Wireless Telegraphy
+Act, 1933 (17 of 1933), shall have the same meanings respectively as assigned to them in those Acts.
+3.
+Use of wireless equipment in the band 2.4 GHz to 2.4835 GHz.
+- Notwithstanding anything contained in any law for the time being in force, no licence shall be required by any person to
+establish, maintain, work, possess or deal in any wireless equipment in the frequency band 2.4 GHz to 2.4835 GHz with
+the power, Effective Radiated Power, type of antenna and coverage area as specified in the Table given below; namely
+;-
+Table
+Maximum radiated power output
+Maximum Effective Radiated Power
+Type of Antenna
+Coverage Area
+(1)
+(2)
+(3)
+(4)
+100 mW (20 dBm) in Spread of 10 MHz
+26 dBm
+Built in or indoor antenna
+Within the single contiguous campus of an
+individual, duly recognized organization or institution.
+4.
+Interference.
+- The effect of unwanted energy due to one or a combination of emissions, radiations or induction upon reception in a
+radio communication system, manifested by any performance degradation, misinterpretation, or loss of information
+Page 2/3
+----- PAGE 3 -----
+The Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz (Exempti...
+which could be extracted in the absence of such unwanted energy. In case where any person to whom a licence has
+been issued under section 4 of the Act informs that his licensed system is getting harmful interference from any other
+radio communication system exempted under these rules, the indoor use of such unlicensed Wireless equipment shall
+be discontinued forthwith.
+5.
+Equipment.
+(1)
+The wireless equipment shall be type approved and designed and constructed in such a manner that the bandwidth of
+emission and other parameters shall conform to the limits specified in the Table referred to in rule 3.
+(2)
+The application for obtaining Equipment Type Approval shall be made to the Central Government in such form as may
+be specified by that Government in this behalf.
+Related AI tags, queries and research notes
+Translation
+Page 3/3

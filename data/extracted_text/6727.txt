@@ -1,0 +1,2879 @@
+
+----- PAGE 1 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity
+Distribution Code
+Source: https://indiankanoon.org/doc/173725477/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of  Tamilnadu- Act
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+TAMILNADU
+India
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Rule TAMIL-NADU-ELECTRICITY-REGULATORY-COMMISSION-TAMIL-NADU-ELECTRICITY-DISTRIBUTION-CODE
+of 2004
+Published on 21 July 2004
+Commenced on 21 July 2004
+[This is the version of this document from 21 July 2004.]
+[Note: The original publication document is not available and this content could not be verified.]
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Published vide Notification No. TNERC/DC/8/1 dated 21.7.2004
+Whereas under section 86 of the Electricity Act, 2003 (Central Act 36 of 2003), the State Electricity Regulatory
+Commission shall, among others, specify or enforce standards with respect to quality, continuity and reliability of service
+by licensees;
+And Whereas section 46 of the said Act, the State Electricity Regulatory Commission may, by regulations, authorize a
+distribution licensee to charge from a person requiring a supply of electricity any expenses reasonably incurred in
+providing any electric line or electrical plant used for the purpose of giving that supply;
+Page 1/54
+----- PAGE 2 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Now, Therefore under the powers conferred by the said sections and all other powers enabling in that behalf and after
+previous publication, the Tamil Nadu Electricity Regulatory Commission hereby specifies the following Code.
+Chapter 1
+Preliminary
+1.
+Short title and commencement.
+(1)
+This Code may be called "Tamil Nadu Electricity Distribution Code"
+2.
+The provisions of this Code shall come into effect on the [date of its publication in the Tamil Nadu Government Gazette]
+[Tamil Nadu Electricity Distribution Code has come into force from 1st September 2004.]
+2. Definitions.
+(1)
+In this Code, unless the context otherwise requires:
+(a)
+"Act" means The Electricity Act, 2003 (Central Act 36 of 2003);
+(b)
+"Agreement" means with its grammatical variations and cognate expressions an agreement entered into by the Licensee
+and the consumer;
+(c)
+"Apparatus" means electrical apparatus and includes all machines, fittings, accessories and appliances in which
+conductors are used; Tamil Nadu Electricity Distribution Code
+(d)
+"Area of supply" means the area within which a Licensee is for the time being authorized by his/her licence to supply
+electrical energy;
+(e)
+"Code" means the Tamil Nadu Electricity Distribution Code;
+(f)
+"Commission" means the Tamil Nadu Electricity Regulatory Commission;
+(g)
+"Conductor" means any wire, cable, bar, tube, rail or plate used for conducting energy and so arranged as to be
+electrically connected to a system;
+(h)
+"Connected Load' means the aggregate of the manufacturer's rating of all equipments connected to the consumer's
+installation and of all portable equipments and also the capacity of the power source required to test manufactured
+products and repaired equipment in the installation;
+Explanation. - Where the rating is in terms of KVA, it shall be converted to KW by multiplying it by a power factor of 0.9
+and where the rating is in terms of HP, it shall be converted to KW by multiplying it by a factor of 0.746.
+(i)
+"Connection Point" means the point at which the Consumer's plant or apparatus is connected to the Licensee's supply
+system.
+(j)
+"Contracted Load" means the load specified in the agreement between the consumer and the Licensee engaged in the
+business of supplying electricity to him.
+(k)
+"Consumer's installation" means any composite electrical unit including the electric wires, fittings, motors and
+equipments erected and wired by or on behalf of the consumer in one and the same premises.
+(l)
+"Consumer's premises" means the area served by a service connection;
+(m)
+"Control Person" means a person identified as having responsibility for cross boundary safety;
+Page 2/54
+----- PAGE 3 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(n)
+Demand
+a. "Average Demand" for the month means the ratio of the total kilowatt-hours consumed in the month to the total hours
+in the month.
+b. "Maximum Demand" in a month means the highest value of the average Kilovolt- amperes in case of HT services and
+KW in case of LT services, delivered at the point of supply of the consumer during any consecutive thirty / fifteen
+minutes in a month depending on the nature of load.
+c. "Permitted Demand," means the demand permitted by the Licensee taking into account the constraints in the
+transmission and distribution network.
+d. "Sanctioned Demand" or "Contracted Demand" means the demand sanctioned by the Licensee and specified in the
+agreement.
+(o)
+"Designated Authority of the Licensee" means an authority who has been notified as such by the Licensee in the manner
+prescribed by the Commission to exercise powers under specific provisions of this Code;
+(p)
+"Emergency" means a situation arising out of threat to security of State, public order or a natural calamity or such other
+situation arising in the public interest which is likely to disrupt supply of electricity:
+(q)
+["Engineer" means an engineer, by whatever name designated, employed by the distribution licensee and is in charge of
+the local area of supply and includes any other person duly authorized by him or his superiors, to exercise any power of
+an engineer under this Code.] [[Substituted as per Commission's Notification No.TNERC/DC/8-8 dated,8.2.2008 (w.e.f.
+27.2.2008). Before substitution it stood as under:
+'Engineer' means an engineer, by whatever name designated, employed by the Licensee possessing such qualifications
+as are approved by the Commission and is in charge of the local area of supply and includes any other person duly
+authorized by him or his superiors, to exercise any power of an engineer under this Code']]
+(r)
+"Extra High Tension (EHT) consumer" means a consumer who obtains supply from the Licensee at Extra High Voltage.
+(s)
+"High Tension (HT) consumer" means a consumer who obtains supply from the Licensee at High Voltage.
+(t)
+"Low Tension (LT) consumer" means a consumer who obtains supply from the Licensee at Low or Medium Voltage:
+(u)
+"Load" means connected load or contracted load, as the case may be;
+(v)
+"Load Factor" means the ratio of the Average Demand for the month in terms of Kilowatts to the Maximum Demand for
+the month in terms of Kilowatts. The 'Load Factor' shall be calculated to three decimal places and rounded off to two
+decimal places,
+(w)
+"Month" unless the context otherwise requires, shall mean a month reckoned according to the British Calendar. With
+reference to billing and payment, it shall mean the period between the date of meter reading in a particular month and
+the corresponding date of meter reading of the immediately succeeding or preceding month, as the context requires.
+(x)
+"Occupier" means the person in occupation (whether as owner or otherwise) of the premises where electricity is used or
+intended to be used.
+(y)
+"Operational boundary" means the boundary between the equipment and apparatus operated by the Licensee and those
+operated by the Consumer.
+(z)
+"Power Factor" means the ratio of the real power to the apparent power and average power factor means the ratio of the
+Kilowatt-hours to the Kilovolt-ampere-hours consumed during the billing month.
+(aa)
+Page 3/54
+----- PAGE 4 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+"SSLDC" means State's Sub Load Dispatch Center for local control at various places in Tamil Nadu.
+(bb)
+"SLDC" means State Load Dispatch Center at Chennai
+(cc)
+"Voltage"
+?  "Low Voltage" where the voltage does not exceed 250 volts under normal conditions.
+?  "Medium Voltage" where the voltage is higher than 250 volts and does not exceed 650 volts under normal conditions
+?  "High Voltage" where the voltage is more than 650 volts and does not exceed 33,000 volts under normal conditions
+?  "Extra High Voltage" where the voltage exceeds 33,000 volts under normal conditions
+(dd)
+"Year" means a year commencing on the first day of April. Words and expressions used in this Code but not defined
+either in this Code or the Act or the General Clauses Act 1897(Central Act 10 of 1897) shall have the same meanings as
+understood in engineering and commercial circles.
+Chapter 2
+Entities Pertaining to Distribution
+3.
+Entities involved in distribution and their respective roles.
+- The following are the entities involved in the distribution of electricity and their respective roles,
+(1)
+State Load Dispatch Center (SLDC): It is the apex body to ensure integrated operation of the power system in the State.
+Its functions as assigned to it under the Act area.
+(a)
+be responsible for optimum scheduling and despatch of electricity within the State, in accordance with the contracts
+entered into with the Licensees or the Generating Companies operating in the state;
+(b)
+monitor grid operations;
+(c)
+keep accounts of the quantity of electricity transmitted through the State Grid.
+(d)
+exercise supervision and control over the intra-State transmission system and
+(e)
+be responsible for carrying out real time operations for grid control and despatch of electricity within the State through
+secure and economic operation of the State Grid in accordance with the grid standards and Tamil Nadu Electricity Grid
+Code (TNEGC)
+It is vested with the power to levy and collect such fees and charges from the Generating Companies and Licensees
+engaged in intra-state transmission of electricity, which may be specified by the Commission.
+In addition to the above, it shall also keep accounts of the consumers / licensees / persons engaged in generation and
+traders involved in open access transactions.
+(2)
+State Sub Load Dispatch Center (SSLDC): It is a body sub ordinate to SLDC to perform, under the supervision, control
+and direction of the State Load Despatch Center, its functions in any specified area in the State. It shall also collect
+necessary data relevant to the SLDC, make operational analysis and report to SLDC.
+(3)
+State Transmission Utility (STU): Its functions are to -
+(a)
+undertake transmission of energy through intra-State transmission system (ISTS);
+(b)
+discharge all functions of planning and coordination of ISTS taking into account the national power plans and guide lines
+issued by Central Electricity Authority (CEA), in coordination with all the concerned organizations;
+(c)
+ensure development of an efficient coordinated economical system of intra state transmission lines for smooth flow of
+Page 4/54
+----- PAGE 5 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+electricity from Generating sources to Load Centers;
+(d)
+provide non-discriminatory open access to its Transmission systems for use by (i) any Licensee or generating company
+on payment of the transmission charges; or (ii) any consumer as and when such open access is introduced by the
+Commission under sub-section 2 of section 42 of the Act on payment of the transmission charges and a surcharge
+thereon as may be specified by the Commission.
+(e)
+implement the Code with respect to the Distribution Licensees and oversee for prudent practices and grid discipline;
+(f)
+facilitate review and recommend amendments to the Code to Commission without prejudice to the provisions in clause
+51 of this code;
+(g)
+recommend for issue of distribution licenses;
+(h)
+supervise, direct and control the works of construction, operation and maintenance of any ISTS and;
+(i)
+take measures for resolution of issues arising due to non-compliance of operational / commercial provisions of the Code
+by the respective entities.
+(4)
+Distribution Licensees: The duties of the Distribution Licensee are:
+(i)
+to develop and maintain an efficient coordinated and economical distribution system in his/her area of supply and to
+supply electricity in accordance with the provisions contained in the Act.
+(ii)
+to implement the code with respect to the requirements from the consumers and oversee for prudent practices and code
+discipline.
+(iii)
+to facilitate review and recommend to the Commission amendments to the code without prejudice to the provisions in
+clause 51 of this code.
+(iv)
+to ensure that the consumer installations comply with the requirements of the code at the time of effecting service
+connection.
+(v)
+to take measures for resolution of issues arising due to non-compliance of operational / commercial / technical
+regulations of the code by the various sections of consumers in their jurisdiction.
+(vi)
+to allow the Distribution lines to be used as common carrier as and when the Commission introduce non-discriminatory
+open access to any of the consumer in his/her area to get supply from other Licensees / Generating Companies outside
+his/her area.
+(5)
+Tamil Nadu Electricity Regulatory Commission (TNERC): The functions of Commission as set out in the Act and rules
+made there under and in particular, to, -
+(i)
+determine the tariff for generation, supply, transmission and wheeling of electricity, wholesale, bulk, and retail as the
+case may be within the State;
+(ii)
+introduce non-discriminatory open access as per the provisions contained in the Act and in phases. Where open access
+has been provided to a category of consumer, the Commission shall determine the wheeling charges and surcharge
+thereon;
+(iii)
+[regulate electricity purchase and procurement process of distribution licensees including the price at which the
+Page 5/54
+----- PAGE 6 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+electricity shall be procured from the generating companies or licensees or from other sources through agreements for
+purchase of power for distribution and supply within the State;] [[Substituted as per Commission's Notification No.
+TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008. Before substitution it read under:
+(iii)
+regulate electricity purchase and procurement process of distribution licensees including the price at which the electricity
+shall be procured from the generating companies or licensees or from other sources through agreements for pozver
+purchase;]]
+(iv)
+facilitate intra state transmission and wheeling of electricity;
+(v)
+specify and enforce standards with respect to quality, continuity and reliability of service by Licensees.
+Chapter 3
+Distribution System Planning
+4.
+Distribution System Planning.
+(1)
+The main Objectives for the distribution system planning are to, -
+(a)
+plan, design and develop the distribution system so that it may be operated in an economical, safe and reliable manner
+conforming to the relevant Act and rules there under
+(b)
+specify technical conditions, which enable the licensee and consumers to meet set standards for efficient operation of
+the electrical interface between them
+(c)
+[define the procedure for the exchange of data on system planning between the Licensee and consumers of the
+distribution system.] [[Substituted as per Commission's Notification NoTNERC/DC/8-8 dt 8.2.2008 (w.e.f 27.2.2008)
+Before substitution it read as under:
+'c. define the procedure for the exchange of system planning data between the Licensee and consumers of the
+distribution system.']]
+(d)
+provide sufficient information for a consumer to access opportunities for connection.
+(e)
+establish methods through which the Licensee shall coordinate with the STU, which includes furnishing of data required
+by the Commission/ or the Authority.
+(2)
+These guidelines of planning cover the individual sub-stations, system planning, analysis and the techno-economical
+aspects in the field of Distribution systems. It applies to all the consumers already connected or awaiting or seeking
+connection to the distribution system, Distribution Licensees and State Transmission Utillity (STU), wherever it is
+applicable.
+5.
+Distribution Planning Framework.
+(1)
+The main areas, which require a careful network planning, and analysis:
+(a)
+Networking extension planning - newly built networks or extension of already existing network or configuration of the
+existing network to meet the changed load or feeder situation or operational existence.
+(b)
+Network component design
+(c)
+Providing solutions for operational problems like low voltage, inadequate short circuit withstand capability, power swings
+and protection selectivity errors.
+Page 6/54
+----- PAGE 7 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(2)
+Networks are generally extended over several stages. The operational conditions are then simulated for this future load
+forecast. This step will facilitate the fulfilling of all the operational conditions after Commissioning of the new extension
+stage. A careful network analysis provides the decision aids for selecting the most reliable and cost effective solution
+from among several configurations. To dimension the individual components like transformer, cables and switchgear
+and to provide an optimal solution for the total system, an extensive analysis of the network is often necessary.
+The system-planning wing:
+(a)
+examines the operational behavior of electrical systems both in normal operation and under fault condition
+(b)
+proposes remedial measures, if the operational conditions do not conform to the requirements for quality supply.
+(c)
+promotes the development of components by examining operational conditions and equipment requirements,
+(d)
+advises in system configuration, system structuring and component design questions and,
+(e)
+plans the extension of already existing systems as well as the new construction of supply systems within the framework
+of the total system.
+(3)
+Intensive sessions are required to be held to clarify the task situation and it may be processed in direct contact with the
+[direct customer as defined in clause (e) of regulation 2 of the Tamil Nadu Electricity Regulatory Commission - Intra
+State Open Access Regulations 2005]
+[Substituted for the expression 'High Voltage level' as per Commission's Notification No. TNERC/DC/8-8dated 8.2.2008
+(w.e.f 27.2.2008).]
+.
+Distribution network are cost intensive and hence they require long term planning. The location and nature of the
+connected loads on the quality and reliability of the power requirement determine the structure of the distribution
+network.
+(4)
+The system planning is also necessary in the cases that include
+(a)
+Network modernization and upgrading.
+(b)
+Changes in operational and protection philosophy or neutral grounding.
+The tasks, problems and activities related to Network Expansion planning, component design and operational problems
+are brought out as follows.
+Sl.No.
+Describition
+Tasks & problems
+Activities
+1
+Expansion planning
+Local increase New transformer, substations
+Integration of peripheral -Networks Cable relaying Modernization
+of substations Network coupling Power station extension *[upgrading
+the voltage level] Network ocumentation Graphic Information
+System
+Network calculation forload flowand
+short-circuit. Dynamic network Calculation.
+2
+Component design
+Page 7/54
+----- PAGE 8 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Circuit-breaker stress cable cross section
+Transformer size Neutral earthing resistor
+Stability Fault analysis Relay coordination
+studies
+3
+Operational problems
+Substation faults Voltage quality Harmonics
+Earthing problems Motor starting Power swings Frequency of
+occurrence of faults Fault tripping
+Harmonics analysis Harmonics filter design
+Earthing measurement Network configuration Substation design
+Economic analysis Relay selection **[provision of effective
+earthing' Insulation coordination
+* Substituted for the clause "Define the task" as per Commission's Notification No. TNERC/DC/S-8
+** Substituted for the expression "Handling of Neutral point" as per Commission's Notification No.TNERC/DC/8-8 dated
+8.2.2008 (w.e.f. 27.2.2008)
+(5)
+Stages involved in network expansion planning
+(a)
+Defining the task
+(b)
+[Commencing]
+[Substituted for the expression 'Commence' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008).]
+the planning task which consists of:
+(i)
+Recording of the status of the existing distribution network and analysis of its operational situation
+(ii)
+Load forecast and analysis - Compilation of data on the characteristic features of the loads that will be incident in the
+near future and that of the existing loads;
+(iii)
+Estimation of load development
+(iv)
+Examination of the alternative options
+(v)
+Checking the issues involved in the above options and also the feasibility of introducing a new transformer,
+enhancement of existing transformer capacity etc.
+(vi)
+Establishment of site location and new substation design.
+(vii)
+Modification / Redesign of sub-transmission and distribution networks and its protective arrangement including
+protective relay setting and coordination.
+(viii)
+Study on alternatives for least cost investment.
+(ix)
+Assessment of operational advantages and disadvantages and anticipated supply reliability levels of various options
+(x)
+Investment planning
+(xi)
+Procurement of the required network components.
+6.
+Page 8/54
+----- PAGE 9 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Planning process.
+- The system planning considerations are:
+(1)
+Load Forecast: It commences with a forecast of the anticipated load requirements (both demand and energy). The
+Licensee shall forecast the demand for power within the area of supply, annually or more frequently, if required by the
+Commission, in each of the succeeding five years. The Licensee shall prepare a demand forecast and generally follow
+the procedures set out herein. The licensee shall create a database of loads for each consumer category and for each
+distribution substation and update it annually.
+(2)
+Load Research: The Licensee shall develop a load research program with the objective of obtaining customer load
+profile data that provides the usage characteristics of specific appliances, consumers and group of consumers. This load
+research will also facilitate,
+(a)
+Demand status according to end use at the hour of system peak, daily, monthly, seasonally or annually
+(b)
+Hourly end use demand for the day of the system peak, monthly, seasonally or annually.
+(c)
+Hourly end use demand for the average day of the system peak, monthly, seasonal or annually.
+(d)
+Category wise diverse or coincidence factors and load factors.
+(e)
+Total energy consumption for each category of consumer by month, season or year.
+(f)
+Category wise non-coincident peak demands.
+(3)
+Load Data: From the metering data collected at each connection point with the transmission system, the Licensee shall
+develop load curves for the area fed and also the system load curve for the area of supply in point by applying a suitable
+diversity factor. By reconciling the figure for actual energy sales with the drawal based on the metering data [compiled]
+[Substituted for the expression 'complied' as per Commission's Not if. No. TNERC/DC/8- dated 8.2.2008 (w.e.f.
+27.2.2008)]
+, approximate losses in the system may be arrived at for any period. This data shall be furnished to the STU and the
+Commission annually. All the consumers with a demand of 1 MW and above seeking connection shall furnish their load
+data to the Licensee, as detailed in Annexure I. The Licensee shall exercise special care in monitoring the actual
+development of loads in respect of consumers who desire to contract for loads of 1 MW and above at any single point.
+On demand by the consumer seeking connection, the Licensee shall furnish relevant system data as detailed in
+Annexure - II. The Licensee shall update the system data at least once in every six months.
+(4)
+Forecast Methodology: The Licensee shall formulate the long-term demand forecast taking into account the previous
+financial year ending March 31st as the Base Year and projecting the demand over the succeeding five years.
+(a)
+Energy Sales per tariff class shall be projected in the forecast period over the corresponding figures relating to the Base
+Year by adopting a suitable methodology, such as considering the trend for the previous five years.
+(b)
+The projections shall take into account assumed normal growth for non-specific loads, specific and identified loads of 1
+MW and above and also the effects if any, of Demand side management and Loss reduction measures.
+(c)
+The Licensee shall compare the aggregate energy requirement at each of the connection points with the transmission
+system after accounting for system losses. The future peak load in each of the years in the forecast period may be
+derived using an Annual Load Factor.
+(d)
+The Licensee shall take into consideration any authenticated report on demand forecast or Power survey carried out by
+Page 9/54
+----- PAGE 10 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+agencies like Advisory Board on Energy, Planning Commission, Central Electricity Authority, STU, Commission, CERC
+and Government of Tamil Nadu. The Licensee shall forward the long term demand forecast for the area of supply on an
+annual basis to the STU and the Commission, along with the details as indicated below.
+(i)
+Data.
+(ii)
+Methodology
+(iii)
+Assumptions
+The Licensee under the conditions of the licence shall co-operate with the STU in the preparation of demand forecasts
+for the State of Tamil Nadu. The format for the demand and energy forecasts shall be specified by the STU.
+(5)
+Planning Criteria and performance bases: The planning criteria for the distribution system as specified [by the
+Commission]
+[Substituted for the expression 'by Commission' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008
+(w.e.f. 27.2.2008).]
+shall form the basis. The performance bases to be considered in the system planning are as follows:
+(a)
+The Distribution performances established herein shall be implemented in a manner so as to ensure that no entities are
+forced to achieve goals beyond the capability and limitations of the current system in the immediate future while
+continuing to strive for the higher standards by improving their system in the long term. As for the existing arrangements,
+the implementation can be in stages and shall be determined by the Commission.
+(b)
+The capacity of step down transformers used in the distribution system and the layout of bus bars, switchgear,
+transformers, capacitors, earthing system, surge arrestors, control panels, station battery, fire extinguishers and other
+accessories required for the protection and safe operation of the substations shall as far as possible be standardized by
+the Licensees and shall conform to the guidelines and principles contained in the Code. The Commission, in specific
+cases and to ensure uniform adoption, can however specify the standards to be adopted.
+(c)
+While planning the distribution system, the Licensee shall examine the cost effectiveness of loss reduction measures
+without compromising the security standards. The Licensee shall take measures to reduce the length of low tension bare
+conductor, overhead lines, wherever cost effective and these shall include but not limited to the following:
+(i)
+Achievement of HT: LT ratio to the level of 1 to 1.5
+(ii)
+Laying of underground cables
+(iii)
+Increasing the number of low loss distribution transformers.
+(d)
+Substation Design Criteria: HV substations, Sub transmission, primary and secondary distribution shall be designed
+taking into account the following factors:
+(i)
+Safety of Operating Personnel
+(ii)
+Adequate cross section of Busbar to meet the electrical and mechanical requirements.
+(iii)
+Mechanical and electrical interlocks to prevent inadvertent operation of equipments including switch.
+[iii-a) Adequate Protection System with proper insulation co-ordination] [[Substituted as per Commission's Notification
+No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.27.2.2008).before substitution it was as under:
+The distribution system shall be properly earthed in accordance with the Indian Standards in force, substation earth
+mats shall be designed to provide the required earth resistance and limit the ground potential rise limited by Touch and
+Page 10/54
+----- PAGE 11 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Step potential criteria as per standards]]
+(iv)
+Adequate Flexibility in operation and maintenance.
+(v)
+Operation and Maintenance needs.
+(vi)
+Space for future expansion
+(e)
+Distribution Line Clearances: Overhead lines shall comply with the safety measures specified by the Authority under
+section 53 of the Act.
+(f)
+Earthing : The distribution system shall be effectively earthed in accordance with the [Indian Standards in force,
+substation earth mat shall be designed to have a low overall impedance / resistance and to have a minimum transient
+ground potential rise (TGPR) during fault, giving rise to only permissible safe touch and step potential]
+[Inserted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+. All individual earth electrodes, earthing pits and interconnection arrangements shall be correctly installed and
+maintained. The bodies, cases, trucks and enclosures of all equipment shall be properly earthed in accordance with the
+system requirements and equipment ratings. Metallic line supports of overhead lines, cable sheaths and shields shall
+also be earthed in a proper manner. Connections may be compressed using crimping tool, welded, braced, or bolted
+using suitable lock washers/locknuts. Bolts should not be used for buried connections
+Chapter 4
+Connectivity Conditions
+7.
+Connectivity Conditions.
+- The Connectivity Conditions specify the minimum technical and design criteria, which shall be complied by any agency
+connected to, or seeking connection to the Distribution System. The Licensee shall ensure compliance of the above
+criteria by any agency as a pre-requisite for the establishment of an agreed connection. The terms and conditions of
+supply under Chapter 6 of this code shall be read in conjunction with this chapter. The connectivity conditions shall fulfill
+the requirement stipulated in section 50 and 53 of the Act. The Connectivity Conditions are provided to ensure that:
+(a)
+The basic rules for connections are complied by all agencies. This will help to treat all agencies in a non-discriminatory
+manner.
+(b)
+Any new or modified connection, when established, shall not suffer unacceptable effects due to its connection to the
+Distribution System nor produce unacceptable effects on the system or any other connected agency.
+(c)
+The ownership and responsibility for all the equipments, shall be clearly specified in a schedule (site responsibility
+schedule) for every site, where a connection is made.
+8.
+Distribution System Interface with Small Generators.
+- The electricity generated by the private developers pertaining to power projects based on [renewable]
+[Substituted for the expression 'non-conventional' as per Commission's Notification No.TNERC/DC/8-8dated 8.2.2008
+(w.e.f 27.2.2008).]
+energy sources of wind, biomass etc or captive power plants shall be evacuated by interfacing with the distribution
+system or intra state grid. The voltage levels, connection points and connectivity conditions, safety etc., for such
+interfacing shall comply with the conditions laid down under Tamil Nadu Electricity Grid Code (TNEGC) and the
+regulations issued by the Authority in this regard.
+9.
+Distribution Systems protection arrangement.
+(1)
+Protection of the distribution system and the consumer's system shall be well coordinated. Individual protection schemes
+Page 11/54
+----- PAGE 12 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+shall have adequate selectivity, sensitivity and reliability and speed of operation to disconnect the faulty
+equipment/circuit from the healthy system. No item of electrical equipment shall be allowed to remain connected to the
+distribution system unless it is covered by appropriate protection scheme.
+(2)
+In the distribution system protection for lines / U.G cables, transformers and other equipments shall be followed by the
+Licensee, and by the consumers of the distribution system as well in accordance with the provisions made in TNEGC.
+The distribution system relay setting shall be coordinated with that of STU and it shall be endorsed by STU and SLDC.
+(3)
+Every consumer within the area of supply of the Licensee who are availing / desire to avail of supply at 66KV, 110 KV,
+230 KV level shall furnish the details of their equipment protection schemes to the Licensee and get approved before the
+connection is effected. On demand, the Licensee shall provide similar protection data relating to their distribution
+systems to any consumer seeking the above connection.
+(4)
+The Licensee and the EHT consumers of the distribution system shall attend the protection co-ordination meetings as
+and when called upon to do so by the STU / SLDC to discuss all related issues and take remedial measures as
+discussed and agreed to in such meetings.
+10.
+Operational Labeling.
+- The Licensee and the consumers shall be responsible for the provision and maintenance of clear, unambiguous signs
+and labels indicating the numbering and / or name of the equipment / apparatus and circuit at the substations and
+connection sites.
+11.
+Metering.
+- [The minimum requirement of metering for substations in distribution system, Generating station and higher voltage
+consumer shall conform to the requirement stipulated in Tamil Nadu Electricity Grid Code (TNEGC)] [[Substituted as per
+Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008). Before substitution it read as under:
+'The minimum requirement of commercial and operational metering at distribution system substations and higher voltage
+consumer's sub stations shall conform to the requirement stipulated in Tamil Nadu Electricity Grid Code (TNEGC)']]
+12.
+Communication.
+- Reliable communication links shall be established for the exchange of data, information and operating instructions
+between the Licensees, consumers with demand of 1 MW and above, the load control centers of the Distribution
+Licensee and the SLDC / SSLDC, as the case may be.
+13.
+The Licensee shall monitor the voltage, frequency and power factor in the distribution system at different points, during
+the peak and off peak hours and take all reasonable measures for the improvement of the same, if it falls below the
+prescribed level continuously.
+(1)
+Voltage: The variation in the voltage levels in the distribution system may depend upon the available VAR generation,
+system loads and configuration of the transmission system and distribution system. Under normal operating conditions
+the Licensee shall exercise proper voltage monitoring and control in the distribution system beyond the point of
+interconnection so as to maintain voltage at all levels in accordance with the Standards of Performance specified by the
+Commission. The means adopted shall include.
+(a)
+Use of transformers equipped with tap changers (on load /Off Load).
+(b)
+Balancing of loads between phases of the LT network.
+(c)
+Limiting KVA- km loading of the circuits
+(d)
+Reduction of overloaded transformers by planning and installing additional distribution transformers.
+Page 12/54
+----- PAGE 13 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(e)
+By installing the required regulating transformers (Boosters) and synchronous Condensers at appropriate locations.
+(f)
+Installation of shunt capacitors/Capacitor banks at optimum locations depending upon the requirement of VAR
+compensation in the network
+(g)
+[Provision of switched/fixed capacitor, as the case may be, on the (secondary) LV side of Distribution Transformers.]
+[[Substituted ns per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008) xohich before
+substitution stood as under:
+'Provision of switched capacitor on the (secondary) LV side of Distribution Transformers']]
+(2)
+Frequency: The Licensee shall abide by the instructions issued by the SLDC on load frequency control for maintaining
+the supply frequency within the statutory limits either by resorting to load shedding or by rolling blackouts.
+(3)
+Power Factor: The Licensee shall maintain the system power factor at the level of minimum of 0.9 (Lag) at the
+interface/s and carry out system improvement measures at strategic points in the distribution system by undertaking
+useful system studies and installing the required VAR compensation equipment to meet the situation. The Licensee shall
+also counsel and [advise the consumers]
+[Substituted for the expression 'advise consumers' as per Commission's Notification No. TNERC/DC/8-8dated 8.2.2008
+(w.e.f. 27.2.2008)]
+on the ways and means to improve the power factor in their respective systems to the required level. It shall be
+obligatory on the part of the consumers to improve the power factor of their connected loads to the required level in
+accordance [with the provisions]
+[Substituted for the expression 'with provisions' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008
+(w.e.f. 27.2.2008)]
+made in this code. Every consumer with a power factor less than the stipulated level may be suitably advised to rectify
+the situation by installing appropriate power factor correction equipment, without prejudice to the levy of compensation
+charges as per the orders of the Commission from time to time.
+(4)
+Special Conditions: Special conditions shall be incorporated in the connection agreement for loads with high harmonic
+content, low power factor and unacceptable supply voltage and frequency fluctuations, so that the consumer shall be
+forced to install appropriate correction equipments to meet the requirements of this Code.
+14.
+[ Demand Side Management.
+[Substituted for the expression '13' i.e. renumbered as per Commisioin's Notification No. TNERC/DC/8 dated
+8.2.2008(w.e.f.27.2.2008).]
+- The Licensee shall make suitable provisions in the Service Connection Agreements to make it mandatory on the part
+of selected categories of consumers with a contracted Demand over and above a specified KVA limit (to be specified [by
+the Commission]) to carry out an Energy Audit at their establishment for in-plant load management and for carrying out
+end use energy efficiency / conservation measures. On their part, the Licensee shall provide such consumers with
+relevant information relating to energy audits and its methodologies and the financial incentives offered by recognized
+financial institutions, banks and other government organizations.]
+Chapter 5
+Operation Guidelines for Distribution System
+15.
+The procedures and practices to be followed by the Licensees and consumers whose electric lines and electrical plants
+are connected to the Licensee's distribution system for safe and efficient operation of then-respective systems are -,
+(1)
+Demand Estimation: The Licensee shall provide to the SLDC / SSLDC, its projection of demand on a year ahead, month
+ahead and day ahead basis. The time frames for such submission, as set out in the TNEGC shall be adhered to by the
+Licensee. The SLDC or SSLDC shall be the agency to receive the details from the licensees or issue directions to the
+Page 13/54
+----- PAGE 14 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Licensees as the case may be in line with the requirements prescribed in this chapter on Operational Guidelines and as
+per the provisions of the relevant Code. On demand, the [consumers concerned]
+[Substituted for the expression 'concerned consumer' as per Commission's Notification No.TNERC/DC/8-8 dated
+8.2.2008 (w.e.f. 27.2.2008)]
+shall furnish these data to the Licensees. The Licensee shall estimate its hourly and daily demand on the basis of
+relevant load curves drawn on a day ahead basis, subject to modification depending upon information received from any
+specific consumer or caused by any untoward incident/contingency.
+(2)
+Scheduled Shutdown Programs: The Licensee shall furnish the proposed (planned) outage (scheduled shutdown)
+programs to the STU/ SLDC as specified in TNEGC. Planned outage programs shall furnish clearly the details of the
+electric lines/cables and the equipments of the distribution system that will be taken out of service, and other details of
+the planned interruption namely the date, duration and quantum of load that may be limited/restricted at any
+interconnection during this planned interruption.
+(3)
+Contingency Planning: The contingencies in the distribution system are mainly due to:
+(a)
+Total or partial blackout of intra transmission or inter transmission network. (Loss of generating sources)
+(b)
+[Failure of network components like Breakers, Power Transformers, Current Transformers, Potential Transformers and
+lines in the transmission system. [[Substituted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008
+(w.e.f. 27.2.2008) which before substitution stood as under:
+'b. Failure of network components like breakers, lines and UG cables in the transmission system, c. Breakdown of
+components in the distribution system']]
+(c)
+Breakdown of components like Distribution Transformers, lines, etc. in the distribution system].
+The procedure to be followed during such contingencies for the restoration of supply is detailed in the sections to follow
+(4)
+Intra / Inter Transmission System outage: In regard to the restoration of supply during the total black out at any point of
+interconnection, the Licensee shall abide by the black start procedures framed by the STU / SLDC. Likewise, the
+Licensee shall follow the guidelines provided by the STU during the outage of the apparatus or lines/cables in the above
+networks. The licensees may also follow an approved Demand Side Management, Load shedding, rolling blackouts and
+other measures.
+(5)
+Distribution System Outage: The interruption of the power supply to any part of the distribution system lasting more than
+an hour, due to the breakdown of any part of the distribution system/its components, may be termed as distribution
+system failure and the Licensee shall evolve a suitable supply restoration procedure for such distribution system failures
+under intimation to the Commission.
+(6)
+Demand Management / Load Shedding: On getting directions from the SLDC rolling blackouts for short duration shall be
+carried out by the Licensees to maintain the load generation balance and security of the network. This may also be
+necessary due to the loss of any circuit, equipment or any other operational contingency that may occur in their
+Distribution Networks also. The Licensee shall estimate the loads that may be shed in discrete blocks at each
+interconnection point after consultation with the consumers if possible and submit the same to the SLDC. The
+consumers shall cooperate with the Licensee in this regard. The Licensee shall work out the modalities of the load
+shedding. A detailed procedure shall also be furnished to the SLDC and other officials in charge of the downstream
+substations of the Licensee, where such load shedding / rolling blackout are to be carried out. When provisions are
+available for the automatic load shedding with the aid of under frequency relays, the circuits involved and the quantum of
+load to be shed shall be intimated to the SLDC and [officials]
+[Substituted for the expression 'officials persons ' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008
+(w.e.f. 27.2.2008)]
+in charge of downstream substations of the Licensee. The settings adopted for the UF relays shall also be furnished. If
+Page 14/54
+----- PAGE 15 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+any constraint or bottleneck in the transmission system and/or distribution system, warrants rotational load shedding
+then it shall be resorted to by the Licensees in their distribution system. On such occasions, the public shall be promptly
+informed of such arrangements through the media. [Consumers]
+[Substituted for the expression 'Large consumers' as per Commission's Notification No. TNERC[DC/8-8 dated 8.2.2008
+(w.e.f. 27.2.2008)]
+with [contracted demand]
+[Substituted for the expression 'contract demands' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008
+(w.e.f. 27.2.2008)]
+of 1 MW and above and essential services such as hospital, public water works etc, shall be notified through telephone/
+fax/ e-mail or any other communication systems.
+16.
+Safety Aspects.
+(1)
+Provisions with respect to safety and electricity supply is dealt in detail under section 53 of the Electricity Act, which
+reads as:
+The Authority may in consultation with the State Government, specify suitable measures for:
+(a)
+Protecting the public (including the persons engaged in the generation, transmission or distribution or trading) from
+dangers arising from the generation, transmission or distribution or trading of electricity, or use of electricity supplied or
+installation, maintenance or use of any electric line or electrical plant;
+(b)
+Eliminating or reducing the risks of personal injury to any person, or damage to property of any person or interference
+with use of such property;
+(c)
+Prohibiting the supply or transmission of electricity except by means of a system which conforms to the specification as
+may be specified;
+(d)
+Giving notice in the specified form to the Appropriate Commission and the Electrical Inspector, of accidents and failures
+of supplies or transmissions of electricity;
+(e)
+Keeping by a generating company or licensee the maps, plans and sections relating to supply or transmission of
+electricity;
+(f)
+Inspection of maps, plans and sections by any person authorized by it or by Electrical Inspector or by any person on
+payment of specified fee;
+(g)
+Specifying action to be taken in relation to any electric line or electrical plant, or any electrical appliance under the
+control of a consumer for the purpose of eliminating or reducing a risk of personal injury or damage to property or
+interference with its use;"
+(2)
+The measures specified by the Authority, in accordance with the above provision shall form the basis for safety. Primary
+focus should be laid on safety in all the works related to the location, erection, installation, operation and maintenance of
+the equipments, devices and other network components at the consumer's mains/premises. Safety of the end users,
+operating personnel and public shall be given focused attention. Adequate training will be imparted to the operating
+personnel with the adoption of relevant operating techniques and safety procedures/ precautions necessary for
+satisfactory operation of the system and its equipments which include cross boundary connections and interface points
+as applicable.
+(3)
+Safety co-ordination: The salient aspects involved in safety co-ordination are:
+(a)
+The Licensee and the consumers of the distribution system shall observe safety rules, practices and precautions when
+Page 15/54
+----- PAGE 16 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+work is to be carried out on any apparatus or circuits in any part of the distribution system or in any part of the consumer
+system.
+(b)
+The objective of this safety co-ordination is to enforce the principles of safety as prescribed in the measures specified
+under section 53 of the Act and practices for their implementation.
+(c)
+[There shall be proper co-ordination between operating personnel of the Licensee and the consumers, between two
+distribution licensees across common control boundaries, for carrying out work on any apparatus, switchgear, or circuits
+belonging to each party at the point of interconnection or interface]
+[Substituted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008, w.e.f. 27.2.2008.]
+.
+(d)
+The Licensee shall follow the provisions of the TNEGC for cross boundary operations in co-ordination with the STU
+(e)
+The Licensee, all consumers and any other distribution Licensee having common electrical interface with the Licensee
+shall designate suitable persons to be responsible for safety co-ordination. These persons shall be referred to as control
+persons. The list of control persons, their designation and telephone numbers shall be exchanged between all [persons
+concerned]
+[Substituted for the expression 'concerned persons' as per Commission's Notification No. TNERC/DC/8-8 dated
+8.2.2008 (w.e.f. 27.2.2008).]
+. Any change in the list shall be notified promptly to all concerned.
+(f)
+The disconnecting device / or devices shall be provided at each electrical interface, which shall be capable of effectively
+disconnecting the system of the Licensee and other consumers and grounding the respective system at the common
+boundary. These devices shall be identified and marked by the Licensee and respective consumer and shall be
+maintained in good condition at all times. Such disconnecting devices shall be provided with interlocks to prevent
+inadvertent switching operations by unauthorized persons.
+(g)
+Permission in writing shall be issued by the appropriate control person at the electrical interface to his/her counterpart
+responsible for carrying out work on any apparatus, switchgear or circuits beyond the electrical interface. Such
+permissions shall be termed as Line Clear Permits (LCP). The format of the LCP shall be standardized by the Licensee
+and shall be used by all concerned. Detailed rules framed by the Licensee pertaining to such works and Line Clear
+Permits (LCPs) shall be circulated to its personnel as part of its internal administration.
+(h)
+A list containing the names and other details of the Officers/staff who are authorized to issue / get LCPs on the
+apparatus, lines and cables may be [displayed]
+[Substituted for the expression 'hung' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f
+27.2.2008)]
+at an apt location in the substation.
+(i)
+The Licensee shall formulate a checklist of operations to be carried out before the issue and return of LCPs and
+procedures for safety co-ordination for each electrical interface. Such procedures and checklist shall be issued to all
+concerned, by the Licensee, for implementation.
+(j)
+The Licensee shall prepare a safety manual incorporating all operating procedures in addition to safety rules and safety
+precautions applicable to its distribution system and the Consumer's system and circulate the same among [all staff
+concerned]
+[Substituted for the expression all concerned staff as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008
+(w.e.f. 27.2.2008)]
+and Consumers for strict adherence.
+(k)
+Page 16/54
+----- PAGE 17 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+The Licensee shall devise and maintain uniform operating procedure for switching, isolation, and restoration, live line
+working and test charge of defective lines/apparatus duly incorporating the safety aspects.
+17.
+Protective clauses as applicable to Railways, Highways, Airport, telegraphic signaling line etc., are as follows:
+(1)
+Protection of Railways, Highways, Airport, etc. as set out in section 159 of the Act reads as:
+"No person shall, in the generation, transmission, distribution, supply or use of electricity, in any way injure any railway,
+highway, airports, tramway, canal or water-way or any dock, wharf or pier vested in or controlled by a local authority, or
+obstruct or interfere with the traffic on any railway, airway, tramway, canal or water-way."
+(2)
+Protection of telegraphic, telephonic and electric signaling lines as set out in section 160 of the Act reads as:
+"(1) Every person generating, transmitting, distributing, supplying or using electricity (hereinafter in this section referred
+to as the "operator") shall take all reasonable precautions in constructing, laying down and placing his/her electric lines,
+electrical plant and other works and in working his/her system, so as not injuriously to affect, whether by induction or
+otherwise, the working of any wire or line used for the purpose of telegraphic, telephone or electric signaling
+communication, or the currents in such wire or line.
+(2)
+Where any difference or dispute arises between the operator, and the telegraph authority as to whether the operator has
+constructed, laid down or placed his/her electric lines, electrical plant or other works, or worked his/her system, in
+contravention of sub-section (1), or as to whether the working of any wire, line or current is or is not injuriously affected
+thereby, the matter shall be referred to the Central Government and the Central Government, unless it is of opinion that
+the wire or line has been placed in unreasonable proximity to the electric lines, electrical plant or works of the operator
+after the construction of such lines, plant or works, may direct the operator to make such alterations in, or additions to,
+his/her system as may be necessary in order to comply with the provisions of this section, and the operator shall make
+such alterations or additions accordingly:
+Provided that nothing in this sub-section shall apply to the repair, renewal or amendment of any electric line or electrical
+plant so long as the course of the electric line or electrical plant and the amount and nature of the electricity transmitted
+thereby are not altered.
+(3)
+Where the operator makes default in complying with the requirements of this section, he shall make full compensation
+for any loss or damage incurred by reason thereof, and, where any difference or dispute arises as to the amount of such
+compensation, the matter shall be determined by arbitration
+Explanation. - For the purposes of this section, a telegraph line shall be deemed to be injuriously affected if telegraphic,
+telephonic or electric signaling communication by means of such line is, whether through induction or otherwise,
+prejudicially interfered with by an electric line, electrical plant or other work or by any use made thereof."
+18.
+Accident Reporting.
+- Notice of accidents and inquiries as set out in section 161 of the Act reads as:
+"(1) If any accident occurs in connection with the generation, transmission, distribution, supply or use of electricity in or
+in connection with, any part of the electric lines or electrical plant of any person and the accident results or is likely to
+have resulted in loss of human or animal life or in any injury to a human being or an animal, such person shall give
+notice of the occurrence and of any such loss or injury actually caused by the accident, in such form and within such
+time as may be prescribed, to the Electrical Inspector or such other person as aforesaid and to such other authorities as
+the Appropriate Government may by general or special order, direct.
+(2)
+The Appropriate Government may, if it thinks fit, require any Electrical Inspector, or any other person appointed by it in
+this behalf, to inquire and report -
+(a)
+As to the cause of any accident affecting the safety of the public, which may have been occasioned by or in connection
+with, the generation, transmission, distribution, supply or use of electricity, or
+(b)
+Page 17/54
+----- PAGE 18 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+As to the manner in, and extent to, which the provisions of this Act or rules and regulations made hereunder or of any
+licence, so far as those provisions affect the safety of any person, have been complied with.
+(3)
+Every Electrical Inspector or other person holding an inquiry under sub-section (2) shall have all the powers of a civil
+court under the Code of Civil Procedure, 1908 (5 of 1908) for the purpose of enforcing the attendance of witnesses and
+compelling the production of documents and material objects, and every person required by an Electrical Inspector be
+legally bound to do so within the meaning of section 176 of the Indian Penal Code ( 45 of 1860).
+19.
+Major Incident Reporting.
+(1)
+The reporting on major incidents shall conform to the provisions under section 53 and 160 of the Act. Among the
+incidents that would affect the distribution system are:
+(i)
+Aberrations/deviations in system voltage and frequency level. (Both for HV and LV networks [exceeding the set
+tolerance levels]
+[Inserted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.27.2.2008).]
+.
+(ii)
+Major breakdowns in the distribution system.
+(iii)
+Major deviations of load drawal from any interconnection relative to the day ahead estimation of demand furnished by
+the Licensee to the STU / SLDC.
+(iv)
+Any other incident which the Licensee or consumer may consider worth reporting with regard to safe and reliable
+operation of the distribution system.
+(v)
+The Licensee and the consumers shall establish a hierarchy for reporting incidents and a procedure for the exchange of
+information. The consumers shall promptly furnish information to the Licensee regarding any major incident occurring in
+their system to the Licensee.
+(vi)
+The adverse impact of Harmonics in the system.
+(vii)
+The adverse impact of the operation of shunt capacitor banks on other equipments/devices in the network and at the
+consumer's premises as well.
+Explanation. - The basic characteristics of the incident, which constitute a major break down, shall be determined by the
+concerned Licensee /Consumer and reported.
+(2)
+Prescribed time frame for the reporting by the Licensees in respect of major incidents.
+(a)
+Deviations in the system voltage or frequency
+Exceeding the set tolerance level
+- Monthly
+(b)
+Major deviation in load drawals
+- Monthly
+(c)
+Major breakdowns of lines/cables/equipments
+(Including any loss of capacity of 5 MVA and above)
+?   Preliminary report followed by a detailed
+report Indicating status, nature of break down, total Hours break
+down period, restoration period, and estimate of losses/ repairs,
+Page 18/54
+----- PAGE 19 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+loss to persons /property, number of consumers affected etc.
+- Within 24
+(d)
+Any other incident referred to in the Code
+- Monthly
+20.
+Condition based monitoring/Preventive Maintenance programmes.
+- shall be designed as follows:
+(i)
+[The Licensee shall prepare pre-monsoon inspection and other preventive maintenance schedules for lines and
+equipment and ensure its compliance at all levels. Necessary advance intimation shall be given to the consumers likely
+to be affected] [[Substituted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f27.2.2008).
+Before substitution it was as under:
+'The Licensee shall prepare pre monsoon inspection and other preventive maintenance schedules for lines and
+equipment and ensure its compliance at all levels. Necessary intimation shall be given to the affected
+consumers.21nserted as per Commission's Notification No. TNERC/DC/8-9 dated 22.5.2008 (w.e.f. 11.6.2008).]].
+(ii)
+The level of maintenance shall be appropriate to meet the manufacturers maintenance recommendations and the
+performance standards of the Licensee, iii. All the bottom line, all the HV lines in the control area of the Licensee shall
+be inspected twice annually.
+(iii)
+Periodical testing and maintenance of transformers, switchgear and protective equipments and earthing in the
+distribution system shall be carried out by the Licensee in line with the manufacturers recommendations / standard
+practices for ensuring their smooth operation, serviceability, safety, reliability and efficiency.
+(iv)
+The Consumers also shall maintain their apparatus, switchgear, electric lines, metering equipment and cables including
+their generator sets in good operating condition and conforming to the measures specified under section 53 of the Act
+and keep them suitable for connecting to the distribution system in a safe and reliable manner. [Consumers shall ensure
+proper interlock facility provided for their generator sets to prevent parallel operation with.the Distribution System of the
+Licensee provided such generators are not interfaced with the Licensee's network for supply of power]
+[Inserted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+.
+(v)
+Licensee shall set up a Consumer Trouble Call Management Center and lay down suitable procedures.
+(vi)
+The Licensee shall have provisions for sealing the meter, checking the quality of new meters, periodical calibration of
+customer meters, repair of defective meters and other related works.
+21.
+Tools, plants and Spares.
+- The Licensee shall ensure availability of proper tools and plants and keep the work places in good condition for
+carrying out the required repairs/maintenance. Serviceability of tools and plants must be checked periodically and
+certified for their healthiness. The Licensee shall maintain an inventory of replacement spares required for maintenance
+purposes at suitable locations. A clear policy may be laid down by the Licensee in this regard and submitted to the
+Commission for reference.
+22.
+Training.
+- The Licensee shall set up Training centers (or in coordination with the established Training centers) to impart proper
+and adequate training to its workmen and supervising staff in modern distribution practice, maintenance techniques and
+safety procedures. A syllabus suitable for the intended purpose shall be followed by them. The syllabus shall be
+submitted to the Commission for its perusal and approval.
+23.
+Page 19/54
+----- PAGE 20 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Research and Development.
+- The STU shall, in consultation and approval of the Commission, carry out R&D to analyze and solve common
+operational and other problems related to distribution. Also they will be responsible for carrying out improvement and
+updation studies. The study results shall be properly communicated to all the distribution licensees for adoption. The
+expenditure towards the R&D work shall be met from a common fund for which the Commission shall prescribe the rate
+of contribution from each Licensee.
+Chapter 6
+Terms and Conditions for Supply of Electricity
+24.
+Terms and conditions for supply of Electricity.
+- The terms and conditions for supply of electricity is meant to govern the supply of electricity and procedures thereof,
+including the powers, functions and obligations of the Licensee and the rights and obligations of the consumers and
+matters connected therewith and incidental thereto. The terms and conditions are not exhaustive as to the requirements
+to be complied with by Users connected or seeking connection to the Licensee's distribution system.
+25.
+System of Supply.
+- The Licensee's declared voltage of supply will be generally as follows:
+(a)
+Low Tension Supply
+(i)
+Single phase 240 volts, 50 Hz A.C between phase and neutral.
+(ii)
+Three-phase 415 volts 50 Hz A.C between phases.
+(b)
+High Tension Supply
+Three-phase 50 Hz A.C, 11,000 volts, or 22,000 volts and 33,000 volts between phases whichever is available.
+(c)
+Extra High Tension Supply
+Alternating current - 50 Hertz Three- phase 66,000 volts, 110,000 volts and 230,000 volts between phases whichever is
+available.
+For larger loads, the Licensee reserves the right to supply at higher voltages according to the convenience of the
+Licensee.
+26.
+Categories of Supply.
+- Supply of electricity shall be made available to the consumer under the following categories:
+(a)
+Single-phase 2 wire 240 volts between phase and neutral for supply to a total connected load not exceeding 4000 watts
+(including power loads).
+(b)
+Three-phase 4 wire 415 volts between phases and 240 volts between a phase and neutral for supply to a total
+connected load exceeding 4000 watts but not exceeding a demand of 112 KW. The consumer may elect to avail supply
+under any one of the above categories where the connected load does not exceed 4000 watts
+(c)
+Three-phase 3 wire, 11,000 volts and above between phases for power installation exceeding a demand of 112 KW, the
+minimum demand however being 63 KVA
+(d)
+The consumer shall avail supply at 33 kV and above when the demand is 5 MVA and above
+27.
+Requisitions for Supply of Energy.
+(1)
+The provision regarding the duty of Licensee as detailed in section 43 [of the Act]
+Page 20/54
+----- PAGE 21 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+[Inserted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f 27.2.2008).]
+to supply electricity on request is reproduced below:
+(1)
+[Save as otherwise provided in this Act,]
+[Inserted as per Commission's Notification No. TNERC/DC/8-9 dated 22.5.2008 (w.e.f. 11.6.2008)]
+every distribution licensee, shall, on an application by the owner or occupier of any premises, give supply of electricity to
+such premises, within one month after receipt of the application requiring such supply :
+Provided that where such supply requires extension of distribution mains, or Commissioning of new sub-stations, the
+distribution licensee shall supply the electricity to such premises immediately after such extension or Commissioning or
+within such period as may be specified by the Appropriate Commission.
+Provided further that in case of a village or hamlet or area wherein no provision for supply of electricity exists, the
+Appropriate Commission may extend the said period as it may consider necessary for electrification of such. village or
+hamlet or area.
+[Provided that the licensee will refuse to supply electricity to an intending consumer who had defaulted payment of dues
+to the licensee in respect of any other service connection in his name]
+[Inserted as per Commission's Notification No. TNERC/DC/8-1 dated 22.11.2005 (w.e.f. 7.12.2005).]
+[Explanation. - For the purposes of this sub-section, "application" means the application complete in all respects in the
+appropriate form, as required by the distribution licensee, along with documents showing payment of necessary charges
+and other compliances.]
+[Inserted as per Commission's Notification No. TNERC/DC/8-9 dated 22.5.2008 (w.e.f. 11.6.2008)]
+(2)
+It shall be the duty of every distribution licensee to provide, if required, electric plant or electric line for giving electric
+supply to the premises specified in sub-section (1)
+Provided that no person shall be entitled to demand, or to continue to receive, from a licensee a supply of electricity for
+any premises having a separate supply unless he has agreed with the licensee to pay to him such price as determined
+by the Appropriate Commission.
+(3)
+If a distribution licensee fails to supply the electricity within the period specified in sub-section (1), he shall be liable to a
+penalty which may extend to one thousand rupees for each day of default.
+(2)
+Supply to Agricultural category: Application for supply to agriculture category shall be in Form 2 of Annexure III. In
+respect of the agricultural category, this provision shall be governed by the directives issued by the Commission from
+time to time, on the basis of the guidance on this matter by the National Electricity Policy (as stipulated in sub section 4
+under section 86 of the Act) and the policy directions in public interest given by the State Government under sub section
+(1) of section 108 of the Act.
+(3)
+The application for HT supply shall be in Form 4. Application for LT supply (except Agricultural category) including Hut
+service shall be in Form 1 & 3 of Annexure III.
+Note : Requisitions for supply of energy ( Applications), even if incomplete, and irrespective of whether they are handed
+over in person or by post, should be acknowledged in writing. If they are in order, they shall be registered immediately
+and acknowledged. If they are incomplete, the defects should be indicated and returned without registration.
+(4)
+An intending consumer who is not the owner of the premises [
+*]
+[The words 'he occupies' omitted as per Commission's Notification No.TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008).]
+shall produce a consent letter in Form 5 of Annexure III to this code from the owner of the premises for availing the
+supply. If the owner is not available or [
+*]
+[The word 'he' omitted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008)]
+refuses to give consent letter, the intending consumer shall produce proof of his/her being in lawful occupation of the
+Page 21/54
+----- PAGE 22 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+premises and also execute an indemnity bond in Form 6 of the Annexure III to this code indemnifying the licensee
+against any loss on account of disputes arising out off effecting service connection to the occupant and acceptance to
+pay security deposit twice the normal rate.
+(5)
+[***]
+[The words he occupies omitted as per Commission's Notification No.TNERC/DC/8-8 dated 8.2.2008 (w.e.f 27.2.2008)]
+(6)
+Where the intending consumer's premises has no frontage on a street and the supply line from the Licensee's mains has
+to go upon, over or under the adjoining premises of any other person (whether or not the adjoining premises is owned
+jointly by the intending consumer and such other person), the intending consumer shall arrange at his/her own expense
+for any necessary way leave, licence or sanction before the supply is effected. Even when the frontage is available, but
+objections are raised for laying lines / cables/ poles through a route proposed by the Licensee involving minimum cost
+and in accordance with the technical norms, to extend supply to the intending consumer, the intending consumer shall
+arrange at his/her own expense necessary way leave licence or sanction before the supply is effected. Any extra
+expense to be incurred by the Licensee in placing the supply line in accordance with the terms of the way leave, licence
+or sanction shall be borne by the intending consumer. In the event of way-leave, licence or sanction being cancelled or
+withdrawn, the intending consumer shall at his/her own cost arrange for any diversion of the service line or the provision
+of any new service line thus rendered necessary.
+(7)
+It shall not be incumbent on the Licensee to ascertain the validity or adequacy of way-leave, licence or permission
+obtained by the intending consumer. The consumer is liable for damages, if any, claimed by the person giving
+way-leave, licence or permission.
+(8)
+[***] [[Omitted as per Commission's Notification No. TNERC/DC/8-6 dated 10.9.2007 (w.e.f 3.10.2007) before omission
+stood as under:
+'The application for H.T / L.T. industries under 'Red Category' or highly polluting as notified by the Government/ Tamil
+Nadu Pollution Control Board from time to time shall be received only on production of letter of 'consent to establish '
+issued by Tamil Nadu Pollution Control Board along with the application by the prospective consumer.]]
+(9)
+In case of LT three phase supply, the Licensee shall ensure the following:
+(i)
+For all LT three phase services other than domestic and agricultural category, when the contracted demand exceeds
+18.6 KW (25 HP), the meter in the service shall have the KW demand recording facility.
+(ii)
+For all LT three phase services other than domestic and agricultural category, when the contracted demand does not
+exceed 18.6 KW (25 HP) and KW recording facility is not available in the meter, the consumer shall not be permitted to
+have excess connected load over and above the contracted demand. The consumer shall however be permitted to opt
+for meters with KW demand recording facility, allowed to have connected load in excess of contracted demand and
+covered under the provisions of the excess demand charges as stipulated in the Supply Code.
+(10)
+Notwithstanding anything contained in this clause, the Licensee will refuse to supply electricity to an intending consumer
+for any industry, including welding purpose in any predominantly residential area, if in the opinion of the Engineer, such
+supply will cause voltage fluctuations in the' supply to the area and consequent inconvenience in that area. The decision
+of the Engineer as to whether there will be voltage fluctuations in the said area shall be final and binding on the
+intending consumer. "Residential" area means area recognized as such by Municipal Corporations, Municipalities,
+Townships, Panchayats or such other local authorities constituted under any law for the time being in force. If however,
+the area under consideration is declared as a residential cum industrial area by the competent bodies, the above
+provision shall not apply.
+(11)
+The requirement to be notified by the Authority through regulations shall be complied with for availing the service
+connection.
+Page 22/54
+----- PAGE 23 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(12)
+[Supply shall be given in poromboke land on production of -
+(i)
+No Objection certificate obtained from the Officer (not below the rank of Deputy Tahsildar) or
+(ii)
+Where such No Objection Certificate could not be produced by the applicant for service connection the following
+undertaking shall be furnished: -
+(1)
+"I am aware that I am liable to be evicted and for supply disconnection at any time if the lands are required by the
+Government and / or any dispute arises at a later date and that electricity supply given in this regard will not confer any
+claim on ownership of the land.
+(2)
+I am aware that the above undertaking shall not confer permanent and full right to the ownership of the land.]
+(13)
+Within a door number or sub door number, an establishment or person will not be given more than one service
+connection.
+(14)
+[ Where more than one person or more than one establishment is or intended to be in occupation of a door number or
+sub door number, more than one service connection will be given only if there is a permanent physical/electrical
+segregation of areas for which different service connections are applied for.]
+[Substituted by Notification No. TNERC/DC/8-19, dated 01-07-2014.]
+(15)
+In case of flat system and shopping complexes where more than one flat or shops are located [with permanent physical
+segregation]
+[Inserted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+, more than one service shall be given.
+(16)
+In case of non compliance by the Licensee, of the provisions as above, the intending consumer can approach the
+Consumer Grievance Redressal Forum [established under section 42(5) of the Electricity Act 2003]
+[Inserted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+.
+Explanation. - For the removal of doubts, the expression "other compliances" occurring in the Explanation to section
+43(1) of the Act as reproduced in sub-regulation (1) above, shall include the following, namely: -
+(a)
+the compliance by the intending consumer of other laws of the State of Tamil Nadu relating to the obtaining of permit or
+approval or sanction or consent from the appropriate authorities as mentioned in such laws in regard to construction,
+alteration or repairs to buildings or establishment of new industries or factories or other establishments for which supply
+of electricity is required by such intending consumer;
+(b)
+the compliance by the intending consumer of the provisions contained in sub regulations (4), (11) and (12) above;
+(c)
+the compliance by the intending consumer of any decree or order or judgment of any civil court in regard to the supply of
+electricity or other requirements mentioned in such decree or order or judgment.
+28.
+Additional terms of supply as stipulated in section 48 of the Act reads as.
+- "A distribution licensee may require any person who requires a supply of electricity in pursuance of section 43 to
+accept:
+(a)
+any restrictions, which may be imposed for the purpose of enabling the distribution licensee to comply with regulations
+made under section 53;
+(b)
+Page 23/54
+----- PAGE 24 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+any terms restricting any liability of the distribution licensee for economic loss resulting from negligence of the person to
+whom the electricity is supplied."
+29.
+Service Lines.
+(1)
+More than one service connection in a door number/ sub-door number will be given if the second service connection is
+for a welding set in the same door number/sub -door number.
+(2)
+In agricultural connections where the consumer requires a separate service connection for utilizing energy for radios and
+other appliances including domestic lighting in the farm house, more than one service connection in the same Survey
+Field Number /sub-divided survey field number will be permitted.
+(3)
+Tire existing High Tension Consumers who want to avail a separate service for their expanded industrial activities within
+a door No., or sub-door No. (in the same premises) a new service connection shall be given, provided the extension is
+physically and electrically [segregated]
+[Substituted for the expression 'demarcated' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008)]
+.
+(4)
+Upon receipt of an application for supply of electricity, a notice will be sent to the intending consumer that he or his/her
+authorized representative to meet the Engineer to agree on the position of the point of supply, cutout or circuit-breaker
+and meter . The Licensee will in no case fix its meter, cut-out etc., nor allow the same to remain in any position which
+will entail entry by its employees into certain restrictive areas which are socially well defined. In case of service
+connection from OH line, the service mains shall be visible and accessible up to metering point for inspection.
+(5)
+The consumer shall provide free of cost to the Licensee adequate land/space in his/her premises, as may be considered
+necessary by the Engineer and afford all reasonable facilities for bringing in not only cables or overhead lines from the
+Licensee's system for servicing the consumer but also cables or overhead lines connecting other consumers. The
+land/space should be at a location near the entrance to the premises and should be easily accessible to Licensee's
+officials for inspection.
+(6)
+The Consumer shall permit the Licensee to install all requisite equipments such as Transformers, switch gears, meters
+etc., and to lay necessary cables or overhead lines and to provide connections thereto on the consumer's premises and
+shall also permit the Licensee to extend supply to other consumers through the cables, lines and equipments installed in
+the consumer's premises, provided that supply to the consumer in the opinion oi the Engineer is not thereby unduly
+affected.
+(7)
+The Service Line once laid shall not be transferred, interfered with or shifted from one place to another except with the
+permission of the Engineer.
+(8)
+For housing the switch gears and meter cubicles of the Licensee, the High Tension Consumer shall provide and
+maintain at his/her own expense locked, weatherproof and fireproof enclosure of agreed design and location. The
+enclosure should preferably be in a building separate from the Consumer's substation and installation. Where this is not
+feasible, the equipments of the Licensee shall be completely segregated from the Consumer's equipments by fireproof
+walls.
+(9)
+The consumer shall permit the Licensee, free of cost, the use of any land belonging to the consumer which may be
+required for erecting the posts, lines, structures, cables and other equipments necessary for the supply of electricity and
+shall give access at all time to the Engineer and /or his/her agents, employees, sub-ordinates and workmen with or
+without tools to inspect and/or work on the posts, lines, structures, cables and other equipments and the consumer shall
+have no claim whatsoever on account of any damage to his/her property by reason of such erection of or any other work
+Page 24/54
+----- PAGE 25 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+on the posts, transmission lines, structures, cables and other equipments.
+(10)
+In all storied buildings irrespective of the number of floors, service connections (whether through overhead wires or
+through under-ground cables) will be effected normally at the ground floor. Service connections will also be effected, at
+the request of the consumer, at the basement floor of the storied building, provided the place where the Licensee's
+meters, cut-outs etc., are installed has direct and independent access from outside, is well ventilated, has sufficient
+headroom and the doors provided for the service room have adequate fire resistance property and water proof and free
+from water logging.
+(11)
+In storied building sufficient space at a suitable place shall be made available free of cost to the Licensee for installing
+transformers, switch gears etc., in addition to the space requirements stated below.
+(12)
+[For any building / premises requiring LT service connection(s) having either (a) total floor area of 900 square meter and
+above (excluding the stilt floor / basement floor) or (b) the total demand of all the LT services in the building exceeds 150
+kW] [[Substituted as per Commission's Notification No. TNERC/DC/8-1 dated 22.11.2005 (w.e.f. 7,12.2005)Before
+substitution stood as under:
+'For storied buildings having a total floor area of 900 square metre and above, and multistoried building i.e. Ground plus
+three or more floors including stilt floor/ basement floor for Low Tension Service Connection.]].
+(i)
+(a)
+an electrical room with RCC roof having clear floor area 6 metres W 4 metres with a vertical clearance of 2.75 metres
+with locking facility, exhaust fans and ad equate size of cable duct, shall be provided at the ground floor within the
+consumer premises of storied buildings nearer to the main entrance for installing floor mounted distribution transformer
+and associated switchgear or
+(b)
+a clear space of [10 metre W 4 metre or 5 metre W 5 metre]
+[Substituted for the expression '10m ]N 4m or 5m W 5m' as per Commission's Notification No. TNERC/DC/8-8 dated
+8.2.2008 (w.e.f. 27.2.2008).]
+open to the sky shall be provided within the consumer premises preferably at the main entrance for installing structure
+mounted distribution transformer and associated switchgears, and
+(ii)
+[ Space as per the following norms shall be allotted for establishment of a sub-station/switching station in places of
+group housing/commercial complex where the total demand exceeds 5 MVA. These areas shall be specifically shown in
+the plan.
+[Substituted by Notification No. TNERC/DC/8-12, dated 24.8.2009 (w.e.f.16.9.2009).]
+The requirement of land for establishment of sub-stations shall not exceed the limit given below:
+Voltage level of the sub-station
+Land Requirement in Sq.Mts.
+Normal sub-station
+Compact sub-station
+33 KV Sub-Station
+1520 (indoor) 3160 (outdoor)
+225
+110 KV Sub-Station
+4000 (outdoor)
+1050
+230 KV Sub-Station
+16000 (outdoor)
+7750
+Note: - (a) in places situated within 60 Kilo Meters from the periphery of the Metropolitan/Corporation limit, the licensee
+may establish the Compact Sub-Station;
+Page 25/54
+----- PAGE 26 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(b)
+in places situated within 30 Kilo Meters from periphery of the Municipality limit, the licensee may establish the Compact
+Sub-Station;
+(c)
+in places situated within 10 Kilo Meters from the periphery of the Town Panchayat limit, the licensee may establish the
+Compact Sub-Station;
+(d)
+in other places, the licensee may establish the Sub-Station of his choice;
+(e)
+the land area should have the proper approach road atleast on any one side of the land for easy transporting of power
+transformer;
+(f)
+the dimension of the land area shall be as per the suggestions of the Licensee to the consumer.]
+(13)
+An approach road of not-less than 3 metres width shall be provided from the public road to the electrical room/open
+space earmarked for installation of distribution transformer, associated switchgear, sub station / switching station.
+Note 1: The specific requirement to provide space, as per the sub-regulations (12) and (13) of this regulation shall be
+made known to the consumers / builders / owners at the initial stages itself, when they approach with applications for
+extending temporary or regular supply.
+Note 2: The Chief Executive Officer of the Distribution Licensee (presently the Chairman / TNEB) may approve the
+relaxation against the requirement stipulated in sub-regulations (12) and (13) of this regulation in exceptional cases
+provided he is satisfied that:
+(a)
+the supply to such premises can be satisfactorily fed from the existing Distribution Transformer / other sources
+(b)
+the quality of the power supply will not be affected even in future due to growth of the load in the premises / near by area
+(c)
+no compromise has been made on technical requirements by relaxing the above criteria.
+(d)
+non availability of the space / alternate provisions is confirmed by the Licensee after a site inspection
+(14)
+For High Tension service connections: -
+(a)
+[For indoor metering, an electrical room with RCC roof having a clear floor area 5mx6m with a vertical clearance of 3.7
+metres between the floor and the ceiling/beam bottom with locking facility, exhaust fan and adequate size of cable duct
+shall be provided at the ground/basement floor for installing the Licensee's equipments, etc. This room shall be of
+fireproof and weatherproof] [[Substituted as per Commission's Notification No. TNERC/DC/8-1 dated 22.11.2005 (w.e.f.
+7.12.2005)Before Substitution stood as under:
+(sic)
+storied buildings having a total floor area of 900 square meter and above multistoried building i.e. Ground plus three or
+more floors including stilt floor/ basement floor for Low Tension Service Connection.]]
+(b)
+For outdoor metering, a clear space of [10 metre W 4 metre or 5 metre W 5 metre]
+[Substituted for the expression '10m W 4m or 5m W 5m' as per Commission's Notification No. TNERC/DC/8-8 dated
+8.2.2008 (w.e.f. 27.2.2008).]
+open to sky shall be provided.
+This enclosure shall be at the periphery of the building and shall be cut off from other portions of the premises by fire
+resistance walls. These areas shall be specifically shown in the plan. Before the plan is sent to the competent authority
+for approval, it shall be sent to the Engineer and got approved. The point of supply shall be within 30 meters from the
+main gate easily accessible and visible and satisfactory with regards to security aspects. Failure to comply with the
+above requirements will result in denial of supply.
+Page 26/54
+----- PAGE 27 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+[Provided that the Chief Executive Officer or any other Officer, not less than in the rank of a Chief Engineer, authorized
+by the Chief Executive Officer may approve the point of supply at a place beyond 30 meters from the main gate, if he is
+satisfied that such place is -
+(a)
+easily accessible and visible to the officials of the licensee;
+(b)
+is safe and secure; and
+(c)
+is not susceptible to malpractice. Also there shall be no compromise on technical grounds, while relaxing the distance
+criteria.]
+(15)
+With medium voltage supply i.e. above 250 volts and up to 650 volts, the Licensee's meter and service cutouts shall be
+enclosed in a strong vermin proof and water proof box suitably ventilated and provided with suitable locking
+arrangements at the consumer's cost at the location convenient to licensee for meter reading etc. All wires shall be
+made inaccessible to unauthorized persons. A 'caution' board shall be fixed thereto.
+(16)
+Having agreed on the position of point of supply, the Engineer will render to the intending consumer an estimate for the
+cost of laying the service line. Any work of laying the service line will be taken up only after the intending consumer pays
+the estimated amount in advance in full. The charges payable by the intending consumer for service line shall be as
+estimated by the Licensee from time to time.
+(17)
+The entire service line will be the property of the Licensee and the Licensee will maintain it at his/her cost.
+(18)
+The Licensee will also have the right to use the service line for supply of electricity to any other person.
+30.
+Consumer's installation.
+(1)
+[The consumer's installation should invariably comply with the statutory provisions contained under section 53 of the Act
+relating to wiring and equipment. The responsibility with regard to maintenance or testing of equipments and wiring on
+consumer's premises shall lie upon the consumer.] [[Substituted by Commission's Notification No TNERC/DC/8-8 dated
+8.2.2008 (w.e.f. 27.2.2008) Before substitution it reads as under:
+'The consumer's installation should invariably comply with the statutory provisions of the rules framed under Act relating
+to wiring and equipment. The responsibility with regard to maintenance or testing of equipments and wiring on
+consumer's premises shall vest with the consumer. The regulations made by the Regional Tariff Advisory Committee
+under the Insurance Act 1938 (Central Act IV of 1938) applicable to the electrical equipments in buildings shall be
+complied with by the consumers.]]
+(2)
+No cutout, link or switch (other than a linked switch arranged to operate simultaneously on the earthed neutral conductor
+and live conductors) shall be inserted or remain inserted in the earthed neutral conductor of the system.
+(3)
+If any alteration is carried out either in equipment or in wiring, the same shall be intimated to the Licensee for updating
+the Test Report.
+(4)
+The consumer must in all cases provide quick-break linked switches and a main fuse/ MCB on each live conductor
+except the earthed neutral. The linked switch must be erected within a metre of the Licensee's meter board or in such
+other position as may be required/ approved by the Engineer. Where a conductor forming part of the consumer's system
+is to be connected to the Licensee's earthed neutral conductor, an indication of a permanent nature shall be provided by
+the consumer at the point where such connection is to be made to enable the conductor to be distinguished from any
+live conductor. The consumer shall provide a cable loop of at least one meter for each connection to the Licensee's
+meter board in the same room. In the case of High Tension supplies, suitable circuit breakers must be installed on the
+low-tension side of the transformer or on each of the individual low-tension feeder.
+Page 27/54
+----- PAGE 28 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(5)
+All electric motor used in all new Low Tension service connections shall be of ISI marked with manufacturers name plate
+indicating rating and capacity permanently affixed on it.
+(6)
+If at the time of effecting service connections under the Low Tension Domestic, Educational and other special
+institutions, etc., and General purpose category (presently Commercial and other categories), it is found that the
+assessed capacity is in excess of the capacity applied for by the consumer, the Engineer will include the assessed
+capacity in the Test Report and effect supply.
+[Provided such excess capacity does not result in any increase in the demand applied/sanctioned and such assessed
+capacity is commensurate with the capacity of the meter and service line provided and does not involve either change of
+category of supply or improvements to the distribution mains.]
+[Inserted as per Commission's Notification No TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27 2.2.008).]
+(7)
+All transformers, switchgears, control equipments and other electrical equipments belonging to the consumer and
+connected to the mains of the Licensee shall be maintained to the reasonable satisfaction of the Engineer of the
+Licensee and shall be in conformity with the applicable Acts, Codes, Rules and regulations etc.,
+(8)
+Before any wiring or fitting of motor or any other electrical equipment is connected to the system, the same shall be
+subject to the inspection of the Engineer of the Licensee. However, this condition will not apply to Low Tension Service
+Connections under the Tariffs for Domestic, Educational and other special institutions, and General Purpose categories
+(Commercial and other categories).
+(9)
+All High Tension installations and their associated medium voltage and low voltage installations will have to comply with
+the applicable safety and security rules prescribed by Authority/Government/Commission.
+(10)
+If the connected load of any installation exceeds 15 amperes at 240 volts the installation shall be wired on the group
+system, separate neutral wires being brought back in each case to the point of supply. Each circuit shall have a distinct
+control switch. The lamps, fans and other equipments in the installations shall be so grouped that under normal
+conditions the current will be balanced and no current will flow in the neutral wire.
+(11)
+A caution Board printed in Tamil and English shall be affixed by the Licensee on the meter board of each service.
+(12)
+In order to save the expenses of a long underground service connection on private property, consumer may, with the
+Engineer's approval, erect a pillar on that portion of his/her property which will be the metering point nearest to the
+Licensee's supply mains into which the service shall be laid and from which the consumer shall rim overhead lines / UG
+cables to his/her premises. These overhead mains shall constitute portion of his/her installation, and shall be laid in
+compliance with the applicable Safety Rules. An efficient lightning arrester may be fixed at the commencement of the
+overhead line at the consumer's cost, should he desire the same, as an additional protection for his/her installation.
+(13)
+Gas and water pipes shall on no account be used for earthing purposes. All wiring shall be kept as far as possible away
+from gas and water pipes.
+(14)
+All wall plugs shall be of the three-pin type, the third pin connected to earth. All plugs shall be provided with switches on
+the live wire and not on the neutral.
+(15)
+Motors shall be provided with control gear so that the maximum current demand of the consumer's installation does not
+in any case exceed the limit given in the following schedule.
+Nature of supply
+Size of installation
+Limit of maximum current demand
+Single Phase
+Page 28/54
+----- PAGE 29 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Up to 3 H.P
+Full load current W 6
+Three Phase
+i. Up to 3 HP
+Full load current W 6
+ii. Above 3 HP and up to 15 HP
+Full load current W 2
+iii. Above 15 HP and up to 100
+HP Full load current W 1.5
+iv. Above 100 HP
+Full load current W 1.25
+Note: - 1. The capacity may exceed for the single-phase motors in areas where High voltage Distribution System using
+Single phase Distribution Transformers is implemented.
+2. Providing of automatic switching facilities to the three phase motors with a direct on line starter is prohibited.
+3. The use of phase shifters ( to operate the three phase motors during two phasing by the Licensee) in respect of
+Agricultural services by the consumers is prohibited.
+Failure to restrict within these limits and also to comply with the above requirements will render the service connection
+liable for disconnection.
+(16)
+Three-phase motor circuits shall be controlled by triple-pole switch with no-volt release and fuse protection. It is
+important that the release should be maintained in working order. Functionally equivalent controls shall also be
+acceptable. Wiring for such motors shall be run with all wires bunched in a conduit, which shall be efficiently earthed
+through and connected to the frame of motor from which two separate and distinct earth wires shall be run. The earth
+wire shall be preferably of copper.
+(17)
+In the case of temporary supply, the consumer shall provide current limiting switch of appropriate capacity and capacitor,
+if any required.
+31.
+Inspections, testing and effecting supply.
+(1)
+After completion of the wiring, notice must be sent to the Engineer by the intending consumer ( upon printed test report
+form obtainable free of cost from the offices of the Licensee) that the installation has been completed and tested and
+that the same is complete and ready for inspection and test by the Engineer. Notice of the Engineer's intention to inspect
+and test the installation will be sent to the intending consumer who must be present or his/her competent representative
+at the time fixed to give information that may be necessary concerning the installation. [Upon executing / signing of the
+test report, a copy of the test report shall be given to the consumer]
+[Inserted by Commission's Notification No TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+.
+(2)
+The intending consumer shall avail himself of the supply within three months in case of HT and one month in case of LT
+from the date of issue of notice in writing, informing him that supply is available.
+(3)
+[ If the intending consumer fails to avail the supply within the above period, a further three months notice in case of HT
+and one month notice in case of LT will be sent to the intending consumer to avail the supply. If he does not avail
+himself the supply during this notice period, the application will be treated as lapsed and cancelled in the case of Low
+Tension supply, and the application shall be treated as cancelled, terminating the agreement, in the case of High
+Tension supply. The service connection charges and the Security Deposit/development charges, etc. except Meter
+Caution Deposit will be forfeited. In case the intending consumer could not avail the supply under force majeure
+conditions, the Security Deposit and meter caution deposit shall be refunded to the intending consumer.]
+[Substituted by Notification No. TNERC/DC/8-19, dated 01-07-2014.]
+(4)
+Page 29/54
+----- PAGE 30 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+However, Licensees of the Distribution are delegated with powers to condone the delay on specific request from them if
+received before expiry of second notice period and to accord approval to effect supply any day after the date of expiry of
+second notice of availability of supply without forfeiture of development and other charges and cancellation of application
+subject to his/her consent to pay monthly minimum charges up to the date of availing supply.
+(5)
+If the intending consumer avails supply during the notice period of availability of supply he shall pay the monthly
+minimum charges at the notified tariff rate for the period from the date of issue of first notice of supply availability till the
+date of availing supply.
+(6)
+Requisition for supply or additional supply of electricity should be made in the prescribed form obtainable from the local
+office of the Licensee sufficiently in advance of the date of requirement of supply. Such Forms can also be made
+available in downloadable mode in the Licensee's website or allowed to be printed by others and made available in open
+market. The requisition should be made by the owner, or occupier, of the premises for which supply is required, and
+should indicate his / her full name and address. Any assistance or information required in filling up the form has to be
+given to the intending consumer at the local offices of the Licensee.
+32.
+Licensee's supply mains and equipments.
+(1)
+The Licensee may provide in Low Tension service connections its own meter, board, cut-out and other equipments and
+for High Tension Service connections, its own circuit breaker, High Tension fuses and other equipments and these will
+remain the property of the Licensee and must on no account be operated, handled or removed by anyone, who is not an
+employee of the Licensee, unless authorized by the. Licensee. [If the consumer elects to purchase a meter, it shall be
+tested, installed, operated, maintained and sealed by the licensee. The consumer shall claim the meter purchased by
+him as his asset only after it is permanently removed from the system of the licensee.]
+[Inserted by Commission's Notification No TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+(2)
+The Licensee will have the right to use its supply lines and equipments provided under the conditions above and to lay
+cables under, across, over or through the consumer's premises for supply to other premises in the neighborhood.
+(3)
+The consumer shall not interfere in any manner with the property of the Licensee and shall be fully responsible for the
+safety of the property of the Licensee in the consumer's premises. In the event of any loss or damage caused to
+Licensee's property by any act, neglect or default of the consumer, his/her servants or persons employed by him or due
+to any reason other than force majeure conditions the consumer shall compensate the Licensee for the cost of
+necessary repairs or replacements as may be indicated by the Engineer, within thirty days of issue of the bill in this
+behalf. Non-payment of such bill by the consumer shall entail disconnection of supply under section 56 of the Act.
+33.
+Agreements.
+(1)
+All intending consumers shall execute an agreement governing the supply of electricity in the form prescribed at the time
+of paying the Security Deposit and the service connection charges. The work of extension of supply will be taken up for
+execution only after the agreement is executed and the Security Deposit and the service connection charges, etc. are
+paid. For LT consumers other than agricultural and industrial consumers the application is treated as
+application-cum-agreement. In case of LT agriculture and industrial services, the agreement shall be in Form 7 in
+Annexure III and in case of HT consumers, the agreement shall be in Form 8 in Annexure III
+(2)
+Every agreement is for a specific purpose and a specified location. The Engineer may at his/her discretion permit a
+consumer to change the point of supply from one place to another on such terms as may be prescribed by the Licensee
+including payment of charges incidental to such change.
+(3)
+The agreement can be terminated by the consumer at any time by giving one month's notice in writing to the Licensee
+expressing his/her intention to do so.
+Page 30/54
+----- PAGE 31 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(4)
+The Licensee can terminate the agreement of a consumer at any time by giving one month's notice if the consumer has
+violated the terms of the agreement or the terms and conditions of this Code or the provisions of any law relating to the
+agreement including the applicable Acts and Rules under the Act and other orders from time to time. [The Licensee shall
+inform the consumer regarding the grounds for such termination] [[Substituted by Commission's Notification No
+TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008. Before substitution stood as under:
+'It is obligatory on the part of the Licensee to inform the consumer regarding the grounds for suchtermination ]] It is
+obligatory on the part of the Licensee to inform the consumer regarding the grounds for such termination.
+(5)
+[ In the case of termination of the agreement either by the consumer under sub-regulation (3) or by the licensee under
+sub-regulation (4), as the case may be, the licensee shall recover the dues if any due from the consumer after making
+such adjustment of the dues, due to him by the consumer as may be necessary to clear the dues from the consumer
+against the security deposit or additional security deposit or any other deposit made by the consumer and after making
+such adjustment, refund the balance deposit, if any, to the consumer within three months from the date of termination of
+the agreement.]
+[Inserted by Commission's Notification No TNERC/DC/8-7dated 3.12.2007 (w.e.f. 19.12.2007).]
+34.
+Earnest money deposit.
+(1)
+The applicants required to pay Earnest Money Deposit will be asked to pay Earnest Money Deposit along with
+registration fee for registration of application.
+(2)
+This Earnest Money Deposit will be adjusted against the quantum of initial Security Deposit payable by the applicant
+before availing supply and balance amount if any shall be collected.
+(3)
+In respect of High Tension applicant the Earnest Money Deposit payable will be equal to the quantum of initial Security
+Deposit.
+(4)
+If the applicant backs out after registration and payment of E.M.D. but before payment of Development charges, Service
+Connection charges and Meter Caution Deposit, then the application shall be cancelled and E.M.D. forfeited.
+(5)
+If the applicant backs out after payment of all charges and execution of agreement, the application shall be cancelled
+and agreement terminated forfeiting all amount remitted except meter caution deposit in the case of both High Tension
+and Low Tension.
+(6)
+If the H.T. applicant who prefers to back out partially against the sanctioned demand before availing supply, then the
+above forfeiture rule may be applied proportionate to the demand backed out.
+(7)
+The Earnest Money Deposit paid does not bear any interest until the date of service connection.
+35.
+Security deposit.
+(1)
+All applicants for supply of electricity shall pay initial Security Deposit, before availing of the supply, in Cash/ [***]
+[The word 'cheque' omitted by Commission's Notification No.TNERC/DC/8-8 dated 8.2.2008 (w.e.f.27.2.2008).]
+Demand draft at the rate fixed by the Commission from time to time.
+(2)
+The following categories of service connections may be exempted from payment of Security Deposit:
+(i)
+Service connections in the name of the State Government Departments
+(ii)
+Service connections to premises occupied by Foreign Diplomats or Consulate Establishments, irrespective of whether
+Page 31/54
+----- PAGE 32 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+the service connection is in their name or not.
+(3)
+Applicants for supply of electricity for agricultural and hut service connections shall pay Security Deposit equivalent to
+seven months levy of lump sum charges / metered energy charges or the amount notified by the Commission from time
+to time.
+(4)
+Interest will be paid by the Licensee on Security Deposit at the rate as may be fixed by the Commission from time to
+time. Full calendar months only will be taken into account for the purpose of calculating the interest and the interest will
+be calculated to the nearest rupee i.e. 50 paise or above will be rounded off to the next higher rupee and less than 50
+paise will be ignored.
+(5)
+If the consumer is prepared to take supply through pre payment meter such consumer is not required to pay security
+deposit.
+36.
+Access to premises, installations and equipments.
+- The access to premises, installations and equipments is subject to the provisions envisaged under sections 163 of the
+Act, which reads as:
+(1)
+A licensee or any person duly authorized by a licence may, at any reasonable time, and on informing the occupier of his
+intention, enter any premises to which electricity is, or has been, supplied by him, of any premises or land, under, over,
+along, across, in or upon which the electric supply-lines or other works have been lawfully placed by him for the purpose
+of -
+(a)
+inspecting, testing, repairing or altering the electric supply lines, meters, fittings, works and apparatus for the supply of
+electricity belonging to the licensee; or
+(b)
+ascertaining the amount of electricity supplied or the electrical quantity contained in the supply; or
+(c)
+removing where a supply of electricity is no longer required, or where the licensee is authorized to take away and cut off
+such supply, any electric supply-lines, meters, fittings, works or apparatus belonging to the licensee.
+(2)
+A licensee or any person authorized as aforesaid may also, in pursuance of a special order in this behalf made by an
+Executive Magistrate and after giving not less than twenty-four hours notice in writing to the occupier, -
+(a)
+enter any premises or land referred to in sub-section (1) for any of the purposes mentioned therein;
+(b)
+enter any premises to which electricity is to be supplied by him, for the purpose of examining and testing the electric
+wires fittings, works and apparatus for the use of electricity belonging to the consumer.
+(3)
+Where a consumer refuses to allow a licensee or any person authorized as aforesaid to enter his premises or land in
+pursuance of the provisions of sub-section (1) or, sub-section (2), when such licensee or person has so entered, refuses
+to allow him to perform any act which he is authorized by those sub-sections to perform, or fails to give reasonable
+facilities for such entry or performance, the licensee may, after the expiry of twenty-four hours from the service of a
+notice in writing on the consumer, cut off the supply to the consumer for so long as such refusal or failure continues, but
+for no longer.
+37.
+Shifting of service connection.
+(1)
+The cost of shifting a new service connection for which line is laid but service connection is yet to be effected shall be
+borne by the intending consumer. The intending consumer shall pay the above charges in advance in full. The copy of
+the estimate shall be given to the intending consumer. The shifting work will be taken up only after the payment is made.
+Page 32/54
+----- PAGE 33 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+The estimate will cover the following: -
+(i)
+Materials dismantled in the old site and reusable shall be used in the new site as far as possible.
+(ii)
+10% of the present value of the dismantled and reusable materials towards charges for dismantling and charges for
+loading, unloading, transport to the new site/store.
+(iii)
+Cost of the new materials required for the shifting work.
+(iv)
+Add 5% of the cost of new materials towards loading, unloading and transport to new site.
+(v)
+Add 10% of the present value of all the materials to be erected in the new site towards erection charges.
+(vi)
+5% of the present value of retrievable scrap materials towards transport charges.
+(vii)
+Due credit shall be given to the intending consumer / applicant as below but however limited to the total estimated cost
+of new work:
+(a)
+Book value/written down value subject to a minimum of 20% of the cost of retrievable and reusable materials but not
+used in the new site.
+(b)
+Scrap value on the retrievable but not reusable materials at not less than 10% of its original value.
+(2)
+After completion of the work, a revised estimate shall be prepared with a copy to the intending consumer based on the
+actual cost of materials, loading, unloading, transport and erection charges. If the original estimate cost is more than the
+revised estimate, the balance shall be refunded to the intending consumer within 3 months. If the original estimate cost
+is less than the revised estimate, the difference shall be collected from the intending consumer.
+(3)
+With regard to shifting of existing service connection, the consumer shall pay all the arrears due to the Licensee, apart
+from the above shifting charges.
+38.
+Restrictions on use of electricity.
+- The consumer shall curtail, stagger, restrict, regulate or altogether cease to use electricity when so directed by the
+Licensee, if the power position or any other emergency in the Licensee's power system or as per the directives of SLDC/
+SSLDC warrants such a course of action. The Licensee shall not be responsible for any loss or inconvenience caused to
+the consumer as a result of such curtailment, staggering, restriction, regulation or cessation of use of electricity.
+Notwithstanding anything contained in any agreement/ undertaking executed by a consumer with the Licensee or in the
+tariff applicable to him, the consumer shall restrict the use of electricity in terms of his/her maximum demand and / or
+energy consumption in the manner and for the period as may be specified in any order that may be made by the
+Licensee on the instructions of State Government or the Commission.
+39.
+[ Temporary supply.
+[Substituted by Notification No. TNERC/DC/8-17, dated 06-09-2013.]
+- Temporary supply of electricity to any premises shall be dealt with as below: -
+(1)
+If the temporary supply as in the case of construction of building etc. is to be converted into permanent supply after
+completion of the construction, normal procedure to effect the supply to regular categories shall be followed and the
+consumer shall be charged under temporary supply tariff, i.e., permanent supply procedure shall be adopted with
+temporary supply tariff. An undertaking shall be obtained from the consumer to the effect that the consumer will accept
+to convert the temporary supply into appropriate permanent category after completion of the construction work in
+accordance with the regulations in force and to pay the charges if any arising out of such conversion. In such
+Page 33/54
+----- PAGE 34 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+conversion, if conversion from lower voltage to higher voltage is involved, the existing lower voltage service connection
+shall be closed and new higher voltage service connection shall be provided in accordance with the regulations in force.
+In case of conversion or closing of existing service connection account involves dismantling of part or whole of existing
+service line or erection of part or whole of service line or improvement of part or whole of existing service line or
+combination of the above credit/debit shall be given to the consumer as below: -
+(i)
+Book value /written down value subject to a minimum of 20% of the cost of retrievable and reusable materials shall be
+credited.
+(ii)
+Scrap value on the retrievable but not reusable materials shall be credited and this value shall be not less than 10% of
+its original value. No credit or debit shall be levied on the non-retrievable materials.
+(iii)
+Dismantling, transport and overhead charges shall be chargeable to the consumer.
+(iv)
+Cost of material,transport and erection charges for the part or whole of the new service line or improvement to the
+existing service line shall be chargeable to the consumer.
+(2)
+In case of providing supply purely for the temporary purpose, the following procedure shall be followed,
+(i)
+Cost of extension/improvement of lines for providing the supply shall be charged to the consumer.
+(ii)
+Security deposit equivalent to three times of the tariff charges for the consumption as calculated below shall be collected
+and maintained throughout the temporary supply period:
+Security Deposit = 3 x L x LF x H x D x T
+Where,
+L = Connected Load in kW
+LF = Load Factor =0.5
+H = Number of hours of a day= 24 Hours
+D = Number of days of billing cycle period as specified in regulation 8(3) of the Supply Code/proposed period of use
+whichever is less
+T = Tariff rate of Temporary supply as specified by the Commission from time to time
+(iii)
+The security deposit shall be reviewed during every billing cycle or proposed period of use and enough care shall be
+taken to maintain the security deposit at the average level of consumption subject to the minimum of the calculated level
+till the closing of the temporary supply account. At any time, if the security deposit is found to be less than the amount
+specified, the additional security deposit shall be collected along with the Current Consumption charges.
+(iv)
+The temporary supply account shall be closed after the completion of temporary supply period and credit shall be
+refunded to the consumer as specified in sub regulation (1) of this regulation. The Licensee shall refund the balance
+deposit, if any after the temporary supply period is over within a period specified by the Commission.]
+40.
+Energy conservation.
+- Promoting efficient use of energy including energy audit towards this end and energy conservation by all the
+consumers and the Licensee shall be mandatory as per the provisions contained in the Energy Conservation Act 2001
+subject to the condition that such stipulations are not inconsistent with the Electricity Act 2003.
+41.
+Service of notice.
+- All letters, bills and notices including those under statutory requirements will be sent by the Licensee to the consumer
+by ordinary post or by messenger. Documents of notices so dispatched shall be presumed to have been duly received
+by the consumer on the date on which he could be reasonably expected to receive the same. The Licensee may, if it
+chooses, adopt any other mode of service of documents and notices to the consumer.
+Page 34/54
+----- PAGE 35 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+42.
+[ Knowledge of Acts, Rules, Regulations, Orders, etc. [[Substituted by Commission's Notification No. TNERC/DC/8-8
+dated 8.2.2008 (w.e.f. 27.2.2008) Before substitution it was as under:
+42. Knowledge by facts, rules, orders, etc.: Subject to the provisions contained in Note 1 to sub-regulation(13) of
+regulation 29, the consumer will be deemed to have full knowledge of the provisions of 'applicable Acts, Rules and all
+regulations and notifications made there under. The consumer shall act in due conformity with all the applicable Acts,
+Rules and all regulations mentioned above and, if he does not so act, his/her supply may be discontinued without
+prejudice to any other action that may be taken by the Licensee.]]
+- Subject to the provisions contained in the Note 1 to sub-regulation (13) of regulation 29, the consumer will be deemed
+to have full knowledge of the provisions of 'applicable Acts, Rules and all Regulations and Notifications' made there
+under. The consumer shall act in due conformity with all the applicable Acts, Rules and all Regulations and Notifications
+mentioned above.] [[Substituted as per Commission's No TNERC/DC/8-2 (1) dated, 14.06.2006 (w.e.f. 23.2.2006) which
+before substitution stood as under:
+Provided that the Chief Executive Officer of the Licensee may approve the point of supply at a place beyond
+30. meters from the main gate, if he is satisfied that such place is
+(a)
+easily accessible and visible to the officials of the licensee
+(b)
+is safe and secure and
+(c)
+is not susceptible to mal practice.
+Also there shall be no compromise on technical grounds, while relaxing the distance criteria.]]
+43.
+Interpretation.
+- These terms and conditions shall be read and construed as being subject in all respects to the provisions of the Act,
+Rules, and regulations in force and as amended from time to time.
+Chapter 7
+Recovery Charges
+44.
+The Licensees are entitled to collect the charges from a person requiring supply of electricity any expenses reasonably
+incurred in providing any electrical line or electrical plant used for the purpose of giving that supply. These charges have
+also to be reviewed either periodically or at times of an urgent need for a revision. The consumers are liable to pay such
+charges as applicable and at the rates specified by the Commission from time to time through separate orders/
+notifications. The various charges to be collected are furnished in the following clauses.
+45.
+Service Connection Charges.
+(1)
+Regarding the recovery relating to service connection charges:
+(i)
+For connecting up an installation, the Licensee shall be entitled to charge the consumer the actual cost of materials upto
+meter board, labour, transport plus overhead charges.
+(ii)
+Extension, improvement or alteration to service lines to meet any additional demand will be charged on the same basis.
+In each case, the consumer will be furnished with an estimate of the cost of the work and this amount is payable in
+advance. On completion of the work, a bill for the actual amount payable will be forwarded to the consumer and any
+difference shall be paid by the consumer or will be refunded by the Licensee as the case may be.
+(iii)
+The estimate for service connection charges may also include the service connection charges for metering referred to in
+regulation 45(2). The licensee shall give due credit for the materials if any supplied by the consumers.
+(2)
+Service connection charges for metering:
+Page 35/54
+----- PAGE 36 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+The licensee is authorized to collect service connection charges for metering.
+46.
+Meter Security Deposit.
+- The Licensee is authorized to collect security for the price of meter from LT/FIT consumers at the rates specified by the
+Commission from time to time and enter into an agreement for hiring of the meter. The Licensee may permit the
+consumer to install his/her own meter. However, it shall be calibrated by the Licensee.
+Note: - 1. The above rate shall also apply to L.T. Temporary Supply.
+2. Interest is payable on the above deposit at the rate specified by the Commission from time to time. The deposit shall
+be refunded after termination of service agreement, as per rules.
+3. If a consumer elects to purchase his own meter, he is not required to pay Meter Security Deposit.
+47.
+Development Charges.
+- The Licensee is authorized to collect development charges from LT/HT consumers at the rates specified by the
+Commission from time to time.
+Note: - (1) The above development charges (one time payment) shall be collected from all applicants both for new and
+additional loads.
+(2)
+For additional loads applied in the existing service the same rates are applicable.
+(3)
+In case of conversions from Single Phase to Three Phase the difference in the development charges shall be collected
+provided the initial development charges were paid while availing Single Phase Service.
+(4)
+One fourth of the development charges shall be applied to temporary supplies.
+48.
+Earnest Money Deposit (EMD).
+- The Licensee is authorized to collect Earnest Money Deposit from all applicants for HT and LT industrial applicants at
+the rates specified by the Commission from time to time. This will be adjusted against the quantum of initial Security
+Deposit payable by the applicants before availing supply.
+49.
+Security Deposit.
+- The Licensee is authorized to collect initial security deposit at the rates specified by the Commission from time to time.
+Wherever Earned Money Deposit has been adjusted against the initial security deposit the balance if any will be
+collected from the applicants before giving supply.
+50.
+Code to be read along with Supply Code, Electricity Act 2003 and amendments etc.
+(1)
+This Code shall be read along with the Supply Code, the Tamil Nadu Electricity Grid Code and other relevant provisions
+of the Act, along with amendments thereon, rules and regulations made there under.
+(2)
+Where any of the provisions of this Code is found to be inconsistent with those of the Act, rules or regulations made
+hereunder, not withstanding such inconsistency, the remaining provisions of this Code shall remain operative.
+(3)
+Where any dispute arises as to the application or interpretation of any provision of this Code, it shall be referred to the
+Commission whose decision shall be final and binding on the parties concerned.
+(4)
+Wherever extracts of the Electricity Act 2003 are reproduced, any changes / amendments to the original Act shall
+automatically be deemed to be effective under this Code also.
+Chapter 8
+Code Review Panel
+51.
+Appointment of Code Review Panel etc.
+Page 36/54
+----- PAGE 37 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+- [(1) The Commission may appoint a Code Review Panel (hereafter in this Chapter referred to as "Panel") consisting of
+-
+(a)
+A Chairperson at the level of Director of the Distribution Licensee.
+(b)
+A Member Secretary, who shall be the Chief Engineer/Commercial of the Distribution Licensee.
+(c)
+One Member from the SLDC who is not below the rank of Chief Engineer.
+(d)
+Three representatives from the Distribution Licensee who are not below the rank of Chief Engineer and one
+representative from the Distribution Licensee who is not below the rank of Chief Financial Controller.
+(e)
+One representative from LT domestic consumer sector, one from LT commercial sector, one from LT industry sector and
+one from LT agricultural consumer sector.
+(f)
+One member representing the EHT / HT consumers.
+(g)
+One member representing open access consumers.
+(2)
+The Member Secretary shall arrange for the Panel meeting. The tenure of the members mentioned under clauses (e), (f)
+and (g) of sub-regulation (1) shall be three years. The members, on expiry of their term, are not eligible for
+re-nomination.]
+[Substituted by Notification No. TNERC/DC/8-19, dated 01-07-2014.]
+(3)
+The functions of the panel are -
+(a)
+to review the working of various provisions of this Code, the Tamil Nadu Electricity Grid Code and the Supply Code.;
+(b)
+to consider the suggestions received from Licensees, consumers and other interested persons;
+(c)
+to consider and offer its views on any specific matter as may be referred to it by the Commission.
+(4)
+Manner of reviewing the Code -
+(i)
+Any licensee, consumer or other interested persons desiring any change in this Code shall send the proposal in writing
+to the Panel specifying the reasons for such change and setting out the attendant circumstances. For this purpose, the
+licensee may hold meetings with the consumer or group of consumers if it is considered that the Code may require
+changes to meet the individual requirements of the consumer or group of consumers.
+(ii)
+The Panel shall, upon receipt of such proposal or where the Commission has made a reference, forward the same to the
+STU for its consideration and written comments.
+(iii)
+The Panel shall convene a meeting of its members to consider the comments of the STU, and if necessary at its
+discretion, invite and hear the person who made the suggestions for change and other interested persons and also the
+local authorities and telecommunication companies.
+(iv)
+The Panel may, in considering the suggestion and the comments of the STU thereon, set up sub committees to study
+the related issues.
+(v)
+The Panel after finalizing its views on the modifications to the Code, forward the same to the Commission:
+Provided that the Panel may supplement its own procedure in addition to the procedure laid down herein for conducting
+Page 37/54
+----- PAGE 38 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+its meetings and in carrying out its functions.
+(5)
+The Commission may approve the changes with or without modification as it may deem fit and cause the publication of
+the same in such manner as may be necessary.
+Annexure I
+Load Data for Demands of 1 MW and above
+(Refer clause 6(3))
+1. Type of Load
+2. Minimum Demand (KVA)
+3. Year/Years by which full / part supply is required
+4. Load location details
+5. Rated Voltage and Frequency
+6. Expected load curve
+7. Withstand level of equipments/devices for the fluctuations, surges, swells, flickers and spikes
+8. Characteristics of the loads (State whether the loads are steel melting furnace Arc/induction furnace and rolling mills,
+traction, containing welding sets in large numbers, software, park, etc)
+(Furnish location map to scale, indicate details of nearest consumer and category / capacity)
+i. Motors ( with a specific focus on variable speed motors; soft start motors; fans; Blowers etc.) (State purpose and
+number of Installations, voltage and KW rating, starting current, type of Motors, types of drives and control
+arrangements.)
+ii. Heating (Type and KW rating)
+iii. Furnace (Type, Furnace Transformer Capacity and voltage ratio)
+iv. Computer, Inverters, UPS and other switched mode supply unit
+v. Electrolysis (Purpose, kVA capacity)
+vi. Lighting (types of lighting used) (Low loss energy conservation lamps, fluorescent Lamps, M.V Lamps, Sodium
+Vapour lamps) demand in kVA
+vii. P.F improvement capacitors/ Capacitor Banks (Nos, Capacity in MVAR)
+viii. Air conditioning / Chilling plant
+ix. Electronic Regulator for fan
+x. Phase unbalance imposed on system
+(a)
+Maximum (%)
+(b)
+Average (%)
+9. Maximum harmonic content imposed on the supply system on the end consumer level in percentage of fundamental
+voltage/current.
+10. Details of any loads, which may cause demand fluctuations of greater than 10 MW at the point of connection,
+including Voltage Dips (percentage) lasting for 5 seconds and more
+MVAR/KV
+MW/Hz
+MVAR/Hz
+(Furnish details of devices included in system for the suppression of harmonics i.e. the details of harmonic filter in use.)
+11. Details of Captive Power Plants:
+Annexure II
+System Data to Be Provided to the Intending, Consumep With A Contracted Demand of 1 MW or More (Refer clause
+6(3))
+1. A topographical map indicating the area of the licensee's supply network in the State of Tamil Nadu.
+2. Single line diagram of distribution system (OH lines / UG cables -length and conductor sizes) Primary and secondary
+substation capacity in KVA, capacitor bank sizes, fault level etc. to be indicated, (restricted area of concern for the
+prospective consumers)
+3. Protective relaying and metering arrangements at substations
+Page 38/54
+----- PAGE 39 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+4. Details of the substation and its main equipments (Transmission/Sub Transmission) along with a single line diagram
+of the SS.
+Furnish the details of Auto/Power Transformer
+Capacity in MVA
+Primary KV
+Voltage rating
+Secondary KV
+Current rating
+Primary Amps
+Secondary Amps
+Tap changing
+off load / on load
+Range
+..% to +...%
+Percentage impedance
+....percent
+Vector group
+....
+Impulse level (BIL)
+.....KVP
+Fault level of the system
+..... MVA
+Earthing system
+solidly earthed or not
+Power frequency voltage
+..KV for one minute withstand
+Circuit breakers
+Type: Vacuum/SF6/Oil (OMCB,OCB)
+Current rating
+Voltage rating
+Rupturing capacity in (KA)
+Symmetrical Asymmetrical
+Impulse withstand level KVP
+Operating mechanism
+Surge arrester
+(Gapless) - MCOV
+Surge current rating
+(Gapped) - rated voltage
+Surge current rating
+Provision of spiked Mats for the Power/ Auto
+Transformer
+Ground wire for the station
+Line entrance Arrester
+Earth mat
+Current Transformer
+Type: Rated voltage
+Current ratio
+Potential Transformer
+Type: Rated voltage
+Burden
+Capacitor Bank
+Page 39/54
+----- PAGE 40 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+MVAR/Bank
+Voltage rating ...KV
+Current rating ...Amp
+Fire fighting equipment
+Type - Nos
+(Details)
+Annexure III
+Formats
+FORM 1
+Application Form for L.T. Service Connection
+(except agriculture and hut)
+FORM 2
+Application Form for Agriculture Service
+Connection
+FORM 3
+Application Form for Hut Service Connection
+FORM 4
+Application Form for H.T. Service Connections
+(including additional demand)
+FORM 5
+Owner Consent Letter for getting New Supply
+FORM 6
+Indemnity Bond from the Occupier when there is
+no Consent letter from owner
+FORM 7
+L.T. Agreement for Industrial / Agricultural
+Services
+FORM 8
+H.T. Agreement Form
+Form I
+Application Form For L.T. Service Connection (Except Agriculture And Hut) Form Of Requisition For Supply Of Low
+Tension Energy (Single Phase / Three Phase)
+(Refer clause 27(3))
+To
+The Designated Engineer
+(Address of the Licensee)
+Sir,
+1. I hereby require you to supply electrical energy to the premises hereinafter described.
+(Note this undertaking does not preclude a separate written contract being entered into, if so desired by the Licensee or
+the consumer.)
+2. I agree to pay for said energy, service connection and other dues including the deposit of such security, meter rent, as
+may be demanded in accordance with the scale of rates prescribed under Tamil Nadu Electricity Distribution Code,
+Supply Code, notifications and orders issued in this regard by Tamil Nadu Electricity Regulatory Commission.
+3. I wish to be charged under Tariff........... under schedule of the TNERC tariff order dated.
+4. 1 agree to take supply for............years and utilize the energy in the premises described hereunder or outside the
+premises for my bonafide use.
+5. In case I sell or otherwise dispose of the property / vacate the premises while the supply is continued, I agree to give
+one Calendar month notice in writing and pay all the arrears to the Licensee. Failing such notice, I hold myself
+responsible for energy consumed in the premises till such notice is given to the Licensee.
+6. Description of the premises
+Door No. and / or name of the house or premises
+Page 40/54
+----- PAGE 41 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Street
+Town / village and Taluk
+Owned by (Name in Block letters)
+Tenanted by (Name in block letters)
+Applicant's correspondence address
+7. The following are my requirements:
+(A)
+Lighting
+Number of point's
+Wattage of point's
+Total wattage
+(i) Lights
+-
+-
+-
+(ii) Fans
+-
+-
+-
+(iii) Convenient wall plugs
+-
+-
+-
+(B)
+Domestic electrical apparatus:
+(i) Cookers
+(ii) Water heaters
+(iii) Refrigerator
+(iv) Air Conditioners
+(v) Other purpose
+(vi) Convenience wall plugs
+(C)
+Power Loads
+(i) Domestic
+(ii) Industrial
+(iii) Welding
+(iv) Other purposes
+(v) Convenient Wall Plugs
+Demand applied for in KW
+The wiring has been completed on:
+Place:
+Signature of the Consumer
+Date:
+Note: The application shall be accompanied with the following documents:
+(i)
+Proof of ownership (sale deed or property / water / sewerage tax receipt)
+(ii)
+Consent letter from owner wherever applicable
+For Licensee's Use Only
+Application registered as No............dated...........
+Note: - 1. In case of transfer of the service, fresh application should be signed by the transferee (or a letter signed by
+Page 41/54
+----- PAGE 42 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+both the transferor and transferee, agreeing to the above conditions for transfer should be obtained).
+2. Additions or omissions to the connected load to be notified to the Licensee before effecting the electricity connections.
+Precaution to be Adopted by Consumers, Owners Electrical Contractors, Electrical Workmen, and other Suppliers of
+Energy
+No electrical installation work, including additions, alterations, repairs and adjustments to existing installations except
+such replacement of lamps, fans, fuses, switches and other component parts of the installations as in no way alter its
+capacity or character shall be carried out upon the premises or on behalf of any consumer or owner for the purpose of
+the supply of energy to such consumer or owner, except by an authorized person specified by the Authority.
+Form-2
+Application Form For Agriculture Service Connection
+(refer clause 27(2)
+Application For Supply of Power To Agricultural Pump Sets
+(Note: The application should be signed by the owner of the well, if there are partners, all must sign or consent to be
+given by co-owners)
+To
+The Designated Engineer,
+(Address of the Licensee's Distribution Centre)
+1. Name of owner of the well or partners
+2. Full residential address of the owner or partners
+3. S.F. No. in which the well is situated
+4. Revenue village name,Taluk and District
+5. Area and type of land to be irrigated by this well (Wet / Dry)
+6. Horse Power of motor pump sets proposed to be installed.
+7. Type of pump set (Centrifugal/ Submersible/ Air compressor)
+8. Consent to abide by R&C of Licensee with regard to duration of supply
+It is certified, I am the sole owner of the well / this application is signed by all partners
+Place:Date:
+Signature of the Applicant/Partners
+Note: The document such as FMB map showing the location of the well, patta, chitta, adangal etc., shall be enclosed
+with the application.
+Date of receipt in the Office of the Engineer,.............Certified that the open well / bore well and lands measuring ............
+acres and ........./cents in S.F.No Village .......... of ........ Taluk is Exclusively owned by Thiru....................s/o...................
+of..................Village
+Jointly owned by
+List of owners
+(1)
+...................s/o.........................
+(2)
+...................s/o.............:...........
+(3)
+...................s/o.........................
+Certified that Thiru.....................s/o.................is small /big farmer(s)
+Village Administrative Officer.
+Form 3
+Application For Hut Service
+(Refer clause 27(3)
+(Form of Requisition For Supply of Low Tension Energy 40 Watts To Huts In Panchayats)
+To
+The Engineer of the Licensee
+Sir,
+1. I hereby request you to supply electrical energy to my hut described below:
+Page 42/54
+----- PAGE 43 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+2. I agree to pay for energy, service connection meter rent and other charges including security deposit as demanded in
+accordance with the regulations prescribed by Tamil Nadu Electricity Regulatory Commission.
+3. I wish to be charged under Tariff ............... under schedule of the TNERC tariff order dated.
+4. I agree to receive supply only for 40 W lamp and utilize the energy for my hut described hereunder and I agree that
+the authorities may disconnect the service connection in case I utilise the energy above 40 W.
+5. In case I sell or otherwise dispose of the hut, I agree to give one Calendar month notice in writing and pay all the
+arrears to the Licensee.
+6. I will make arrangements to make the single point wiring for lighting in my hut in accordance with the Code provisions
+and the safety rules prescribed by the Authority . I request the Licensee to provide single point wiring for lighting in my
+hut and the necessary payment will be made by me.
+7. Self Declaration
+The service connection applied for the hut is owned by me and
+(a)
+it is built in my patta land (Land Tax Receipt is enclosed)
+(b)
+it is built in the private land and No Objection Certificate obtained from the landowner is enclosed.
+(c)
+it is built in the poromboke land and No Objection Certificate obtained from the Officer (not below the rank of Deputy
+Tahsildar) is enclosed.
+(d)
+[ It is built in the poromboke land and I furnish the following undertaking, -
+[Inserted by Commission's Notification No. TNERC/DC/8-3 dated 31/05/2006 (w.e.f.21.6.2006).]
+(1)
+I am aware that I am liable to be evicted and for supply disconnection at any time if the lands are required by the
+Government and / or any dispute arises at a later date and that electricity supply given in this regard will not confer any
+claim on ownership of the land.
+(2)
+I am aware that the above undertaking shall not confer permanent and full right to the ownership of the land. (Delete
+clause not applicable)]
+8. Description of the premises
+(a)
+Name of the applicant
+(b)
+Father's Name
+(c)
+Adi Dravidar / Other Castes
+(d)
+Survey No. / identification of hut
+(e)
+Area of hut
+(f)
+Whether the hut constructed with clay soil / thatched roof
+(g)
+Village and Taluk
+(h)
+Tenanted by (Name in block letters)
+(i)
+Applicant's correspondence address
+Signature of the Consumer/left thumb impression
+Form 4
+Application For H.T. Service Connections
+Page 43/54
+----- PAGE 44 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+(Including addl. Demand).
+Form of Application of New Supply or Additions To Connected Load and Have Maximum Demand Exceeding 63 KVA.
+(Refer clause 27(3)
+1. Name of Electricity supply Licensee and registered address:
+2. Name of consumer and registered address
+3. Address of consumer's premises at which supply is required
+4. Nature of service
+5. Voltage rating at which H.T. supply is required.
+6. Data on consumers load
+Notified connected load in H.P.
+Description
+As on date
+Subsequent additional sanction
+Estimated requirement now applied
+Total
+Brief details of industry to be served
+No. of shifts
+Probable date of load maturing
+Remark if any regarding essentiality of supply
+Signature of Consumer Name (in capital letter) Date: Office Seal.
+[ Note: The application shall be accompanied by the following documents: - [[Substituted by Commission's Notification
+No. TNERC/DC/8-5 dated 20-07-2006 (w.e.f. 16.8.2006) ivhich before substitution it was as under:
+'Note:
+(1)
+The application shall be accompanied by the following documents
+• Proof of oumership of the premises (or) Registered lease deed
+• Partnership deed in case the applicant is a partnership firm
+• Memorandum / Articles of Association in case of companies registered under Companies Act
+• Letter /Resolution authorizing the signatory
+• Site Plan ']]
+(1)
+(a)
+When the applicant is the owner of the premises:
+Certified copy of the sale deed for the premises executed in his favour (or)
+Property Tax receipt for the premises in the name of the applicant, (b) When the applicant is not the owner of the
+premises:
+Consent letter from the owner of the premises (or)
+Proof of legal occupation (including lease deed) along with the following:
+(a)
+Indemnity Bond in Form 6
+(b)
+Letter of acceptance to pay security deposit at twice the normal rate.
+(2)
+Partnership deed in case the applicant is a partnership firm or Memorandum / Articles of Association in case of
+companies registered under Companies Act.
+(3)
+Letter / Resolution authorizing the signatory
+(4)
+Site Plan ]
+7. Data to be furnished by Licensee
+Estimated increase in M.D. of theundertaking if
+Page 44/54
+----- PAGE 45 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+any, the application is recommended
+Capacity of existing services if any
+Nature of supply DC/AC voltage or low voltage
+etc.
+Brief list of materials required i.e. cable
+transformer switch gear etc.
+Approximate cost of giving service
+Any other remarks affecting the supply
+undertaking with particular ref. to plant site location of
+consumer installation
+Materials in stock
+Materials to be ordered
+1
+2
+3
+4
+5
+5
+8. Information regarding priority whether there is any prior H.T. applications in the connected area awaiting supply of
+power
+Note: For the purpose of priority, the area served by the sub-station feeder will be taken into account.
+Signature of Licensee's Engineer
+Form 5
+Owner Consent Letter For Getting New Supply.
+(Refer clause 27(4)
+To
+The Designated Engineer
+(Address of the Licensee)
+Owner's Consent Letter
+I.............................have...................being the legal owner...................of the premises No............................. hereby agree
+as follows-
+I consent to the installation by you at the above mentioned premises tenanted by Thiru /
+Thirumathy.................................of electric service cables, meters, wiring, fittings and other equipments for the supply of
+electricity (hereinafter called "The Installation") under the terms of an agreement between you and the tenant of the
+above said premises.
+In the event of the above said tenant vacating the aforesaid premises, I shall give you due notice fifteen days advance to
+enable you to arrange for the termination of your contract with the aforesaid tenant failing which I shall be responsible for
+any loss that may accrue on that account.
+Signed by the said...................................the presence of ................
+Witness Name............................
+Address.................................
+Form 6
+(To be obtained in a stamped paper).
+(Refer clause 27(4)
+Indemnity Bond from the occupier when there is no consent letter from owner.
+Indemnity Bond to be furnished by an intending consumer who is not the owner of the premises and applies without the
+consent of the owner.
+Deed of Indemnity
+This Deed of Indemnity Executed on This, The ................Day of .............. Two Thousand by Thiru/Tmt ..........................
+S/o. D/o W/o..................................... residing at ............ having office / workshop at .................. hereinafter called the
+indemnifier (which terms shall mean and include executors, administrators, heirs, successors and assigns) to and in
+Page 45/54
+----- PAGE 46 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+favour of the (name of Licensee and address), a body corporate, hereinafter called the Licensee (which terms shall
+mean and include its successors in office and assigns).
+Whereas the consumer has taken on lease the premises in Door No...........for the purpose of.........................from
+Thiru/Tmty......................S/o D/oW/o...................residing at.................who is the owner of the above said premises.
+And Whereas the consumer has approached the said owner of the premises to give his /her consent in writing to avail of
+a service connection in his/her name for the purpose of his / her business.
+And Whereas the said owner is not available/has refused to give his/her consent in writing for the purpose.
+And Whereas the indemnifier has requested the Licensee to give a service connection in his/her name subject to
+execution of an indemnity bond by him/her indemnifying the Licensee against any damage or loss caused to the
+Licensee in respect of the service connection in his/her name.
+And Whereas in consideration of the acceptance of the above for a service connection in his/her name, the indemnifier
+hereby agrees to indemnify the Licensee against all proceedings, claims, demands, costs, damages, expenses which
+the Licensee may incur by reason of a fresh service connection given to the indemnifier without the consent of the owner
+of the premises. The indemnifier further undertakes to make good any sum that may be found to be and become
+payable to the Licensee with regard to all liabilities and claims personally as well as by means of both movable and
+immovable properties. The indemnifier agrees 'that the enhanced Security Deposit paid by him shall be adjusted against
+the arrears of current consumption charges but also against any claim that may arise in the event of termination of the
+agreement prior to the expiry of the contracted period. The indemnifier further undertakes that the Licensee shall be at
+liberty to disconnect the service connection given to him/her and also for loading the dues remaining unpaid by him/her
+to other service connection (s) that may stand in his/her name.
+Now the Condition of the above written bond is such that if the indemnifier shall duly and faithfully observe and perform
+the above said conditions, then the above written bond shall be void, otherwise the same shall remain in full force.
+In Witness Where of Thiru/ Tmt....................................the indemnifier has signed this deed on the day month and year
+herein before first mentioned.
+Signed and Delivered By
+In the presence of
+Witness (Name and Address)-
+1. ......................................................
+2. ......................................................
+Form 7
+L.T. Agreement For Industrial / Agricultural Services
+(Refer clause 33(1)
+(Licensee Name)
+L.T. Agreement Form
+(i)
+Scheme No.............
+Name of Extension
+(ii)
+Sanction No..........
+Name of consumer Security Deposit
+Permanent Receipt No.................dated...........
+Stamp fee of Rs............Collected in Receipt
+No...........Date...........
+S.C.No,...............
+Distribution...................
+Date of Service Connection (Date of Supply)..............
+Date of commencement of agreement........................
+Form of Agreement to Be Taken From Consumers for Supply of Low Tension Electrical Energy and Miscellaneous
+Charges Connected Therewith
+Agreement made this.......................day...................of ................Two thousand and...................between the (Name of
+the Licensee) a body corporate for distribution of electricity in the area (Hereinafter referred to as the Licensee which
+Page 46/54
+----- PAGE 47 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+expression shall include its representatives) of the one part, and...............(Hereinafter referred to as "the Consumer"
+which expression shall include his/her heirs, executors, administrators and Legal Representatives and permitted
+assigns) of the other part, whereby it is agreed as follows -
+1. Conditions of Supply. - The Licensee shall furnish to the Consumer and the Consumer shall accept at the premises
+mentioned in the Schedule hereto on and from the date on which the said premises shall be connected with the
+Licensee's distributing main a constant supply of electrical energy for the purpose and up to the maximum specified and
+under the conditions laid down in the Distribution and Supply Code. But the Licensee or its employees, servants or
+agents will not be responsible for any interruption or diminution of the supply due to lockouts, strikes of the employees of
+the Licensee, breakdown of machinery or plant, flood or other force majeure or any other cause beyond the control of
+the Licensee.
+The conditions if any imposed by the licensee based on the directions of the Commission shall bind the consumer.
+The Consumers shall commence to take supply within a month from the date of receipt of intimation from the officers of
+the Licensee that supply is available unless the consumer, in the opinion of the Engineer, is unable to do so for causes
+reasonably beyond control. Where the supply is not availed of within one month from the date of intimation as
+aforementioned, the sanction for the load shall lapse and this agreement also shall stand cancelled.
+[***] [[Words 'The energy shall be utilized within the premises mentioned in the schedule hereto or outside the premises
+for the bonafide use of the Consumer. In case of difference of opinion as to whether any utilisation of energy outside the
+premises is for the bonafide use of the consumer, the matter shall be referred to the Engineer,
+whose decision shall be final.' omitted by Notification No. TNERC/DC/8-19, dated 01-07-2014.]]
+The consumer shall permit the Licensee free of cost to erect the posts, transmission line, structures and other apparatus
+necessary for the supply of electrical energy under this agreement over the land belonging to the Consumer and the
+Consumer shall have no claim whatsoever on account of any damage to his/her, property by reason of such erection of,
+or any other work on the posts transmission lines, structures and other apparatus.
+The Consumer agrees to take supply under any conditions of restrictions of load and time that may be fixed by the
+Licensee from time to time and to pay the minimum under this agreement in full notwithstanding such restrictions.
+Supply is liable to be restricted, staggered or cut off altogether, as the case may be, if the power position or any other
+emergency warrants such a course of action.
+Tire Licensee reserves the right to periodical shut down as and when required for purposes of routine maintenance after
+giving reasonable notice to the Consumer.
+2. Payment For Service Lines Etc., - The consumer shall pay to the Licensee on demand the cost of any service lines in
+respect of which requisition has been made.
+3. Meters. - The supply shall be measured and registered by a meter or meters in or upon the said premises to be
+provided, fixed and kept in proper order by the Licensee and such meter or meters shall remain the property of the
+Licensee. The consumer shall pay to the Licensee for each meter on hire the monthly rent as specified by the
+Commission from time to time. [In the event of any meter ceasing to register or being found defective, the consumption
+during the period of such cessation or the existence of such defect shall be based on the average consumption of the
+preceding or succeeding four months, as the case may be as stipulated in the supply code.] [[Substituted by
+Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.27.2.2008) before substitution it reads as under:
+'In the event of any meter ceasing to register or being found defective, the readings during the pei iod of such cessation
+or the power consumed during the period the meter was defective shall be based on the average consumption of the
+previous four months.']] No meter rent shall be collected from the consumer who opts for providing his/her own meter.
+4. Reading of Meters. - Readings of the meter or meters will be taken by the employees of the Licensee once in each
+month or at such other intervals or times, as it shall think expedient and such meter readers shall have access to the
+Consumer's premises at all reasonable times, for the purpose of taking such readings.
+[The reading of each meter shall be entered by such reader in the Meter Card supplied to the consumer, which shall be
+open to the inspection of the Consumer] [[Substituted as per Commission's Notification No. TNERC/DC/8-8 dated
+8.2.2008 (w.e.f.27.2.2008) before substitution it was as under:
+'The reading of each meter shall be entered by such reader in the consumer meter card to be attached to such meter,
+which shall be open to the inspection of the Consumer.']]. Payment for energy supplied shall be made by the consumer
+according to the reading referred to above of each meter and the charges recorded in the card by the Licensee.
+The Licensee shall be entitled to discontinue supply if the consumer fails to give the employees of the Licensee
+Page 47/54
+----- PAGE 48 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+reasonable facilities to enter the premises for the inspection, testing or removal of its supply lines meters, fitting works
+and apparatus and the Licensee has given in writing 24 hours notice of its intention so to discontinue.
+5. Faults In Meters. - If the consumer shall at any time consider that any such meter is not in proper order and does not
+correctly register the quantity of the supply, the Engineer will on receipt of a representation in writing in that behalf from
+the consumer take necessary steps to have the same tested. If upon such test, it be found that the meter registers the
+supply within the limits of error as per applicable rules etc., the Consumer shall pay to the Licensee on demand all costs
+of and incidental to such test. If, however, upon such test it shall be found that the meter registers the supply in-excess
+of the limits of error, all costs of and incidental to such test shall be borne by the Licensee. If, however, the mean error
+be found to be more than that specified above, the Engineer will deduct from or add to the account for the preceding
+period of four months an amount equivalent to the error.
+[6. Tariff and Payment. - For all Electrical energy so supplied, the Consumer shall pay to the Licensee at the
+tariff/minimum rates that may be decided by the Commission from time to time] [[Substituted by Commission's
+Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008) before substitution stood as under:
+6.
+Tar1ff And Payment:
+'For all Electrical energy so supplied, the Consumer shall pay to the Licensee at the rates given below and in
+accordance with the terms contained, in this agreement, provided that the minimum rates at least specified herein shall
+be paid irrespective of whether energy to that extent has been consumed or not.'
+NOTE: The above tariff and the minimum are subject to any revision and or levy of surcharge that may be decided by
+the Commission from time to time.]]
+7. Consequences of Non-Payment. - If the amount of such bill remains unpaid on the expiry of the due date the
+Licensee may give the consumers [Fifteen days Notice]
+[Substituted for the expression 'Fifteen Notice' by Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008).]
+of his/her intention to discontinue the supply of electrical energy and at the expiry of such period if payment has not
+been received, may forthwith disconnect the supply and keep the same disconnected until payment of all moneys due
+under this agreement and the charges for the work of disconnection and reconnection has been made.
+If the consumer fails to pay the amount of such bill due under this agreement within the notice period for payment as per
+the supply code, he shall in addition and without prejudice to the other rights and remedies of the Licensee, pay a
+surcharge of one and half percent per month.
+Such disconnection of the supply of electrical energy shall not relieve the Consumer of his/her liability to pay the
+minimum charge and the guaranteed revenue provided for herein, nor shall it affect any right, claim demand or power
+which may have accrued to the Licensee hereunder.
+8. Security Deposit. - [***]
+[The consumer The word 'shall' omitted by Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008).]
+on being there unto required in writing by the [Licensee shall]
+[Substituted for the expression 'Licensee' by Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008)]
+deposit with the designated Officer of the Licensee the sum of Rs......(Rupees as security for the purpose next herein
+after mentioned and shall on a similar requisition from the Designated Officer from time to time renew or replenish such
+security in the event of the same becoming exhausted or insufficient. Interest shall be paid on deposits at the [rates]
+[Substituted for the expression 'rate of' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008).]
+notified by the Commission from time to time. Full calendar months shall be taken for the purpose of calculating interest,
+which shall be calculated to the nearest rupee. The interest accruing to the credit, of the Consumer shall be adjusted as
+provided for in the supply code. The designated Officer, shall be at liberty at any time and from time to time to
+appropriate and [adjust]
+[Substituted for the expression 'apply' as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f
+27.2.2008)]
+the Security so deposited as aforesaid in or towards payment or satisfaction of all or any money which shall become due
+Page 48/54
+----- PAGE 49 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+or owing by the Consumer to the Licensee in respect of the supply of energy or otherwise under this agreement but the
+provisions contained in this clause shall not prejudice any other remedy to which the Licensee may be entitled for the
+recovery of such money.
+9. Termination of Agreement. - The agreement can be terminated by the consumer at any time by giving one-month
+notice in writing to the Licensee expressing his intension to do so. In such case the consumer shall pay to the licensee,
+from the date commencement of supply till the agreement is terminated, [***]
+[Words 'security deposit' omitted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008)]
+, minimum monthly charges, fixed charges, if any and other charges. The Licensee can terminate agreement at any time
+by giving one month notice if the consumer has violated the terms of the agreement or the terms and conditions of the
+Distribution Code or provision of any law relating to the agreement including the applicable Acts and Rules and other
+orders [issued by the Commission from time to time]
+[Inserted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+. The Licensee shall inform the consumers the grounds for such termination:
+Provided always the consumer may at any time with the previous consent of the Engineer transfer his rights under this
+agreement to any other person approved by the Engineer and upon acceptance by such transferee of a valid
+assignment of these presents, this agreement shall become binding on the transferee and licensee as from date of
+acceptance and take effect in all respect as if the transferee had originally been [party]
+[Substituted for the expression 'partly' as per Commission's Notification No. TNERC/D/8-8 dated 8.2.2008 (w.e.f.
+27.2.2008).]
+hereto, in place of the [consumer]
+[Substituted for the expression 'customer' by Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f
+27.2.2008).]
+, who shall thenceforth be discharged from any further liabilities under or in respect hereof, without prejudice, however,
+to any claim by the licensee against the consumer in respect of any prior breach of this agreement by the consumer.
+10. Sale or Transfer of Premises. - If the consumer shall, at any time during the continuance of this agreement intend to
+sell or otherwise dispose of the properties to vacate the premises to which electric supply is given or contracted for, he
+shall give [prior]
+[The word 'previous' omitted by Commission's Notification No.TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+intimation to Engineer of his intention to do so and clear off all the dues to the Licensee up to that date. Upon receipt of
+such intimation and with effect from the date specified in such intimation the agreement in so far as the consumer is
+concerned shall cease to operate but without prejudice to any claim or right which may have accrued to the parties there
+under.
+If the consumer fails to give intimation as mentioned above he shall continue to be liable to pay the charges for
+consumption and other charges as under this agreement even beyond the date on which the premises is sold / vacated.
+11. Applicability of Acts and Regulations. - This agreement shall be read and construed as subject in all respects to the
+provision of the applicable Act and Regulations as noted in Distribution Code and Supply Code and of any modification
+or re-enactment thereof for the time being in force and the regulations for the time being in force there under so far as
+the same respectively may be applicable and subject to the conditions of supply approved from time to time [by the
+Commission]
+[Inserted by Commission's Notification No.TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+.
+12. Savings As To Clerical Error - (a) In the event of any clerical errors or mistakes in the amount levied, demanded or
+charged by the Licensee then in the case of undercharging, the Licensee shall have a right to demand an additional
+amount and in the case of over charging the consumer shall have the right to get refund of the excess amount provided
+at that time such claims were not barred by limitation under the Act.
+[***]
+[The word 'provision' omitted by Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008)]
+(b)
+The parties hereby further agree that the amount claimed in the bill shall be payable within the time allowed, irrespective
+of any decision to be taken regarding any disputes about its correctness or otherwise of the amount levied demanded
+Page 49/54
+----- PAGE 50 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+charged by the Licensee. The Licensee shall have a right to proceed in accordance with the Act, on the basis of the
+amount claimed in the bills, till it is proved or established that the amount claimed was in excess of what was actually
+due. The consumer shall not on the plea of incorrectness of the bills withhold any portion of the bills.
+13. General. - The other conditions of supply in this agreement are also subject to any revision that may be decided by
+the Licensee as per the directions of the Commission from time to time.
+Description of the Premises at which Supply is to be given
+[l. (a) District
+[Substituted by Commission's Notification No. TNERC/D/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+(b)
+Taluk.
+(c)
+Town/Village
+(d)
+Door No./Survey No./ Street
+(e)
+Street name / area
+(2)
+Supply Details
+(a)
+Purpose of Supply
+(b)
+Single or Three phase.
+(c)
+Voltage
+(d)
+Tariff
+(3)
+Connected Load details KVA / KW/HP Maximum connected load required by the consumer. ]
+In witness thereof..........................................the Engineer acting for and on behalf of the Distribution Licensee
+and.................... (consumer) have hereunto set their hands and seals the day, month and year first above written.
+[Engineer]
+[The word 'Engineer' shown in the left hand corner at the bottom end of the agreement shall be shown in the right hand
+corner as per Commission's Notification No. TNERC/DC/8-8 dated8.2.2008 (w.e.f 27.2.2008).]
+Witness, [with address]
+[Inserted by Commission's Notification No. TNERC/D/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+1.
+2.
+[***]
+[The words 'Postal Address' omitted as per Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008(w.e.f.
+27.2.2008)]
+Signature of the Consumer
+Form 8
+H.T. Agreement Form
+(Refer clause 33(1)
+This Agreement made this .................................... day of .............................. between. (Name of the Licensee) a body
+corporate for distribution of electricity in the area, called Licensee (which expression shall include its legal
+representatives and assigns) of the one part
+And ...................................................... hereinafter called the 'consumer' (which expression shall include its successors,
+legal representatives and assigns) of the other part.
+Whereas the consumer has requested the Licensee to supply electrical energy for a maximum demand of ........... KVA
+at H.T. / E.H.T. for the purpose of light and power and the Licensee has agreed to afford such supply to the consumer in
+Page 50/54
+----- PAGE 51 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+Ref. No...........on the terms and conditions of the Distribution Code, Supply Code and Grid Code wherever applicable
+and those hereinafter contained and whereas the consumer availed the supply on......
+Whereas an additional load of................................
+KVA was sanctioned to the consumer in Ref. No. .......................
+totaling in all to a Maximum demand of...................KVA.
+Whereas the consumer has on..........................given an under-taking to execute an agreement with the Licensee. Now it
+is hereby declared and agreed as follows:
+1. Load Maximum Demand. - Subject to the provisions hereinafter contained, the Licensee shall supply and the
+consumer shall take from the Licensee electrical energy for a maximum demand not exceeding......................KVA which
+shall be its contracted demand for its exclusive use for the purpose above mentioned at the premises of its Factory/
+Mills, at........................
+The connected load shall be..............KVA / KW / HP............The consumer shall not effect any change in the maximum
+demand or connected load.
+2. Date of coming into force of the agreement - The Consumer shall begin to take electrical energy from the Licensee
+subject to the conditions of this agreement within three months from the date on which intimation is sent in writing to the
+consumer by the Licensee that supply of electrical energy is available. The provisions of this agreement shall be
+deemed to come into force from the date of commencement of supply of energy or the date of issue of first three
+month's notice of availability of supply whichever is earlier. [If the consumer fails to avail the supply within 3 months, a
+further three months extension will be granted by the Licensee, after collecting the monthly minimum for the extended
+period in advance.
+[Inserted by Commission's Notification No.TNERC/DC/8-8 dated 8.2.2008 (w.e.f.27.2.2008).]
+If the intending consumer fails to avail the supply, within the notice period or within the extended period granted thereof,
+the application will be treated as cancelled and the agreement will be terminated forfeiting all the amount paid by the
+consumer except meter security deposit as per the provisions of the Distribution Code]
+3. Resale of Energy. - The consumer shall not sell the electrical energy obtained under this agreement without the
+sanction in writing of the Licensee.
+4. To comply with requirements of Act and Terms and Conditions of Distribution Code and Supply Code. - The
+consumer hereby undertakes to comply with all the requirements of the applicable Acts, Regulations etc, and Grid code,
+Distribution code and Supply Code and of any amendments, modifications or reenactment thereof or of any other
+enactment to be passed in relation to supply made under this agreement from time to time and the rules, regulations or
+orders etc. made thereunder from time to time, provisions of the Tariffs, Scale of Miscellaneous and other charges and
+the terms and conditions of supply prescribed from time to time, and the consumer hereby agrees not to dispute their
+applicability to this agreement.
+5. Design and Maintenance of equipment of consumer. - All transformers switchgear and other electrical equipment
+belonging to the consumer and directly connected to the feeders or lines of the Licensee shall be of suitable Design and
+be maintained to the reasonable satisfaction of the Engineer/ .......... The ratings of the fuses and setting of the relays on
+the consumer's control gear as well as the rupturing capacities of the consumer's circuit breakers, if any, shall be subject
+to the approval of the said Engineer.
+6. Obligation of consumer to pay all charges levied by Licensee. - From the date this agreement comes into force the
+consumer shall be bound by and shall pay the Licensee, maximum demand charges, energy charges, surcharges,
+meter rents and other charges, if any, in accordance with the tariffs applicable and the terms and conditions of supply
+notified from time to time for the appropriate class of consumers to [which such consumer belongs]
+[Substituted for 'which it belongs' by Commission's Notification No. TNERC/B dated 8.2.2008 (w.e.f.27.2.2008).]
+.
+7. Licensee's right to vary terms of agreement.- The consumer agrees that the Licensee shall have the right to vary, from
+time to time, tariffs, general and miscellaneous charges and the terms and conditions of supply under the directions /
+regulations or by special or general proceedings of Tamil Nadu Electricity Regulatory Commission. The consumer, in
+particular, agrees that the Licensee shall have the right to enhance the rates etc. chargeable for supply of electricity
+according to exigencies again with the approval of Tamil Nadu Electricity Regulatory Commission. It is also open to
+Licensee to restrict or impose power cuts totally or partially at any time as it deems fit.
+8. Minimum Monthly Charges. - The consumer agrees to pay minimum charges every month as prescribed in the tariff
+Page 51/54
+----- PAGE 52 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+and supply code even if no electricity is consumed for any reasons whatsoever, and also if the charges for electricity
+actually consumed are less than the minimum charges. The minimum shall be payable even if electricity is not
+consumed because of disconnection of supply by the Licensee due to non-payment of electricity charges, pilferage or
+other mal-practices or for any other valid reason.
+9. Surcharge. - The tariffs charged by the Licensee are subject to any surcharge that may be levied by the Licensee
+from time to time as per approval of the Commission.
+10. Period of Agreement. - This agreement shall remain in force till it is terminated by either party as provided in
+Distribution code and Supply code
+In Witness Where of Thiru .................... Engineer,............. acting for and on behalf of the Licensee and
+Thiru.....................for and on behalf of the consumer have hereunto set their signatures, and the common seal of
+M/s................has hereunto been affixed.
+[Signed in the presence of Engineer
+1.
+2.
+The common seal of
+M/s...................
+Partner Managing Director
+Witnesses with Address:
+1.
+2.
+]
+Abbreviations
+1.
+AC
+- Alternating Current
+2.
+CERC
+- Central Electricity Regulatory Commission
+3.
+CMDA
+- Chennai Metropolitan Development Authority
+4.
+DC
+- Direct Current
+5.
+FMB
+- Field Measurement Book
+6.
+HP
+- Horse Power
+7.
+HV
+- High Voltage
+8.
+HZ
+- Hertz
+9
+KVA
+- Kilo Volts Ampere
+10.
+KVP
+Page 52/54
+----- PAGE 53 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+- Kilo Volt Peak
+11.
+KW
+- Kilo Watt
+12.
+LV
+- Low Voltage
+13.
+MCOV
+- Maximum Continuous Operating Voltage
+14.
+MV
+- Medium Voltage
+15.
+MVA
+- Mega Volt Ampere
+16.
+MVAR
+- Mega Volt Ampere Reactive
+17.
+MW
+- Mega Watt
+18.
+OCB
+- Oil Circuit Breaker
+19.
+OMCB
+- Oil Minimum Circuit Breaker
+20.
+OH
+- Overhead
+21.
+R & C
+- Restriction and Control
+22.
+RCC
+- Reinforced Cement Concrete
+23.
+R&D
+- Research and Development
+24.
+SC
+- Service Connection
+25.
+SLDC
+- State Load Dispatch Centre
+26.
+SS
+- Sub-station
+27.
+UG
+Page 53/54
+----- PAGE 54 -----
+Tamil Nadu Electricity Regulatory Commission Tamil Nadu Electricity Distribution Code
+- Underground
+28.
+UF
+- Under Frequency
+29
+UPS
+- Uninterrupted Power Supply
+30.
+VAR
+- Volt Ampere Reactive
+[Substituted by Commission's Notification No. TNERC/DC/8-8 dated 8.2.2008 (w.e.f. 27.2.2008).]
+[[Substituted as per Commission's Notification No. TNERC/DC/8-3 dated, 31/05/2006 (w.e.f21.6.2006). before omission
+it reads as under:
+'Supply shall be given in poromboke land on production of necessary documents as per the directive from the
+Government from time to time.']]
+Related AI tags, queries and research notes
+Translation
+Page 54/54

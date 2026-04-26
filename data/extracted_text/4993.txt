@@ -1,0 +1,374 @@
+
+----- PAGE 1 -----
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Re...
+Bihar Electricity Commission (Standards of Performance of Intra
+Transmission Licensees) Regulations, 2019
+Source: https://indiankanoon.org/doc/179441751/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Bihar - Act
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Regulations, 2019
+BIHAR
+India
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Regulations, 2019
+Rule
+BIHAR-ELECTRICITY-COMMISSION-STANDARDS-OF-PERFORMANCE-OF-INTRA-TRANSMISSION-LICENSEES-R
+EGULATIONS-2019 of 2019
+Published on 10 October 2019
+Commenced on 10 October 2019
+[This is the version of this document from 10 October 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Regulations, 2019
+Published vide Notification No. BERC-SMP-18/2019-04, dated 10.10.2019
+Last Updated 10th February, 2020
+No. BERC-SMP-18/2019-04. - In exercise of powers conferred under Section 181 (za) read with section 57 (1), 57 (2)
+and 86 (1) (i) of the Electricity Act, 2003 (36 of 2003) and all other powers enabling it in this behalf, the Bihar Electricity
+Regulatory Commission hereby makes the Bihar State Electricity Regulatory Commission (Standards of Performance of
+Intra Licensees) Regulations, 2019:
+Page 1/7
+----- PAGE 2 -----
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Re...
+Chapter 1
+Preliminary
+1.
+Short title, Extent and Commencement.
+(1)
+These Regulations may be called the Bihar Electricity Commission (Standards of Performance of Intra Transmission
+Licensees) Regulations, 2019.
+(2)
+These regulations extend to the whole of the state of Bihar.
+(3)
+These regulations shall come into force from the date of their publication in
+2.
+Scope.
+- These regulations shall be applicable to all the Intra Transmission licensees.
+3.
+Definitions.
+(1)
+In these Regulations, unless the context otherwise requires:-
+(a)
+"Act" means the Electricity Act, 2003 (36 of 2003) a from time to time.
+(b)
+"Affected person" means a user of the intra-State transmission system who is affected due to non-adherence to the
+Standards of Performance specified in these regulations by the intra-State transmission licensee.
+(c)
+"Commission" means the Bihar Electricity Regulatory Commission referred to in sub- section (1) of section 82 of the Act.
+(d)
+"Intra-State Transmission System (InSTS)" shall have the same meaning as defined in Section 2 (37) of the Act.
+(e)
+"Intra-State Transmission Licensee" means a licensee including a deemed intra- State transmission licensee authorized
+to establish, operate and maintain transmission lines of the intra- State Transmission System.
+(f)
+"User" means a user of any segment/ element of the intra-State Transmission System and shall include all generators,
+State Transmission Utilities, Discoms or load serving entities directly connected to the intra-State Transmission System
+including Bulk Consumers and any other entity/ person.
+(g)
+"Year" means a financial year.
+(2)
+Words and expressions used in these regulations and not defined herein but defined in the Act or any of the regulations
+made by the Commission, shall have the meanings as assigned to them respectively in the Act, and regulations made
+by the Commission from time to time.
+Chapter 2
+Objective, Norms and Methodology
+4.
+Objective.
+- The objectives of these regulations are to ensure compliance of the Standards of Performance by the intra-State
+transmission licensees and to provide for an efficient, reliable, coordinated and economical system of electricity
+transmission, non-adherence of which would entitle the affected parties to compensation.
+5.
+Standards of Performance.
+(1)
+All intra-State transmission licensees shall comply with the Standards of Performance specified in these regulations:
+Page 2/7
+----- PAGE 3 -----
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Re...
+(a)
+Transmission System Availability
+(i)
+The transmission system availability shall be calculated element-wise on monthly basis, in the manner as provided in the
+Bihar Electricity Regulatory Commission (Multi Year Transmission Tariff and SLDC Charges) Regulations, 2018, as
+amended from time to time and any subsequent enactment thereof.
+(ii)
+The deemed availability of the transmission elements under outage shall be as Specified in the Bihar Electricity
+Regulatory Commission (Multi Year Transmission Tariff and SLDC Charges) Regulations, 2018, as amended from time
+to time and any subsequent enactment thereof.
+(iii)
+The element-wise monthly availability of the transmission system shall not be below the availability as given under:
+Sl. No.
+Transmission Elements
+Availability (% of time)
+(i)
+AC Transmission line
+90
+(ii)
+ICTs
+90
+(iii)
+Reactors
+90
+(iv)
+Static VAR Compensator
+90
+(v)
+Series Compensator
+90
+(vi)
+HVDC (Back-to-back Stations and bi-pole links)
+85
+Notes. - (1) Tower collapse shall not be counted for the purpose of calculation of monthly availability of AC transmission
+line and HVDC bi-pole line.
+(2)
+Failure of Inter-Connecting Transformer (ICT) and Reactor shall not be counted for the purpose of calculation of
+availability of Inter-Connecting Transformer and Reactor.
+(iv)
+The element-wise monthly availability shall be certified by the SLDC or Member Secretary of the State Power
+Committee.
+(b)
+Restoration time. - Restoration time for different types of failures of transmission line and Inter-Connecting Transformer
+(ICT) and reactors shall not exceed the following time limit:
+Sl. No.
+Types of failures
+Restoration Time (Days)
+1.
+Insulator failure
+Plain Terrain
+1
+Page 3/7
+----- PAGE 4 -----
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Re...
+Hilly Terrain
+2
+2.
+Tower after collapse by Emergency Restoration
+System (ERS)
+12
+3.
+Tower after collapse
+Plain Terrain
+30
+River Bed
+50
+Hilly Terrain
+50
+4.
+Snapping of phase conductor
+Plain Terrain
+2
+Hilly Terrain
+3
+5.
+Failure of earth wire
+Plain Terrain
+2
+Hilly Terrain
+3
+6.
+Failure of Inter Connecting Transformers (ICTs)
+Restoration of the failed ICT
+120
+7.
+Failure of Reactors
+Restoration of the failed reactor
+120
+6.
+Any failure by the intra-State transmission licensee to maintain the standards of performance specified in these
+regulations shall render the said licensee liable to payment of compensation to an affected person claiming such
+compensation under the provisions of the Act.
+Provided that the payment of compensation by the Intra-State transmission licensee shall be without prejudice to any
+penalty, which may be imposed or any prosecution which may be initiated by the Commission as provided in the Act.
+7.
+Methodology for compensation.
+- An affected person who has suffered a loss on account of non-adherence to the Standard of Performance by any
+intra-State transmission licensee may make an appropriate application to the Commission for award of compensation:
+In case of non compliance of the order/ direction passed by the commission, proceeding u/s 142 of Electricity Act, 2003
+will be initiated.
+Provided that the Commission shall determine the compensation after giving reasonable opportunity to the transmission
+licensees of being heard:
+Provided further that the compensation to be paid by the intra-State transmission licensee to the affected party shall be
+limited to the transmission charges as determine by the commission in the Tariff order from time to time.
+Provided further that the intra-State transmission licensee shall not be entitled to recover the amount of compensation
+Page 4/7
+----- PAGE 5 -----
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Re...
+awarded through tariff from the users of the transmission of electricity:
+Provided also that no claim for compensation shall be entertained if the application for the claim is filed after expiry of a
+period of ninety days from the end of the month when the availability of the transmission system falls short of the
+availability specified in Clause 5 (a) and ninety days from the date of restoration of transmission element, as the case
+may be, for the standards prescribed in Clause (b) of Regulation 5 of these regulations.
+Chapter 3
+Information to be Furnished by the Intra-State Transmission licensees
+8.
+Information to be furnished by the intra-State Transmission Licensees.
+(1)
+All intra- State transmission licensees, in accordance with section 59 of the Act, shall furnish to the Commission, (a) the
+level of performance achieved, and (b) the number of cases in which compensation was paid, and (c) the aggregate
+amount of the compensation, in the formats in the Schedule of these regulations.
+(2)
+Such information in the requisite formats shall be submitted to the Commission twice during the financial year, on six
+monthly basis by 31st October and 30th April for the periods April to September and October to March respectively.
+(3)
+All intra-State transmission licensees shall display on their websites the actual performance against the specified
+Standards of Performance on a monthly basis and the aggregate amount of compensation paid, if any, in the formats
+enclosed in the Schedule.
+Chapter 4
+Miscellaneous
+9.
+Power to Relax.
+- The Commission may, if it considers necessary or expedient to do so and for the reasons to be recorded in writing,
+relax adherence to any specific Standard of Performance during Force Majeure conditions such as war, mutiny, civil
+commotion, riot, flood, cyclone, Storm, lightning, earthquake, grid failure, and strike/curfew, lockout, fire affecting the
+intra-State Transmission Licensee's installations and operation activities, or under such other specific circumstances:
+Provided that the Intra-State Transmission Licensee shall not be discharged from its liability on account of its failure to
+maintain the Standards of Performance under these regulations if such failure can be attributed to the negligence or
+deficiency or lack of preventive maintenance of the intra-state transmission system or failure to take reasonable
+precaution which has resulted in loss to the affected person.
+10.
+Power to remove difficulties.
+- If any difficulty arises in giving effect to any of the provisions of these Regulations, the Commission may, by general or
+specific order, make such provisions not inconsistent with the provisions of the Act, as may appear to be necessary for
+removing the difficulty.
+11.
+Power to Amend.
+- The commission may, at any time after consultation with the licensees and other persons likely to be affected add,
+vary, alter, modify or amend any provisions of these regulations.
+Schedule
+I. AC Transmission Line/ ICT/ Static VAr Compensator/ Series Compensator/ HVDC (Back-to-Back Stations and Bi-Pole
+Links)/ Line Rectors/ Bus Reactors Outage Details for the month of ________
+Element Name
+Outage
+Restoration
+Duration of Outage Attributable to
+Reason of Outage
+% Availability
+Date Time
+Page 5/7
+----- PAGE 6 -----
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Re...
+Date Time
+Intra-State Transmission Licensee
+Others
+System constraint/ Natural calamity/ Militancy
+Deemed Available
+Reason of Outage
+Hrs:Min
+Hrs:Min
+Hrs:Min
+Hrs:Min
+II. Elements where restoration time has exceeded the standards specified in Regulation 5 (b).
+Element Name
+Restoration time as specified in Regulation 5 (b)
+(in days)
+Actual restoration time (in days)
+III. Details of compensation paid by the intra-State transmission licensee
+Element Name
+Violation of Regulation 5 (a)
+Violation of Regulation 5 (b)
+Compensation paid (in Rs.)
+% Availability prescribed
+Actual % Availability
+Restoration time prescribed (in days)
+Actual restoration time (in days)
+Total
+IV. Data to be furnished by the intra-State Transmission Licensees to SLDC
+(1)
+The Dependability Index defined as D=Nc/ (Nc+Nf)
+Where Nc is the number of correct operations during the given time interval and Nf is the number of failures to operate
+at internal power system faults
+(2)
+The Security Index defined as S= Nc/(Nc+Nu)
+where Nu is the number of unwanted operations.
+(3)
+The Reliability Index defined R= Nc/(Nc+Ni)
+where Ni is the number of incorrect operations and is the sum of NF and Nu.
+(4)
+From above 1/S+1/D= 1/R+1
+(5)
+The number of trippings of each transmission element. Five or more trippings of a transmission element in a month to be
+put on the website by the intra-State Transmission Licensees and reported to the Commission by SLDC
+Note. - 1. The data for these indices are presently prescribed for collection by the System Operator.
+2. These indices shall be computed by the SLDC and furnished to the Commission on monthly basis.
+V. Data to be compiled by the intra-State Transmission Licensees
+The restoration times for different types of failures of a transmission line and failure of Inter-Connecting Transformer
+(ICT) and reactor in the following format:
+Sl. No.
+Types of failures
+Restoration Time (Days)
+A.
+Elements of the Transmission line for Single
+Page 6/7
+----- PAGE 7 -----
+Bihar Electricity Commission (Standards of Performance of Intra Transmission Licensees) Re...
+Circuit (S/C), Double Circuit (D/C) and Multi-Circuit (M/C)
+towers for each KV class separately
+1.
+Insulator failure
+Terrain type
+Plain
+River bed
+Hilly
+(i) Insulator failure in single phase
+(ii) Insulator failure in two phases
+(iii) Insulator failure in three phases
+2.
+Tower after collapse by Emergency Restoration
+System (ERS) for S/C, D/C and M/C separately
+3.
+Tower after collapse without Emergency
+Restoration System (ERS) for S/C, D/C and M/C separately
+4.
+Tower damage (not collapse)
+One arm damage
+Two arms damage
+5.
+Snapping of phase conductor
+Conductor snapping in single phase
+Conductor snapping in two phases
+Conductor snapping in three phases
+6.
+Failure of earth wire
+7.
+Insulator failure with conductor snapping
+8.
+Any other combination of failures
+B.
+Elements of the sub-station for each kV class
+separately
+1.
+Failure of Inter Connecting Transformers
+(ICTs)
+Restoration of the failed ICT
+Other major failures in ICTs
+Single phase unit
+Three phase unit
+(i) Replacement of faulty bushings
+(ii) Replacement of failed/ blasted bushings
+(iii) Replacement of faulty tap changers
+2.
+Failure of Reactors
+Restoration of the failed reactor
+Related AI tags, queries and research notes
+Translation
+Page 7/7

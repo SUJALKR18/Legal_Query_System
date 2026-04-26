@@ -1,0 +1,3050 @@
+
+----- PAGE 1 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+The Companies (Share Capital and Debentures) Rules, 2014
+Source: https://indiankanoon.org/doc/181326415/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Companies (Share Capital and Debentures) Rules, 2014
+UNION OF INDIA
+India
+The Companies (Share Capital and Debentures) Rules, 2014
+Rule THE-COMPANIES-SHARE-CAPITAL-AND-DEBENTURES-RULES-2014 of 2014
+Published on 31 March 2014
+Commenced on 31 March 2014
+[This is the version of this document from 31 March 2014.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Companies (Share Capital and Debentures) Rules, 2014
+Published vide Notification No. G.S.R. 265(E), dated 31st March, 2014
+Last Updated 19th August, 2019
+Ministry of Corporate Affairs
+G.S.R. 265(E). - In exercise of the powers conferred under clause (a) (ii) of section 43, sub-clause (d) of sub-section (1)
+of section 54, sub-section (2) of 55, sub-section (1) of section 56, sub-section (3) of section 56, sub-section (1) of
+section 62, sub-section (2) of section 42, clause (f) of sub-section (2) of section 63, sub-section (1) of section 64 , clause
+(b) of sub-section 3 of section 67, sub-section (2) of section 68 sub-section (6) of section 68, sub-section (9) of section
+68, sub-section (10) of section 68, sub-section (3) of section 71, sub-section (6) of section 71, sub-section (13) of
+section 71 and sub-sections (1) and (2) of section 72, read with sub-section (1) and (2) of section 469 of the Companies
+Act, 2013 (
+Page 1/57
+----- PAGE 2 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+18 of 2013
+) and in supersession of the Companies (Central Government's) General Rules and Forms, 1956 or any other relevant
+rules prescribed under the Companies Act, 1956 (
+1 of 1956
+) on matters covered under these rules, except as respects things done or omitted to be done before such supersession,
+the Central Government hereby makes the following rules, namely :-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Companies (Share Capital and Debentures) Rules, 2014.
+(2)
+They shall come into force on the 1st day of April, 2014.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Companies Act, 2013 (
+18 of 2013
+);
+(b)
+"Annexure" means the Annexure to these rules;
+(c)
+"Fees" means the fees as specified in the Companies (Registration offices and fees) Rules, 2014;
+(d)
+"Form" or "e-form" means a form set forth in Annexure to these rules which shall be used for the matter to which it
+relates;
+(e)
+"Regional Director" means the person appointed by the Central Government in the Ministry of Corporate Affairs as a
+Regional Director;
+(f)
+"section" means the section of the Act.
+(2)
+Words and expressions used in these rules but not defined and defined in the Act or in Companies (Specification of
+definitions details) Rules, 2014 shall have the meanings respectively assigned to them in the Act and said rules.
+3.
+[ Application.
+[Substituted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+- The provisions of these rules shall apply to
+(a)
+all unlisted public companies;
+(b)
+all private companies; and
+(c)
+listed companies, so far as they do not contradict or conflict with any other regulation framed in this regard by the
+Securities and Exchange Board of India.]
+4.
+Equity shares with differential rights.
+(1)
+No company limited by shares shall issue equity shares with differential rights as to dividend, voting or otherwise, unless
+it complies with the following conditions, namely:-
+Page 2/57
+----- PAGE 3 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(a)
+the articles of association of the company authorises the issue of shares with differential rights;
+(b)
+the issue of shares is authorised by an ordinary resolution passed at a general meeting of the shareholders:
+Provided that where the equity shares of a company are listed on a recognized stock exchange, the issue of such
+shares shall be approved by the shareholders through postal ballot ;
+(c)
+[ the voting power in respect of shares with differential rights of the company shall not exceed seventy four per cent. of
+total voting power including voting power in respect of equity shares with differential rights issued at any point of time;]
+[Substituted by Notification No. G.S.R. 574(E), dated 16.8.2019 (w.e.f. 31.3.2014).]
+[***]
+[Omitted 'clause (d)' by Notification No. G.S.R. 574(E), dated 16.8.2019 (w.e.f. 31.3.2014).]
+(e)
+the company has not defaulted in filing financial statements and annual returns for three financial years immediately
+preceding the financial year in which it is decided to issue such shares;
+(f)
+the company has no subsisting default in the payment of a declared dividend to its shareholders or repayment of its
+matured deposits or redemption of its preference shares or debentures that have become due for redemption or
+payment of interest on such deposits or debentures or payment of dividend;
+(g)
+the company has not defaulted in payment of the dividend on preference shares or repayment of any term loan from a
+public financial institution or State level financial institution or scheduled Bank that has become repayable or interest
+payable thereon or dues with respect to statutory payments relating to its employees to any authority or default in
+crediting the amount in Investor Education and Protection Fund to the Central Government;
+[Provided that a company may issue equity shares with differential rights upon expiry of five years from the end of the
+financial year in which such default was made good.]
+[Inserted by Notification No. G.S.R. 704 (E), dated 19.7.2016 (w.e.f. 31.3.2014).]
+(h)
+the company has not been penalized by Court or Tribunal during the last three years of any offense under the Reserve
+Bank of India Act, 1934, the Securities and Exchange Board of India Act, 1992, the Securities Contracts Regulation Act,
+1956, the Foreign Exchange Management Act, 1999 or any other special Act, under which such companies being
+regulated by sectoral regulators.
+(2)
+The explanatory statement to be annexed to the notice of the general meeting in pursuance of section 102 or of a postal
+ballot in pursuance of section 110 shall contain the following particulars, namely:-
+(a)
+the total number of shares to be issued with differential rights;
+(b)
+the details of the differential rights ;
+(c)
+the percentage of the shares with differential rights to the total post issue paid up equity share capital including equity
+shares with differential rights issued at any point of time;
+(d)
+the reasons or justification for the issue;
+(e)
+the price at which such shares are proposed to be issued either at par or at premium;
+(f)
+the basis on which the price has been arrived at;
+(g)
+(i)
+in case of private placement or preferential issue-
+Page 3/57
+----- PAGE 4 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(a)
+details of total number of shares proposed to be allotted to promoters, directors and key managerial personnel;
+(b)
+details of total number of shares proposed to be allotted to persons other than promoters, directors and key managerial
+personnel and their relationship if any with any promoter, director or key managerial personnel;
+(ii)
+in case of public issue - reservation, if any, for different classes of applicants including promoters, directors or key
+managerial personnel;
+(h)
+the percentage of voting right which the equity share capital with differential voting right shall carry to the total voting
+right of the aggregate equity share capital;
+(i)
+the scale or proportion in which the voting rights of such class or type of shares shall vary;
+(j)
+the change in control, if any, in the company that may occur consequent to the issue of equity shares with differential
+voting rights;
+(k)
+the diluted Earning Per Share pursuant to the issue of such shares, calculated in accordance with the applicable
+accounting standards;
+(l)
+the pre and post issue shareholding pattern along with voting rights as per clause 35 of the listing agreement issued by
+Security Exchange Board of India from time to time.
+(3)
+The company shall not convert its existing equity share capital with voting rights into equity share capital carrying
+differential voting rights and vice-versa.
+(4)
+The Board of Directors shall, inter alia, disclose in the Board's Report for the financial year in which the issue of equity
+shares with differential rights was completed, the following details, namely:-
+(a)
+the total number of shares allotted with differential rights;
+(b)
+the details of the differential rights relating to voting rights and dividends;
+(c)
+the percentage of the shares with differential rights to the total post issue equity share capital with differential rights
+issued at any point of time and percentage of voting rights which the equity share capital with differential voting right
+shall carry to the total voting right of the aggregate equity share capital;
+(d)
+the price at which such shares have been issued;
+(e)
+the particulars of promoters, directors or key managerial personnel to whom such shares are issued;
+(f)
+the change in control, if any, in the company consequent to the issue of equity shares with differential voting rights;
+(g)
+the diluted Earning Per Share pursuant to the issue of each class of shares, calculated in accordance with the applicable
+accounting standards;
+(h)
+the pre and post issue shareholding pattern along with voting rights in the format specified under sub-rule (2) of rule 4.
+(5)
+The holders of the equity shares with differential rights shall enjoy all other rights such as bonus shares, rights shares
+etc., which the holders of equity shares are entitled to, subject to the differential rights with which such shares have been
+issued.
+Page 4/57
+----- PAGE 5 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(6)
+Where a company issues equity shares with differential rights, the Register of Members maintained under section 88
+shall contain all the relevant particulars of the shares so issued along with details of the shareholders.
+Explanation. - For the purposes of this rule, it is hereby clarified that differential rights attached to such shares issued by
+any company under the provisions of Companies Act, 1956, shall continue till such rights are converted with the
+differential rights in accordance with the provisions of the Companies Act, 2013.
+5.
+Certificate of shares (where shares are not in demat form).
+(1)
+Where a company issues any share capital, no certificate of any share or shares held in the company shall be issued,
+except -
+(a)
+in pursuance of a resolution passed by the Board; and
+(b)
+on surrender to the company of the letter of allotment or fractional coupons of requisite value, save in cases of issues
+against letters of acceptance or of renunciation, or in cases of issue of bonus shares:
+Provided that if the letter of allotment is lost or destroyed, the Board may impose such reasonable terms, if any, as to
+seek supporting evidence and indemnity and the payment of out-of-pocket expenses incurred by the company in
+investigating evidence, as it may think fit.
+(2)
+Every certificate of share or shares shall be in Form No. SH.1 or as near thereto as possible and shall specify the
+name(s) of the person(s) in whose favour the certificate is issued, the shares to which it relates and the amount paid-up
+thereon.
+(3)
+[ Every certificate shall specify the shares to which it relates and the amount paid-up thereon and shall be signed by two
+directors or by a director and the company secretary, wherever the company has appointed company secretary:
+Provided that in case the company has a common seal it shall be affixed in the presence of persons required to sign the
+certificate.
+Explanation. - For the purposes of this sub-rule, it is hereby clarified that,-
+(a)
+in case of an One Person Company, it shall be sufficient if the certificate is signed by a [director or company secretary]
+and the company secretary or any other person authorised by the Board for the purpose.
+(b)
+a [director or company secretary]
+[Substituted 'director' by Notification No. G.S.R. 574(E), dated 16.8.2019 (w.e.f. 31.3.2014).]
+shall be deemed to have signed the share certificate if his signature is printed thereon as facsimile signature by means
+of any machine, equipment or other mechanical means such as engraving in metal or lithography or digitally signed, but
+not by means of rubber stamp, provided that the [director or company secretary]
+[Substituted 'director' by Notification No. G.S.R. 574(E), dated 16.8.2019 (w.e.f. 31.3.2014).]
+shall be personally responsible for permitting the affixation of his signature thus and the safe custody of any machine,
+equipment or other material used for the purpose.]
+(4)
+The particulars of every share certificate issued in accordance with sub-rule (1) shall be entered in the Register of
+Members maintained in accordance with the provisions of section 88 along with the name(s) of person(s) to whom it has
+been issued, indicating the date of issue.
+6.
+Issue of renewed or duplicate share certificate.
+(1)
+(a)
+the certificate of any share or shares shall not be issued either in exchange for those which are sub-divided or
+consolidated or in replacement of those which are defaced, mutilated, torn or old, decrepit, worn out, or where the pages
+Page 5/57
+----- PAGE 6 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+on the reverse for recording transfers have been duly utilised, unless the certificate in lieu of which it is issued is
+surrendered to the company:
+Provided that the company may charge such fee as the Board thinks fit, not exceeding fifty rupees per certificate issued
+on splitting or consolidation of share certificate(s) or in replacement of share certificate(s) that are defaced, mutilated,
+torn or old, decrepit or worn out:
+(b)
+Where a certificate is issued in any of the circumstances specified in this sub-rule, it shall be stated on the face of it and
+be recorded in the Register maintained for the purpose, that it is "Issued in lieu of share certificate No. ...... sub-divided/
+replaced/ on consolidation" and also that no fee shall be payable pursuant to scheme of arrangement sanctioned by the
+High Court or Central Government:
+(c)
+A company may replace all the existing certificates by new certificates upon sub-division or consolidation of shares or
+merger or demerger or any reconstitution without requiring old certificates to be surrendered subject to compliance with
+clause (a) of sub-rule (1) rule 5, sub-rule (2) of rule 5 and sub-rule (3) of rule 5.
+(2)
+(a)
+The duplicate share certificate shall be not issued in lieu of those that are lost or destroyed, without the prior consent of
+the Board and without payment of such fees as the Board thinks fit, not exceeding rupees fifty per certificate and on
+such reasonable terms, such as furnishing supporting evidence and indemnity and the payment of out-of-pocket
+expenses incurred by the company in investigating the evidence produced:
+(b)
+Where a certificate is issued in any of the circumstances specified in this sub-rule, it shall be stated prominently on the
+face of it and be recorded in the Register maintained for the purpose, that it is "duplicate issued in lieu of share
+certificate No. ....." and the word "duplicate" shall be stamped or printed prominently on the face of the share certificate:
+(c)
+In case unlisted companies, the duplicate share certificates shall be issued within a period of three months and in case
+of listed companies such certificate shall be issued [within forty-five days]
+[Substituted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+, from the date of submission of complete documents with the company respectively.
+(3)
+(a)
+The particulars of every share certificate issued in accordance with sub-rules (1) and (2) shall be entered forthwith in a
+Register of Renewed and Duplicate Share Certificates maintained in Form No.SH.2 indicating against the name(s) of the
+person(s) to whom the certificate is issued, the number and date of issue of the share certificate in lieu of which the new
+certificate is issued, and the necessary changes indicated in the Register of Members by suitable cross-references in
+the "Remarks" column.
+(b)
+The register shall be kept at the registered office of the company or at such other place where the Register of Members
+is kept and it shall be preserved permanently and shall be kept in the custody of the company secretary of the company
+or any other person authorised by the Board for the purpose.
+(c)
+All entries made in the Register of Renewed and Duplicate Share Certificates shall be authenticated by the company
+secretary or such other person as may be authorised by the Board for the purposes of sealing and signing the share
+certificate under the provisions of sub-rule (3) of rule 5.
+7.
+Maintenance of share certificate forms and related books and documents.
+(1)
+All blank forms to be used for issue of share certificates shall be printed and the printing shall be done only on the
+authority of a resolution of the Board and the blank form shall be consecutively machine-numbered and the forms and
+the blocks, engravings, facsimiles and hues relating to the printing of such forms shall be kept in the custody of the
+secretary or such other person as the Board may authorise for the purpose; and the company secretary or other person
+Page 6/57
+----- PAGE 7 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+aforesaid shall be responsible for rendering an account of these forms to the Board.
+(2)
+The following persons shall be responsible for the maintenance, preservation and safe custody of all books and
+documents relating to the issue of share certificates, including the blank forms of share certificates referred to in sub-rule
+(1), namely:-
+(a)
+the committee of the Board, if so authorised by the Board or where the company has a company secretary, the company
+secretary; or
+(b)
+where the company has no company secretary, a Director specifically authorised by the Board for such purpose.
+(3)
+All books referred to in sub-rule (2) shall be preserved in good order not less than thirty years and in case of disputed
+cases, shall be preserved permanently, and all certificates surrendered to a company shall immediately be defaced by
+stamping or printing the word "cancelled" in bold letters and may be destroyed after the expiry of three years from the
+date on which they are surrendered, under the authority of a resolution of the Board and in the presence of a person
+duly appointed by the Board in this behalf:
+Provided that nothing in this sub-rule shall apply to cancellation of the certificates of securities, under sub-section (2) of
+section 6 of the Depositories Act, 1996 (
+22 of 1996
+), when such certificates are cancelled in accordance with sub-regulation (5) of regulation 54 of the Securities and
+Exchange Board of India (Depositories and Participants) Regulations, 1996, made under section 30 of the Securities
+and Exchange Board of India Act, 1992 (
+15 of 1992
+) read with section 25 of the Depositories Act, 1996 (
+22 of 1996
+).
+8.
+Issue of sweat equity shares.
+(1)
+A company other than a listed company, which is not required to comply with the Securities and Exchange Board of
+India Regulations on sweat equity, shall not issue sweat equity shares to its directors or employees at a discount or for
+consideration other than cash, for their providing knowhow or making available rights in the nature of intellectual
+property rights or value additions, by whatever name called, unless the issue is authorised by a special resolution
+passed by the company in general meeting.
+Explanation. - For the purposes of this rule-
+(i)
+the expressions "Employee" means-
+(a)
+a permanent employee of the company who has been working in India or outside India, [***]
+[Omitted 'for at least last one year' by Notification No. G.S.R. 434(E), dated 7.5.2018 (w.e.f. 31.3.2014).]
+; or
+(b)
+a director of the company, whether a whole time director or not; or
+(c)
+an employee or a director as defined in sub-clauses (a) or (b) above of a subsidiary, in India or outside India, or of a
+holding company of the company;
+(ii)
+the expression 'Value additions' means actual or anticipated economic benefits derived or to be derived by the company
+from an expert or a professional for providing know-how or making available rights in the nature of intellectual property
+rights, by such person to whom sweat equity is being issued for which the consideration is not paid or included in the
+normal remuneration payable under the contract of employment, in the case of an employee.
+Page 7/57
+----- PAGE 8 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(2)
+The explanatory statement to be annexed to the notice of the general meeting pursuant to section 102 shall contain the
+following particulars, namely:-
+(a)
+the date of the Board meeting at which the proposal for issue of sweat equity shares was approved;
+(b)
+the reasons or justification for the issue;
+(c)
+the class of shares under which sweat equity shares are intended to be issued;
+(d)
+the total number of shares to be issued as sweat equity;
+(e)
+the class or classes of directors or employees to whom such equity shares are to be issued;
+(f)
+the principal terms and conditions on which sweat equity shares are to be issued, including basis of valuation ;
+(g)
+the time period of association of such person with the company;
+(h)
+the names of the directors or employees to whom the sweat equity shares will be issued and their relationship with the
+promoter or/and Key Managerial Personnel;
+(i)
+the price at which the sweat equity shares are proposed to be issued;
+(j)
+the consideration including consideration other than cash, if any to be received for the sweat equity;
+(k)
+the ceiling on managerial remuneration, if any, be breached by issuance of such sweat equity and how it is proposed to
+be dealt with;
+(l)
+a statement to the effect that the company shall conform to the applicable accounting standards; and
+(m)
+diluted Earning Per Share pursuant to the issue of sweat equity shares, calculated in accordance with the applicable
+accounting standards.
+(3)
+The special resolution authorising the issue of sweat equity shares shall be valid for making the allotment within a period
+of not more than twelve months from the date of passing of the special resolution.
+(4)
+The company shall not issue sweat equity shares for more than fifteen percent of the existing paid up equity share
+capital in a year or shares of the issue value of rupees five crores, whichever is higher:
+Provided that the issuance of sweat equity shares in the Company shall not exceed twenty five percent, of the paid up
+equity capital of the Company at any time.
+[Provided that in case of a startup company, as defined in notification number GSR 180(E) dated 17th February, 2016
+issued by the Department of Industrial Policy and Promotion, Ministry of Commerce and Industry Government of India,
+Government of India, the conditions mentioned in sub-clause (i) and (ii) shall not apply upto five years from the date of
+its incorporation or registration.]
+[Inserted by Notification No. G.S.R. 704 (E), dated 19.7.2016 (w.e.f. 31.3.2014).]
+(5)
+The sweat equity shares issued to directors or employees shall be locked in/non transferable for a period of three years
+from the date of allotment and the fact that the share certificates are under lock-in and the period of expiry of lock in
+shall be stamped in bold or mentioned in any other prominent manner on the share certificate.
+(6)
+The sweat equity shares to be issued shall be valued at a price determined by a registered valuer as the fair price giving
+Page 8/57
+----- PAGE 9 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+justification for such valuation.
+(7)
+The valuation of intellectual property rights or of know how or value additions for which sweat equity shares are to be
+issued, shall be carried out by a registered valuer, who shall provide a proper report addressed to the Board of directors
+with justification for such valuation.
+(8)
+A copy of gist along with critical elements of the valuation report obtained under clause (6) and clause (7) shall be sent
+to the shareholders with the notice of the general meeting.
+(9)
+Where sweat equity shares are issued for a non-cash consideration on the basis of a valuation report in respect thereof
+obtained from the registered valuer, such non-cash consideration shall be treated in the following manner in the books of
+account of the company-
+(a)
+where the non-cash consideration takes the form of a depreciable or amortisable asset, it shall be carried to the balance
+sheet of the company in accordance with the accounting standards; or
+(b)
+where clause (a) is not applicable, it shall be expensed as provided in the accounting standards.
+(10)
+The amount of sweat equity shares issued shall be treated as part of managerial remuneration for the purposes of
+sections 197 and 198 of the Act, if the following conditions are fulfilled, namely.-
+(a)
+the sweat equity shares are issued to any director or manager; and
+(b)
+they are issued for consideration other than cash, which does not take the form of an asset which can be carried to the
+balance sheet of the company in accordance with the applicable accounting standards.
+(11)
+In respect of sweat equity shares issued during an accounting period, the accounting value of sweat equity shares shall
+be treated as a form of compensation to the employee or the director in the financial statements of the company, if the
+sweat equity shares are not issued pursuant to acquisition of an asset.
+(12)
+If the shares are issued pursuant to acquisition of an asset, the value of the asset, as determined by the valuation report,
+shall be carried in the balance sheet as per the Accounting Standards and such amount of the accounting value of the
+sweat equity shares that is in excess of the value of the asset acquired, as per the valuation report, shall be treated as a
+form of compensation to the employee or the director in the financial statements of the company.
+Explanation. - For the purposes of this sub-rule, it is hereby clarified that the Accounting value shall be the fair value of
+the sweat equity shares as determined by a registered valuer under sub-rule (6).
+(13)
+The Board of Directors shall, inter alia, disclose in the Directors' Report for the year in which such shares are issued, the
+following details of issue of sweat equity shares namely:-
+(a)
+the class of director or employee to whom sweat equity shares were issued;
+(b)
+the class of shares issued as Sweat Equity Shares;
+(c)
+the number of sweat equity shares issued to the directors, key managerial personnel or other employees showing
+separately the number of such shares issued to them, if any, for consideration other than cash and the individual names
+of allottees holding one percent or more of the issued share capital;
+(d)
+the reasons or justification for the issue;
+(e)
+the principal terms and conditions for issue of sweat equity shares, including pricing formula;
+Page 9/57
+----- PAGE 10 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(f)
+the total number of shares arising as a result of issue of sweat equity shares;
+(g)
+the percentage of the sweat equity shares of the total post issued and paid up share capital;
+(h)
+the consideration (including consideration other than cash) received or benefit accrued to the company from the issue of
+sweat equity shares;
+(i)
+the diluted Earnings Per Share (EPS) pursuant to issuance of sweat equity shares.
+(14)
+(a)
+The company shall maintain a Register of Sweat Equity Shares in Form No. SH. and shall forthwith enter therein the
+particulars of Sweat Equity Shares issued under section 54.
+(b)
+The Register of Sweat Equity Shares shall be maintained at the registered office of the company or such other place as
+the Board may decide.
+(c)
+The entries in the register shall be authenticated by the Company Secretary of the company or by any other person
+authorised by the Board for the purpose.
+9.
+Issue and redemption of preference shares.
+(1)
+A company having a share capital may, if so authorised by its articles, issue preference shares subject to the following
+conditions, namely:-
+(a)
+the issue of such shares has been authorised by passing a special resolution in the general meeting of the company
+(b)
+the company, at the time of such issue of preference shares, has no subsisting default in the redemption of preference
+shares issued either before or after the commencement of this Act or in payment of dividend due on any preference
+shares.
+(2)
+A company issuing preference shares shall set out in the resolution, particulars in respect of the following matters
+relating to such shares, namely:-
+(a)
+the priority with respect to payment of dividend or repayment of capital vis-a-vis equity shares;
+(b)
+the participation in surplus fund;
+(c)
+the participation in surplus assets and profits, on winding-up which may remain after the entire capital has been repaid;
+(d)
+the payment of dividend on cumulative or non-cumulative basis.
+(e)
+the conversion of preference shares into equity shares.
+(f)
+the voting rights;
+(g)
+the redemption of preference shares.
+(3)
+The explanatory statement to be annexed to the notice of the general meeting pursuant to section 102 shall, inter-alia,
+provide the complete material facts concerned with and relevant to the issue of such shares, including-
+(a)
+Page 10/57
+----- PAGE 11 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+the size of the issue and number of preference shares to be issued and nominal value of each share;
+(b)
+the nature of such shares i.e. cumulative or non-cumulative, participating or non-participating , convertible or
+non-convertible
+(c)
+the objectives of the issue;
+(d)
+the manner of issue of shares;
+(e)
+the price at which such shares are proposed to be issued;
+(f)
+the basis on which the price has been arrived at;
+(g)
+the terms of issue, including terms and rate of dividend on each share, etc.;
+(h)
+the terms of redemption, including the tenure of redemption, redemption of shares at premium and if the preference
+shares are convertible, the terms of conversion;
+(i)
+the manner and modes of redemption;
+(j)
+the current shareholding pattern of the company;
+(k)
+the expected dilution in equity share capital upon conversion of preference shares.
+(4)
+Where a company issues preference shares, the Register of Members maintained under section 88 shall contain the
+particulars in respect of such preference share holder(s).
+(5)
+A company intending to list its preference shares on a recognized stock exchange shall issue such shares in
+accordance with the regulations made by the Securities and Exchange Board of India in this behalf.
+(6)
+A company may redeem its preference shares only on the terms on which they were issued or as varied after due
+approval of preference shareholders under section 48 of the Act and the preference shares may be redeemed:-
+(a)
+at a fixed time or on the happening of a particular event;
+(b)
+any time at the company's option; or
+(c)
+any time at the shareholder's option.
+10.
+Issue and redemption of preference shares by company in infrastructural projects.
+- A company engaged in the setting up and dealing with of infrastructural projects may issue preference shares for a
+period exceeding twenty years but not exceeding thirty years, subject to the redemption of a minimum ten percent of
+such preference shares per year from the twenty first year onwards or earlier, on proportionate basis, at the option of the
+preference shareholders.
+11.
+Instrument of transfer.
+(1)
+An instrument of transfer of securities held in physical form shall be in Form No.SH.4 and every instrument of transfer
+with the date of its execution specified thereon shall be delivered to the company within sixty days from the date of such
+execution.
+(2)
+Page 11/57
+----- PAGE 12 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+In the case of a company not having share capital, provisions of sub-rule (1) shall apply as if the references therein to
+securities were references instead to the interest of the member in the company.
+(3)
+A company shall not register a transfer of partly paid shares, unless the company has given a notice in Form No. SH.5
+to the transferee and the transferee has given no objection to the transfer within two weeks from the date of receipt of
+notice.
+12.
+Issue of employee stock options.
+- A company, other than a listed company, which is not required to comply with Securities and Exchange Board of India
+Employee Stock Option Scheme Guidelines shall not offer shares to its employees under a scheme of employees' stock
+option (hereinafter referred to as "Employees Stock Option Scheme"), unless it complies with the following requirements,
+namely:-
+(1)
+the issue of Employees Stock Option Scheme has been approved by the shareholders of the company by passing a
+special resolution.
+Explanation: For the purposes of clause (b) of sub-section (1) of section 62 and this rule "Employee" means
+(a)
+a permanent employee of the company who has been working in India or outside India; or
+(b)
+a director of the company, whether a whole time director or not but excluding an independent director; or
+(c)
+an employee as defined in clauses (a) or (b) of a subsidiary, in India or outside India, or of a holding company of the
+company [* * *]
+[Omitted "or of an associate company" by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+but does not include -
+(i)
+an employee who is a promoter or a person belonging to the promoter group; or
+(ii)
+a director who either himself or through his relative or through any body corporate, directly or indirectly, holds more than
+ten percent of the outstanding equity shares of the company.
+[Provided that in case of a startup company, as defined in notification number [G.S.R. 127(E), dated 19th February,
+2019 issued by the Department for Promotion of Industry and Internal Trade]
+[Inserted by the Companies (Share Capital and Debentures) Third Amendment Rules, 2016, w.e.f. 19-7-2016.]
+, Ministry of Commerce and Industry Government of India, the conditions mentioned in sub-clauses (i) and (ii) shall not
+apply up to [ten years]
+[Substituted 'five years' by Notification No. G.S.R. 574(E), dated 16.8.2019 (w.e.f. 31.3.2014).]
+from the date of its incorporation or registration.]
+[Substituted by Notification No. G.S.R. 363(E), dated 10.4.2018 (w.e.f. 31.3.2014).]
+(2)
+The company shall make the following disclosures in the explanatory statement annexed to the notice for passing of the
+resolution -
+(a)
+the total number of stock options to be granted;
+(b)
+identification of classes of employees entitled to participate in the Employees Stock Option Scheme;
+(c)
+the appraisal process for determining the eligibility of employees to the Employees Stock Option Scheme;
+(d)
+the requirements of vesting and period of vesting;
+(e)
+the maximum period within which the options shall be vested;
+Page 12/57
+----- PAGE 13 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(f)
+the exercise price or the formula for arriving at the same;
+(g)
+the exercise period and process of exercise;
+(h)
+the Lock-in period, if any ;
+(i)
+the maximum number of options to be granted per employee and in aggregate;
+(j)
+the method which the company shall use to value its options;
+(k)
+the conditions under which option vested in employees may lapse e.g. in case of termination of employment for
+misconduct;
+(l)
+the specified time period within which the employee shall exercise the vested options in the event of a proposed
+termination of employment or resignation of employee; and
+(m)
+a statement to the effect that the company shall comply with the applicable accounting standards.
+(3)
+The companies granting option to its employees pursuant to Employees Stock Option Scheme will have the freedom to
+determine the exercise price in conformity with the applicable accounting policies, if any.
+(4)
+The approval of shareholders by way of separate resolution shall be obtained by the company in case of-
+(a)
+grant of option to employees of subsidiary or holding company; or
+(b)
+grant of option to identified employees, during any one year, equal to or exceeding one percent of the issued capital
+(excluding outstanding warrants and conversions) of the company at the time of grant of option.
+(5)
+(a)
+The company may by special resolution, vary the terms of Employees Stock Option Scheme not yet exercised by the
+employees provided such variation is not prejudicial to the interests of the option holders.
+(b)
+The notice for passing special resolution for variation of terms of Employees Stock Option Scheme shall disclose full of
+the variation, the rationale therefor, and the details of the employees who are beneficiaries of such variation.
+(6)
+(a)
+There shall be a minimum period of one year between the grant of options and vesting of option:
+Provided that in a case where options are granted by a company under its Employees Stock Option Scheme in lieu of
+options held by the same person under an Employees Stock Option Scheme in another company, which has merged or
+amalgamated with the first mentioned company, the period during which the options granted by the merging or
+amalgamating company were held by him shall be adjusted against the minimum vesting period required under this
+clause;
+(b)
+The company shall have the freedom to specify the lock-in period for the shares issued pursuant to exercise of option.
+(c)
+The Employees shall not have right to receive any dividend or to vote or in any manner enjoy the benefits of a
+shareholder in respect of option granted to them, till shares are issued on exercise of option.
+(7)
+The amount, if any, payable by the employees, at the time of grant of option-
+(a)
+Page 13/57
+----- PAGE 14 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+may be forfeited by the company if the option is not exercised by the employees within the exercise period; or
+(b)
+the amount may be refunded to the employees if the options are not vested due to non-fulfilment of conditions relating to
+vesting of option as per the Employees Stock Option Scheme.
+(8)
+(a)
+The option granted to employees shall not be transferable to any other person.
+(b)
+The option granted to the employees shall not be pledged, hypothecated, mortgaged or otherwise encumbered or
+alienated in any other manner.
+(c)
+Subject to clause (d), no person other than the employees to whom the option is granted shall be entitled to exercise the
+option.
+(d)
+In the event of the death of employee while in employment, all the options granted to him till such date shall vest in the
+legal heirs or nominees of the deceased employee.
+(e)
+In case the employee suffers a permanent incapacity while in employment, all the options granted to him as on the date
+of permanent incapacitation, shall vest in him on that day.
+(f)
+In the event of resignation or termination of employment, all options not vested in the employee as on that day shall
+expire. However, the employee can exercise the options granted to him which are vested within the period specified in
+this behalf, subject to the terms and conditions under the scheme granting such options as approved by the Board.
+(9)
+The Board of directors, shall, inter alia, disclose in the Directors' Report for the year, the following details of the
+Employees Stock Option Scheme:
+(a)
+options granted;
+(b)
+options vested;
+(c)
+options exercised;
+(d)
+the total number of shares arising as a result of exercise of option;
+(e)
+options lapsed;
+(f)
+the exercise price;
+(g)
+variation of terms of options;
+(h)
+money realized by exercise of options;
+(i)
+total number of options in force;
+(j)
+employee wise details of options granted to;-
+(i)
+key managerial personnel;
+(ii)
+any other employee who receives a grant of options in any one year of option amounting to five percent or more of
+options granted during that year.
+Page 14/57
+----- PAGE 15 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(iii)
+identified employees who were granted option, during any one year, equal to or exceeding one percent of the issued
+capital (excluding outstanding warrants and conversions) of the company at the time of grant;
+(10)
+(a)
+The company shall maintain a Register of Employee Stock Options in Form No. SH.6 and shall forthwith enter therein
+the particulars of option granted under clause (b) of sub-section (1) of section 62.
+(b)
+The Register of Employee Stock Options shall be maintained at the registered office of the company or such other place
+as the Board may decide.
+(c)
+The entries in the register shall be authenticated by the company secretary of the company or by any other person
+authorised by the Board for the purpose.
+(11)
+Where the equity shares of the company are listed on a recognized stock exchange, the Employees Stock Option
+Scheme shall be issued, in accordance with the regulations made by the Securities and Exchange Board of India in this
+behalf.
+13.
+Issue of shares on preferential basis.
+(1)
+For the purposes of clause (c) of sub-section (1) of section 62, If authorised by a special resolution passed in a general
+meeting, shares may be issued by any company in any manner whatsoever including by way of a preferential offer, to
+any persons whether or not those persons include the persons referred to in clause (a) or clause (b) of sub-section (1) of
+section 62 and such issue on preferential basis should also comply with conditions laid down in section 42 of the Act:
+[Provided that in case of any preferential offer made by a company to one or more existing members only, the provisions
+of sub-rule (1) and proviso to sub-rule (1) and proviso to sub-rule (3) of rule 14 of Companies (Prospectus and Allotment
+of Securities) Rules, 2014 shall not apply.]
+[Inserted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+[Provided further that]
+[Substituted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+the price of shares to be issued on a preferential basis by a listed company shall not be required to be determined by the
+valuation report of a registered valuer.
+Explanation.- For the purposes of this rule, (i) the expression 'Preferential Offer' means an issue of shares or other
+securities, by a company to any select person or group of persons on a preferential basis and does not include shares or
+other securities offered through a public issue, rights issue, employee stock option scheme, employee stock purchase
+scheme or an issue of sweat equity shares or bonus shares or depository receipts issued in a country outside India or
+foreign securities;
+(ii)
+the expression, "shares or other securities" means equity shares, fully convertible debentures, partly convertible
+debentures or any other securities, which would be convertible into or exchanged with equity shares at a later date.
+(2)
+Where the preferential offer of shares or other securities is made by a company whose share or other securities are
+listed on a recognized stock exchange, such preferential offer shall be made in accordance with the provisions of the Act
+and regulations made by the Securities and Exchange Board, and if they are not listed, the preferential offer shall be
+made in accordance with the provisions of the Act and rules made hereunder and subject to compliance with the
+following requirements, namely:-
+(a)
+the issue is authorised by its articles of association;
+(b)
+the issue has been authorised by a special resolution of the members;
+[* * *]
+Page 15/57
+----- PAGE 16 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+[Omitted '(c) the securities allotted by way of preferential offer shall be made fully paid up at the time of their allotment.'
+by Notification No. G.S.R. 704 (E), dated 19.7.2016 (w.e.f. 31.3.2014).]
+(d)
+The company shall make the following disclosures in the explanatory statement to be annexed to the notice of the
+general meeting pursuant to section 102 of the Act:
+(i)
+the objects of the issue;
+(ii)
+the total number of shares or other securities to be issued;
+(iii)
+the price or price band at/within which the allotment is proposed;
+(iv)
+basis on which the price has been arrived at along with report of the registered valuer;
+(v)
+relevant date with reference to which the price has been arrived at;
+(vi)
+the class or classes of persons to whom the allotment is proposed to be made;
+(vii)
+intention of promoters, directors or key managerial personnel to subscribe to the offer;
+(viii)
+the proposed time within which the allotment shall be completed;
+(ix)
+the names of the proposed allottees and the percentage of post preferential offer capital that may be held by them;
+(x)
+the change in control, if any, in the company that would occur consequent to the preferential offer;
+(xi)
+the number of persons to whom allotment on preferential basis have already been made during the year, in terms of
+number of securities as well as price;
+(xii)
+the justification for the allotment proposed to be made for consideration other than cash together with valuation report of
+the registered valuer.
+(xiii)
+The pre issue and post issue shareholding pattern of the company in the following format-
+Sr. No.
+Category
+Pre Issue
+Post Issue
+No. of Shares held
+% of share holding
+No. of shares held
+% of share holding
+A
+Promoters? holding :
+1
+Indian :
+Individual
+Bodies Corporate
+Sub Total
+2
+Foreign Promoters
+Sub Total (A)
+Page 16/57
+----- PAGE 17 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+B
+Non-Promoters? holding :
+1.
+Institutional Investors
+2.
+Non-Institution :
+Private Corporate Bodies
+Directors and Relatives
+Indian Public
+Others (Including NRIs)
+Sub Total(B)
+GRAND TOTAL
+(e)
+the allotment of securities on a preferential basis made pursuant to the special resolution passed pursuant to sub-rule
+(2)(b) shall be completed within a period of twelve months from the date of passing of the special resolution.
+(f)
+if the allotment of securities is not completed within twelve months from the date of passing of the special resolution,
+another special resolution shall be passed for the company to complete such allotment thereafter.
+(g)
+the price of the shares or other securities to be issued on a preferential basis, either for cash or for consideration other
+than cash, shall be determined on the basis of valuation report of a registered valuer;
+(h)
+[ where convertible securities are offered on a preferential basis with an option to apply for and get equity shares
+allotted, the price of the resultant shares pursuant to conversion shall be determined-
+[Substituted by Notification No. G.S.R. 704 (E), dated 19.7.2016 (w.e.f. 31.3.2014).]
+(i)
+either upfront at the time when the offer of convertible securities is made, on the basis of valuation report of the
+registered valuer given at the stage of such offer, or
+(ii)
+at the time, which shall not be earlier than thirty days to the date when the holder of convertible security becomes
+entitled to apply for shares, on the basis of valuation report of the registered valuer given not earlier than sixty days of
+the date when the holder of convertible security becomes entitled to apply for shares:
+Provided that the company shall take a decision on sub-clauses (i) or (ii) at the time of offer of convertible security itself
+and make such disclosure under sub-clause (v) of clause (d) of sub-rule (2) of this rule.]
+(i)
+where shares or other securities are to be allotted for consideration other than cash, the valuation of such consideration
+shall be done by a registered valuer who shall submit a valuation report to the company giving justification for the
+valuation;
+(j)
+where the preferential offer of shares is made for a non-cash consideration, such non-cash consideration shall be
+treated in the following manner in the books of account of the company -
+(i)
+where the non-cash consideration takes the form of a depreciable or amortizable asset, it shall be carried to the balance
+sheet of the company in accordance with the accounting standards; or
+(ii)
+where clause (i) is not applicable, it shall be expensed as provided in the accounting standards.
+14.
+Issue of Bonus Shares.
+- The company which has once announced the decision of its Board recommending a bonus issue, shall not
+subsequently withdraw the same.
+15.
+Page 17/57
+----- PAGE 18 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+Notice to Registrar for alteration of share capital.
+- Where a company alters its share capital in any manner specified in sub-section (1) of section 61, or an order is
+passed by the Government increasing the authorised capital of the company in pursuance of sub-section (4) read with
+sub-section (6) of section 62 or a company redeems any redeemable preference shares, [or a company not having
+share capital increases number of its members]
+[Inserted by Notification No. G.S.R. 704 (E), dated 19.7.2016 (w.e.f. 31.3.2014).]
+the notice of such alteration, increase or redemption shall be filed by the company with the Registrar in Form No. SH.7
+along with the fee.
+16.
+Provision of money by company for purchase of its own shares by employees or by trustees for the benefit of
+employees.
+(1)
+The company shall not make a provision of money for the purchase of, or subscription for, shares in the company or its
+holding company, if the purchase of, or the subscription for, the shares by trustees is for the shares to be held by or for
+the benefit of the employees of the company, unless it complies with the following conditions, namely:-
+(a)
+the scheme of provision of money for purchase of or subscription for the shares as aforesaid is approved by the
+members by passing special resolution in a general meeting;
+(b)
+such purchase of shares shall be made only through a recognized stock exchange in case the shares of the company
+are listed and not by way of private offers or arrangements;
+(c)
+where shares of a company are not listed on a recognized stock exchange, the valuation at which shares are to be
+purchased shall be made by a registered valuer;
+(d)
+the value of shares to be purchased or subscribed in the aggregate together with the money provided by the company
+shall not exceed five per cent. of the aggregate of paid up capital and free reserves of the company;
+(2)
+The explanatory statement to be annexed to the notice of the general meeting to be convened pursuant to section 102
+shall, in addition to the particulars mentioned in sub-rule (1) of rule 18, contain the following particulars, namely:-
+(a)
+the class of employees for whose benefit the scheme is being implemented and money is being provided for purchase of
+or subscription to shares;
+(b)
+the particulars of the trustee or employees in whose favour such shares are to be registered;
+(c)
+the particulars of trust and name, address, occupation and nationality of trustees and their relationship with the
+promoters, directors or key managerial personnel, if any;
+(d)
+the any interest of key managerial personnel, directors or promoters in such scheme or trust and effect thereof;
+(e)
+the detailed particulars of benefits which will accrue to the employees from the implementation of the scheme;
+(f)
+the details about who would exercise and how the voting rights in respect of the shares to be purchased or subscribed
+under the scheme would be exercised;
+(3)
+A person shall not be appointed as a trustee to hold such shares, if he-
+(a)
+is a director, key managerial personnel or promoter of the company or its holding, subsidiary or associate company or
+any relative of such director, key managerial personnel or promoter; or
+(b)
+Page 18/57
+----- PAGE 19 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+beneficially holds ten percent or more of the paid-up share capital of the company.
+(4)
+Where the voting rights are not exercised directly by the employees in respect of shares to which the scheme relates,
+the Board of Directors shall, inter alia, disclose in the Board's report for the relevant financial year the following details,
+namely:-
+(a)
+the names of the employees who have not exercised the voting rights directly;
+(b)
+the reasons for not voting directly;
+(c)
+the name of the person who is exercising such voting rights;
+(d)
+the number of shares held by or in favour of, such employees and the percentage of such shares to the total paid up
+share capital of the company;
+(e)
+the date of the general meeting in which such voting power was exercised;
+(f)
+the resolutions on which votes have been cast by persons holding such voting power;
+(g)
+the percentage of such voting power to the total voting power on each resolution;
+(h)
+whether the votes were cast in favour of or against the resolution.
+17.
+Buy-back of shares or other securities.
+- Unless stated otherwise, the following norms shall be complied with by the private companies and unlisted public
+companies for buy-back of their securities-
+(1)
+The explanatory statement to be annexed to the notice of the general meeting pursuant to section 102 shall contain the
+following disclosures, namely:-
+(a)
+the date of the board meeting at which the proposal for buy-back was approved by the board of directors of the
+company;
+(b)
+the objective of the buy-back;
+(c)
+the class of shares or other securities intended to be purchased under the buy-back;
+(d)
+the number of securities that the company proposes to buy-back;
+(e)
+the method to be adopted for the buy-back;
+(f)
+the price at which the buy-back of shares or other securities shall be made;
+(g)
+the basis of arriving at the buy-back price;
+(h)
+the maximum amount to be paid for the buy-back and the sources of funds from which the buy-back would be financed;
+(i)
+the time-limit for the completion of buy-back;
+(j)
+(i)
+the aggregate shareholding of the promoters and of the directors of the promoter, where the promoter is a company and
+Page 19/57
+----- PAGE 20 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+of the directors and key managerial personnel as on the date of the notice convening the general meeting;
+(ii)
+the aggregate number of equity shares purchased or sold by persons mentioned in sub-clause (i) during a period of
+twelve months preceding the date of the board meeting at which the buy-back was approved and from that date till the
+date of notice convening the general meeting;
+(iii)
+the maximum and minimum price at which purchases and sales referred to in sub-clause (ii) were made along with the
+relevant date;
+(k)
+if the persons mentioned in sub-clause (i) of clause (j) intend to tender their shares for buy-back -
+(i)
+the quantum of shares proposed to be tendered;
+(iii)
+the details of their transactions and their holdings for the last twelve months prior to the date of the board meeting at
+which the buy-back was approved including information of number of shares acquired, the price and the date of
+acquisition;
+(l)
+a confirmation that there are no defaults subsisting in repayment of deposits, interest payment thereon, redemption of
+debentures or payment of interest thereon or redemption of preference shares or payment of dividend due to any
+shareholder, or repayment of any term loans or interest payable thereon to any financial institution or banking company;
+(m)
+a confirmation that the Board of directors have made a full enquiry into the affairs and prospects of the company and
+that they have formed the opinion-
+(i)
+that immediately following the date on which the general meeting is convened there shall be no grounds on which the
+company could be found unable to pay its debts;
+(ii)
+as regards its prospects for the year immediately following that date, that, having regard to their intentions with respect
+to the management of the company's business during that year and to the amount and character of the financial
+resources which will in their view be available to the company during that year, the company shall be able to meet its
+liabilities as and when they fall due and shall not be rendered insolvent within a period of one year from that date; and
+(iii)
+the directors have taken into account the liabilities (including prospective and contingent liabilities), as if the company
+were being wound up under the provisions of the Companies Act, 2013
+(n)
+a report addressed to the Board of directors by the company's auditors stating that-
+(i)
+they have inquired into the company's state of affairs;
+(ii)
+the amount of the permissible capital payment for the securities in question is in their view properly determined;
+(iii)
+that the audited accounts on the basis of which calculation with reference to buy back is done is not more than six
+months old from the date of offer document; and
+[Provided that where the audited accounts are more than six months old, the calculations with reference to buy back
+shall be on the basis of un-audited accounts not older than six months from the date of offer document which are
+subjected to limited review by the auditors of the company.]
+[Inserted by Notification No. G.S.R. 290 (E), dated 10.3.2016 (w.e.f. 31.3.2014).]
+(iv)
+the Board of directors have formed the opinion as specified in clause (m) on reasonable grounds and that the company,
+having regard to its state of affairs, shall not be rendered insolvent within a period of one year from that date.
+(2)
+Page 20/57
+----- PAGE 21 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+The company which has been authorised by a special resolution shall, before the buy-back of shares, file with the
+Registrar of Companies a letter of offer in Form No. SH.8, along with the fee:
+Provided that such letter of offer shall be dated and signed on behalf of the Board of directors of the company by not
+less than two directors of the company, one of whom shall be the managing director, where there is one.
+(3)
+The company shall file with the Registrar, along with the letter of offer, and in case of a listed company with the Registrar
+and the Securities and Exchange Board, a declaration of solvency in Form No. SH.9 along with the fee and signed by at
+least two directors of the company, one of whom shall be the managing director, if any, and verified by an affidavit as
+specified in the said Form.
+(4)
+The letter of offer shall be dispatched to the shareholders or security holders immediately after filing the same with the
+Registrar of Companies but not later than twenty days from its filing with the Registrar of Companies.
+(5)
+The offer for buy-back shall remain open for a period of not less than fifteen days and not exceeding thirty days from the
+date of dispatch of the letter of offer.
+[Provided that where all members of a company agree, the offer for buy-back may remain open for a period less than
+fifteen days.]
+[Inserted by Notification No. G.S.R. 358(E), dated 29.3.2016 (w.e.f. 31.3.2014).]
+(6)
+In case the number of shares or other specified securities offered by the shareholders or security holders is more than
+the total number of shares or securities to be bought back by the company, the acceptance per shareholder shall be on
+proportionate basis out of the total shares offered for being bought back.
+(7)
+The company shall complete the verifications of the offers received within fifteen days from the date of closure of the
+offer and the shares or other securities lodged shall be deemed to be accepted unless a communication of rejection is
+made within twenty one days from the date of closure of the offer.
+(8)
+The company shall immediately after the date of closure of the offer, open a separate bank account and deposit therein,
+such sum, as would make up the entire sum due and payable as consideration for the shares tendered for buy-back in
+terms of these rules.
+(9)
+The company shall within seven days of the time specified in sub-rule (7)-
+(a)
+make payment of consideration in cash to those shareholders or security holders whose securities have been accepted;
+or
+(b)
+return the share certificates to the shareholders or security holders whose securities have not been accepted at all or the
+balance of securities in case of part acceptance.
+(10)
+The company shall ensure that-
+(a)
+the letter of offer shall contain true, factual and material information and shall not contain any misleading information and
+must state that the directors of the company accept the responsibility for the information contained in such document;
+(b)
+the company shall not issue any new shares including by way of bonus shares from the date of passing of special
+resolution authorising the buy-back till the date of the closure of the offer under these rules, except those arising out of
+any outstanding convertible instruments;
+(c)
+the company shall confirm in its offer the opening of a separate bank account adequately funded for this purpose and to
+pay the consideration only by way of cash;
+(d)
+Page 21/57
+----- PAGE 22 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+the company shall not withdraw the offer once it has announced the offer to the shareholders;
+(e)
+the company shall not utilise any money borrowed from banks or financial institutions for the purpose of buying back its
+shares; and
+(f)
+the company shall not utilise the proceeds of an earlier issue of the same kind of shares or same kind of other specified
+securities for the buy-back.
+(12)
+(a)
+The company, shall maintain a register of shares or other securities which have been bought-back in Form No. SH.10.
+(b)
+The register of shares or securities bought-back shall be maintained at the registered office of the company and shall be
+kept in the custody of the secretary of the company or any other person authorised by the board in this behalf.
+(c)
+The entries in the register shall be authenticated by the secretary of the company or by any other person authorised by
+the Board for the purpose.
+(13)
+The company, after the completion of the buy-back under these rules, shall file with the Registrar, and in case of a listed
+company with the Registrar and the Securities and Exchange Board of India, a return in the Form No. SH.11 along with
+the fee.
+(14)
+There shall be annexed to the return filed with the Registrar in Form No. SH.11, a certificate in Form No. SH.15 signed
+by two directors of the company including the managing director, if any, certifying that the buy-back of securities has
+been made in compliance with the provisions of the Act and the rules made thereunder.
+18.
+Debentures.
+(1)
+The company shall not issue secured debentures, unless it complies with the following conditions, namely:-
+(a)
+An issue of secured debentures may be made, provided the date of its redemption shall not exceed ten years from the
+date of issue.
+Provided that a company engaged in the setting up of infrastructure projects may issue secured debentures for a period
+exceeding ten years but not exceeding thirty years;
+(b)
+[ Such an issue of debentures shall be secured by the creation of a charge on the properties or assets of the company
+or its subsidiaries or its holding company or its associates companies, having a value which is sufficient for the due
+repayment of the amount of debentures and interest thereon.]
+[Substituted by Notification No. G.S.R. 704 (E), dated 19.7.2016 (w.e.f. 31.3.2014).]
+(c)
+the company shall appoint a debenture trustee before the issue of prospectus or letter of offer for subscription of its
+debentures and not later than sixty days after the allotment of the debentures, execute a debenture trust deed to protect
+the interest of the debenture holders ; and
+(d)
+the security for the debentures by way of a charge or mortgage shall be created in favour of the debenture trustee on-
+(i)
+[ any specific movable property of the company or its holding company or subsidiaries or associate companies or
+otherwise.]
+[Substituted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+(ii)
+any specific immovable property wherever situate, or any interest therein.
+Provided that in case of a non-banking financial company, the charge or mortgage under sub-clause (i) may be created
+Page 22/57
+----- PAGE 23 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+on any movable property.]
+[Provided further that in case of any issue of debentures by a Government company which is fully secured by the
+guarantee given by the Central Government or one or more State Government or by both, the requirement for creation
+of charge under this sub-rule shall not apply.
+Provided also that in case of any loan taken by a subsidiary company from any bank or financial institution the charge or
+mortgage under this sub-rule may also be created on the properties or assets of the holding company;]
+[Inserted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+(2)
+The company shall appoint debenture trustees under sub-section (5) of section 71, after complying with the following
+conditions, namely:-
+(a)
+the names of the debenture trustees shall be stated in letter of offer inviting subscription for debentures and also in all
+the subsequent notices or other communications sent to the debenture holders;
+(b)
+before the appointment of debenture trustee or trustees, a written consent shall be obtained from such debenture trustee
+or trustees proposed to be appointed and a statement to that effect shall appear in the letter of offer issued for inviting
+the subscription of the debentures;
+(c)
+A person shall not be appointed as a debenture trustee, if he-
+(i)
+beneficially holds shares in the company;
+(ii)
+is a promoter, director or key managerial personnel or any other officer or an employee of the company or its holding,
+subsidiary or associate company;
+(iii)
+is beneficially entitled to moneys which are to be paid by the company otherwise than as remuneration payable to the
+debenture trustee;
+(iv)
+is indebted to the company, or its subsidiary or its holding or associate company or a subsidiary of such holding
+company;
+(v)
+has furnished any guarantee in respect of the principal debts secured by the debentures or interest thereon;
+(vi)
+has any pecuniary relationship with the company amounting to two per cent. or more of its gross turnover or total income
+or fifty lakh rupees or such higher amount as may be prescribed, whichever is lower, during the two immediately
+preceding financial years or during the current financial year;
+(vii)
+is relative of any promoter or any person who is in the employment of the company as a director or key managerial
+personnel
+(d)
+the Board may fill any casual vacancy in the office of the trustee but while any such vacancy continues, the remaining
+trustee or trustees, if any, may act:
+Provided that where such vacancy is caused by the resignation of the debenture trustee, the vacancy shall only be filled
+with the written consent of the majority of the debenture holders.
+(e)
+any debenture trustee may be removed from office before the expiry of his term only if it is approved by the holders of
+not less than three fourth in value of the debentures outstanding, at their meeting.
+(3)
+It shall be the duty of every debenture trustee to-
+(a)
+satisfy himself that the letter of offer does not contain any matter which is inconsistent with the terms of the issue of
+Page 23/57
+----- PAGE 24 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+debentures or with the trust deed;
+(b)
+satisfy himself that the covenants in the trust deed are not prejudicial to the interest of the debenture holders;
+(c)
+call for periodical status or performance reports from the company;
+(d)
+communicate promptly to the debenture holders defaults, if any, with regard to payment of interest or redemption of
+debentures and action taken by the trustee therefor;
+(e)
+appoint a nominee director on the Board of the company in the event of-
+(i)
+two consecutive defaults in payment of interest to the debenture holders; or
+(ii)
+default in creation of security for debentures; or
+(iii)
+default in redemption of debentures.
+(f)
+ensure that the company does not commit any breach of the terms of issue of debentures or covenants of the trust deed
+and take such reasonable steps as may be necessary to remedy any such breach;
+(g)
+inform the debenture holders immediately of any breach of the terms of issue of debentures or covenants of the trust
+deed;
+(h)
+ensure the implementation of the conditions regarding creation of security for the debentures, if any, and debenture
+redemption reserve;
+(i)
+ensure that the assets of the company issuing debentures and of the guarantors, if any, are sufficient to discharge the
+interest and principal amount at all times and that such assets are free from any other encumbrances except those
+which are specifically agreed to by the debenture holders;
+(j)
+do such acts as are necessary in the event the security becomes enforceable;
+(k)
+call for reports on the utilisation of funds raised by the issue of debentures;
+(l)
+take steps to convene a meeting of the holders of debentures as and when such meeting is required to be held;
+(m)
+ensure that the debentures have been converted or redeemed in accordance with the terms of the issue of debentures;
+(n)
+perform such acts as are necessary for the protection of the interest of the debenture holders and do all other acts as
+are necessary in order to resolve the grievances of the debenture holders.
+(4)
+The meeting of all the debenture holders shall be convened by the debenture trustee on-
+(a)
+requisition in writing signed by debenture holders holding at least one-tenth in value of the debentures for the time being
+outstanding;
+(b)
+the happening of any event, which constitutes a breach, default or which in the opinion of the debenture trustees affects
+the interest of the debenture holders.
+(5)
+For the purposes of sub-section (13) of section 71 and sub-rule (1) a trust deed in Form No. SH.12 or as near thereto as
+possible shall be executed by the company issuing debentures in favour of the debenture trustees "Provided further that
+Page 24/57
+----- PAGE 25 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+in case of any issue of debentures by a Government company which is fully secured by
+the guarantee given by the Central Government or one or more State Government or by both, the requirement
+for creation of charge under this sub-rule shall not apply."
+Provided also that in case of any loan taken by a subsidiary company from any bank or financial institution the
+charge or mortgage under this sub-rule may also be created on the properties or assets of the holding company; [within
+three months of closure of the issue or offer.]
+[Substituted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+(6)
+The provisions of sub-rules (2) to (5) of rule 18 shall not be applicable to the public offer of debentures.
+(7)
+[ The company shall comply with the requirements with regard to Debenture Redemption Reserve (DRR) and
+investment or deposit of sum in respect of debentures maturing during the year ending on the 31st day of March of next
+year, in accordance with the conditions given below: -
+(a)
+Debenture Redemption Reserve shall be created out of profits of the company available for payment of dividend;
+(b)
+the limits with respect to adequacy of Debenture Redemption Reserve and investment or deposits, as the case may be,
+shall be as under; -
+(i)
+Debenture Redemption Reserve is not required for debentures issued by All India Financial Institutions regulated by
+Reserve Bank of India and Banking Companies for both public as well as privately placed debentures;
+(A)
+in case of public issue of debentures –
+(ii)
+For other Financial Institutions within the meaning of clause (72) of section 2 of the Companies Act, 2013, Debenture
+Redemption Reserve shall be as applicable to Non –Banking Finance Companies registered with Reserve Bank of India.
+(iii)
+For listed companies (other than All India Financial Institutions and Banking Companies as specified in sub-clause (i)),
+Debenture Redemption Reserve is not required in the following cases -
+A. for NBFCs registered with Reserve Bank of India under section 45-IA of the RBI Act, 1934 and for Housing Finance
+Companies registered with National Housing Bank;
+B. for other listed companies;
+(B)
+in case of privately placed debentures, for companies specified in sub-items A and B.
+(iv)
+for unlisted companies, (other than All India Financial Institutions and Banking Companies as specified in sub-clause (i))
+-
+(A)
+for NBFCs registered with RBI under section 45-IA of the Reserve Bank of India Act, 1934 and for Housing Finance
+Companies registered with National Housing Bank, Debenture Redemption Reserve is not required in case of privately
+placed debentures.
+(B)
+for other unlisted companies, the adequacy of Debenture Redemption Reserve shall be ten percent. of the value of the
+outstanding debentures;
+(v)
+In case a company is covered in item (A) or item (B) of sub-clause (iii) of clause (b) or item (B) of sub-clause (iv) of
+clause (b), it shall on or before the 30th day of April in each year, in respect of debentures issued by a company covered
+in item (A) or item (B) of sub-clause (iii) of clause (b) or item (B) of sub-clause (iv) of clause (b), invest or deposit, as the
+case may be, a sum which shall not be less than fifteen per cent., of the amount of its debentures maturing during the
+year, ending on the 31st day of March of the next year in any one or more methods of investments or deposits as
+provided in sub-clause (vi):
+Page 25/57
+----- PAGE 26 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+Provided that the amount remaining invested or deposited, as the case may be, shall not at any time fall below fifteen
+percent. of the amount of the debentures maturing during the year ending on 31st day of March of that year.
+(vi)
+for the purpose of sub-clause (v), the methods of deposits or investments, as the case may be, are as follows: -
+(A)
+in deposits with any scheduled bank, free from any charge or lien;
+(B)
+in unencumbered securities of the Central Government or any State Government;
+(C)
+in unencumbered securities mentioned in sub-clause (a) to (d) and (ee) of section 20 of the Indian Trusts Act, 1882;
+(D)
+in unencumbered bonds issued by any other company which is notified under sub-clause (f) of section 20 of the Indian
+Trusts Act, 1882:
+Provided that the amount invested or deposited as above shall not be used for any purpose other than for redemption of
+debentures maturing during the year referred above.
+(c)
+in case of partly convertible debentures, Debenture Redemption Reserve shall be created in respect of non-convertible
+portion of debenture issue in accordance with this sub-rule.
+(d)
+the amount credited to Debenture Redemption Reserve shall not be utilized by the company except for the purpose of
+redemption of debentures.]
+(8)
+(a)
+A trust deed for securing any issue of debentures shall be open for inspection to any member or debenture holder of the
+company, in the same manner, to the same extent and on the payment of the same fees, as if it were the register of
+members of the company; and
+(b)
+A copy of the trust deed shall be forwarded to any member or debenture holder of the company, at his request, within
+seven days of the making thereof, on payment of fee.
+(9)
+[ Nothing contained in this rule shall apply to any amount received by a company against issue of commercial paper or
+any other similar instrument issued in accordance with the guidelines or regulations or notification issued by the Reserve
+Bank of India.
+(10)
+In case of any offer of foreign currency convertible bonds or foreign currency bonds issued in accordance with the
+Foreign Currency Convertible Bonds and Ordinary Shares (Through Depository Receipt Mechanism) Scheme, 1993 or
+regulations or directions issued by the Reserve Bank of India, the provisions of this rule shall not apply unless otherwise
+provided in such Scheme or regulations or directions.]
+[Inserted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+(11)
+[ Nothing contained in this rule shall apply to rupee denominated bonds issued exclusively to overseas investors in
+terms of A.P. (DIR Series) Circular No. 17 dated September 29, 2015 of the Reserve Bank of India.]
+[Inserted by Notification No. 791(E), dated 12.8.2016 (w.e.f. 31.3.2014).]
+19.
+Nomination by securities holders.
+(1)
+Any holder of securities of a company may, at any time, nominate, in Form No. SH.13, any person as his nominee in
+whom the securities shall vest in the event of his death.
+(2)
+On the receipt of the nomination form, a corresponding entry shall forthwith be made in the relevant register of securities
+holders, maintained under section 88.
+Page 26/57
+----- PAGE 27 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(3)
+Where the nomination is made in respect of the securities held by more than one person jointly, all joint holders shall
+together nominate in Form No.SH.13 any person as nominee.
+(4)
+The request for nomination should be recorded by the Company within a period of two months from the date of receipt of
+the duly filled and signed nomination form.
+(5)
+In the event of death of the holder of securities or where the securities are held by more than one person jointly, in the
+event of death of all the joint holders, the person nominated as the nominee may upon the production of such evidence
+as may be required by the Board, elect, either-
+(a)
+to register himself as holder of the securities; or
+(b)
+to transfer the securities, as the deceased holder could have done.
+(6)
+If the person being a nominee, so becoming entitled, elects to be registered as holder of the securities himself, he shall
+deliver or send to the company a notice in writing signed by him stating that he so elects and such notice shall be
+accompanied with the death certificate of the deceased share or debenture holder(s).
+(7)
+All the limitations, restrictions and provisions of the Act relating to the right to transfer and the registration of transfers of
+securities shall be applicable to any such notice or transfer as aforesaid as if the death of the share or debenture holder
+had not occurred and the notice or transfer were a transfer signed by that shareholder or debenture holder, as the case
+may be.
+(8)
+A person, being a nominee, becoming entitled to any securities by reason of the death of the holder shall be entitled to
+the same dividends or interests and other advantages to which he would have been entitled to if he were the registered
+holder of the securities except that he shall not, before being registered as a holder in respect of such securities, be
+entitled in respect of these securities to exercise any right conferred by the membership in relation to meetings of the
+company:
+Provided that the Board may, at any time, give notice requiring any such person to elect either to be registered himself
+or to transfer the securities, and if the notice is not complied with within ninety days, the Board may thereafter withhold
+payment of all dividends or interests, bonuses or other moneys payable in respect of the securities, as the case may be,
+until the requirements of the notice have been complied with.
+(9)
+A nomination may be cancelled, or varied by nominating any other person in place of the present nominee, by the holder
+of securities who has made the nomination, by giving a notice of such cancellation or variation, to the company in Form
+No. SH.14.
+(10)
+The cancellation or variation shall take effect from the date on which the notice of such variation or cancellation is
+received by the company.
+(11)
+Where the nominee is a minor, the holder of the securities, making the nomination, may appoint a person in [Form No.
+SH. 13]
+[Substituted by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+specified under sub-rule (1), who shall become entitled to the securities of the company, in the event of death of the
+nominee during his minority.
+Form No. SH-1|-
+Share Certificate|-
+[Pursuant to sub-section (3) of section 46 of the Companies Act, 2013 and rule 5(2) of the Companies (Share Capital
+and Debentures) Rules 2014]|-
+...............Limited/Private Limited...............(Corporate Identification Number)(Incorporated under...the Companies Act,
+Page 27/57
+----- PAGE 28 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+1956/2013)Registered Office.........................................................................|-
+This is to certify that the person(s) named in this Certificate is/are the Registered Holder(s) of the within mentioned
+share(s) bearing the distinctive number(s) herein specified in the above named Company subject to the Memorandum
+and Articles of Association of the Company and the amount endorsed herein has been paid up on each such share.
+ENQITY SHARES EACH OF RUPEES.................................................(Nominal value)AMOUNT PAID-UP PER SHARE
+RUPEES..................................................................|-
+|-
+Register Folio No:        Certificate No:Name(s) of the Holder(s):No. of shares held:...................................   
+.......................................................(in words)      (in figures)Distinctive
+No.(s):Form................................................To........................................(Both inclusive)|-
+|-
+Given under the common seal of the Company this............day of.........20.....|-
+(1) Director:(2)Director:(3)Secretary/any other authorised person:|-
+|-
+Note :No transfer of the Share(s) comprised in the Certificate and be registered unless accompanied by this Certificate.
+Form No. SH-2|-
+Register of Renewed and Duplicate Share Certificates|-
+[Pursuant to sub-section (3) of section 46 of the Companies Act, 2013 and rule 6(3)(a)  the Companies (Share Capital
+and Debentures) Rules 2014]|-
+{|
+S.No.
+Filo No.
+Name of the person(s) to whom Renewed/Duplicate
+share certificate is issued
+Date of approval of issue of Renewed/Duplicate
+share certificate
+Class of shares
+1
+2
+3
+4
+5
+|-
+| {|
+|-
+| Date of issue of original share certificate
+| Original share certificate number
+| Total number of shares in the Original Share
+Certificate
+| Distinctive No. of shares
+| Date of issue of Renewed/Duplicate Share
+Certificate
+|-
+| From
+| To
+|-
+| 6
+| 7
+| 8
+| 9
+| 10
+Page 28/57
+----- PAGE 29 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+|-
+|
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| Reasons for issue of Renewed/ Duplicate Share
+Certificate
+| Number of the Renewed share certificate, if
+applicable
+| Total number of shares in the Renewed/Duplicate
+share Certificate
+| Reference to entry in Register of Members
+| Remarks
+|-
+| 11
+| 12
+| 13
+| 14
+| 15
+|-
+|
+|
+|
+|
+|
+|}
+|}
+Form No. SH-3|-
+Register of Sweat Equity Shares|-
+[Pursuant to sub-section 54 of the Companies Act, 2013 and rule 8(14) of the Companies (Share Capital and
+debentures) Rules 2014]|-
+{|
+S.No.
+Reference to entry in register of member
+Name of the allottee
+Status of the allottee ? whether director
+or employee
+Date of passing of Board resolution
+1
+2
+3
+4
+5
+|-
+| {|
+|-
+Page 29/57
+----- PAGE 30 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| Date of the special resolution authorizing the
+issue of  sweat equity shares
+| Date of issue of sweat equity shares
+| Number of sweat equity shares issued
+| Certificate No./Folio No.
+|-
+| 6
+| 7
+| 8
+| 9
+|-
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| Face value of the share
+| Price at which the shares are issued
+| Amount to be treated as paid up
+| Total consideration paid, if any, by the employee
+/ director
+|-
+| Consideration received in cash
+| Particulars of consideration other than cash
+|-
+| 10
+| 11
+| 12
+| 13
+| 14
+|-
+|
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| Lock in period
+| The date of expiry of lock-in-period
+| Remarks, if any
+| Date of Joining
+| Fair value obtained by Valuer
+| Basis of Valuation
+| Name of valuer
+|-
+Page 30/57
+----- PAGE 31 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| 15
+| 16
+| 17
+| 5
+| 12
+| 13
+| 14
+|-
+|
+|
+|
+|
+|
+|
+|
+|}
+|}
+Form No. SH-4|-
+Securities Transfer Form|-
+[Pursuant to section 56 of the Companies Act, 2013 and sub-rule (1) of rule 11 of the Companies (Share Capital and
+debentures) Rules 2014]|-
+Date of execution...................|-
+{|
+FOR THE CONSIDERATIONStated below the
+?Transferor(s)? named do hereby transfer to the
+?Transferee(s)? named the securities specified below
+subject to the conditions on which the said securities are now
+held by the Transferor(s) and the Transferee(s) do hereby agree
+to accept and hold the said securities subject to the conditions
+aforesaid.
+|-
+| {|
+|-
+| CIN:Name of the company (in full)Name of the Stock Exchange where the company is listed, if any:
+|}
+|-
+| DESCRIPTION OF SECURITIES:
+|-
+| {|
+|-
+| Kind / Class of  securities
+(1)
+| Nominal value of each unit of security
+(2)
+| Amount called up per unit to security
+(3)
+| Amount paid up per unit of security
+(4)
+|-
+|
+|
+Page 31/57
+----- PAGE 32 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+|
+|
+|-
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| No. of securities being transferred
+| Consideration received (Rs.)
+|-
+| In figures
+| In words
+| In words
+| In figures
+|-
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| Distinctive number
+| From
+|
+|
+|
+|
+|
+|
+|-
+| To
+|
+|
+|
+|
+|
+|
+|-
+| Corresponding Certificate Nos.
+|
+|
+|
+|}
+|-
+| {|
+Page 32/57
+----- PAGE 33 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+|-
+| Transferor's Particulars-
+|-
+| Registered Folio Number:
+1.
+2.
+3.
+| Name(s) in full
+| Signature(s)
+|}
+|-
+| {|
+|-
+| I, hereby confirm that
+the Transferor has signed signed before me.
+|-
+| Signature of witness
+|-
+| Name and address
+|}
+|-
+| Transferee's Particulars-|-
+| {|
+|-
+| Name in full
+| Father's/ Mother's / Spouse name
+| Address & E-mail id
+| Occupation
+| Existing folio No., if any.
+| Signature
+|-
+| (1)
+| (2)
+| (3)
+| (4)
+| (5)
+| (6)
+|-
+| 1.
+2.
+3.
+|
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| Folio No. of Transferee
+Page 33/57
+----- PAGE 34 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| Specimen Signature of Transferee
+|-
+| ?........................................
+| ?.................................................
+|-
+| Value of stamp affixed ?...(Rs.)
+|
+|-
+| Enclosure:
+|
+|-
+|
+(1)
+| Certificate of shares or debentures or other
+securities
+|-
+|
+(2)
+| If no certificate is issued, letter of allotment.
+|-
+|
+(3)
+| Others,
+specify...................................
+|}
+|-
+| Stamps
+|}
+{|
+For office use only
+Checked
+by..............................................................
+Signature tallied
+by..................................................
+Entered in the Register of Transfer on.................vide
+Transfer No......................
+Approval Date.................................
+Power of attorney/Probate/Death Certificate/Letter of
+Administration Registered on............at No..............
+|}
+.................    ...........................................................
+On the reverse page of the certificate
+Name of the Transferor
+Name of the Transferee
+No. of shares
+Date of
+?...................................................
+?...................................................
+?........................
+?........................
+Transfer Signature of the
+Page 34/57
+----- PAGE 35 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+authorized signatory
+?.................
+?................................................................................
+Form No. SH-5|-
+Notice for transfer of partly paid securities|-
+[Pursuant to sub-section (3) of section 56 of the Companies Act, 2013 and sub-rule (3) of rule 11 the Companies (Share
+Capital and debentures) Rules 2014]|-
+{|
+To-
+?....................
+?....................
+(Name and address of
+transferee)
+Subject: Transfer of partly paid securities
+Notice is hereby given
+that ana application has been made by the transferor for the
+transfer of securities of the above named company whose
+particulars are given hereunder-
+Name &  Address of
+the Transferor:
+Name &  Address of
+the Transferee:
+Class / Kind of
+securities:
+Number of securities:
+Distinctive numbers of
+the Securities:
+Securities Certificate
+Number:
+Nominal value of each
+security:
+Issue price of each
+security:
+Amount called on each
+security:
+Amount paid on each
+security
+Amount called and due
+on each security:
+Amount uncalled on each
+security:
+Total amount called and
+due on the total number of securities lodged for transfer:
+Total amount uncalled
+on the total number of securities lodged for transfer:
+As required under
+sub section (3) of section 56 of the Companies Act, 2013, notice
+is hereby given by the Company to the transferee on this
+Day______of (month) of_______(year) that the above mentioned
+securities are partly paid and the transferee shall be liable to
+pay the balance amount unpaid on the securities.
+Page 35/57
+----- PAGE 36 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+The transferee is
+hereby requested to submit his / her objection, if any, within
+two from the date of receipt of this notice in the absence of
+which it shall be presumed that he / she has no the transfer and
+the securities shall be transferred in his / her name without any
+further correspondence.
+Signature:
+Form No. SH-6|-
+Register of Employee Stock Options|-
+[Pursuant to clause (b) of sub-section (1) of section 62 of the Companies Act, 2013 and rule 12(10) the Companies
+(Share Capital and debentures) Rules 2014]|-
+Name of Company
+Registered office address
+Date of special resolution............
+{|
+S.No.
+Name of the grantee
+Number of options granted
+Date on which options vested
+Exercised period
+1
+2
+3
+4
+5
+|-
+| {|
+|-
+| Date of which options exercised
+| Options exercised
+| Exercise price
+| Number of shares arising as result of exercise of option
+|-
+| 6
+| 7
+| 8
+| 9
+|-
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| Folio No. of Register of members having respective entry
+| Lock in period if any
+| Option lapsed, if any
+| Total number of options in force
+| Amount forfeited / refunded if option is not exercised
+Page 36/57
+----- PAGE 37 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+|-
+| 10
+| 11
+| 12
+| 13
+| 14
+|-
+|
+|
+|
+|
+|
+|}
+|-
+| {|
+|-
+| Any variation of terms of the scheme and its
+effects
+| Signature
+| Remarks
+|
+|
+|-
+| 15
+| 16
+| 17
+|
+|
+|-
+|
+|
+|
+|
+|
+|}
+FORM NO.SH.7[Pursuant to section 64 (1) of the Companies Act, 2013 and pursuant to Rule 15 of the Companies
+(Share Capital & Debentures) Rules, 2014]|
+Notice to Registrar of any alteration of share capital
+Form languageEnglishHindiRefer the instruction kit for filing the form.|-
+1.| (a) *Corporate identity number (CIN) of company| | | |-
+| (b) Global location number (GLN) of company| | | |-
+2.| (a) Name of the company| |-
+| (b) Address of the registered office of the company| |-
+| (c) *e-mail ID of the company| |-
+3.| *Purpose of the form|-
+| Increase in share capital independently by company| Increase in number of members|-
+| Increase in share capital with Central Government order| Consolidation or division etc.|-
+| Redemption of redeemable preference shares|-
+4.| In accordance with section 61(1) of the Companies Act, 2013 that byOrdinarySpecial resolution at|-
+| the meeting of the members of the company held on(DD/MM/YYYY)|-
+| Service request number(SRN)of related Form MGT.14|-
+Page 37/57
+----- PAGE 38 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| (a) (i) The authorised share capital of the company has been increased from|-
+| Existing| (in Rs.)|-
+| Revised| (in Rs.)|-
+| Difference (addition)| (in Rs.)|-
+| (b) (i) The number of members in the company has been increased from|-
+| Existing|
+| Revised|
+| Difference (addition)|
+| (ii) Maximum number of members excluding past and present employee(s)| |-
+5.| (a) In accordance with sub section (6) of Section 62 of the Companies Act, 2013, the authorised capital of the
+company has been increased consequent upon an order numberdated(DD/MM/YYYY) of the Union Government State
+Government ofunder sub section (4) of section 62 for conversion ofdebenturesloan into shares|-
+| Existing authorised capital| (in Rs.)|-
+| Revised authorised capital| (in Rs.)|-
+| Difference (addition)| (in Rs.)|-
+| Date of passing the order by Tribunal (if applicable)| |-
+| Date of receipt of such order| |-
+| (b) A copy of the aforesaid order was received by the company from the Central Government on| |-
+6.| The additional capital (taking into consideration the addition above) is divided as follows|-
+| (a) Number of equity shares| | Total amount of equity shares (in Rs.)| |-
+| (b) Number of preference shares| | Total amount of preference shares (in Rs.)| |-
+| Total addition (in Rs.)| |-
+| The conditions )e.g. voting rights, dividend rights, winding-up rights, etc) subject to which new shares have been
+issued, are as follows|-
+| |-
+7.| Notice is hereby given that|-
+| In accordance with section 61 of the Companies Act, 2013 that the company has on(DD/MM/YYYY)|-
+| (a)Consolidated| |-
+| (b)Converted| |-
+| (c)Reconverted| |-
+| (d)Subdivided| |-
+| (e)Cancelled| |-
+| (f)Reclassified| |-
+| Date of passing the order by Tribunal (if applicable)| |-
+| Date of receipt of such order| |-
+8.| In accordance with section 55, by a resolution of the Board of Directors at the meeting held on the company has
+redeemed redeemable preference shares, the particulars of which are as under|-
+| (a) Description of preference shares to be redeemed|-
+| |-
+| (b) Date of issue of series of shares| |-
+| (c) Date on which shares were fully paid up| |-
+| (d) Due date of redemption of shares| |-
+| (e) Actual date of redemption of shares| |-
+| (f) Amount payable on redemption Amount (in Rupees)| |-
+| i. Number of preference shares| |-
+| ii. Face value per share| | iii Carrying rate of dividend per share| |-
+| iv. Total nominal value| |-
+| v. Total premium paid on redemption, if any| |-
+| (g) Preference shares redeemed out of| | Amount (in Rupees)|-
+| Profits of the company| |-
+| Proceeds of fresh issue of shares| |-
+Page 38/57
+----- PAGE 39 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+9.| Revised capital structure after taking into consideration the changes vide points 4, 5, 6, 7 and 8 above|-
+| (a) Authorised capital of the company| (In Rs.)| |-
+| Break up of Authorised capital|-
+| Number of equity shares| | Total amount of equity shares (in Rs.)| |-
+| Nominal amount per equity share| |-
+| Number of Preference shares| | Total amount of Preference shares (in Rs.)| |-
+| Nominal amount per Preference share| |-
+| Number of unclassified shares| | Total amount of unclassified shares (in Rs.)| |-
+| (b) Issued capital of the company| (In Rs.)| |-
+| Break up of issued capital|-
+| Number of equity shares| | Total amount of equity shares (in Rs.)| |-
+| Nominal amount per equity share| |-
+| Number of Preference shares| | Total amount of Preference shares| |-
+| Nominal amount per Preference share| |-
+| (c) Subscribed capital of the company| (In Rs.)| |-
+| Break up of  Subscribed capital|-
+| Number of equity shares| | Total amount of equity shares (in Rs.)| |-
+| Nominal amount per equity share| |-
+| Number of Preference shares| | Total amount of Preference shares (in Rs.)| |-
+| Nominal amount per Preference share| |-
+| (d) Paid up capital of the company| (In Rs.)| |-
+| Break up of  Paid up capital|-
+| Number of equity shares| | Total amount of equity shares (in Rs.)| |-
+| Nominal amount per equity share| |-
+| Number of Preference shares| | Total amount of Preference shares (in Rs.)| |-
+| Nominal amount per Preference share| |-
+10.| *Whether articles of association have been altered| YesNo|-
+11.| Particulars of payment of stamp duty (Refer instruction kit for details before filling the particulars)|-
+| (a) State or Union territory in respect of which stamp duty is paid or to be paid| | |-
+| (b) *Whether stamp duty is to be paid electronically through MCA21 system| YesNoNot applicable|-
+| (i) Details of stamp duty to be paid|-
+| Amount of stamp duty to be paid| (in Rs.)| |-
+| (ii) Provide details of stamp duty already paid|-
+{|
+Type of document/Particulars
+Form SH.7
+Total amount of stamps or stamp paper (in Rs.)
+Mode of payment of stamp duty
+Name of vendor or Treasury or Authority or any
+other Competent agency authorised to collect stamp duty or to
+sell stamp  papers or to emboss the documents or to dispense
+stamp vouchers on behalf of the Government
+Serial number of embossing or stamps or stamp paper or
+treasury challan number
+Registration number of vendor
+Date of purchase of stamps or stamp paper or payment of stamp
+duty
+(DD/MM/YYYY)
+Place of purchase of stamps or stamp paper or payment of stamp
+duty
+|-
+Page 39/57
+----- PAGE 40 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| 12.| In case maximum stamp duty payable has already been paid, provide details of form(s) filled earlier (SRN or
+receipt number, form number, date of filling, amount of stamp duty paid)|-
+| | |-
+| Declaration|-
+| I*,| |-
+| a*| (Drop down) {Values: Director/Manager/Company secretary /CEO/CFO} of the company declare that all the
+requirements of the Companies Act, 2013 and the rules made thereunder have been complied with. I am authorised by
+the board of direcotes to give this declaration and to sign and submit this Form. It is further declared and verified that|-
+| | (h) Whatever is stated in this form and in the attachments thereto  is true, correct and complete and no information
+material to the subject matter of this form has been suppressed or concealed and is as per the original records
+maintained by the promoters subscribing to the Memorandum of Association and Articles of Association.|-
+| | (i) All the required attachments have been completely, correctly and legible attached to this form.|-
+| | (j) I further declare that the company has paid correct stamp duty as per applicable Stamp Act.|-
+| | *To be digitally signed by| |-
+| | *Designation| |-
+| | *Director identification number of the director; or DIN or PAN of the manager of CEO or CFO; or Membership number
+of the company secretary| |-
+| | Attachment|-
+| | 1. Copy of the resolution for alteration of capital;| |-
+| | 2. Copy of order of Central Government;| |-
+| | 3. Copy of the order of the Tribunal;| |-
+| | 4. Copy of Board resolution authorising redemption of redeemable preference shares;| |-
+| | 5. Altered memorandum of association;| |-
+| | 6. Altered articles of association;| |-
+| | 7. Workings for calculation of ratios (in case of conversion;)| |-
+| | 8. Optional attachment(s), if any| |-
+| | Note: Attention is drawn to provisions of Section 448 and 449 which provide for punishment for false statement and
+punishment for false evidence respectively.|-
+| | | | | |-
+| | |-
+| | For office use only:| | |-
+| | e-Form Service request number (SRN)| | eForm filing date| (DD/MM/YYYY)|-
+| | This e-Form is hereby registered|-
+| | Digital signature of the authorising officer| | |-
+| | Date of signing| | (DD/MM/YYYY)
+|}
+FORM NO.SH.8[Pursuant to section 68 (1) of the Companies Act, 2013 and Rule 17 (2) of the Companies (Share
+Capital & Debentures) Rules, 2014]|
+Letter of Offer
+| Form languageEnglishHindi
+| Refer the instruction kit for filing the form.
+1.| (a) *Corporate identity number (CIN) of the company| |
+| (b) Global location number (GLN) of the company| |
+2.| (a) Name of the company|
+| (b) Address of registered office of the company
+|
+| (c) e-mail ID of the company|
+| (d) Date of Incorporation| |
+3.| Main division of Industrial activity of the company
+| Description of the main division| |
+|
+Page 40/57
+----- PAGE 41 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+4.| Particulars of directors and key managerial personnel| |
+DIN/PAN
+Full Name
+Designation
+|}
+5.| Present Capital structure of the company
+{|
+(a)
+Authorised capital of the company in (Rs.)
+(i) Number of equity shares
+Nominal amount per equity share
+Total amount of equity shares (in Rs.)
+(ii) Number of preference shares
+Nominal amount per Preference share
+Total amount of preference shares (in Rs.)
+(b)
+Subscribed capital of the company (in Rs.)
+(i) Number of equity shares
+Nominal amount per equity share
+Total amount of equity shares (in Rs.)
+(ii) Number of preference shares
+Nominal amount per preference share
+Total amount of preference shares (in Rs.)
+|}
+|}
+6.| Details of last buy back
+| (a) Date of completion of last buy-back| |
+| (b) Percentage of the share capital back to the total paid up share capital and free reserves|
+7.| *Amount as on| (in Rupees)| | (in %)
+| a. *Free reserves| | |
+| b. *Securities Premium account| | |
+| c. *Proceeds out of fresh issue of any shares or other specified securities| | |
+| d. *Debt| Secured| | |
+| | UnSecured| | |
+| | Total| | |
+8.| *Source of the buy-back would be| Free reservesSecurities premium
+| Proceeds out of fresh issue of shares or other specified securitiesDebt
+9.| (a) *Date of Board of Directors' resolution authorising buy-back of securities|
+| (b) (i) Date of passing the special resolution|
+| (ii) Service request number of Form MGT.14|
+10.| *Shareholding of the promoters, directors and key manager personnel of the company and also the directors of such
+company which is promoter of the company.
+S.No.
+Particulars
+Equity shares
+Preference redeemable
+Preference convertible
+Other, If any
+Total
+1
+Number of shares as on the date preceding to the
+Page 41/57
+----- PAGE 42 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+date of board meeting in which the buy-back got approved
+(Number)
+(Number)
+(Number)
+(Number)
+(Number)
+2
+Shares purchased during the period of 12 months
+preceding the date of board meeting approving buy-back
+(Number)
+(Number)
+(Number)
+(Number)
+(Number)
+3
+Shares purchased during form date of board
+meeting approving buy-back till the date of letter of offer
+(Number)
+(Number)
+(Number)
+(Number)
+(Number)
+4
+Maximum price paid for the above
+(Amount)
+(Amount)
+(Amount)
+(Amount)
+(Average amount)
+5
+Date on which the above maximum price was paid
+(Date)
+(Date)
+(Date)
+(Date)
+-
+6
+Shares sold during the period of 12 months
+preceding the date of board meeting approving bu-back
+(Number)
+(Number)
+(Number)
+(Number)
+(Number)
+7
+Shares sold during the period from date of board
+meeting approving buy-back till the date of letter of offer
+(Number)
+(Number)
+(Number)
+(Number)
+Page 42/57
+----- PAGE 43 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(Number)
+8
+Maximum price received for the above
+(Amount)
+(Amount)
+(Amount)
+(Amount)
+(Average amount)
+9
+Date on which the above maximum price was
+received
+(Date)
+(Date)
+(Date)
+(Date)
+-
+10
+Balance of number of shares held as on the date
+of letter of offer
+(Number)
+(Number)
+(Number)
+(Number)
+(Number)
+11.| *The shareholding pattern before buy-back of shares or other specified securities:
+S.No.
+Category of security holders
+Securities held before buy-back as on
+1
+Government (Central and State)
+2
+Government Companies
+3
+Public financial institutions
+4
+Nationalized or other bank(s)
+5
+Mutual Funds
+6
+Venture Capital
+7
+Foreign holdings (Foreign Institutional, Foreign
+companies, Non-resident Indians , Foreign Financial institutions
+or Overseas corporate bodies)
+8
+Bodies Corporate (not mentioned above)
+9
+Directors or relatives of directors
+10
+Other top fifty shareholders (other than mentioned
+above)
+Page 43/57
+----- PAGE 44 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+11
+Others
+12
+Total
+Total number of shareholders
+12.| *Particulars of the securities authorised to be bought-back maximum Number of the shares or other securities|
+| *Minimum Number of the shares or other securities|
+| *Minimum Number of the shares or other securities|
+| Nominal value per security| | Total amount of buy back|
+| Percentage of total share capital and free reserves proposed to be bought back|
+13.| *Objective of the buy-back
+|
+14.| *Mode of buy-back
+| Existing security-holders on a proportionate basis
+| Open market
+| Odd-lots of listed securities
+| Employees' stock option
+| Sweet equity
+| Any other mode
+15.| *Article number authorising buy-back| |
+16| (a) *Date of opening of the offer| |
+| (b) *Proposed completion date of buy-back| |
+| (c) *Proposed date of extinguishment of the certificates| |
+17.| Other terms and conditions of offer, if any
+|
+18.| *Expected capital structure post buy-back (assuming maximum securities bought back as per plan)
+{|
+(a)
+Authorised capital of the company in (Rs.)
+(i) Number of equity shares
+Nominal amount per equity share
+Total amount of equity shares (in Rs.)
+(ii) Number of preference shares
+Nominal amount per Preference share
+Total amount of preference shares (in Rs.)
+(b)
+Paid up capital of the company (in Rs.)
+(i) Number of equity shares
+Nominal amount per equity share
+Total amount of equity shares (in Rs.)
+(ii) Number of preference shares
+Nominal amount per preference share
+Total amount of preference shares (in Rs.)
+|}
+19.| *Expected capital structure post buy-back (assuming minimum securities bought back as per plan)
+{|
+(a)
+Authorised capital of the company in (Rs.)
+(i) Number of equity shares
+Nominal amount per equity share
+Total amount of equity shares (in Rs.)
+Page 44/57
+----- PAGE 45 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+(ii) Number of preference shares
+Nominal amount per Preference share
+Total amount of preference shares (in Rs.)
+(b)
+Paid up capital of the company (in Rs.)
+(i) Number of equity shares
+Nominal amount per equity share
+Total amount of equity shares (in Rs.)
+(ii) Number of preference shares
+Nominal amount per preference share
+Total amount of preference shares (in Rs.)
+|}
+20.| (a) *Debt to capital and free reserves ratio allowed to company|
+| (b) *Pre buy-back debt to capital and free reserve ratio|
+| (c) *Expected post buy-back debt to capital and free reserve ratio|
+| (d) Details of Government notification for the ratio higher than 2:1, if any|
+|
+| Attachments| | List of Attachments
+| 1. *Details of the promoters of the company| | |-
+| 2. *Declaration by auditor(s)| |-
+| 3. *Copy of the board resolution| |-
+| 4. *Copy of the notice issued under section 68(3) along with the explanatory Statement thereto,| |-
+| 5. *Audited financial statements of last three years| |-
+| 6. Buy back details of last three years| |-
+| 7. Management discussion and analysis (in case of listed company);| |-
+| 8. List of holding and subsidiary companies of the company;| |-
+| 9. Unaudited financial statement (if applicable);| |-
+| 10. Statutory approvals received (if any);| |-
+| 11. Details of the auditor, legal advisers, bankers and trustees (if any);| |-
+| 12. Optional attachments (if any)| |-
+| | |
+| Declaration
+| It is hereby declared that all the attachments and the information given in this form are true and correct to the best of
+my knowledge. Further declared that:
+| (a)| All requirements of section 68(3) have been complied with.
+| (b)| No defaults are subsisting in repayment of deposits or interest payment there no, redemption of debentures or
+payment of interest thereon or redemption of preference shares or payment of dividend to any shareholder or repayment
+of any term loan or interest payable thereon to any financial institutions or banking company and the company is not
+prohibited for buy-back by operation of law within the meaning of section 70 of the Act:
+| (c)| The Board of directors has a made a full enquiry into the affairs and prospects of the company and that they have
+formed the opinion:
+| i.| as regards its prospects for the year immediately following the date of the letter of offer that, having regard to their
+intentions with respect to the management of the company's business during that year and to the amount and character
+of the financial resources which will in their view be available to the company during that year, the company will be able
+to meet its liabilities as and when they fall due and will not be rendered insolvent within a period of one year from that
+date:
+| | and
+| ii.| in forming their opinion for the above purpose, the directors have taken into account the liabilities as if the company
+were being wound up under the provisions of the Companies Act, 2013 (including prospective and contingent liabilities)
+| *To be digitally signed by
+| Designation
+Page 45/57
+----- PAGE 46 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+|
+| *DIN| | | |
+| Designation Director
+| *DIN| | | |
+| Note: Attention is drawn to provisions of Section 448 and 449 of the Companies Act, 2013 which provide for
+punishment for false statement/ certificate and punishment for false evidence respectively.
+| | |
+.
+| For office use only:|
+| eForm Service request number (SRN)| | eForm filing date| | (DD/MM/YYYY)
+| This e-Form is hereby registered
+| Digital signature of the authorising officer| |
+| Date of signing| | (DD/MM/YYYY)
+FORM NO.SH.9[Pursuant to section 68 (6) of the Companies Act, 2013 and Rule 17 (3) of the Companies (Share
+Capital & Debentures) Rules, 2014]|
+Declaration of Solvency
+Form languageEnglishHindiRefer the instruction kit for filing the form.|-
+1.| (a) *Corporate identity number (CIN) of company| | | |-
+| (b) Global location number (GLN) of company| | | |-
+2.| (a) Name of the company| |-
+| (b) Address of the registered office of the company|-
+| |-
+| (c) *e-mail ID of the company| |-
+3.| (a) *Whether the company is listed| YesNo|-
+| (b) Name of the stock exchange(s)|-
+| |-
+| (c) Date of listing(s)| |-
+| (d) Name of the merchant banker appointed|-
+| |-
+4.| (a) *Date of Board of Directors' resolution authorising the buy-back of securities| |-
+| (b) (i) *Date of Special resolution of members authorising the buy-back of securities| |-
+| (ii) Service request number of Form no. MGT.14| |-
+| (iii) Date of filing  form no. MGT.14| |-
+| |-
+| Attachments|-
+| (1) *Copy of board resolution| |-
+| (2) *Statement of assets and liabilities| |-
+| (3) *Auditor's report| |-
+| (4) *Affidavit as per rule 17(3)| |-
+| (5) Copy of Special Resolution| |-
+| (6) Optional Attachments, if any| |-
+| |-
+| Declaration|-
+| We solemnly declare that we have made a full enquiry into the affairs of the company including the assets and liabilities
+of this company and have noted that the shareholders by a special resolution datedAnd/or the resolution passed by the
+Board at its meeting held onhave approved the buy-back of*(in numbers)|-
+| | (in words) shares or other specified securities as per the provisions of section 68 of the Companies Act, 2013.|-
+| Verified this day the*day of*|-
+| |-
+| To be digitally signed by two directors, one of whom shall be the Managing director (if any)|-
+| *Designation (Drop down)| |-
+Page 46/57
+----- PAGE 47 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| (Values : Director, Managing Director)|-
+| *DIN| |-
+| *Designation| |-
+| Director|-
+| *DIN| |-
+|-
+| Note : Attention is drawn to provisions of Section 448 and 449 which provide for punishment for false statement /
+certificate and punishment for false evidence respective|-
+| |-
+| | | | |-
+|-
+| For office use only:| | |-
+| e-Form Service request number (SRN)| | eForm filing date| (DD/MM/YYYY)|-
+| This e-Form is hereby registered|-
+| Digital signature of the authorising officer| | |-
+| Date of signing| | (DD/MM/YYYY)|-
+|
+Form No. SH-10|-
+Register of shares or other securities bought-back|-
+[Pursuant to sub-section (9) of section 68 of the Companies Act, 2013 and rule 17(12) of the Companies (Share Capital
+and Debentures) Rules 2014]|-
+| Name of the Company :|-
+| Registered address :|-
+| 1.| Date of passing of special resolution at the meeting of the members authorising buy-back of securities :|-
+| 2.| Date of approval by the Board:|-
+| 3.| Number, price and amount of shares or other specified securities authorised to be bought back :|-
+| 4.| Date of opening and closing of buy-back offer :|-
+| 5.| Date by which buy-back was completed :|-
+| 6.| Description of shares or other specified securities bought back by the company:|-
+{|
+S.No.
+Folio number / DP Id / client ID number or
+certificate number of securities bought-back
+Name of last holder of securities
+*Category to which they belong
+Date of buy-back
+(1)
+(2)
+(3)
+(4)
+(5)
+|-
+| |-
+| {|
+|-
+| Number of securities bought-back
+| **Mode of buy-back
+| Nominal Value of securities
+| Price at which securities are bought back
+| Date of payment
+|-
+Page 47/57
+----- PAGE 48 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| (6)
+| (7)
+| (8)
+| (9)
+| (10)
+|-
+|
+|
+|
+|
+|
+|}
+|-
+| |-
+| {|
+|-
+| Amount paid for bought back securities
+| Cumulative total of securities bought-back
+| Date of / cancellation / extinguishment and
+physical destruction of securities bought-back
+| Reference to entry in Register of members
+| Remarks
+|-
+| (11)
+| (12)
+| (13)
+| (14)
+| (15)
+|-
+|
+|
+|
+|
+|
+|}
+|-
+| |-
+| | *Indicate the category of securities that have been bought back|-
+| | | Preference shares|-
+| | | Equity shares|-
+| | | Employees' Stock Option Shares|-
+| | | Employees' Stock Option Shares|-
+| | **Indicate Whether the securities have been bought back from|-
+| | | the existing security-holders on a proportionate basis|-
+| | | the open market|-
+| | | odd-lots of listed securities|-
+| | | Employees' Stock Option|-
+| | | Sweat equity|-
+| | | any other mode, if so indicate the mode|-
+| |-
+| 2.| Other relevant details, if any.|-
+Page 48/57
+----- PAGE 49 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| |-
+| Place:| Signature of the authorised signatory|-
+| |-
+| Date:| Name of the above person:Designation:|-
+|
+|}
+FORM NO.SH.11[Pursuant to section 68 (10) of the Companies Act, 2013 and pursuant to Rule 17(13) of the
+Companies (Share Capital & Debentures) Rules, 2014]|
+Return in respect of buy-back of securities
+Form languageEnglishHindiRefer the instruction kit for filing the form.|-
+1.| (a) *Corporate identity number (CIN) of company| | | |-
+| (b) Global location number (GLN) of company| | | |-
+2.| (a) Name of the company| |-
+| (b) Address of the registered office of the company| |-
+| (c) *e-mail ID of the company| |-
+3.| *Income-tax permanent account number (Income-tax PAN)| |-
+4.| *Whether the company is listed| YesNo|-
+| If listed, name(s) of stock exchange(s) where listed|-
+| |-
+| Date(s) of listing|-
+| |-
+5.| Name of the merchant banker appointed by company|-
+| |-
+6.| *Details of paid-up capital as on| | (DD/MM/YYYY)| [As per latest audited balance sheet]|-
+| {|
+S.No.
+Details of paid up capital
+Amount (in Rs.)
+1.
+Equity
+2.
+Preference redeemable
+3.
+Preference convertible
+4.
+Others, if any
+5.
+Total
+|-
+| |-
+| 7.| *Free reserves or securities premium account or proceeds of any shares or other securities or debts as
+on(DD/MM/YYYY)|-
+| | (a) *Free reserves| (in Rs.)| |-
+| | (b) *Securities premium account| (in Rs.)| |-
+| | (c) *Proceeds of any shares or other securities| (in Rs.)| |-
+| | (d) *Debts| Secured (in Rs.)| |-
+| | | Unsecured (in Rs.)| |-
+| | | Total (in Rs.)| |-
+| 8.| (a) *Date of Board of directors' resolution approving or authorising the buy back of securities| | (DD/MM/YYYY)|-
+| | (b) Date of special resolution of members authorising buy back of securities| | (DD/MM/YYYY)|-
+| 9.| *Amount of securities authorised to be bought back| (in Rs.)| |-
+Page 49/57
+----- PAGE 50 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| | *Number of securities authorized to be bought back| | |-
+| 10.| (a) *Date upto which buy back of securities to be completed| | (DD/MM/YYYY)|-
+| | (b) *Date of completion of buy back| | (DD/MM/YYYY)|-
+| 11.| (a) Date on which last buy back was authorised| | (DD/MM/YYYY)|-
+| | (b) Date of last buy back|-
+| | |-
+| 12.| (a) Date on which last buy back was completed| | (DD/MM/YYYY)|-
+| 13.| (a) Date to capital and free reserve ratio allowed for company| | |-
+| | (b) *Pre buy-back clebt to capital & free reserves ratio| | |-
+| | (c) *Post buy-back clebt to capital & free reserves ratio| | |-
+| | (d) Details of Government approval for the ratio at serial number "13" above higher than 2:1|-
+| | |-
+| 14.| *Whether there is any subsisting default in the following|-
+| | (a) Repayment of deposit| Yes| No|-
+| | (b) Repayment of interest payable on deposits above| Yes| No|-
+| | (c) Repayment of debentures| Yes| No|-
+| | (d) Repayment of Preference shares| Yes| No|-
+| | (e) Payment of dividend to shareholders| Yes| No|-
+| | (f) Repayment of term loans to any financial institution or bank| Yes| No|-
+| | (g) Repayment of interest on the term loans mentioned above| Yes| No|-
+| 15.| *Whether there is any default complying with the provisions of following sections.|-
+| | (a) Section 92 (relating to annual return)| Yes| No|-
+| | (b) Section 123 (relating to payment of dividend)| Yes| No|-
+| | (c) Section 128 (relating to balance sheet or profit and loss account)| Yes| No|-
+| 16.| *Date of payment of consideration to all shareholders from whom securities have been bought back| |-
+| 17.| *The shareholding pattern after buy back of securities:|-
+| |-
+| | {|
+|-
+| S.No.
+| Category of security
+| Securities held before buy back as on(DD/MM/YYYY)
+| Securities held after buy back as on(DD/MM/YYYY)
+|-
+| 1.
+| Government [Central and State]
+|
+|
+|-
+| 2.
+| Government companies
+|
+|
+|-
+| 3.
+| Public financial companies
+|
+|
+|-
+| 4.
+| Nationalised or other bank(s)
+Page 50/57
+----- PAGE 51 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+|
+|
+|-
+| 5.
+| Mutual funds
+|
+|
+|-
+| 6.
+| Venture capital
+|
+|
+|-
+| 7.
+| Foreign holdings (Foreign institutional
+investors, Foreign companies, Non resident Indians, Foreign
+financial institutions or Overseas corporate bodies)
+|
+|
+|-
+| 8.
+| Bodies corporate (not mentioned above)
+|
+|
+|-
+| 9.
+| Directors or relatives of directors
+|
+|
+|-
+| 10.
+| Other top fifty (50) shareholders (other than mentioned above)
+|
+|
+|-
+| 11.
+| Others
+|
+|
+|-
+| 12.
+| Total
+|
+|
+|}
+|-
+| | *Total number of shareholders| | |-
+| 18.| (a) Service request number (SRN) of Form MGT.14| |-
+| | (b) SRN of Form SH.9 in respect of declaration of solvency| |-
+| Declaration|-
+| | I have been authorized by the board of director's resolution numberdatedto sign and submit this form. All the
+Page 51/57
+----- PAGE 52 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+attachments and the information given in this form are true and correct to the best of my knowledge. Further, on behalf
+of board of directors, I hereby confirm that full enquiry into the affairs and prospects of the company and have formed
+the opinion|-
+| | (i)  that immediately following the date on which the general meeting is convened there will be no grounds on which
+the company could be found unable to pay its debts;|-
+| | (ii)  as regards its prospects for the year immediately following that date, that, having regard to their intentions with
+respect to the management of the company's business during that year and to the amount and character of the financial
+resources which will in their view be available to the company during that year, the company will be able to meet its
+liabilities as and when they fall due and will not be rendered insolvent within a period of one year from that date; and|-
+| | (iii) in forming their opinion for the above purpose, the directors have taken into account the liabilities (including
+prospective and contingent liabilities) as if the company were being wound up under the provisions of the Companies
+Act, 2013.|-
+| |-
+| | *To be digitally signed by|-
+| | *Designation| |-
+| | *Director's Identification number of the director; or|-
+| | DIN of PAN of the Manager or CEO or CFO; or| |-
+| | Membership number of the Company secretary|-
+| |-
+| | Attachments :|-
+| | (1) *Description of shares or other specified securities bought back| |-
+| | (2) *Particulars relating to holders of securities before buy-back| |-
+| | (3) Copy of the special resolution passed at the general meeting| |-
+| | (4) *Copy of the board resolution| |-
+| | (5) *Balance sheet of the company| |-
+| | (6) *Certificate of compliance of buy-back rules according to rule 17(14)| |-
+| | (7) *Optional attachments, if any| |-
+| |-
+| | Note: Attention is drawn to provisions of Sections 448 and 449 which provide for punishment for false statement /
+certificate and punishment for false evidence respectively.|-
+| |-
+| | | | | |-
+| |-
+| | For office use only:| | |-
+| | e-Form Service request number (SRN)| | eForm filing date| (DD/MM/YYYY)|-
+| | This e-Form is hereby registered|-
+| | Digital signature of the authorising officer| | |-
+| | Date of signing| | (DD/MM/YYYY)|-
+| |
+|}
+Form No. SH-12|-
+Debenture Trust Deed|-
+[Pursuant to sub-section (13) of section 71 of the Companies Act, 2013 and rule 11 of the Companies (Share Capital
+and Debentures) Rules 2014]|-
+The debenture trust deed shall, inter alia, contain the following:-|-
+|-
+1. DESCRIPTION OF DEBENTURE ISSUE:|-
+|-
+| (a)| Purpose of raising finance through the debenture issue :|-
+| (b)| Details of debenture issue as regards amount, tenure, iterest / coupon rate, periodicity of payment, mode of
+payment and period of redemption;|-
+Page 52/57
+----- PAGE 53 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| (c)| An undertaking by the company to pay the interest and principal amount of such debentures to the Debenture
+holders as and when it becomes due, as per the terms of offer;|-
+| (d)| The terms of conversion / redemption of the debentures in terms of the issue to the debenture holders, options
+available, and debt equity ratio and debt service coverage ratio, if applicable.|-
+2. DETAILS OF CHARGE CREATED (in case of secured debentures):|-
+| (a)| Nature of charge created and examination of title;|-
+| (b)| Rank of charge created viz. first, second, pari passu, residual, etc;|-
+| (c)| Minimum security cover required;|-
+| (d)| Complete details of the asset(s) on which charge is created such as description, nature, title, location value, basis
+of valuation etc.;|-
+| (e)| Methods and mode of preservation of assets charged as security for the debentures;|-
+| (f)| Other particulars of the charge, e.g., time perid of chage, rate of interest, name of the charge holder;|-
+| (g)| Provision for subsequent valuation;|-
+| (h)| Procedure for allowing inspection of charged assets and book of accounts by debenture trustee or any person or
+person authorized by it;|-
+| (i)| Charging of future assets|-
+| (j)| Time limit within which the future security for the issue of debentures shall be created|-
+| (k)| Circumstances specifying when the security may be disposed of or leased out with th epproval of trustees|-
+| (l)| Enforceability of securities, events under which security becomes enforceable|-
+| (m)| Obligation of company not to create further charge or encumbrance of the trust property without prior approval of
+the trustee|-
+3. PARTICULARS OF THE APPOINTMENT OF DEBENTURE TRUSTEE(S):|-
+| (a)| The conditions and procedure for the appointment of the debenture trustee;|-
+| (b)| Procedure for resignation by trustee including appointment of new trustees;|-
+| (c)| Provision that the debenture trustee shall not relinquish his office until another debenture trustee has been
+appointed;|-
+| (d)| Procedure to remove debenture trustee by debenture holders providing for removal on a resolution passed the
+holders of not less than three fourth in value of debentures;|-
+| (e)| Fees or commission or other legal travelling and other expenses payable to the trustee(s) for their services;|-
+| (f)| Rights of the trustee including the right to inspect the registers of the company and to take copies and extract
+thereof and the right to appoint a nominee director;|-
+| (g)| Duties of the trustee.|-
+4. EVENTS OF DEFAULTS|-
+| (a)| Events under which the security becomes enforceable which shall include the following events:|-
+| | (i)| When the company makes two consecutive defaults in the payment of any interest which ought to have been paid
+in accordance with the terms of the issue;|-
+| | (ii)| When the company without the consent of debenture holders ceases to carry on its business or gives notice of its
+intention to do so;|-
+| | (iii)| When an order has been made by the Tribunal or a special resolution has been passed by the members of the
+company for winding up of the company;|-
+| | (iv)| When any breach of the terms of the prospectus inviting the subscriptions of debentures or of the covenants of
+this deed is committed;|-
+| | (v)| When the company creats or attempts to create anu charge on the mortgaged premises or any part thereof
+without the prior approval of the trustee/debenture holders;|-
+| | (vi)| When in the opinion of the trustees the security of debenture holders is in jeopardy.|-
+| (b)| Steps which shall be taken by the debenture trustee in the event of defaults;|-
+| (c)| Circumstances specifying when the security may be disposed off or leased out with the approval of trustees.|-
+| (d)| A covenant that the  company may hold and enjoy all the mortgaged premises and carry on therein and therewith
+the business until the security constituted becomes enforceable|-
+5. OBLIGATIONS OF COMPANY:|-
+This section shall state the company's duty with respect to-|-
+Page 53/57
+----- PAGE 54 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| (a)| maintaining a Register of debenture holders including address of the debenture holders, record of subsequent
+transfers and changes of ownership;|-
+| (b)| keeping proper books of accounts open for inspection by debenture trustees;|-
+| (c)| permitting the  debenture trustee to enter the debentureholder's premises and inspect the state and condition of
+charged assets;|-
+| (d)| Furnishing information required by the debenture trustee for the effective discharge of its duties and obligation,
+including copies or reports, balance sheets, profit and loss account etc.;|-
+| (e)| keeping charged property/security adequately insured and in proper condition;|-
+| (f)| paying all taxes, cesses, insurance premium with respect to charged property/security, on time;|-
+| (g)| not declaring any dividend to the shareholders in any year until the company has paid or made satisfactory
+provision for the payment of the installments of principal and interest due on the debentures;|-
+| (h)| creating the debenture redemption reserve;|-
+| (i)| converting the debentures into equity in accordance with the terms of the issue,if applicable;|-
+| (j)| informing the debenture trustee about any change in nature and conduct of business by the company before such
+change;|-
+| (k)| informing the debenture trustee of any significant changes in the composition its Board of Directors;|-
+| (l)| Informing the debenture trustee of any amalgamation, merger or reconstruction scheme proposed by the
+company;|-
+| (m)| ieeping the debenture trustee informed of all order, directions, notices of court/tribunal affecting or likely to effect
+the charged assets;|-
+| (n)| not creating charge or encumbrance over the trust property without the approval of the trustee;|-
+| (o)| obligation of the company to forward periodical reports to debenture trustees containing the following particulars:|-
+| | (i)| updated list of the names and address of the debenture holders;|-
+| | (ii)| details of interest due but unpaid and reasons thereof;|-
+| | (iii)| the number and nature of grievances received from debenture holders and (a) resolved by the company (b)
+unresolved by the company and the reasons for the same.|-
+| | (iv)| a statement that the assets of the company which are available by way of security are sufficient to discharge the
+claims of the debenture holders as and when they become due|-
+| (p)| complying with all directions/guidlines issued by a Regulatory authority, with regard to the debenture issue|-
+| (q)| submitting such information, as required by the debenture trustee|-
+6. MISCELLANEOUS:|-
+| (a)| The conditions under which the provisions of the trust deed or the terms and conditions of the debentures may be
+modified;|-
+| (b)| The mode of service of notices and other documents on the company, the trustee and the holders of the
+debentures;|-
+| (c)| The company to be responsible for paying any stamp duty on the trust deed or the debentures (if applicable);|-
+| (d)| Provisions regarding meeting of the debenture holders;|-
+| (e)| Provisions for redressal of grievances of debenture holders.|-
+.
+[Form No. SH-13]
+[Substituted Form No. SH-13 and Form No. SH-14 by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+|-
+Nomination Form|-
+[Pursuant to section 72 of the Companies Act, 2013 and rule 19(1) of the Companies (Share Capital and Debentures)
+Rules 2014]|-
+| To|-
+| Name of the company :|-
+| Address of the company :|-
+| I/we............the holder(s) of the securities particulars of which are given hereunder wish to make nomination and do
+hereby nominee the following persons in whom shall vest, all the rights in respect of such securities in the event of
+my/our death.|-
+Page 54/57
+----- PAGE 55 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| (1) PARTICULARS OF THE SECURITIES (in respect of which nomination is being made)|-
+| {|
+Nature of securities
+Folio No.
+No. of securities
+Certificate No.
+Distinctive No.
+|-
+| | (2) PARTICULARS OF NOMINEE/S -|-
+| | (a) Name :|-
+| | (b) Date of Birth :|-
+| | (c) Father's/Mother's/Spouse's name :|-
+| | (d) Occupation :|-
+| | (e) Nationality :|-
+| | (f) Address :|-
+| | (g) E-mail id :|-
+| | (h) Relationship with the security holder :|-
+| |-
+| | (3) IN CASE NOMINEE IS A MINOR --|-
+| |-
+| | (a) Date of birth :|-
+| | (b) Date of attaining majority :|-
+| | (c) Name of guardian :|-
+| | (d) Address of guardian :|-
+| |-
+| | (4) PARTICULARS OF NOMINEE IN CASE MINOR NOMINEE DIES BEFORE ATTAINING AGE OF MAJORITY|-
+| |-
+| | (a) Name :|-
+| | (b) Date of Birth :|-
+| | (c) Father's/Mother's/Spouse's name :|-
+| | (d) Occupation :|-
+| | (e) Nationality :|-
+| | (f) Address :|-
+| | (g) E-mail id :|-
+| | (h) Relationship with the security holder :|-
+| Name :|-
+| Address :|-
+| | Name of the Security Holder(s)| Signature| Witness with name and address|-
+|
+|}
+[Form No. SH-14]
+[Substituted Form No. SH-13 and Form No. SH-14 by Notification No. 210(E), dated 18.3.2015 (w.e.f. 31.3.2014).]
+|-
+Cancellation or Variation of Nomination|-
+[Pursuant to sub-section (3) of section 72 of the Companies Act, 2013 and rule 19(9) of the Companies (Share Capital
+and Debentures) Rules 2014]|-
+|-
+| Name of the company :|-
+I/we hereby cancel the nomination(s) made by me/us in favour of.........................(name and address of the nominee) in
+respect of the below mentioned securities.|-
+Or|-
+Page 55/57
+----- PAGE 56 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+I/we hereby nominate the following person in place of ...............................................as nominee in respect of the below
+mentioned securities in whom shall vest all rights in respect of such securities in the event of my/our death.|-
+|-
+| (1) PARTICULARS OF THE SECURITIES (in respect of which nomination is being cancelled/varied)|-
+|-
+| {|
+Nature of securities
+Folio No.
+No. of securities
+Certificate No.
+Distinctive No.
+|-
+| | (2) (a) PARTICULARS OF THE NEW NOMINEE :|-
+| | (i) Name :|-
+| | (ii) Date of Birth :|-
+| | (iii) Father's/Mother's/Spouse's name :|-
+| | (iv) Nationality :|-
+| | (v) Address :|-
+| | (vi) E-mail id :|-
+| | (vii) Relationship with the Security holder  :|-
+| |-
+| | (b) IN CASE NEW NOMINEE IS A MINOR -|-
+| |-
+| | (i) Date of Birth  :|-
+| | (ii) Date of attaining majority -|-
+| | (iii) Name of guardian  :|-
+| | (iv) Address of guardian  :|-
+| |-
+| | (3) PARTICULARS OF NOMINEE IN CASE MINOR NOMINEE DIES BEFORE ATTAINING AGE OF MAJORITY|-
+| |-
+| | (a) Name  :|-
+| | (b) Date of Birth  :|-
+| | (c) Father's/Mother's/Spouse's name  :|-
+| | (d) Occupation  :|-
+| | (e) Nationality  :|-
+| | (f) Address  :|-
+| | (g) E-mail id  :|-
+| | (h) Relationship with the security holder:(i) Relationship with the minor nominee  :|-
+| |-
+| | Signature|-
+| |-
+| | Name of the Security|-
+| | Holder(s)|-
+| | Witness with name and address|-
+|
+|}
+Form No. SH-15|-
+Certificate of compliance in respect of buy-back of securities|-
+[Pursuant sub-rule (14) of rule 17 of the Companies (Share Capital and Debentures) Rules 2014]|-
+|-
+1.| (a)| Corporate identity number (CIN) of company:|-
+Page 56/57
+----- PAGE 57 -----
+The Companies (Share Capital and Debentures) Rules, 2014
+| (b)| Global location number (GLN) of company :|-
+2.| (a)| Name of the company :|-
+| (b)| Address of the registered office of the company :|-
+| (c)| E-mail ID of the company :|-
+| We,........................................directors of the above company certify that the provisions of Companies Act, 2013 and
+rules made thereunder relating to buy-back of securities have been complied with in respect of the securities bought
+back vide Board Resolution dated.............and / or special resolution passed by the members in the general meeting held
+on...........and the details relating to which has been filed inForm No. SH-11with the Registrar of Companies.|-
+|-
+{|
+Date :
+Signature :
+Place :
+(1) Managing Director / Director
+(2) Director
+Verified
+by...............................................................................................................................
+Company Secretary in Practice
+CP No.
+|-
+|
+|}
+[Substituted by Notification No. G.S.R. 574(E), dated 16.8.2019 (w.e.f. 31.3.2014).]
+Related AI tags, queries and research notes
+Translation
+Page 57/57

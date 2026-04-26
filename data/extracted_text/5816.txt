@@ -1,0 +1,1151 @@
+
+----- PAGE 1 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+Maharashtra Electricity Regulatory Commission (Standards of
+Performance of Distribution Licensees, Period for Giving Supply and
+Determination of Compensation) Regulations, 2014
+Source: https://indiankanoon.org/doc/80907510/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Maharashtra - Act
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Licensees, Period for Giving
+Supply and Determination of Compensation) Regulations, 2014
+MAHARASHTRA
+India
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Licensees, Period for Giving
+Supply and Determination of Compensation) Regulations, 2014
+Rule
+MAHARASHTRA-ELECTRICITY-REGULATORY-COMMISSION-STANDARDS-OF-PERFORMANCE-OF-DISTRIBUTI
+ON-LICENSEES-PERIOD-FOR-GIVING-SUPPLY-AND-DETERMINATION-OF-COMPENSATION-REGULATIONS-201
+4 of 2014
+Published on 1 January 2014
+Commenced on 1 January 2014
+[This is the version of this document from 1 January 2014.]
+[Note: The original publication document is not available and this content could not be verified.]
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Licensees, Period for Giving
+Supply and Determination of Compensation) Regulations, 2014
+Page 1/22
+----- PAGE 2 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+In exercise of powers conferred by the proviso to sub-section (1) of Section 43 read with clause (t) of sub-section (2) of
+Section 181 and sub-section (1) and sub-section (2) of Section 57 read with clause (za) of sub-section (2) of Section
+181, Section 59, and clause (zp) of sub-section (2) of Section 181 of the Electricity Act, 2003 (36 of 2003), the
+Maharashtra Electricity Regulatory Commission hereby makes the following Regulations, namely :-
+1.
+Short Title, Extent and Commencement.
+- 1.1 These Regulations may be called the "Maharashtra Electricity Regulatory Commission (Standards of Performance
+of Distribution Licensees, Period for Giving Supply and Determination of Compensation) Regulations, 2014".
+1.2
+These Regulations shall extend to the whole of the State of Maharashtra.
+1.3
+These Regulations shall apply to every Distribution Licensee(s) including Deemed Distribution Licensee(s) and all
+consumer(s) of electricity.
+1.4
+These Regulations shall come into force from the date of their publication in the Official Gazette.
+2.
+Definitions.
+- 2.1 In these Regulations unless the context otherwise requires:
+(a)
+"Act" means the Electricity Act, 2003 (36 of 2003) as amended from time to time ;
+(b)
+"Applicant" means a person, who makes an application for supply of electricity, increase or reduction in contract
+demand/sanctioned load, change of category, change of name, disconnection or restoration of supply or termination of
+agreement, as the case may be, including a person opting for Open Access, in accordance with the provisions of the Act
+and the Rules and Regulations made there under ;
+(c)
+"Area of Supply" means the area within which a Distribution Licensee is authorised by its Licence to supply electricity ;
+(d)
+"Authorised Representative" refers to all officers, staff or representatives of the Distribution Licensee, discharging
+functions under the general or specific authority of the Distribution Licensee ;
+(e)
+"Call Centre" means the office set up (may be at back end or customer interfacing front end) with adequate technology
+and systems for registering complaints round the clock ;
+(f)
+"Class-I Cities" means the cities with population of 10,00,000 or above as per census of India 2011 or as may be defined
+by the Commission from time to time ;
+(g)
+"Clearance(s)" means necessary approval(s)/No Objection Certificate(s) (NOC) sought from all relevant persons or
+authorities including Municipal Authorities which is required for the execution of work(s) by the Distribution Licensee(s) ;
+(h)
+"Commission" means the Maharashtra Electricity Regulatory Commission ;
+(i)
+"Contract Demand" means demand in kilowatt (kW)/kilovolt ampere (kVA)/Horse Power (HP) as mutually agreed
+between Distribution Licensee and the consumer and as entered into in the agreement for which Distribution Licensee
+makes specific commitment to supply from time to time in accordance with the governing terms and conditions
+contained therein ;
+Or
+equal to the sanctioned load, where the contract demand has not been provided through/in the agreement.
+(j)
+"Customer Average Interruption Duration Index" (CAIDI) means the average interruption duration of sustained
+interruptions for those consumers who experienced interruptions during the reporting period, determined by dividing the
+Page 2/22
+----- PAGE 3 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+sum of all sustained consumer interruption durations, in minutes, by the total number of interrupted consumers for the
+reporting period, or by using the equation: CAIDI = SAIDI/SAIFI ;
+(k)
+"Days" means clear working days ;
+(l)
+"Dedicated distribution facilities" means such facilities, not including a service line, forming part of the distribution system
+of the Distribution Licensee which are clearly and solely dedicated to the supply of electricity to a single consumer or a
+group of consumers on the same premises or contiguous premises ;
+(m)
+"Express Feeder" is a feeder emanating from the Licensees substation to connect to a single point of supply, which also
+includes dedicated distribution facility (DDF) ;
+(n)
+"Forum" shall have the same meaning ascribed to it under Regulation 2.1(e) of the Maharashtra Electricity Regulatory
+Commission (Consumer Grievance Redressal Forum & Electricity Ombudsman) Regulations, 2006 including any
+amendment thereto in force from time to time ;
+(o)
+"Fuse-off call" refers to a complaint handling procedure with regard to an individual consumer and involving restoration
+of supply by replacement of a fuse at such consumer's premises, not simultaneous with any other failure ;
+(p)
+"Grievance" shall have the same meaning ascribed to it under Regulation 2.1(c) of the Maharashtra Electricity
+Regulatory Commission (Consumer Grievance Redressal Forum & Electricity Ombudsman) Regulations, 2006 including
+any amendment thereto in force from time to time ;
+(q)
+"Grievance Redressal Regulations" means Maharashtra Electricity Regulatory Commission (Consumer Grievance
+Redressal Forum & Electricity Ombudsman) Regulations, 2006 including any amendment thereto in force from time to
+time ;
+(r)
+"Harmonics" means a component of a periodic wave having frequency that is an integral multiple of the fundamental
+power line frequency of 50 Hz causing distortion to pure sinusoidal waveform of voltage or current, and as governed by
+IEEE STD 519-1992, namely "IEEE Recommended Practices and Requirements for Harmonic Control in Electrical
+Power Systems" and corresponding standard as may be specified in accordance with clause (c) of sub-section (2) of
+Section 185 of the Act ;
+(s)
+"Meter" means a set of integrating instruments used to measure and/or record and store the information regarding
+amount of electrical energy supplied or the quantity of electrical energy contained in the supply, in a given time, which
+includes whole current meter and metering equipment, such as current transformer, capacitor voltage transformer or
+potential or voltage transformer with necessary wiring and accessories, communication systems used for Automatic
+Meter Reading (AMR) and also includes pre-payment meters ;
+(t)
+"Point of supply" means the point at the outgoing terminals of the meter/Distribution Licensee's cut-outs/switchgear fixed
+in the premises of the consumer :
+Provided that, in case of HT Consumers, the point of supply means the point at the outgoing terminals of the Distribution
+Licensee's metering cubicle placed before such HT Consumer's apparatus :
+Provided further that, in the absence of any metering cubicle or, where the metering is on the LT side of the HT
+installation, the point of supply shall be the incoming terminals of such HT Consumer's main switchgear ;
+(u)
+"Rural Areas" means any areas other than Class I cities and Urban areas as defined in this Regulations ;
+(v)
+"Sanctioned load" means load in kilowatt (kW)/kilovolt ampere (kVA)/Horse Power (HP) for which the Distribution
+Licensee had agreed to supply from time to time subject to governing terms and conditions. Also a Sanctioned load is
+equal to or more than the contract demand ;
+Page 3/22
+----- PAGE 4 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+(w)
+"System Average Interruption Duration Index" (SAIDI) means the average duration of sustained interruptions per
+consumer occurring during the reporting period, determined by dividing the sum of all sustained consumer interruptions
+durations, in minutes, by the total number of consumers ;
+(x)
+"System Average Interruption Frequency Index" (SAIFI) means the average frequency of sustained interruptions per
+consumer occurring during the reporting period, determined by dividing the total number of all sustained consumer
+interruption durations by the total number of consumers ;
+(y)
+"Urban Areas" means the areas other than Class I cities covered by all Municipal Corporations and other Municipalities
+including the areas falling under the various Urban Development Authorities, Cantonment Authorities and Industrial
+Estate and Townships including those specified by the Government of Maharashtra ;
+(z)
+"Voltage" means the difference of electric potential measured in volts between any two conductors or between any part
+of either conductor and the earth as measured by a suitable voltmeter and is said to be :
+"Low", where the voltage does not exceed 250 volts,
+"Medium", where the voltage exceeds 250 volts but does not exceed 650 volts,
+"High", where the voltage exceeds 650 volts but does not exceed 33,000 volts,
+"Extra High", where the voltage exceeds 33,000 volts :
+Provided that this voltage gradation is under normal conditions subject, however, to the percentage variation allowed by
+the Indian Electricity Rules, 1956 until the introduction of any Regulations for the same under the provisions of the Act ;
+2.2
+Words or expressions used herein and not defined in these Regulations but defined in the Act shall have the meanings
+assigned to them in the Act. Expressions used herein but not specifically defined in these Regulations or in the Acts but
+defined under any law passed by a competent legislature and applicable to the electricity industry in the state shall have
+the meaning assigned to them in such law.
+2.3
+References herein to the Rules and Regulations shall be considered as reference to these Rules and Regulations as
+amended or modified from time to time as per applicable laws.
+3.
+Standards of Performance of Distribution Licensees.
+- 3.1 The Standards specified in Regulations 4, 5, 6, 7 and 8 of these Regulations shall be the minimum standards of
+service that a Distribution Licensee shall achieve and maintain. The standard of performance may be different across
+the area of a Distribution licensee and across the Distribution Licensees based on the concentration of population, local
+environment and conditions. The categorization shall be applicable to Class I cities, Urban and Rural Areas :
+Provided that any time limits set out in these Regulations shall refer to the maximum time permitted for performing the
+activities to which they relate to :
+Provided further that the Commission may separately set service standards based on geographical conditions such as
+remote, hilly, forest and desert areas.
+3.2
+Any failure by the Distribution Licensee to achieve and maintain the standards of performance specified in these
+Regulations shall render the Distribution Licensee liable to payment of compensation under the EA 2003, as specified in
+Appendix 'A', to an affected person claiming such compensation.
+4.
+Period for Giving Supply.
+- New Connection (including Temporary Connection)/Additional Load/Reduction of Load
+4.1
+The Distribution Licensee shall, on an application made by post or by hand by the owner or occupier of any premises,
+give supply of electricity to such premises after receipt of the application by chronological order of receipt of its complete
+application requiring such supply.
+4.2
+Page 4/22
+----- PAGE 5 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+The application referred to in Regulation 4.1 shall be deemed to be received on the date of receipt of the duly completed
+application in accordance with the Maharashtra Electricity Regulatory Commission (Electricity Supply Code and Other
+Conditions of Supply) Regulations, 2005 including any amendments thereto in force from time to time.
+4.3
+The Distribution Licensee shall complete the inspection of the premises related to an application for supply of electricity
+not later than seven (7) days from the date of submission of such application for supply in Class I cities and Urban Areas
+and within ten (10) days from date of submission of such application for supply of electricity in Rural Areas, regardless of
+whether such application is deemed to be complete under Regulation 4.2.
+4.4
+Where the supply of electricity to an applicant is to be given from an existing network of the Distribution Licensee, the
+Distribution Licensee shall intimate the charges to be borne by the applicant not later than fifteen (15) days from the date
+of submission of such application for supply of electricity in Class I cities and Urban Areas and within twenty (20) days
+from the date of submission of such application for supply of electricity in Rural Areas, regardless of whether such
+application is deemed to be complete under Regulation 4.2.
+4.5
+Where the supply of electricity to an applicant requires extension or augmentation of distributing mains, the Distribution
+Licensee shall intimate the charges to be borne by such applicant within thirty (30) days from the date of submission of
+such application, regardless of whether such application is deemed to be complete under Regulation 4.2.
+4.6
+Where an applicant seeks Dedicated Distribution Facilities (DDF) to its premises as defined under Regulation 2.1(g) of
+the MERC (Electricity Supply Code and other Conditions of Supply) Regulations, 2005 including any amendment
+thereto, in force from time to time, the Distribution Licensee shall intimate the charges to be borne by such applicant
+within thirty (30) days from the date of submission of such application, regardless of whether such application is deemed
+to be complete under Regulation 4.2.
+4.7
+The Distribution Licensee shall, on an application by the owner or occupier of any premises, give supply of electricity to
+such premises, within one (1) month after receipt of the completed application and payment of charges for requiring
+such supply, if the supply to an applicant is to be given from an existing network of the Distribution Licensee.
+4.8
+Where the supply of electricity to a premise requires extension or augmentation of distributing mains, the Distribution
+Licensee shall give supply to such premises within three (3) months from the date of receipt of the completed application
+and payment of charges. The extension or augmentation of distributing mains includes the extension of HT, LT lines and
+augmentation of distribution transformer substation.
+4.9
+Where the supply of electricity to a premise requires commissioning of a new sub-station forming a part of the
+distribution system, the Distribution Licensee shall give supply to such premises within one (1) year from the date of
+receipt of the complete application and payment of charges. The commissioning of new substation forming a part of the
+distribution system will include substation having transformation from HT to HT or HT to LT or switching station from
+where the HT distribution lines originate.
+4.10
+The Distribution Licensee shall not be held responsible for the delay, if any, in giving supply on account of problems
+relating to statutory clearances, right of way, acquisition of land or the delay in consumer's obligation which is beyond
+the reasonable control of the Distribution Licensee.
+Shifting of meters/service lines
+4.11
+Wherever the consumer requests for shifting the meter/service connection in the existing premises, the concerned
+Distribution Licensee shall inspect, examine the technical feasibility upon receipt of application and inform the estimated
+cost to the consumer within seven (7) days in Class-I Cities and Urban Areas and within fifteen (15) days in Rural Areas
+after the receipt of an application :
+Provided if the consumer requests for deviation of the existing service lines in any case other than specified above, the
+concerned Distribution Licensee shall inspect, examine the technical feasibility upon receipt of application and inform the
+Page 5/22
+----- PAGE 6 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+estimated cost to the consumer within fifteen (15) days in Class-I Cities and Urban Areas and within thirty (30) days in
+Rural Areas after the receipt of an application.
+4.12
+The Distribution Licensee shall complete the shifting of meter/service line in the existing premises within 7 days in
+Class-I Cities and Urban Areas and fifteen (15) days in Rural Areas after payment of necessary charges and receiving
+necessary clearances, if required :
+Provided that the Distribution Licensee shall complete the deviation of the existing service lines in any case other than
+specified above within One (1) month after payment of necessary charges and receiving necessary clearances, if
+required.
+Change of name and change of tariff category
+4.13
+The Distribution Licensee shall intimate the charges to be borne by an applicant for change of name and change of tariff
+category within seven (7) days of receipt of an application in this regard and shall give effect to it within the following
+time limits :-
+(a)
+change of name shall be effected within the second billing cycle on receipt of an application and payment of necessary
+charges.
+(b)
+change of category for use of supply in reference of Tariff schedule shall be effected within the second billing cycle on
+receipt of application and payment of necessary charges.
+Reduction in Load
+4.14
+Upon receipt of a request by a consumer for reduction of contract demand/sanctioned load of such consumer, the
+Distribution Licensee shall, unless otherwise agreed, so reduce the contract demand/sanctioned load of such consumer
+before the expiry of the second billing cycle after the receipt of such request;
+Provided that Distribution Licensee and consumer should execute fresh agreement for such revised load before the
+second billing cycle.
+5.
+Quality of Supply and System of Supply.
+- 5.1 Except with the written consent of the consumer or with the prior approval of the Commission, the Distribution
+Licensee shall not permit the voltage at the point of supply to vary from the declared voltage as under :-
+(a)
+in the case of low or medium voltage, by more than 6 per cent, or ;
+(b)
+in the case of high voltage, by more than 6 per cent on the higher side or by more than 9 per cent on the lower side;
+(c)
+in case of extra-high voltage, by more than 10 per cent on the higher side or by more than 12.5 per cent on the lower
+side.
+(d)
+The Distribution Licensee shall control the harmonics level at the point of supply in accordance with that prescribed by
+the IEEE STD 519-1992, namely "IEEE Recommended Practices and Requirements for Harmonic Control in Electrical
+Power Systems" and corresponding standard as may be specified in accordance with clause (c) of sub-section (2) of
+Section 185 of the Act.
+5.2
+Except where otherwise previously approved by the Authority, the Distribution Licensee shall give supply of energy on
+the following systems, namely-
+(a)
+Low voltage - Direct current Two wires or Alternating current single phase, 50 cycles.
+(b)
+Medium voltage - Direct current Three wire or Alternating current three phase - Four wire, 50 cycles;
+(c)
+Page 6/22
+----- PAGE 7 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+High voltage - Alternating current three phases, 50 cycles.
+5.3
+Except where otherwise previously approved by the Authority, the classification of installations shall be as follows :-
+(a)
+AC system
+(i)
+Two wires, single phase, 230/240 volts - General supply not exceeding 40 amperes.
+(ii)
+Four/Three wires, three phase, 230/240 volts between phase wire and neutral or 400/415 volts between the
+phases/lines and contract demand not exceeding 80 kW/ 100 kVA in all areas, except in Municipal Corporation areas
+where such limit would be 150 kW/ 187kVA :
+Provided that in case of multiple consumers with contract demand more than 150 kW/187 kVA, in the same
+building/premises as a single point supply in the Municipal Corporation areas where such limit would be 480 kW/600
+kVA :
+(iii)
+Three phase, 50 cycles, 11 kV - all installations with contract demand above the limit specified in the clause (ii) and up
+to 3000kVA :
+Provided that in Mumbai Metropolitan Region or in case of supply to an installation through an express feeder in other
+area, the contract demand limit would be 5000 kVA.
+(iv)
+Three phase, 50 cycles, 22 kV - all installations with contract demand above the limit specified in the clause (ii) or clause
+(iii) and up to 7500 kVA :
+Provided that in Mumbai Metropolitan Region or in case of supply to an installation through an express feeder in other
+area, the contract demand limit would be 10,000 kVA.
+(v)
+Three phase, 50 cycles, 33 kV - all installations with contract demand above the limit specified in the clause (ii) or clause
+(iii) or (iv) above and up to 10,000 kVA :
+Provided that in Mumbai Metropolitan Region or in case of supply to an installation through an express feeder in other
+area, the contract demand limit would be 20,000 kVA
+(vi)
+Three phase, 50 cycles, Extra High Voltage - all installations with contract demand above the limit specified in the clause
+(iv) or clause (v).
+(b)
+D.C. system
+(1)
+Two-wire 130 volts
+(i)
+General supply not exceeding 10 amperes
+(ii)
+Motive power installations upto 1 BHP in aggregate
+(2)
+Three wire, 460 volts between outers - Motive power installations of over 1 BHP :
+Provided that in case the consumer who is eligible for single phase connection wants to avail supply at three phases, or
+any consumer who seeks supply at the voltage level higher than its eligible voltage, such consumer can avail such
+supply by incurring required expense :
+Provided further, the licensee may release electricity supply at the voltage lower than the specified above only under
+exceptional circumstances by charging voltage surcharge determined by the Commission from time to time. The
+distribution licensee shall ensure that the supply is provided at the specified voltage within a period of one year.
+Complaints regarding Voltage Variation
+5.4
+On receipt of a voltage variation complaint, the Distribution Licensee shall verify if the voltage variation is exceeding the
+Page 7/22
+----- PAGE 8 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+limits specified and upon confirmation, the Distribution Licensee shall :-
+(a)
+ensure that the voltages are brought within the specified limits, within 2 days of the receipt of a complaint, provided that
+the fault is identified to a local problem on the transformer;
+(b)
+ensure that the voltages are brought within the specified limits, within 10 days of the receipt of a complaint, provided that
+no expansion/enhancement of the network is involved; and
+(c)
+resolve the complaint within 120 days, provided that if up-gradation of the distribution system is required.
+5.5
+In the cases where a new substation is required to be erected to resolve the voltage variation complaints, the
+Distribution Licensee shall, within one year of the receipt of such a complaint, complete the erection and commissioning
+of such substation. In such cases, the Distribution Licensee shall inform the consumer about the likely time period
+required for resolution of the complaint.
+6.
+Restoration of Power Supply.
+- Restoration of supply on failure
+6.1
+The Distribution Licensee shall restore the power supply in the case of fuse-off calls within three (3) hours in Class I
+cities, within four (4) hours in Urban Areas and within eighteen (18) hours in Rural Areas of the receipt of a complaint.
+6.2
+The Distribution Licensee shall, in the case of 33 kV/22 kV/11 kV/400 V/230 V overhead line breakdowns, restore the
+power supply to the consumer within four (4) hours in Class I cities, within six (6) hours in Urban Areas and within
+twenty-four (24) hours of the receipt of a complaint in Rural Areas.
+6.3
+The Distribution Licensee shall restore the power supply caused by underground cable faults including service
+connection within eight (8) hours in Class I cities, within Eighteen (18) hours in the Urban Areas and within forty eight
+(48) hours of the receipt of a complaint in the Rural Areas.
+6.4
+The Distribution Licensee shall restore the power supply caused by distribution transformer failures within eighteen (18)
+hours in Class-I cities, within twenty-four (24) hours in Urban Areas and within forty-eight (48) hours of the receipt of a
+complaint in Rural Areas.
+6.5
+The Distribution Licensee shall restore the power supply caused by a burnt meter within eighteen (18) hours of the
+receipt of a complaint in Class-I cities, within twenty four (24) hours of the receipt of a complaint in the Urban Areas and
+within forty eight (48) hours of the receipt of a complaint in the Rural Areas respectively, irrespective of the recovery of
+charges against burnt meter as provided in Regulation 7.4.
+6.6
+The period of interruption as a result of any scheduled outage shall be specified in the public notice of such scheduled
+outage.
+Provided that such scheduled outage shall not normally exceed twelve (12) hours on any day and supply shall
+preferably be restored by 1800 hours.
+Disconnection of supply
+6.7
+On expiry of 30 days notice from receipt of an application for termination by consumer, in accordance with the MERC
+Supply Code Regulations, 2005 amended from time to time, the Distribution Licensee shall disconnect the supply within
+three (3) days in Class-I cities, within seven (7) days in Urban Areas and within ten (10) days in Rural Areas.
+6.8
+The Distribution Licensee should intimate the consumer of any amount outstanding against the consumer whose supply
+has been disconnected within seven (7) days in Class I cities and Urban Areas, and within ten (10) days in Rural Areas
+from the date of disconnection.
+Page 8/22
+----- PAGE 9 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+Provided further that licensee shall remit the credit amount, if any, as per the timeline specified above.
+6.9
+In case of closure of account (permanent disconnection), refund of credit amount (if any), advance consumption
+deposits/consumption security and meter security along with "No-Dues certificate" should be made by the Distribution
+Licensee within thirty (30) days in Class I cities and Urban Areas, and within forty five (45) days in Rural Areas from the
+date of application for closure of account.
+Provided that in the case where the consumer has outstanding dues to the licensee, the timeline specified above would
+stand revised to higher of the applicable timeline specified above and seven (7) days or ten (10) days after the date of
+making payment against such outstanding dues by the consumer in Class I cities/Urban Areas or Rural Areas
+respectively.
+Reconnection of supply following disconnection due to non-payment of bills
+6.10
+Where the Distribution Licensee has disconnected supply to a consumer for a period of not more than six months, then if
+such consumer pays all amounts due and payable by him to the satisfaction of the Distribution Licensee or, in case of a
+dispute, pays such amounts under protest, the Distribution Licensee shall reconnect supply within-
+(i)
+eight (8) hours from the payment of dues made by the consumer in Class I cities ;
+(ii)
+twenty four (24) hours from the payment of dues made by the consumer in Urban Areas and
+(iii)
+two (2) days from the payment of dues made by the consumer in Rural Areas.
+Provided that, where the period of disconnection exceeds six months, an application for reconnection of supply shall,
+after either payment of amounts due or upon settlement of dispute, be treated as a fresh application for supply of
+electricity under the provisions of the Act.
+Explanation - Payments made under protest in this Regulation shall be in accordance with the requirements of the
+proviso to sub-section (1) of Section 56 of the Act.
+7.
+Metering.
+- 7.1 The Distribution Licensee shall perform the following meter related activities in accordance with the MERC
+(Electricity Supply Code and other Conditions of Supply) Regulations, 2005 including any amendment thereto, in force
+from time to time and also in accordance with other allied Regulations and codes. The Distribution Licensee shall
+maintain the Meter reading records to note down the periodical readings, the checking of meter and the changes if any.
+The copy of such records shall be made available to the consumer on demand and a duly attested copy of such records
+shall be given to the consumer.
+Provided that the consumer requests for such record within Six (6) months of the activity.
+7.2
+The Distribution Licensee shall carry out the reading of consumers meter at least once in every three months in case of
+agricultural consumers and at least once in every two months for all other consumers.
+Provided that in case, for any reason, the Distribution Licensee fails to carry out the meter reading during a billing cycle,
+the Distribution Licensee shall prepare and provide a provisional bill to the consumer, based on the average
+consumption of last three billing cycles wherein the meter readings were carried out.
+Provided further that normally provisional billing shall not continue for more than two billing cycles at a stretch. The
+amount paid as per the provisional bill shall be adjusted against the bill raised on the basis of actual meter reading
+during subsequent billing cycles.
+7.3
+The Distribution Licensee shall carry out an inspection for faulty/non working (stuck up, running slow/fast or creeping)
+meter within four (4) days of the receipt of a complaint in Class-I cities, within seven (7) days of the receipt of a
+complaint in Urban Areas and within twelve (12) days of the receipt of a complaint in Rural Areas and in case the meter
+is found faulty the same shall be replaced before the end of subsequent billing cycle.
+7.4
+The Distribution Licensee shall replace at its own cost the burnt out meters within the timeline specified herein in
+Page 9/22
+----- PAGE 10 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+Regulation 6.5, if the burning of meter is due to the causes attributable to the Distribution Licensee.
+Provided that, if the meter is burnt due to causes attributable to the consumer such as tampering, defect in consumer's
+installation, meter getting wet, connecting unauthorized additional load etc., the Distribution Licensee shall serve a
+notice to the consumer for recovery of cost of the meter mentioning the cause behind the damage of meter within seven
+(7) days of the detection thereof and shall replace the burnt meter within timeline specified herein in Regulation 6.5.
+Provided that such charges recovered for such meter (same as burnt meter) shall be remitted back to the consumer if
+competent authority doesn't find the consumer responsible for the burnt meter.
+Complaints about Consumer's Bills
+7.5
+The Distribution Licensee shall acknowledge a consumer's complaint with immediate effect by providing unique
+complaint number, if the complaint is filed/lodged in person or telephonically and within seven (7) days if the complaint is
+received by post.
+7.6
+The Distribution Licensee shall resolve consumer complaints with regard to non receipt of a bill for payment or
+inadequate time being made available for payment thereof or otherwise, within 24 hours of the receipt. In other cases,
+the complaint shall be resolved during subsequent billing cycle.
+Provided that, if a disconnected consumer makes a request for details of amount due from him, including details for
+reconnection and other charges if any, it shall be provided as per the same timeline specified for complaint in this
+Regulation.
+8.
+Complaint Registration and Complaint Handling.
+- Establishment of Call centre(s)
+8.1
+The Distribution Licensee shall within the following time limits, from the date of commencement of these Regulations,
+establish Call centre facility(s) for redressal of complaints of its consumers. Access to such Call centre facility(s) shall be
+established to its consumers round the clock during all days of the week :-
+(a)
+for "Class I cities" within twelve (12) months;
+(b)
+for "Urban Areas" within twenty-four (24) months; and
+(c)
+for "Rural Areas" within sixty (60) months.
+8.2
+The Distribution Licensee shall use the existing channels for recording the consumer complaints till the establishment of
+Call centre(s).
+8.3
+Every Distribution Licensee shall employ or engage sufficient number of persons at its Call centre(s) and also earmark
+or allot or establish a basic telephone or cellular mobile telephone number having sufficient communication lines or
+connections to be called as the "toll free number" or "consumer care number" or "help line number" as the case may be,
+at Call centre(s).
+8.4
+The call charges or short message service charges shall not be levied upon, or made payable by the consumers, for
+calls made, or, short messages sent, to the "toll free number" or "consumer care number" or "help line number", as the
+case may be.
+8.5
+Every Distribution Licensee shall, immediately upon establishment of Call centre(s), inform through a public notice in
+newspapers in circulation in the Area of Supply, by uploading on internet website of the Distribution Licensee and should
+also ensure proper circulation of information to the consumers in case of any changes in the contact numbers.
+8.6
+The Distribution Licensee should ensure the availability of electronic data base to record the complaints.
+8.7
+Page 10/22
+----- PAGE 11 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+The Distribution Licensee shall convey information of the name of office (s), address (es) and telephone numbers
+wherein the consumer can lodge complaints, in the form of additional information along with or printed on the electricity
+bills and shall also display it at the sub-division offices or equivalent distribution unit and on the internet website of that
+Distribution Licensee.
+Process of handling complaints
+8.8
+The Distribution Licensee shall register each and every complaint made by a consumer (either verbally or in writing) in a
+manual register or in electronic format to be maintained for this purpose. The complaint register may be maintained
+category wise which will help in finalization of compensation and reporting of the performance to the Commission. The
+Distribution Licensee shall allot a number to each complaint which shall be duly communicated to the consumer except
+in the case of postal complaints received. However in case of postal complaints, the number shall be communicated to
+the complainant in case subsequent to the delivery of postal complaint, the complainant makes an enquiry with regard to
+the complaint number/status thereof telephonically or in person.
+8.9
+The Distribution Licensee shall devise its own processes at complaint handling centers/call centre(s)/customer care
+centre(s)/service centre(s) or any other customer interface channels to handle consumer complaints.
+9.
+Consumer Charter/Service.
+- 9.1 Every Authorized Representative of the Distribution Licensee shall visibly display his name-tag and, if so required
+by such consumer produce for scrutiny, proof of identity and authorization of the Distribution Licensee for the purpose of
+any interaction with a consumer.
+9.2
+The Distribution Licensee shall maintain, in every Class I cities and Urban Areas within the area of supply, at least one
+consumer service center which shall be open for not less than eight (8) hours a day, on all days of the week, for
+essential services to be provided to consumers and with a collection facility for collection of sums from consumers.
+9.3
+The Distribution Licensee shall ensure that Consumer Rights Statement as specified under the Maharashtra Electricity
+Regulatory Commission (General Conditions of Distribution License) Regulations, 2006 as amended from time to time,
+is available, in hardcopy to any consumer on demand, and shall also be uploaded in downloadable format through its
+internet website.
+9.4
+The Distribution Licensee shall make available-
+(i)
+to each applicant for new connection, upon request, on acceptance of his application ;
+(ii)
+to consumers of the Distribution Licensee, upon request, subject to payment of reasonable reproduction charges-
+(a)
+The Electricity Supply Code and Other Conditions of Supply Regulations ;
+(b)
+The Standard of Performance Regulations ;
+(c)
+The Terms and Conditions of Supply along with the approved Schedule of Charges and the prevailing approved Tariff
+Schedule ; and
+(d)
+A Consumer Rights Statement Provided that the hard copies of the aforesaid documents, shall be made available at any
+of the consumer service center/billing center/Sub-division office/Division Office/Circle office/Zonal Office/Section
+Office/Ward office of the Distribution Licensee.
+Provided further that the aforesaid documents shall be uploaded in downloadable format on the Distribution Licensee's
+internet website.
+10.
+Reliability Indices.
+Page 11/22
+----- PAGE 12 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+- 10.1 The Distribution Licensee shall calculate the reliability of its distribution system on the basis of number and
+duration of sustained interruptions in a reporting period, using the following indices :-
+(i)
+System Average Interruption Frequency Index (SAIFI) ;
+(ii)
+System Average Interruption Duration Index (SAIDI) ; and
+(iii)
+Customer Average Interruption Duration Index (CAIDI).
+Provided that while calculating the above indices, the following types of interruptions shall not be taken into account :-
+(1)
+Scheduled outages ;
+(2)
+Momentary outages of a duration not more than Five minutes ;
+(3)
+Outages due to the failure of the grid ;
+(4)
+Outages due to the reasons described in Regulation 11.1 below.
+10.2
+The Distribution Licensee shall maintain data on the reliability indices specified in Regulation 10.1 above for each
+zone/circle/division/sub-division on a monthly basis.
+10.3
+The Distribution Licensee shall put up, at the end of each month, such monthly information on reliability indices, on
+internet website of the Distribution Licensee and shall submit such report quarterly to the Commission as per Annexure
+IV.
+10.4
+The Distribution Licensee shall make concentrated efforts to achieve the standards of reliability fixed by the Commission
+from time to time.
+10.5
+Method of computing Reliability Indices-
+(a)
+System Average Interruption Duration Index (SAIDI) = It is average duration of sustained interruptions per consumer.
+SAIDI = ? ri x Ni / Nt
+(b)
+System Average Interruption Frequency Index (SAIFI) = It is average frequency of sustained interruptions per consumer.
+SAIFI = ? Ni / Nt
+Where,
+i = an interruption event;
+ri = restoration time for each interruption event;
+Ni = number of consumers who have experienced a sustained interruption during the reporting period; and
+Nt = total number of consumers of Distribution Licensee
+(c)
+Customer Average Interruption Duration Index (CAIDI) = It is average interruption duration of sustained interruptions for
+those consumers who had experienced interruptions.
+CAIDI = SAIDI/SAIFI.
+11.
+Exemptions.
+- 11.1 Nothing contained in these Regulations shall apply where, in the opinion of the Commission, the Distribution
+Licensee is prevented from meeting his obligations under these Regulations by-
+(i)
+force majeure events such as cyclone, floods, storm, war, mutiny, civil commotion, riots, lightning, earthquake, lockout,
+fire affecting licensee's installations and activities;
+Page 12/22
+----- PAGE 13 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+(ii)
+outages due to generation failure or transmission network failure;
+(iii)
+outages that are initiated by the National Load Despatch Centre/Regional Load Despatch Centre/State Load Despatch
+Centre during the occurrence of failure of their facilities;
+(iv)
+or other occurrences beyond the control of the Distribution Licensee:
+Provided that the Distribution Licensee shall not be excused from failure to maintain the standards of performance under
+these Regulations, where such failure can be attributed to negligence or deficiency or lack of preventive maintenance of
+the distribution system or failure to take reasonable precaution on the part of the Distribution Licensee.
+11.2
+The Commission may, by general or special order, exempt the Distribution Licensee from any or all of the standards
+specified in these Regulations for such period as may be specified in the said Order.
+12.
+Determination of Compensation.
+- 12.1 The compensation to be paid by the Distribution Licensee to the affected person is specified in Appendix A of
+these Regulations.
+12.2
+The Distribution Licensee shall be liable to pay to the affected person, such compensation as provided in Appendix A to
+these Regulations :
+Provided that any person who is affected by the failure of the Distribution Licensee to meet the standards of
+performance specified under these Regulations and who seeks to claim compensation shall file his claim with such a
+Distribution Licensee within a maximum period of sixty (60) days from the time such a person is affected by such failure
+of the Distribution Licensee to meet the standards of performance :
+Provided further that the Distribution Licensee shall provide information to consumers with regard to its
+offices/competent authority to settle claims for compensation :
+Provided further that the Distribution Licensee shall compensate the affected person(s) within a maximum period of
+ninety (90) days from the date of filing his claim.
+12.3
+In case the Distribution Licensee fails to pay the compensation or if the affected person is aggrieved by non-redressal of
+his grievances, he may make a representation for the redressal of his grievance to the concerned Consumer Grievance
+Redressal Forum in accordance with the provisions of Maharashtra Electricity Regulatory Commission (Consumer
+Grievances Redressal Forum and Electricity Ombudsman) Regulation, 2006 including any amendment thereto as in
+force from time to time:
+Provided that in case the claim for compensation is upheld by the Consumer Grievances Redressal Forum, the
+compensation determined by the Commission in Appendix A to these Regulations will be implemented by the Forum or
+by the Ombudsman, in case of an appeal filed against order of the Forum before him and is to be paid by the concerned
+Distribution Licensee:
+Provided further that such compensation shall be based on the classification of such failure as determined by the
+Commission under the provisions of Section 57 of the Act and the payment of such compensation shall be paid or
+adjusted in the consumer's future bills (issued subsequent to the award of compensation) within ninety (90) days of a
+direction issued by the Forum or by the Ombudsman, as the case may be.
+13.
+Information regarding Level of Performance.
+- 13.1 The Distribution Licensees shall submit information on the matters covered under clause (a) and (b) of
+sub-section (1) of Section 59 of the Act to the Commission on an annual basis, within a period of thirty (30) days from
+the end of the financial year :
+Provided that the information shall be with respect to the total number of cases of failure to meet each of the standards
+specified in these Regulations :
+Provided further that the Distribution Licensee shall separately state the total number of cases where compensation has
+been paid by it without dispute and the total number of cases where compensation has been paid in compliance with an
+Page 13/22
+----- PAGE 14 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+order or direction of the Forum or Ombudsman, along with the total amount of compensation in each category :
+Provided further that the Distribution Licensee shall submit the information to the Commission on the matters covered
+under clauses (a) and (b) of sub-section (1) of Section 59 of the Act on quarterly basis, within a period of thirty (30) days
+from the end of the quarter in the forms shown in Annexure I to Annexure IV and put up such information on the internet
+website of the Distribution Licensee, within a period of thirty days from the end of the quarter.
+13.2
+The Commission may authorize its Staff Officers or any independent agency(s) to conduct annual checks, in order to
+monitor the compliance of the standards of performance by the Distribution Licensee(s) and submit a report to the
+Commission.
+14.
+Power to Amend.
+- 14.1 The Commission may at any time, add to, vary, alter, modify or amend any provisions of these Regulations.
+15.
+Power to Remove Difficulties.
+- 15.1 If any difficulty arises in giving effect to the provisions of these Regulations, the Commission may, by general or
+specific order, make such provisions not inconsistent with the provisions of the Act, as may appear to be necessary for
+removing the difficulty.
+16.
+Repeal and Saving.
+- 16.1 The "Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Licensees, Period
+for Giving Supply and Determination of Compensation) Regulations, 2005" are hereby repealed.
+16.2
+Notwithstanding the repeal anything done or any action taken or purported to have been done or taken under the
+repealed regulations, in so far as it is not inconsistent with the provisions of the Act or rules and regulations made
+thereunder, be deemed to have been taken under these Regulations.
+Appendix A
+Level of Compensation Payable to Consumer for Failure to Meet Standards of Performance
+Supply Activity/Event
+Standard
+Compensation Payable
+(1)
+(2)
+(3)
+1.
+Provision of Supply (Including Temporary
+connection)
+(i)
+Time period for completion of inspection of
+applicant's premises from the date of submission of application
+Seven (7) days (Class I Cities)Seven (7)
+days (Urban Areas)Ten (10) days (Rural Areas)
+Rs. 100 per week or part thereof of delay
+(ii)
+Time period for intimation of charges to be
+borne by applicant from the date of submission of application
+Fifteen (15) days (Class I Cities)Fifteen
+(15) days (Urban Areas)
+Rs. 100 per week or part thereof of delay
+(a) In case connection is to be given from an
+existing network
+Twenty (20) days (Rural Areas)
+Page 14/22
+----- PAGE 15 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+(b) Where extension or augmentation of
+distribution main
+Thirty (30) days.
+(c) In case applicant seeks dedicated
+distribution facility, time period for intimation of charges to
+be borne by applicant from the date of submission of
+application.
+Thirty (30) days.
+(iii)
+Time period for provision of supply from the
+date of receipt of completed application and payment of charges
+:
+Rs. 100 per week or part thereof of delay
+-in case connection is to be from existing
+network
+One (1) month
+-where extension or augmentation of
+distributing main is required
+Three (3) months
+-where commissioning of new sub-station forming
+a part of the distribution system is required
+One (1) year
+2.
+Restoration of Supply
+(i)
+Fuse off call
+Three (3) hours. (Class I Cities)Four (4)
+hours. (Urban Areas)Eighteen (18) hours. (Rural Areas)
+Rs. 50 per hour or part there of delay
+(ii)
+33kV/ 22kV/ 11kV/400 V Overhead line breakdown
+Four (4) hours. (Class I cities areas)Six
+(6) hours. (Urban Areas)Twenty-four (24) hours (Rural Areas)
+(iii)
+Underground cable fault
+Eight (8) hours (Class I cities)Eighteen
+(18) hours (Urban Areas)Forty-eight (48) hours (Rural Areas)
+(iv)
+Distribution transformer failure
+Eighteen (18) hours (Class I
+cities)Twenty-four (24) hours (Urban Areas)Forty-eight
+(48) hours (Rural Areas)
+(v)
+Burnt Meter
+Eighteen (18) hours (Class I
+cities).Twenty-four (24) hours (Urban Areas).Forty-eight
+(48) hours (Rural Areas).
+3.
+Quality of Supply
+(i)
+Maintenance of voltage within the specified
+Page 15/22
+----- PAGE 16 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+range of the declared voltage.
+In case of low or medium voltage, within 6 % of
+the declared voltage.
+Rs. 100 per week or part thereof for which
+voltage varies beyond the specified range:
+In case of high voltage, within 6 % on the
+higher side and within 9 % on the lower side of the declared
+voltage.
+Provided that compensation specified above
+shall be payable,-
+In case of extra high voltage, within 10 per
+cent on the higher side and within 12.5 per cent on lower side
+of the declared voltage.
+(i) In Mumbai city and  Suburbs, Mumbai
+Metropolitan  Region and Pune Metropolitan Region.
+(ii) In all other Municipal Corporation areas
+at the end of one year from the notification of these
+Regulations :
+(iii) Provided further that the Commission
+shall separately notified the date on which such compensation
+shall be payable in other areas, not covered above, in the
+State.
+(ii)
+Control of the harmonics level at the point of
+supply.
+As per IEEE STD 519-1992.
+Rs. 100 per instance provided that the
+Commission shall separately notify the date from which such
+compensation shall be payable.
+4.
+Meters
+(i)
+Meter inspection in case of customer complaint
+regarding meters.
+Four (4) days (Class I cities).Seven (7)
+days (Urban Areas).Twelve (12) days (Rural Areas).
+Rs. 50 per week or part thereof  of delay.
+(ii)
+Replacement of meter if found faulty.
+Within subsequent billing cycle
+Rs. 50 per week or part thereof of delay.
+5.
+Reconnection
+Reconnection of a consumer who has been
+disconnected for less than six (6) months, from the time of
+payment of either all amounts to the satisfaction of the
+Distribution Licensee or, in case of a dispute, such amount
+under protest in accordance with the proviso to sub-section (1)
+of Section 56 of the Act.
+Four (4) hours (Class I cities).Twenty-four
+(24) hours  (Urban Areas).Two (2) days (Rural
+Page 16/22
+----- PAGE 17 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+Areas).
+Rs. 100 per week or part thereof of delay.
+6.
+Complaints on Consumer's Bills
+(i)
+Acknowledgement of receipt of consumer
+complaint.
+Immediately if complaint is filed/ lodged in
+person or telephonically.Seven (7) days if made by post.
+Rs. 100 per week or part thereof.
+(ii)
+Resolution of billing complaints,-
+(i) About electricity bills regarding non
+receipt of bill or inadequate time for payment.
+Within 24 hrs. of receipt.
+Rs. 100 per week or part thereof.
+(ii) In case of other complaints.
+During subsequent billing cycle.
+Rs. 100 per week or part thereof.
+7.
+Consumer charter/service
+(i)
+Visible display of name tag by authorized
+representative of Distribution Licensee and he should
+produce/show proof of identity and authorization if consumer
+asks.
+All interaction with consumer.
+Rs. 50 in each case of default.
+8.
+Other Services
+(i)
+Reading of consumer's meter.
+Once in every three months (agricultural).
+Rs. 100 for first month or part thereof of
+delay ;
+Once in every two months (all other consumers).
+Rs. 200 per month or part thereof beyond the
+first month of delay.
+(ii)
+Time period for other services from the date of
+application :
+Rs. 100 per week or part thereof of delay.
+- change of name
+Second billing cycle
+- change of tariff Category
+Second billing cycle
+- reduction in contract demand/sanctioned load.
+Second billing cycle
+- Closure of account - Time period for payment
+of final dues to consumer from the date of receipt of
+application for closure of account.
+Page 17/22
+----- PAGE 18 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+Thirty (30) days  (Class I cities and Urban
+Area).
+Forty Five (45) days (Rural Areas).
+Annexure-I
+Standards of Performance Level by the Distribution Licensee
+Format for Quarterly Return to be submitted to the Commission by the Distribution Licensee
+Sr. No.
+SOP Regulation No.
+Parameters
+Area
+Pending complaint Nos. (previous Quarter)
+Complaints in current Qtr.
+Total complaints
+No. of complaints addressed
+Pending complaints at end of Qtr.
+Within Standards of performance
+More than stipulated time
+Total complaints redressed
+a
+b
+c
+d
+e
+f=d+e
+g
+h
+I=g+h
+j=f-i
+1
+4.3
+New connection-inspection of premises.
+Class-ICities/UrbanRural
+2
+4.4
+Intimation of charges where supply from existing
+lines.
+Class-ICities/UrbanRural
+3
+4.5 & 4.6
+Intimation of charges where supply to dedicated or
+after extension/ augmentation.
+Class-ICities/UrbanRural
+4
+4.7
+New connection/ add. load where supply from
+existing line.
+5
+4.8
+New connection/ add. Load where supply after
+extension/ augmentation.
+6
+Page 18/22
+----- PAGE 19 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+4.9
+New connection/ add. Load where supply after
+commissioning of sub-station.
+7
+4.12
+Shifting of Meter/ service Line.
+Class-ICities/UrbanRural
+8
+6.10
+Reconnection of supply after payment of dues.
+Class-ICities/UrbanRural
+9
+4.13
+Change of Name
+10
+4.13
+Change of category
+11
+5.4 (a)
+Complaint of Voltage Variation-Local fault
+12
+5.4 (b)
+Complaint of Voltage Variation-Net work
+13
+5.4 (c)
+Complaint of Voltage Variation -
+Expansion/augmentation required
+14
+6.1
+Fuse off call
+Class-ICities/UrbanRural
+15
+6.2
+Break down of Over head Line
+Class-ICities/UrbanRural
+16
+6.3
+Underground Cable fault
+Class-ICities/UrbanRural
+17
+6.4
+Transformer Failure
+Class-ICities/ UrbanRural
+18
+7.2
+Meter Reading
+19
+7.3
+Replacement of Faulty Meter
+Class-ICities/UrbanRural
+20
+Page 19/22
+----- PAGE 20 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+7.4
+Replacement of Burnt Meter
+Class-ICities/UrbanRural
+21
+7.6 , 7.7
+Billing Complaint
+Annexure-II
+Report of individual Complaints where Compensation has been paid
+Format for quarterly return to be submitted to the Commission by the Distribution Licensee
+Sr. No.
+Complaint No.
+Date of filing complaint
+Consumer No.
+Name and address of Consumer
+Nature of Complaint
+Reference Standard of Performance
+Amount of Compensation (Rs.)
+Date of payment of Compensation (DD/MM/YYYY)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+1
+2
+3
+4
+5
+6
+7
+Note - The report shall be prepared as per category of item for which the compensation is paid for non-observance of
+Standards of Performance.
+Annexure-III
+Report of action on Faulty Meters (1 Phase/3 Phase)
+Format for quarterly return to be submitted to the Commission by the Distribution Licensee
+Sr. No.
+Name of Distribution Licensee
+Reference to Overall Standards
+Faculty Meters at start of the Quarter (Nos.)
+Faculty Meters added during Quarter (Nos.)
+Total Faculty Meters (Nos.)
+Meters rectified/ replaced (Nos.)
+Faculty Meters pending at end of Quarter (Nos.)
+(1)
+(2)
+(3)
+(4)
+Page 20/22
+----- PAGE 21 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+(5)
+(6)
+(7)
+(8)
+1
+2
+3
+4
+5
+Annexure-IV
+Performance Report regarding Reliability Indices
+Formats for Quarterly returns to be submitted to the Commission by the Distribution Licensee
+(1)
+System Average Interruption Duration Index (SAIDI)
+Sr. No.
+Month
+Ni = Number of consumer who experienced a
+sustained interruption on ithfeeder
+Ri=Restoration time for each interruption event
+on ithfeeder
+Nt = Total number of consumer of the distribution
+Licensees area
+Sum (Ri*Ni) for all feeders excluding agri.
+Feeders)
+SAID = (6)/(5)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+Total
+(2)
+System Average Interruption Frequency Index (SAIFI)
+Sr. No.
+Month
+Ni = Number of consumer who experienced a
+sustained interruption on ith feeder
+Ri = Restoration time for each interruption event
+on ith feeder
+Nt = Total number of consumer of the distribution
+Licensees area
+Sum (Ri*Ni) for all feeders excluding agri.
+Feeders)
+SAID = (4)/(5)
+(1)
+(2)
+(3)
+(4)
+(5)
+Page 21/22
+----- PAGE 22 -----
+Maharashtra Electricity Regulatory Commission (Standards of Performance of Distribution Li...
+(6)
+(7)
+Total
+(3)
+Customer Average Interruption Duration Index (CAIDI)
+Sr. No.
+Month
+SAIDI
+SAIFI
+SAIDI/SAIFI
+(1)
+(2)
+(3)
+(4)
+(5)
+Total
+Related AI tags, queries and research notes
+Translation
+Page 22/22

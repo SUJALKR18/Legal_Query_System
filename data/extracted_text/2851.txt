@@ -1,0 +1,1235 @@
+
+----- PAGE 1 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+The Pension Fund Regulatory and Development Authority (Exits and
+Withdrawals under the National Pension System) Regulations, 2015
+Source: https://indiankanoon.org/doc/33479918/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the National Pension System)
+Regulations, 2015
+UNION OF INDIA
+India
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the National Pension System)
+Regulations, 2015
+Rule
+THE-PENSION-FUND-REGULATORY-AND-DEVELOPMENT-AUTHORITY-EXITS-AND-WITHDRAWALS-UNDER-TH
+E-NATIONAL-PENSION-SYSTEM-REGULATIONS-2015 of 2015
+Published on 11 May 2015
+Commenced on 11 May 2015
+[This is the version of this document from 11 May 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the National Pension System)
+Regulations, 2015
+Published vide Notification No. PFRDA/12/RGL/139/8, dated 11.5.2015
+Last Updated 24th September, 2019
+No.PFRDA/12/RGL/139/8. - In exercise of the powers conferred by sub-section (1) of section 52 read with clauses (g),
+Page 1/23
+----- PAGE 2 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+(h), and (i) of sub-section (2) thereof of the Pension Fund Regulatory and Development Authority Act, 2013 (
+23 of 2013
+), the Pension Fund Regulatory and Development Authority hereby makes the following regulations, namely:-
+Chapter I
+Preliminary
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Pension Fund Regulatory and Development Authority (Exits and Withdrawals under
+the National Pension System) Regulations, 2015.
+"The regulations aim at providing an effective mechanism in the interest of subscribers, upon exit or withdrawal from the
+National Pension System, including the conditions, purpose, frequency and limits for withdrawals from individual pension
+account, as also the conditions, subject to which a subscriber shall exit from the National Pension System and purchase
+an annuity thereupon."
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires,-
+(a)
+"Act" means the Pension Fund Regulatory and Development Authority Act, 2013 (
+23 of 2013
+);
+(b)
+"accumulated pension wealth" means the monetary value of the pension investments accumulated in the Permanent
+Retirement Account of a subscriber under the National Pension System;
+(c)
+"aggregator" means an intermediary registered with the Authority under sub-section (3) of section 27 of the Act, to
+perform subscriber interface functions under the National Pension System-Swavalamban and have the functional
+relationship with a known customer base for delivery of some socio-economic goods or services;
+(d)
+"annuity service provider" means a life insurance company registered and regulated by the Insurance Regulatory and
+Development Authority and empanelled by the Authority for providing annuity services to the subscribers of the National
+Pension System;
+(e)
+"citizen of India" means a person qualified to be a citizen of India under the Citizenship Act, 1955 (
+57 of 1955
+);
+(f)
+"compliance officer" means a person of responsibility from the National Pension System Trust or any other intermediary
+or entity entrusted with the responsibility of receiving, processing and settlement of withdrawal claims from the
+subscribers under the National Pension System and responsible for monitoring compliance, of the provisions of the
+Actor the rules or the regulations made or notifications, guidelines or instructions issued by the Authority from time to
+time;
+(g)
+"government sector subscriber" means a subscriber enrolled in the National Pension System through the nodal offices of
+the Central Government or the State Governments and registered as such with the central record keeping agency;
+(h)
+"National Pension System-Lite" means a feature of optimized group model of National Pension System for persons
+belonging to unorganized sector of which the National Pension System-Swavalamban is a component where
+Page 2/23
+----- PAGE 3 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+Government of India co-contribution is admissible;
+(i)
+"Permanent Retirement Account Number (PRAN)" means a unique identification number allotted to each subscriber by
+the central record keeping agency;
+(j)
+"Swavalamban subscriber" means a subscriber who is registered as such with the central record keeping agency under
+the National Pension System and where Government of India co-contribution is admissible;
+(k)
+[ "Exit" for the purpose of this regulation shall mean closure of individual pension account of the subscriber under
+National Pension System, upon and on the date of happening of any of the following events, as may be applicable:
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(i)
+a subscriber having superannuated/retired from employment, as per the terms of such employment;
+(ii)
+[ a subscriber having attained the age of sixty years and where so specifically permitted has not exercised a choice in
+writing to continue to remain subscribed to such system till such further period as is permissible, with or without making
+contributions or in respect of a subscriber who has joined National Pension System after attaining the age of sixty years
+(but before attaining sixty five years of age) upon attaining the maximum age permitted to be subscriber to such scheme
+or any date prior thereto, based on the specific request for closure received from subscriber;]
+(iii)
+[ death of the subscriber before attaining the age of superannuation or the age of sixty years, or in cases where an
+option has been exercised by subscriber to continue to remain subscriber to a certain permissible time period, death
+before expiry of such period or death of a subscriber who has joined National Pension System after attaining the age of
+sixty years (but before attaining sixty five years of age) at any time prior to attaining the maximum age permitted to be
+subscribed to such scheme;]
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 6.10.2017 (w.e.f. 11.5.2015)]
+(iv)
+voluntary closure of the account by the subscriber, in cases where so permitted and on the date on which such closure
+is effected in the system;
+Provided that a subscriber shall be deemed to have exited from National Pension System, in accordance with
+sub-clause (i) to (iv) notwithstanding that no claims have been received by or on behalf of the subscriber or such claims
+having being received are pending settlement.
+Provided further that where a subscriber ceases to be in employment other than retirement or superannuation, it shall
+not be treated as exit and he shall have the option to continue his individual pension account, if available under new
+employment or as voluntarily available to citizens, unless the subscriber prefers a claim as provided under these
+regulations for withdrawal of benefits.
+(l)
+The expression "defer" or "deferment" wherever used in these regulations shall mean the postponement or deferment of
+claims for receiving benefits admissible to a subscriber upon exit from National Pension System.]
+(2)
+Words and expressions used and not defined in these regulations but defined in the Act shall have the meanings
+assigned to them in the Act.
+Chapter II
+Exit from National Pension System
+For the purpose of exit from the National Pension System, the subscribers are categorized and defined as, (1)
+Government sector, (2) All citizens including corporate sector and (3) NPS- Lite and Swavalamban subscribers. The exit
+regulations specified hereunder shall apply accordingly to the category to which the subscribers.
+3.
+[ Exit from National Pension System for government sector subscribers.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+- A subscriber under the government sector shall exit from the National Pension System in any of the manners specified
+Page 3/23
+----- PAGE 4 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+hereunder, namely:-
+(a)
+Where the subscriber who, upon attaining the age of superannuation as prescribed by the service rules applicable to
+him or her, retires, then at least forty per cent. out of the accumulated pension wealth of such subscriber shall be
+mandatorily utilized for purchase of annuity providing for a monthly or any other periodical pension and the balance of
+the accumulated pension wealth, after such utilization, shall be paid to the subscriber in lump sum or he shall have a
+choice to collect such remaining pension wealth in accordance with the other options specified by the Authority from
+time to time, in the interest of the subscribers:
+Provided that,-
+(i)
+the following shall be the default annuity contract that will be applicable and wherein the annuity contract shall provide
+for annuity for life of the subscriber and his or her spouse.
+(if any) with provision for return of purchase price of the annuity and upon the demise of such subscriber, the annuity be
+re-issued to the family members in the order specified hereunder, at a premium rate prevalent at the time of purchase of
+such annuity by utilizing the purchase price required to be returned under the annuity contract ( until all the family
+members in the order specified below are covered) :
+(a)
+living dependent mother of the deceased subscriber;
+(b)
+living dependent father of the deceased subscriber.
+After the coverage of all the family members specified above, the purchase price shall be returned to the surviving
+children of the subscriber and in the absence of children, the legal heirs of the subscriber, as may be applicable; In the
+absence of or non-availability of such a default annuity for any reason, the subscriber shall be required to exercise the
+option for purchase of such annuity of his choice, within the then annuity types or contracts made available by the
+annuity service providers empanelled by the Authority.
+Further, a subscriber who wishes to opt out of the default option mentioned above and wishes to choose the annuity
+contract of his choice from the available annuity types or contracts with the annuity service providers, shall be required
+to specifically opt for such an option.
+(ii)
+where the subscriber does not desire to withdraw the balance amount, after purchase of mandatory annuity, such
+subscriber shall have the option to defer the withdrawal of the lump sum amount until he or she attains the age of
+seventy years, provided the subscriber intimates his or her intention to do so in writing, not less than fifteen days prior to
+his attaining the age of superannuation, to the Central record keeping agency or National Pension System Trust or any
+other approved intermediary or entity authorized by the Authority, in the specified form or in any other manner specified
+by the Authority;
+(iii)
+where the subscriber desires to defer the purchase of annuity, he or she shall have the option to do so for a maximum
+period of three years from the date of attainment of age of superannuation, provided the subscriber intimates his or her
+intention to do so in writing in the specified form or in any other manner approved by the Authority, at least fifteen days
+prior to the attainment of age of superannuation, to the Central record keeping agency or National Pension System Trust
+or an intermediary or entity authorized by the Authority for this purpose. It shall be a condition precedent to opt for such
+deferment of annuity purchase, that in case if the death of the subscriber occurs before such due date of purchase of an
+annuity after the deferment, the annuity shall mandatorily be purchased by the spouse(if any) providing for annuity for
+life of the spouse with provision for return of purchase price of the annuity and upon the demise of such spouse, be
+re-issued to the family members in the order of preference provided hereunder, at a premium rate prevalent at the time
+of purchase of the annuity, utilizing the purchase price required to be returned under the contract (until all the members
+given below are covered):-
+(a)
+living dependent mother of the deceased subscriber ;
+(b)
+living dependent father of the deceased subscriber.
+Page 4/23
+----- PAGE 5 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+After the coverage of all such members, the purchase price shall be returned to the surviving children of the subscriber
+and in absence of children to the legal heirs of the subscriber as applicable;
+(iv)
+where the subscriber desires to defer the withdrawal of benefits available under National Pension System, the
+expenses, maintenance charges and fee payable under the National Pension System in respect of the individual
+pension account/ Permanent Retirement Account, shall continue to remain applicable;.
+(v)
+where the accumulated pension wealth in the Permanent Retirement Account of the subscriber is equal to or less than a
+sum of two lakh rupees, or a limit as specified by the Authority, basing on the instructions issued by the appropriate
+regulator on the minimum value of annuities to be made available by the life insurers, the subscriber shall have the
+option to withdraw the entire accumulated pension wealth without purchasing annuity and upon such exercise of this
+option, the right of such subscriber to receive any pension or other amount under the National Pension System or from
+the government or employer, shall extinguish;
+(vi)
+[ where the subscriber desires to continue in the National Pension System and contribute to his retirement account
+beyond the age of sixty years or the age of superannuation, he or she shall have the option to do so by giving in writing
+or in such form as may be specified, and up to which he would like to contribute to his individual pension account but not
+exceeding seventy years of age. Such option shall be exercised at least fifteen days prior to the age of attaining sixty
+years or age or superannuation, as the case may be to the central record keeping agency or the National Pension
+System Trust or any other intermediary or entity authorized by the Authority for the purpose.
+Provided further that such subscriber who has not exercised the option within the period of fifteen days, so stipulated,
+but desires to continue with his individual pension account under National Pension System, beyond the age of sixty
+years or the age of superannuation, as the case may be, and to the extent so permitted, may do so by making an
+application in writing with reasons for such delay to the National Pension System Trust, within one hundred and eighty
+days of attaining such age or superannuation. Where an application is received by the National Pension System Trust,
+from any subscriber, beyond the period of one hundred and eighty days, together with justification and sufficient cause,
+so shown by the subscriber, the National Pension System Trust, shall cause to forward such application along with its
+recommendation thereon, for consideration and approval of the Authority.
+The authorized officer of the National Pension Trust or Authority, as the case may be, may condone such delay, if any,
+in exercise of such option by the subscriber, as he may deem fit, having regard to the cause so shown or on any other
+relevant matter. Upon exercise of the option, by the subscriber, as specified above, the other options of deferment of
+benefits shall not be available to such a subscriber.
+Notwithstanding exercise of such option, the subscriber may exit at any point of time from National Pension System, by
+submitting a request to central recordkeeping agency or the National Pension System Trust or any intermediary or entity
+authorized by the Authority for the purpose;]
+(vii)
+[ provided that if the employer certifies that the subscriber has been discharged from the services of the concerned office
+on account of invalidation or disability the exit shall be determined as specified under sub-regulation (a).]
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 2.2.2018 (w.e.f. 11.5.2015)]
+Notwithstanding exercise of such option, the subscriber may exit at any point of time from National Pension System, by
+submitting a request to central record keeping agency or the National Pension System Trust or any intermediary or
+entity authorized by the Authority for the purpose ;
+(b)
+where the subscriber who, before attaining the age of superannuation prescribed by the service rules applicable to him
+or her, voluntarily retires or exits, then at least eighty per cent. out of the accumulated pension wealth of the subscriber
+shall mandatorily be utilized for purchase of annuity and the balance of the accumulated pension wealth, after such
+utilization, shall be paid to the subscriber in lump sum or he shall have a choice to collect such remaining pension wealth
+in accordance with the other options specified by the Authority from time to time, in the interest of the subscribers:
+Provided that such annuity contract shall provide for annuity for life of the subscriber and his or her spouse (if any) with
+provision for return of purchase price of the annuity and upon the demise of such subscriber the annuity be re-issued to
+the family members in the order specified hereunder at a premium rate prevalent at the time of purchase of the annuity,
+Page 5/23
+----- PAGE 6 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+utilizing the purchase price required to be returned under the annuity contract (until all the members given below are
+covered) :-
+(i)
+living dependent mother of the deceased subscriber ;
+(ii)
+living dependent father of the deceased subscriber.
+After the coverage of all such members, the purchase price shall be returned to the surviving children of the subscriber
+and in the case of absence of children, to the other legal heirs of the subscriber, as may be applicable; In the absence of
+or non-availability of such a default annuity for any reason, the subscriber shall be required to exercise the option for
+purchase of such annuity of his choice, within the then annuity types or contracts made available by the annuity service
+providers empanelled by the Authority.
+Further, a subscriber who wishes to opt out of the option mentioned above and wishes to choose the annuity contract of
+his choice, from the available annuity types or contracts with the annuity service providers , shall be required to
+specifically opt for such an option.
+Provided that if the accumulated pension wealth of the subscriber is more than one lakh rupees or a limit to be specified
+by the Authority for the purpose but the age of the subscriber is less than the minimum age required for purchasing any
+annuity from any of the empanelled annuity service providers as chosen by such subscriber, such subscriber shall
+continue to be subscribed to the National Pension System, until he or she attains the age of eligibility for purchase of
+any annuity:
+Provided further that if the accumulated pension wealth of the subscriber is equal to or less than one lakh rupees or a
+limit to be specified by the Authority basing on the instructions issued by the appropriate regulator on the minimum value
+of annuities to be made available by the life insurers, such subscriber shall have the option to withdraw the entire
+accumulated pension wealth without purchasing any annuity and upon such exercise of this option the right of the
+subscriber to receive any pension or other amounts under the National Pension System shall extinguish and any such
+exercise of this option by the subscriber, before the notification of this provision, shall be deemed to have been made in
+accordance with this regulation;
+(c)
+where the subscriber who, before attaining the age of superannuation, dies, then at least eighty percent out of the
+accumulated pension wealth of the subscriber shall be mandatorily utilized for purchase of annuity and balance pension
+wealth shall be paid as lump sum or in another manner from among the options made available by the Authority from
+time to time to the nominee or nominees or legal heirs, as the case may be, of such subscriber:
+Provided that,-
+(i)
+such annuity contract shall provide for annuity for life of the spouse of the subscriber (if any) with provision for return of
+purchase price of the annuity and upon the demise of such spouse be re-issued to the family members in the order
+specified hereunder at the premium rate prevalent at the time of purchase of the annuity, utilizing the purchase price
+required to be returned under the contract (until all the members given below are covered):-
+(a)
+living dependent mother of the deceased subscriber ;
+(b)
+living dependent father of the deceased subscriber.
+After the coverage of all such members, the purchase price shall be returned to the surviving children of the subscriber
+and in absence of children, the legal heirs of the subscriber as applicable. In the absence of or non-availability of such a
+default annuity for any reason, the subscriber shall be required to exercise the option for purchase of such annuity of his
+choice, within the then annuity types or contracts made available by the annuity service providers empanelled by the
+Authority.
+(ii)
+Provided further that if the accumulated pension wealth in the permanent retirement account of the subscriber at the
+time of his death is equal to or less than two lakh rupees or a limit to be specified by the Authority, basing on the
+instructions issued by the appropriate regulator on the minimum value of annuities to be made available by the life
+insurers, the nominee or legal heirs as the case may be, shall have the option to withdraw the entire accumulated
+Page 6/23
+----- PAGE 7 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+pension wealth without requiring to purchase any annuity and upon such exercise of this option the right of the family
+members to receive any pension or other amounts under the National Pension System shall extinguish;]
+4.
+Exit from National Pension System by citizens, including corporate sector subscribers.
+- Any subscriber, including a corporate sector subscriber, registered under the National Pension System, shall exit from
+the National Pension System in the manner specified hereunder, namely:-
+(a)
+where a subscriber attains the age of sixty years or superannuates in accordance with the service rules applicable to
+such subscriber, at least forty percent out of the accumulated pension wealth of such subscriber shall be mandatorily
+utilized for purchase of annuity providing for a monthly or any other periodical pension and the balance of the
+accumulated pension wealth, after such utilization, shall be paid to the subscriber in lump sum. In case, the accumulated
+pension wealth of the subscriber is equal to or less than a sum of two lakh rupees, the subscriber shall have the option
+to withdraw the entire accumulated pension wealth without purchasing any annuity:
+Provided that,-
+(i)
+[ Where the subscriber desires to continue in the National Pension System and contributes to his retirement account
+beyond the age of sixty years, or the age of superannuation, as the case may be, he or she shall have the option to do
+so by giving in writing or in such form as may be specified of the age not exceeding seventy years up to which he would
+like to contribute to his individual pension account. Such option shall be exercised at least fifteen days prior to attaining
+the age of sixty years or age of superannuation, as the case may be, to the Central Recordkeeping Agency or the
+National Pension System Trust or any other intermediary or entity authorized by the Authority for the purpose.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 19.2.2019 (w.e.f. 11.5.2015).]
+Provided further that a subscriber not having any employee-employer relationship and after attaining the age of 60 years
+not having exercised the option to continue within the period of fifteen days, so stipulated, shall continue in the National
+Pension System till he attains the age of seventy years as if he has exercised the option and shall be considered as if
+the consent has been provided by such subscriber.
+Provided further that such subscriber having any employee-employer relationship and who has not exercised the option
+within the period of fifteen days, so stipulated, but desires to continue with his individual pension account under National
+Pension System, beyond the age of sixty years or the age of superannuation, as the case may be, and to the extent so
+permitted, may do so by making an application in writing with reasons for such delay to the National Pension System
+Trust. The authorized officer of the National Pension Trust may condone such delay, if any, in exercise of such option by
+the subscriber, as he may deem fit, having regard to the cause so shown or on any other relevant matter.
+Notwithstanding exercise of such option or automatic continuation, the subscriber may exit at any point of time from the
+National Pension System, by submitting a request to National Pension System Trust or any intermediary or entity
+authorized by the Authority for the purpose. The options of deferment of lump sum as well as annuity shall not be
+available to such a subscriber.]
+(ii)
+the subscriber shall have the option to defer the withdrawal of lump sum amount until he or she attains the age of
+seventy years, provided the subscriber intimates his or her intention to do so in writing in the specified form at least
+fifteen days before the attainment of age of sixty years or, the age of superannuation, as the case may be, to the
+National Pension System Trust or any intermediary or entity authorized by the Authority for this purpose;
+(iii)
+the subscriber shall have the option to defer the purchase of annuity for a maximum period of three years, from the date
+of attainment of sixty years of age or the age of superannuation, as the case may be, provided the subscriber intimates
+his or her intention to do so in writing in the specified form at least fifteen days before the attainment of age of sixty
+years or the age of superannuation, as the case may be, to the National Pension System Trust or any intermediary or
+other entity authorized by the Authority for this purpose;
+(iv)
+the subscriber shall be allowed to continue to subscribe, defer the withdrawal of lump sum amount or the purchase of
+annuity, as the case may be, provided the subscriber agrees to bear the maintenance charges of the Permanent
+Retirement Account, including the charges payable to the central record keeping agency, pension fund, Trustee Bank or
+Page 7/23
+----- PAGE 8 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+any other intermediary, as may be applicable from time to time;
+(v)
+[ provided that a subscriber is physically incapacitated or has suffered a bodily disability leading to his incapability to
+continue with his individual pension account under National Pension System the exit in such cases shall be determined
+as per the provision of sub-regulation (a) subject to the subscriber submitting a disability certificate from a Government
+surgeon or Doctor (treating such disability or invalidation of subscriber) stating the nature and extent of disability and
+also certifying that:
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 2.2.2018 (w.e.f. 11.5.2015)]
+(a)
+the affected subscriber not be in a position to perform his regular duties and there is a real possibility of the affected
+being not able to work for the remaining period of his life; and
+(b)
+Percentage of disability is more than seventy five percent in the opinion of such Government surgeon or doctor (treating
+such disability or invalidation of subscriber).]
+(b)
+where the subscriber who, before attaining the age of sixty years or the age of superannuation as prescribed by service
+rules, voluntarily opts to exit from the national pension system, the option so exercised shall be allowed only upon such
+subscriber having subscribed to the national pension system for at least a minimum period of ten years. In case of such
+subscriber, at least eighty percent out of the accumulated pension wealth shall be mandatorily utilized for purchase of
+annuity and the balance of the accumulated pension wealth, after such utilization, shall be paid to the subscriber in lump
+sum:
+[Provided further that if the accumulated pension wealth in the individual pension account of the subscriber is equal to or
+less than one lakh rupees, or a limit to be specified by the Authority, basing on the instruction issued by the appropriate
+regulator on the minimum value of annuities to be made available by the life insurers, such subscriber shall have the
+option to withdraw the entire accumulated pension wealth without requiring to purchase any annuity]
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(c)
+where the subscriber who, before attaining the age of sixty years or the age of superannuation as prescribed by the
+respective service rules applicable to him or her, dies, then the entire accumulated pension wealth of the subscriber
+shall be paid to the nominee or nominees or legal heirs, as the case may be, of such subscriber:
+Provided that,-
+(i)
+the nominee or family members of the deceased subscriber shall have the option to purchase any of the annuities being
+offered upon exit, if they so desire, while applying for withdrawal of benefits on account of deceased subscribers'
+Permanent Retirement Account;
+(ii)
+[ in case the nomination is not registered by the deceased subscriber before his death the accumulated pension wealth
+shall be paid to the family members on the basis of the legal heir certificate issued by the competent authorities of the
+State concerned or the succession certificate issued by a court of competent jurisdiction.]
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(d)
+[ Exit from National Pension System by subscriber, joining such pension system on or after attaining the age of sixty
+years (but before attaining sixty five years of age):
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 6.10.2017 (w.e.f. 11.5.2015)]
+(i)
+In case of a subscriber joining National Pension System under all citizen model or in corporate model on or after
+attaining the age of sixty years (but before attaining sixty five years of age) and after having subscribed such pension
+system for atleast a period of three years, from the date of such joining, on exit, at least forty percent out of the
+accumulated pension wealth of such subscriber shall be mandatorily utilized for purchase of annuity providing for a
+monthly or any other periodical pension and the balance of the accumulated pension wealth, after such utilization, shall
+be paid to the subscriber in lump sum. In case the accumulated pension wealth of the subscriber is equal to or less than
+Page 8/23
+----- PAGE 9 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+a sum of two lakh rupees or a limit to be specified by the Authority, basing on the instructions issued by the appropriate
+regulator on the minimum value of annuities to be made available by the life insurers, the subscriber shall have the
+option to withdraw the entire accumulated pension wealth without there being any requirement of purchasing an annuity.
+(ii)
+where a subscriber under sub-clause (i) who before completion of the three years in such pension system voluntarily
+opts to exit from the National Pension System at least eighty percent out of the accumulated pension wealth shall be
+mandatorily utilized for purchase of annuity and the balance of the accumulated pension wealth after such utilization
+shall be paid to the subscriber in lump sum.
+Provided further that if the accumulated pension wealth in the individual pension account of the subscriber is equal to or
+less than a sum of Rupees one lakh, or a limit to be specified by the Authority, basing on the instruction issued by the
+appropriate regulator on the minimum value of annuities to be made available by the life insurers, such subscriber shall
+have the option to withdraw the entire accumulated pension wealth without there being any requirement of purchase of
+an annuity.
+(iii)
+where a subscriber under sub-clause (i) dies, while being subscribed to National Pension System, the entire
+accumulated pension wealth of the subscriber shall be paid to the nominee or nominees or legal heirs, as the case may
+be, of such subscriber, in accordance with the provisions of these regulation.]
+5.
+Exit from National Pension System by NPS-Lite and Swavalamban subscribers.
+- Any subscriber registered under National Pension System as NPS-Lite or Swavalamban subscriber, can exit from the
+National Pension System, in the manner specified hereunder, namely:-
+(a)
+Upon a subscriber, attaining the age of sixty years, at least forty percent of the accumulated pension wealth of such
+subscriber shall be mandatorily utilized for purchase of annuity providing for a monthly or any other periodical pension
+and the balance of the accumulated pension wealth, after such utilization, shall be paid to the subscriber in lump sum:
+Provided that,-
+(i)
+for a Swavalamban subscriber the annuity purchased by utilizing the mandatory minimum of forty percent. of the
+accumulated pension wealth of the subscriber shall yield at least a monthly annuity or pension of one thousand rupees,
+failing which the entire accumulated pension wealth shall be annuitised in such a manner so as to yield at least a
+monthly annuity or pension of one thousand rupees and balance if any thereafter shall be paid in lump sum to the
+subscriber. However there shall be no implicit or explicit guarantee that the annuity purchased even with entire
+accumulated pension wealth would yield a monthly annuity or pension of one thousand rupees;
+(ii)
+if the accumulated pension wealth of the subscriber is equal to or less than a sum of one lakh rupees, such subscriber
+shall have the option to withdraw the entire accumulated pension wealth without purchasing any annuity and upon such
+exercise of this option, the right of the subscriber to receive any pension under the National Pension System shall
+extinguish and any such exercise of this option by the subscriber, before the regulations are notified, shall be deemed to
+have been made in accordance with this regulation;
+(iii)
+[ provided that a subscriber who is physically incapacitated or has suffered a bodily disability leading to his incapability to
+continue with his individual pension account under National Pension System, the exit in such case shall be determined
+as per the provisions of sub-regulation (a) subject to the subscriber submitting a disability certificate from a Government
+surgeon or doctor (treating such disability or invalidation of subscriber) stating the nature and extent of disability and
+also certifying that:
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 2.2.2018 (w.e.f. 11.5.2015)]
+(a)
+the affected subscriber shall not be in a position to perform his regular duties and there is a real possibility of the
+affected subscriber being not able to work for the remaining period of his life; and
+(b)
+Percentage of disability is more than seventy five percent in the opinion of such Government surgeon or doctor (treating
+Page 9/23
+----- PAGE 10 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+such disability or invalidation of subscriber)]
+(b)
+[ at any time before attaining the age of sixty years subject however that at lease eighty percent out of the accumulated
+pension wealth shall be mandatorily utilized for purchase of annuity and the balance of the accumulated pension wealth
+after such utilization shall be paid to the subscriber in lump sum or he shall have a choice to collect such remaining
+pension wealth in accordance with the option specified by the Authority from time to time in the interest of the
+subscribers;
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015).]
+Provided that for a Swavalambam subscriber  the annuity purchased by utilizing  the mandatory minimum of eighty
+percent out of the accumulated pension wealth ought to yield at lease a monthly annuity or pension of one thousand
+rupees per month, failing which the entire accumulated pension wealth shall be annuitised in such a manner so as to
+yield at lease a monthly annuity or pension of one thousand rupees and balance if any thereafter shall be paid as lump
+sum to the subscriber. However there shall be no implicit or explicit guarantee that the annuity purchased even with
+entire accumulated pension wealth would yield a monthly annuity or pension of one thousand rupees;]
+[Provided further that, where the accumulated pension wealth does not exceed one lakh rupees or a limit to be specified
+by the Authority, the whole pension wealth shall be paid without annuitisation to the subscribers who have not availed
+any Swavalamban co-contribution, and also to the subscribers who though have availed Swavalamban co-contribution
+but are not eligible for auto migration to Atal Pension Yojana, after deducting the Government's co-contribution with
+returns thereon without requiring them to continue in the scheme for minimum period of twenty-five years.
+Explanation. - The migration of a Swavalamban subscriber to any other pension scheme of Government of India,
+including Atal Pension Yojana, as approved by the Authority, shall not be deemed as an exit and withdrawal for the
+purposes of these regulations.]
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 20.9.2019 (w.e.f. 11.5.2015).]
+(c)
+where a subscriber who, before attaining the age of sixty years, dies, the entire accumulated pension wealth of the
+subscriber shall be paid to the nominee, or the legal heir of such subscriber and there shall not be any condition of
+mandatory purchase of annuity and provision of a monthly or periodical pension and there shall not be any requirement
+of the annuitisation of the accumulated pension wealth of such deceased subscriber. The nominee or family members of
+the deceased subscriber shall have the option to purchase any of the annuities being offered upon exit, if they so desire:
+Provided that, where a nomination is not registered by the subscriber before his death, the accumulated pension wealth
+of such subscriber shall be paid to the family members on the basis of the legal heir certificate issued by the Revenue
+authorities of the State concerned or the succession certificate issued by a court of competent jurisdiction.
+6.
+[ Conditions to apply for exit and withdrawal.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+- A subscriber registered under the National Pension System  shall not exit there from and no withdrawal from the
+accumulated pension wealth in the Tier-1 of the Permanent Retirement Account of such subscriber shall be permitted,
+except in the manner so specified under regulation 3, 4, 5 and 8 further as mentioned in these provisions namely:-]
+(a)
+no pension or accumulated pension wealth in Tier-I account of the Permanent Retirement Account of the subscriber
+under the National Pension System on account of past or present services, shall be liable to seizure, attachment or
+sequestration by process of any court at the instance of a creditor, for any demand against the subscriber, or in the
+satisfaction of a decree or order of any such Court except where the National Pension System Trust or its authorised
+representative has accorded prior sanction for assignment of the pension wealth accumulated in the pension account of
+the subscriber, which shall be restricted to such limit as prescribed in Regulation 8;
+(b)
+any assignment, pledge, contract, order, sale or security of any kind made by any subscriber of the National Pension
+System, with respect to any benefit receivable by him or her under the National Pension System, or in respect of any
+money payable at or on account of any such benefit to such subscriber under the National Pension System, or for giving
+or assigning any future interest therein shall be null and void except where the National Pension System Trust or its
+authorized representative has accorded prior permission for such assignment of the pension wealth accumulated in the
+Page 10/23
+----- PAGE 11 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+pension account of the subscriber and which shall be restricted to such limit as prescribed in Regulation 8 to which the
+assignment was agreed or approved by the National Pension System Trust or its authorised representative;
+(c)
+[ the President of India or the Governor of a State, or the head of the organisation, in respect of a body corporate or
+other entity under the ownership and control, either of the central government or any state government or a government
+company, as the case may be, if so specifically provided in the service rules, governing the terms of employment of the
+subscriber with it, reserves the right of withholding the part of pension wealth, accumulated through co-contributions
+made by the Central Government or the State Government or any entity under the ownership and control, either of the
+central government or any state government or a government company, as the case may be, as employer to the Tier-I
+account of the National Pension System account of the subscriber and the investment income accruing thereon, for the
+purpose of recovery of the whole or part of any pecuniary loss caused, provided such loss is established, in any
+departmental or judicial proceedings, initiated against such subscriber by the employer concerned.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 18.5.2018 (w.e.f. 11.5.2015).]
+Such right of withholding shall have to be exercised prior to the date of superannuation of the subscriber, pursuant to a
+notice to be given to the National Pension System Trust or an entity to whom such authorization has been given, and
+seeking to withhold the said pension wealth of such subscriber. Upon such right of withholding being validly exercised:-
+(i)
+the pension wealth which are payable under the National Pension System shall not be paid to such subscriber until the
+conclusion of the departmental or judicial proceedings, as the case may be and subject to the final orders, passed in
+such proceedings.
+(ii)
+the amount withheld as specified in sub-clause (i) shall remain subscribed to the scheme in the mode and manner in
+which it was held prior to resorting to such action by the employer specified, and the final settlement of the withheld
+amount shall be made by the National Pension System Trust, or any intermediary or other entity, authorized for this
+purpose by the Authority, in normal course within ninety days of the receipt of an appropriate order from the concerned
+employer;
+(iii)
+the amount withheld becomes payable to the subscriber on the final settlement, as certified by the employer specified,
+which has sought withholding of such benefits, and shall be paid to the subscriber as soon as possible and in no case
+beyond ninety days of receipt of the final order by the National Pension System Trust or any other entity or person,
+authorized for the purpose by the Authority;]
+(e)
+[ If the subscriber or the family members of the deceased subscriber upon his death, avails the option of additional relief
+on death or disability provided by the Government or employer, the Government or employer shall have the right to
+adjust or seek transfer of the entire accumulated pension wealth of the subscriber to itself. The subscriber or family
+members of the entire accumulated pension wealth of the subscriber to itself. THe subscriber or family member of the
+subscriber availing such benefit shall specifically and unconditionally agree and undertake to transfer the entire
+accumulated pension wealth to the Government or employer, in lieu of enjoying or obtaining such additional reliefs like
+family pension or disability pension or any other pensionary benefit from such Government or employer. With the
+release of such family pension to the eligible family members of the deceased subscriber, the right to claim any benefits
+under the National Pension System, by any person shall extinguish thereupon including the rights of the nominee as
+recorded for the purpose of receiving benefits under National Pension System.;]
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(g)
+all benefits receivable, including the purchase of annuity as specified under these regulations, shall be arranged to be
+paid by the National Pension System Trust or the central record keeping agency or any other entity authorized for the
+purpose by the Authority after processing the withdrawal applications in accordance with the provisions of these
+regulations, or any guidelines, order or notification, as may be issued by the Authority, from time to time;
+(h)
+[ Upon exit of a subscriber from tier-I of the National Pension System the tier-II account of the subscriber shall also be
+simultaneously closed and amounts under the said account shall be paid  to the subscriber or his nominees or legal
+Page 11/23
+----- PAGE 12 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+heirs as the case may be;]
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(i)
+[ With respect to subscribers who have not submitted the withdrawal application as is required under regulation 7 and
+within one month from the date of attainment of the age of sixty years or the age of normal superannuation as the case
+may be for withdrawal of benefits upon exit from national pension system, the accumulated pension wealth in the
+account of such subscriber (both under tier I and tier II) would be monetized and kept separately as per the guidelines or
+direction issued by the Authority for the said purpose. The income earned from such safe keeping of the monetized
+accumulated pension wealth of the subscriber shall form part of the benefits that the subscriber is entitled under the
+National Pension System. This provision shall apply in respect of such subscribers who have deferred the withdrawal of
+benefits as is required under the regulations and or in the guidelines or direction issued by the Authority for the purpose]
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(j)
+[ With respect of settlement of claims arising out of the accumulated pension corpus of deceased subscribers where no
+valid nomination as specified in these regulations exist on the date of death, the Authority may issue suitable direction in
+the interest of subscribers for settlement of such claims in favour of the family members of the deceased subscriber up
+to a specified limit, by requiring such heirs to submit such documents as may be specified.]
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+Chapter III
+Withdrawals, Purpose, Frequency and Limits under National Pension System
+7.
+[ Conditions of withdrawals under National Pension System.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+- A subscriber shall submit the withdrawal application along with the required documents, for the purpose if withdrawing
+the benefits upon exits as provided in these regulations on or before the expected date of exit from the National Pension
+System to the National Pension System Trust or the central record keeping agency, acting on behalf of it or any other
+entity authorized by the Authority central record keeping agency or National Pension System Trust may on receipt of
+such an application for exit or withdrawal from a subscriber on the specified form and subject to fulfillment of conditions
+so specified may allow exit or withdrawals from the National Pension System in the mode an manner permitted under
+these regulation and guidelines, circulars, order or notification issued by Authority for the purpose.]
+8.
+[ The following withdrawals shall be permitted under National Pension System.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(1)
+A partial withdrawal of accumulated pension wealth of the subscriber not exceeding twenty five percent of the
+contributions made by the subscriber and excluding contributions made by employer if any at any time before exit from
+National Pension System subject to the terms and conditions purpose frequency and limits specified below:-
+(A)
+Purpose: A subscriber on the date of submission of the withdrawal form shall be permitted to withdraw not exceeding
+twenty-five percent of the contributions made by such subscriber to his individual pension account for any of the
+following purposes only:-
+(a)
+for Higher education of his or her children including a legally adopted child
+(b)
+for the marriage of his or her children, including a legally adopted child;
+(c)
+for the purchase or construction of a residential house or flat in his or her own name or in a joint name with his or her
+legally wedded spouse. In case the subscriber already owns either individually or in the joint name a residential house or
+flat other than ancestral property no withdrawal under these regulation shall be permitted;
+(d)
+for treatment of specified illnesses: if the subscriber, his legally wedded spouse, children, including a legally adopted
+Page 12/23
+----- PAGE 13 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+child or dependent parents suffer from any specified illness, which shall comprise of hospitalization and treatment in
+respect of the following diseases:
+(i)
+Cancer;
+(ii)
+Kidney Failure (End Stage Renal Failure);
+(iii)
+Primary Pulmonary Arterial Hypertension;
+(iv)
+Multiple Sclerosis;
+(v)
+Major Organ Transplant;
+(vi)
+Coronary Artery Bypass Graft;
+(vii)
+Aorta Graft Surgery;
+(viii)
+Heart Valve Surgery;
+(ix)
+Stroke;
+(x)
+Myocardial Infarction
+(xi)
+Coma;
+(xii)
+Total blindness;
+(xiii)
+Paralysis;
+(xiv)
+Accident of serious/ life threatening nature.
+(xv)
+any other critical illness of a life threatening nature as stipulated in the circulars, guidelines or notifications issued by the
+Authority from time to time.
+(e)
+[ to meet medical and incidental expenses arising out of the disability or incapacitation suffered by the subscriber]
+(f)
+[ Towards meeting the expenses by subscriber for skill development/re-skilling or for any other self development
+activities, as may be permitted by the Authority by issuance of appropriate guidelines, in that behalf.
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 18.5.2018 (w.e.f. 11.5.2015).]
+(g)
+Towards meeting the expenses by subscriber for establishment of own venture or any start-ups, as may be permitted by
+the Authority by issuance of appropriate guidelines, in that behalf.]
+(B)
+Limits: the permitted withdrawal shall be allowed only if the following eligibility criteria and limit for availing the benefit are
+complied with by the subscriber:-
+(a)
+the subscriber shall have been in the National Pension System at least for a period of three years from the date of his or
+her joining;
+(b)
+the subscriber shall be permitted to withdraw accumulations not exceeding twenty-five per cent of the contributions
+made by him or her and standing to his or her credit in his or her individual pension account, as on the date of
+Page 13/23
+----- PAGE 14 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+application for withdrawal;
+(C)
+Frequency: the subscriber shall be allowed to withdraw only a maximum of three times during the entire tenure of
+subscription under the National Pension System. The request for withdrawal shall be substituted by the subscriber along
+with relevant documents to the central record keeping agency or the National Pension System Trust, as may be
+specified for processing of such withdrawal claim through their nodal office. Provided that where a subscriber is suffering
+from any illness, specified in sub-clause (d), the request for withdrawal may be submitted through any family member of
+such subscriber.
+(2)
+A subscriber having a valid and active Tier-II account of the Permanent Retirement Account can withdraw the
+accumulated wealth either in fill or part, at any time by applying for such withdrawal, on such application form and in
+such mode and manner as may be specified by the Authority in this behalf. There shall be no limit on such withdrawals
+till the account has sufficient amount of accumulated pension wealth to take care of the applicable charges and the
+withdrawal amount:
+Provided that the Tier-II account shall stand automatically closed at the time of exit of the subscriber from the National
+Pension System, even if an application so specified for the purpose has not been received from the subscriber and the
+accumulated wealth in such account shall be transferred to the bank account provided by the subscriber while
+submitting his application for exit from the National Pension System].
+9.
+[ Withdrawal process.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(1)
+The National Pension System Trust or any other intermediary or entity authorized by the Authority for the said purpose
+shall be responsible for processing, authorizing and approving the withdrawal and exit claims lodged by the subscriber in
+accordance with the provisions of the Act, regulations, directions, guidelines issued by the Authority and the Pension
+Fund Regulatory and Development Authority (National Pension System Trust) Regulations, 2015, where applicable. The
+National Pension System Trust shall frame and issue suitable operational processes including online processes or
+guidelines including the exit or withdrawal forms for facilitating withdrawals and Exit of subscribers from National
+Pension System after taking due approval from the Authority.]
+Chapter IV
+Annuity Purchase and Annuity Service Providers
+10.
+Conditions of annuity purchase upon exit.
+- [(1) The subscriber at the time of exit, shall mandatorily purchase an annuity providing for a monthly or periodical
+annuity or pension as specified in these regulations excepting those case where exempted or provided otherwise and to
+the extent so exempted. Such annuity shall be purchased from an annuity service provider who is empanelled by the
+Authority.]
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(2)
+The exercise of option of the annuity and the type thereof shall be made by the subscriber at the time of exit from the
+National Pension System, unless otherwise specified by the Authority through circulars, notifications or guidelines issued
+by it from time to time.
+(3)
+Once an annuity is purchased, the option of cancellation and reinvestment with another annuity service provider or in
+another annuity scheme shall not be allowed unless the same is within the time limit specified by the annuity service
+provider, for the free look period as provided in the terms of the annuity contract or as specifically provided by the
+Insurance Regulatory and Development Authority.
+(4)
+The subscriber shall have an option to choose from various types of annuities, provided by the annuity service provider
+and the annuity so chosen shall be provided by the empanelled annuity service provider.
+(5)
+Page 14/23
+----- PAGE 15 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+There shall be a default annuity service provider and a default annuity scheme for the benefit of subscribers exiting from
+the National Pension System. The information on the default annuity service provider and default annuity scheme
+applicable shall be such as may be specified by the Authority and placed on its website, apart from communicating to
+the subscriber through circulars, guidelines or notification issued by it. Such default annuity scheme shall not be
+available or applicable in the case of Government subscribers covered under regulation 3.
+11.
+Empanelment of annuity service providers.
+(1)
+On and from the commencement of these regulations, an applicant, meeting the eligibility criteria as specified in these
+regulations for grant of an empanelment certificate to act as an empanelled annuity service provider, shall make an
+application in the specified form accompanied by a empanelment fee referred to in sub-regulation (2) and such
+documents in support thereon, as may be specified by the Authority.
+(2)
+One time empanelment fee of rupees one lakh, shall be submitted along with the application, to the Authority. The
+empanelment fee shall be realized by the Authority within fifteen days from the date of sending intimation of grant of
+certificate of empanelment under regulation 17:
+Provided that every empanelled annuity service provider shall, at the time of renewal of empanelment certificate pay
+such renewal fees, if any, as may be specified by the Authority, from time to time through a circular, order or notification
+issued by it.
+(3)
+An application, not complete in all respects and not conforming to the instructions specified in the application form and
+these regulations shall be rejected. Provided that, before rejecting any such application, the applicant shall be given a
+reasonable opportunity to withdraw or complete the application in all respects and rectify the errors, if any. The Authority
+may seek such additional information for disposal of the application from the Applicant as may be deemed relevant.
+(4)
+An annuity service provider empanelled by the Interim Pension Fund Regulatory and Development Authority prior to the
+commencement of these regulations , may continue to act as such, for a period of ninety days from the notification of
+these regulations or, if it makes an application for grant of empanelment till the disposal of its application by the
+Authority.
+12.
+Eligibility criteria for grant of certificate.
+(1)
+The following shall be the eligibility criteria for any applicant to act as an empanelled annuity service provider:-
+(a)
+any Life Insurance Company registered and regulated by the Insurance Regulatory and Development Authority and
+dealing with annuity products in the domestic market for the last three years;
+(b)
+the applicant having a minimum net worth of rupees two hundred and fifty crores;
+(c)
+the applicant shall have competency in design, development and offering of annuity products, which is demonstrable by
+the details of the annuity products filed with the Insurance Regulatory and Development Authority;
+(d)
+not barred from dealing with or selling annuity products in the market by the Insurance Regulatory and Development
+Authority;
+(e)
+any other criteria as may be specified by the Authority from time to time through resolutions, notifications, circulars,
+guidelines, norms or memoranda.
+(2)
+The Authority reserves the right to waive or modify some or all of the above criteria for reasons to be recorded in writing.
+13.
+Disclosure of information.
+Page 15/23
+----- PAGE 16 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+(1)
+The Authority, having regard to the interest of the subscribers may, have the right to disclose to the public, of the
+information on the application made by the applicant.
+(2)
+Any material change in the information furnished to the Authority while making the application for empanelment or
+subsequently shall be intimated to the Authority by the annuity service provider promptly but not later than thirty days of
+the occurrence of such change.
+14.
+Furnishing of information and clarification.
+(1)
+The Authority may require the applicant to furnish any further information or clarification, for the purpose of disposal of
+the application for empanelment, and, thereafter, in regard to any other matter as may be deemed necessary by the
+Authority. The applicant or its principal officer shall, if so required, appear before the Authority for a personal
+representation in connection with the application;
+(2)
+The applicant shall furnish such information and clarification to the satisfaction of the Authority, within the time specified
+in this regard by the Authority.
+15.
+Verification of information.
+(1)
+While considering the application and the information furnished by the applicant and its eligibility, the Authority may, if it
+so desires, verify the information in any manner, as it deems necessary, including by physical verification of documents,
+office space, and inspection of the availability of office space, infrastructure, and technological support which the
+applicant is required to have.
+(2)
+For the purpose of verification of information, the Authority may appoint any person including any of its officers or an
+auditor or an external agency.
+16.
+Consideration of application.
+(1)
+For considering the eligibility of the applicant and grant of certificate of empanelment to such applicant, the Authority
+shall take into account all matters which it deems relevant to the activities in the pension sector and the National
+Pension System, including but not limited to the following:-
+(a)
+whether the applicant or any of its associates have in the past been refused grant of empanelment certificate by any of
+the financial sector regulators in India including the Reserve Bank of India, the Securities and Exchange Board of India,
+the Insurance Regulatory and Development Authority and the Authority and if so, the ground for such refusal;
+(b)
+whether the applicant has in the past five years been imposed with penalties by any of the financial regulators such as
+the Reserve Bank of India, the Securities and Exchange Board of India, the Insurance Regulatory and Development
+Authority and the Authority or by a court of law or tribunal, on matters concerning violation of provisions of the laws, the
+regulations made or directions, guidelines and circulars issued by the respective regulator and if so, the ground for such
+refusal;
+(c)
+whether the applicant satisfies the eligibility criteria and other requirements as specified in these regulations;
+(d)
+whether the grant of a certificate to the applicant is in the interest of the subscribers and or the orderly development of
+pension sector or of the National Pension System.
+(2)
+While considering the application, the Authority may invite the applicant to make a presentation to the Authority on such
+a date, time and place determined by the Authority. The purpose of such presentations shall be to allow the applicants to
+Page 16/23
+----- PAGE 17 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+present its proposal to the Authority and to explain the key strengths in its proposal.
+(3)
+Any application for grant of certificate of empanelment,-
+(a)
+which is not complete in all respects and does not conform to the requirements in the and the requirements specified in
+these regulations;
+(b)
+which does not contain such additional information as required by the Authority;
+(c)
+which is incorrect, false or misleading in nature;
+(d)
+where the applicant is not in compliance with the eligibility requirements as set out under these regulations;
+(e)
+which in the opinion of the Authority is not in the interest of subscribers and or the objective of orderly development of
+the pension sector or the National Pension System;
+(f)
+where the applicant is not a `fit and proper person';
+shall be rejected by the Authority for reasons to be recorded by it in writing.
+(4)
+Before rejecting an application, the applicant shall be given an opportunity in writing to make good the deficiencies within
+the time specified by the Authority, for the purpose:
+Provided that where an application is rejected for the reason that it contains false or misleading information, no such
+opportunity may be given and the applicant shall not make any application for grant of certificate under these regulations
+or any other regulations for a period of one year from the date of such rejection.
+(5)
+An application for grant of certificate of empanelment, under these regulations, which is complete in all respects, shall be
+disposed of by the Authority, within a period of sixty days from the date of receipt of such request.
+17.
+Procedure for grant of certificate of empanelment.
+(1)
+The Authority on being satisfied that the applicant is eligible, shall grant a certificate of empanelment in the form
+specified in Annexure III and send an intimation to the applicant in this regard:
+Provided that where a pending proceeding before the Authority or any court or tribunal may result in the suspension or
+cancellation of the certificate, the Authority may give a conditional certificate of empanelment.
+(2)
+Within thirty working days of the date of receipt of certificate of empanelment, the annuity service provider shall enter
+into an agreement with the National Pension System Trust or the central recordkeeping agency for the purpose of
+operationalization of the process for purchase of annuities by the subscribers of the National Pension System.
+18.
+Conditions of certificate of Empanelment.
+- Any certificate of empanelment granted by the Authority to an annuity service provider shall be subject to the following
+conditions, namely,-
+(a)
+where the annuity service provider proposes to change its status or constitution, it shall intimate to the Authority of such
+information along with the approval obtained from the Insurance Regulatory and Development Authority, for continuing
+to act as an annuity service provider;
+(b)
+it shall pay the applicable fees in accordance with these regulations;
+(c)
+it shall abide by the provisions of the Act, the rules and the regulations made or any direction, guidelines or circulars as
+may be issued by the Authority thereunder;
+Page 17/23
+----- PAGE 18 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+(d)
+it shall abide by the provisions of the Insurance Act, 1938, Insurance Regulatory and Development Authority Act, 1999
+and the rules and regulations framed thereunder.
+(e)
+it shall meet the eligibility criteria and other requirements specified in these regulations throughout the tenure of the
+certificate of empanelment:
+Provided that the Authority may impose such other and further conditions as it may deem fit in the interest of subscribers
+or for orderly development of the National Pension System or the Pension sector.
+19.
+Effect of refusal to grant certificate of empanelment or expiry of certificate of empanelment.
+(1)
+Where an existing annuity service provider has failed to apply for renewal of empanelment of certificate and upon expiry
+of certificate of empanelment or has been refused grant of certificate of empanelment under these regulations, or has
+surrendered its certificate, or has been directed to be wound up by an order of a court, such annuity service provider
+shall,-
+(a)
+forthwith cease to act as an annuity service provider for subscribers of National pension System;
+(b)
+make provisions as regards liability incurred or assumed by the annuity service provider, if any;
+(c)
+take such other action, within the time limit and in the manner, as may be required under the relevant regulations or as
+may be directed by the Authority.
+(2)
+While refusing grant of certificate of empanelment under these regulations to an annuity service provider, the Authority
+may impose such conditions upon the annuity service provider as it deems fit for protection of interest of the subscribers
+and such conditions shall be complied with.
+20.
+Period of validity of certificate of empanelment.
+(1)
+Subject to compliance with the provisions of the Act, these regulations, the certificate granted to an annuity service
+provider shall be valid unless surrendered by it or suspended or cancelled in accordance with these regulations.
+(2)
+An Annuity Service Provider who has been granted a certificate of empanelment, to keep such empanelment in force,
+shall pay a fee of rupees twenty-five thousand within ninety days before the expiry of five years from the date of first
+empanelment or date of the payment of fee last accepted by the Authority, by way of making an application in the
+specified form to the Authority.
+21.
+Exemptions in certain cases from eligibility criteria.
+(1)
+If any of the applicants does not fulfill any of the eligibility criteria as specified for the annuity service provider, it may
+request the Authority through an application seeking exemption from such criteria.
+(2)
+The Authority, if in its opinion feels, that the non-fulfillment of the eligibility conditions of which relaxation is sought would
+not pre-judicially affect the interest of the subscribers, and such relaxation would not hamper orderly development of the
+pension sector and more specifically the National Pension System, it may grant exemption from some of the criteria to
+such entity for reasons to be recorded in writing. The Authority may in such circumstances impose such additional
+conditions as it may deem fit for grant of empanelment.
+22.
+Duties and responsibilities of empanelled annuity service providers.
+(1)
+The main functions of a empanelled annuity service provider is,-
+Page 18/23
+----- PAGE 19 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+(a)
+to provide different kinds of immediate annuities to the subscribers at the time of exit from the National Pension System;
+(b)
+to provide minimum immediate annuity variants options as required by the Authority and to be able to provide any new
+variant as required by the Authority from time to time in the interest of subscribers in conformity with the Insurance Act,
+1938 (
+4 of 1938
+) and the Insurance Regulatory and Development Authority Act, 1999 (
+41 of 1999
+), and the rules, regulations and guidelines made thereunder;
+(c)
+to provide monthly or any other periodical annuity payment to the subscriber for the annuity contract purchased by the
+subscriber under the National Pension System;
+(d)
+the annuity service provider shall be responsible for handling the grievances and issues related to or arising out of the
+entering into the annuity contract with the subscribers under the National Pension System.
+(2)
+The initial customer interaction for the National Pension System, shall be,-
+(a)
+addressing queries of potential subscribers regarding purchase of annuities;
+(b)
+providing and displaying of Insurance Regulatory and Development Authority approved information on annuities and
+application form or offer document or other publicity material pertaining to immediate annuities available including the
+annuity calculators.
+(3)
+Subscriber registration for purchase of annuity,-
+(a)
+to make available the necessary infrastructure required for receipt and acceptance of applications with the specified
+premiums and issuance of annuity contracts in line with the approvals granted by the Insurance Regulatory and
+Development Authority;
+(b)
+facilitate or provide infrastructure required for online purchase of annuity products by the subscribers through the central
+record keeping agency registered and regulated by the Authority, including the necessary software support. The annuity
+service provider shall provide the necessary application forms, literature on the available annuities and other facilities
+available to the subscribers through the central record keeping agency system or any other mode specified for the
+purpose;
+(c)
+issuance of the annuity contract as per the choice of the subscriber provided in the annuity application in line with these
+regulations and guidelines specified by the Insurance Regulatory and Development Authority;
+(d)
+the annuity service provider shall be responsible for delivering the monthly, quarterly or annual pension or annuity as
+chosen by the subscriber under the National Pension System in the annuity application form and the annuity contract
+entered by such subscriber. However, in case of government sector subscribers, the annuity payable shall be on
+monthly basis only;
+(e)
+the annuity service provider shall be responsible for collection, verification and subsequent actions for issuance of
+annuity contracts against purchases by subscribers under the National Pension System from the central record keeping
+agency or its representative or other entity which is authorized by the Authority for the purpose;
+(f)
+the annuity service provider shall provide the information on annuity purchases made by the subscribers under the
+National Pension System to the National Pension System Trust and the central record keeping agency in the form,
+Page 19/23
+----- PAGE 20 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+format and interval to be specified by the National Pension System Trust.
+(4)
+The handling of subscriber requests such as receiving, processing and effecting requests from the subscribers for
+change in address, nomination or any other activity in connection with the annuity contract entered into by the annuity
+service provider.
+(5)
+The annuity service provider shall be responsible for receiving from, and resolving the, grievances of subscribers under
+the National Pension System who had purchased the annuity from it and follow them up till their redressal in accordance
+with the grievance redressal guidelines or regulations for insurers issued by the Insurance Regulatory and Development
+Authority.
+(6)
+Any complaint from a subscriber relating to the services provided shall be dealt by the annuity service provider and
+settled in accordance with the provisions of the Insurance Regulatory and Development Authority, Act 1999 (
+41 of 1999
+), and the rules and regulations made thereunder, by the annuity service provider under intimation to the National
+Pension System Trust. This shall be without prejudice to the powers of the Authority to cancel or suspend the
+empanelment of the annuity service provider or take such other measures as deemed necessary in the subscriber's
+interest.
+23.
+Fees and charges to be charged from the subscribers.
+- There shall not be any additional fees or charges other than the premium as approved by the Insurance Regulatory
+and Development Authority for the product but excluding any taxes imposed by the Government. There shall not be any
+additional intermediation expense or charge for the product issued to the subscribers.
+24.
+Appointment of compliance officer.
+(1)
+Each annuity service provider shall appoint a compliance officer who shall be responsible for monitoring compliance of
+duties of annuity service provider as provided under these regulations and any other rules, regulations, guidelines
+issued by the Insurance Regulatory and Development Authority and for redressal of grievances reported by the
+subscribers who have purchased the annuities from the annuity service provider upon exit from the National Pension
+System. The name and details of such compliance officer shall be intimated to the Authority within thirty days of such
+appointment.
+(2)
+The compliance officer shall be responsible for activities related to the coordination with other entities in the National
+Pension System like the National Pension System Trust, the central record keeping agency, Trustee Bank or any other
+specific entity connected with annuity purchases or any activity related to it.
+25.
+Code of conduct.
+- The empanelled annuity service provider shall at all times observe the code of conduct for insurers or any other similar
+rules, guidelines or regulations specified by the Insurance Regulatory and
+Development Authority for fair dealing in activities related to the annuity purchase by subscribers.
+26.
+Power of the Authority to take up any of the matters associated with Insurance Regulatory and Development Authority.
+- In order to remove any difficulties in the annuity purchase, grievances arising out of annuity purchase or any other
+matter associated with annuity purchase by subscribers under the National Pension System, the Authority may take up
+the matter directly with the Insurance Regulatory and Development Authority.
+27.
+Confidentiality.
+- The empanelled annuity service provider shall maintain absolute confidentiality with respect to all records, data and
+information received by it under the National Pension System including information received from a subscriber. The
+annuity service provider shall not, without the prior permission of the Authority, produce or share such data or
+Page 20/23
+----- PAGE 21 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+information as evidence, or for any other purpose, except as required by the due process of law.
+28.
+Cancellation of empanelment.
+- The Authority may cancel the empanelment of an annuity service provider, after giving a reasonable opportunity of
+hearing and for reasons to be recorded in writing.
+Chapter V
+Inspection and Audit
+29.
+Inspection and audit.
+(1)
+The powers of the Authority with respect to audit and inspection of intermediaries entrusted with the functions of
+managing the withdrawals from the National Pension System shall be in accordance with the regulations governing the
+specific intermediaries under the National Pension System.
+Chapter VI
+Inquiry
+30.
+Conduct of inquiry.
+(1)
+The inquiry proceedings and action in case of default shall be in accordance with the regulations governing the specific
+intermediaries like the National Pension System Trust, the central record keeping agency or any other intermediary.
+(2)
+Where the default involves, the National Pension System Trust, the central record keeping agency and or any other
+intermediary, a common inquiry may be held for the purpose.
+Chapter VII
+Miscellaneous
+31.
+Prevention of fraud or mismanagement.
+- The National Pension System Trust or the central record keeping agency or the annuity service provider or any other
+intermediary or entity entrusted with the functions of managing the withdrawals from the National Pension System by the
+Authority shall take all possible steps to prevent fraud or mismanagement of the withdrawals of the subscribers upon exit
+from the National Pension System.
+32.
+Nomination.
+- Notwithstanding anything contained in these regulations or in any other law for the time being in force, a subscriber, at
+the time of joining the National Pension System is required to make a nomination, in the specified form, conferring on
+one or more persons the right to receive the amount that may stand to his or her credit in the accumulated wealth or
+fund in the event of his or her death, before that amount becomes payable or having become payable has not been
+paid. The nominee or nominees, as the case may be, shall be entitled, on the death of the subscriber, to receive, to the
+exclusion of all other persons, all such moneys which have so remained unpaid:
+Provided that,-
+(i)
+if the nominee predeceases the subscriber, the nomination shall so far as it relates to the right conferred upon the said
+nominee, become void and of no effect;
+(ii)
+where a provision has been duly made in the nomination, in accordance with these regulations, conferring upon some
+other person the right to receive all such moneys, which have so remained unpaid, in the event of the nominee
+predeceasing the subscriber, such right shall, upon the nominee being deceased , pass to such other persons standing
+as nominees;
+(iii)
+a subscriber may in his nomination distribute the amount that may stand to his credit in the fund amongst his nominees
+at his own discretion;
+Page 21/23
+----- PAGE 22 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+(iv)
+if a subscriber has a family at the time of making a nomination, the nomination shall be in favour of one or more persons
+belonging to his family. Any nomination made by such subscriber in favour of a person not belonging to his family shall
+be invalid;
+(v)
+a fresh nomination shall be made by the subscriber on his marriage and any nomination made before such marriage
+shall be deemed to be invalid;
+(vi)
+if at the time of making a nomination the subscriber has no family, the nomination may be in favour of any person or
+persons but if the subscriber subsequently acquires a family, such nomination shall forthwith be deemed to be invalid
+and the subscriber shall make a fresh nomination in favour of one or more persons belonging to his family;
+(vii)
+where the nomination is wholly or partly in favour of a minor, the subscriber may, for the purposes of this Scheme,
+appoint a major person of his family, to be the guardian of the minor nominee in the event of the subscriber
+predeceasing the nominee and the guardian so appointed;
+(viii)
+where there is no major person in the family, the subscriber may, at his discretion, appoint any other person to be a
+guardian of the minor nominee;
+(ix)
+a nomination made under the National Pension System may at any time be modified by a subscriber after giving a
+written notice of his intention of doing so in the form specified. A nomination or its modification so made shall take effect
+to the extent that it is valid on the date on which it is received by the intermediary under the National Pension System;
+(x)
+if a subscriber proves that his spouse has ceased, under the personal law governing him or her, or the customary law of
+the community to which the spouses belong, to be entitled to maintenance he or she shall no longer be deemed to be a
+part of the subscriber's family for the purpose of this Scheme, unless the subscriber subsequently intimates by express
+notice in writing to the designated intermediary for the purpose that he or she shall continue to be so regarded; and
+(xi)
+if a subscriber by notice in writing to the designated intermediary for the purpose expresses her desire to exclude her
+husband from the family, the husband and his dependent parents shall no longer be deemed to be a part of the
+subscriber's family for the purpose of this Scheme, unless the subscriber subsequently cancels in writing any such
+notice.
+(xii)
+[ In respect of subscribers covered under sub-clause (c) of Regulation 3 and sub-clause (c) of Regulation 4, where no
+valid nomination exists in accordance with these regulations at the time of exists of such subscriber on account of death,
+the nomination if any existing in the records of such subscriber with his or her employer for the purpose of receiving
+other admissible terminal benefits shall be treated as nomination exercised for the purposes of receiving benefits under
+the National Pension System. The employer shall sent a confirmation of such nomination in its records, to the National
+Pension System Trust or the central record keeping agency, while forwarding the claim for processing]
+[Added by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+Explanation I. - For the purposes of this chapter,-
+(a)
+the expression "family",
+(i)
+in relation to a male subscriber, means his legally wedded wife, his children, whether married or unmarried, his
+dependent parents and his deceased son's widow and children;
+(ii)
+in relation to a female subscriber, means her legally wedded husband, her children, whether married or unmarried, her
+dependent parents, her husband's dependent parents and her deceased son's widow and children;
+Explanation II. - In either of the above two cases, if the child of a subscriber [or as the case may be, the child of a
+deceased son of the subscriber] has been adopted by another person and if, under the personal law of the adopter,
+Page 22/23
+----- PAGE 23 -----
+The Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the Nat...
+adoption is legally recognized, such a child shall be considered as excluded from the family of the subscriber.
+[33 and 34. ***]
+[Omitted '33 and 34' by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+33. Submission of withdrawal application.- A subscriber seeking withdrawal from Tier-I account of the National Pension
+System shall submit his withdrawal application along with the requirements mentioned thereon to the central record
+keeping agency as per the operational withdrawal and exit guidelines issued by the Authority from time to time.
+34. Requirement of submission of documents.- A subscriber seeking withdrawal from Tier-I account of the National
+Pension System shall submit all the documents as specified on the withdrawal application form. The withdrawal
+application forms applicable to various categories of the subscribers shall be as per the forms provided by the Authority
+from time to time.
+35.
+[ Providing bank account details.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+- A subscriber seeking benefits upon exit or withdrawals as permitted under these regulation shall provide the Bank
+details mandatorily apart from details or copy of Aadhar card issued by Unique Identification Authority of India or details
+of or copy of Permanent Account Number (PAN) card issued by Income-tax Department, in order to have the facility of
+credit of the eligible benefits directly in to the subscribers or claimants Bank accounts as applicable].
+36.
+Mode of payments under National Pension System.
+- All payments pertaining to withdrawals under National Pension System shall be made through electronic transfer only
+and the withdrawal amount shall be directly credited to the subscriber or claimant's bank account as furnished in the
+withdrawal form.
+37.
+[ Stoppage of last months deductions by employer.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+- The monthly contribution consisting of both the employer and employee as may be applicable and that is required to be
+deducted for crediting to the subscribers account under the National Pension System by the employees from the salary
+of such subscriber shall be stopped at lease one month prior to the date of superannuation. The employer shall pay
+such eligible contributions directly to the employee subscriber along with the monthly salary or remuneration that such
+subscriber is eligible to receive from the employer.]
+38.
+Reports and disclosures.
+- The annuity service provider, the National Pension System Trust or the central record keeping agency shall submit
+such information and reports as required by the Authority in the mode, manner and frequency as specified by the
+Authority from time to time.
+39.
+[ Power of the Authority to issue directions and clarifications.
+[Substituted by Notification No. PFRDA/12/RGL/139/8, dated 10.8.2017 (w.e.f. 11.5.2015)]
+(1)
+The Authority shall have the power to issue necessary direction, restricting the provisions relating to withdrawals and
+exit, as the case may be under these regulation for complying with any requirements to move from any other pension or
+superannuation schemes or funds to the National Pension System.
+(2)
+The Authority shall also have the power to issue clarification and guidelines in order to remove any difficulties in the
+application or interpretation of these regulations or any provision thereof].
+Related AI tags, queries and research notes
+Translation
+Page 23/23

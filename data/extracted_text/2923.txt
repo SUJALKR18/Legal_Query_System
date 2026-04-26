@@ -1,0 +1,383 @@
+
+----- PAGE 1 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+The Service Tax and Central Excise (Furnishing of Annual Information
+Return) Rules, 2016
+Source: https://indiankanoon.org/doc/20387227/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+UNION OF INDIA
+India
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+Rule
+THE-SERVICE-TAX-AND-CENTRAL-EXCISE-FURNISHING-OF-ANNUAL-INFORMATION-RETURN-RULES-2016 of
+2016
+Published on 15 February 2016
+Commenced on 15 February 2016
+[This is the version of this document from 15 February 2016.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+Published vide Notification No. G.S.R. 167(E), No. 04/2016-Service Tax, dated 15th February 2016
+Ministry of Finance
+(Department of Revenue)
+(Central Board of Excise and Customs)
+G.S.R. 167(E). - In exercise of the powers conferred by section 15A, read with section 37 of the Central Excise Act,
+1944 (
+Page 1/8
+----- PAGE 2 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+1 of 1944
+) and section 94, read with section 83 of the Finance Act,1994 (32 of 1994), the Central Government hereby makes the
+following rules , namely:-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016.
+(2)
+They shall come into force from the 1st day of April, 2016.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Aggregate value of clearances" has the same meaning as assigned to it in the notification of the Government of India in
+the Ministry of Finance, Department of Revenue No. 9/2003-Central Excise dated the 1st March 2003, published vide
+number G.S.R. 139, dated the 1st March , 2003;
+(b)
+"Board" means the Central Board of Excise and Customs constituted under the Central Board of Revenue Act, 1963 (
+54 of 1963
+);
+(c)
+"Digital signature" has the same meaning as assigned to it in the Information Technology Act, 2000 (
+21 of 2000
+);
+(d)
+"Form" means Form appended to these rules.
+(2)
+Words and expressions used herein and not defined but defined in the Finance Act, 1994 (32 of 1994) and the Central
+Excise Act, 1944 (
+1 of 1944
+) and the rules made thereunder, shall have the meanings respectively assigned to them in those Acts and rules.
+3.
+Annual information return to be furnished.
+- The information return required to be furnished under subsection (1) of section 15A of Central Excise Act, 1944 shall
+be furnished annually by every person mentioned in column (2) of the Table below in respect of all transactions of the
+nature and value specified in the corresponding entry in column (3) of the said Table, recorded or received by him during
+every financial year beginning on or after the 1st day of April, 2015, in the Form AIRF, along with the Annexure to the
+said Form, as specified in column (4) of the said Table, namely:-
+Table
+Sl. No.
+Class of person
+Nature and value of transaction
+Annexure to Form AIRF
+(1)
+(2)
+(3)
+(4)
+1
+An officer of the Reserve Bank of India constituted under
+section 3 of the Reserve Bank of India Act, 1934, who is duly
+Page 2/8
+----- PAGE 3 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+authorised by the Reserve Bank of India in this behalf.
+Details of foreign remittances for the receipt of services
+declared under purpose codes, namely, S0017, S0205, S0207, S0211,
+S0213, S0402, S0403, S0404, S0502, S0602, S0603, S0604, S0701,
+S0702, S0703, S0801, S0802, S0803, S0804, S0901, S1002, S1003,
+S1005, S1006, S1007, S1008, S1009, S1101 for such entities whose
+value of remittances aggregates to more than fifty lakh rupees in
+a financial year to which the return pertains.
+AIRA-I
+2
+An officer of a State Electricity Board or an electricity
+distribution or transmission licensee under the Electricity Act
+2003, or any other entity entrusted with such functions by the
+Central Government or State Government, who is duly authorised by
+such State Electricity Board or an electricity distribution or
+transmission licensee or other entity, as the case may be.
+Electricity consumed by such manufacturers, using an induction
+furnace or rolling mill to manufacture goods falling under
+Section XV of the First Schedule to the Central Excise Tariff
+Act, 1985 (
+5 of 1986
+) whose aggregate value of clearances exceeds
+one hundred and fifty lakh rupees in the financial year to which
+the return pertains, as identified and intimated to him by the
+Principal Chief Commissioner or the Chief Commissioner of Central
+Excise and Service Tax in-charge of the Central Excise or Service
+Tax Zone, by the 30th June of the subsequent financial year.
+AIRA-II
+4.
+Time for furnishing information return.
+- The information return referred to in rule 3 shall be-
+(a)
+filed on or before the 31stof December of the financial year following the financial year to which the return pertains:
+Provided that the Board, may, by way of an order, extend the date for filing such return for reasons to be recorded in
+writing in such order;
+(b)
+filed electronically, in Form AIRF, along with the Annexure of this Form, to the Directorate General of Systems and Data
+Management:
+Provided that the Board, may by way of an order, designate an officer in the office of the Directorate General of Systems
+and Data Management, or any other officer or agency to receive the returns and may appoint an officer designated as
+the Annual Information Return-Administrator, not below the rank of the Commissioner of Central Excise and Service
+Tax, for the purposes of day to day administration of furnishing of the said information return including specification of
+the procedures, data structure, formats and standards for ensuring secure capture and transmission of data, evolving
+and implementing appropriate security, archival and retrieval policies:
+Provided further that till such time as the Board designates such an officer or agency for receiving the said information
+returns in the electronic format, or till such time the Annual Information Return- Administrator finalises the formats and
+standards for secure capture and transmission of data, the said returns may be filed in a computer readable media being
+a Compact Disc-Read Only Memory (CD-ROM) or a Digital Video Disc (DVD);
+(c)
+signed and verified by the person referred to in column (2) of the Table in rule 3.
+Form AIRF
+Page 3/8
+----- PAGE 4 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+[Return under Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016]
+Annual Information Return
+(Please read the instructions carefully before filling up the relevant columns)
+1.
+{|
+Name of the person (in block letters)
+|-
+| 2.
+| Address (in block letters) (Please leave one blank box between
+two words.)
+|-
+|
+| (i) Name of Premises / Building
+|-
+|
+|
+|-
+|
+| (ii) Flat/Door/Block No.
+|-
+|
+|
+|-
+|
+| (iii) Road/Street/Lane
+|-
+|
+|
+|-
+|
+| (iv) Village / Area / Lane
+|-
+|
+|
+|-
+|
+| (v) Block/Taluk/Sub-Division/Town
+|-
+|
+|
+|-
+|
+| (vi) Post office
+|-
+|
+| (vii) City/District
+|-
+|
+|
+|-
+|
+Page 4/8
+----- PAGE 5 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+| (viii) State/Union Territory
+|-
+|
+|
+Name
+Code
+|-
+|
+| (ix) PIN
+|-
+|
+| (x) Telephone Nos:
+|-
+|
+| (xi) Mobile No.
+|-
+|
+| (xii) E-mail Address
+|-
+| 3.
+|
+|-
+|
+|
+Financial Year (transactions relating to which are reported)
+|-
+| 4.
+|
+|-
+|
+|
+Class of person
+|-
+|
+| (Dropdown menu showing all the class of persons)
+|-
+| 5.
+| Details as per formats enclosed: Annexure AIRA-I and Annexure
+AIRA-II
+|-
+| 6.
+| Verification.
+|}
+I ...................(full name in block letters), son/daughter of .......... hereby, solemnly, declare that the information given in
+this return is true, correct and complete in every respect. I further declare that I am authorised to sign this return and
+verify it.
+(Name of the Assessee or Authorised signatory)
+Designation in the organisation:
+Place:
+Date:
+Annexure AIRA-I
+Page 5/8
+----- PAGE 6 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+For Reserve Bank of India
+Sr. No.
+Purpose code
+Name of remitter
+Address of remitter
+PAN of remitter
+Total amount of remittances in a financial year
+Name of remittee
+Address of remittee
+Foreign currency (Currency name and amount)
+Indian rupee (Amount only)
+Name
+Amount
+Annexure AIRA-II
+For Electricity Companies
+Sr. No.
+Consumer number
+Name of consumer
+Address of consumer
+Central Excise registration number as intimated
+by Chief Commissioner of Central Excise
+Total number of units of electricity consumed in
+whole year
+Instructions for Filing Annual Information Return
+1. All entries in the columns are required to be made in BLOCK letters.
+2. One box must be left blank between two words.
+3. For State/Union Territory Code in item (viii) in serial number 2
+Codes
+Name of State
+Codes
+Name of State
+01.
+ANDMAN AND NICOBAR ISLANDS
+19.
+MAHARASHTRA
+02.
+ANDHRA PRADESH
+20.
+MANIPUR
+03.
+ARUNACHAL PRADESH
+21.
+MEGHALAYA
+04.
+ASSAM
+22.
+MIZORAM
+05.
+BIHAR
+23.
+NAGALAND
+Page 6/8
+----- PAGE 7 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+06.
+CHANDIGARH
+24.
+ORISSA
+07.
+DADRA AND NAGAR HAVELI
+25.
+PONDICHERRY
+08.
+DAMAN AND DIU
+26.
+PUNJAB
+09.
+DELHI
+27.
+RAJASTHAN
+10.
+GOA
+28.
+SIKKIM
+11.
+GUJARAT
+29.
+TAMIL NADU
+12.
+HARYANA
+30.
+TRIPURA
+13.
+HIMACHAL PRADESH
+31.
+UTTAR PRADESH
+14.
+JAMMU AND KASHMIR
+32.
+WEST BENGAL
+15.
+KARNATAKA
+33.
+CHHATISGARH
+16.
+KERALA
+34.
+UTTARANCHAL
+17.
+LAKSHWADEEP
+35.
+JHARKHAND
+18.
+MADHYA PRADESH
+36.
+Page 7/8
+----- PAGE 8 -----
+The Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016
+TELANGANA
+4. For item at serial number 4, "Class of person" means the person referred in column 2 of the Table in rule 3 of the
+Service Tax and Central Excise (Furnishing of Annual Information Return) Rules, 2016.
+Related AI tags, queries and research notes
+Translation
+Page 8/8

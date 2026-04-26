@@ -1,0 +1,172 @@
+
+----- PAGE 1 -----
+The Customs (Furnishing of Information) Rules, 2017
+The Customs (Furnishing of Information) Rules, 2017
+Source: https://indiankanoon.org/doc/135324948/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Customs (Furnishing of Information) Rules, 2017
+UNION OF INDIA
+India
+The Customs (Furnishing of Information) Rules, 2017
+Rule THE-CUSTOMS-FURNISHING-OF-INFORMATION-RULES-2017 of 2017
+Published on 14 December 2017
+Commenced on 14 December 2017
+[This is the version of this document from 14 December 2017.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Customs (Furnishing of Information) Rules, 2017
+Published vide Notification No. G.S.R. 1512(E), dated 14th December, 2017
+Ministry of Finance
+(Department of Revenue)
+(Central Board of Excise and Customs)
+No. 114/2017-Customs (N.T.)
+G.S.R. 1512(E). - In exercise of the powers conferred by sections 108A read with section 156 of the Customs Act, 1962
+(
+52 of 1962
+), the Central Government hereby makes the following rules, namely:-
+1.
+Page 1/4
+----- PAGE 2 -----
+The Customs (Furnishing of Information) Rules, 2017
+Short title and commencement.
+(1)
+These rules may be called the Customs (Furnishing of Information) Rules, 2017.
+(2)
+They shall come into force from the 1st day of January, 2018.
+2.
+Definition.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"authorised person" means any person authorised by the class of person referred to in column (2) of the Table given in
+rule 3;
+(b)
+"Information-Administrator" means the proper officer specified by the Board for purposes of receipt of the information
+under section 108A of the Customs Act, 1962 from the authorised person;
+(c)
+"Information Receiving Authority" means an authority referred to in column (4) of the Table as given in rule 3 to receive
+the information from the class of person referred to in column (2) of the said Table.
+(2)
+Words and expressions used herein and not defined in these rules but defined in the Customs Act, 1962 (
+52 of 1962
+) shall have the meaning respectively assigned to them in the Customs Act, 1962.
+3.
+Information to be furnished.
+- The information required to be furnished under sub-section (1) of section 108A of the Customs Act, 1962, shall be
+furnished electronically by a person mentioned in column (2) of the Table below in respect of the all transactions of the
+nature specified in the corresponding entry in column (3) of the Table, recorded or received by him to the receiving
+authority mentioned in column (4) of the said Table.
+Sl.No.
+Class of person
+Nature of transaction
+Receiving Authority
+(1)
+(2)
+(3)
+(4)
+1.
+A Banking Company within the meaning of clause
+(a) of section 45A of the Reserve Bank of India Act, 1934.
+Details of foreign exchange transactions made or
+received by any person as per Annexure-1.
+Directorate of Revenue Intelligence.
+4.
+Format, periodicity and manner of furnishing information.
+(a)
+The Information-Administrator may receive the information and may issue necessary instructions relating to the day to
+day administration of furnishing of the said information and the said Information Administrator may specify mandatory or
+non-mandatory fields in the format, periodicity and manner of furnishing information apart from the procedures, data
+structure and standards for ensuring secure capture and transmission of data, evolving and implementing appropriate
+security, archival and retrieval policies: Provided that till such time the Information-Administrator specifies the modalities
+for secure capture and transmission of data, the said information may be furnished through a secure, electronic medium
+Page 2/4
+----- PAGE 3 -----
+The Customs (Furnishing of Information) Rules, 2017
+to the Information-Administrator.
+(b)
+The information referred to in rule 3 shall be verified and signed by the authorised person.
+Annexure- 1
+(i)
+For Outward remittances:
+Remitter Details
+Remittee Details
+Sr. No.
+Purpose Code
+Name of Remitter
+Address of Remitter
+PAN of Remitter
+GSTIN No.  of Remitter
+Aadhaar No. of Remitter
+IFSC
+Bank Account no.
+Name of Remittee
+Address of Remittee
+Swift Bic
+Bank Account No.
+Amount of Remittances in
+Mode of Payment (Cash, TT, DD, etc)
+Date of Remittance
+Reference documents based on which such
+Remittance is made or sent such as Bill of Entry number along
+with date, Invoice number along with date or similar documents
+Foreign Currency
+Indian Rupee (Amount only)
+Currency Name
+Amount
+(ii)
+For Inward Remittances:
+Remittee Details
+Remitter Details
+Sr. No.
+Purpose Code
+Name of Remitter
+Address of Remitter
+PAN of Remitter
+GSTIN No.  of Remitter
+Aadhaar No. of Remitter
+IFSC
+Bank Account no.
+Name of Remittee
+Address of Remittee
+Swift Bic
+Bank Account No.
+Amount of Remittances in
+Mode of Payment (Cash, TT, DD, etc)
+Date of Remittance
+Page 3/4
+----- PAGE 4 -----
+The Customs (Furnishing of Information) Rules, 2017
+Reference documents based on which such
+Remittance is received such as Shipping Bill number along with date or invoice number along with date or similar
+documents
+Foreign Currency
+Indian Rupee (Amount only)
+Currency Name
+Amount
+Related AI tags, queries and research notes
+Translation
+Page 4/4

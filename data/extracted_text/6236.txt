@@ -1,0 +1,461 @@
+
+----- PAGE 1 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power
+Plants) Regulations, 2007
+Source: https://indiankanoon.org/doc/23195612/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Rajasthan - Act
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations, 2007
+RAJASTHAN
+India
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations, 2007
+Rule
+RAJASTHAN-ELECTRICITY-REGULATORY-COMMISSION-TARIFF-FOR-CAPTIVE-POWER-PLANTS-REGULATION
+S-2007 of 2007
+Published on 17 February 2007
+Commenced on 17 February 2007
+[This is the version of this document from 17 February 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations, 2007
+Published vide Notification No. RERC/Secy/Reg - 62, dated 17.2.2007
+Last Updated 20th May, 2019
+No. RERC/Secy/Reg - 62. - In exercise of the powers conferred on it by section 61 read with section 181 of the
+Electricity Act 2003 (No. 36 of 2003),the Rajasthan Electricity Regulatory Commission, after previous publication, makes
+the following Regulations, namely:-
+1.
+Page 1/9
+----- PAGE 2 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+Short title and commencement.
+(1)
+These Regulations may be called 'The Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants)
+Regulations, 2007', in short RERC (CPP) Regulations'. These Regulations shall come into force from the date of their
+publication in the official gazette.
+(2)
+These Regulations will be applicable on captive Power plants excluding power plants based on Renewable Energy
+Sources.
+2.
+Definitions.
+(1)
+"Act" means the Electricity Act, 2003.
+(2)
+"Captive Power Plant" or "CPP" or "Captive Generating Plant" means a power plant set up by any person to generate
+electricity primarily for his own use and includes a power plant set up by a co-operative society or association of persons
+for generating electricity primarily for the use of members of such a co-operative society or association having the
+eligibility specified as hereinafter.
+(3)
+"Firm power supply" (FP) means a contracted capacity to be supplied for the contracted time of the day basis or on
+whole day basis (round the clock), which a CPP on the basis of its declared availability is obliged to deliver to the
+Licensee on 'take or pay basis' within variation range of +/- 20% of the contracted capacity, for a period of not less than
+one year, however the load factor of power supply for the settlement period, determined on contracted capacity, shall
+not be less than 70%. For the purpose of this:-
+Load Factor %  =| energy supplied during the month in kWh x 100(Capacity contracted during the month in kW)X(agreed
+hours of supplyduring the day) X (No. of Days in the Month)
+(4)
+"Non firm power supply" (NFP) means the contracted capacity to be supplied, on whole day basis or specified time of
+day basis, by the CPP to the licensee for the specified duration of contract period not less than a week (i.e. 7 days)
+within a permissible variation of ± 50% of contracted capacity but does not fulfil the requirement of firm power supply
+and which can be stopped by licensee/CPP at short notice.
+(5)
+"Inadvertent power supply" means unrestricted flow of power from CPP on account of inevitable mis-match between
+generation and load, and which can not be stopped by licensee/CPP. Inadvertent supply will however, be unscheduled,
+non contractual and uninterruptible.
+(6)
+"Existing Captive Power Plants" means CPPs in operation prior to date of notification of these Regulations including
+CPPs whose PPAs have been signed and approved (or pending before the Commission by that date).
+(7)
+"Peak hours" means 18:00 hours to 22:00 hours of the day or such other hours of the day as may be notified by the
+licensee in its area of supply.
+(8)
+"Off-Peak" hours means 22:00hours to 6:00 hours of the day or such other hours of the day as may be notified by the
+licensee in its area of supply.
+(9)
+"Normal hours" means hours other than Off Peak hours & Peak hours.
+(10)
+"Despatch Schedule" means the ex-power plant net MW output of a CPP, scheduled to be exported to the grid from time
+to time.
+(11)
+"Stand by Supply" means supply required by the industrial unit of CPP, contracted with the distribution licensee to cater
+the demand during the period of outage of the CPP.
+Page 2/9
+----- PAGE 3 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+(12)
+"Start up Supply" means essential load of the CPP required during outage as well as for start up load of the CPP as
+contracted with the distribution licensee. Start-up supply thus includes stand by supply for CPP.
+(13)
+"Month" means a calendar month commencing from 00:00 hours of the first day of the month and ending on 24:00 hours
+of the last day of the month.
+The words or expression in these Regulations, which are not defined herein, shall have the same meaning as defined in
+the rules, regulations & Act in the order specified hereunder.
+(a)
+Ministry Of Power Rules ref. GSR 379(E) notified on June 8, 2005.
+(b)
+RERC (Terms & Conditions for determination of tariff) Regulation 2004 [RERC (T&C for tariff) Regulation].
+(c)
+The Electricity Act 2003 (the Act).
+3.
+Eligibility for CPP.
+- A Captive Generating Plant established under section 9 of the Act shall qualify as a CPP for the purpose of these
+Regulations if,
+(1)
+in case of a power plant:-
+(a)
+not less than twenty six percent of the ownership is held by the captive user(s), and
+(b)
+not less than fifty one percent of the aggregate electricity generated in such plant, determined on an annual basis, is
+consumed for the captive use:
+Provided that in case of power plant set up by registered cooperative society, the conditions mentioned under
+paragraphs at (a) and (b) above shall be satisfied collectively by the members of the co-operative society:
+Provided further that in case of power plant setup by association of persons, the captive user(s) shall hold not less than
+twenty six percent of the ownership of the plant in aggregate and such captive user(s) shall consume not less than fifty
+one percent of the electricity generated, determined on an annual basis, in proportion to their shares in ownership of the
+power plant.
+(2)
+in case of a generating station owned by a company, formed as special purpose vehicle for such generating station
+herein a unit or units of such generating station identified for captive use, and not the entire generating station, shall
+satisfy the conditions contained in paragraphs (a) and (b) of sub-clause (1) above, provided that -
+(a)
+The electricity required to be consumed by captive users shall be determined with reference to such generating unit or
+units in aggregate identified for captive use and not with reference to generating station as a whole; and
+(b)
+The equity shares to be held by the captive user(s) in the generating station shall not be less than twenty six per cent of
+the proportionate of the equity of the company related to the generating unit or units identified as the captive generating
+plant.
+Illustration. - if a generating station with two units of 50 MW each namely Units A and B, one unit of 50 MW, namely Unit
+A, may be identified as the Captive Generating Plant. The captive users shall hold not less than thirteen percent of the
+equity shares in the company (being the twenty six percent proportionate to Unit A of 50 MW) and not less than fifty one
+percent of the electricity generated in Unit A determined on an annual basis is to be consumed by the captive users.
+(c)
+It shall be the obligation of the captive users to ensure that the consumption by the Captive Users at the percentages
+mentioned in subclauses (1) above is maintained and in case the minimum percentage of captive use is not complied
+within any year, the entire electricity generated shall be treated as if it is a supply of electricity by a generating company.
+4.
+Page 3/9
+----- PAGE 4 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+Options for Sale of Power by CPP.
+(1)
+The Captive Power Plant, after meeting requirement of captive use by its industrial unit, shall have option for sale of
+electricity available after fulfilling eligibility criteria of CPP;
+(a)
+to Distribution licensee within the state under different mode of commercial arrangements
+(b)
+balance, after meeting requirement at serial number (a); to third party, or to other than the distribution licensee within the
+State, through open access which shall be governed by RERC (Terms & Condition for Open Access) Regulations, 2004
+(Open Access Regulations).
+(2)
+The CPP, shall convey its willingness to sale power to distribution licensee by giving at least 10 day's notice to choose
+either of the two options, viz.,
+(a)
+Firm power, (FP)
+(b)
+Non firm power, (NFP)
+Provided that:
+(i)
+The firm power will automatically get converted into Non firm power, if its conditionalities are not met but non firm power,
+whether contracted or not, will not be convertible to firm power unless there is agreement to sell firm power and
+corrective steps are taken and firm power conditionalities are restored for 24 Hrs, with advance notice.
+(ii)
+Supply of power, whether against FP or NFP contract, with a variation beyond +50% shall be treated like inadvertent
+supply but shall be interruptible/ stoppable.
+5.
+Tariff for sale by CPP to licensee under "Firm Power" supply.
+(1)
+A CPP, irrespective of any saleable capacity, having installed capacity of 60 MW and above, will have option to either
+get the tariff determined for firm supply on case to case basis as a generating company by filing petition or may opt for
+normative fixed charges (levelised) and normative variable charges as determined by the Commission under these
+regulation. Fixed charges shall be the levelised fixed charges on per kWh basis and variable charges per kWh for supply
+during different time of the day shall be admissible as under:-
+(a)
+during off peak hours: full variable charges and no fixed charges,
+(b)
+during normal supply hours: full variable charges plus 90% of fixed charges and
+(c)
+during peak hours for supply: full variable charges plus 90% of fixed charges and incentive @ 50 paisa per KWh.
+(2)
+Alternatively the tariff, determined through transparent competitive bidding, may be as adopted by the Commission
+under section 63 of the Act. In case the tariff is determined by such bidding process, the provisions of CPP Regulation
+for determination of tariff will not apply.
+(3)
+The Commission shall determine Tariff for procurement of power by licensee from CPP under firm power supply
+arrangement subject to following conditions:
+(a)
+The contract period shall be one year or more.
+(b)
+The variation in contracted capacity to be declared as day ahead schedule shall not exceed ± 20% of contracted
+capacity. The load factor of power supply for the settlement period determined on contracted capacity shall not be less
+Page 4/9
+----- PAGE 5 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+than 70%.
+(c)
+The variable charge component shall be determined in accordance with sub-regulation (4) below.
+(d)
+Fixed charge component shall be payable for the average of Ex-works power delivered during each time block and shall
+be determined in accordance with sub-regulation (1) above read with sub-regulation (5) below.
+(4)
+Variable charge component shall cover fuel costs and shall be worked out on the basis of ex-bus energy delivered from
+the generating station as per following formula:
+(a)
+Variable Charge (VC) in Rs/ kWh,shall be the sum of the cost of normative quantities of primary and secondary fuel for
+delivering ex-bus one kWh of electricity in Rs/kWh and shall be computed as under:
+VC  =| 100 x {Pp x (Qp)n + Ps x (Qs)n }(100-(AUXn) )
+Where,
+Pp = Price of primary fuel namely coal or lignite, as the case may be, in Rs/kg.
+(Qp)
+n = Normative Quantity of primary fuel required for generation of one kWh of electricity at generator terminals in kg and
+shall be computed on the basis of normative gross Station Heat Rate (less heat contributed by secondary fuel oil for
+coal/lignite based generating stations) and gross calorific value of coal/lignite as fired.
+Ps = Price of Secondary fuel oil in Rs./ml,
+(Qs)
+n =Normative Quantity of Secondary fuel oil in ml/kWh, and
+AUXn= Normative Auxiliary Energy Consumption as % of gross generation.
+Provided that Pp & Ps, for the year shall be based on audited figures of previous
+year & shall be subjected to prudence check by the Commission.
+Parameters Units Unit Size of CPP (MW)
+(b)
+Station-wise energy charges will be worked out for the purpose of billing based on weighted average rate of actual units
+generated
+(c)
+Adjustment to variable charge on account of variation in price of fuels shall be carried out on quarterly basis based on
+actual cost of fuel and calorific value of fuel, during immediate preceding quarter.
+Provided that for any variation in REC exceeding 10% of that approved by the Commission during fiscal year, shall be
+subject to approval of the Commission for which necessary calculations with supporting documents shall be provided in
+support of the claim.
+(d)
+Normative performance parameters for the determination of variable charge component under these Regulations shall
+be as under:
+Parameters
+Units
+Unit Size of CPP (MW)
+<30 MW
+30 but <60 MW
+60 but <110 MW
+110 MW & above
+Station Heat rate
+Kcal/k Wh
+3200
+3000
+2700
+As per RERC (Terms & Conditions for
+Page 5/9
+----- PAGE 6 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+determination of Tariff) Regulations, 2004
+Specific Oil Consumption
+ml/kWH
+3.00
+2.50
+2.00
+Auxiliary Consumption factor
+%
+11.00%
+10.75%
+10.50%
+Note. - In case of CPP having number of units of different rating, their average rating will be considered.
+(5)
+(a)
+As per RERC (Terms & Conditions for determination of tariff) Regulations 2004 as modified, fixed charge component
+shall comprise of various annual fixed costs converted to rate per kWh of energy corresponding to delivery/ sale of
+energy at 80% PLF and levelised for the life of the plant in determining the annual fixed cost.
+(i)
+The pre-tax return on equity shall be computed at the rate of 14% of equity component.
+(ii)
+Income Tax and minimum alternate tax (MAT) during normal hours for determination of the fixed cost and interest
+charge on outstanding loan based on next five years average shall be allowed.
+(iii)
+Advance against depreciation (AAD) shall not be allowed.
+(b)
+Annual Fixed Charge (AFC) will comprise of total annual expenses of CPP computed on the basis of expenses and
+return allowed in terms of Part II read with Regulations 40, 42 & 43 of the RERC (Terms and Conditions for
+determination of Tariff) Regulations, 2004 to the extent modified in these Regulations.
+Provided that for determination of tariff, on case to case basis, for CPPs with installed capacity of 60 MW and above,
+capital cost shall be considered as capital cost actually incurred or Rs 4 Crore per MW of installed capacity, whichever is
+lower.
+Provided further that for the determination of normative tariff for CPPs having installed capacity less than 60 MW, capital
+cost shall be considered as Rs 4 Crore per MW of installed capacity.
+(c)
+Payment of Fixed Charges shall be made on monthly basis and based on delivered energy.
+(d)
+Normative parameters vide sub-regulation(a) &(b) above shall be subject to review at the end of tariff period.
+6.
+Tariff for sale by CPP to licensee under Non Firm Power (NFP) supply.
+- The tariff for sale of NFP supply by it for specific time of the day will be 90% of tariff specified for "Firm Power" supply
+for corresponding time of the day i.e normal hours, peak hours and off peak hours.
+7.
+Tariff for sale by CPP to licensee for inadvertent power arrangement.
+(1)
+The inadvertent power injection by CPP beyond 1% of the installed capacity of CPP or injection in violation of SLDC's
+intimations for deemed inadvertent power vide regulation 4(2)(ii), shall neither be paid nor banked.
+(2)
+The UI rate, as applicable at 50.0 Hz, shall be applicable for net inadvertent power injection at the end of six months
+settlement period.
+8.
+Banking.
+Page 6/9
+----- PAGE 7 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+- The banking of electricity supplied by CPP shall be effected on the following basis:-
+(i)
+Net injection (i.e. export less import) during each time zone will be banked and will be available @ 80% during next
+monthly billing period and will be permitted for drawl as per CPPs drawl schedule, as under:-
+(a)
+During respective time zone of injection, and
+(b)
+During other than respective time zone as under:-
+(i)
+Energy Banked during peak load hours shall be permitted for drawl during normal & off peak load hours time zones.
+(ii)
+Energy Banked during other than peak hours shall be permitted for drawl during off peak hour's time zone.
+(ii)
+Banked energy shall be adjusted against the drawl only to the extent net drawl is not below minimum billing.
+(iii)
+Banked energy at the end of six months will be settled at the interstate ABT rate at 50 Hz.
+(iv)
+Energy accounting period may be a month or a shorter period (e.g a week to 15 days), for non firm power as mutually
+agreed. In latter case, instead of 80% at Sr.No.(i), 90% of net energy banked will be available during next accounting
+period.
+(v)
+Drawl, including energy banked, shall not exceed contract demand.
+9.
+Other charges.
+(1)
+Grid connectivity charges. -
+(a)
+The connectivity of CPP to Grid or State transmission system shall be governed by the connection conditions stipulated
+under State Grid Code and Connectivity Regulations of Central Electricity Authority, as & when notified in accordance
+with sub-section (b) of Section 73 of the Electricity Act 2003.
+(b)
+The Commission shall specify from time to time the 'Grid connectivity charges' to be applicable for parallel operation of
+the CPP with the grid separately.
+(2)
+Charges for Reactive Energy Exchanges. - (a) The CPP shall strive to maintain the power factor close to unity.
+(b)
+Reactive power tariff for injection / drawl of reactive power below 97% of rated voltage and that above 103% of rated
+voltage shall be applicable to CPP, as per para 22(B)(10) of the Commission's order dated 31.3.06 on transmission tariff
+and provisions referred to therein (including regulation 21 of Open Access Regulations).
+(c)
+Till meters as per sub-regulation (b) are installed, reactive energy charges shall be levied on net reactive energy drawl/
+injection by the CPP.
+(d)
+Above mechanism of terms of reactive energy charges shall be applicable as interim arrangement till the RVPN
+undertake reactive energy planning studies and ascertain reactive power compensation requirement of the Grid as per
+State Grid Code.
+(3)
+State Load Despatch Centre fee and charges. - SLDC fee and charges including scheduling and operating charges shall
+be payable as specified in the Rajasthan Electricity Regulatory Commission (Levy of fee and charges by SLDC)
+Regulations, 2004.
+(4)
+Page 7/9
+----- PAGE 8 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+Charges for Standby and start-up supply (Optional for CPP). - (a) Stand by supply and start up supply shall be effected
+at the request of CPP or as per agreement with CPP by the distribution licensee. These will be available only during
+outages for annual planned maintenance, other maintenance and forced outage. Annual planned maintenance schedule
+will be given by 15th November, to be finalized by SLDC/NRLDC. Other planned maintenance shall be effected with 2
+days advance notice, except in unforeseen circumstances such intimation may be sent within 30 minutes of unit outage.
+(b)
+Standby and start up supply during a month shall be billed at temporary supply tariff on daily basis as per tariff for supply
+of electricity notified by the distribution licensee with the approval of the Commission as applicable to HT large industrial
+supply service. Contracted standby start up supplies shall be subject to minimum annual drawl for 42 days in a financial
+year.
+(c)
+In case CPP does not contract for standby or start-up supply, it can apply for temporary supply as and when break down
+occurs as per prevailing terms & conditions of supply of the distribution licensee.
+10.
+Minimum billing.
+(1)
+Provisions of minimum billing, if applicable, on consumers with embedded CPP (i.e CPP and its industrial unit located in
+same premises) shall be reduced by the energy charges to the extent of net energy supply effected under FP & NFP
+contract.
+(2)
+CPP will be allowed to reduce the contract demand of its industrial unit with the licensee/Discom at one month notice
+normally not more than once in a year.
+11.
+Applicability of ABT.
+- As compensation to CPP is linked to 'actual energy delivered' by CPP and not linked to 'energy schedules' furnished by
+CPP, the provisions of Intra state ABT Regulations as notified in the RERC (Intra state ABT) Regulations 2006 shall not
+be applicable to CPP. However, in case CPP is required to sell any or part of its capacity outside the State of Rajasthan
+then provisions of RERC (Intra-State ABT) Regulations 2006 shall be applicable to such CPP to the extent feasible.
+12.
+Scheduling.
+- CPPs with installed capacity of 25 MW and above, and effecting supply under FP or NFP supply agreement shall be
+subject to 'Scheduling and Despatch Code' as stipulated under State Grid Code and relevant Regulations. The
+methodology of scheduling and availability shall be as provided in the State Grid Code Regulations. However, it is
+clarified that the CPPs shall furnish schedules to SLDC for monitoring, co-ordination and control purposes alone; the
+payment to CPPs shall be based on actual energy delivered by CPP and not linked to schedules furnished by CPP.
+13.
+Metering and Accounting.
+(1)
+Metering arrangements, including installation, testing and operation and maintenance of meters shall be as per the
+Central Electricity Authority (CEA) (Installation and Operation of Meters) Regulations, 2006.
+(2)
+In case, CPP and its industrial unit are located within the same premises (i.e embedded CPP) then there should be
+adequate arrangement of separate metering system for CPP and its industrial unit, if industrial unit is also a consumer of
+the licensee and there is sale of power by the CPP through the grid.
+(3)
+Collection, transmission and processing of data required for accounting of energy exchanges on the basis of normal
+hour, peak hour and off-peak hour supply shall be organised by the State Transmission Utility/ State Load Despatch
+Centre.
+14.
+Commercial Arrangement.
+- (1) Agreement for FP. - A Power Purchase Agreement for FP will be signed between the licensee and the CPP for
+Page 8/9
+----- PAGE 9 -----
+Rajasthan Electricity Regulatory Commission (tariff for Captive Power Plants) Regulations,...
+supply of firm power which will clearly indicate the capacity in MW contracted for supply and the agreed time zone
+during which supply shall be effected. It shall provide payment security mechanism as mutually agreed between
+licensee and CPP.
+(2)
+Agreement for NFP. - Supply of Non firm power shall be either through PPA or contract established by exchange of
+letters, which will clearly indicate the capacity in MW contracted for supply and the agreed time zone during which
+supply shall be effected and shall provide payment security mechanism as mutually agreed between licensee and CPP.
+(3)
+Billing and Payment. - (a) The bills for supply of FP shall be raised by CPP on monthly basis for the power supplied
+during the month to the Distribution Licensee, in whose area the CPP is located.
+(b)
+The bills for NFP shall be raised by CPP on monthly or fortnightly or weekly basis as mutually agreed depending upon
+the contract duration to the Distribution Licensee, in whose area the CPP is located.
+(c)
+The bills for supply of IP shall be raised by CPP on six monthly period basis (April to September & October to March) for
+the net power supplied during the six months period to the Distribution Licensee, in whose area the CPP is located.
+(d)
+The Distribution licensee shall raise the bill of power supply made to CPP and the CPP shall raise the bill for power
+supplied by it at the end of each month. In case the distribution licensee needs to make payment to the CPP, the same
+will be done after adjusting for amount payable by CPP for the bills in respect of the energy consumed by the CPP and/
+or other charges due to the distribution licensee. The monthly billing shall be subject to interest charges for delay in
+payment as specified at regulation 34 of RERC (T&C for determination of tariff) Regulation, 2004.
+15.
+Power to remove difficulties.
+- If any difficulty arises in giving effect to any of the provisions of these Regulations, the Commission may by general or
+special order, direct the State Transmission Utility, State Load Despatch Centre, CPP and licensees to take such action,
+as may appear to the Commission to be necessary or expedient for the purpose of removing difficulties.
+Related AI tags, queries and research notes
+Translation
+Page 9/9

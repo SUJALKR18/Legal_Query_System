@@ -1,0 +1,309 @@
+
+----- PAGE 1 -----
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Inte...
+The Securitisation and Reconstruction of Financial Assets and
+Enforcement of Security Interest (Central Registry) Rules, 2011
+Source: https://indiankanoon.org/doc/193885946/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (Central Registry)
+Rules, 2011
+UNION OF INDIA
+India
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (Central Registry)
+Rules, 2011
+Rule
+THE-SECURITISATION-AND-RECONSTRUCTION-OF-FINANCIAL-ASSETS-AND-ENFORCEMENT-OF-SECURITY-I
+NTEREST-CENTRAL-REGISTRY-RULES-2011 of 2011
+Published on 31 March 2011
+Commenced on 31 March 2011
+[This is the version of this document from 31 March 2011.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (Central Registry)
+Rules, 2011
+Published vide Notification New Delhi, the 31st March, 2011
+Last Updated 27th January, 2020
+Ministry of Finance
+Page 1/6
+----- PAGE 2 -----
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Inte...
+(Department of Financial Services)
+G.S.R. 276(E). - In exercise of the powers conferred by sub-section (1) and clauses (c) to (g) of sub-section (2) of
+Section 38 read with [sections 20 and 26B]
+[Substituted 'Section 20' by Notification No. G.S.R. 45(E), dated 24.1.2020 (w.e.f. 31.3.2011).]
+of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of
+2002), the Central Government hereby makes the following rules, namely :-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Securitisation and Reconstruction of Financial Assets and Enforcement of Security
+Interest (Central Registry) Rules, 2011.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002
+(54 of 2002);
+(b)
+"Central Register" means the register kept and maintained under Section 22 of the Act;
+(c)
+"Central Registrar" means a person appointed as such under sub-section (1) of Section 21 of the Act;
+(d)
+"Central Registry" means the Central Registry set up under Section 20 of the Act;
+(e)
+"Transaction" means any transaction of securitisation of financial assets or reconstruction of financial assets or security
+interest created over the property and modification and satisfaction of any security interest over property.
+(2)
+Words and expressions used in these rules and not defined shall have the meaning respectively assigned to them in the
+Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002); or
+the Information Technology Act, 2000 (
+21 of 2000
+), as the case may be.
+3.
+Maintenance of Central Register.
+(1)
+A Central Register shall be kept for the purpose of maintaining records of registration of transactions relating to
+securitisation, reconstruction of financial assets and security interest created over properties, under the Act.
+(2)
+All electronic documents, required to be signed by the Central Registrar under the Act or rules made thereunder, shall
+be authenticated through his digital signature.
+4.
+Manner in which particulars of Transaction are to be filed with the Central Registry.
+(1)
+Particulars of every transaction of securitisation or reconstruction of financial assets and satisfaction of such transaction
+on realisation of the financial assets or creation, modification or satisfaction of any security interest required to be
+registered under Section 23, 24 and 25 of the Act, shall be filed in such Forms as may be specified by the Central
+Government from time to time as hereinafter provided.
+(2)
+Page 2/6
+----- PAGE 3 -----
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Inte...
+Particulars of every transaction of seuritisation and reconstruction of financial assets and creation, modification or
+satisfaction of security interest by way of mortgage by deposit of title deeds shall be filed in Form I, Form II, Form III or
+Form IV, as the case may be, and shall be authenticated by a person specified in the Form for such purpose by use of a
+valid digital signature.
+(2A)
+[ Particulars of creation, modification or satisfaction of security interest in immovable property by mortgage other than
+mortgage by deposit of title deeds shall be filed in Form I or Form II, as the case may be, and shall be authenticated by
+a person specified in the Form for such purpose by use of a valid digital signature.
+(2B)
+Particulars of creation, modification or satisfaction of security interest in hypothecation of plant and machinery, stocks,
+debt including book debt or receivables, whether existing or future shall be filed in Form I or Form II, as the case may
+be, and shall be authenticated by a person specified in the Form for such purpose by use of a valid digital signature.
+(2C)
+Particulars of creation, modification or satisfaction of security interest in intangible assets, being knowhow, patent,
+copyright, trade mark, licence, franchise or any other business or commercial right of similar nature, shall be filed in
+Form I or Form II, as the case may be, and shall be authenticated by a person specified in the Form for such purpose by
+use of a valid digital signature.
+(2D)
+Particulars of creation, modification or satisfaction of security interest in any under construction residential or commercial
+building or a part thereof by an agreement or instrument other than by mortgage, shall be filed in Form I or Form II, as
+the case may be, and shall be authenticated by a person specified in the Form for such purpose by use of a valid digital
+signature.]
+[Inserted by Notification No. G.S.R. 102 (E), dated 22.1.2016 (w.e.f. 31.3.2011).]
+(2E)
+[ Particulars of creation, modification or satisfaction of a right, title or interest of any kind, including those referred to in
+sub- clauses (i) and (ii) of clause (zf) of sub-section (1) of section 2 of the Act created by a borrower in favour of other
+creditors shall be filed in Form number I, through (i) e sign (through an Aadhaar based One Time Password validation);
+or (ii) digital signature ; or (iii) CKYC number, as the case may be.
+(2F)
+Particulars of attachment orders as referred to in sub-section (4) of section 26B of the Act with the particulars of the
+assesses and details of tax or other Government dues shall be filed electronically by the officers authorised in that
+behalf by such authority of the Central Government or the State Government or local authority in Form number I, and
+particulars of modification or satisfaction of such attachment orders shall be filed in Form number I or Form number II as
+the case may be.
+(2G)
+Particulars of attachment orders passed by a court or other authority referred to in sub-section (5) of section 26B shall
+be filed electronically by the person in whose favour such orders have been passed in Form number I and the particulars
+of modification or satisfaction of such attachment orders shall be filed in Form number I or Form number II through (i) e
+sign (through an Aadhar based One Time Password validation) ; or (ii) digital signature ; or (iii) CKYC number, as the
+case may be.]
+[Inserted by Notification No. G.S.R. 45(E), dated 24.1.2020 (w.e.f. 31.3.2011).]
+(3)
+The Central Government may specify Forms for filing particulars of creation, modification or satisfaction of security
+interest other than mortgage by deposit of title deeds by amendment to these rules from time to time,
+(4)
+If any security interest being created in favour of two or more lenders, the details as to inter se priority amongst them
+and whether they hold it on a pari passu or subordinate basis shall be required to be specified:
+Provided that if the ranking of security is not available, the Central Registrar may allow such time, not exceeding sixty
+days from the date of application, for the same to be furnished by the secured creditors.
+5.
+[
+Page 3/6
+----- PAGE 4 -----
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Inte...
+[Omitted 'Rule 5' by Notification No. G.S.R. 45(E), dated 24.1.2020 (w.e.f. 31.3.2011).]
+***]
+5. Time limit for registration and condition of delay.- (1) The particulars of every transaction referred to[in sub-rule (1) of
+rule 4]
+[Substituted by Notification No. G.S.R. 102 (E), dated 22.1.2016 (w.e.f. 31.3.2011).]
+shall be filed the Central Registrar within a period of thirty days from the date of such transaction.
+(2) In cases where there is a delay in filing the particulars of transaction for registration or modification or satisfaction
+within the time specified in sub-rule (1), the Central Registrar, on an application in specified form, stating the reasons for
+delay not exceeding thirty days from next following the period of thirty days provided in sub-rule (1) may allow filing of
+the particulars of transaction on payment of additional fees as specified in these rules.
+6.
+Inspection of records of Central Register.
+- The particulars of any transaction kept in the Central Registry shall be open for inspection to any person through the
+website of the Central Registry and during the business hours at the Central Registry on payment of fee specified in rule
+7:
+Provided that the Central Registry may allow the inspection to be carried out through such person, authorised by it in
+this behalf.
+7.
+Fees.
+- Every Form for registration of any transaction relating to security interest over any property and every request for
+inspection of any record maintained by the Central Registry shall be accompanied by a fee specified in the Table given
+below to be paid to the Central Registry in such manner as may be specified from time to time.
+[Table
+[Substituted by Notification No. G.S.R. 102 (E), dated 22.1.2016 (w.e.f. 31.3.2011).]
+Serial Number
+Nature of transaction to be Registered
+Rule
+Form No.
+Amount of fee payable
+(1)
+(2)
+(3)
+(4)
+(5)
+1.
+Particulars of creation or modification of security interest
+by way of mortgage by deposit of title deeds.
+Sub-rule (2) of rule 4.
+Form I
+Rs.100 for creation and for any
+subsequent modification of security interest for a loan above
+Rs.5 lakh.
+For a loan upto Rs.5 lakh, the fee would be Rs.50 for both
+creation and modification of security interest.
+2.
+Particulars of creation or modification of security interest
+by way of mortgage of immovable property other than by deposit of
+title deeds
+Sub-rule (2A) of rule 4.
+Form I
+NIL
+Page 4/6
+----- PAGE 5 -----
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Inte...
+3.
+Particulars of creation or modification of security interest
+in hypothecation of plant and machinery, stocks, debt including
+book debt or receivables, whether existing or future.
+Sub-rule (2B) of rule 4.
+Form I
+Rs. 100 for creation and for any
+subsequent modification of security interest for a loan above Rs.
+5 lakh.
+For a loan upto Rs 5 lakh, the fee would be Rs. 50 for both
+creation and modification of security interest.
+4.
+Particulars of creation or modification of security interest
+in intangible assets, being know-how, patent, copyright, trade
+mark, licence, franchise or any other business or commercial
+right of similar nature
+Sub-rule (2C) of rule 4.
+Form I
+Rs 100 for creation and for any
+subsequent modification of security interest for a loan above Rs.
+5 lakh.
+For a loan upto Rs.5 lakh, the fee would be Rs.50 for both
+creation and modification of security interest.
+5.
+Particulars of creation or modification of security interest
+in any under construction residential or commercial building or a
+part thereof by an agreement or instrument other than by
+mortgage.
+Sub-rule (2D) of rule 4.
+Form I
+Rs.100 for creation and for any
+subsequent modification of security interest for a loan above Rs.
+5 lakh.
+For a loan upto Rs5 lakh, the fee would be 50 for both
+creation and modification of security interest
+6.
+Particulars of satisfaction of charge for security interest
+filed under sub-rule (2) and (2A) to (2D) of rule 4
+Sub-rule (2), (2A), (2B), (2C) & (2D) of rule 4
+Form II
+Nil
+7.
+Particulars of securitisation or reconstruction of financial
+assets
+-
+Form III
+Rs 500/-
+8.
+Particulars of satisfaction of securitisation or
+reconstruction transactions
+-
+Page 5/6
+----- PAGE 6 -----
+The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Inte...
+Form IV
+Rs 50/-
+9.
+Any application for information recorded/ maintained in the
+Register by any person
+-
+-
+Rs 10/-
+10.
+Any application for condonation of delay upto 30 days
+Sub rule (2) of rule 5.
+-
+Not exceeding 10 times of the basic fee , as applicable
+11. [
+[Inserted by Notification No. G.S.R. 45(E), dated 24.1.2020 (w.e.f. 31.3.2011).]
+Particulars of creation, modification or satisfaction of a right, title or interest of any kind, over any property created by a
+borrower in favour of a creditor other than a secured creditor
+Sub-rule (2E) of rule 4.
+Form I
+Rs.100 for creation and for any subsequent modification of security interest for a loan above Rs.5 lakh. For a loan upto
+Rs.5 lakh, the fee would be Rs.50 for both creation and modification of security interest.
+12.
+Particulars of Attachment orders as referred to in sub. section (4) of section 26 B of the Act with the particulars of the
+assesses and details of tax or other Government dues
+Sub-rule (2F) of rule 4
+Form I
+Nil
+13.
+Particulars of attachment orders passed by a court or other authority referred to in sub. section (5) of section 26 B in
+favour of a person.
+Sub-rule (2G) of rule 4
+Form I
+Rs.100 for creation and for any subsequent modification of security interest for a loan above Rs.5 lakh. For a loan upto
+Rs.5 lakh, the fee would be Rs.50 for both creation and modification of security interest.]
+Provided that where particulars of transaction of creation or modification of more than one security interest are filed by a
+person, the fee payable by such person shall be the one that is highest among the fee prescribed for security interests
+for which particulars of creation or modification are filed by such person.]
+Related AI tags, queries and research notes
+Translation
+Page 6/6

@@ -1,0 +1,422 @@
+
+----- PAGE 1 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+Bihar Electricity Regulatory Commission (Demand Side Management)
+Regulations, 2014
+Source: https://indiankanoon.org/doc/148892134/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Bihar - Act
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+BIHAR
+India
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+Rule BIHAR-ELECTRICITY-REGULATORY-COMMISSION-DEMAND-SIDE-MANAGEMENT-REGULATIONS-2014 of
+2014
+Published on 22 August 2014
+Commenced on 22 August 2014
+[This is the version of this document from 22 August 2014.]
+[Note: The original publication document is not available and this content could not be verified.]
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+Published vide Notification No. BERC-SMP-21/14-07-823, dated 22.08.2014
+Last Updated 10th February, 2020
+[Dated 22.08.2014]
+No. BERC-SMP-21/14-07-823. - Whereas Section 23 of the Electricity Act 2003 provides that "If the Appropriate
+Commission is of the opinion that it is necessary or expedient so to do for maintaining the efficient supply, securing the
+equitable distribution of electricity and promoting competition, it may, by order, provide for regulating supply, distribution,
+consumption or use thereof",
+Page 1/8
+----- PAGE 2 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+And Whereas Section 42 (1) of the Electricity Act 2003 provides that "It shall be the duty of a distribution licensee to
+develop and maintain an efficient, co-ordinated and economical distribution s accordance with the provisions contained
+in this Act",
+And Whereas Section 61 of the Electricity Act 2003 provides that "The Appropriate Commission shall, subject to the
+provisions of this Act, specify the terms and conditions for the determination of tariff, and in doing so, shall be guided by
+the following, namely:-"Clause (c) "the factors which would encourage competition, efficiency, economical use of the
+resources, good performance and optimum investment",
+And Whereas Section 86 (2) of the Electricity Act 2003 provides that "State Commission shall advise the State
+Government on all or any of the following matters, namely:-"Clause (i) "promotion of competition, efficiency and
+economy in activities the electricity industry,"
+And Whereas Clause 5.9.2 of the National Electricity Policy provides that "the potential number of installations where
+demand side management and energy conservation measures are to be carried out is very large. Bureau of Energy
+Efficiency (BEE) shall initiate action in this regard. BEE would also make available the estimated conservation and DSM
+potential, its staged implementation along-with cost estimates for consideration in the planning process for National
+Electricity Plan";
+And Whereas Clause 5.9.4 of the National Electricity Policy provides that "In the field of energy conservation initial
+approach would be voluntary and self-regulating with emphasis on labelling of appliances. Gradually as awareness
+increases, a more regulatory approach of setting standards would be followed";
+And Whereas Clause 5.9.6 of the National Electricity Policy provides that "In order to reduce the requirements for
+capacity additions, the difference between electrical power demand during peak periods and off-peak periods would
+have to be reduced. Suitable load management techniques should be adopted for this purpose. Different tariff structure
+for peak and off peak supply and metering arrangements (Time of Day metering) should be conducive to load
+management objectives. Regulatory Commissions should ensure adherence to energy efficiency standards by utilities;
+In exercise of the powers conferred by clause (zp) of sub-section (2) of section 181 of the Electricity Act, 2003 (36 of
+2003), the Bihar Electricity Regulatory Commission hereby makes the following regulations namely Bihar Electricity
+Regulatory Commission (Demand Side Management) Regulations, 2014.
+Chapter I
+General
+1.
+Short Title, Extent and Commencement.
+- 1.1 These Regulations may be called the "Bihar Electricity Regulatory Commission (Demand Side Management)
+Regulations, 2014.
+1.2
+These Regulations shall be applicable to the Distribution Licensees in the State in their respective areas of supply.
+1.3
+These Regulations shall come into force from the date of its notification in the Official Gazette.
+2.
+Definitions.
+- 2.1 In these Regulations, unless the context otherwise requires -
+i. "Act" means the Electricity Act, 2003 (36 of 2003);
+ii. "Baseline data" means the initial base level consumption and/or demand for electricity before a DSM programme
+begins to provide a starting point for comparison for assessing programme impact";
+iii. "Bureau" or "BEE" means the Bureau of Energy Efficiency established under sub-section (1) of Section 2 of The
+Energy Conservation Act, 2001;
+iv. "Commission" means the Bihar Electricity Regulatory Commission constituted under sub-section (1) of Section 82 of
+the Act;
+v. "Cost Effectiveness Index" means an indicator of the attractiveness of any investment in DSM programme or when
+compared to the costs of energy produced and delivered in the absence of such an investment.
+vi. "Demand Side Management" or "DSM" means the actions of a Distribution Licensee, beyond the customer's meter,
+with the objective of altering the end- use of electricity- whether it is to increase demand, decrease it, shift it between
+high and low peak periods, or manage it when there are intermittent load demands in the overall interests of reducing
+Page 2/8
+----- PAGE 3 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+Distribution Licensee costs;
+vii. "DSM Resource Acquisition" means a mechanism to implement DSM projects through customers, Energy Service
+Companies, Non- Government Organizations, Manufacturers/Suppliers, or other Private Sector Organizations, with
+payment made to them by the Distribution Licensee for the resultant energy and load reductions;
+viii. "Energy Service Company" means a company which is in the business of providing energy efficient and load
+management equipment and/or services to endues customers and is approved by Bureau;
+ix. "Evaluation, Measurement and Verification" means activities which evaluate, measure and verify performance or
+other aspects of DSM/energy efficiency programs or their market environment; and
+x. "Monitoring and Reporting" means activities which monitor and evaluate the progress of DSM/energy efficiency
+programs of the Distribution Licensee.
+Chapter II
+DSM Objectives, Targets and Guidelines
+3.
+DSM Objectives.
+- 3.1 The Commission shall formulate DSM objectives that shall be considered in the advancement and implementation
+of cost effective DSM initiatives in the State. The objectives may include power shortage mitigation, seasonal peak
+reduction/peak shifting, cost effective energy savings, lowering the cost of electricity, reduction in emissions of
+greenhouse gases etc.
+3.2
+While formulating the DSM objective, the Commission may take into consideration the National DSM objectives/Plans
+formulated by BEE, if any.
+3.3
+The DSM objectives may be consistent with the DSM objectives set out by Bureau as a part of Energy Conservation
+Plan for the country.
+4.
+Assessment of Technical Potential for DSM.
+- 4.1 The Distribution Licensee in the State shall carry out assessment of potential for DSM in the State every year. The
+first assessment of technical potential for DSM shall be carried out within three months of the notification of these
+Regulations.
+4.2
+Distribution Licensee shall be guided by methodology developed by Bureau of Energy Efficiency while assessing of
+technical potential for DSM.
+5.
+DSM Targets.
+- 5.1 Each distribution licensee shall establish its DSM targets and get it approved by the Commission.
+5.2
+While approving DSM target for the Distribution Licensee, the Commission will give due consideration to factors such as
+consumer mix, load profile, etc.
+5.3
+Examples of DSM targets may include the following :
+(i)
+Percentage reductions in peak load growth;
+(ii)
+Savings in kW, kWh
+(iii)
+Savings as a percentage of total resources required to meet load;
+5.4
+While establishing the targets, the Commission shall consider the technical potential in the State as assessed by the
+Distribution Licensee.
+6.
+Guidelines on DSM Process.
+Page 3/8
+----- PAGE 4 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+- 6.1 The Commission shall issue guidelines to guide the Distribution Licensee in execution of the following activities:
+(i)
+Load and market research;
+(ii)
+Implementation of DSM programmes;
+(iii)
+Cost Effectiveness Assessment of DSM programmes;
+(iv)
+Eligibility criteria for DSM programmes;
+(v)
+Methodology for setting DSM targets and funding levels; and
+(vi)
+Database development framework.
+6.2
+The Commission shall issue guidelines on these matters from time to time.
+6.3
+Issuance of such guidelines shall not be a pre-requisite for preparation and submission of the first DSM plan by the
+Distribution Licensee.
+Chapter III
+DSM Cell
+7.
+Constitution of DSM Cell, its Roles and Responsibilities.
+- 7.1 Every Distribution Licensee shall, constitute DSM Cell within one month of notification of these Regulations.
+7.2
+The DSM Cell so constituted shall be provided with necessary authority, resources and training so as to execute the
+functions assigned to it under these Regulations.
+7.3
+The DSM Cell shall be responsible for :
+(i)
+Load research and development of baseline data;
+(ii)
+Formulation of DSM Plan;
+(iii)
+Planning and development of DSM projects including cost benefit analysis, plans for implementation, monitoring &
+reporting and for measurement & verification;
+(iv)
+Seeking necessary approvals to DSM Plan and individual programmes;
+(v)
+Implementation of DSM Programmes; and
+(vi)
+Any other additional function that may be assigned by the Commission from time to time.
+7.4
+DSM Consultative Committee
+7.4.1
+Constitution of DSM Consultative Committee (DSM-CC) and its functions. - (1) A DSM Consultative Committee
+(DSM-CC) shall be constituted by the Commission which shall be the nodal agency to assist the Licensee and the
+Commission to drive the DSM programme under DSM Regulations. The DSM-CC shall be constituted as indicated
+below:-
+(i)
+Secretary of the Commission- Convener
+(ii)
+Page 4/8
+----- PAGE 5 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+One representative from each of the Distribution Licensee not below the rank of Chief Engineer- Members
+(iii)
+One representative from each of the Transmission Utility not below the rank of Chief Engineer- Members
+(iv)
+Chief Electrical Inspector to the Government (State designated agency for energy audit and efficiency)- Member
+(v)
+Maximum five representatives from educational and research institutions; industry, agriculture and general public who
+have special knowledge or experience of and interest in power sector to be nominated by the Commission- Members
+7.4.2
+The functions of the DSM-Consultation Committee shall be. - (a) to advise the licensee on conducting continuous
+consumer surveys and Load Research to seek information on end-use technologies, usage patterns, willingness to pay,
+sensitivity studies, market research etc. to assess DSM potential;
+(b)
+to promote cross-learning among the stakeholders to design appropriate DSM programmes and plans;
+(c)
+to review DSM programme and DSM Plans submitted by the licensee and to advise the Commission in assessment and
+approval;
+(d)
+to provide support to the Commission for instituting DSM Plan/Programme monitoring, review, evaluation, measurement
+and verification (EM&V) as and when required;
+(e)
+to study the impacts of already implemented DSM Programmes;
+(f)
+to apprise the Commission about all DSM related activities on quarterly basis.
+Chapter IV
+DSM Process
+8.
+Load and Market Research and Development of Baseline Data.
+- 8.1 Distribution Licensee shall undertake load research to identify the target consumer segment/s and end uses for
+DSM programmes to build the necessary database.
+8.2
+Distribution Licensee shall undertake market research to estimate market potential for specific energy efficiency
+technologies and applications, establish key performance indicators, and determine existing baseline market conditions.
+8.3
+On the basis of the results of load and market research, the Distribution Licensee shall develop baseline data for its area
+of supply.
+8.4
+Distribution Licensee shall design, develop and implement initially some DSM programmes on the basis of available
+data and studies completed by BEE till the complete baseline data is available for its area of supply and establishment
+of base line data shall not be a pre-requisite for design of such initial DSM programmes by the Distribution Licensee.
+9.
+Formulation of DSM Plan.
+- 9.1. Distribution Licensee shall formulate and submit to the Commission a perspective DSM plan every year. The Plan
+shall include-
+(i)
+An overall goal for DSM Plan;
+(ii)
+Description of DSM programmes to form a part of DSM Plan;
+(iii)
+Implementation process and schedule of each programme in the plan as a whole;
+(iv)
+Page 5/8
+----- PAGE 6 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+Plan for Monitoring and Reporting, and indicative cost effectiveness assessment of programmes. Notwithstanding
+above, the first DSM plan shall be prepared within three months of the date of notification of these Regulations.
+9.2
+The Distribution Licensee shall include all relevant DSM programmes (including multi-state programmes) developed by
+Bureau of Energy Efficiency in its perspective plan as and when such programmes are announced by Bureau.
+9.3
+The Distribution Licensee shall submit on rolling basis, an annual plan, not inconsistent with the perspective plan, for
+upcoming year, along with the Annual Performance Review.
+9.4
+Selection and prioritization of various DSM programmes in the DSM Plan shall be guided by the following factors:
+(i)
+The Cost effectiveness guidelines issued by the Commission;
+(ii)
+DSM Objectives identified in Regulation 3;
+(iii)
+Whether the proposed programmes supplement National level efforts adopted by the Bureau; and
+(iv)
+Programmes with high visibility and therefore potential for creation of awareness within consumers.
+10.
+Commission Review and Approval of DSM Plan.
+- 10.1 Distribution Licensee shall submit the DSM plan to the Commission every year for approval at least three months
+before the start of the year.
+10.2
+The Commission may adopt procedures as specified in the Conduct of Business Regulations for according approval to
+the DSM Plan.
+11.
+Preparation of DSM Programme Document.
+- 11.1. For each DSM programme included in the DSM Plan, a detailed description shall be provided in a separate
+Programme Document. The description shall include general information, technology, schedule for deployment, budget,
+cost effectiveness assessment, detailed implementation plan, estimation of savings, etc.
+11.2
+For each DSM programme cost benefit analysis shall be carried out as per guidelines issued by the Commission on cost
+effectiveness from time to time.
+12.
+Approval of DSM programme Document.
+- 12.1 Prior to implementing any DSM programme, Distribution Licensee must obtain approval of the Commission.
+12.2
+Each Programme Document shall include the following:
+(i)
+Description of the programme;
+(ii)
+Objective and rationale for the programme;
+(iii)
+Consumer segments and estimated level of participation;
+(iv)
+Estimate of baseline;
+(v)
+Assessment of programme in line with Cost Effectiveness Guidelines issued by the Commission;
+(vi)
+Mechanism for recovery of cost and performance incentives;
+(vii)
+Page 6/8
+----- PAGE 7 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+Marketing, delivery strategy and Implementation schedule;
+(viii)
+Implementation mechanism e.g. Energy Service Companies, DSM Bidding, DSM Resource Acquisition, etc;
+(ix)
+Monitoring and evaluation plan; and
+(x)
+Plan for Training/ Seminars/ Workshops to increase consumer awareness.
+12.3
+The Commission shall approve a DSM program if it is in line with the objectives set out in Section-3 of the Regulations.
+The Commission may direct modifications to proposed or on-going programmes to ensure consistency with the DSM
+Objectives. However, the Commission shall allow Distribution Licensee adequate time to notify such activities.
+13.
+Implementation of DSM programmes.
+- 13.1 Distribution Licensee shall undertake implementation of DSM programmes in line with the guidelines issued by
+the Commission from time to time.
+13.2
+The implementation of the programme shall be undertaken in the manner as approved by the Commission.
+13.3
+Distribution Licensee shall undertake implementation of quick gain DSM programmes.
+13.4
+Distribution Licensee shall carry out implementation of activities assigned to it either by itself or through engagement of
+appropriate independent entity. While doing so, the Distribution Licensee shall ensure that continuity and consistency is
+maintained and interest of the consumers is not compromised.
+14.
+Mechanism for Cost Recovery.
+- 14.1 Distribution Licensee shall identify the net incremental cost, if any, associated with planning, design and
+implementation of programmes.
+14.2
+Cost of all DSM programmes and plans to be implemented by the Distribution Licensee shall be included in the Annual
+Revenue Requirement (ARR) and the licensee will clearly indicate the mechanism for financing of each DSM
+Programme.
+14.3
+In order to qualify for cost recovery, each program must be:
+(i)
+Approved prior to implementation;
+(ii)
+Implemented in accordance with the approved program plan; and
+(iii)
+Implemented cost effectively.
+14.4
+Distribution Licensee shall provide all necessary assistance to the Commission, or third party assigned by the
+Commission in undertaking Evaluation Measurement and Verification of DSM programmes implemented by it.
+15.
+Monitoring and reporting of DSM Programmes.
+- Distribution Licensee shall prepare plan and undertake monitoring and reporting of DSM programmes as per
+Guidelines on Monitoring and Reporting issued by Commission from time to time or as approved by the Commission
+while approving the DSM programme.
+16.
+Evaluation Measurement and verification of DSM Programme.
+- 16.1 Distribution Licensee shall prepare plan for evaluation, measurement and verification of savings from DSM
+programmes as per Guidelines on Evaluation, Measurement and Verification issued by the Commission from time to
+Page 7/8
+----- PAGE 8 -----
+Bihar Electricity Regulatory Commission (Demand Side Management) Regulations, 2014
+time.
+16.2
+Third party Evaluation Measurement and Verification of DSM programmes may be undertaken by the Commission or
+third party assigned by Commission. While engaging the agency, the Commission shall ensure that the Agency is not
+undertaking any other engagement which could conflict with the interests of the consumers in the State.
+16.3
+Distribution Licensee shall make available necessary information/data to the Commission or third party assigned by the
+Commission to measure and verify the savings from DSM programmes.
+Chapter V
+DSM Plan and Programme Completion Report
+17.
+Report on progress of DSM plan and expenses incurred on implementation of DSM Plan shall be submitted by the
+Distribution licensee every six months.
+18.
+The Distribution Licensee will prepare and submit a detailed Programme Completion Report and submit the same to the
+Commission within one month of completion of such programme.
+19.
+The Report shall cover the programme expenses, achievements, outcomes and outputs, constraints and difficulties
+faced, conclusions recommendations, lessons learnt and way forward.
+Chapter VI
+Incentives
+20.
+The Commission may provide incentives to Distribution Utilities for achieving or exceeding DSM Objectives as identified
+in Section 3 of the Regulations.
+Chapter VII
+Miscellaneous
+21.
+Compliance of Directions.
+- The Commission may from time to time, issue orders and practice directions in regard to the implementation of the
+Regulations and procedures to be followed.
+22.
+Disputes.
+- All disputes arising under these Regulations shall be decided by the Commission based on an application made by the
+person aggrieved.
+23.
+Power to Remove Difficulties.
+- If any difficulty arises in giving effect to the provisions of these Regulations the Commission may by general or specific
+order, make such provisions not inconsistent with the provisions of the Act, as may appear to be necessary for removing
+the difficulty.
+24.
+Power to Amend.
+- The Commission may, at any time add, vary, alter, modify or amend any provisions of these Regulations.
+Related AI tags, queries and research notes
+Translation
+Page 8/8

@@ -1,0 +1,899 @@
+
+----- PAGE 1 -----
+The M.P. Housing Board Accounts Rules, 1991
+The M.P. Housing Board Accounts Rules, 1991
+Source: https://indiankanoon.org/doc/16961703/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Madhya Pradesh - Act
+The M.P. Housing Board Accounts Rules, 1991
+MADHYA PRADESH
+India
+The M.P. Housing Board Accounts Rules, 1991
+Rule THE-M-P-HOUSING-BOARD-ACCOUNTS-RULES-1991 of 1991
+Published on 2 February 1994
+Commenced on 2 February 1994
+[This is the version of this document from 2 February 1994.]
+[Note: The original publication document is not available and this content could not be verified.]
+The M.P. Housing Board Accounts Rules, 1991
+Published vide Notification No. F-14(4)-86-32-1, dated 2-2-1994, published in the M.P. Rajpatra (Asadharan), dated
+14-2-1994
+In exercise of the powers conferred by sub-sections (1) and (2) of Section 102 of the Madhya Pradesh Griha Nirman
+Mandal Adhiniyam, 1972 (No. 3 of 1973), State Government hereby makes the following rules for regulating Accounting
+and financial Management of the Madhya Pradesh Griha Nirman Mandal, namely :-
+Section 1
+Preliminary
+1.
+Short title and commencement.
+(1)
+Page 1/17
+----- PAGE 2 -----
+The M.P. Housing Board Accounts Rules, 1991
+These rules may be called the Madhya Pradesh Housing Board Accounts Rules, 1991.
+(2)
+They shall come into force with effect from such date as the State Government may by notification appoint in this behalf.
+2.
+Definitions.
+- In these rules unless the context otherwise requires :-
+(a)
+"Adhiniyam" means the Madhya Pradesh Griha Nirman Mandal Adhiniyam, 1972 (No 3 of 1973);
+(b)
+"Composite Project" means a set of projects grouped for purposes other than maintenance of General Accounts of the
+Board (e.g. obtaining loans from financial institutions or rendering returns to lending agencies);
+(c)
+"Chart of account" means a collective record of account heads under which the financial transactions are grouped for
+management information, making up monthly accounts and to facilitate preparation of final accounts;
+(d)
+"Contingency fund" means the Contingency Fund established under Section 73 of the Adhiniyam;
+(e)
+"Divisional Officer" means the Executive Engineer or any other officer in charge of a Construction Division;
+(f)
+"Detailed Chart of Account" means the Chart of Account containing minor heads, sub-heads, and detailed heads of
+account;
+(g)
+"Detailed Instructions" means the instructions referred to in rules;
+(h)
+"Deposit Works" means works of Government or Semi-Government Bodies or private organisations undertaken by the
+Board on payment of deposit to cover the cost of work;
+(i)
+"General Account" means the account in which financial transactions are classified under the account heads as per
+Chart of Accounts;
+(j)
+"Grant" means in relation to the Budget, the amount noted by the Board or expenditure on a project or service;
+(k)
+"Input Document" means a record containing "Primary Data";
+(l)
+"Maintenance Works Code" means the code assigned to maintenance works in a separate series for each Division;
+(m)
+"Main Chart of Accounts" means the Chart of Accounts containing the major heads of Accounts;
+(n)
+"Memorandum Account" means an account incorporating the balances under more than one account extracted from the
+Trial Balance for the purpose of generating additional management information (e.g. overheads account in which
+expenses recorded under separate major heads and amount defrayed by charge to project account are incorporated);
+(o)
+"Nodal Agency (Word Bank Funds)" means the (Housing) Board acting on behalf of Director of Urban Development in
+performance of the function of channelling the funds provided by World Bank under Madhya Pradesh Urban
+Development Programme to various Implementing Agencies;
+(p)
+"Nominal Muster Roll" means a record of attendance of the labour directly employed by the Housing Board and also
+wages earned and paid;
+(q)
+"Project" means a work sanctioned as a separate unit for the purpose of accounting. In relation to building projects, the
+unit shall be the category of building (i.e., H1G, MIG, LIG, etc.);
+Page 2/17
+----- PAGE 3 -----
+The M.P. Housing Board Accounts Rules, 1991
+(r)
+"Primary Data" means the data containing the full description of financial transactions necessary for grouping several
+transactions under the account heads appearing in Chart of Accounts;
+(s)
+"Project Code" means the code assigned to each constructions project in a single series for the Board covering Land
+Development Projects and Building Projects for identification in accounts;
+(t)
+"Revised Accounting System" means the system introduced under new rules;
+(u)
+"Running Salary Ledger Account" means employee-wise account of salaries paid and deductions made therein;
+(v)
+"Subsidiary Account" means an account containing details in support of the entries in the General account;
+(w)
+"Secured advances" means advances to contractors for their financial accommodation on the strength of materials
+purchased by them and brought to the site for consumption on work; and
+(x)
+words and expressions used in these rules, and not defined, but defined in Adhiniyam, shall have the meanings
+assigned to them in the Adhiniyam.
+Section 2
+Features of the Accounting System
+2.0
+Principles of Accounting. - The following principles and procedures shall govern the accounting system of the Board.
+2.1
+Double Entry. - Accounts shall be maintained under Double Entry System.
+2.2
+Accrual Accounting. - Accounts shall be maintained on accrual basis involving recognition of liabilities and receivable
+amounts. However, for convenience, the Housing Commissioner shall be empowered to permit' accounting on cash
+basis in monthly accounts in specified categories of transactions on an exception basis subject to the condition that this
+relaxation shall not apply to the final accounts of the Board. At the beginning of introduction of these rules, these
+exceptions shall be listed in Part-I of Annexure 'A' to these rules.
+Except as otherwise provided in these rules the accounts of the Board shall be maintained on generally accepted
+commercial principles and practices of accounting.
+2.3
+Budget. - 2.3.1 The Budget of the Board shall be framed adopting the following procedure subject to the provisions of
+the Adhiniyam.
+2.3.2
+Annual Budget shall be related to long term plans.
+2.3.3
+Budget allocations shall be made separately, for each service or function represented by the head(s) of account on the
+prescribed Chart of Accounts.
+2.3.4
+Budget allocations referred to in Rule 2.3.3 shall distinguish cash flows from book adjustment for the purpose of cash
+management. Monthwise projections of cash flows separately for each project shall be related to realistic time schedules
+of execution of projects, contractual obligations for payment, availability of project inputs and time schedules for sale as
+well as approved pattern of recovery of sale proceeds.
+Also budget proposals shall distinguish between the following categories of allocations :-
+(i)
+Liabilities in respect of completed projects.
+(ii)
+Work-in-progress.
+(iii)
+Page 3/17
+----- PAGE 4 -----
+The M.P. Housing Board Accounts Rules, 1991
+New Projects.
+2.3.5
+In order to minimise variations between budget estimates and actuals the following procedure shall be adopted :-
+(a)
+As far as possible budget allocations for new projects should be restricted to projects which have received administrative
+approval.
+(b)
+In respect of project which received administrative approval but there is a long interval between such approval and first
+allocation in budget. It is likely that costs might have escalated during such interval. In such cases, projects estimates
+may be updated on the basis of revised cost norms before incorporation in the budget.
+(c)
+Financial Rules governing payment procedures shall be framed by the Board to prescribe that necessary checks should
+be exercised at the stage of award of contracts or commencement of work and also at the stage of payment of
+safeguard against excess of budget.
+(d)
+Unutilised budget allocations shall be surrendered by the Circle Officer at the earliest date to facilitate re-allocations
+among other projects. A cut-off date in this regard may be prescribed by the Board.
+2.3.6
+The Board shall frame delegation of financial powers rules to regulate re-allocations of budget provisions to meet
+unforeseen emergencies. Also a contingency fund may be prescribed in the Griha Nirman Mandal Adhiniyam and rules
+framed for operating the same.
+2.3.7
+Each Circle shall function as a budget centre. Accordingly a separate budget shall be framed and incorporated in the
+Board's Budget.
+Monitoring of actuals against estimates (i.e. expenditure and receipts) separately for cash component and total
+allocations including adjustments shall be done separately for each Circle. Reasons for variations exceeding prescribed
+limits shall be placed before the Board together with audit comments thereon.
+2.4
+Process of Accounting. - Accounting in the Board shall be organised as laid down in the following rules.
+2.5
+Format of Accounts. - 2.5.1 Primary Data regarding the financial transaction of the Board shall be recorded in the
+account format prescribed by the Housing Commissioner. Each set of transactions comprised in such data having
+common characteristic relevant to the functioning of the Board shall be grouped in the account formats and recorded as
+distinct entries. Each such group shall be assigned a descriptive name and code number by the Housing Commissioner
+denoted by account heads. At the beginning of the introduction of these rules the Board shall adopt the Chart of Account
+annexed hereto containing these account heads. These account heads (major heads) may be further sub-divided into
+sub-groups denoted by minor, sub and detailed head as set out in detailed chart of accounts.
+2.5.2
+Account Formats shall be categorised as :-
+-Input documents (i.e. Vouchers, Money Receipts, Remittance Slips, Stock Indents, Bank Advices/scrolls).
+-Basic Accounts Records (i.e. cash book, journal etc.).
+-Ledgers.
+-Monthly accounts.
+2.6
+Processing of Data. - 2.6.1 Account heads prescribed under Rule 2.5.1 shall invariably be recorded in all input
+documents and checked by a nominated officer of the Board before a payment is made or remittance accepted by the
+Bank or the Board or a transaction is journalised. Opening of unauthorised account heads shall be prohibited. Account
+heads shall be transcribed from input documents into Basic Account Records.
+2.6.2
+Ledgers shall be organised by grouping them into Main Ledgers and Subsidiary Ledgers. Main Ledger shall contain
+accounts each corresponding to a major head of account. Subsidiary ledgers shall contain accounts each corresponding
+Page 4/17
+----- PAGE 5 -----
+The M.P. Housing Board Accounts Rules, 1991
+to a minor, sub or detailed head as set out in the Detailed Chart of Accounts. Main Ledgers shall be posted from the
+Cash Book(s) or journal whereas subsidiary ledgers shall be posted from the input documents. Main and Subsidiary
+Ledgers shall be agreed with each other and balanced. Project accounts which collect expenditure and receipts
+project-wise (without details of cost heads) shall be placed in Main Ledger notwithstanding the fact that each project
+account corresponds to a minor head. This exception covers project revenue also. Accordingly project-wise recoveries
+of hire-purchase debts, sales etc., shall be placed in main ledger.
+2.6.3
+The ledger balances shall be collected in a Trial Balance and accounts proved.
+2.6.4
+Monthly Accounts shall be prepared from the Trial Balance. Although Trial Balance records closing balances in the
+various accounts, transactions during the month shall be distinguished for purposes of internal control and management
+information.
+2.6.5
+Before balances in various accounts are worked out, inter-account transfers shall be effected in accordance with the
+instructions and explanatory notes contained in the Chart of Accounts. (Also see Sections 3 to 8 for more details
+regarding operation of the accounting system.)
+2.7
+Final Accounts. - Final accounts of the Board comprising the following shall be prepared for each financial year (1st April
+to 31st March) in the formats annexed hereto.
+(i)
+Sale Account (Annexure 'B')
+(ii)
+Income and Expenditure Account or Profit and Loss Account (Annexure 'C')
+(iii)
+Balance Sheet (Annexure 'D')
+These accounts shall be supplemented by such schedule and explanatory notes as may be prescribed by the Board.
+These accounts and schedules shall be got certified by the Internal Audit Officer who shall submit his report in two parts
+as detailed below to the Housing Commissioner :-
+Part I ? Audit of accounts.
+Part II ? Audit of expenditure and receipts.
+The Housing Commissioner shall after taking into account the comments of the internal audit, approve the final accounts
+and the prescribed schedules for submission to the Board before 30th June of the succeeding financial year or such
+date as may be prescribed by Government whichever is earlier.
+Section 3
+Rendition of Monthly Accounts
+3.
+Accounting Centres.
+- The following shall be the accounting centres in the Board :-
+(i)
+Division
+(ii)
+Estate Management (Where it is in charge of an officer who does not report to the Divisional Officer),
+(iii)
+Factory
+(iv)
+Circle (Including the charge of Account Officer, head office who is equated with a Circle Officer).
+(v)
+F.A. and C.A O.
+3.1
+Accounts of Field Officers. - 3.1.1 Division, Estate Management Officers and Factories shall maintain detailed accounts
+of financial transactions and render accounts on prescribed dates (accounts period not being in excess of one month) to
+Page 5/17
+----- PAGE 6 -----
+The M.P. Housing Board Accounts Rules, 1991
+the Circle Officer accompanied by vouchers, extracts of cash book, journal and the prescribed schedules (see book of
+formats).
+3.1.2
+. In addition, they may be required to submit classified summaries of transaction for a part of the account month as a
+pre-requisite for obtaining funds for further expenditure.
+3.2
+Circle Accounts. - 3.2.1 The provisions of Rule (3.1) shall apply mutatis mutandis in respect of receipts and payments
+relating to the headquarters office of the Circle. In respect of transactions reported to it by the Divisions and Estate
+Management offices through the summaries referred to in Rule 3.1.2, the Circle Officer shall maintain accounts under
+the various account heads (major, minor sub and detailed heads of account) posting in his ledgers only summaries
+without voucher-wise details. Separate sets of ledgers (main and subsidiary) shall be maintained in the Circle Office for
+each of the subordinate accounting centres.
+3.2.2
+Transactions relating to factories shall be accounted for by the Circle Officer in his accounts under a distinct major head
+"Investments in Board's Factories. A separate account shall be maintained for each factory, while the officer incharge of
+the factory shall submit the classified summary referred to in Rule 3.1.2, the Circle Officer need post his accounts only in
+main ledger. Subsidiary ledgers shall be maintained only in factories.
+3.2.3
+The Circle Officer shall prepare a Circle Account from the ledger accounts observing the procedure laid down in Section
+2. These accounts shall be proved by agreement with the monthly accounts of subordinate accounting centres referred
+to in Rule 3.1.1, and submitted to the F.A. and C.A.O accompanied by the prescribed schedules. Vouchers shall be
+retained in the Circle Office and made available to audit.
+3.2.4
+In addition, Circle Officer shall prepare at the end of each financial year final accounts of the Circle to disclose the
+financial results of its working. For this purpose overhead expenses incurred at Head Office but allocated to various
+projects for capitalisation shall be brought to account in the Circle Account on proforma basis debiting "Allocated Circle
+Share of Overheads" per contra credit to "Adjustment Account (Financial Accounts)". The F.A. and C.A.O shall drop the
+balances in this account proforma after effecting aggregate of this debits referred to above for all Circles and the actual
+expenditure on overheads appearing in his books.
+3.3
+Board's Accounts. - 3.3.1 The F.A. and C.A.O shall have ledgers containing accounts corresponding to the account
+heads as per Chart of Accounts. Transactions relating to all accounting centres shall be collected account head-wise
+and proved by agreement with the aggregate of the balances brought out in Circle Accounts.
+3.3.2
+Detailed account of the following transaction shall be maintained in Head Office.
+Accounts of Accounts Officer (Headquarters) Circle
+(i)
+Loans to the Board
+(ii)
+Loans by the Board to the public
+(iii)
+Investments
+(iv)
+Reserve Funds and sinking funds
+(v)
+Grants-in-aid and Subsidies from Government
+Accounts of F.A. and C.A.O.
+(i)
+Provident fund
+(ii)
+Long Term Loans and Advances to staff of the Board
+Page 6/17
+----- PAGE 7 -----
+The M.P. Housing Board Accounts Rules, 1991
+(iii)
+Cash-in-Transit
+(iv)
+Stock transfers from factories to Divisions
+(v)
+Inter-circle transfers of balances (decentralised accounts)
+(vi)
+Memorandum Account of loss or gain on overheads.
+3.3.3
+The F.A. and C.A.O. shall consolidate the accounts of the various circles and prepare the Board's accounts (i.e. monthly
+accounts and final accounts). In respect of Board's factories, the net financial effect of the transactions shall be
+incorporated in the final accounts and a separate set of final accounts shall be prepared for each factory.
+3.4
+Period of Accounts. - 3.4.1 Monthly accounts of various accounts shall be made up for calendar months.
+3.4.2
+At the end of the financial year accounts shall be kept open for such period as may be prescribed by the Housing
+Commissioner to carry out book adjustments for the purpose of preparing final accounts and also to rectify errors in
+accounts, if any.
+Section 4
+Functional Environment to Accounting System
+4.
+Elements of Functional Environment.
+- The Board shall approve procedural instructions subject to the provisions of this section to regulate the functional
+environment to the accounting system so as to facilitate its harmony with the latter. Detailed financial rules may be
+framed for this purpose. The functional environment comprises :-
+-organisational responsibility centres
+-banking arrangements and cash management procedures
+-procedure for collection of receipts
+-payment procedures.
+4.1
+Responsibility Centres. - The Divisions and Estate Management Officers shall function as Responsibility Sub-Centres in
+regard to project management under the overall charge of the Main Responsibility Centre i.e. Circle. In addition, the
+Circle shall function as a Budget Centre. The Board shall delegate to the officers in charge of these Responsibility
+Centres the financial powers necessary to discharge their responsibilities.
+4.2
+Banking Arrangements. - 4.2.1 The Board shall reserve to itself powers to nominate the banker(s).
+4.2.2
+Opening of an account in a bank shall be subject to execution of a formal agreement with it regarding the procedures for
+transactions of banking business of the Board and rendering accounts returns to the latter.
+4.2.3
+The agree referred to in Rule 4.2.2 shall be designed to secure the timely flow of the input data into the accounting
+system smoothly. In pursuance of this objective, banker(s) to the Board shall be required to render the following services
+:-
+(i)
+Daily rendition of detailed statements of account {i.e. Bank Scroll) to the nominated officer of the Board.
+(ii)
+Usage of special forms approved by the Board for remittance slips, cheques, transfer advances and Bank Scrolls.
+(iii)
+Check of remittance slips by the Bank to ensure that it is signed or countersigned by nominated officers of the Board
+and the account head is noted thereon. (The Bank may not be required to check the correctness of the account head).
+4.2.4
+Page 7/17
+----- PAGE 8 -----
+The M.P. Housing Board Accounts Rules, 1991
+The Board shall have the following accounts in the Bank. The scope of each account shall be as set out below The
+officers noted against them shall be authorised to operate on them. The detailed instructions shall provide for
+arrangements for operating on these accounts in the absence of the nominated officers :-
+Sl. No.
+Designation of the Officer
+Name of the Account
+Scope of the Account and related aspects
+(1)
+(2)
+(3)
+(4)
+1.
+Accounts Officer (Payments) in the Head Office
+(a) General Account (Head Office)
+Excluding transactions relating to projects
+aided by World Bank, all other receipts shall credited to this
+account and payments made therefrom.
+(b) World Bank Project (Implementing Agency) Account.
+The purpose of maintenance of this account is to
+ensure that funds earmarked for projects receiving assistance
+from World Bank are not diverted for other purposes. Loans
+received from World Bank, HUDCO and Government as well as the
+Implementing Agency's {i.e. Housing Board's) share of investment
+shall be credited to this account and project payment made
+therefrom. The sub-system for payments provides for transferring
+these funds to the Circle Band Account for incurring expenditure
+on project. Therefore debit to the account operated in the Head
+Office do not entirely represent final expenditure on projects
+but only transfers to a similar account at a lower tier. The MIS
+shall provide for aggregating the accounts at the two tiers and
+presenting a full view of the utilisation of loan funds.
+2.
+Accounts Officer (Circle Office)
+(a) General Expenditure (Circle Account)
+Funds placed at the disposal of the Circle
+Officer by the F.A. and C.A.O. by means of cheques or demand
+drafts or mail transfers shall be credited to this account.
+Payments from this account comprise expenditure directly incurred
+by Circle Office on administration, imprests opened with
+Divisional Officers and Estate Managers and reimbursement of
+expenditure incurred by them out of such imprests.
+(b) World Bank Project (Circle Account)
+Funds received by the Circle from World Bank
+Projects (Implementing Agency) Account referred to at 1 (b) above
+shall be credited to this account. No direct expenditure shall be
+incurred from this account by the Circle. Entire expenditure
+shall be incurred only by opening imprests with Divisional
+Officers and making payment towards recoupments of such imprests.
+3.
+Divisional Officers
+(a) General Expenditure (Accounts Division)
+Page 8/17
+----- PAGE 9 -----
+The M.P. Housing Board Accounts Rules, 1991
+Imprests received from the Circle Officer other
+than those relating to World Bank aided projects shall be
+credited to this account and payments made therefrom.
+(b) World Bank Project (Division) Account.
+Imprests received from Circle Officer for
+financing expenditure on World Bank aided projects shall be
+placed to the credit of this account and expenditure on these
+projects met therefrom.
+(c) Revenue Account (Division)
+All receipts collected in the Division including
+the deposits received in respect of Deposit Construction Works
+and contractors deposits shall be credited to this account. The
+Divisional Officers shall not utilise this account for making any
+payment and advise the Bank to transfer the entire balance on a
+day-to-day basis to their branch at Bhopal for credit to the
+General Account (Head Office) referred to at 1 (a) above. The
+Scope of the revenue account covers World Bank aided project
+also. Recoveries under sites and services projects are monitored
+through monthly accounts.
+4.
+Estate Manager
+(a) General Expenditure Account (Estate Management)
+The scope of this account and the manner of
+operating it shall be as in respect of General Expenditure
+Account (Division) referred to at 3 (a) above.
+(b) Revenue Account (Estate Management)
+This account comprises all receipts collected in
+Estate Management. It is not available for expenditure whether
+for refunds of revenue deposits or for other purposes. Entire
+balance shall be advised by the Estate Manager for transfer to
+the General Account (Head Office) at Bhopal referred to at 1 (a)
+above by means of inter-bank transfers.
+The Board may at its discretion open any other account for the purpose of securing separate identify of a specified
+category of transactions in the account of bank or to safeguard against diversion of funds earmarked for certain services
+or investments.
+4.3
+Cash Management. - 4.3.1 Cash management shall be performed by the F.A. and C.A.O. All receipts collected in all the
+accounting centres shall be transferred to his account at Bhopal. He shall place funds at the disposal of the Circle
+Officer and the latter shall be empowered to distribute the provision among the various disbursing units in his Circle
+subject to the budget provision and guidelines issued by the Board or Chairman or Housing Commissioner.
+4.3.2
+A cash budget shall be framed to supplement the General Budget, projecting the month-wise cash flows under the
+various account heads prescribed in Chart of Accounts. The cash outflows shall be estimated separately for each project
+based on realistic time schedules for execution of projects. Release of funds shall be on the basis of updated time
+schedules for completion of project. All variations between cash budget estimates, release of funds and actual
+expenditure shall be monitored to document the variations and analysis conducted. Results of such analysis highlighting
+the salient features shall be periodically submitted to the Housing Commissioner. Similarly cash inflow shall be
+estimated separately for each project and compared with the actual inflows. Results of such variance analysis duly
+approved by the Circle Officer shall be formally recorded in the Circle Office for evaluation of performance of the Circle.
+An advance copy shall be communicated to the Housing Commissioner through the F.A. and C.A.O.
+4.4
+Page 9/17
+----- PAGE 10 -----
+The M.P. Housing Board Accounts Rules, 1991
+Procedure for collection of receipts. - 4.4.1 Collection of receipts through bank shall be the rule and acceptance in cash
+by officer of the Board shall be by way of exception. The Board may by resolution authorise such exceptions.
+4.4.2
+In respect of remittances by private parties into the Bank, it shall be ensured that the full particulars of the transaction
+necessary for correct accounting are furnished in the remittance-slips. For this purpose either challan-cum-demand
+notices with pre-printed account heads shall be issued or the Registration Application may be similarly pre-printed.
+Where the accounting system does not, however, provide for the above internal control private parties shall be required
+to submit the remittance-slips to nominated officer of the Board for counter-signature before remittance into Banks.
+4.4.3
+In respect of challan-cum-demand notice the amount required to be remitted shall be filled in by an officer of the Board.
+The Bank shall be required to decline the remittance for an amount which varies from the demand. The Chairman may,
+however, issue guidelines for entertaining applications for part payment and also nominate officers to grant such
+permission. On grant of the same, the challan-cum-demand notice shall be revised.
+4.4.4
+Cash receipts referred to in Rule 4.4.1 shall be collected by the cashier or any nominated officers who may issue
+receipts after making entries in the Cash Book or Cash Scroll as the case may be. Cash Scrolls shall be subject to the
+same procedures as applicable to cash books in regard to all aspects including machine numbering of pages, custody,
+centralised control of stock, record of completed books and norms for preservation of records. Wherever feasible, totals
+of such cash scrolls may be incorporated in the Main Cash Book or the Cash Book of the concerned sector without
+repeating the details.
+Where such a practice hampers the posting of ledger, the Cash Book shall be posted separately from the Input
+Documents and agreed with the Cash Scrolls. Detailed instructions shall contain the necessary provisions in this regard.
+4.4.5
+In respect of remittances by private parties, cheques may be accepted by the Bank but credit to the account of the
+Board shall be afforded only on realisation. For the purpose of settlement of dues to the Board payment shall be
+deemed to have been made on the date cheque is realised by the Bank.
+Private parties located at outstation may be permitted to remit dues to the Board by means of demand drafts (not
+cheques). Such remittances shall be accounted for by the Board on the day of receipt in the designated office pending
+depositing the demand draft into the Bank. Payment to the Board in such cases shall be deemed to have been made on
+the day of receipt in the designated office.
+4.5
+Payment Procedure. - 4.5.1 Payment shall be made by means of crossed cheques in favour of the payee(s). The
+Housing Commissioner may make regulations prescribing exceptions to the above rule providing for payments in cash
+or for issuing open cheques subject to the following provisions :-
+(a)
+Except in the case of salaries to non-gazetted staff, exceptions shall be clearly identified by a monetary limits.
+(b)
+Issue of open cheque should be on written request of the party concerned and permission should be granted by an
+officer immediately superior to the cheque drawing officer where the prescribed monetary limit is exceeded.
+(c)
+It should be ensured that no statutory provisions (e.g. Income Tax Act) are violated by issue of open cheques. In
+rendering returns to Income Tax authorities it should be ensured that adequate internal controls exist in the Board to
+ensure that the income through open cheques is reported as such.
+4.5.2
+Cheques in favour of officers of the Board for placing funds for opening or recoupment of Imprests shall be drawn by
+designation only and not by name. In the event of a change in the incumbency of the office, the successor officer shall
+be responsible for taking over the cash balance in the Imprest account.
+4.5.3
+The Housing Commissioner may prescribe that specified categories of payment be advised to the nominated bank for
+credit to the account of the payee. The payee shall, on issue of such orders, be required to open an account in the Bank
+and intimate the account number to the designated officer of the Board.
+Page 10/17
+----- PAGE 11 -----
+The M.P. Housing Board Accounts Rules, 1991
+Section 5
+Project Accounting
+5.
+Features of Project Accounting.
+(a)
+Each project shall be distinguished in accounts rendered to the Circle Officer at the following stage :-
+(i)
+Work-in-progress;
+(ii)
+Completion;
+(iii)
+Transfer of assets (i.e. completed projects); from Divisions to Estate Management;
+(iv)
+Assessment of Cost of Sales;
+(v)
+Deposits of Allottees;
+(vi)
+Sales;
+(vii)
+Operation of Hire-Purchase Debtor Accounts.
+(b)
+Project expenditure and revenues shall be collected in a unified account (separately for each project) called Integrated
+Project Account in the formats set out in Annexure 'E', F' and 'G';
+(c)
+Account of project shall be formally closed on complete disposal of the assets created under orders of officers
+authorised in this behalf by the Board. Loss or gain on project account shall be assessed for each project and explained.
+The Board may require that results of such project analysis duly audited should be submitted to it in respect of specified
+categories of projects or projects costing more than prescribed ceilings.
+(d)
+Project accounts shall be maintained on generally accepted principles of commercial accounting subject to the provision
+of this section.
+(e)
+Cost of land acquired and contractor's claims on project account shall be brought to account on accrual and cash basis
+respectively. Sales on project account shall be brought to account on accrual basis. (Also see Annexure 'A' and Rule
+5.5).
+5.1
+Sections of Project Account - Project Account shall be maintained in two section i.e. in the General Account and
+Subsidiary Accounts. The General Account records project-wise expenditure and receipts whereas project subsidiary
+account records expenditure under prescribed cost and allottee-wise receipts.
+5.2
+Project Cost Heads - 5.2.1 The following shall be the project cost heads :-
+(i)
+Cost Heads (Works) (See Rule 5.2.2);
+(ii)
+Cost Escalation (Materials)
+(iii)
+Losses
+(iv)
+Overheads (Admn.)
+(v)
+Overheads (Interest)
+Page 11/17
+----- PAGE 12 -----
+The M.P. Housing Board Accounts Rules, 1991
+5.2.2
+The group of Cost Heads (Works) shall be sub-divided into suitable number of standard cost heads (e.g. earth, work
+Masonry, RCC) which shall be prescribed by the Housing Commissioner. A separate set of standard cost heads may if
+necessary, be prescribed for separate categories of projects, (e.g. Land Development Projects and Building Projects).
+During the progress of work as well as on completion of the project, a variance analysis shall be conducted to disclose
+to the Housing Commissioner the reasons for variation, if any, between estimates and actuals under each standard cost
+head.
+5.2.3
+All administrative approvals, technical sanctions, contracts, work-orders and bills shall also contain break-up under
+standard cost-heads. While project subsidiary account shall also collect expenditure under standard cost heads, they
+may be done only once on completion of project where a project is executed under a single contract. In such cases,
+lump-sums amount under the group head "Cost Heads (Works)" may be posted for balancing the account when work is
+in progress.
+5.3
+Project Overheads. - 5.3.1 Overheads shall be charged to the project account on completion of the project. However, in
+order to place year-wise expenditure on administration overheads on a comparable basis with the portion capitalised
+and charged to project account, overheads attributable to work-in-progress at the end of each year shall be brought to
+account as an asset under the account head
+Supervision charges in respect of work-in-progress pending capitalisation" per contra credit to Income and Expenditure
+Account. The debit balance in this account shall be re-transferred to Income and Expenditure Account in this next year
+as opening balance.
+5.3.2
+Administration overheads including the liabilities for payment of retirement benefits of the Staff shall be allocated among
+the following functions on a realistic basis :-
+(i)
+Project Construction Activity.
+(ii)
+Project and non- Project Maintenance Works.
+(iii)
+Project Revenue Management.
+The portion attributable to project construction activity shall be allocated among various projects in accordance with the
+guidelines set out in Annexure 'H' However, actual expenditure can be allocated only after the end of the financial year
+whereas it may be necessary during the year to finalise the accounts of completed projects for the purpose of sale of
+sites or buildings. Therefore, project account may, on a uniform basis, be charged with administration overheads at an
+estimated percentage of project outlay per contra credit to overheads account. This percentage shall be so fixed by the
+Housing Commissioner as to secure to the maximum possible extent full absorption of these overheads. Fresh
+estimates may be made for each year and rates revised wherever necessary. As these rates are in the nature of
+arithmetical derivatives and no decision making is involved it is not necessary to obtain the approval of the Board (unlike
+in respect of determination of sale price). While the Income and Expenditure Account of the Board shall reflect the loss
+or gain or overheads being the difference between actual expenses and the aggregate of the portions absorbed by all
+the project accounts, the Integrated Project Account referred to in Rule 5 (b) explains such loss or gain through
+project-wise analysis.
+5.3.3
+Similarly the overheads relating to interest charges shall be charged to project account at an estimated average cost of
+funds separately for each year of investment in the project. As in the case of Administration overheads this is also an
+arithmetical derivative and does not require the approval of the Board. Average cost of funds may be notified by the
+Housing Commissioner. Applying this rate of interest, overheads shall be charged on the basis of actual expenditure.
+The procedure for working out loss or gain on this account is the same as in respect of administration overheads.
+5.4
+Sale Price. - Sale price of sites and buildings shall be separately determined in accordance with the guidelines issued by
+the Board. But where they yield a sale price for any reason different from cost price determined under Rule 5.3.2. and
+Page 12/17
+----- PAGE 13 -----
+The M.P. Housing Board Accounts Rules, 1991
+5.3.3. (e.g. due to adoption of different rates of overheads for different income groups, charging premium from higher
+income groups for appreciation in land value, grant of concessions to Board's employees adoption of average
+expenditure on project instead of year-wise expenditure for calculating overheads on interest, adoption of uniform rate of
+interest for the entire construction period instead of varying rates of interest for separate years), sales may be brought to
+account in the revenue section of project accounts without prejudice to the operation of Rules 5.3.2 and 5.3.3 (these
+rules deal with account adjustments in the expenditure section of project account up to the stage of recording under the
+account head "Cost of Sales"). Accordingly account adjustments regarding capitalisation of overheads, transfer of assets
+form Divisions to Estate Management and incorporation of costs in the account "cost of sales" in the ledgers of Estate
+Management shall be carried out immediately on completion of project and not held up till sale price is approved by the
+competent authority.
+5.5
+Project Liabilities. - Project liabilities shall be brought to account before submission of proposals by Divisional Officer to
+Circle Officer for assessment of cost price and determination of sale price. "Project Liabilities Account" which receives
+credit per contra debit to project account shall be cleared on liquidation of liabilities or on transfer of dues to the
+contractor to his personal account. The Board may prescribe a cut-off date for such liquidation. Liabilities remaining
+beyond the cut-off date and attributable to over assessment or under-assessment of liabilities shall be transferred to
+Income and Expenditure Account as gain. Where actual expenditure exceeds the liabilities brought to account, if the
+sale price is not yet finally determined the project account may be re-opened for receiving the additional debit. Where
+such re-opening is not permissible under the financial rules, it may be treated as a loss and transferred to income and
+Expenditure Account.
+5.6
+Project Inputs. - The following are the inputs for the project accounts. Treatment of these inputs in accounts shall be as
+set out in the subsequent rules in this section.
+Inputs
+Project Expenditure
+(a)
+Land
+(b)
+Stock Materials
+(c)
+Contractors Payments
+(d)
+Wages to labour employed departmentally and materials consumed on work executed departmentally;
+(e)
+Miscellaneous expenditure
+(f)
+Sales
+(g)
+Recoveries from Hire-Purchase Debtors.
+5.7
+Land. - 5.7.1 Land acquired shall be brought to account on accrual basis. Land made over to the Board free of cost shall
+be brought to account at nominal price.
+5.7.2
+Land account shall be maintained in General Account under prescribed heads of account (see Rule 5.7.3). In addition a
+subsidiary account in the nature of a numerical account shall be maintained. Provision shall be made therein for
+recording cost price of land and it shall be agreed with the General Accounts.
+5.7.3
+Land acquired for reserve or for more than one project shall be brought to account under a distinct major head "Land
+(Reserve)". On commencement of work on a project, cost of the portion covered by the project shall be transferred to the
+Project Account.
+5.7.4
+Page 13/17
+----- PAGE 14 -----
+The M.P. Housing Board Accounts Rules, 1991
+For the purpose of assessing the cost of a project i.e. debiting "Cost of Sales" as well for the purpose of valuation of
+closing stock in Final Accounts, appreciation in land value shall be ignored. The Board may, however, take it into
+account for the purpose of determination of sale price.
+5.7.5
+On closure of a Project Account, untilised virgin land, if any, shall be transferred back to the account "Land (Reserve)".
+5.8
+Stock Materials. - 5.8.1 Material required for consumption on projects shall be initially brought to account in a common
+account "Stock and Stores". Cost of materials issued therefrom for consumption on individual projects shall be
+transferred to individual project account.
+5.8.2
+Stock materials shall, for the purpose of transfer from stock account to individual project account, be valued at cost price
+(i.e. Basic Issue Rate) but an addition (at a percentage of Basic Issue Rate) shall be made to cover the expenses of
+Material Management.
+5.8.3
+Stock Accounts shall be maintained in separate set of books by a nominated Sub-Divisional Officer who shall render a
+classified account to the Divisional Officer. In these accounts issues to each project shall be distinguished. In addition,
+the following break-up shall be furnished in respect of issues to contractors.
+Issue Rate = Debits to contractors a/c (total contractors relating to a project) + Debits to project or a/c or all (balancing
+entry).
+(i.e. total credit to stock)
+The Stock Account rendered to the Divisional Officer shall be accompanied by the indents containing contractor's
+acknowledgements for the materials received by them. The Divisional Officer shall arrange to bring to account the debits
+to contractors account under a separate major head "Contractors Accounts". Simultaneously, the Contractor-wise
+Subsidiary Account in the contractors ledger shall be posted direct from the indent. For the purpose of updating the
+contractors ledger the Sub-Divisional Officer may be required to forward indents to the Divisional Officers weekly in
+advance. Classified Stock Account may, however, be rendered monthly.
+5.8.4
+Materials Management Expenses shall be brought to account under a separate minor head below the major head "Stock
+and Stores". Expenses charged to the project account by an addition to the Basic Issue Rate shall be transferred at the
+end of each year from the minor head "Materials Management Expenses" to the minor head "Store Articles". Any
+difference between the actual expenses and the amount charged to project account shall be transferred to the Income
+and Expenditure Account.
+5.9
+Contractors Payments. - 5.9.1 Payment to contractors shall be regulated by the financial rules of the Board subject to
+the following provision (also see Rule 4).
+5.9.2
+Payments shall be made on bills in prescribed form which shall provide for recording details of payments under the
+prescribed project cost heads.
+5.9.3
+Separate bills shall be prepared for Secured Advances to contractors where permissible under the financial rules of the
+Board. Payment of these advances shall be recorded in contractors personal accounts and recoveries in bills checked
+with them.
+5.9.4
+Cost of materials issued to the contractors under the terms of agreement shall be debited to contractors personal
+account both in General Accounts (under the major head "Contractors Accounts") and in Subsidiary Accounts
+(Contractors Ledger). In the Contractors Ledgers separate folio shall be set apart for each contract to facilitate providing
+of contractors accounts by reference to the corresponding debits worked out in the classified Monthly Stock Account.
+As a rule no payment to contractor shall be made without verification with the Contractors Ledger to ensure that no
+recoveries due are lost sight of.
+5.10
+Work executed departmentally. - 5.10.1 Work may be executed departmentally (i.e. by engaging labour directly) on a
+Page 14/17
+----- PAGE 15 -----
+The M.P. Housing Board Accounts Rules, 1991
+formal Department Work Order issued by Circle Officer.
+5.10.2
+Payments towards work executed departmentally shall be recorded in vouchers in the same manner as payments to
+contractors i.e. in a running account for each work order. Advances to the Sub-Divisional Officers for disbursement of
+wages shall be accounted for under " Work Advances with Officer of the Board". On measurement of the work done
+(wherever it is susceptible of measurement), the update cost of work covered by Departmental Work Order shall be
+billed for and disbursed wages shall be deducted therefrom. Difference between value of work billed for at the rates
+specified in project estimate and disbursement of wages represents the loss or gain on project account due to
+departmental execution. It shall after analysis be written off to Income and Expenditure Account.
+5.10.3
+Stock materials issued to the Sub-Divisional Officers for use on works executed departmentally shall also be debited to
+the account mentioned in Rule 5.10.1 and deductions made in works bills to the extent of usage assessed with
+reference to the work done. Differences between work billed for and recovery of cost of stock materials shall be dealt
+with in the same manner as laid down in Rule 5.10.1.
+5.11
+Project Revenue (Inputs). - 5.11.1 Project revenues (i.e. sales and recoveries from Hire-Purchase Debtors) shall be
+collected in Cash Book or main Ledger project-wise in accounts called project Revenue Central Accounts. Pending
+making up of allottee-wise or debtor-wise accounts balances in these control accounts shall be incorporated in Trial
+Balance. Subsidiary accounts (i.e. debtor-wise accounts) shall be proved by agreement with the Control Account.
+Section 6
+Subsidiary Account
+6.
+Subsidiary Accounts contain detail relevant to the information needs of the management as well as operation of internal
+controls in the financial and accounting system. The following subsidiary accounts shall be maintained in the Board (The
+detailed procedure and nomination of offices responsible for maintenance of the same shall be laid down in the Detailed
+Instructions) :-
+(i)
+Project Subsidiary Account
+(ii)
+Project Liabilities Account
+(iii)
+Current Assets Transferred from Construction Division to Estate Management
+(iv)
+Fixed Assets Transferred from Construction Division to Estate Management
+(v)
+Inter-Divisional Settlement Accounts
+(vi)
+Deposits of contractors
+(vii)
+Short term loans and advances
+(viii)
+Provident Fund Accounts
+(ix)
+Loans Accounts
+(x)
+Subsidies and Grants-in-aid from Governments
+(xi)
+Cash-in-Transit
+(xii)
+Permanent Imprests
+(xiii)
+Page 15/17
+----- PAGE 16 -----
+The M.P. Housing Board Accounts Rules, 1991
+Works Advances with Officers of the Board
+(xiv)
+Sinking funds
+(xv)
+Stock of factories-in-Transit
+(xvi)
+Any other account prescribed by the Housing Commissioner.
+Section 7
+World Bank Project Accounts
+7.
+World Bank Project Accounts comprise the following :-
+(i)
+Accounts of Nodal agency;
+(ii)
+Accounts of Housing Board in its capacity as an Implementing Agency.
+7.1
+Accounts of Nodal Agency. - 7 1.1 Accounts of Nodal Agency shall be maintained in separate books of account. A
+separated bank account shall be maintained in respect of funds of Nodal Agency.
+7.1.2
+Expenditure on staff of the Housing Board deployed on work of the Nodal Agency shall be accounted for under a distinct
+minor head below the administration major head. Service charges recoverable by the Board from the Nodal Agency
+shall be set off against this expenditure and the resultant loss or gain transferred to Income and Expenditure Account.
+7.1.3
+At the end of each year separate final accounts shall be prepared for the funds of Nodal agency.
+7.2
+Accounts of Implementing Agency (World Bank Project). - 7.2.1 World Bank Projects shall be distinguished in the
+accounts of the Housing Board (Implementing Agency) through Project Code. Transactions relating to these projects
+shall be incorporated in the General Account and Subsidiary Accounts of the Housing Board. However, separate
+schedules containing data necessary for rendering the prescribed Returns to the World Bank shall accompany the
+Monthly Accounts of the Circles and Board.
+Section 8
+Factory Accounts
+8.
+Organisation of Factory Accounts.
+- Accounts of factories shall be maintained under generally accepted principles and practices of commercial accounting.
+Accordingly, all transactions except petty office expenses shall be brought to account on accrual basis, Each factory of
+the Board shall be an accounting centre. Factory Manager shall be responsible for maintenance of detailed accounts
+and rendering of classified monthly accounts to the Circle Officer. The monthly accounts shall record receipts and
+expenditure under the heads of account prescribed in Factory Chart of Accounts annexed to the rules. The Factory
+Manager shall render in addition to the monthly account the following accounts quarterly :-
+Manufacturing Account
+(Annexure I)
+Trading and Profit and Loss Account
+(Annexure J)
+Balance Sheet
+(Annexure K)
+Final accounts in the same format as quarterly accounts shall also be rendered to the Circle Officer on the prescribed
+due dates. These accounts certified by the internal audit shall be appended to the Final Accounts of the Board.
+8.1
+Relation to General account of the Board. - 8.1.1 Each factory shall be treated as a separate operational unit which is
+required to be self sufficient. Funds made over to the factory by head office shall be treated as an investment and
+Page 16/17
+----- PAGE 17 -----
+The M.P. Housing Board Accounts Rules, 1991
+brought to account in the books of the latter under a separate account head "Investments in Board's Factories".
+8.1.2
+Finished goods transferred from the factory to the stores of various Divisions of Housing Board shall be brought to
+account under the following account beads :-
+Books of Factory -
+Debit Transfer of Goods to "divisional Stores" per
+contra credit to Stock of Finished Goods.
+Books of Divisions -
+Credit "stock of Factories in Transit Debts Accepted"
+under the major head "Stock and Stores" per contra
+debit to "Stock Articles" under the same major head.
+On the basis of the debits appearing in the monthly account of the Factory (supported b v Gate Passes and
+acknowledgement of Store Keeper of Divisions) the F.A. and C.A.O. shall provide working capital of equivalent sum to
+the Factory debiting "Stock and Stores-Stock of Factories in Transit Debits raised against Divisions". These payments
+towards making good the working capital shall not be treated as investments. These debits shall be paired off with the
+corresponding credits in the books of the Divisions referred to above.
+To help evaluate performance of the factories interest shall be charged by the Factory from the General Funds of the
+Board on transfer of fund delayed beyond one week from the date of rendering of accounts by the Factory. An advance
+copy of monthly accounts supported by indents shall be sent to the F.A. and C.A.O. direct by the Factory simultaneously
+with rendering of account to the Circle Officer.
+8.1.3
+Working capital for each factory shall be sanctioned by the Board. To impose financial discipline the factory shall be
+required to operate with such working capital. In the event of an emergency funds may be provided in the shape of loans
+by the F.A. and C.A.O. on application of the Factory Manager submitted through Circle Officer and subject to sanction of
+Housing Commissioner. In the normal course such funds are available from internal sources on payment of interest. In
+order to work out the true financial results of working of factories, funds made available by F.A and C.A.O. from
+General-Funds may be placed on the same footing for internal control purposes. Accordingly, these loans shall carry
+interest at such rates as may be prescribed by the Board.
+8.1.4
+Transactions arising in the books of factories which are adjustable in the books of F.A. and C.A.O. (e.g. Provident Fund
+recoveries) shall be settled in cash. The principal shall apply mutatis mutandis to transactions with other accounting
+centres in the Board.
+Related AI tags, queries and research notes
+Translation
+Page 17/17

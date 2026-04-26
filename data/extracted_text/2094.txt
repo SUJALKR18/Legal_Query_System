@@ -1,0 +1,113 @@
+
+----- PAGE 1 -----
+The Information Technology (Security Procedure) Rules, 2004
+The Information Technology (Security Procedure) Rules, 2004
+Source: https://indiankanoon.org/doc/60823482/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Information Technology (Security Procedure) Rules, 2004
+UNION OF INDIA
+India
+The Information Technology (Security Procedure) Rules, 2004
+Rule THE-INFORMATION-TECHNOLOGY-SECURITY-PROCEDURE-RULES-2004 of 2004
+Published on 5 November 2004
+Commenced on 5 November 2004
+[This is the version of this document from 5 November 2004.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Information Technology (Security Procedure) Rules, 2004
+Published vide Notification in the Gazette of India, Extra, Part 2, Section 3(i), dated 5-11-2004
+13.
+/642
+G.S.R. 735(E), dated 29-10-2004 - In exercise of the powers conferred by clause (e) of sub-section (2) of section 87,
+read with section 16 of the Information Technology Act, 2000 (
+21 of 2000
+), the Central Government hereby makes the following rules, namely:-
+1.
+Short title and commencement.
+(1)
+Page 1/3
+----- PAGE 2 -----
+The Information Technology (Security Procedure) Rules, 2004
+These rules may be called The Information Technology (Security Procedure) Rules, 2004.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+- In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Information Technology Act, 2000 (
+21 of 2000
+);
+(b)
+"digital signature" means authentication of any electronic record by a subscriber by means of an electronic method or
+procedure in accordance with the provisions of section 3 of the Act;
+(c)
+"hardware token" means a token which can be connected to any computer system using Universal Serial Bus (USB)
+port;
+(d)
+"smart card" means a device containing one or more integrated circuit chips, which perform the functions of a
+computer's centre processor, memory and input or output interface;
+(e)
+[ words and expressions used in these rules and not defined but defined in the Act and Digital Signature (End entity)
+Rules, 2015 shall have the same meaning respectively assigned for them in the said Act and rules.]
+[Substituted by Notification No. G.S.R. 661(E), dated 25.8.2015 (w.e.f. 5.11.2004).]
+3.
+Secure electronic record.
+- An electronic record shall be deemed to be a secure electronic record for the purposes of the Act if it has been
+authenticated by means of a secure digital signature.
+4.
+Secure digital signature.
+- A digital signature shall be deemed to be a secure digital signature for the purposes of the Act if the following
+procedure has been applied to it, namely:-
+(a)
+that the smart card or hardware token, as the case may be, with cryptographic module, in it, is used to create the key
+pair;
+(b)
+that the private key used to create the digital signature always remains in the smart card or hardware token as the case
+may be;
+(c)
+that the hash of the content to be signed is taken from the host system to the smart card or hardware token and the
+private key is used to create the digital signature and the signed hash is returned to the host system;
+(d)
+that the information contained in the smart card or hardware token, as the case may be, is solely under the control of the
+person who is purported to have created the digital signature;
+(e)
+that the digital signature can be verified by using the public key listed in the Digital Signature Certificate issued to that
+person;
+(f)
+[ that the standards referred to in rule 7 or rule 12 of the Digital Signature (End Entity) Rules, 2015 have been complied
+with, in so far as they relate to the creation, storage and transmission of the digital signature; and]
+[Substituted by Notification No. G.S.R. 661(E), dated 25.8.2015 (w.e.f. 5.11.2004).]
+(g)
+Page 2/3
+----- PAGE 3 -----
+The Information Technology (Security Procedure) Rules, 2004
+that the digital signature is linked to the electronic record in such a manner that if the electronic record was altered the
+digital signature would be invalidated.
+Related AI tags, queries and research notes
+Translation
+Page 3/3

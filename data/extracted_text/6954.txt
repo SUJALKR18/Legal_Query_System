@@ -1,0 +1,884 @@
+
+----- PAGE 1 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+Telangana State Electricity Regulatory Commission (Forecasting,
+Scheduling, Deviation Settlement and Related Matters for Solar and
+Wind Generation Sources) Regulations, 2018
+Source: https://indiankanoon.org/doc/120960357/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Telangana - Act
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Settlement and Related Matters
+for Solar and Wind Generation Sources) Regulations, 2018
+TELENGANA
+India
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Settlement and Related Matters
+for Solar and Wind Generation Sources) Regulations, 2018
+Act 3 of 2018
+Published on 30 May 2018
+Commenced on 30 May 2018
+[This is the version of this document from 30 May 2018.]
+[Note: The original publication document is not available and this content could not be verified.]
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Settlement and Related Matters
+for Solar and Wind Generation Sources) Regulations, 2018
+(Regulation No. 3 of 2018)
+[Dated 30.5.2018.]
+Introduction. - (1) Electricity is an essential commodity and it is governed by the Electricity Act, 2003 (Act, 2003) at
+Page 1/17
+----- PAGE 2 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+present. The dynamics of demand and supply are based on several factors including the weather conditions and the
+time of usage. As electron that is produced is required to be consumed as otherwise, it is wasted. In order to avoid the
+situation of wastage of generation, proper mechanism should be in place to take  maximum benefit of the limited
+resources and within the specific time to meet the status of essential commodity.
+2.
+The Act, 2003 prima facie assumes and requires that the interest of consumer is paramount, but at the same time, the
+electron that runs through generation, transmission and distribution-cum-supply is better forecasted, settled timely on
+accounting of generation and punish the stakeholders for deviating from the set procedure. In order to facilitate the
+above position, several steps including the policy initiatives have been taken by the Government of India, State
+Government and other competent authorities.
+3.
+While there are several stakeholders under the Act, 2003 starting with the Commission up to the distribution licensee
+and the end consumer, the generation that is made available has to be despatched properly and in an orderly manner
+by following a grid code providing for the technical parameters required to be adhered to by all the stakeholders.
+4.
+To facilitate the above aspect, it is also paramount that the demand is forecasted properly, deviations in transmission,
+distribution and supply for the energy are properly settled, so as to avoid losses to the producers of the electricity more
+particularly generators. Due to the encouragement policies and magnificent targets set forth by the Governments,
+renewable energy generation more particularly wind and solar are being relied upon for generation and supply of power.
+The distribution licensees are also seeking to procure more and more power generated from these sources. As these
+are primarily natural sources and renewable for time immemorial to come, the same will be relied upon for meeting the
+demand for power supply. At the same time, the generation of power from these sources is also not on firm basis and is
+dependent on vagaries of nature. Therefore, there is a necessity of forecasting generation from these sources as well as
+proper settlement mechanism and allied aspects for deviations have to be provided for.
+5.
+CERC had originally notified the technical rules for running the wire business commonly known as grid code. Such a
+code has been notified under section 79 (1) (h) of the Act, 2003. CERC made amendments to the Grid Code and the
+Deviation Settlement Mechanism Regulation to safeguard the Grid due to the large scale  integration of wind and solar
+capacity what was added to the grid in the past few years and more is expected to come online over the next 7 years, in
+alignment with Central Government's target of 100 GW solar and 60 GW wind capacities by 2022. Most of these stations
+connect directly to the State Transmission Utility (STU) grid and some are partially connected to Central Transmission
+Utility (CTU) grid. The CERC Regulations take care of the Grid security and stability problems associated with the Solar
+and Wind generating stations connecting to the CTU grid. As the same applies to the State of Telangana until this
+Commission frames a similar regulation under section 86 (1) (h) of the Act, 2003.
+6.
+However, with a similar large scale integration of renewable energy based generating stations particularly wind and solar
+stations with the state grid in the earlier years and as well as in the near future, managing the state grid will be a
+daunting task for State Load Despatch Centres (SLDCs). It is essential that the grid operator has visibility into how much
+renewable energy (RE) is expected to be injected into the grid. This is especially critical for variable and uncertain
+sources such as wind and solar. Forecasting and scheduling of these generators is critical to anticipate balancing
+requirements and procure requisite reserves to maintain load-generation balance and grid reliability. At the same time,
+due to the intermittent nature of these sources, special provisions must be made so that the generators are not unduly
+penalized.
+7.
+To address the above problems, Forum of Regulators (FOR) the apex body of regulators under section 166 (2) of the
+Act, 2003 has made available a model regulations on forecasting, scheduling, deviation settlement and related matters
+of solar and wind generation sources and circulated the same to the Electricity Regulatory Commissions of all the States
+and Union Territories.
+8.
+The State of Telangana is also likely to face the grid security and stability problems due to the expected large scale
+addition of solar and wind generation capacities to the state grid in the near future. In order to mitigate the problems that
+Page 2/17
+----- PAGE 3 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+may be affecting the consumers, it is felt necessary to frame a Regulation on forecasting, scheduling, deviation
+settlement and related matters of solar and wind generation sources that are connected and are likely to connect to the
+state grid. Towards this objective TSERC published a draft Regulation to elicit and consider the views of all the
+stakeholders before notifying the final Regulation. The objective of the  Regulation is to facilitate large scale grid
+integration of solar and wind generating stations while maintaining grid stability and security through forecasting,
+scheduling and commercial mechanism for deviation and settlement of power supplies of these generators.
+9.
+In this regard the following is considered by the Commission. - (a) The CERC issued "CERC (Deviation Settlement
+Mechanism and related matters) Regulations, 2014" applicable to sellers and buyers involved in the transactions
+facilitated through short-term open access or medium-term open access or long-term access in inter-state transmission
+of electricity. The Regulation determined the charges for deviation, payment of charges and their accounting and limits
+of deviation. The objective of the Regulation is to maintain grid discipline and grid security as envisaged under the grid
+code through the commercial mechanism for deviation settlement through drawl and injection of electricity by the users
+of the grid.
+(b)
+Vide the second amendment to the above Regulation made dated 07.08.2015, a platform was provided to the bulk wind
+and solar generators which are regional entities for forecasting, scheduling and deviation settlement of energy and
+demand and charges for the deviation and left the forecasting, scheduling and deviation settlement of intra-state wind
+and solar generators to the SERCs.
+(c)
+The FOR has made available a model Regulation on forecasting, scheduling and deviation settlement of wind and solar
+generating stations at the state level facilitating the State Commissions for adoption and issue of Regulation in this
+matter accordingly.
+(d)
+The erstwhile APERC had issued regulation for balancing and settlement of energy and demand under clause 19.4 of
+APERC (Terms and Conditions of Open Access) Regulation, 2005 (No. 2 of 2005) and pending formulation of
+comprehensive settlement code for the state pool under ABT mechanism, had issued the "APERC Interim Balancing
+and Settlement Code for Open Access Transactions Regulation, 2006 (No. 2 of 2006)". These Regulations provide for
+the scheduling, balancing and settlement of energy and demand but charges for the deviation and their payment
+mechanism were not devised and provided therein.
+(e)
+Though a comprehensive balancing and settlement mechanism for the conventional sources of generators was made
+available by the Commission at Intra-state level, the additional generation produced from wind and solar are required to
+be considered for deviation, balancing and settlement to be included in the existing code as adopted at present unless
+separate regulation is provided for.
+10.
+In exercise of the powers conferred under sub-section (3) of Section 32, subsection (4) of Section 33, clause (h) of
+sub-section (1) of Section 86 and clauses (g) and (zo) of subsection (2) of Section 181 of the Electricity Act, 2003,
+(Central Act 36 of 2003) and all other powers hereunto enabling, the Telangana State Electricity Regulatory Commission
+hereby makes the following Regulation, namely:
+1.
+Short title and Commencement.
+(a)
+This Regulation may be called the "Telangana State Electricity Regulatory Commission (Forecasting, Scheduling,
+Deviation Settlement and Related Matters for Solar and Wind Generation Sources) Regulation, 2018."
+(b)
+This Regulation shall apply to all wind and solar generators connected to the state grid, including those connected via
+pooling stations, and selling power within or outside the State.
+(c)
+This Regulation shall come into force with effect from the date of publication in the Official Gazette for the State of
+Telangana.
+Page 3/17
+----- PAGE 4 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+Provided that the commercial arrangements specified in this Regulation and the related provisions regarding deviation
+charges and penalty, shall come into force in line with the time specified in the clause 19 of this Regulation.
+(d)
+This Regulation shall apply throughout the State of Telangana.
+(e)
+This Regulation shall be construed harmoniously with the provisions of the Act, Rules and other Regulations of this
+Commission as amended and in force from time to time. In case of any conflict or inconsistency in this Regulation with
+the provisions of the Act, Rules and other Regulations of this Commission, the latter shall prevail.
+(f)
+The Andhra Pradesh General Clauses Act shall apply to interpretation of this regulations.
+2. Definition and Interpretation.
+- 2.1. In this Regulation, unless the context otherwise requires :-
+(a)
+"Absolute Error" means the absolute value of the error in the actual generation of wind or solar generator with reference
+to the scheduled generation and the 'Available Capacity'(AvC), as calculated using the following formula for each 15
+minute time block (as amended thereof from time to time):
+Error (%) = 100 X [Actual Generation -Scheduled Generation] / (AvC);
+(b)
+"Act, 2003" means the Electricity Act, 2003 (36 of 2003) as amended from time to time;
+(c)
+"Actual Drawl" in a time-block means electricity drawn by a buyer or a beneficiary, as the case may be, measured by the
+interface meters;
+(d)
+"Actual Injection" in a time-block means the electricity generated or supplied by the seller, as the case may be,
+measured by the interface meters;
+(e)
+"Available Capacity or AvC" for wind or solar generator means the cumulative capacity rating of the wind turbines or
+solar inverters that are capable of generating power in a given time-block;
+(f)
+"Beneficiary " means a person receiving electricity generated from a solar or wind generating station including solar /
+wind captive generating station;
+(g)
+"Buyer" means a person, including beneficiary, purchasing electricity through a transaction scheduled in accordance
+with the Regulations applicable for short-term open access, medium-term open access and long-term open access;
+(h)
+"CEA" means the authority established under sub-section (1) of section 70 of the Act, 2003 or an authority stated under
+sub-section (2 of section 70 of the Act, 2003.
+(i)
+"CERC" means the Central Electricity Regulatory Commission referred to and established in sub- section (1) of section
+76 of the Act, 2003;
+(j)
+"Commission" means Telangana State Electricity Regulatory Commission referred to and established under sub-section
+(1) of Section 82 of the Act, 2003 read with section 92 of The Andhra Pradesh Reorganisation Act, 2014;
+(k)
+"Collective Transanctions" means the transactions undertaken through the power exchange.
+(l)
+"Deviation" in a time-block for a seller means its total actual generation minus  its total scheduled generation and for a
+buyer means its total actual drawl minus its total scheduled drawl;
+(m)
+"Distribution Licensee" means either Southern Power Distribution Company of Telangana Limited (TSSPDCL) or
+Northern Power Distribution Company of Telangana Limited (TSNPDCL) as the case may be and also includes any
+Page 4/17
+----- PAGE 5 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+other licensee to whom licence has been granted or deemed to have been granted under sections 14 and 15 of the Act,
+2003;
+(n)
+"Forecasting Tools" for the purposes of this regulation include Data Telemetry, Communication System and Data
+Acquisition System for transfer of information to SLDC and appropriate meters for energy accounting.
+(o)
+"Gaming" in relation to this Regulation, shall mean an intentional mis-declaration of available capacity or schedule by
+any seller in order to make an undue commercial gain through deviation charges;
+(p)
+"Grid Code" means the grid code specified by this Commission under clause (h) of sub-section (1) of Section 86 of the
+Act, 2003 as amended from time to time;
+(q)
+"IEGC" means the grid code specified by CERC under clause (h) of subsection (1) of Section 79 of the Act, 2003 as
+amended from time to time;
+(r)
+"Interconnection Point" means the interface point of a generation facility with the transmission or distribution system; and
+shall mean, in relation to a wind or solar energy facility, the line isolator on the outgoing feeder on the High Voltage (HV)
+side of the pooling sub-station or as provided in the CEA (Installation and operation of meters) Regulation, 2006 as
+amended from time to time;
+(s)
+"Interface Meters" means interface meters as defined by the CEA under the CEA (Installation and Operation of Meters)
+Regulations, 2006 as amended from time to time;
+(t)
+"Pooling station" means the sub-station where pooling of generation of individual wind generators or solar generators is
+done for interfacing with the next higher voltage level;
+Provided that where there is no separate pooling station for a wind or solar generator and the generating station is
+connected through a common / dedicated feeder and terminate sub-station of distribution company / STU / CTU, the
+sub-station of distribution company / STU / CTU shall be considered  as the pooling station for such wind or solar
+generator, as the case may be;
+(u)
+"Qualified Coordinating Agency or QCA" means agency appointed by wind / solar Generators registered with SLDC to
+act as a co-ordinating agency on behalf of wind or solar generators connected to a pooling station and one of such
+generators can also be such agency.
+Provided such agency has no statutory role and is not recognized as such under the Act, 2003, accordingly under this
+regulation also. Any action or inaction on the part of the wind or solar generator shall be attributable to such generator or
+other stakeholders as the case may be only, thus leaving the QCA to be simple facilitator or coordination only.
+(v)
+"Regional Load Despatch Centre" means the Centre established under sub-section (1) of Section 27 of the Act, 2003.
+(w)
+"Scheduled Generation" at any time or for a time-block or any period means schedule of generation in MW or MWh at
+ex-bus;
+(x)
+"Scheduled Drawl" at any time or for a time-block or any period of time block means schedule of despatch in MW or
+MWh at ex-bus given by the concerned despatch centre being either state or regional;
+(y)
+"Seller" means a person, including a generating station, either selling power to distribution licensee or supplying
+electricity for captive use or through a transaction scheduled in accordance with the regulations applicable for shortterm
+open access, medium-term open access and long-term open access;
+(z)
+"State" means the State of Telangana;
+(aa)
+Page 5/17
+----- PAGE 6 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+"State Level Entity" means an entity which is in the SLDC control area and whose metering and energy accounting is
+done at the state level;
+(ab)
+"State Load Despatch Centre or SLDC" means load despatch centre of the State, established under sub-section (1) of
+Section 31 of the Act, 2003 responsible for coordinating scheduling of the state entities in accordance with the
+provisions of the State Grid Code and also IEGC;
+(ac)
+"State Pool Account" means a separate account to be maintained by SLDC for receipts and payments on account of
+deviations specified under this Regulation;
+(ad)
+"STU" means the Transmission Corporation of Telangana (TSTRANSCO), which is recognized and notified by the
+Government of Telangana to be the State Transmission Utility under sub-section (1) of Section 39 of the Act, 2003;
+(ae)
+"Time-block" means a time block of fifteen (15) minutes or any such shorter duration as may be notified by Central
+Commission and State Commission, for which specified electrical parameters and quantities are recorded by special
+energy meter, with first time block starting at 00.00hrs or such other period as the Commission may stipulate;
+2.2
+Words and expressions used and not defined in the Regulations but defined in the Act and Reform Act shall have the
+meanings assigned to them in the Act or Reform Act, Expressions used herein but not specifically defined in the
+Regulations or in the Act but defined under any law passed by a competent legislature and applicable to the electricity
+industry in the state shall have the meaning assigned to them in such law. Subject to the above, expressions used
+herein but not defined by a competent legislature shall have the meaning as is generally assigned in the electricity
+industry.
+2.3
+In the interpretation of these Regulations, unless the context otherwise requires;
+(a)
+words in the singular or plural term, as the case may be, shall also be deemed to include the plural or the singular term,
+respectively;
+(b)
+references herein to the 'Regulation' shall be construed as a reference to these Regulations as amended or modified by
+the Commission from time to time in accordance with the applicable laws in force.
+(c)
+the headings are inserted for convenience and may not be taken into account for the purpose of interpretation of these
+Regulations.
+(d)
+reference to the statutes, regulations or guidelines shall be construed as including all provisions consolidating, amending
+or replacing such statutes, regulations or guidelines, as the case may be, referred to.
+3. General.
+- 3.1 Objective
+(a)
+The objective of this regulation is to facilitate a the large-scale grid integration of solar and wind generating stations that
+are established in the State of Telangana while maintaining grid stability and security as envisaged under the state grid
+code through forecasting, scheduling and deviation settlement of power generation by these generators.
+(b)
+In order to maintain system security, stability and reliability, the SLDC shall take into consideration the forecasts done in
+respect of wind and solar generation for  week-ahead, day-ahead and intra-day operations and scheduling and long
+term forecasts for planning supply of electricity.
+(c)
+The SLDC shall make use of the flexibility provided by conventional generating units and the capacity of inter-grid
+tie-lines to accommodate wind and solar energy generation to the largest extent possible subject to grid security.
+3.2
+Page 6/17
+----- PAGE 7 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+Applicability. - This Regulations shall apply to all wind or solar generators (excluding Rooftop PV Solar power projects)
+in Telangana connected to the intra-state transmission system, including those connected through pooling stations and
+supplying power to the DISCOMs, or to third parties through open access or for captive consumption through open
+access, and selling power within or outside the State.
+Provided that, the combined installed capacity of the wind or solar generators connected to a particular sub-station /
+pooling station or that of individual generator connected to some other sub-station shall not be less than 5 MW.
+4. Forecasting and Scheduling.
+- 4.1. The methodology for day-ahead scheduling of wind and solar energy generating stations which are connected to
+the state grid and re-scheduling them on one and a half (1.5) hourly basis and the methodology of handling deviations of
+such wind and solar energy generating stations shall be as stated hereunder and accordingly forecasting tools shall be
+provided by the generator concerned or by QCA in writing as obtained from the generator(s).
+4.2
+(a)
+Wind and solar generators, either by themselves or represented by QCAs, shall provide to the SLDC the technical
+specifications of the generating units and all other associated equipment of the wind / solar farm, in such format as may
+be specified by the SLDC, within the timelines specified in clause 19 of this Regulation and thereafter, whenever there is
+any change in such technical specifications.
+(b)
+The QCA on behalf of wind and solar generators or generators themselves, shall also provide the real time data related
+to power generation parameters as applicable to the SLDC.
+(c)
+The SLDC shall give appropriate directions under sub-section (1) of Section  33 of the Act, read with this Regulation
+about the information required on technical specifications and protocol for sharing information on or before the timelines
+specified in clause 19 of this Regulation.
+(d)
+The generators are also required to share with the SLDC such technical specifications about the establishment of the
+generating station, maintenance and operation of the same, information relating to tie-lines, sub-stations and dedicated
+transmission lines in accordance with this Regulation as may have been required to be furnished to other competent
+authorities under any law for the time being in force.
+4.3
+Forecasting shall be done by every wind and solar generator connected to the state grid directly or through pooling
+station, either by itself or by a QCA on its behalf. The SLDC shall also undertake forecasting of wind and solar power
+that is expected to be injected into the grid with the objective of ensuring secure grid operation by planning for the
+requisite balancing resources.
+Provided that the QCA while doing forecasting on behalf of generator, shall obtain a written consent of satisfaction of the
+generator before submitting such data to the SLDC.
+4.4
+The forecast done by a wind or solar generator or the QCA as the case may be, shall be provided separately for each
+pooling station. The wind or solar generator or QCA will have the option of accepting the SLDC's forecast for preparing
+its schedule or provide the SLDC with a schedule based on its own forecast. Each QCA shall coordinate the aggregation
+of schedules of all its generators connected to a pooling station and communicate the same to the SLDC.
+4.5
+(a)
+In case generator / QCA avails the services of SLDC forecast, the SLDC shall recover the charges for such services
+from the beneficiary generator / QCA as approved by the Commission. The amount recovered from this service by
+SLDC shall be considered as other income and shall be given effect in the ARR of SLDC. The generator / QCA may
+submit the schedule based on their own forecast.
+(b)
+Where the generator(s) through QCA or QCA itself avails the services of SLDC for forecasting or scheduling, they are
+estopped from taking the plea, that the error was reflected in the scheduling due to erroneous forecast by SLDC.
+(c)
+Page 7/17
+----- PAGE 8 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+The SLDC is in no way responsible for accurate forecasting which is to be  undertaken by the generator through QCA or
+generator duly establishing the required forecasting tools.
+4.6
+The QCA on behalf of wind and solar generator(s) or generator(s) themselves shall submit a day-ahead and
+week-ahead schedule of each generator and aggregated schedule for each pooling station, as the case may be.
+Day-ahead schedule shall contain wind or solar energy generation schedule at intervals of fifteen (15) minutes
+time-block for the next day, starting from 00:00 hours of the day, and prepared for all ninety-six (96) time-blocks. The
+week-ahead schedule shall contain the same information for the next seven days or (96 X 7 time-blocks):
+Provided that the wind and solar generators, as the case may be, having multiple transactions under a power purchase
+agreement and intra-state and / or inter-state open access with a common interface meter shall submit schedules with
+respect to such approved capacities allocated and such capacities alone shall be treated as AvCs for the purpose of
+these transactions under this Regulation.
+Provided further that settlement of energy by SLDC will be on the basis of aggregated schedule submitted by the
+generators / QCA with reference to each pooling station.
+4.7
+(a)
+The schedule of wind and solar generators connected to the state grid, excluding collective transactions, may be revised
+by giving an advance notice to the SLDC. Such revisions shall be effective from the fourth (4th) time block, the first
+being the time-block in which notice was given.
+(b)
+In respect of wind generators, there may be one revision for each time slot of one and a half hours starting from 00:00
+hours of a particular day subject to a maximum of sixteen (16) revisions during the day.
+(c)
+In respect of solar generators, there may be one revision for each time slot of one and a half hours starting from 5:30
+hours up to 19:00 hours of a particular day subject to a maximum of nine (9) revisions during the day.
+4.8
+The SLDC shall give appropriate directions under sub-section (1) of Section 33 of the Act, 2003 read with this
+Regulation about the forecasting tools, alternative means of communication in case of telemetry or other equipment
+failure, formats of forecast submission and other details along with timelines for compliance on or before the timelines
+specified in clause 19 of this Regulation
+Provided that the directions issued by SLDC for establishing telemetry or other communication equipment and
+forecasting tools shall be adhered by all generators. In case of failure to comply with such directions, the schedules of
+the generator will not be accepted and SLDC shall be at liberty to take such action as may be desirable or expedient to
+safeguard the safety and security of the grid.
+4.9
+Any commercial impact on account of deviation from the schedule based on the forecast made available by the
+generator or its QCA shall be borne by the wind or solar generator either by itself or through their presenting QCA.
+4.10
+(a)
+A wind or solar generating station which is already in commercial operation as on the date of publication of this
+Regulation or which may commence its commercial operation before the date of publication of this Regulation in the
+official gazette shall establish the forecasting tools either by itself or through a QCA within the timelines as specified by
+SLDC in clause 19 of this Regulation.
+(b)
+A wind or solar generating station commencing commercial operation on or after one month of the publication of this
+Regulation shall not be allowed to be commissioned unless it has established the forecasting tools either by itself or
+through a QCA.
+Provided that the distribution licensee shall confirm with the SLDC about compliance of establishing forecasting tools
+before the generator is allowed to synchronize with the grid on commercial basis.
+5. Metering.
+- 5.1. The wind and solar generator shall install the meters in accordance with the CEA (Installation and Operation of
+Page 8/17
+----- PAGE 9 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+Meters) Regulations, 2006 as amended from time to time.
+5.2
+The wind and solar generator shall also install appropriate telemetry / communication system and Data Acquisition
+System for transfer of required information for implementation of provisions of this Regulations so as to retrieve the
+same on real time basis by the SLDC.
+6. Qualifying Criteria for A Qca.
+- 6.1. The QCA shall be appointed by wind / solar generators who may be one of the generators or any mutually agreed
+agency. Such QCA shall possess sufficient experience in forecasting and scheduling.
+6.2
+The generators at a pooling sub-station may appoint one amongst themselves or any other entity as a QCA.
+6.3
+The QCA shall be appointed with the approval of at least 51% of the generators at a pooling sub-station, in terms of their
+combined installed capacity.
+Provided that QCA may undertake forecasting and scheduling at feeder level, however deviation accounting shall be
+undertaken for pooling substation as a whole.
+6.4
+The generators shall satisfy themselves that the QCA is technically and financially competent to undertake on their
+behalf the functions and discharge the obligations specified in this Regulations.
+6.5
+The terms of engagement of the QCA shall include provisions on the following aspects:
+(a)
+The respective roles and responsibilities of the QCA and generators;
+(b)
+The metering, billing and energy accounting arrangements;
+(c)
+The modalities for recovery of deviation charges from the generators and their settlement, including the principles for
+de-pooling;
+(d)
+The payment security mechanism and related provisions;
+(e)
+The events of default and their mitigation.
+Provided that the QCA is not statutorily recognized authority for omissions and commissions made by the generators
+and the generators shall be directly responsible for compliance of the provisions of the Act, 2003 and the regulations
+made thereunder.
+7. Role of Qca.
+- 7.1. For the purposes mentioned hereunder, the QCA will be facilitator between the SLDC and all the generators, who
+are connected to a pooling station.
+(a)
+providing schedules with periodic revisions on behalf of the wind / solar generators.
+(b)
+co-ordinating with the DISCOM / STU / SLDC, as the case may be in respect of metering, data collection,
+communication and issuance of instructions for despatch of power / curtailment thereof.
+(c)
+undertaking commercial settlement on behalf of the generators pertaining to generation of power injected into the grid,
+deviations in generation or drawl by either of the parties, apart from payment of deviation charges to the State  Pool
+Account.
+(d)
+undertaking de-pooling of payments received from the State Pool Account towards generation or deviations made on
+behalf of the generators and settling them with the individual generators.
+(e)
+all other ancillary and incidental matters arising out of or in connection with generation, supply, despatch and payments
+Page 9/17
+----- PAGE 10 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+as may be required to be undertaken on behalf of the generators.
+Provided that in case of QCA appointed by wind / solar generator for forecasting and scheduling work, the QCA shall
+facilitate the payment of the sum payable on behalf of the generator. The individual generator and QCA shall execute an
+agreement specifying that the QCA shall be the facilitator for compliance of all obligations and liabilities arising out of the
+scheduling, forecasting and other activities to be carried out by the wind / solar generator.
+7.2
+The QCA shall facilitate all the payments liable to be payable on behalf of the wind / solar generators as appointed by
+the generator. The generators are responsible for payment of dues to the DISCOMs or SLDC as the case may be and
+have a right to recover any sums due from the DISCOMs or SLDC, in doing so the QCA will be the facilitator. In case of
+non-compliance of payments or receipts of either of the parties, the QCA shall facilitate and ensure compliance of this
+Regulation as also the payments.
+7.3
+For this purpose, the generators, who have appointed the QCA, the QCA itself and the SLDC will enter into
+arrangements by way of agreement clearly specifying the rights and obligations of all the parties in terms of this
+Regulation.
+7.4
+To give effect to the above provisions, the SLDC shall in consultation with the generators and QCA prepare a draft
+agreement and place it before the Commission for evaluation and consent. The Commission will on its part consider the
+same duly following the procedures set out under Conduct of Business Regulation, 2015 as amended from time to time
+for this purpose.
+7.5
+The SLDC shall give appropriate directions under sub-section (1) of Section 33 of the Act, read with this Regulation
+about the guidelines for registration of QCAs, the data / information to be exchanged between the QCA, SLDC and the
+generator, the protocol for sharing the same etc., within the timelines specified in clause 19 of this Regulation.
+8. Energy Account, Deviation Settlement and Elimination of Gaming.
+- 8.1. The energy generated shall be accounted for and payment made for the energy generated by the wind and solar
+generators, who are connected to the state grid, accounting as well as payments, shall be in accordance with the
+guidelines and procedures specified by the Commission or such other competent authority under the Act, 2003.
+8.2
+In the event of actual injection of a generating station or a pooling station, as the case may be, being less or more than
+the scheduled generation, the deviation charges for shortfall or excess generation shall be payable by the wind or solar
+generator through QCA or generator(s) themselves, as the case may be, to the State Pool Account, as per the schedule
+specified in the table below:
+Table: Deviation Charges in case of under or over-injection for sale / supply of power within the State
+Sl. No.
+Absolute Error in the 15- minute time block
+Deviation Charges payable by Wind and Solar
+generator through QCA or generator(s) themselves to State Pool
+Account
+1
+<=15%
+None
+2
+>15% but <=25%
+At Re. 0.50 per unit for the shortfall or excess
+energy for absolute error beyond 15% and up to 25%
+3
+>25% but <=35%
+At Re. 0.50 per unit for the shortfall or excess
+energy beyond 15% and up to 25%.+Rs.1.0 per unit for balance
+energy beyond 25% and up to 35%
+Page 10/17
+----- PAGE 11 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+4
+>35%
+At Re. 0.50 per unit for the shortfall or excess
+energy beyond 15% and up to 25%+Rs.1.0 per unit for shortfall
+or excess energy beyond 25% and up to 35%+ Rs.1.50 per unit
+for balance energy beyond 35%
+8.3
+The deviation charges for under or over injection by wind or solar generator connected to the state grid and selling
+power outside the State shall be payable or receivable as per the CERC (Deviation Settlement Mechanism and Related 
+Matters) Regulations, 2014 as amended from time to time.
+8.4
+The Commission will review the absolute error as specified in this Regulation after a period of 3 years for the wind and
+solar generators connected to the state grid.
+8.5
+Appropriate incentive mechanism will be considered after due examination of the implementation of this Regulation after
+one year.
+For this purpose, the SLDC shall place before the Commission a report duly certifying the status of compliance of the
+provisions of this Regulation on and from the date of its notification in the official gazette for the State of Telangana and
+up to the end of one year falling in the next calendar year.
+The Commission will take a view on the report only after placing the same on its website and inviting the view of the
+relevant stakeholders (generators, QCA and DISCOMs).
+8.6
+The distribution licensee(s) have power to examine the metering arrangements including, installations in the premises of
+wind or solar generator whenever required. It may also require the generators to take steps to remedy any short
+comings noticed by it in compliance of any rules or regulations that are in force under the intimation to the SLDC and the
+Commission.
+8.7
+Deviations for generation and supply of power or otherwise in respect of Inter- State and Intra-State transactions at
+pooling station shall be accounted for separately.
+8.8
+The SLDC shall provide separate energy and deviation accounts for inter-state and intra-state transactions to QCA or
+the wind or solar generators.
+8.9
+The QCA shall separately facilitate settlement of deviation charges earned or liable to be paid by the wind or solar
+generators for inter-state and intra-state transactions separately.
+8.10
+The SLDC shall maintain all necessary and required records, registers and accounts in respect of forecasting,
+scheduling and deviation settlement in accordance with this Regulation.
+The records of SLDC have to be maintained to a maximum possible extent in digital form with proper backing up facility
+for retrieval of the same at any given point of time. The SLDC may endeavour to explore the possibility of maintaining
+the records on real time basis, if necessary.
+8.11
+The SLDC shall give appropriate directions under sub-section (1) of Section 33  of the Act, 2003 read with this
+Regulation on the manner of making the State Pool Account settlement and dealing with the default in respect of the
+same; the manner of de-pooling of energy deviations and deviation charges and State Pool Account within the timelines
+specified in clause 19 of this Regulation.
+8.12
+TSTRANSCO being the STU operating the SLDC under the first proviso to sub-section (2) of Section 31 of the Act, 2003
+shall provide the required manpower, funds and infrastructure to the SLDC for due implementation of this Regulation.
+8.13
+The Commission, on a petition made by SLDC, or any affected party, may initiate proceedings against any generator, or
+Page 11/17
+----- PAGE 12 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+seller or SLDC on the charges of gaming and if required, may order an inquiry in such manner as decided by the
+Commission. When the charge of gaming is established in the inquiry, the Commission may, without prejudice to any
+other action under the Act, 2003 or Regulations made thereunder, disallow the claims or payments of any charges for
+deviation received by such generator or the seller for the period where the Commission has concluded that gaming has
+taken place.
+9. Deviation Settlement for Inter-State Transactions.
+- 9.1. The sale or self-consumption of power outside the State of Telangana by solar and wind energy generators
+connected to the intra-state transmission system or distribution system shall be settled by the procurers on the basis of
+their scheduled generation.
+9.2
+Inter-state transactions at a pooling sub-station shall be permitted only if the concerned generator is connected through
+a separate feeder.
+9.3
+The generator shall submit, through the QCA, a separate schedule for its energy generation, in accordance with this
+Regulation to the SLDC as well as the concerned Regional Load Despatch Centre (RLDC).
+9.4
+The SLDC shall prepare the deviation settlement account for such generator on the basis of measurement of the
+deviation in the energy injected and its impact at the state periphery.
+9.5
+The generator shall pay the deviation charges for under / over injection applicable within the State of Telangana in case
+of deviations in the State DSM Pool, the consequences of such deviation at the inter-state level being governed by the
+CERC Regulations governing the deviation settlement  mechanism and related matters.
+10. Implementation Procedure with respect to Regulations.
+- 10.1. The plan for data telemetry, formats of forecast submission, and other modalities and requirements shall be
+stipulated in the detailed procedure to be submitted by the SLDC within the timelines specified in clause 19 of this
+Regulation, which the Commission shall approve thereafter duly following the Conduct of Business Regulation, 2015.
+10.2
+The detailed procedure shall make provision for the following aspects :
+(a)
+The procedure and requirements, including the payment of fees and penalties, for the registration and de-registration of
+generators through QCAs or generator(s) themselves and other stakeholders relevant to this Regulation by the SLDC.
+(b)
+The information, data and the formats required by the SLDC from the generators through QCAs or generator(s)
+themselves and similarly to be provided by the SLDC to them.
+(c)
+The mode and protocol of communication for exchange of information and data between the generators through QCAs
+or generator(s) themselves and the SLDC.
+(d)
+The guidelines for energy and deviation accounting of wind and solar energy transactions under the state energy
+accounting framework, with illustrative examples, in accordance with the principles specified in this Regulations.
+(e)
+The mechanism for monitoring compliance of the forecasting and scheduling code by the generators through QCAs or
+generator(s) themselves alongwith the other concerned stakeholders.
+(f)
+The default conditions in the state pool settlement by the generators through QCAs along with the other concerned
+stakeholders and their treatment.
+10.3
+The complete accounting process will be operationalized in the manner explained in paras 10.1 and 10.2:
+11.
+Metering Specifications.
+- Interface metering for intra-state entities shall be undertaken on an urgent basis. Every entity must be metered with a
+Page 12/17
+----- PAGE 13 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+Special Energy Meter (SEM) i.e. ABT compliant meter, capable of recording the energy in 15-minutes time block (with
+provision of 5-minutes integration). The generator through QCA or generator(s)  themselves shall forward weekly meter
+readings to the SLDC latest by Wednesday in respect of a previous week in addition to data acquisition provided to
+SCADA for energy accounting purpose under this Regulation.
+Explanation. - Week for the purpose of this clause in this Regulation shall be starting from Monday of the previously and
+ending with the Sunday that has gone by.
+12.
+Energy Accounting through Metering.
+- Every intra-state grid connected entity shall be metered with a Special Energy Meter (SEM), i.e. ABT compliant meter,
+capable of recording the energy in 15 minutes time block (with provision of 5 minutes integration) and the energy
+accounting for each such entity shall be done taking into consideration of such meter data.
+13.
+Means of Communication between Qca or Generator(S) themselves and SLDC.
+- 13.1. The generator through QCA or generator(s) themselves and SLDC should communicate using a software
+developed and facilitated by the QCA or generator(s) themselves for clauses from (a) to (h).
+(a)
+Communicating day ahead, intra-day and / or 3 day ahead schedule along with revisions to SLDC.
+(b)
+Informing real time generation at pooling station and / or at individual generator level, as required.
+(c)
+Providing information of grid constraints and curtailments from SLDC side to the generator directly or through QCA.
+(d)
+The generator through QCA or generator(s) themselves should provide software login to the state, wherein live data for
+all schedules and information on the deviations shall also be made available. This method will help in online
+communication without time lag and facilitate prompt payment of deviation charges by the concerned stakeholders
+including generator through QCA or generator(s) themselves to SLDC.
+(e)
+The software should facilitate information from generator through QCA or generator(s) themselves to SLDC on
+generation outage with reason for such outage.
+(f)
+It should intimate the generator through QCA or generator(s) themselves  and other stakeholders on the deviation
+charges at the pooling station by the SLDC.
+(g)
+It should provide basic information of the site and turbines / inverters (Static Sheet).
+(h)
+SLDC should be able to view the state level schedule along with actual generation being handled by the generators
+through QCA or generator(s) themselves.
+14.
+Access to Meters.
+- 14.1. The generators shall enter into an agreement after nominating a QCA and such agreement shall provide
+specifically the following conditions.
+(a)
+Access to the QCAs to install modem on existing ABT meters for getting data on 15 minutes basis (with provision of 5
+minutes integration).
+(b)
+Permit access to the API link for getting the data from the meter to the QCAs central server to facilitate better
+forecasting.
+(c)
+Alternatively allow the QCA to install parallel meter on the existing CT / PT set to facilitate acquisition of real time data
+so that best schedule can be submitted to SLDC.
+15.
+Page 13/17
+----- PAGE 14 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+Deviation Accounting.
+- 15.1. Computation of deviation charge: The deviation charges have to be calculated and notified to the concerned
+stakeholders in accordance with the provisions made in clauses (a) to (e) below:
+(a)
+Deviation charge (D) payable or / receivable for the state as a whole at the state periphery shall be first computed by the
+SLDC.
+(b)
+SLDC shall calculate Absolute Error occurred in the scheduled energy and actual energy and deviation reflected at state
+periphery for each pooling station and for each generator who is not a part of the pooling station feeding directly to the
+sub-station.
+(c)
+The deviation charges (R) as specified in this Regulation shall be calculated by the SLDC for the pooling stations and for
+each generator who is not a part of the pooling station feeding directly to the sub-station.
+(d)
+SLDC shall calculate the deviation for each pooling station and for each generator who is not a part of the pooling
+station feeding directly to the substation, assuming (i) the share out of state level deviation charge as 'D' and (ii)  receipt
+of deviation charge from each pooling station and for each generator who is not a part of the pooling station feeding
+directly to the sub-station based on the charges for deviation, as (R). Actual commercial impact for the state as a result
+of deviation of wind and solar generation would be D minus R.
+(e)
+This amount D minus R shall be further allocated to each pooling station and for each generator who is not a part of the
+pooling station feeding directly to the sub-station in proportion to their deviation.
+16.
+Settlement of Deviation Charges.
+- SLDC shall prepare the State Pool Account and Deviation Energy Account and shall undertake settlement of deviation
+charges payable by each pooling station and each generator who is not a part of the pooling station feeding directly to
+the sub-station as per the provisions of this Regulation.
+17.
+Payament Mechanism for Settlement of Deviations by Wind / Solar Generators And Payment Security.
+- 17.1. The payment settlement of deviations charges beyond permissible limits shall be prime responsibility of all the
+wind and solar generators connected to respective pooling station or connected with the sub-station as the case may be.
+The generators shall make payment of deviation charges through QCA nominated by them as per the rates specified in
+clause 8.2 of this Regulation.
+17.2
+The wind or solar generator shall provide payment security to SLDC by way of bank guarantee obtained from a public
+sector bank and / or revolving letter of credit given by a scheduled commercial bank covering deviation settlement
+mechanism payment for 6 months.
+17.3
+In case the wind or solar generator defaults in payment to SLDC through QCA then QCA shall inform about the default
+by the generator to the SLDC and SLDC shall not despatch such generation.
+17.4
+The payment of all charges on account of deviations beyond the permissible limit at a pooling station by wind and solar
+generators shall have priority over other payments and shall be paid within 10 (ten) days from the issuance of the
+invoice along with statement of account. Such payment shall attract an interest of 0.04% per day for each day of delay in
+the event the payment is made beyond 12 days.
+18.
+Energy Accounting for (Deviation Charges and DE-Pooling of Deviation Charges of Wind / Solar Generators Connected
+to Pooling Stations.
+- 18.1. All accounts related to deviation either ways shall be prepared by the generator through QCA or generator(s)
+themselves on a weekly basis, based on inputs from the SLDC. The same is to be made available to the SLDC by the
+generator through QCA or generator(s) themselves using the software put in place for the said purpose.
+Page 14/17
+----- PAGE 15 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+18.2
+SLDC shall make available the processed data on a weekly basis not later than afternoon of Thursday for the seven-day
+period which ended on the midnight of previous Sunday, to the concerned generators through QCA or generator(s)
+themselves in a specified format, for preparation of energy accounts related to accounting of energy from the pooling
+station / sub-station on a weekly basis.
+18.3
+The data furnished by SLDC shall be open to all entities for checking / verification for a period of 15 days. In case any
+mistake is detected, SLDC shall forthwith make a complete check and rectify the mistakes.
+19.
+DE-Pooling of Deviation Charge.
+- 19.1. The QCA serving the generators shall de-pool the energy deviation as well as deviation charges to each
+generator connected at a respective pooling station in proportion to energy injected in each time block by each
+generator.
+20.
+Grid Stability.
+- 20.1. All the wind and solar generators have to maintain reactive power, voltage and frequency in line with the central /
+state gird code regulations for maintenance of stability, safety and security of the grid.
+21.
+Summary of Timelines.
+-
+Reference
+Activity/Milestone
+Action by
+Period/Duration from date of notification of
+Regulations
+4.2 (a) and 4.2 (c)
+Technical Specification and Information Sharing
+protocol by generators through QCA or generator(s) themselves to
+SLDC
+SLDC
+Three Months
+4.8
+Forecasting tool, alternate means of
+communication, formats for submission to the SLDC.
+Forecasting tools to be established by the
+generators through QCAs or generator(s) themselves
+QCA
+4.10
+Forecasting tools to be established by the
+generators through QCAs or generator(s) themselves.
+Three Months
+7.4
+Guidelines for registration of QCA, data
+exchange between QCA and SLDC
+SLDC
+Two Months
+8.11
+Manner of making State Pool Account and
+settlement thereof
+SLDC
+Three Months
+Page 15/17
+----- PAGE 16 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+10.1 & 10.2
+Detailed procedures covering plan for data
+telemetry by SLDC to the Commission
+SLDC
+Three Months
+Trial Run - During this period all parties shall
+comply with the above and the remainder period shall be termed as
+a Trial Run period (maximum of 3 months).
+All concerned stakeholders
+Six Months
+1(c)
+Commencement of Commercial arrangement specified
+in this Regulation
+All concerned stakeholders
+Six Months
+22.
+Dispute Resolution.
+- 22.1. Any dispute arising out of or in connection with issues of despatch of energy, levy of charges or payment of
+deviation charges, the SLDC and the generator through QCA or generator(s) themselves shall make efforts to resolve
+the matters by mutual discussion.
+22.2
+Failing such an action, the aggrieved stakeholders are free to agitate the issue by means of filing a proper petition under
+the provisions of the Act, 2003, duly complying with Conduct of Business Regulation, 2015 and Levy of Fee and
+Charges for the Services rendered by the Commission Regulation, 2016.
+Provided that the QCA cannot independently initiate any proceedings before the Commission and can only be party to
+the proceedings along with generator(s) as it is not a statutory authority under the Act, 2003 to raise any issue before
+the Commission.
+23.
+Miscellaneous.
+- 23.1. The interpretation of the provisions of the regulation shall be made by the Commission either upon itself noticing
+any difficulty in giving effect to the same or on a request of any of the stakeholders to cause interpretation of any
+provision. The decision of the Commission is final in the matter.
+23.2
+Nothing in this Regulation shall be deemed to limit or otherwise affect the inherent power of the Commission to make
+such orders as may be necessary to meet the ends of justice or to prevent abuse of process of the Commission.
+23.3
+Nothing in this Regulation shall bar the Commission from adopting a procedure, which is at variance with any of the
+provisions of this Regulation, if the Commission, in view of the special circumstances of a matter or class of matters and
+for reasons to be recorded in writing, deems it necessary or expedient for so doing in order to deal with such a matter or
+class of matters.
+23.4
+Nothing in this Regulation shall, expressly or impliedly, bar the Commission to deal with any matter or exercise any
+power under the Act, 2003 or Reform Act, 1998 for which no provisions have been framed, and the Commission may
+deal with such matters, powers and functions in a manner it deems fit in appropriate case.
+24.
+Power to remove Difficulties.
+- Where any difficulty arises in giving effect to any of the provisions of this Regulation, the Commission may, by general
+or special order, do anything not being inconsistent with the provisions of the Act, 2003 or Reform Act, 1998, which
+appears to it to be necessary or expedient for the purpose of removing the difficulties.
+25.
+Power to Relax.
+Page 16/17
+----- PAGE 17 -----
+Telangana State Electricity Regulatory Commission (Forecasting, Scheduling, Deviation Sett...
+- The Commission may by general or special order, for reasons to be recorded in writing, and after giving an opportunity
+of hearing to the parties likely to be affected by grant of relaxation, may relax any of the provisions of this Regulation on
+its own motion or on an application made before it by an interested person in accordance with Conduct of Business
+Regulation, 2015.
+26.
+Power to Issue Directions.
+- Subject to the provisions of the Act, 2003 and this Regulation, the Commission may, from time to time, issue orders
+and directions in regard to the implementation of the Regulation and procedure to be followed and various matters which
+the Commission has been empowered by this Regulation to specify or direct, as may be considered necessary in
+furtherance of the objective and purpose of this Regulation.
+27.
+General Power to Amend.
+- The Commission may, at any time and on such terms as to costs or otherwise, as it may think fit, rectify any defect or
+error in any proceeding before it, and all acts shall be done for the purpose of determining the real question or issue
+arising in the proceedings.
+28.
+Regulations to be in Addition to and not in Derogation of Other Laws.
+- This Regulation is in addition to and not in derogation of any provision laid under the Act, rules or regulations framed
+thereunder or under any other laws.
+Related AI tags, queries and research notes
+Translation
+Page 17/17

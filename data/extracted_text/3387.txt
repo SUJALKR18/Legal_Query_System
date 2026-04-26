@@ -1,0 +1,406 @@
+
+----- PAGE 1 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+Information Technology (Intermediary Guidelines and Digital Media
+Ethics Code) Amendment Rules, 2023
+Source: https://indiankanoon.org/doc/167974121/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2023
+UNION OF INDIA
+India
+The Information Technology Act, 2000
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2023
+Rule G-S-R-275-E- of 2023
+Published in Gazette of India : Extraordinary 214 on 6 April 2023
+Commenced on 6 April 2023
+[This is the version of this document from 6 April 2023.]
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY
+NOTIFICATION
+New Delhi, the 6th April, 2023
+G.S.R. 275(E).?In exercise of the powers conferred by sub-section (1) and clauses (z) and (zg) of sub-section (2) of
+section 87 of the Information Technology Act, 2000 (
+21 of 2000
+), the Central Government hereby makes the following rules to further amend the Information Technology (Intermediary
+Guidelines and Digital Media Ethics Code) Rules, 2021, namely:?
+1.
+Page 1/8
+----- PAGE 2 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+Short title
+(1)
+These rules may be called the Information Technology (Intermediary Guidelines and Digital Media Ethics Code)
+Amendment Rules, 2023.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+In the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (hereinafter referred
+to as the said rules), in rule 2, in sub-rule (1),?
+(i)
+in clause (k), after the words ?intermediary or the?, the words ?online gaming self-regulatory body or the? shall be
+inserted;
+(ii)
+after clause (q), the following clauses shall be inserted, namely:?
+?(qa) ?online game? means a game that is offered on the Internet and is accessible by a user through a computer
+resource or an intermediary.
+Explanation.?In this clause, ?Internet? means the combination of computer facilities and electromagnetic transmission
+media, and related equipment and software, comprising the interconnected worldwide network of computer networks
+that transmits information based on a protocol for controlling such transmission;
+(qb)
+?online gaming intermediary? means any intermediary that enables the users of its computer resource to access one or
+more online games;
+(qc)
+?online gaming self-regulatory body? means an entity designated as such under rule 4A;
+(qd)
+?online real money game? means an online game where a user makes a deposit in cash or kind with the expectation of
+earning winnings on that deposit.
+Explanation.?In this clause, ?winnings? means any prize, in cash or kind, which is distributed or intended to be
+distributed to a user of an online game based on the performance of the user and in accordance with the rules of such
+online game;
+(qe)
+?permissible online game? means a permissible online real money game or any other online game that is not an online
+real money game;
+(qf)
+?permissible online real money game? means an online real money game verified by an online gaming self-regulatory
+body under rule 4A;?.
+3.
+In rule 3 of the said rules,?
+(i)
+in sub-rule (1),?
+(I)
+in the opening portion, for the words ?social media intermediary and significant social media intermediary?, the words ?a
+social media intermediary, a significant social media intermediary and an online gaming intermediary? shall be
+substituted;
+(II)
+in clause (b),?
+(A)
+in the opening portion, for the words ?to cause the user of its computer resource not to host,?, the words ?by itself, and
+to cause the users of its computer resource to not host? shall be substituted;
+(B)
+in sub-clause (ii), after the words ?or gambling,?, the words ?or an online game that causes user harm,? shall be
+Page 2/8
+----- PAGE 3 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+inserted;
+(C)
+in sub-clause (v), after the word ?nature?, the words ?or, in respect of any business of the Central Government, is
+identified as fake or false or misleading by such fact check unit of the Central Government as the Ministry may, by
+notification published in the Official Gazette, specify? shall be inserted;
+(D)
+for sub-clause (ix), the following sub-clauses and Explanation shall be substituted, namely:?
+(ix)
+is in the nature of an online game that is not verified as a permissible online game;
+(x)
+is in the nature of advertisement or surrogate advertisement or promotion of an online game that is not a permissible
+online game, or of any online gaming intermediary offering such an online game;
+(xi)
+violates any law for the time being in force.
+Explanation.?In this clause, ?user harm? and ?harm? mean any effect which is detrimental to a user or child, as the
+case may be;?;
+(III)
+in clause (f), the following proviso shall be inserted, namely:?
+?Provided that an online gaming intermediary who enables the users to access any permissible online real money game
+shall inform its users of such change as soon as possible, but not later than twenty-four hours after the change is
+effected;?;
+(IV)
+in clause (j), in the opening portion, after the words ?but not later than seventy two hours?, the words ?and in case of an
+online gaming intermediary who enables the users to access any permissible online real money game not later than
+twenty-four hours? shall be inserted;?;
+(ii)
+in sub-rule (2), in clause (a),?
+(I)
+in the opening portion, after the words ?provisions of this rule or?, the words, brackets and figures ?sub-rules (11) to
+(13) of rule 4, or in respect of? shall be inserted;
+(II)
+in sub-clause (i), in the first proviso, for the brackets and letters ?(ix)?, the brackets and letters ?(xi)? shall be
+substituted;
+(III)
+after sub-clause (ii), the following Explanation shall be inserted, namely:?
+?Explanation.?In this rule, ?prominently publish? shall mean publishing in a clearly visible manner on the home page of
+the website or the home screen of the mobile based application, or both, as the case may be, or on a web page or an
+app screen directly accessible from the home page or home screen.?.
+4.
+In rule 3A of the said rules,?
+(i)
+in sub-rule (3), for the words ?Any person aggrieved by a decision of the Grievance Officer?, the words, brackets, letters
+and numbers ?Any person who is aggrieved by a decision of the Grievance Officer or whose grievance is not resolved
+within the period specified for resolution in sub-clause
+(i)
+of clause (a) of sub-rule (2) of rule 3 or clause (b) of sub-rule (2) of rule 3 or sub-rule (11) of rule 4A, as the case may
+be,? shall be substituted;
+(ii)
+in sub-rule (7), after the words ?intermediary concerned?, the words ?or the online gaming self-regulatory body
+concerned, as the case may be,? shall be inserted.
+5.
+Page 3/8
+----- PAGE 4 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+In rule 4 of the said rules,?
+(i)
+in the heading, after the word ?intermediary?, the words ?and online gaming intermediary? shall be inserted;
+(ii)
+in sub-rule (1),?
+(I)
+in the opening portion, for the words, brackets, letters and figures ?intermediary shall, within three months from the date
+of notification of the threshold under clause (v) of sub-rule (1) of rule 2,?, the words, brackets, letters and figures
+?intermediary, within three months from the date of notification of the threshold under clause (v) of sub-rule (1) of rule 2,
+and an online gaming intermediary that enables the users to access any permissible online real money game, shall?
+shall be substituted;
+(II)
+in clause (a),?
+(A)
+in the proviso, after the word ?intermediary?, the words ?or such online gaming intermediary? shall be inserted;
+(B)
+in the Explanation, after the word ?intermediary?, the words ?or an online gaming intermediary, as the case may be,?
+shall be inserted;
+(III)
+in clause (b), for the Explanation, the following Explanation shall be substituted, namely:?
+?Explanation.?In this clause, ?nodal contact person? means the employee of?
+(i)
+a significant social media intermediary, other than its Chief Compliance Officer; or
+(ii)
+an online gaming intermediary, who is resident in India;?;
+(IV)
+in clause (c), in the Explanation, for the word ?intermediary,?, the words ?intermediary or an online gaming intermediary,
+as the case may be,? shall be substituted;
+(V)
+in clause (d), for the words ?thereon, and?, the words ?thereon, and, in respect of a significant social media
+intermediary,? shall be substituted;
+(iii)
+in sub-rule (5), for the words ?The significant social media intermediary?, the words ?A significant social media
+intermediary and an online gaming intermediary who enables the users to access any permissible online real money
+game? shall be substituted;
+(iv)
+in sub-rule (6), for the words ?The significant social media intermediary?, the words ?A significant social media
+intermediary and an online gaming intermediary who enables the users to access any permissible online real money
+game? shall be substituted;
+(v)
+in sub-rule (7), for the words ?The significant social media intermediary?, the words ?A significant social media
+intermediary and an online gaming intermediary who enables the users to access any permissible online real money
+game? shall be substituted;
+(vi)
+after sub-rule (9), the following sub-rules shall be inserted, namely:?
+?(10) An online gaming intermediary who enables access to its users to any permissible online real money game, shall
+display a demonstrable and visible mark of verification of such online game by an online gaming self-regulatory body on
+such permissible online real money game.
+(11)
+While informing the users of its rules and regulations, privacy policy, terms of service and user agreements under clause
+(b) of sub-rule (1) of rule 3, an online gaming intermediary who enables the users to access any permissible online real
+Page 4/8
+----- PAGE 5 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+money game, shall include the following information in respect of every such online games, namely:?
+(a)
+the policy related to withdrawal or refund of the deposit made with the expectation of earning winnings, the manner of
+determination and distribution of such winnings, and the fees and other charges payable by the user;
+(b)
+the know-your-customer procedure followed by it for verifying the identity of the users of such online game;
+(c)
+the measures taken for protection of deposit made by a user for such online game; and
+(d)
+the framework referred to in rule 4A, relating to such online game.
+(12)
+An online gaming intermediary shall, before accepting any deposit in cash or kind from any user for a permissible online
+real money game, identify such user and verify his identity:
+Provided that the procedure required to be followed by an entity regulated by the Reserve Bank of India for identification
+and verification of a customer at the commencement of an account-based relationship shall apply, mutatis mutandis, in
+identification and verification of the users of such online gaming intermediary.
+(13)
+An online gaming intermediary who enables the users to access any permissible online real money game shall not itself
+finance by way of credit or enable financing to be offered by third party for the purpose of playing such online game.?.
+6.
+After rule 4 of the said rules, the following rules shall be inserted, namely:?
+?4A. Verification of online real money game.?
+(1)
+The Ministry may, by a notification in the Official Gazette, designate as many online gaming self-regulatory bodies as it
+may consider necessary for the purposes of verifying an online real money game as a permissible online real money
+game under these rules.
+(2)
+An entity which fulfils the following criteria may apply to the Ministry for designation as an online gaming self-regulatory
+body, namely:?
+(a)
+the entity is a company registered under section 8 of the Companies Act, 2013 (
+18 of 2013
+);
+(b)
+its membership is representative of the gaming industry;
+(c)
+its members have been offering and promoting online games in a responsible manner;
+(d)
+its Board of Directors is comprised of individuals of repute and do not have any conflict of interest and possess special
+knowledge or practical experience suitable for the performance of the functions of such self-regulatory body, and
+consists of?
+(i)
+an individual having special knowledge of or practical experience in the online gaming industry;
+(ii)
+an individual having experience in promoting the interests of users of online games;
+(iii)
+an educationist;
+(iv)
+an expert in the field of psychology or mental health or such other relevant field;
+(v)
+an individual having special knowledge of or practical experience in the field of information and communications
+Page 5/8
+----- PAGE 6 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+technology;
+(vi)
+an individual who is or has been a member or officer of an organisation dealing with the protection of child rights;
+(vii)
+an individual having practical experience in the field of public policy or public administration or law enforcement or public
+finance or other relevant field, to be nominated by the Ministry; and
+(viii)
+such other individuals as may be appointed with the previous approval of the Ministry;
+(e)
+its memorandum of association and articles of association contain provisions relating to?
+(i)
+the performance of its functions under these rules, including the redressal of grievances under sub-rule (11), in a
+manner free from conflict of interest and at arm?s length from its members;
+(ii)
+the disclosure and reporting by and accountability of its members in relation to the online games verified by such body;
+(iii)
+the clear and relevant criteria, consistent with these rules, for the acceptance and continuation of a person as its
+member, and for revoking or suspending such membership after giving such person an opportunity of being heard; and
+(iv)
+the requirement that the amendment in the memorandum of association and articles of association in relation to any
+matter referred to in sub-clauses (i), (ii) or (iii) is carried out with the previous approval of the Ministry; and
+(f)
+the entity has sufficient capacity, including financial capacity, to perform its functions as an online gaming self-regulatory
+body under these rules.
+(3)
+The online gaming self-regulatory body, upon an application made to it by its member in respect of an online real money
+game, may declare such online real money game as a permissible online real money game, if, after making such inquiry
+as it deems fit, it is satisfied that?
+(a)
+the online real money game does not involve wagering on any outcome; and
+(b)
+the online gaming intermediary and such online game is in compliance with the provisions of rules 3 and 4, the
+provisions of any law relating to the age at which an individual is competent to enter into a contract, and the framework
+made by the online gaming self-regulatory body under sub-rule (8):
+Provided that an online gaming self-regulatory body may, initially rely upon the information furnished by the applicant for
+verification of the online real money game and declare such game as a permissible online real money game for a period
+not exceeding three months:
+Provided further that the online gaming self-regulatory body shall endeavour to complete the inquiry within the said
+period of three months and, upon its completion, either declare the online real money game as a permissible online real
+money game or inform the applicant in writing with the reasons thereof that such online game does not meet the
+requirements under these rules.
+(4)
+The online gaming self-regulatory body shall publish and maintain on its website, mobile based application or both, at all
+times, an updated list of all permissible online real money games verified under sub-rule (3), along with the details of
+such online games including the details of the applicant, the dates and period of validity of the verification, the reasons
+of such verification and the details of the suspension or revocation, if any, of verification of any online real money game.
+(5)
+Every online gaming self-regulatory body shall publish and maintain on its website, mobile based application or both, at
+all times, an updated list of all its members, whether present or former, the dates of their acceptance as member, their
+corporate or business-related identity number and other details, and the details of suspension or revocation of
+membership of any member.
+Page 6/8
+----- PAGE 7 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+(6)
+The online gaming self-regulatory body may, at any time, after giving the applicant member an opportunity of being
+heard and for reasons to be communicated in writing, suspend or revoke the verification, if it is satisfied that the online
+real money game verified by it is not in compliance with the provisions of these rules.
+(7)
+The online real money game verified under sub-rule (3), and the online gaming intermediary which enables access to
+such online real money game, shall display a demonstrable and visible mark of such verification stating that the online
+real money game is verified by the online gaming self-regulatory body as a permissible online real money game under
+these rules.
+(8)
+The online gaming self-regulatory body shall prominently publish on its website, mobile based application or both, as the
+case may be, a framework for verifying an online real money game, which, among other things, includes the following,
+namely:?
+(a)
+the measures to ensure that such online real money game is not against the interests of sovereignty and integrity of
+India, security of the State, friendly relations with foreign States and public order;
+(b)
+the safeguards against user harm, including self-harm and psychological harm;
+(c)
+the measures to safeguard children, including measures for parental or access control and classifying online games
+through age-rating mechanism, based on the nature and type of content; and
+(d)
+the measures to safeguard users against the risk of gaming addiction, financial loss and financial fraud, including
+repeated warning messages at higher frequency beyond a reasonable duration for a gaming session and provision to
+enable a user to exclude himself upon user-defined limits being reached for time or money spent.
+(9)
+The Ministry may, if it considers it necessary, by a notice in writing, require an online gaming self-regulatory body to
+furnish to the Ministry or disclose on such body?s website or mobile based application or both, such information as the
+Ministry may specify in the notice.
+(10)
+Before issuing a direction under section 69A of the Act in respect of a permissible online real money game, the Central
+Government may take into consideration the details published by an online gaming self-regulatory body under sub-rule
+(4).
+(11)
+Every online gaming self-regulatory body shall prominently publish on its website, mobile based application or both, the
+framework for redressal of grievances and the contact details of the Grievance Officer to which an applicant aggrieved
+by a decision of such body with respect to verification may make a complaint in respect of any matter related to such
+online real money game or verification which shall be acknowledged by the Grievance Officer within twenty-four hours
+and resolved within a period of fifteen days from the date of its receipt.
+(12)
+Where the Ministry is of the view that any verification of a permissible online real money game by an online gaming
+self-regulatory body is not in conformity with these rules, it may, after giving such body an opportunity of being heard,
+communicate, in writing, the fact of such non-conformity to that body and direct it to take measures to rectify the same.
+(13)
+The Ministry may, if it is satisfied that it is necessary so to do, after giving the online gaming self-regulatory body an
+opportunity of being heard, by order, for reasons to be recorded in writing, suspend or revoke the designation of such
+body:
+Provided that the Ministry may, in the interest of the users of any online game that was verified by such body at the
+same time or at any subsequent time, give such interim directions as it may deem necessary to any intermediary or
+class of intermediaries regarding enabling its users to access such online game.
+(14)
+Page 7/8
+----- PAGE 8 -----
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment R...
+In this rule, ?prominently publish? shall mean publishing in a clearly visible manner on the home page of the website or
+the home screen of the mobile based application, or both, as the case may be, or on a web page or an app screen
+directly accessible from the home page or home screen.
+4B.
+Applicability of certain obligations after an initial period.?The obligations under rules 3 and 4 shall not apply in relation to
+online games until the expiry of a period of three months from the date on which at least three online gaming
+self-regulatory bodies have been designated under rule 4A:
+Provided that the Central Government may, at any time before the expiry of the said period of three months, by a
+notification in the Official Gazette, direct that the obligations under rules 3 and 4 shall apply in relation to an online game
+from such date as may be specified in the notification.
+4C.
+Obligations in relation to online game other than online real money game.?(1) If the Central Government considers it
+necessary so to do in the interest of the sovereignty and integrity of India or security of the State or friendly relations with
+foreign States or public order, or preventing user harm, it may, by a notification in the Official Gazette, for reasons to be
+recorded in writing,?
+(a)
+direct that an intermediary in respect of such online game, shall observe, mutatis mutandis, the obligations under
+sub-clauses (ix) and (x) of clause (b) of sub-rule (1) of rule 3 and sub-rules (1), (5), (6), (7), (10) and clause (d) of
+sub-rule (11) of rule 4 as if it is a permissible online real money game; and
+(b)
+specify the period within which the online gaming intermediary which enables access to such online game shall observe
+the obligations referred to in clause (a).
+(2)
+Where an online game is notified under sub-rule (1), the provisions of rule 4A shall apply as they apply to a permissible
+online real money game.
+Explanation.?In this rule, ?user harm? means any effect which is detrimental to users.?.
+Related AI tags, queries and research notes
+Translation
+Page 8/8

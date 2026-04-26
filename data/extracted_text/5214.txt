@@ -1,0 +1,2656 @@
+
+----- PAGE 1 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Jammu and Kashmir State Electricity Regulatory Commission (Terms
+and Conditions of Intra-State Open Access) Regulations, 2015
+Source: https://indiankanoon.org/doc/136573711/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Jammu-Kashmir - Act
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-State Open Access)
+Regulations, 2015
+JAMMU & KASHMIR
+India
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-State Open Access)
+Regulations, 2015
+Rule
+JAMMU-AND-KASHMIR-STATE-ELECTRICITY-REGULATORY-COMMISSION-TERMS-AND-CONDITIONS-OF-INTR
+A-STATE-OPEN-ACCESS-REGULATIONS-2015 of 2015
+Published on 10 July 2015
+Commenced on 10 July 2015
+[This is the version of this document from 10 July 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-State Open Access)
+Regulations, 2015
+Published vide Notification No. 43-JKSERC of 2015, dated 10.7.2015
+Notification No. 43-JKSERC of 2015 dated 10.7.2015. - In exercise of the powers conferred by section 138, read with
+sections 33, 34, 36 and 71 of the Jammu and Kashmir Electricity Act, 2010 (Act XIII of 2010) and all other powers
+Page 1/50
+----- PAGE 2 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+enabling it in this behalf, the Jammu and Kashmir State Electricity Regulatory Commission (J&K SERC) hereby makes
+the J&K SERC (Terms and Conditions of Intra-State Open Access) Regulations in replacement of J&K SERC (Open
+Access in Intra-State Transmission and Distribution) Regulations notified on 25th January, 2006, Following are the
+details of new regulations :-
+Chapter 1
+Preliminary
+1.
+Short title, extent and commencement.
+(1)
+These regulations may be called the Jammu and Kashmir State Electricity Regulatory Commission (Terms and
+Conditions of Intra-State Open Access) Regulations, 2015.
+(2)
+These regulations shall come into force from the date of publication in the Government Gazette.
+2.
+Scope.
+- These regulations shall apply to open access for use of Intra-State transmission system and distribution systems in the
+State, including when such system is used in conjunction with Inter-State transmission system.
+3.
+Definitions.
+- In these regulations, unless the context otherwise requires,-
+(1)
+"Act" means the Jammu and Kashmir State Electricity Act, 2010 (Act No. XIII of 2010) ;
+(2)
+"Allotted Capacity" means the power transfer in MW between the specified point(s) of injection and point(s) of drawal
+allowed to a long-term/medium-term customer on the Intra-State transmission system and the expression "allotment of
+capacity" shall be construed accordingly ;
+(3)
+"Applicant" means a consumer, trader, distribution licensee or a generating station who has applied seeking connectivity
+or open access as the case may be ;
+(4)
+"Central Commission" means the Central Electricity Regulatory Commission referred to in section 76 of the Indian
+Electricity Act 2003 ;
+(5)
+"Commission" means the Jammu and Kashmir State Electricity Regulatory Commission referred to in section 64 of the
+Act ;
+(6)
+The word "consumer" shall carry the same meaning as in the Act, but shall be restricted to such consumers within the
+State of Jammu and Kashmir to whom these regulations will apply ;
+(7)
+"Contracted load" means the load in kW/HP/kVA (kilo Watt/Horse Power/kilo Volt Ampere) which the distribution
+licensee has agreed to supply from time to time subject to the governing terms and conditions and is different from the
+connected load ;
+(8)
+"Composite Operating Charges or Operating Charges" means the charges payable by an Open Access Customers for
+each transactions to the SLDC as determined by the Commission and includes the fee for scheduling, system operation,
+energy accounting, fee for effecting revision in schedule on bona fide grounds and collection and disbursement of
+charges ;
+(9)
+"Day" means a day starting at 0000 hours and ending at 2400 hours ;
+(10)
+"Distribution licensee" means any person licensed under section 14 of the Act for distribution and retail supply of
+Page 2/50
+----- PAGE 3 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+electricity in the State of Jammu and Kashmir ;
+(11)
+"Distribution System" means a system or wires and associated facilities between delivery points on the transmission
+lines or generating station and the point of connection to the installation of the consumers ;
+(12)
+"Embedded open access consumer (or in short embedded consumer)" means consumer who has a supply agreement
+with the distribution licensee in whose area of supply the consumer is located and avails the option of drawing part or full
+of its demand from any other person under open access, in any one or more time slots during a day or more, in any
+month or more during the year, without ceasing to be a consumer of the said distribution licensee and continues to pay
+monthly demand charges and other charges as per rate schedule applicable to relevant category ;
+(13)
+"IEGC" means Indian Electricity Grid Code Specified by Central Electricity Regulatory Commission under clause (h) of
+sub-section (1) of section 79 of the Indian Electricity Act, 2003 and as amended from time to time ;
+(14)
+"Imbalance" in a time block for a generating station means its total actual generation minus its total scheduled
+generation and for a consumer or buyer means its total drawal minus its total scheduled drawal ;
+(15)
+"Limited short-term open access consumer" means consumer who has a supply agreement with the distribution licensee
+in whose area of supply the consumer is located and avails open access in distribution and/or transmission system only
+during pre-scheduled load shedding due to shortage of power ;
+(16)
+"Long-term access" means the right to use the Intra-State transmission system or distribution system for a period
+exceeding 12 years but not exceeding 25 years ;
+(17)
+"Medium-term open access" means the open access for a period exceeding three months but not exceeding three years
+;
+(18)
+"Month" means a calendar month as per the Gregorian Calendar ;
+(19)
+"Nodal agency" means the nodal agency defined in Regulation 13(2) of these regulations ;
+(20)
+"Open access" means the non-discriminatory provision for the use of transmission lines or distribution system or
+associated facilities with such lines or system by any licensee or consumer or a generating station in accordance with
+these regulations and includes long-term access, medium-term open access and short-term open access ;
+(21)
+"Open access customer (in short customer)" means a consumer, trader, distribution licensee or a generating station who
+has been granted open access under these regulations ;
+(22)
+"Open access consumer" means a consumer, who has been granted open access under these regulations ;
+(23)
+"Reserved Capacity" means the power transfer in MW between the specified point(s) of injection and point(s) of drawal
+allowed to a short-term customer on the transmission/distribution system depending on availability of
+transmission/distribution capacity and the expression "reservation of capacity" shall be construed accordingly ;
+(24)
+"Short-term open access" means open access for a period up to one month at a time ;
+(25)
+"SLDC" means the State Load Dispatch Centre established under sub-section (1) of section 26 of the Act ;
+(26)
+"State" means the State of Jammu and Kashmir ;
+(27)
+"State Grid Code" means the State Grid Code specified by the Commission under clause (h) of sub-section (1) of
+Page 3/50
+----- PAGE 4 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+section 71 of the Act, applicable on the date of commencement of these regulations and as amended from time to time ;
+(28)
+"State Transmission Utility (STU)" means the Government Company/Corporation notified by the State Government
+under sub-section (1) of section 33 of the Act ;
+(29)
+"Transmission licensee" means any person licensed under Part IV of the Act for transmission of electricity in the State of
+Jammu and Kashmir ;
+(30)
+"Transmission System Segment" means a part or whole of the transmission system from the point of injection to the
+point of drawal ;
+(31)
+"Wheeling" means the operation whereby the distribution system and associated facilities of a transmission licensee or
+distribution licensee, as the case may be, are used by another person for the conveyance of electricity on payment of
+charges to be determined under section 56 of the Act ;
+(32)
+All words and expressions used and not defined in these regulations but defined in the Act or IEGC or the State Grid
+Code, or Supply Code shall have the meaning assigned to them under the Act or the IEGC or the State Grid Code, or
+Supply Code as the case may be ;
+(33)
+The General Clauses Act, 1977 Svt. (Act XX), as amended from time to time shall apply for the interpretation of these
+regulations as it applies for interpretation of an Act of Legislature.
+Chapter 2
+Connectivity
+4.
+Connectivity.
+(1)
+A consumer having load of 10 MW and above or a generating station having capacity of 10 MW and above shall be
+eligible to obtain connectivity at 132 kV or above, unless already connected, and shall apply for connectivity, in
+accordance with the provisions in this chapter.
+(2)
+A consumer having load of less than 10 MW or a generating station having installed capacity not exceeding 10 MW shall
+be eligible to obtain connectivity at 66 kV/33 kV, unless already connected, and shall apply for connectivity as per the
+provisions of these regulations, in accordance with the provisions in this chapter.
+5.
+Application procedure for connectivity at 132 kV or above.
+(1)
+Applicant shall apply to the STU for connectivity in the form prescribed in the detailed procedure to be laid down by the
+STU.
+(2)
+The application shall be accompanied by a non-refundable fee of Rs. two lakh through demand draft in favour of State
+Transmission Utility payable at Jammu/Srinagar.
+(3)
+The application for connectivity shall contain details such as, proposed geographical location of the applicant, quantum
+of power to be inter-changed that is the quantum of power to be injected in the case of a generating station including a
+captive generating plant and quantum of power to be drawn in the case of a consumer, with the Intra-State transmission
+system and such other details as may be laid down by the State Transmission Utility in the detailed procedure :
+Provided that in cases where once an application has been filed and thereafter there has been any material change in
+the location of the applicant or change, by more than 10 per cent in the quantum of power to be inter-changed with the
+Intra-State transmission system, the applicant shall make a fresh application, which shall be considered in accordance
+with these regulations.
+6.
+Page 4/50
+----- PAGE 5 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Processing of application and grant of connectivity to STU/transmission licensee.
+(1)
+On receipt of the application, the STU shall, in consultation and through coordination with SLDC and other agencies
+involved in the Intra-State transmission, process the application and carry out the necessary inter-connection study as
+specified in the Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007,
+amended up-to-date.
+(2)
+The State Transmission Utility shall, within thirty (30) days, from the receipt of an application under sub-regulation (1)
+above and after considering all suggestions and comments received from other agencies involved in the Intra-State
+transmission including State Load Despatch Centre :-
+(a)
+Accept the application with such modification or such conditions as may be specified by them ;
+(b)
+Reject the application for reasons to be recorded in writing if such application is not in accordance with the provisions of
+these regulations.
+(3)
+In case of acceptance of an application as per clause (a) of sub-regulation (2) above, the State Transmission Utility shall
+make a formal offer to the applicant :
+Provided that the State Transmission Utility shall forward a copy of the offer to the appropriate Intra-State transmission
+licensee in case connectivity is granted to the Intra-State transmission system of an Intra-State transmission licensee
+other than the State Transmission Utility.
+(4)
+The voltage level at which the applicant is offered to be connected to the Intra-State transmission system shall be
+governed by Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007 and
+prevailing guidelines adopted by the State Transmission Utility.
+(5)
+The State Transmission Utility shall, upon compliance of the required conditions by the applicant and Intra-State
+transmission licensees including the State Transmission Utility, shall notify the concerned applicant that it can be
+connected to the Intra-State transmission system.
+(6)
+The applicant shall sign a connection agreement with the State Transmission Utility or Intra-State transmission licensee
+owning the sub-station or pooling station or switchyard or the transmission line as identified by the STU where
+connectivity is being granted :
+Provided that in case connectivity of a generating station, including captive generating plant or consumer is granted to
+the Intra-State transmission system of an Intra-State transmission licensee other than the State Transmission Utility, a
+tripartite agreement as provided in the Central Electricity Authority (Technical Standards for Connectivity to the Grid)
+Regulations, 2007 shall be signed between the applicant, the State Transmission Utility and such Intra-State
+transmission licensee :
+Provided further the State Load Despatch Centre shall also be provided with a copy of the above mentioned Connection
+Agreement by the STU/Intra-State transmission licensee.
+(7)
+While granting connectivity, the STU shall specify the name of the sub-station or pooling station or switchyard where
+connectivity is to be granted. In case connectivity is to be granted by looping-in and looping-out of an existing or
+proposed line, the STU shall specify the point of connection and name of the line at which connectivity is to be granted.
+The STU shall indicate the broad design features of the dedicated transmission line and the timeframe for completion of
+the dedicated transmission line.
+(8)
+The applicant and all Intra-State transmission licensees including the State Transmission Utility shall comply with the
+provisions of Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007. The grant
+of connectivity shall not entitle an applicant to inter-change any power with the grid unless it obtains long-term access,
+medium-term open access or short-term open access in accordance with the provisions of these regulations.
+Page 5/50
+----- PAGE 6 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+(9)
+A generating station, including captive generating plant which has been granted connectivity to the grid shall be allowed
+to undertake testing including full load testing by injecting its infirm power into the grid before being put into commercial
+operation, even before availing any type of open access, after obtaining permission of the State Load Despatch Centre,
+which shall keep grid security in view while granting such permission. Commercial treatment of such infirm power from a
+generating station or a unit thereof, other than those based on non-conventional energy sources, the tariff of which is
+determined by the Commission, will be governed by the applicable regulations on Terms and Conditions of Tariff. The
+power injected into the grid from other generating stations as a result of such testing shall be charged at the rates for
+imbalance determined by the Commission (UI rates where rates of imbalance have not been notified by the
+Commission).
+(10)
+An applicant may be required by the State Transmission Utility to construct a dedicated line to the point of connection to
+enable connectivity to the grid, unless exempted by the Commission for reasons to be recorded in writing. The cost of
+such line shall be borne by the applicant.
+7.
+Application procedure for connectivity to distribution system by a generating station.
+(1)
+All eligible generating stations including a captive generating plant, seeking connectivity to the distribution system, shall
+apply to the distribution licensee for connectivity in the form prescribed in the procedure to be laid down by the
+distribution licensee.
+(2)
+The application shall be accompanied by a non-refundable fee of Rs. two lakh through demand draft in favour of the
+distribution licensee payable at Jammu/Srinagar.
+(3)
+The application for connectivity shall contain details such as, proposed geographical location of the generating station,
+quantum of power to be injected and such other details as may be laid down by the distribution licensee concerned in
+the procedure.
+8.
+Processing of application and grant of connectivity to distribution system by a generating station.
+(1)
+On receipt of the application, the distribution licensee shall, in consultation and through coordination with State
+Transmission Utility and SLDC process the application and carry out the necessary inter-connection study as specified
+in the Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007.
+(2)
+While granting connectivity, the distribution licensee shall specify the name of the sub-station or pooling station or
+switchyard where connectivity is to be granted. In case connectivity is to be granted by loopingin and looping-out of an
+existing or proposed line, the distribution licensee shall specify the point of connection and name of the line at which
+connectivity is to be granted.
+(3)
+The distribution licensee shall indicate the broad design features such as switchyard and inter-connection facility up to
+the point of injection into the sub-station of the distribution licensee and the timeframe for completion of the same. The
+cost of creation of these facilities shall be borne by the generating company. In cases where augmentation of the
+distribution licensee’s sub-station is involved, the generating station shall also bear the cost of bay, switchgear in the
+distribution licensee’s sub-station and equipment for inter-connection of real time data to SLDC.
+(4)
+The applicant and the distribution licensee shall comply with the provisions of Central Electricity Authority (Technical
+Standards for Connectivity to the Grid) Regulations, 2007, as amended up-to-date.
+(5)
+The applicant shall sign a connection agreement with the distribution licensee where connectivity is being granted.
+(6)
+The grant of connectivity shall not entitle an applicant to inter-change any power with the grid unless it obtains long-term
+Page 6/50
+----- PAGE 7 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+access, medium-term open access or short-term open access in accordance with the provisions of these regulations.
+(7)
+A generating station, including captive generating plant which has been granted connectivity to the distribution system
+shall be allowed to undertake testing including full load testing by injecting its infirm power into the grid before being put
+into commercial operation, even before availing any type of open access, after obtaining permission of the State Load
+Despatch Centre and the distribution licensee, who shall keep grid security in view while granting such permission.
+Commercial treatment of such infirm power from a generating station or a unit thereof, other than those based on
+non-conventional energy sources, the tariff of which is determined by the Commission, will be governed by the
+applicable regulations on Terms and Conditions of Tariff. The power injected into the grid from other generating stations
+as a result of such testing shall be charged at the rates for imbalance determined by the Commission (UI rates where
+rates of imbalance have not been notified by the Commission).
+9.
+Application procedure for connectivity to distribution system by a consumer.
+- Connectivity to distribution system by a consumer shall be governed as per procedure laid down in J&K State
+Electricity Supply Code and J&K State Distribution Code.
+Chapter 3
+General Provisions for Open Access
+10.
+Eligibility for Open Access and conditions to be satisfied.
+(1)
+Subject to the provisions of these regulations, the licensees, generating companies, captive generating plants and
+consumers shall be eligible for open access to the Intra-State transmission system of the State Transmission Utility or
+any transmission licensee on payment of transmission and other charges as may be determined by the Commission in
+accordance with Chapter 5 of these regulations.
+(2)
+Subject to the provisions of these regulations, the licensees, generating stations, captive generating plants and
+consumers shall be eligible for open access to distribution system of a distribution licensee on payment of the wheeling
+and other charges as may be determined by the Commission in accordance with Chapter 5 of these regulations.
+(3)
+Subject to the provisions of these regulations, open access shall be permissible to the consumers, located within the
+area of the distribution licensee of the State, having a contracted load of 1 (one) MW and above and connected to the
+distribution system of licensee at 33 kV or above, seeking open access capacity and are connected through an
+independent feeder emanating from a sub-station of licensee or industrial feeder provided that all the consumers on
+such industrial feeder opt for open access and having simultaneous schedule of drawal under such open access :
+Provided that the consumers who are not on independent feeders, shall be allowed open access subject to the condition
+that they agree to rostering restrictions imposed by utility on the feeders serving them :
+Provided further that duties of the distribution licensee with respect to such open access consumers shall be of a
+common carrier providing non-discriminatory open access as per section 36(3) of the Act.
+(4)
+A person having been declared insolvent or bankrupt or having outstanding dues against him for more than two months
+billing of distribution/transmission licensee at the time of application shall not be eligible for open access.
+11.
+Criteria for granting long-term access or medium-term or short-term open access.
+(1)
+Before awarding long-term access, the State Transmission/Distribution Utility shall have due regard to the augmentation
+required for the Intra-State transmission/distribution system.
+(2)
+Medium-term open access or short-term open access shall be granted if the resultant power flow can be accommodated
+in the existing transmission/distribution system or the transmission/distribution system under execution :
+Provided that no augmentation shall be carried out to the transmission/distribution system for the sole purpose of
+granting medium-term open access or short-term open access :
+Page 7/50
+----- PAGE 8 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Provided further that construction of a dedicated transmission/distribution feeder line shall not be construed as
+augmentation of the transmission/distribution system for the purpose of this regulation.
+Chapter 4
+Application Procedure and Approval
+12.
+Categories of Open Access Consumers.
+- The application procedure, application fee and the timeframe of processing request by eligible consumers seeking
+open access shall be based on the following criteria :-
+(1)
+System to which connected-
+(a)
+Intra-State transmission system ;
+(b)
+Distribution system.
+(2)
+Inter-se location of drawal and injection points-
+(a)
+Both within the same distribution system ;
+(b)
+Within the State but in different distribution systems ;
+(c)
+Injection point in the Intra-State transmission system within the State ;
+(d)
+In different States.
+(3)
+Duration of Open Access-
+(a)
+Long-term access ;
+(b)
+Medium-term open access ;
+(c)
+Short-term open access.
+13.
+Application procedure for Open Access.
+(1)
+All applications for open access shall be made in the prescribed form and submitted to the Nodal Agency in accordance
+with these regulations.
+(2)
+The Nodal Agency, application fee, documents to accompany the application and time frame for disposal of application
+are specified in the following Tables :-
+Table 1 Consumer connected to Distribution System
+S. No.
+Period
+Inter-se location of drawal and injection
+point
+Nodal agency
+Application fee (Rs.)
+Documents to accompany the application
+Time frame for disposal of application (days
+from the receipt of application)
+Applicable Charges
+Page 8/50
+----- PAGE 9 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Applicable Losses
+For capacity of 10 MW and above
+For capacity less than 10 MW
+1.
+Short-Term Open Access
+Both within the same Distribution licensee
+Concerned  Distribution Licensee
+2000
+2000
+? Proof of payment of Application fee.
+? 7 working days in
+case STOA applied for first time.
+? 3 working days on subsequent STOA applications.
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Distribution loss in kind at relevant voltage
+level.
+2.
+Both within the same State but in areas of
+different Distribution  Licensees
+SLDC
+5000
+5000
+? Proof of payment of
+Application fee,
+? Consent from concerned Distribution licensees.
+? 7 working days in
+case STOA applied for first time.
+? 3 working days on subsequent STOA applications.
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges as applicable.
+? Scheduling charge(Intra-State)
+? Distribution loss in
+kind at relevant voltage level in respect of both Distribution
+Licensees
+? Scheduling loss in kind. (Intra-State)
+3.
+Injection point in the intra-State transmission
+system within the State
+Page 9/50
+----- PAGE 10 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+SLDC
+5000
+5000
+? Proof of payment of
+Application fee,
+? Consent from concerned Distribution licensees.
+? 7 working days in
+case STOA applied for first time.
+? 3 working days on subsequent STOA applications.
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges, as applicable.
+? Scheduling charge (Intra-State)
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State)
+4.
+In different States
+RLDC of the region where consumer is located
+5000
+5000
+? Proof of payment of
+Application fee,
+? Consent from concerned SLDCs and Distribution
+licensees as applicable,
+? As per Central Commission?s Regulation
+? Wheeling Charges
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges, as applicable
+? Scheduling Charge (Intra-State and Inter
+State).
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State and
+Inter State).
+5.
+Medium-Term Open Access
+Both within the same Distribution licensee
+Concerned Distribution Licensee
+Page 10/50
+----- PAGE 11 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+50000
+25000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating station not already
+connected to grid, documentary evidence for completion of the
+connectivity showing that the same shall be completed before
+intending date of MTOA.
+20
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and Reactive Energy Charges, as
+applicable.
+? Distribution loss in kind at relevant voltage
+level.
+6.
+Both within the same State but different
+Distribution Licensees
+STU
+100000
+50000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating
+station not already connected to grid, documentary evidence for
+completion of the connectivity showing that the same shall be
+completed before intending date of MTOA,
+? Consent from concerned distribution licensees
+40
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges as applicable.
+? Scheduling charge(Intra-State)
+? Distribution loss in
+kind at relevant voltage level in respect of both Distribution
+Licensees
+? Scheduling loss in kind. (Intra-State)
+7.
+Page 11/50
+----- PAGE 12 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Injection point in the intra-State transmission
+system within the State
+STU
+100000
+50000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating
+station not already connected to grid, documentary evidence for
+completion of the connectivity showing that the same shall be
+completed before intending date of MTOA,
+? Consent from concerned ? Distribution licensees
+40
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any Stand-by charges, if any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges, as applicable.
+? Scheduling charge (Intra-State)
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State)
+8.
+In different States
+CTU
+100000
+100000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating
+station not already connected to grid, documentary evidence for
+completion of the connectivity showing that the same shall be
+completed before intending date of MTOA,
+? Consent from concerned SLDCs and Distribution
+licensees, as applicable.
+? As per Central Commission?s Regulation
+? Wheeling Charges
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges, as applicable
+Page 12/50
+----- PAGE 13 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+? Scheduling Charge (Intra-State and Inter
+State).
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State and
+Inter State).
+9.
+Long Term Access
+Both within the same Distribution licensee
+Concerned Distribution Licensee
+50000
+25000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating station not already
+connected to grid, documentary evidence for completion of the
+connectivity showing that the same shall be completed before
+intending date of LTA
+20
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and Reactive Energy Charges, as
+applicable.
+? Distribution loss in kind at relevant voltage
+level.
+10.
+Both within the same State but different
+Distribution Licensees
+STU
+100000
+50000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating
+station not already connected to grid, documentary evidence for
+completion of the connectivity showing that the same shall be
+completed before intending date of LTA,
+? Consent from concerned distribution licensees
+120 days where
+augmentation of transmission system is not required
+150 days, where augmentation of transmission
+system is required.
+? Wheeling Charge
+? Cross Subsidy
+Page 13/50
+----- PAGE 14 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges as applicable.
+? Scheduling charge(Intra-State)
+? Distribution loss in
+kind at relevant voltage level in respect of both Distribution
+Licensees
+? Scheduling loss in kind. (Intra-State)
+11.
+Injection point in the intra- State transmission
+system within the State
+STU
+100000
+50000
+? Proof of payment of Application fee, PPA or
+Sale-purchase agreement of power,
+? In case of generating station
+not already connected to grid, documentary evidence for
+completion of the connectivity showing that the same shall be
+completed before intending date of LTA,
+? Consent from concerned
+120 days where
+augmentation of transmission system is not required.
+150 days, where augmentation of transmission
+system is required.
+? Wheeling Charge
+? Cross Subsidy
+surcharge, Additional surcharge, if any Stand-by charges, if any
+? Imbalance and Reactive Energy Charges, as
+applicable. Scheduling and system Operating Charges, as
+Distribution loss in kind at relevant voltage level. Transmission
+Loss in kind. (Intra-State)
+? Distribution licensee
+applicable.
+? Scheduling charge (Intra-State)
+12.
+In different States
+CTU
+100000
+100000
+? Proof of payment of
+Application fee, ? PPA or Sale-purchase agreement of power,
+? In case of generating
+station not already connected to grid, documentary evidence for
+completion of the connectivity showing that the same shall be
+completed before intending date of LTA,
+? Consent from concerned SLDCs and Distribution
+Page 14/50
+----- PAGE 15 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+licensees as applicable
+? As per Central Commission?s Regulation
+? Wheeling Charges
+? Cross Subsidy
+surcharge, Additional surcharge, if any
+? Stand-by charges, if
+any
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and system
+Operating Charges, as applicable
+? Scheduling Charge (Intra-State and Inter
+State).
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State and
+Inter State).
+Table 2 Consumer connected to Distribution System
+S. No.
+Period
+Inter-se location of drawal and injection
+point
+Nodal agency
+Application fee (Rs.)
+Documents to accompany the application
+Time frame for disposal of application (days
+from the receipt of application)
+Applicable Charges
+Applicable Losses
+For capacity of 10 MW and above
+For capacity less than 10 MW
+1.
+Short-Term Open Access
+Both within the same State (in the intra-State
+transmission system)
+SLDC
+5000
+5000
+? Proof of payment of Application fee.
+? 7 working days in
+case STOA applied for first time.
+? 3 working days on subsequent STOA applications.
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and
+system Operating Charges, as applicable
+? Scheduling Charge
+(Intra-State),
+? Wheeling Charge, if applicable (ie. If fixed
+charge being paid by consumer could be attributed to wheeling/
+distribution network related cost)
+Page 15/50
+----- PAGE 16 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+? Scheduling Loss in kind. (Intra-State).
+2.
+Injection point in the distribution system
+within the State
+SLDC
+5000
+5000
+? Proof of payment of
+Application fee,
+? Consent from concerned Distribution licensee.
+? 7 working days in
+case STOA applied for first time.
+? 3 working days on subsequent STOA applications.
+? Wheeling Charges, as
+applicable.
+? Imbalance and
+Reactive Energy Charges, as applicable. Scheduling and system
+Operating Charges, as applicable
+? Scheduling Charge (Intra-State).
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State).
+3.
+In different States
+RLDC of the region where consumer is located
+5000
+5000
+? Proof of payment of
+Application fee,
+? Consent from concerned SLDCs and Distribution
+licensee as applicable.
+? As per Central Commission?s Regulation
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and
+system Operating Charges, as applicable.
+? Scheduling Charge
+(Intra-State and inter-State).
+? Wheeling Charge, if applicable (ie. If fixed
+charge being paid by consumer could be attributed to wheeling/
+distribution network related cost)
+? Distribution loss in
+kind at relevant voltage level, if applicable.
+? Scheduling Loss in kind. (Intra-State and
+Inter State).
+4.
+Medium-Term Open Access
+Both within the same State (in the intra- State
+transmission system)
+STU
+100000
+Page 16/50
+----- PAGE 17 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+50000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating station or consumer not
+already connected to grid, documentary evidence for completion of
+the connectivity showing that the same shall be completed before
+intending date of MTOA.
+20
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and
+system Operating Charges, as applicable
+? Scheduling Charge
+(Intra-State).
+? Wheeling Charge, if applicable (ie. If fixed
+charge being paid by consumer could be attributed to wheeling/
+distribution network related cost)
+? Scheduling Loss in kind. (Intra-State).
+5.
+Injection point in the distribution system
+within the State
+STU
+100000
+50000
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating
+station or consumer not already connected to grid, documentary
+evidence for completion of the connectivity showing that the same
+shall be completed before intending date of MTOA,
+? Consent from concerned Distribution licensee.
+20
+? Wheeling Charges, as
+applicable,
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and
+system Operating Charges, as applicable
+? Scheduling Charge (Intra-State).
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State).
+6.
+In different States
+CTU
+100000
+100000
+Page 17/50
+----- PAGE 18 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+? Proof of payment of
+Application fee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating station or consumer not
+already connected to grid, documentary evidence for completion of
+the connectivity showing that the same shall be completed before
+intending date of MTOA,
+?  Consent from concerned SLDCs and
+Distribution licensee, as applicable.
+? As per Central Commission?s Regulation
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and
+system Operating Charges, as applicable.
+? Scheduling Charge
+(Intra-State and inter-State).
+? Wheeling Charge, if applicable (ie. If fixed
+charge being paid by consumer could be attributed to wheeling/
+distribution network related cost)
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State).
+7.
+Long -Term Access
+Both within the same State (in the intra- State
+transmission system)
+STU
+200000
+100000
+? Proof of payment of
+Application fee,
+Bank Guarantee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating station or consumer not
+already connected to grid, documentary evidence for completion of
+the connectivity showing that the same shall be completed before
+intending date of LTA.
+120 days where
+augmentation of transmission system is not required.
+150 days, where augmentation of transmission
+system is required.
+? Imbalance and
+Reactive Energy Charges, as applicable.
+? Scheduling and
+system Operating Charges, as applicable
+? Scheduling Charge
+(Intra-State).
+? Wheeling Charge, if applicable (ie. If fixed
+charge being paid by consumer could be attributed to wheeling/
+Page 18/50
+----- PAGE 19 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+distribution network related cost)
+? Scheduling Loss in kind. (Intra-State).
+8.
+Injection point in the distribution system
+within the State
+STU
+200000
+100000
+? Proof of payment of
+Application fee,
+Bank Guarantee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating station or consumer not
+already connected to grid, documentary evidence for completion of
+the connectivity showing that the same shall be completed before
+intending date of LTA,
+? Consent from concerned Distribution
+licensee.
+120 days where
+augmentation of transmission system is not required.
+150 days, where augmentation of transmission
+system is required.
+? Wheeling Charges, as
+applicable,
+? Imbalance and
+Reactive Energy Charges, as applicable. Scheduling and system
+Operating Charges, as applicable
+? Scheduling Charge (Intra-State).
+? Distribution loss in
+kind at relevant voltage level.
+? Scheduling Loss in kind. (Intra-State).
+9.
+In different States
+CTU
+200000
+200000
+? Proof of payment of
+Application fee,
+Bank Guarantee,
+? PPA or Sale-purchase
+agreement of power,
+? In case of generating
+station or consumer not already connected to grid, documentary
+evidence for completion of the connectivity showing that the same
+shall be completed before intending date of LTA,
+? Consent from concerned STU and Distribution
+licensee, as applicable.
+? As per Central Commission?s Regulation
+? Imbalance and
+Reactive Energy Charges, as applicable.
+Page 19/50
+----- PAGE 20 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+? Scheduling and system
+Operating Charges, as applicable.
+? Scheduling Charge
+(Intra-State and inter-State).
+? Wheeling Charge, if applicable (ie. If fixed
+charge being paid by consumer could be attributed to wheeling/
+distribution network related cost)
+? Distribution loss in
+kind at relevant voltage level, if applicable.
+? Scheduling Loss in kind. (Intra-State and
+Inter State). Distribution loss in kind at relevant voltage
+level, if applicable. Transmission Loss in kind. (Intra-State and
+Inter State).
+14.
+Procedure for Long Term Access.
+- (1) Involving Inter-State transmission system. - Notwithstanding anything contained in sub-regulation (2) and (3)
+hereinbelow, procedure for Inter-State long-term access shall be as per Central Electricity Regulatory Commission
+(Grant of Connectivity, Long Term Access and Medium Term Open Access in Inter-State Transmission and related
+matters) Regulations, 2009 or its statutory re-enactments as amended from time to time :
+Provided that in respect of a consumer connected to a distribution system seeking Inter-State long-term access, the
+SLDC, before giving its consent to the RLDC as required under the Central Commission’s Regulations, shall require the
+consumer to submit the consent of the distribution licensee concerned.
+(2)
+Involving only Intra-State transmission system. - Subject to the provisions of sub-regulation (1) hereinabove, Intra-State
+long-term access involving Intra-State transmission system shall be in accordance with the provisions of clause (a)
+hereinbelow :-
+(a)
+The application for grant of long-term access shall contain details such as name of the entity or entities from whom
+electricity is proposed to be procured along with the quantum of power and such other details as may be laid down by
+the State Transmission Utility in the detailed procedure :
+Provided that in case augmentation of transmission system is required, the applicant shall also have to bear the
+transmission charges for the same as per 2nd proviso of sub-regulation (1) of Regulation 21 contained in chapter 5 of
+these regulations :
+Provided further that in cases where there is any material change in location of the applicant or change by more than 10
+per cent in the quantum of power to be inter-changed using the Intra-State transmission system, a fresh application shall
+be made, which shall be considered in accordance with these regulations.
+(b)
+The applicant shall submit any other information sought by the nodal agency including the basis for assessment of
+power to be inter-changed using the Intra-State transmission system and power to be transmitted to or from various
+entities or regions to enable the nodal agency to plan the Intra-State transmission system in a holistic manner ;
+(c)
+The application shall be accompanied by a bank guarantee of Rs 10,000/- (ten thousand) per MW of the total power to
+be transmitted. The bank guarantee shall be in favour of the nodal agency, in the manner laid down under the detailed
+procedure ;
+(d)
+The bank guarantee of Rs. 10,000 /- (ten thousand) per MW shall be kept valid and subsisting till the execution of the
+longterm access agreement, in the case when augmentation of transmission system is required, and till
+operationalisation of long-term access when augmentation of transmission system is not required ;
+(e)
+The bank guarantee may be encashed by the nodal agency, if the application is withdrawn by the applicant or the
+long-term access rights are relinquished prior to the operationalisation of such rights when augmentation of transmission
+Page 20/50
+----- PAGE 21 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+system is not required ;
+(f)
+The aforesaid bank guarantee will stand discharged with the submission of another bank guarantee required to be given
+by the applicant to the State Transmission Utility during construction phase when augmentation of transmission system
+is required, in accordance with the provisions in the detailed procedure ;
+(g)
+On receipt of the application, the nodal agency shall, in consultation and through coordination with other agencies
+involved in Intra-State transmission system to be used, process the application and carry out the necessary system
+studies as expeditiously as possible so as to ensure that the decision to grant long-term access is arrived at within the
+timeframe specified in sub-regulation (2) of Regulation 13 above :
+Provided that in case the nodal agency faces any difficulty in the process of consultation or coordination, it may
+approach the Commission for appropriate directions ;
+(h)
+Based on the system studies, the nodal agency shall specify the Intra-State transmission system that would be required
+to give long-term access. In case augmentation to the existing Intra-State transmission system is required, the same will
+be intimated to the applicant ;
+(i)
+While granting long-term access, the nodal agency shall communicate to the applicant, the date from which long-term
+access shall be granted and an estimate of the transmission charges including additional transmission charges, if any,
+for works pertaining to augmentation of transmission system as per 1st proviso of sub-regulation (a) above, likely to be
+payable based on the prevailing costs, prices and methodology of sharing of transmission charges specified by the
+Commission subject to approval by the Commission in accordance with 2nd proviso of sub- regulation (1) of Regulation
+21 contained in Chapter 5 of these regulations ;
+(j)
+The applicant shall sign an agreement for long-term access with the State Transmission Utility in case long-term access
+is granted by the State Transmission Utility, in accordance with the provision as may be provided in the detailed
+procedure. While seeking long-term access to an Intra-State transmission licensee, other than the State Transmission
+Utility, the applicant shall sign a tripartite long-term access agreement with the State Transmission Utility and the
+Intra-State transmission licensee. The long-term access agreement shall contain the date of commencement of
+long-term access, the point of injection of power into the grid and point of drawal from the grid and the details of
+dedicated transmission lines, if any, required. In case augmentation of transmission system is required, the long-term
+access agreement shall contain the timeline for construction of the facilities of the applicant and the transmission
+licensee, the bank guarantee required to be given by the applicant and other details in accordance with the detailed
+procedure ;
+(k)
+Immediately after grant of long-term access, the nodal agency shall inform the State Load Despatch Centre so that it
+can consider the same while processing requests for grant of short-term open access, received under these regulations
+;
+(l)
+On the expiry of the period of long-term access, the same shall stand extended on a written request by the consumer, to
+the Sate Transmission Utility, submitted at least six months prior to such expiry, mentioning the period for which
+extension is required :
+Provided that in case no written request is received from the customer within the timeline specified above, the said
+longterm access shall stand terminated on the date up to which it was initially granted.
+(3)
+Within same distribution system. - The procedure specified in sub-regulation (2) above shall, mutatis mutandis, apply to
+cases of long-term access when the point of injection and the point of drawal are located in the same distribution
+system.
+15.
+Procedure for medium-term open access.
+- (1) Involving Inter-State transmission system. - Notwithstanding anything contained in sub-regulation (2) and (3)
+Page 21/50
+----- PAGE 22 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+hereinbelow, procedure for Inter-State medium-term open access shall be as per Central Electricity Regulatory
+Commission (Grant of Connectivity, Long-Term Access and Medium-Term Open Access in Inter-State Transmission and
+related matters) Regulations, 2009 or its statutory re-enactment as amended from time to time :
+Provided that in respect of a consumer connected to a distribution system seeking Inter-State medium-term open
+access, the SLDC, before giving its consent to the RLDC as required under the Central Commission’s regulations, shall
+require the consumer to submit the consent of the distribution licensee concerned.
+(2)
+Involving only Intra-State transmission system. - Subject to the provisions of sub-regulation (1) hereinabove, Intra-State
+mediumterm open access involving Intra-State transmission system shall be in accordance with the provisions of
+sub-regulation (a) to (g) hereinbelow :–
+(a)
+The application for grant of medium-term open access shall contain such details as may be laid down under the detailed
+procedure and shall, in particular, include the point of injection into the grid, point of drawal from the grid and the
+quantum of power for which medium-term open access has been applied for ;
+(b)
+The start date of the medium-term open access shall not be earlier than 5 months and not later than 1 year from the last
+day of the month in which application has been made.
+(c)
+On receipt of the application, the nodal agency shall, in consultation and through coordination with other agencies
+involved in Intra-State transmission, process the application and carry out the necessary system studies as expeditiously
+as possible so as to ensure that the decision to grant or refuse medium-term open access is made within the timeframe
+specified in sub-regulation (2) of Regulation 13 hereinabove :
+Provided that in case the nodal agency faces any difficulty in the process of consultation or coordination, it may
+approach the Commission for appropriate directions.
+(d)
+On being satisfied that the requirements, with respect to criteria for granting medium-term open access specified under
+sub-regulation (2) of Regulation 11 are met, the nodal agency shall grant medium-term open access for the period
+stated in the application :
+Provided that for reasons to be recorded in writing, the nodal agency may grant medium-term open access for a period
+less than that sought for by the applicant :
+(e)
+The applicant shall sign an agreement for medium-term open access with the State Transmission Utility, in accordance
+with the provision as may be made in the detailed procedure. While seeking medium-term open access to an Intra-State
+transmission licensee, other than the State Transmission Utility, the applicant shall sign a tripartite medium-term open
+access agreement with the State Transmission Utility and the Intra-State transmission licensee. The medium-term open
+access agreement shall contain the date of commencement and end of medium-term open access, the point of injection
+of power into the grid and point of drawal from the grid, the details of dedicated transmission lines required, if any, the
+bank guarantee required to be given by the applicant and other details in accordance with the detailed procedure.
+(f)
+Immediately after grant of medium-term open access, the nodal agency shall inform the State Load Despatch Centre so
+that it can consider the same while processing requests for short-term open access received under these regulations.
+(g)
+On expiry of the period of the medium-term open access, the medium-term customer shall not be entitled to any
+overriding preference for renewal of the term.
+(3)
+Within same distribution system. - The procedure specified in sub-regulation (2) above shall, mutatis mutandis, apply to
+cases of medium-term open access when the point of injection and the point of drawal are located in the same
+distribution system.
+16.
+Procedure for short-term Open Access.
+- (1) Involving Inter-State transmission system. - Notwithstanding anything contained in sub-regulation (2) to (3)
+Page 22/50
+----- PAGE 23 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+hereinbelow, procedure for Inter-State short-term open access shall be as per Central Electricity Regulatory
+Commission (Open Access in Inter-State Transmission) Regulations, 2008, or its statutory re-enactments, as amended
+from time to time :
+Provided that in respect of a consumer connected to a distribution system seeking Inter-State short-term open access,
+the SLDC, before giving its consent to the RLDC as required under the Central Commission’s regulations, shall require
+the consumer to submit the consent of the distribution licensee concerned.
+(2)
+Involving only Intra-State transmission system. - Subject to the provisions of sub-regulation (1) hereinabove, Intra-State
+short-term open access shall be in accordance with the provisions of clause (a) to (f) hereinbelow :-
+(a)
+Open access in advance :
+(i)
+Application may be submitted to the Nodal Agency seeking short-term open access up to the fourth month, considering
+the month in which an application is made being the first month ;
+(ii)
+Separate application shall be made for each month and for each transaction in a month ;
+(iii)
+The application to the Nodal agency shall be on the prescribed form given in [Format ST-1] containing such details as
+capacity needed, generation planned or power purchase contracted, point of injection, point of drawal, duration of
+availing open access, peak load, average load and such other additional information as may be required by the Nodal
+Agency. The application shall be accompanied by a non-refundable application fee in cash or by demand draft in favour
+of the officer so notified by Nodal Agency ;
+(iv)
+An application for grant of open access commencing in any month may be submitted in a cover marked "Application for
+short-term open access -in advance" up to 15th day of the preceding month. For example, application for grant of open
+access commencing in the month of July shall be received up to 15th day of June.
+(v)
+Nodal Agency shall acknowledge receipt of the application by indicating time and date on "Acknowledgement" to the
+applicant ;
+(vi)
+A customer of distribution licensee intending to avail open access shall also furnish a copy of his application to the
+distribution licensee of his area of supply ;
+(vii)
+Based on the type of transactions Nodal Agency shall take a decision on the applications for short-term open access in
+the manner provided hereinbelow ;
+(viii)
+All applications received under sub-clause (iv) above shall be taken up for consideration together and processed as per
+allotment priority criteria specified under Regulation 20 of these regulations ;
+(ix)
+Nodal Agency shall check transaction for congestion of any element (line and transformer) of transmission and
+distribution system involved in transaction ;
+(x)
+Nodal Agency shall convey grant of open access or otherwise in format [FORMAT-ST-2] along with schedule of
+payments to the consumer latest by 19th day of such preceding month ;
+(xi)
+Nodal Agency shall assign specific reasons if open access is denied under sub-clause (x).
+(b)
+Day-Ahead Open Access :
+(i)
+An application for grant of day-ahead open access may be received by Nodal Agency within three days prior to the date
+of scheduling but not later than 1000 hours of the day immediately preceding the day of scheduling for dayahead
+Page 23/50
+----- PAGE 24 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+transaction ;
+(ii)
+For example, application for day-ahead transaction on 25th day of July shall be received on 22nd day or 23rd day or up
+to 1000 hours on 24th day of that month ;
+(iii)
+Nodal Agency shall check for congestion and convey grant of approval or otherwise in the same format [Format-ST-2]
+as provided in sub-clause (x) of clause (a) of sub-regulation 2 of Regulation 16. All other provisions of application for
+short-term open access shall apply.
+(c)
+Bidding Procedure :
+(i)
+If the capacity sought by the customers for Open Access in advance for the following month is more than the available
+capacity or SLDC perceives congestion of any element of transmission and distribution system involved in the
+transaction, the allocation shall be made through electronic bidding procedure ;
+(ii)
+The decision of SLDC in respect of an expected congestion shall be final and binding ;
+(iii)
+SLDC shall convey information of congestion and decision for invitation of bidding indicating floor price on format
+[Format-ST-3] to the applicants ;
+(iv)
+SLDC shall also display bidding information on its website ;
+(v)
+The floor price of transmission and wheeling charges determined on the basis of relevant order of the Commission shall
+be indicated in Format-ST-3 ;
+(vi)
+The bids shall be accepted on format [Format-ST-4] up to the "bid closing time" as indicated in bidding invitation
+Format-ST-3. Modification/amendment to a bid, once submitted shall not be entertained ;
+(vii)
+If any customer does not participate in bidding process, his application shall be deemed to have been withdrawn and
+shall not be processed ;
+(viii)
+SLDC shall not entertain any request for extension of time/date for submission of bids ;
+(ix)
+The bidders shall quote price (rounded-off to whole number) in denomination in which floor price has been determined ;
+(x)
+The quoted price shall be arranged in descending order and allocation of available capacities shall be accorded in such
+descending order until the available capacity is exhausted ;
+(xi)
+In case of equal price quoted by two or more customers, the allocation from the residual available capacity at any stage
+under sub-clause (x) above shall be made in proportion to capacity being sought by such customers ;
+(xii)
+All customers, in favour of whom full capacities have been allotted, shall pay the highest price obtained from bids ;
+(xiii)
+The customers, who are allotted less capacity, shall pay the price as quoted by them ;
+(xiv)
+SLDC shall reject bid which are incomplete, vague in any manner or not found in conformity with bidding procedure ;
+(xv)
+The successful bidder, in favour of whom the capacities have been allocated, shall pay transmission charges, wheeling
+charges, as the case may be, determined by bidding under sub-clause (xii) or (xiii) of this clause.
+(d)
+The reserved capacity by a short-term open access customer is not transferable to others ;
+Page 24/50
+----- PAGE 25 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+(e)
+The capacity available as a result of surrender or reduction or cancellation of the reserved capacity by the State Load
+Dispatch Centre, may be reserved for any other short-term open access customer in accordance with these regulations ;
+(f)
+On expiry of the period of the short-term open access, the short-term customer shall not be entitled to any overriding
+preference for renewal of the term.
+(3)
+Within same distribution system. - The procedure specified in sub-regulation (2) above, mutatis mutandis, shall apply to
+cases of short-term open access when the point of injection and the point of drawal are located in the same distribution
+system.
+17.
+Consent by STU, SLDC or Distribution Licensee.
+(1)
+Inter-State Open Access.- STU in the case of application for grant of long-term access and SLDC in the case of grant of
+mediumterm open access and short-term open access shall convey its consent or otherwise as per the provisions of
+Central Electricity Regulatory Commission (Grant of Connectivity, Long-Term Access and Medium-Term Open Access
+in Inter-State Transmission and related matters) Regulations, 2009 and Central Electricity Regulatory Commission
+(Open Access in Inter-State Transmission) Regulations, 2008, respectively or their statutory re-enactments, as amended
+from time to time. In case of applicant connected to the distribution licensee, the said distribution licensee shall convey
+its consent or otherwise within 3 days of receipt of the request of the applicant.
+(2)
+Intra-State Open Access :
+(a)
+While processing the application seeking consent for intra-State open access, the nodal agency shall verify the
+following, namely :-
+(i)
+Existence of infrastructure necessary for time block-wise energy metering and accounting in accordance with the
+provisions of the State Grid Code in force ; and
+(ii)
+Availability of capacity in the transmission and/or distribution network.
+(b)
+Where existence of necessary infrastructure and availability of capacity in the transmission and/or distribution network
+has been established, the nodal agency shall convey its consent to the applicant by e-mail or FAX or by any other
+usually recognised mode of communication, within three (3) working days of receipt of the application ;
+(c)
+In case the nodal agency finds that the application for consent is incomplete or defective in any respect, it shall
+communicate the deficiency or defect to the applicant by e-mail or FAX or by any other usually recognised mode of
+communication, within two (2) working days of receipt of the application ;
+(d)
+In case the application has been found to be in order but the nodal agency refuses to give consent on the grounds of
+non-existence of necessary infrastructure or unavailability of surplus capacity in the distribution network, such refusal
+shall be communicated to the applicant by e-mail or FAX or by any other usually recognized mode of communication,
+within the period of three (3) working days from the date of receipt of the application, along with reasons for such refusal
+;
+(e)
+Where the nodal agency has not communicated any deficiency or defect in the application within two (2) days from the
+date of receipt of application, or refusal or consent within the specified period of three (3) working days from the date of
+receipt of the application consent shall be deemed to have been granted.
+(3)
+Within same distribution system. - The procedure specified in sub-regulation (2) above, mutatis mutandis, shall apply to
+applicant seeking consent for Intra-State open access when the point of injection and the point of drawal are located in
+Page 25/50
+----- PAGE 26 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+the same distribution system.
+18.
+Consideration of applications from defaulters.
+- Notwithstanding anything contained in these regulations, the Nodal Agency shall be at liberty to summarily reject an
+application for open access on the ground of non-compliance of the provisions of these regulations, more specifically the
+provisions relating to timely payment of the charges leviable hereunder.
+19.
+Application by eligible entities other than consumers and generating stations connected to distribution system.
+- The procedure for submission of the application and processing the same as laid down in this Chapter in respect of the
+consumers shall, mutatis mutandis, be applicable to the electricity trading licensees, distribution licensees and the
+generating companies connected to the STU as well. The procedure for submission and processing of open access
+application by a generating company in respect of a generating station connected to distribution system has been
+specified in Chapter 11 of these Regulations.
+20.
+Allotment Priority.
+(1)
+The priority for allotment of open access in Intra-State transmission system shall be decided on the following criteria :
+(a)
+A distribution licensee shall have the highest priority in allotment of open access capacity irrespective of whether the
+open access request is for long-term, medium-term or short-term ;
+(b)
+The long-term open access applicants shall have the priority next to the distribution licensee ;
+(c)
+The medium-term open access applicants shall have the priority next to the long- term open access applicants ;
+(d)
+The short-term open access applicants shall have the priority next to the medium-term open access applicants ;
+(e)
+Allotment priority for short-term open access applicants shall be decided subject to capacity availability ;
+(f)
+An existing open access customer shall have the priority higher than new open access applicants under respective
+category provided the former applies for its renewal thirty days prior to the expiry of existing term of open access ;
+(g)
+When the requirement projected by an applicant is more than the available capacity and the said applicant is not able to
+limit his requirement to the available capacity, the request of applicant having next lower priority shall be taken up for
+consideration.
+Chapter 5
+Open Access Charges
+21.
+Transmission Charges and Wheeling Charges.
+- (1) Transmission Charges. - Open Access customer using transmission system shall pay the charges as stated
+hereunder :-
+(a)
+For use of Inter-State transmission system-As specified by the Central Commission from time to time ;
+(b)
+For use of Intra-State transmission system-Transmission charges payable to State Transmission Utility/transmission
+licensee by an open access customer for usage of their system shall be determined as under:-
+Transmission Charges = ATC/(PLST X365) (in Rs./MW-day)
+Where,
+ATC =Annual Transmission Charges determined by the
+Commission for the State transmission system for the previous year.
+PLST = Peak Load Served by the State Transmission system in that year :
+Page 26/50
+----- PAGE 27 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Provided that transmission charges shall be payable on the basis of contracted Capacity/Scheduled Load or actual
+power flow whichever is higher. For open access for a part of a day, the transmission charges shall be payable on
+pro-rata basis :
+Provided further that where augmentation of transmission system including dedicated transmission system used for
+open access has been constructed for exclusive use of or being used exclusively by an open access customer, the
+transmission charges for such dedicated system shall be worked out by transmission licensee for their respective
+systems and got approved by the Commission and shall be borne entirely by such open access customer till such time
+the surplus capacity is allotted and used for by other persons or purposes.
+(2)
+Wheeling Charges. - Wheeling charges payable to distribution licensee, by an open access customer for usage of its
+system shall be as determined as under :-
+Wheeling Charges = (ARR - PPC - TC) /(PLSD X365) (in Rs./MW-Day)
+Where,
+ARR = Annual Revenue Requirement of the distribution licensee in the previous year
+PPC = Total Power Purchase Cost of distribution licensee in the previous year
+TC = Total transmission Charges paid by distribution licensee for State and Inter-State transmission system for the
+previous year
+PLSD = Total Peak Load Served by the concerned Distribution system in the previous year :
+Provided that wheeling charges shall be payable on the basis of contracted Capacity/Scheduled Load or actual power
+flow whichever is higher. For open access for a part of a day, the wheeling charges shall be payable on pro-rata basis :
+Provided further that where a dedicated distribution system used for open access has been constructed for exclusive
+use of an open access customer, the wheeling charges for such dedicated system shall be worked out by distribution
+licensee for their respective systems and got approved by the Commission and shall be borne entirely by such open
+access customer till such time the surplus capacity is allotted and used for by other persons or purposes.
+22.
+Scheduling and system operation charges.
+- Scheduling and system operation charges shall be payable by the open access customers at the following rates :-
+(1)
+In respect of Inter-State open access :
+(a)
+Long-term access and medium-term open access-
+(i)
+Regional Load Despatch Centre fees and charges including charges for the Unified Load Despatch and Communication
+Scheme as specified by the Central Commission under section 28(4) of the Indian Electricity Act, 2003 ;
+(ii)
+State Load Despatch Centre charges as specified by the Commission under sub-section (3) of section 27 of the Act.
+(b)
+Short-term open access-
+(i)
+Regional Load Despatch Centre and State Load Dispatch Centre charges as specified by the Central Commission.
+(2)
+In respect of Intra-State open access :
+(a)
+Long-term access and medium-term open access-
+(i)
+Long-term access and medium-term open access customers shall be liable to pay SLDC charges determined by the
+Commission under sub-section (3) of section 27 of the Act.
+(b)
+Short-term open access-
+(i)
+A composite operating charge @ Rs. 2,000/- per day or part of the day shall be payable by a short-term open access
+Page 27/50
+----- PAGE 28 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+customer for each transaction to the SLDC or as determined by the Commission from time to time.
+Explanation. - The operating charge includes fee for scheduling and system operation, energy accounting, fee for
+affecting revisions in schedule on bona fide grounds and collection and disbursement of charges.
+23.
+Cross subsidy surcharge.
+(1)
+If open access facility is availed of by a subsidising consumer of a distribution licensee of the State, then such customer,
+in addition to transmission and/or wheeling charges, shall pay cross subsidy surcharge determined by the Commission.
+Cross subsidy surcharge determined on per unit basis shall be payable, on a monthly basis, by the open access
+customers based on the actual energy drawn during the month through open access. The amount of surcharge shall be
+paid to the distribution licensee of the area of supply from whom the consumer was availing supply before seeking open
+access :
+Provided that the Commission may fix a lower surcharge in the situation of shortages and load shedding by the
+distribution licensee :
+Provided further that in case power supply position or the consumer load seeking open access changes substantially,
+the Commission may review the cross subsidy surcharge as and when required.
+(2)
+The cross subsidy surcharge shall be determined in accordance with the following formula specified in National Tariff
+Policy :-
+Surcharge formula :
+S = T - {C (1+L/100) + D}
+Where,
+S is the cross Subsidy surcharge.
+T is the Tariff payable by the relevant category of consumers.
+C is the weighted average cost of power purchase of top 5% at the margin excluding liquid fuel based generation and
+renewable power.
+D is the wheeling charges per kWh basis (to be derived from the wheeling charges in Rs./MW-day referred to in
+Regulation 21(2).
+L is the system losses for the applicable voltage level expressed as a percentage :
+Provided that in case the above formula gives negative value of surcharge, the same shall be zero.
+24.
+Additional Surcharge.
+(1)
+An open access consumer, receiving supply of electricity from a person other than the distribution licensee of his area of
+supply, shall pay to the distribution licensee an additional surcharge on the charges of wheeling, in addition to wheeling
+charges and cross subsidy surcharge, to meet out the fixed cost of such distribution licensee arising out of his obligation
+to supply as provided under sub-section (4) of section 36 of the Act.
+(2)
+This additional surcharge shall become applicable only if the obligation of the licensee in terms of power purchase
+commitments has been and continues to be stranded or there is an unavoidable obligation and incidence to bear fixed
+costs consequent to such a contract. However, the fixed costs related to network assets would be recovered through
+wheeling charges.
+(3)
+The distribution licensee shall submit to the Commission, on six monthly basis, a detailed calculation statement of fixed
+cost which the licensee is incurring towards his obligation to supply.
+The Commission shall scrutinize the statement of calculation of fixed cost submitted by the distribution licensee and
+obtain objections, if any, and determine the amount of additional surcharge :
+Provided that any additional surcharge so determined by the Commission shall be applicable only to the new open
+access consumers.
+(4)
+Additional surcharge determined on per unit basis shall be payable, on monthly basis, by the open access customers
+Page 28/50
+----- PAGE 29 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+based on the actual energy drawn during the month through open access :
+Provided that such additional surcharges shall not be levied in case distribution access is provided to a person who has
+established a captive generation plant for carrying the electricity to the destination of his own use.
+25.
+Stand by charges for drawal of power by open access consumer from distribution licensee.
+(1)
+In cases of outages of generator supplying to open access consumer under open access or generator connected to
+distribution system injecting power through open access requires start up power, stand-by arrangements shall be
+provided by the distribution licensee subject to the load shedding as applicable to consumer of the licensee and the
+licensee shall be entitled to collect tariff as applicable to temporary category of consumer in the prevailing rate schedule
+:
+Provided further that in case of stand-by arrangements sought by continuous process industries, the licensee shall
+charge on the basis of actual costs involved in arranging power :
+Provided also that open access customers would have the option to arrange stand-by power from any other source :
+Provided further that there shall be no stand-by charges for embedded consumers.
+Chapter 6
+Scheduling, Metering, Revision and Losses
+26.
+Scheduling.
+(1)
+Notwithstanding anything contained in the succeeding sub-regulation of this regulation, scheduling of Inter-State open
+access transactions shall be as specified by the Central Commission.
+(2)
+Subject to the foregoing clause, Intra-State open access transactions in respect of all consumers and generating
+stations irrespective of the capacity shall be scheduled by SLDC in accordance with the provisions of the State Grid
+Code.
+27.
+Metering.
+(1)
+All open access consumers (except embedded consumers) and all generating stations irrespective of capacity shall be
+provided with, Special Energy Meters by the State Transmission Utility or the distribution licensee as the case may be,
+for and at the cost of the open access customers. For embedded consumers existing ToD meters would be adequate.
+(2)
+Special Energy Meters installed shall be capable of timedifferentiated measurements for time block-wise active energy
+and voltage differentiated measurement of reactive energy in accordance with the State Grid Code.
+(3)
+Special Energy Meters shall always be maintained in good condition.
+(4)
+Special Energy Meters shall be open for inspection by any person authorized by the State Transmission Utility or the
+State Load Despatch Centre.
+(5)
+All the open access customers shall abide by the metering standards of CEA.
+28.
+Revision.
+- Revision of scheduled energy shall be permitted in accordance with the provisions of IEGC or the State Grid Code as
+the case may be.
+29.
+Losses.
+- (1) Transmission losses. - System transmission losses shall be payable in kind by all open access customers :-
+(a)
+Inter-State transmission-
+Page 29/50
+----- PAGE 30 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+(i)
+Long-term access and medium-term open access. - The buyers shall bear apportioned energy losses in the
+transmission system in accordance with the provisions specified by the Central Commission.
+(ii)
+Short-term Open Access. - The buyers and sellers shall absorb apportioned energy losses in the transmission system in
+accordance with the provisions specified by the Central Commission.
+(b)
+Intra-State transmission. - (i) The transmission losses for the Intra-State system determined by the Commission in tariff
+orders for the applicable year, shall be apportioned in proportion to the actual energy drawal by the open access
+customers and shall be payable in kind.
+(2)
+Distribution loss. - System distribution losses shall be payable by all open access consumers and Captive Power Plants
+supplying power to its units within the State as determined by the Commission for various voltage levels in tariff orders
+for the applicable year. Distribution system losses shall also be payable in kind by Generators and Traders who are
+connected through distribution system of licensee.
+Example :
+(A)
+Embedded generator connected to 33kV distribution system of the licensee supplying to consumer outside State :
+(i)
+Power injected at interconnecting point - 8.00 MW.
+(ii)
+Distribution system losses @ 15% - 1.20 MW
+(iii)
+Power injected at transmission level - 6.80 MW
+(iv)
+State transmission system losses @1.86% - 0.13 MW
+(v)
+Net scheduled at state periphery (for SLDC) - 6.67 MW
+(vi)
+NR transmission losses @ 4% - 0.27 MW
+(vii)
+Net available to beneficiary - 6.40 MW
+Note. - In addition to above, transmission losses of other regions shall also be applicable if power is being transmitted
+outside NR region.
+(B)
+Consumer of distribution licensee availing power from outside State under open access (say from power exchange) :
+(i)
+Power drawn by the consumer at his premises (say A) - 8 MW
+(ii)
+Distribution loss @ 15% (say B)
+(iii)
+Power required at distribution periphery (C=A/(1-B)) - 9.4 MW
+(iv)
+Transmission loss @ 1.86% (say D)
+(v)
+Schedule at state periphery (E=C/(1-D)) - 9.6 MW
+(vi)
+Central transmission losses @ 4% (say F)
+(vii)
+Power to be tied up from exchange (G=E/(1-F)) - 10 MW
+Note. - In addition to above, transmission losses of other regions shall also be applicable if power is being drawn from
+Page 30/50
+----- PAGE 31 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+outside NR region.
+Note. - High Voltage rebate provided in relevant tariff order shall be suitably incorporated while fixing distribution loss for
+open access consumers. The same has been illustrated in the example given below :-
+Example. - (i) High Voltage Rebate for 132 kV (%) = A
+(ii)
+Average recovery rate from HT Industry category Rs. X/kWh=
+(iii)
+Average Power Purchase Rate = Rs. Y/kWh
+(iv)
+Equivalent loss compensation for rebate (%) = X/Y times of A
+(v)
+Average loss chargeable to relevant category (%) = B
+(vi)
+Loss chargeable to consumer getting HV rebate (%) B-X/Y of A.=
+Chapter 7
+Imbalance and Reactive Energy Charges
+30.
+Imbalance Charge.
+(1)
+Scheduling of all transactions pursuant to grant of long-term access or medium-term open access or short-term open
+access shall be carried out on day-ahead basis in accordance with the relevant provisions of IEGC for Inter-State
+transactions and in accordance with JKSERC (Grid Code) for Intra-State transactions.
+(2)
+In case of deviation by open access consumers with load of less than 10 MW, the difference between the applicable
+sanctioned open access load and the actual drawal shall be accounted through the Time of Day (ToD) Meters on
+monthly basis and settled at the rate of the imbalance charge as determined by the Commission (where imbalance
+charge has not been determined by the Commission, UI rate as determined by the Central Commission shall be
+applicable). In case of under drawal as a result of non-availability of the distribution system or unscheduled load
+shedding, the open access consumer shall be compensated by the distribution licensee at the average power purchase
+cost of the distribution licensee or the contract price of energy for the open access consumer, whichever is lower.
+(3)
+Deviations between the schedule and the actual injection/drawal in respect of open access consumers with load of 10
+MW and above and the generating stations irrespective of the capacity, shall be settled based on the composite
+accounts for imbalance transactions issued by SLDC on a weekly cycle based on net metering in accordance with the
+rates specified by the Commission. Where the imbalance charges are not specified by the Commission, the imbalance
+charges specified by the Central Commission shall be applicable.
+(4)
+Payment of imbalance charges shall have a high priority and the concerned constituents (including the licensees or the
+open customers as the case may be) shall pay the indicated amounts within 10 (ten) days of the issue of the statement,
+into a State imbalance pool account operated by the SLDC. The person who has to receive the money on account of
+imbalance charges would then be paid out from the State imbalance pool account, within three (3) working days.
+(5)
+If payments against the above imbalance charges are delayed by more than two days, i. e., beyond twelve (12) days
+from the date of issue of statement, the defaulting party shall have to pay simple interest @ 0.04% for each day of delay.
+The interest so collected shall be paid to the person who had to receive the amount, payment of which got delayed.
+Persistent payment defaults, if any, shall be reported by the SLDC to the Commission, for initiating remedial action.
+31.
+Reactive Energy Charge.
+- In respect of open access customer the payment for the reactive energy charges shall be in accordance with
+provisions stipulated in the IEGC till such provision is stipulated in State Grid Code.
+Chapter 8
+Page 31/50
+----- PAGE 32 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Commercial Matters
+32.
+Billing, Collection and Disbursement.
+- Billing in respect of the charges payable under these regulations shall be made as per the following procedure :
+(1)
+Inter-State transactions.-
+(a)
+Short-Term Open Access :
+(i)
+Collection and disbursement of transmission charges for use of CTU and STU systems and operating charges payable
+to RLDCs and SLDCs towards shortterm open access shall be made by the nodal RLDC in accordance with the
+procedure specified by the Central Commission ;
+(ii)
+The short-term open access customer connected to distribution system of a distribution licensee shall pay to such
+distribution licensee, the wheeling charges payable to the distribution licensee within 3 days from the grant of the
+short-term open access by the nodal agency.
+(b)
+Long-term access and medium-term open access :
+(i)
+Billing, collection and disbursement of charges payable to RLDC including Unified Load Despatch and Communication
+Scheme shall be in accordance with the procedure specified by the Central Commission ;
+(ii)
+Bills towards the charges payable to SLDC shall be raised by the STU/SLDC directly to the open access customer
+connected to STU and to the distribution licensee in respect of the customers connected to the distribution system,
+before the 3rd working day of the succeeding calendar month ;
+(iii)
+Distribution licensee shall raise the bill with the open access customer connected to it within 3 days of receipt of bill from
+SLDC ;
+(iv)
+Open access customer connected to the distribution licensee shall pay the charges within five days of receipt of bill from
+distribution licensee. The distribution licensee shall disburse the amount payable to STU/SLDC on a monthly basis ;
+(v)
+Open access customer connected to the STU shall pay the bills within five working days of receipt of the bill.
+(2)
+Intra-State transactions-
+(a)
+Short-Term Open Access :
+(i)
+The short-term open access customer shall deposit with SLDC the transmission charges and operating charges within 3
+working days of grant of the short- term open access by SLDC ;
+(ii)
+In addition to the above, the short-term open access customer connected to distribution system of a distribution licensee
+shall also pay to SLDC, the wheeling charges payable to the distribution licensee within 3 days from the grant of the
+short-term open access by the nodal agency. Such charges would be disbursed to the distribution licensee on a weekly
+basis.
+(b)
+Long-Term and Medium-Term open access :
+(i)
+SLDC, transmission licensees and distribution licensee, where applicable, shall communicate to STU the details of the
+bills due to them by the 3rd day of the succeeding calendar month. STU shall separately indicate the above charges and
+raise the bill with the open access customer, together with the charges receivable by it, if any, before the 5th day of the
+Page 32/50
+----- PAGE 33 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+above month. The open access customer shall pay the charges within 7 days from the date of receipt of the bill. STU
+shall disburse the charges payable to SLDC, transmission licensee and distribution licensee on a monthly basis.
+33.
+Late payment surcharge.
+- In case the payment of any bill for charges payable under these regulations is delayed by an open access customer
+beyond the due date, without prejudice to any action under the Act or any other regulation thereunder, a late payment
+surcharge at the rate of 1.5% per month shall be levied.
+34.
+Default in payment.
+- Non-payment of any charge or sum of money payable by the open access customer under these regulations shall be
+considered non-compliance of these regulations. The STU or any other transmission licensee or a distribution licensee
+may discontinue open access after giving customer an advance notice of fifteen days without prejudice to its right to
+recover such charges by suit. In case of default in payment of charges due to the Load Despatch Centre, the Load
+Despatch Centre concerned may refuse to schedule power to the defaulting open access customer and direct the
+licensee concerned to disconnect such customer from the grid.
+35.
+Payment Security Mechanism.
+- In case of long-term access and medium-term open access, the applicant for open access will open an irrevocable
+Letter of Credit in favour of the agency responsible for collection of various charges for the estimated amount of various
+charges for a period of two months.
+Chapter 9
+Limited Short-Term Open Access
+36.
+Eligibility for limited short-term open access consumer and conditions to be satisfied.
+(1)
+Subject to the provisions of these regulations, any consumer of the distribution licensee having contracted load of 1
+(one) MW or above and connected to the distribution system of licensee at 33 kV or above, seeking open access and
+are connected through an independent feeder emanating from a grid sub-station of licensee or industrial feeder provided
+that all the consumers on such industrial feeder, may apply for limited short-term open access and having simultaneous
+schedule of drawal under such open access.
+(2)
+Subject to the provisions of these regulations, in case of any limited short-term open access consumer, the minimum
+schedule for drawl of power through open access in each time slot during the day shall not be less than maximum
+demand recorded during previous month or 80% of its contracted load whichever is higher.
+Explanation. - For the purpose of this clause, "time slot" means each 30 minutes time block which is the minimum period
+for which the Time-of-day meter is capable of integrating the maximum demand.
+37.
+Settlement of Energy at drawal point in respect of limited short-term open access consumer.
+(1)
+The monthly energy drawal (in kVAh) during the open access period by such consumer shall be calculated from his
+scheduled drawal and by multiplying it with number of hours of open access availed during the month, as provided in the
+open access schedule of the consumer :
+Provided that such energy drawal shall be at unity power factor.
+(2)
+Such energy drawal through open access shall be deducted from the monthly consumption of energy recorded in his
+existing meter installed by the distribution licensee for billing purposes.
+Example:
+(a)
+Contracted load of the such consumer = 10,000 kVA
+(b)
+Scheduled drawal = 8000 kW
+Page 33/50
+----- PAGE 34 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+(c)
+No. of hours during "Normal Hours i. e. C1 period" during which open access was availed by the consumer during the
+month=120 hours
+(d)
+No. of hours during "Peak Hours i. e. C2 period" during which open access was availed by the consumer during the
+month=180 hours
+(e)
+No. of hours during "Off Peak Hours i. e. C3 period" during which open access was availed by the consumer during the
+month=60 hours
+(f)
+Assessed consumption during "C1 period" for the month during open access period = 8000x120 = 960000 kWh =
+960000 kVAh (at unity pf)
+(g)
+Assessed consumption during "C2 period" for the month during open access period = 8000x180 = 1440000 kWh =
+1440000 kVAh (at unity pf)
+(h)
+Assessed consumption during "C3 period" for the month during open access period = 8000x60 = 480000 kWh = 480000
+kVAh (at unity pf)
+(i)
+Consumption recorded in consumer’s meter during "C1 period" for the month, say 1200000 kVAh
+(j)
+Consumption recorded in consumer’s meter during "C2 period" for the month, say 2000000 kVAh
+(k)
+Consumption recorded in consumer’s meter during "C3 period" for the month, say 800000 kVAh
+(l)
+Net consumption during "C1 period" for the month to be accounted by distribution licensee for billing purpose =
+1200000-960000= 240000 kVAh
+(m)
+Net consumption during "C2 period" for the month to be accounted by distribution licensee for billing purpose =
+2000000-1440000= 560000 kVAh
+(n)
+Net consumption during "C3 period" for the month to be accounted by distribution licensee for billing purpose
+=800000-480000= 320000 kVAh
+(3)
+Scheduling shall be done in accordance with relevant provisions of IEGC for Inter-State transactions and in accordance
+with relevant provisions of State Grid Code for Intra-State transactions.
+38.
+Over-drawal/under-drawal at drawal point by limited short-term open access consumer.
+- Imbalance charges as per Chapter 7 of these regulations and unscheduled Inter-change (UI) charges as specified by
+the Central Commission shall not be applicable for limited short-term open access consumer. However, limited
+short-term open access consumer shall be liable to pay penalty for drawing excess demand in the manner provided
+below :-
+(1)
+Over-drawal - In case such open access consumer draws power more than 100% of its contracted load or scheduled
+power, whichever is more for any time slot during the open access period in a day, it shall be liable for payment of
+penalty. Rate of penalty for each time slot (Rs./kVA of contracted load) shall be proportionate to the percentage of
+excess drawal as above and shall be equal to Rs. 0.10 for each per cent.
+Example :
+Calculation of penalty for one day
+Contracted load(CD in KVA)
+Excess drawal(%)
+Page 34/50
+----- PAGE 35 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Rate of penalty(Rs./KVA/time slot)
+No. of slotwhere power drawnis more than 100%
+ofthe CD (TS)
+Penalty for each time slot (Rs.)
+Total Penalty payable by consumer (Rs.)
+(0.10 X % excess drawal)
+(TS X Rate X CD)
+10000
+11
+1.1
+1
+11100
+15
+1.5
+3
+45000
+156100
+20
+2.0
+5
+100000
+(2)
+Under drawal. - In case where limited short-term open access consumer under-draws from the grid, he shall be
+compensated at average rate for power purchase cost by distribution licensee as per applicable tariff order for relevant
+year or contracted price of energy purchase by open access consumer, whichever is lower.
+Average rate of power purchase cost = [Total power purchase cost/total units purchased].
+39.
+Charges applicable to limited short-term open access consumers.
+(1)
+Limited short-term open access consumers shall be exempted from payment of transmission charges, wheeling
+charges, cross subsidy surcharge and additional surcharge. However, they shall continue to pay other charges namely
+energy charge, demand/fixed charge, minimum consumption guarantee etc., applicable to them as per the rate schedule
+in the tariff order :
+Provided that energy charges shall be payable at balance energy/consumption calculated as per energy settlement
+mechanism provided in Regulations 37 and 38 above.
+(2)
+Limited short-term open access consumers shall also be liable to pay composite operating charges @ Rs. 2,000/- per
+day or part of the day for each transaction to the SLDC or as determined by the Commission from time to time.
+(3)
+In case Inter-State transmission system is used by such consumer in addition Intra-State transmission system or
+distribution system, transmission charges, RLDC charges etc., as fixed and approved by the Central Commission shall
+be payable for use of Inter-State transmission system in addition to payment of charges as per sub-regulations (1) and
+(2) above.
+40.
+Drawal of power by limited short-term access consumer from distribution licensee.
+- In cases where supplier fails to supply power, in any time slot, to limited short-term open access consumer due to any
+reason, said supplier shall revise his schedule as per provisions of State Grid Code and the same shall be
+communicated to SLDC and concerned open access customer. The SLDC shall revise the schedule which shall become
+effective from 2nd time slot (counting the time slot in which such eventuality has taken place to be the first one) and the
+revised schedule shall be provided to distribution licensee. It shall be the duty of such open access consumers to draw
+power as per revised schedule. Drawal of power in excess of the revised schedule by limited short-term open access
+Page 35/50
+----- PAGE 36 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+consumers shall be treated as over-drawal of power by such consumer and shall be liable to pay penalty as per
+sub-regulation (1) of Regulation 38 of these regulations.
+41.
+Nodal Agency for limited short-term open access customer.
+- The Nodal Agency for limited short-term open access consumer shall be the State Load Despatch Center and in such
+case, the State Transmission Utility and/or a transmission licensee and/or a distribution licensee concerned, as the case
+may be, shall be responsible for coordination with the State Load Despatch Center and provide all relevant information
+required to take decision for providing open access.
+42.
+Procedure for grant of limited short-term open access customer.
+-  The procedure for grant of short-term open access specified in Regulation 16 contained in Chapter 4 shall be
+applicable for grant of Limited short-term open access also.
+43.
+Metering for limited short-term open access customer.
+- In case of limited short-term open access consumers, the existing ToD meter installed at their premises shall serve the
+purpose for energy accounting and billing.
+44.
+Billing and payment for limited short-term open access consumers.
+(1)
+Limited short-term open access consumers, being a consumer of distribution licensee, shall continue to pay electricity
+charges billed to him on monthly basis by the distribution licensee subject to adjustments of quantum of energy and
+other charges for drawal of power during the period of open access provided in Regulation 39 above.
+(2)
+Distribution licensee shall show these adjustments of quantum of energy and other charges, applicable to such
+consumer, separately in his electricity bill.
+Chapter 10
+Embedded Open Access Consumers
+45.
+Eligibility for open access to embedded consumers and conditions to be satisfied.
+- Subject to the provisions of these regulations, any consumer of the distribution licensee having contracted load of 1
+(one) MW or above and connected to the distribution system of the licensee at 33 kV or above, seeking open access
+and are connected through an independent feeder emanating from a grid sub-station of licensee or industrial feeder
+provided that all the consumers on such industrial feeder, may apply for open access and having simultaneous schedule
+of drawal under such open access :
+Provided that the consumers who are not on independent feeders, shall be allowed open access subject to the condition
+that they agree to rostering restrictions imposed by utility on the feeders serving them :
+Provided further that duties of distribution licensee, with respect to such open access consumers, shall be of a common
+carrier providing non-discriminatory open access as per section 36(3) of the Act.
+46.
+Settlement of Energy at drawal point in respect of embedded consumers.
+- The mechanism for settlement of energy at drawal point in respect of embedded customers shall be same as that
+provided for limited short-term open access customers in Regulation 37 contained in Chapter 9 of these regulations.
+47.
+Charges applicable to embedded consumers.
+(1)
+Embedded open access consumers shall pay transmission charges as determined by the Commission in accordance
+with the methodology specified in sub-regulation (1) of Regulation 21 contained in Chapter 5 of these regulations.
+(2)
+Embedded open access consumers shall pay wheeling charges as determined by the Commission in the following
+manner :-
+WC Embedded consumer = WC - [FC*12*1000/365] (in Rs./MW day)
+Page 36/50
+----- PAGE 37 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Where,
+WC Embedded consumer = Net wheeling charges for embedded consumers
+WC = Wheeling charges as determined by the Commission in accordance with the methodology specified in Regulation
+21(2) contained in Chapter 5 of these regulations.
+FC = Fixed/demand charges in Rs./kVA/month or Rs./kW/month as per applicable rate schedule of the prevailing tariff
+order.
+Note. - In case Wheeling Charges for embedded consumer worked out as above becomes negative, such charge shall
+be zero.
+(3)
+Embedded open access consumers shall pay cross subsidy surcharge and additional surcharge as determined by the
+Commission in accordance with the methodology specified in Regulations 23 & 24 contained in Chapter 5 respectively.
+(4)
+Embedded open access consumers shall also be liable to pay composite operating charges @ Rs. 2,000/- per day or
+part of the day for each transaction to the SLDC or as determined by the Commission from time to time.
+(5)
+Besides the above charges in respect of open access, the embedded consumers shall continue to pay other charges
+namely energy charge, demand/fixed charge, minimum consumption guarantee etc., applicable to them as per the rate
+schedule in the tariff order :
+Provided that energy charges shall be payable at balance energy/consumption calculated as per energy settlement
+mechanism provided in Regulations 46 above.
+(6)
+In case Inter-State transmission system is used by such customer in addition Intra-State transmission system or
+distribution system, transmission charges, RLDC charges etc., as fixed and approved by the Central Commission shall
+be payable for use of Inter-State transmission system in addition to payment of charges as per clauses (1) to (5) above.
+48.
+Scheduling for embedded open access consumers.
+(1)
+Scheduling shall be done in accordance with relevant provisions of IEGC for Inter-State transactions and in accordance
+with relevant provisions of State Grid Code for Intra-State transactions.
+(2)
+By 10:00 A. M. every day, these embedded consumers shall prepare and submit daily schedule of power, in MW,
+separately showing schedule of power from licensee and that from another supplier through open access for the next
+day, i. e. from 0000 hrs. to 2400 hrs. of the day following to SLDC along with copy to distribution licensee.
+(3)
+Embedded open access consumers shall be liable to pay excess demand charges applicable to them as per the rate
+schedule in the tariff order.
+Example. - Excess demand charges, applicable to category of consumer, shall be payable if the maximum demand
+recorded in any month exceeds the contracted load/demand. Such excess load/demand over and above the contracted
+load/demand shall be levied for excess load/demand penalty :-
+(a)
+Contracted load/demand of the consumer seeking open access under embedded open access mechanism = 10MW
+(b)
+Scheduled drawal from distribution licensee = 7MW
+(c)
+Scheduled drawal through open access = 3MW
+(d)
+Maximum demand recorded in any month =12MW
+(e)
+Excess load/demand liable for excess load/demand penalty for the month = 2MW
+49.
+Procedure for grant of short-term open access to embedded consumers.
+Page 37/50
+----- PAGE 38 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+- Application and procedure for grant of open access to embedded consumers shall be as same as applicable to
+short-term open access customers specified in Regulation 16 contained in Chapter 4 of these regulations. Nodal Agency
+for these consumers shall be SLDC.
+50.
+Metering for embedded open access consumer.
+- In case of embedded open access consumers, the existing ToD meter installed at their premises shall serve the
+purpose for energy accounting and billing.
+51.
+Billing and Payment for embedded open access consumer.
+(1)
+Billing, collection, disbursement and other commercial matters shall be same as applicable to short-term open access
+customers specified in Chapter 8 of these Regulations.
+(2)
+Embedded open access consumers, being a consumer of distribution licensee, shall continue to pay electricity charges
+billed to him on monthly basis by the distribution licensee subject to adjustments of quantum of energy and other
+charges for drawal of power during the period of open access provided in Regulation 46 above.
+(3)
+Distribution licensee shall show these adjustments of quantum of energy and other charges, applicable to such
+consumer, separately in his electricity bill.
+Chapter 11
+Open Access to Generating Station Connected to Distribution System
+52.
+Application procedure for generating stations connected to distribution system seeking open access.
+- Subject to the provisions of the Section 11 of the Act, a generating station connected to a distribution system seeking
+open access shall have to follow, except in respect of the case covered under Regulation 53 hereinbelow, the same
+procedure as applicable for a consumer seeking open access under different scenarios, namely long-term access,
+medium-term open access and short-term open access. Such generating station shall also be liable to pay the same
+application fee, and other open access charges except the cross subsidy surcharge and additional surcharge as are
+applicable to a consumer seeking open access.
+53.
+Application procedure for generating station seeking open access within the area of the same distribution licensee.
+(1)
+A generating station seeking open access, only within the area of the same distribution licensee, shall make an
+application in the prescribed format to the distribution licensee.
+(2)
+The distribution licensee, while processing the application of such a generating station, shall follow the following
+procedure :-
+(a)
+While processing the application from a generating station seeking open access, within the area of the same distribution
+licensee, the distribution licensee shall verify the following, namely :-
+(i)
+Existence of infrastructure necessary for time block-wise energy metering and accounting in accordance with the
+provisions of the State Grid Code in force ; and
+(ii)
+Availability of surplus capacity in the distribution network.
+(b)
+Where existence of necessary infrastructure and availability of surplus capacity in the distribution network has been
+established, the distribution licensee shall convey its approval within the timelines indicated in sub-regulation (2) of
+Regulation 13 of these regulations as applicable to open access consumer ;
+(c)
+In case the distribution licensee finds that the application is incomplete or defective in any respect, it shall communicate
+Page 38/50
+----- PAGE 39 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+the deficiency or defect to the applicant by e-mail or FAX or by any other usually recognised mode of communication,
+within two (2) working days of receipt of the application ;
+(d)
+In case the application has been found to be in order but the distribution licensee refuses to give approval for open
+access on the grounds of non-existence of necessary infrastructure or unavailability of surplus capacity in the
+distribution network, such refusal shall be communicated to the applicant by e-mail or FAX or by any other usually
+recognized mode of communication, within the period of three (3) working days from the date of receipt of the
+application, along with reasons for such refusal ;
+(e)
+The generating station shall pay the wheeling charge to the distribution licensee in accordance with sub-regulation (2) of
+Regulation 21 contained in Chapter 5 of these regulations. The treatment of deemed generation in case of
+non-availability of distribution system shall be settled mutually between the generating station and the distribution
+licensee.
+Chapter 12
+Information System
+54.
+Information system.
+- The State Load Dispatch Centre shall post following information on its website in a separate web page titled "Open
+access information" and also issue a monthly and annual report containing such information :-
+(1)
+A status report on long-term/medium-term/short-term open access by consumers and generating stations including
+limited short-term open access and open access by embedded consumers indicating-
+(a)
+Name of open access consumer/generating station ;
+(b)
+Period of open access granted (date of commencement and date of termination) ;
+(c)
+Schedule of power from distribution licensee for each day (applicable to embedded open access consumers) ;
+(d)
+Schedule of power through open access period for each day (applicable to embedded open access consumers) ;
+(e)
+Schedule of open access period for each day (applicable to limited open access consumers) ;
+(f)
+Point of injection ;
+(g)
+Point of drawal ;
+(h)
+Transmission system/distribution system used ; and
+(i)
+Open access capacity used.
+(2)
+Peak load flows and capacity available including the reserve capacity on all EHV lines and HV lines emanating from
+EHV sub-stations.
+(3)
+The information regarding average loss in transmission and distribution system as determined by respective licensees.
+Chapter 13
+Miscellaneous
+55.
+Under Utilisation or Non-Utilisation of open access capacity in Intra-State transmission and distribution system.
+- (1) Long-Term Access. - A long-term customer may relinquish the long-term access rights fully or partly before the
+expiry of the full term of long-term access, by making payment of compensation for stranded capacity as follows :-
+Page 39/50
+----- PAGE 40 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+(a)
+Long-term customer who has availed access rights for at least 12 years :
+(i)
+Notice of one (1) year - If such a customer submits an application to the Nodal Agency at least 1 (one) year prior to the
+date from which such customer desires to relinquish the access rights, there shall be no charges ;
+(ii)
+Notice of less than one (1) year - If such a customer submits an application to the Nodal Agency at any time lesser than
+a period of 1 (one) year prior to the date from which such customer desires to relinquish the access rights, such
+customer shall pay an amount equal to 66% of the estimated open access charges (net present value) for the stranded
+transmission and/or distribution capacity for the period falling short of a notice period of one (1) year.
+(b)
+Long-term customer who has not availed access rights for at least 12 (twelve) years :
+Such customer shall pay an amount equal to 66% of the estimated open access charges (net present value) for the
+stranded transmission and/or distribution capacity for the period falling short of 12 (twelve) years of access rights :
+Provided that such a customer shall submit an application to the Nodal Agency at least 1 (one) year prior to the date
+from which such customer desires to relinquish the access rights :
+Provided further that in case a customer submits an application for relinquishment of long-term access rights at any time
+at a notice period of less than one year, then such customer shall pay an amount equal to 66% of the estimated open
+access charges (net present value) for the period falling short of a notice period of one (1) year, in addition to 66% of the
+estimated open access charges (net present value) for the stranded transmission and/or distribution capacity for the
+period falling short of 12 (twelve) years of access rights.
+(c)
+The discount rate that shall be applicable for computing the net present value as referred to in clause (a) & (b) of
+sub-regulation (1) above shall be the discount rate to be used for bid evaluation in the Central Commission’s Notification
+issued from time to time in accordance with the Guidelines for Determination of Tariff by Bidding Process for
+Procurement of Power by distribution licensees issued by the Ministry of Power.
+(d)
+The compensation paid by the long-term customer for the stranded transmission and/or distribution capacity shall be
+used for reducing transmission and/or wheeling charges payable by other long-term customers and medium-term
+customers in the year in which such compensation payment is due in the ratio of open access charges payable for that
+year by such long-term customers and medium-term customers.
+(2)
+Medium-term open access customers. - A medium-term open access customer may relinquish rights, fully or partly, by
+giving at least 30 days prior notice to the Nodal Agency :
+Provided that the medium-term open access customer relinquishing its rights shall pay applicable open access charges
+for the period of relinquishment or 30 days whichever is lesser.
+(3)
+Short-term open access customer. - (a) The short-term open access schedules accepted by the Nodal Agency in
+advance or day-ahead basis may be cancelled or revised downwards on an application to that effect made to the Nodal
+Agency by the short-term open access customer :
+Provided that such cancellation or downward revision of the short-term open access schedules shall not be effective
+before expiry of a minimum period of two (2) days : Provided further that the day on which notice for cancellation or
+downward revision of schedule is served on the Nodal Agency and the day from which such cancellation or downward
+revision is to be implemented, shall be excluded for computing the period of two (2) days.
+(b)
+The person seeking cancellation or downward revision of short-term open access schedule shall pay the open access
+charges for the first two (2) days of the period for which the cancellation or downward revision of schedule, as the case
+may be, has been sought, in accordance with the schedule originally approved by the Nodal Agency, and thereafter in
+accordance with the revised schedule prepared by the Nodal Agency during the period of such cancellation or
+downward revision.
+(c)
+Page 40/50
+----- PAGE 41 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+In case of cancellation, scheduling and system operation charges specified in Regulations 22 contained in Chapter 5
+shall be payable for two (2) days or the period of cancellation in days, whichever is less.
+56.
+Computation of capacity availability for open access.
+(1)
+The capacity available for the open access shall be computed for each transmission segment and for every sub-station
+by the STU following the methodology given below :-
+(a)
+Available open access capacity of a transmission system segment : = (DC-SD-AC)+NC where, DC=Designed Capacity
+of the transmission segment in MW, SD = Sustained Demand in MW recorded in the segment, AC = Already allotted
+capacity, but not availed in MW and NC = New Capacity in MW expected to be added ;
+(b)
+Available open access capacity of a sub-station: = (TC-SPAC)+ NC where, TC= Transformer capacity of the sub-station
+in MVA, SP= Sub-station peak in MVA, AC= Already allotted capacity but not availed in MVA and New transformer
+capacity in MVA expected to be added ;
+(c)
+The STU shall update these values on monthly basis on the first calendar day of the month and publish it in their
+website.
+(2)
+The appropriate distribution licensee shall determine the available capacity for allotment for the portion of the distribution
+system over which open access has been requested for.
+57.
+Curtailment priority.
+- When, because of constraints or otherwise, it becomes necessary to curtail the open access service of the customers,
+subject to the requirements of State Grid Code, the open access to a distribution licensee shall be the last to be
+curtailed. Among others, short-term open access customers shall be curtailed first, followed by the medium-term open
+access customers followed by long-term open access customers. SLDC shall frame guidelines for curtailment of open
+access customers.
+58.
+Powers to remove difficulties.
+- If any difficulty arises in giving effect to any of the provisions of these regulations, the Commission may by general or
+special order, direct the State Transmission Utility, State Load Dispatch Centre, Intra-State licensees and the open
+access customer, to take such action, as may appear to the Commission to be necessary or expedient for the purpose
+of removing difficulties.
+59.
+Repeal and Savings.
+(1)
+Save as otherwise provided in these regulations, the J&K State Electricity Regulatory Commission (Terms and
+Conditions for Open Access in Intra-State Transmission and Distribution) Regulations, 2006, shall stand repealed from
+the date of commencement of these regulations.
+(2)
+Notwithstanding such repeal, anything done or purported to have been done under the repealed regulations shall be
+deemed to have been done or purported to have been done under these regulations.
+(3)
+Open access customers to the Intra-State transmission system and the distribution system in the State on the date of
+coming into force of these regulations under an existing agreement/contract shall be entitled to continue to avail such
+access to the transmission and distribution system.
+Format for short-term
+Format-ST1
+Application for grant of short-term open Access
+(to be submitted by the customer to SLDC)
+Page 41/50
+----- PAGE 42 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+To Executive Engineer (SLDC)
+1
+Customer Application No
+Date
+2
+Period of Transaction
+3
+Nature of Customer
+< Seller/buyer/captive user/tradition behalf
+of seller/buyer/captive user)>
+< In Term of power transfer>
+4
+Customer Name
+5
+Registration Code
+Date
+< Regulations code shall be an provided by SLDC>
+6
+Details of Transaction Party's to Grid
+Injecting Entry
+Decree Entry]
+Name of Entry
+Status of Entry*
+Utility in which is Embedded
+<* In terms of ownership state utility/CPP/IPP/ISGS/Discos/Consumer/specify, if any other>
+7
+Details of injecting/Drawee Connectively with
+intra-State System
+Injecting Entry
+Decree Entry
+Name of Sub-station
+Transmission
+Distribution
+Voltage Level
+Transmission
+Distribution
+Name of Licensee (Owner of S/S)
+Intervening intra-State Licensee
+Intervening intra-State Licensee
+8
+Open Access Sought for (Period from date
+__________________ to date_________________)
+Date
+Hours
+Capacity
+From
+To
+From
+To
+MW
+9
+Page 42/50
+----- PAGE 43 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Details of PPA/PSA/MOU
+Name/& Address of Parties
+Date of PPA/PSA/MOU
+Validity Period
+Capacity
+Seller
+Buyer
+Commencement
+Expiry
+MW
+10
+Details of Non-Refundable Application Fee Mode
+Bank Details
+Instrument Details
+Type(Draft/Cash)
+Instrument No.
+Date
+Amount (Rs.)
+11
+I hereby authorize SLDC to process said
+application in case open access capacity allotted, for day ahead
+scheduling in accordance with the provisions of intra-State ABT
+12
+Declaration
+All Entries/Utilities to transaction shall said
+by provisions of the J&K Electricity Act, 2010 (the Act)
+J&KSERC (Terms and Conditions for Intra-State Open Access)
+Regulation, 2015 and any other relevant regulation/order/code as
+amended from time to time
+PlaceDate
+Signature (with Stamp)Name & Designation
+Enclosures
+(1)
+Non-refundable application fee by Demand draft or cash receipt (if payment by cash).
+(2)
+Self-certified copy of PPA/PSA/Mou entered between the Parties (buyer and seller) of transaction stating contracted
+power, period of transaction, drawal pattern, points) of injection and drawal etc.
+(3)
+Self-certified copies of concurrence of STU and/or transmission licences and/or distribution licensee.
+(4)
+Other relevant documents, if any.
+Copy to along with relevant enclosures (expect (1) & (2) above):
+(1)
+Managing Director of transmission licensee involved in transaction.
+(2)
+Managing director of distribution licensee involved in transaction.
+(3)
+Officer in charge of transmission substation involved in transaction.
+(4)
+Officer in charge of distribution substation involved in transaction.
+For use a SLDC (with Reference to Employment of
+Page 43/50
+----- PAGE 44 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Application)
+SLDC Reference ID No.
+Model SLDC Approval No.
+< if approved)
+Or Reasons of Refusal* (if Refused)
+*< SLDC may also attached appearing documents for the returns of refusal duty signed on each page>
+Format for short-term
+Acknowledgement
+(for office use only)
+Application for Grant of Short-Term Open Access 1
+(A)
+< to be filled by the Customer>
+1
+Customer Application No
+Date
+2
+Period of Transaction
+3
+Nature of Customer
+< Seller/buyer/captive user/tradition behalf
+of seller/buyer/captive user)>
+< In Term of power transfer>
+4
+Customer Name
+5
+Registration Code
+Valid up to
+< Regulations code shall be an provided by SLDC>
+(B)
+< to be filled by SLDC>
+Details of Transaction Party's to Grid
+PlaceDate
+Signature (With Stamp)Name & Designation
+Format-ST Application for Grant of Short-term Open Access (Page 3 of 3)
+...................................................................................
+Acknowledgement
+(to be issued by SLDC to the customer immediately on receipt of application duty filled in)
+Application for Grant of Short-Term Open Access
+(A)
+< to be filled by the Customer>
+1
+Customer Application No
+Date
+2
+Period of Transaction
+3
+Nature of Customer
+< Seller/buyer/captive user/tradition behalf
+of seller/buyer/captive user)>
+< In Term of power transfer>
+4
+Page 44/50
+----- PAGE 45 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Customer Name
+5
+Registration Code
+Valid up to
+< Regulations code shall be an provided by SLDC>
+(B)
+< to be filled by SLDC>
+Details of Transaction Party's to Grid
+PlaceDate
+Signature (With Stamp)Name & Designation
+N.B. - This counterfoil may be scored out and issued to be customer.
+Format for short-term
+Format-ST2
+Approval for short-term open Access
+(to be issued by SLDC)
+Nodel SLDC Approval No.
+Date
+1
+Customer Application No
+Date
+2
+Period of Transaction
+3
+Nature of Customer
+< Seller/buyer/captive user/tradition behalf
+of seller/buyer/captive user)>
+< In Term of power transfer>
+4
+Customer Name
+5
+Registration Code
+valid up to
+< Regulations code shall be an provided by SLDC>
+6
+Details of Transaction Party's to Grid
+Injecting Entry
+Decree Entry]
+Name of Entry
+Status of Entry*
+Utility in which is Embedded
+<* In terms of ownership state utility/CPP/IPP/ISGS/Discos/Consumer/specify, if any other>
+7
+Details of injecting/Drawee Connectively with
+intra-State System
+Injecting Entry
+Decree Entry
+Name of Sub-station
+Transmission
+Distribution
+Voltage Level
+Transmission
+Page 45/50
+----- PAGE 46 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Distribution
+Name of Licensee (Owner of S/S)
+Intervening intra-State Licensee
+Intervening intra-State Licensee
+8
+Open Access Approved for (Period from date
+__________________ to date_________________)
+Revision No
+Month
+Date
+Hours
+Capacity MW
+MWH
+From
+To
+From
+To
+Applied
+Allotted
+Total MWH
+9
+Details of Bidding < only in case of Bidding>
+Details of Intra-State System
+Date
+Hours
+Applicable Rate (Rs./KWH)
+Transmission System
+From
+To
+From
+To
+Distribution System
+10. The approval is subject to provisions of J &KSERC (Terms and conditions for Intra-State Open Access) Regulations,
+2015 and any other relevant regulation/order/code as amended and application from time to time.          < only in case of
+approval>
+11. No approval is being granted on account of       < only in case of approval>
+< SLDC shall convey specify reasons if open access is defined and may also enclose supporting documents to support
+the same duty signed on each page>
+Place
+Signature (With Stamp)Name & Designation
+Format for short-term
+Enclosure to Format-ST2
+of Payments
+(to be enclosed for each month by SLDC along with FOMAT–ST2)
+Nodel SLDC Approval No.
+Date
+1
+Customer Application No
+Date
+2
+Period of Transaction
+Page 46/50
+----- PAGE 47 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+3
+Nature of Customer
+< Seller/buyer/captive user/trader (on behalf
+of seller/buyer/captive user)>
+< In Term of power transfer>
+4
+Customer Name
+5
+Registration Code
+valid up to
+6
+Tentative* Monthly Payment Schedule for
+Short-Term Open Access Charges ( Period: date ____ to date ____)
+Month
+Payment Chargeable for
+Rate (Rs./kWh)
+MWh
+Total (Rs.)
+(1) Intra-State Network
+(a) Transmission Charges
+concerned Transmission Licensee
+Intervening intra-State Licensee(if any)
+(b) Wheeling Charges
+concerned Distribution Licensee
+Intervening intra-State Licensee(if any)
+(c) Surcharge
+concerned Distribution Licensee
+(d) Additional Surcharge
+concerned Distribution Licensee
+(e) SLDC Charges
+SLDC
+(2) Inter-State Network
+Transmission Charges
+Intervening inter-State Licensee(if any)
+Total Monthly Payment Amount (Rs.)
+PlaceDate
+Signature (With Stamp)Name & Designation
+* Tentative on the basis of MWh mentioned in application which may vary on actual operation.
+Format for short-term
+Format-ST3
+Congestion Information and Invitation of Bidding
+(to be invited by SLDC)
+SLDC Bidding Invitation No. ___________
+Date ____________________________
+1
+Customer Application No
+Date
+2
+Period of Transaction
+3
+Nature of Customer
+Page 47/50
+----- PAGE 48 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+< Seller/buyer/captive user/trader (on behalf
+of seller/buyer/captive user)>
+< In Term of power transfer>
+4
+Customer Name
+5
+Registration Code
+valid up to
+6.
+The anticipated congestion (transformer and
+electric line/link) is as follow:
+Network Corridor
+Congestion Period
+Margin/Capacity Available
+Total Capacity Applied by all the Customers
+Sub-station with Transformation Capacity
+Electric Line/Link with Capacity
+Date
+Hours
+From
+To
+From
+To
+MW
+MW
+Intra-State Transmission System
+Intra-State Distribution System
+Inter-State Transmission System
+7.
+In view of above please submit bid on format [FORMAT-ST4].
+The details for bidding are hereunder:
+(a) Bid Invitation Date
+Time
+(b) Bid Submission Date
+Time
+(c) Bid Opening Date
+Time
+(d) Bids Invited for
+Intra-State Network Corridor
+Congestion Period
+Margin/Capacity Available for Bidding
+Floor Price
+Sub-station
+Electric Line/Link
+Date
+Hours
+From
+To
+From
+To
+MW
+Page 48/50
+----- PAGE 49 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Rs./kWh
+Name of Transmission System
+Name of Distribution System
+8.
+In case of non submission of bid, application shall be
+deemed to have been withdrawn and shall not be processed.
+PlaceDate
+Signature (With Stamp)Name & Designation
+To: Customers with their reference’s < as provided by customers at sl.no. 1 on FORMAT-ST1 >
+Format for short-term
+Format-ST4
+BID Proposal
+(to be submitted by the customer to SLDC)
+Ref: SLDC Bidding Invitation No. ___________
+Date ____________________________
+To: Executive Engineer (SLDC)
+1
+Customer Application No
+Date
+2
+Period of Transaction
+3
+Nature of Customer
+< Seller/buyer/captive user/trader (on behalf
+of seller/buyer/captive user)>
+< In Term of power transfer>
+4
+Customer Name
+5
+Registration Code
+valid up to
+6.
+In reference to above bidding invitation,
+I hereby submit my bid as follows:
+Bidding Details as provided by SLDC
+Bid Price to be Quoted by Bidder
+Intra-State Network Corridor
+Congestion Period
+Margin/Capacity Available for Bidding
+Floor Price
+Sub-station
+Electric Line/Link
+Date
+Hours
+From
+To
+From
+To
+MW
+Paise/Kwh
+Paise/Kwh
+Page 49/50
+----- PAGE 50 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions of Intra-S...
+Name of Transmission System
+Name of Distribution System
+< * Bidder shall quote price (rounded-off to whole number) in denotation of floor price >
+7.
+I do hereby agree that determined bid price(s) shall be
+transmission and/or wheeling charges.
+PlaceDate
+Signature (With Stamp)Name & Designation
+Related AI tags, queries and research notes
+Translation
+Page 50/50

@@ -1,0 +1,747 @@
+
+----- PAGE 1 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+The Petroleum and Natural Gas Regulatory Board (Access Code for
+Common Carrier or Contract Carrier Natural Gas Pipelines)
+Regulations, 2008
+Source: https://indiankanoon.org/doc/174981067/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract Carrier Natural Gas
+Pipelines) Regulations, 2008
+UNION OF INDIA
+India
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract Carrier Natural Gas
+Pipelines) Regulations, 2008
+Rule
+THE-PETROLEUM-AND-NATURAL-GAS-REGULATORY-BOARD-ACCESS-CODE-FOR-COMMON-CARRIER-OR-CO
+NTRACT-CARRIER-NATURAL-GAS-PIPELINES-REGULATIONS-2008 of 2008
+Published on 17 July 2008
+Commenced on 17 July 2008
+[This is the version of this document from 17 July 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract Carrier Natural Gas
+Pipelines) Regulations, 2008
+Published vide Notification No. G.S.R. 541(E), dated 17th July, 2008
+Page 1/14
+----- PAGE 2 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+Last Updated 23rd August, 2019
+G.S.R. 541(E). - In exercise of the powers conferred by section 61 of the Petroleum and Natural Gas Regulatory Board
+Act, 2006 (
+19 of 2006
+), the Petroleum and Natural Gas Regulatory Board hereby makes the following regulations, namely :-
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier
+or Contract Carrier Natural Gas Pipelines) Regulations, 2008.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise require,
+(a)
+"access arrangement" means a document of the transporter specifically defining terms and conditions for the access to
+the gas pipeline and placed on the web site of the transporter;
+(b)
+"Act" means the Petroleum and Natural Gas Regulatory Board Act, 2006";
+(c)
+"a homogeneous area" (AHA) means a part of the pipeline within which the gas of similar specifications including
+calorific value is received or delivered over a specified time period;
+(d)
+"allocated capacity" means the scheduled maximum daily quantity agreed between the shipper and the transporter;
+(e)
+"appointed day" means the date of October 1, 2007 when the Central Government notified the establishment of the
+Petroleum and Natural Gas Regulatory Board;
+(f)
+"Board" means the Petroleum and Natural Gas Regulatory Board (PNGRB) established under the Petroleum and
+Natural Gas Regulatory Board Act 2006;
+(g)
+"booked capacity" means maximum daily quantity (MDQ) of gas on any day to be delivered at an entry point or off taken
+at an exit point as per the contract between the shipper and the transporter;
+(h)
+"contracted capacity" means the natural gas volume contracted for transportation through a pipeline system on daily,
+monthly or yearly basis;
+(i)
+"custody transfer meter" means a device or a set of devices which measures the quantity of natural gas (in terms of
+volume and energy) for transfer of custody from one entity to another;
+(j)
+"dispute" means any dispute or difference arising between the entities under or in connection with these regulations or
+the access arrangement;
+(k)
+"entry point" means the point at which the gas delivered by shipper is injected into the natural gas pipeline;
+(l)
+"exit point" means the point at which the gas is withdrawn from the natural gas pipeline for delivery to the shipper or end
+consumer as agreed between transporter and shipper;
+(m)
+"maximum daily quantity" means the maximum volume of natural gas contracted, booked or scheduled for delivery in a
+Page 2/14
+----- PAGE 3 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+particular day within twenty four hours of the day;
+(n)
+"natural gas pipeline" means any pipeline including spur lines for transport of natural gas and includes all connected
+equipments and facilities, such as, compressors, storage facilities, metering units, etc. but excludes-
+(i)
+dedicated pipeline laid to transport natural gas to a specific customer to meet his requirement and not for resale;
+(ii)
+pipelines in a city or local natural gas distribution network which are regulated by the Petroleum and Natural Gas
+Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand City or Local Natural Gas Distribution Networks)
+Regulations, 2008.
+(o)
+"natural gas pipeline section" means a part of natural gas pipeline between an entry point and an exit point or between
+two exit points;
+(p)
+"marketeer" means an entity dealing with the marketing or trading of natural gas;
+(q)
+"off-spec natural gas" means the natural gas which does not conform to the parameters specified at sub-regulations (1),
+(4), (5) and (6) of regulations 5;
+(r)
+"operating pressure" means the pressure corresponding to a particular flow rate at which the natural gas pipeline is
+operated;
+(s)
+"shipper" means an entity and also includes a consumer who intends to utilize the capacity in the pipeline for
+transmission of gas;
+(t)
+"system use gas" (SUG) means the quantity of gas used by the transporter for the operation and maintenance of the
+pipeline system, including but not limited to, compressors, gas heaters, close cycle vapour or thermo electric gas
+turbines for cathodic protection and supervisory control and data acquisition (SCADA) system;
+(u)
+"transmission loss" (TL) means the quantity of gas which is unaccounted for whatsoever reason including blow downs,
+venting or releases during regular operation and maintenance of the pipeline system or due to inaccuracy of custody
+meter;
+(v)
+"transporter" means an entity authorized by the Board or authorized by the Central Government prior to the appointed
+date for laying, building, operating or expanding a natural gas pipeline;
+(w)
+"transmission service" means the service consisting of taking delivery of the gas made available by a shipper at one or
+more entry points along the pipeline system and delivering an equivalent quantity of gas in terms of energy at one or
+more exit points in accordance with the terms and conditions laid down in the access arrangement and contract signed
+between the shipper and the transporter and complying with the provisions of these regulations;
+(x)
+"unit of measurement" means unit for measurement of quantity of gas and shall be in million British thermal units
+(MMBTU) or Kilo calories.
+(2)
+All other words and expressions used herein but not defined shall have the same meanings respectively assigned to
+them in the Act.
+3.
+Application.
+(1)
+These regulations shall apply to an entity operating or proposing to operate natural gas pipeline.
+(2)
+Page 3/14
+----- PAGE 4 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+Any entity authorized by the Board to lay, build, operate or expand a natural gas pipeline under the Petroleum and
+Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand Natural Gas Pipeline) Regulations,
+2008 or authorized to do so by the Central Government before the appointed day, can add new or abandon any existing
+entry and exit point on the pipeline on techno-economic considerations provided that the existing customers on the
+pipeline are not adversely affected by the decision of the entity.
+4.
+Declaration of capacity.
+(1)
+The capacity of a natural gas pipeline shall be as authorized by the Board for new pipelines under The Petroleum and
+Natural Gas Regulatory Board (Authorizing Entities to Lay, Build, Operate or Expand Natural Gas Pipelines)
+Regulations, 2008 or as determined by the Board under relevant regulations for declaring natural gas pipelines as
+common carrier or contract carrier or under the Petroleum and Natural Gas Regulatory Board (Determination of Natural
+Gas Pipeline Tariff) Regulations, 2008 or as determined by the Board under the relevant Regulations.
+(2)
+The transporter shall declare for each natural gas pipeline section, entry and exit point-wise design and available
+capacity of the pipeline and host the same on its web site on the 1st of every month in the prescribed manner and format
+specified at Schedule I and shall send this information to the Board and the same shall also be hosted by the Board on
+its website.
+(3)
+The available capacity declared for the transporter under sub-regulation (2) shall be available for use on common carrier
+or contract carrier basis or both and shall be allocated in line with the provisions under regulation 12.
+5.
+Gas parameters.
+(1)
+The authorized entity as referred to in sub-regulation (2) of regulation 3 shall formulate the calorific value (CV) band for
+the natural gas to be transported through natural gas pipeline keeping in view the following parameters, namely:-
+(a)
+CV of its own natural gas proposed to be transported;
+(b)
+CV of firmed up contracted capacity of natural gas;
+(c)
+requirements of downstream consumers of natural gas on the pipeline;
+(d)
+technical requirement of the pipe line system; and
+(e)
+CV band of the inter-state pipelines either supplying natural gas into the pipeline system or receiving natural gas from
+this pipeline system.
+(2)
+The transporter shall publish CV band referred to in sub-regulation (1) on its website within a period of one month of
+authorized by the Board, as referred to in sub-regulation (2) of regulation 3, under intimation to the Board.
+Provided that the entities authorized before the publication of these regulations shall publish the CV band within a period
+of one month of the date of publication of these regulations.
+(3)
+CV band referred to in sub-regulation (1) shall be applicable to all shippers on non-discriminatory basis.
+(4)
+The transporter may review the CV band for natural gas from time to time taking into account new major source of gas
+supplies or new consumers:
+Provided that CV band so updated shall not adversely affect any of the existing shippers:
+Provided further that transporter shall immediately inform the Board as and when such-up-dation is carried out by the
+transporter besides putting the same on its web site.
+(5)
+Page 4/14
+----- PAGE 5 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+The threshold limits for other elements in natural gas like CO2, CO, H2S, N2, O2, water dew point, hydrocarbon dew
+point, etc. shall be as given in Schedule II.
+(6)
+The transporter shall define the gas parameters at entry points in terms of gas hydraulics specifying the acceptable
+range of pressure and temperature and the same shall be hosted on the website of the transporter.
+(7)
+Shipper shall supply gas conforming to all parameters specified in sub-regulations (1), (4) to (6) and the transporter shall
+deliver gas at exit point conforming to parameters of gas as specified in sub-regulations (1),(4) and (5):
+Provided that the pressure and temperature shall be as per the contract between shipper and the transporter.
+6.
+System Use Gas (SUG), Line Pack (LP) and Transmission Losses (TL).
+- A shipper shall sell or provide the gas, if required by the transporter, for SUG, LP and TL at the prevailing market price
+in proportion to its capacity booking in the pipeline:
+Provided that, the transporter shall be free to arrange this gas from any other source.
+7.
+Measurement of gas.
+(1)
+The transporter shall ensure the provision of the entry and exit point equipments to measure gas composition, calorific
+value, pressure and temperature on continuous basis as specified in regulation 9.
+(2)
+The transporter shall divide the natural gas pipeline into a number of "a homogenous area" (AHA) and shall continuously
+measure the quality parameters by Gas Chromatograph (GC) in each AHA.
+(3)
+Measurement of CV and gas quality as provided in sub-regulations (1) and sub-regulation (2) shall be sufficient for
+billing and other contractual purposes for all exit points served by the AHA.
+(4)
+Total error limit and accuracy of the measuring equipment shall be as agreed to between the entities subject to any
+mandatory specifications, if any, laid down by the Board through regulations.
+(5)
+The transporter shall carry out verification, calibration or proving of measuring equipment as per the relevant codes and
+standards.
+(6)
+Either shipper or transporter may instal check meters at requisite points with a precondition so as not to interfere with
+the measurement equipment installed by the entity for custody transfer purpose.
+(7)
+Gas accounting shall be done on daily basis and the gas reconciliation, billing & other terms shall be as decided
+between the entities.
+8.
+Obligations at entry point and exit point.
+(1)
+At the entry point when the shipper delivers natural gas that does not meet the quality requirements as specified in
+sub-regulation (1), (4) to (6) of regulation 5, in respect of CV band and threshold level of other elements of gas, the
+transporter may-
+(a)
+refuse to accept it; or
+(b)
+accept any gas that does not meet the requirements of gas in terms of gas parameters-
+(i)
+as specified at Schedule II:
+Provided that transporter may charge reasonable cost of service from the shipper, as may be mutually agreed, for any
+additional facilities or treatment for cleaning up or integrity requirements of the pipeline and to upgrade gas to pipeline
+Page 5/14
+----- PAGE 6 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+specifications;
+Provided further that such off-spec natural gas does not adversely affect the existing customers' quality specifications
+committed by the transporter at the exit points;
+(ii)
+as specified in sub regulations (1) and (4) of regulation 5:
+Provided that the transporter may charge the reasonable cost of service for the capacity adjustment from the shipper for
+transportation of such gas and for capacity constraints in the system:
+Provided further that such off-spec natural gas does not adversely affect the existing customers' quality specifications
+committed by the transporter at the exit points.
+(2)
+At the exit point when the transporter delivers gas that does not meet the quality requirements as specified in sub
+regulation (7) of regulation 5, the shipper may-
+(a)
+refuse to accept delivery and in such a case the transporter shall be liable to pay liquidated damages to the shipper as
+per their terms of contract; or
+(b)
+accept the gas and in such case no charges shall be payable by transporter.
+9.
+Facilities at entry point and exit point.
+(1)
+Shipper shall arrange to deliver gas at entry point on the pipeline system and shall provide all facilities, including
+measuring equipments, required for transfer of custody and delivery of gas to the transporter unless otherwise agreed to
+between shipper and transporter.
+(2)
+Transporter shall execute hooking up facility of shipper to the entry point at the cost of shipper.
+(3)
+Shipper or his authorized nominee shall own, operate and maintain facilities upstream of entry points at his own cost
+and risk unless the facilities are provided by the transporter under a separate contract.
+(4)
+The transporter shall own and operate facilities including measuring equipments at exit point for transfer of custody and
+delivery of gas to the shipper unless otherwise agreed to between shipper and transporter and the exit point gas
+parameters shall be mutually agreed to between shipper and transporter.
+(5)
+The transporter shall execute, at the cost of shipper, the facility of hooking up of shipper facility with that of transporter at
+exit point.
+(6)
+The shipper shall provide space and cooperate with the transporter in installing, operating, maintaining and modifying
+any specific, exit point facilities when such exit point facilities are provided in the premises of the shipper.
+(7)
+The shipper may provide check meter, conforming to the applicable standard and specifications, at the delivery point in
+natural gas pipeline:
+Provided that in case of any variation in the readings in the meter of transporter and shipper, the reading of the
+transporter meter shall be taken as final.
+(8)
+In case of any dispute in metering, the meter proving or certification shall be carried out by an accredited third party as
+approved by the Board.
+(9)
+In case of any fault in the meter of transporter, the expenses on this account shall be borne by the transporter and in
+case no fault is found in the meter, the expenses shall be borne by the shipper.
+10.
+Pipeline capacity booking.
+Page 6/14
+----- PAGE 7 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+(1)
+More than one shipper can hold capacity at any entry or exit point.
+(2)
+The booked capacity shall be through a contract between shipper and transporter under "Access Arrangements" in the
+form of MDQ.
+(3)
+When a transporter receives a request for access from a shipper it shall respond within three days after receiving the
+request from the shipper-
+(a)
+confirming that spare capacity exists to satisfy the request and specifying the charges and terms and conditions upon
+which it will make the service available;
+(b)
+advising that spare capacity does not exist to satisfy the request;
+(c)
+advising that the data provided by the shipper require technical study to accommodate his request and such study shall
+be completed within seven days from the date of receipt of request; or
+(d)
+advising that it is not technically or operationally feasible to provide access.
+(4)
+shipper may release the capacity in favour of other shippers to the extent of the capacity booked.
+(5)
+The shipper may assign in part or full the capacity booked by him or trade in open market and the transporter shall
+deliver the capacity in physical terms to any person or entity which wishes to take physical delivery on the basis of a
+valid contract.
+(6)
+The nomination of natural gas for transportation shall contain the expected gas flow details of one or more days
+daily-nominated quantities as per the agreed schedule between the shipper and the transporter.
+(7)
+The accounting of the gas shall be in energy terms and shall be based on Gross calorific value as defined in ISO
+6976-1:1983(E).
+11.
+Interconnection of two common carrier or contract carrier natural gas pipeline.
+(1)
+The interconnection of two common carrier or contract carrier pipeline systems may be necessitated by either a
+transporter or a shipper and such interconnection shall be allowed subject to capacity available in the receiving common
+carrier pipeline and when it is operationally and technically feasible.
+(2)
+The gas quality specifications for interconnecting pipelines should be compatible.
+(3)
+The cost of such interconnection point shall be borne by the entity that has triggered such requirement for
+interconnection and the cost of interconnection may include the cost of compression equipments for meeting the
+operational requirements for receiving natural gas in the common carrier system.
+(4)
+The execution of the interconnection facilities shall be carried out by the transporter who owns the system which
+receives the gas.
+(5)
+The interconnection point shall be mutually agreed between transporter and the shipper.
+(6)
+Interconnection of pipeline network is like adding an exit point to the existing pipeline and all such provisions shall be
+applicable for such interconnection.
+(7)
+Page 7/14
+----- PAGE 8 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+The authorized entity for receiving common carrier pipeline shall inform the Board in case any interconnection request is
+denied.
+12.
+Methodology for providing access.
+(1)
+The contracted capacity between a shipper and a transporter shall be for a gas quantity not exceeding the own firmed
+up capacity and aggregated volume contracted by the transporter for a period of more than a year.
+(2)
+The excess 33% capacity shall be allocated on common carrier principle on first come first serve basis:
+Provided that in case any capacity out of the 33% excess capacity under sub-regulation (2) is available at any time due
+to non-existence of demand from any shipper, then, the same may be utilized either by the authorized entity itself or
+could be contracted for a period of more than a year subject to the stipulation that in the event of any requirement by
+another shipper for transportation of gas on a common carrier basis, the entity shall make available the required
+capacity to the shipper within a period of thirty days of such requirement.
+13.
+System indiscipline and charges.
+(1)
+If the pipeline capacity has been utilized by the shipper without permission of the transporter over 110% of the capacity
+allocated, then, the shipper shall be charged for such unauthorized overrun by the transporter in a transparent manner
+on non-discriminatory basis.
+(2)
+If the shipper off-takes less quantity of gas from the pipeline system than injected into it, then, the shipper is creating
+positive imbalance and it shall be allowed a cumulative positive imbalance of ten per cent of allocated capacity as
+tolerance limit.
+(3)
+Positive imbalance up to ten per cent of the booked capacity shall not attract any positive imbalance charges and the
+shipper shall be charged by the transporter for positive imbalance charges in a transparent manner on
+non-discriminatory basis if it exceeds ten per cent.
+(4)
+If shipper off-takes more quantity of gas from the pipeline system than injected into it, then, the shipper is creating
+negative imbalance and the shipper shall be allowed a cumulative negative imbalance of five per cent of allocated
+capacity as a tolerance limit.
+(5)
+Negative imbalance of five per cent of the allocated capacity shall not attract any negative imbalance charges and the
+shipper shall be charged by the transporter for negative imbalance charges in a transparent manner on non
+discriminatory basis if it exceeds five percent.
+(6)
+Charges for the system indiscipline, that is, for unauthorized overrun positive imbalance and negative imbalance shall be
+on daily basis in terms of maximum daily quantity.
+(7)
+Subject to sub-regulation (8), the transporter shall maintain the pipeline system in such a way that the allowed positive
+imbalance of 10% or negative imbalance of 5% does not interfere with the operations of the pipeline and shall ensure
+that the shippers get their allocated quantities within acceptable contractual variations, at specified gas parameters at
+exit points.
+(8)
+It shall be the responsibility of the defaulting shipper to cure imbalances beyond the permissible limit caused by it in
+transporter's pipeline and in case, the defaulting shipper is unable to cure such imbalances within a period of fifteen
+days, then, the transporter shall have the right to adjust daily-nominated quantity of such shipper to mitigate such
+imbalances to ensure safety and integrity of pipeline system.
+(9)
+In case the transporter and the shipper have entered into an agreement which recognizes an aggregated volume of
+Page 8/14
+----- PAGE 9 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+natural gas on periodic basis and the shipper makes commitment to avail the capacity intermittently within a period less
+than one year, the imbalances and overrun charges shall be calculated on maximum daily quantity basis as scheduled
+by the shipper and the transporter.
+(10)
+[ (i) There shall be established an escrow account to be maintained by the Board from the date of the commencement of
+Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract Carrier Natural Gas
+Pipelines) Amendment Regulations, 2019, in which there shall be credited all charges received by the transporter on
+account of imbalances and overruns. The imbalance and overrun charges shall be as follows:
+S.No.
+Item
+Particulars
+Charges
+1.
+Unauthorised Overrun
+Beyond 110% of the allocated capacity
+½ time Tariff of natural gas pipeline
+2.
+Positive Imbalance
+Cumulative Imbalance beyond 10% of booked
+capacity
+½ time Tariff of natural gas pipeline
+3.
+Negative Imbalance
+Cumulative Imbalance beyond 5% of booked
+capacity
+½ time Tariff of natural gas pipeline
+(ii)
+The transporter shall raise a separate invoice towards imbalance and overrun charges, including applicable taxes and
+levies. The transporter shall deposit the taxes and levies with the concerned authorities.
+(iii)
+The transporter shall make all reasonable efforts for recovering the imbalance and overruns charges referred to in
+clause (ii) from the shipper within the period it allows shipper to pay its transportation charges.
+(iv)
+The transporter shall deposit the amounts received by it from the shipper on account of the charges referred to in clause
+(ii) (excluding taxes and levies) into the escrow account maintained by the Board within a period of fifteen days from the
+end of the calendar quarter during which such amounts were received by it along with such details thereof as the Board
+may require from time to time. Transporter is not allowed to retain or deduct any amount (except for taxes and levies)
+received by it except the claim approved by the Board under clause (viii).
+(v)
+The transporter shall submit to the Board month-wise, pipeline-wise and shipper-wise details of such charges as are
+recoverable from each shipper, amounts received from the shippers and the amounts due from shippers and its
+reconciliation with the amount deposited in accordance with as specified in clause (iv), quarterly within a period of sixty
+days from the end of each quarter along with a certificate from a Chartered Accountant certifying such details and
+further, at the end of each financial year, an annual certificate containing the said details shall be submitted by the
+transporter to the Board along with the certificate for the fourth quarter. Format for providing such details is as specified
+in Schedule III to these regulations.
+(vi)
+The transporter may claim from the escrow account maintained by the Board the amounts incurred by it towards its
+contractual obligations with reference to supply or pay and extra efforts to compress gas in case of negative imbalances
+and system management of the pipeline system due to such imbalances created by the shippers:
+Provided that such claim shall not exceed the amount deposited by him in the escrow account.
+Page 9/14
+----- PAGE 10 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+(vii)
+The claim under clause (vi) may be submitted annually by the transporter to the Board within 60 days of the end of each
+financial year with details such as details of amounts incurred by it, its bank account details, Permanent Account
+Number and detailed rationale of such claim, along with a certificate from a Chartered Accountant certifying such details.
+(viii)
+The Board shall consider such claims on merits and may seek such further information as it may deem fit and the Board
+shall communicate the amount of claim approved to the transporter within 60 days from receipt of complete information,
+which may be deducted by the transporter from the subsequent deposits to be made by it into the escrow account.
+(ix)
+The accumulated amounts lying in the escrow account established by the transporter along with interest and any other
+earnings thereon shall be deposited by the transporter into the escrow account established by Board within thirty days
+from the commencement of the Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or
+Contract Carrier Natural Gas Pipelines) Amendment Regulations, 2019. The transporter shall submit year-wise,
+pipeline-wise and shipperwise details of total imbalance and overrun charges received by it from all the shippers, details
+of deposit of such charges in its escrow account, details of withdrawal from such escrow account and details of interest
+or any other earnings from such escrow account up to the date of transfer of whole amount to the escrow account
+operated by the Board along with a certificate from a Chartered Accountant certifying these details within ninety days
+from the commencement of the Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or
+Contract Carrier Natural Gas Pipelines) Amendment Regulations, 2019, and further, if transporter deducts or retains any
+amount from the imbalance and overrun charges received from shippers before depositing it in the escrow account
+maintained by it in any of the past period, the transporter is required to submit the year wise details thereof along with
+certificate from chartered accountant to the Board.
+(x)
+The Board may issue such interim order as it thinks fit, either on the application of the transporter or on its own, to
+remove any difficulty in implementing the provisions of clause (ix) where the accumulations are invested by the
+transporter in deposits maturing beyond thirty days from the commencement of the Petroleum and Natural Gas
+Regulatory Board (Access Code for Common Carrier or Contract Carrier Natural Gas Pipelines) Amendment
+Regulations, 2019.]
+[***]
+[Omitted '(11)' by Notification No. F. No. PNGRB/M(C)/31 (Vol. III), dated 13.8.2019.]
+(12)
+The balance amount available in the escrow account, after the eligible withdrawal by the transporter, under sub clause
+(10) may be utilized in such a manner and for such purposes as may be specified by the Board.
+14.
+Planned maintenance.
+(1)
+The transporter is required to draw up and publish a maintenance plan well ahead of time for a defined period identifying
+those entry and exit points where gas flows may be restricted by maintenance works, the extent of the restrictions and
+the time of occurrence and the transporter shall plan such maintenance so as to minimize disruption to affected parties
+and can request information from shippers on their survival flows at entry and exit points to assist the transporter for
+such maintenance schedule.
+(2)
+Dates for scheduled maintenance shall be informed well in advance which can be adjusted on thirty days advance
+notice to and from affected shippers.
+(3)
+The planned maintenance period shall not exceed ten days in a year.
+15.
+Information about force majeure.
+(1)
+The affected party shall on occurrence of any force majeure -
+(a)
+Page 10/14
+----- PAGE 11 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+as soon as reasonably practicable notify each of the other parties of the occurrence and nature of the force majeure, the
+expected duration thereof insofar as the same can reasonably be assessed and the obligations of the affected party
+performance of which is affected thereby; and
+(b)
+from time to time thereafter provide to each other party reasonable details of the following, namely-
+(i)
+developments in the matters notified under clause (a);
+(ii)
+the steps being taken by the affected party to overcome the force majeure occurrence or its effects and to resume
+performance of its relevant obligations.
+(2)
+The entities shall be relieved of their respective obligations in the event of force majeure except for the obligation to pay
+when due.
+16.
+Operational planning.
+(1)
+Shipper shall make daily, weekly or monthly nominations to the transporter for the quantities that it wishes to deliver to at
+a particular entry point and off-take at a  particular exit point from the pipeline system on a daily basis in line with the
+provisions under these regulations.
+(2)
+(a)
+Transporter shall schedule the quantities of gas for transportation based on the nominations received and capacity
+available in the pipeline system.
+(b)
+Transporter may schedule the nomination for quantities over and above the booked capacity subject to a maximum of
+ten per cent of the declared pipeline capacity.
+(3)
+(a)
+Transporter shall allocate quantity of gas to various shippers as determined under clause (b) of sub-regulation (2) and
+as per the scheduling exercise.
+(b)
+Allocation scheduled shall be delivered to the shippers as per the destination wise (exit point wise) schedule prepared.
+17.
+Emergencies.
+- The procedures to be followed by shipper and the transporter in the event of an emergency shall be included in the
+access arrangements by shipper and transporter on mutually agreed terms.
+18.
+Confidentiality of information.
+- All documentation, information, data, submissions and comments disclosed or delivered whether in writing or otherwise
+by any entity to the transporter, shipper or to any other party either in connection with or in consequence of the
+requirements of these regulations shall be regarded and treated as confidential and shall not be disclosed either in full or
+part of any or all of the documentation, information, data, submissions and comments including the contents and copies
+thereof in any form except in connection with any proceedings in any court.
+19.
+Miscellaneous.
+- If any dispute arises with regards to the interpretation of any of the provisions of these regulations, the decision of the
+Board shall be final.
+I
+Format for declaring capacity of Pipeline
+(see regulation 4(2))
+1. Name of entity:
+Page 11/14
+----- PAGE 12 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+2. Name of pipeline:
+3. Section wise capacity on the pipeline (to be furnished for each section separately):
+(a)
+Number of sections:
+(b)
+Name of section with start and end point:
+(c)
+Capacity - (i) Volume terms (ii) Energy terms
+4. Number of AHAs:
+5. Number' of entry points on the pipeline route:
+6. Location of entry points:
+7. Number of exit points:
+8. Location of exit points:
+9. Entry point wise capacity (to be furnished separately for each entry point):
+10. Exit point wise capacity (to be furnished separately for each exit point):
+11. Technical parameters:
+(a)
+Inlet pressure at entry point:
+(b)
+Calorific value band at entry point:
+(c)
+Temperature:
+(d)
+Other elements as per Schedule-II:
+12. Status of extra capacity available in the pipeline system on common carrier basis:
+13. Details of common carrier capacity being used by transporter itself or on contract carrier basis:
+14. Any demand pending with the transporter for common carrier usage of the pipeline alongwith duration of such
+pendency:
+15. Preference on entry and exit points:
+II
+(see regulations 5(5), 8(1)(b)(i))
+Gas quality specifications
+Parameters
+Limit
+Hydrocarbons dew pt (Degree Celsius, max.)*
+0
+Water dew pt (Degree Celsius, max)*
+0
+Hydrogen Sulphide (ppm by wt. max.)
+5
+Total Sulphur (ppm by wt. max.)
+10
+Carbon dioxide (mole % max.)
+6
+Total inerts (mole % )
+8
+Temperature (Degree Celsius, max.)
+55
+Oxygen (% mole vol. max.)
+0.2
+*At the pipeline operating pressure.
+Page 12/14
+----- PAGE 13 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+[Schedule - III]
+[Inserted by Notification No. F. No. PNGRB/M(C)/31 (Vol. III), dated 13.8.2019.]
+[See regulations 13(10)(v)]
+Format for providing the information of imbalance and overrun charges
+Format for proving quarterly information:
+Information for the Quarter .... of Financial Year 20...-20...
+Name of Natural Gas Pipeline:
+Name of Shipper
+Invoiced Amount
+Amount Outstanding
+Amount Received
+Month 1
+Shipper 1
+-
+-
+-
+Shipper 2
+-
+-
+-
+Shipper 3
+-
+-
+-
+Month 2
+Shipper 1
+-
+-
+-
+Shipper 2
+-
+-
+-
+Shipper 3
+-
+-
+-
+Month 3
+Shipper 1
+-
+-
+-
+Shipper 2
+-
+-
+-
+Shipper 3
+-
+-
+-
+TOTAL
+Page 13/14
+----- PAGE 14 -----
+The Petroleum and Natural Gas Regulatory Board (Access Code for Common Carrier or Contract...
+-
+-
+-
+Taxes and levies
+(part of invoice, to be deposited with statutory authorities)
+-
+-
+-
+Amount transferred to escrow account
+-
+Format Providing annual information:
+Information for the Financial Year 20...-20...
+Name of Natural Gas Pipeline:
+Quarter
+Invoiced Amount
+Amount Outstanding
+Amount Received
+Quarter 1
+-
+-
+-
+Quarter 2
+-
+-
+-
+Quarter 3
+-
+-
+-
+Quarter 4
+-
+-
+-
+Total
+-
+-
+-
+Taxes and levies (part of invoice, to be
+deposited with statutory authorities)
+-
+-
+Amount transferred to escrow account
+-
+[Substituted by Notification No. F. No. PNGRB/M(C)/31 (Vol. III), dated 13.8.2019.]
+Related AI tags, queries and research notes
+Translation
+Page 14/14

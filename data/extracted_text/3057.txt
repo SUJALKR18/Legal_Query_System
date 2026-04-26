@@ -1,0 +1,2525 @@
+
+----- PAGE 1 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Source: https://indiankanoon.org/doc/193574658/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+UNION OF INDIA
+India
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Rule THE-SHIPPING-BILL-AND-BILL-OF-EXPORT-FORMS-REGULATIONS-2017 of 2017
+Published on 29 June 2017
+Commenced on 29 June 2017
+[This is the version of this document from 29 June 2017.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Published vide Notification No. G.S.R. 729(E), dated 29th June, 2017
+Last Updated 3rd April, 2019
+Ministry of Finance
+(Department of Revenue)
+(Central Board of Excise and Customs)
+No. 60 /2017-Customs (N.T.)
+G.S.R. 729(E). - In exercise of the powers conferred by section 157 read with sections 50 and 60 of the Customs Act,
+1962 (
+52 of 1962
+), and in supersession of the Shipping Bill and Bill of Export (Form) Regulations, 1991, except as respect things done or
+Page 1/47
+----- PAGE 2 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+omitted to be done before such supersession, the Board hereby makes the following regulations, namely:-
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Shipping Bill and Bill of Export (Forms) Regulations, 2017.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Shipping Bill.
+- A shipping bill to be presented by an exporter of goods shall be in Form SB I or Form SB II, as the case may be,
+appended to these regulations.
+3.
+Bill of Export.
+- A bill of export to be presented by an exporter of goods shall be in Form SB III or Form SB IV, as the case may be,
+appended to these regulations.
+4.
+Specifications of Shipping Bill and Bill of Export (Form).
+- The Shipping Bill and Bill of Export forms shall be in accordance with the following specifications, namely :-
+(a)
+the forms shall be printed on foolscap size of paper measuring 34.5 cms by 21.5 cms and shall have the following
+margins, namely :-
+(i)
+top -1.5 cms; (ii) bottom -1.5 cms; (iii) left -1.8 cms; (iv) right - 0.5 cms; the layout of the forms and the sizes of the boxes
+shall be as per the layout and boxes shown in the forms.
+(b)
+the forms shall be printed on paper of grammage 70 to 85 grams per square metre; the paper should be stable in
+conditions of 50 to 60 per cent. relative humidity;
+(c)
+the captions inside the boxes of the forms shall be printed in 6 pt. mono sans-serif and shall be located as near as
+possible to the top left of the boxes;
+(d)
+the forms shall be filled in by using a typewriter or computer only.
+[Form SB I]
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+(See regulation 2)
+Shipping Bill for Export of Goods
+Original
+SB No. & Date
+Customs Station Code
+IEC Code [GSTIN/ UIN/ PAN etc. as applicable]
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Pre-Carriage by
+Vessel/ Flight No.
+Port of Loading
+Place of Receipt by Pre-Carrier
+Rotation No.
+Port of Discharge/ Country of Discharge
+Foreign Exchange Details :
+Page 2/47
+----- PAGE 3 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details : [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Invoice Value
+Currency of Invoice
+Exchange Rate U/S 14 of Customs Act
+Total Value ( in Rupees)
+INCOTERM
+Nature of Payment
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+v. Discount
+vi. Other Deductions
+Currency
+Amount
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+Page 3/47
+----- PAGE 4 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+-
+-
+-
+-
+-
+Export duty related details, if any :
+Sl. No.
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Page 4/47
+----- PAGE 5 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Quantity of the inputs consumed
+Whether imported or indigenous
+SION
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work ] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl. No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Container Details:[If export cargo is factory stuffed cargo] :
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Declaration :
+I/ We declare that all particulars given herein are true and correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated ...........                                          Signature of Exporter/ CB & Date
+Shipping Bill for Export of Goods
+Original
+Documents Submitted
+1.
+Invoice
+Page 5/47
+----- PAGE 6 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+[     ]
+2.
+Packing List
+[     ]
+3.
+Export License
+[     ]
+4.
+Indent
+[     ]
+5.
+Acceptance of Contract
+[     ]
+6.
+Letter of Credit
+[     ]
+7.
+QC Certificate
+[     ]
+8.
+Port Trust Document
+[     ]
+9.
+Any other (Specify)
+[     ]
+[Form SB I]
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+(See regulation 2)
+Shipping Bill for Export of Goods
+Duplicate
+SB No. & Date
+Customs Station Code
+IEC Code [GSTIN/ UIN/ PAN etc. as applicable]
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Pre-Carriage by
+Vessel/ Flight No.
+Port of Loading
+Place of Receipt by Pre-Carrier
+Rotation No.
+Port of Discharge/ Country of Discharge
+Foreign Exchange Details :
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details : [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Invoice Value
+Currency of Invoice
+Exchange Rate U/S 14 of Customs Act
+Page 6/47
+----- PAGE 7 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Total Value ( in Rupees)
+INCOTERM
+Nature of Payment
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+v. Discount
+vi. Other Deductions
+Currency
+Amount
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+-
+-
+-
+-
+-
+Export duty related details, if any :
+Sl. No.
+Page 7/47
+----- PAGE 8 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Quantity of the inputs consumed
+Page 8/47
+----- PAGE 9 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Whether imported or indigenous
+SION
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work ] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl. No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Container Details:[If export cargo is factory stuffed cargo] :
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Declaration :
+I/ We declare that all particulars given herein are true and correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated ...........                                          Signature of Exporter/ CB & Date
+Shipping Bill for Export of Goods
+Duplicate
+I/ We claim drawback of Rs.
+....................... under Section 74/75 of Customs Act, 1962 and
+Customs, Central Excise Duties and Service Tax Drawback Rules,
+1995/ Customs and Central Excise Duties Drawback Rules, 2017. I/
+We certify that the export goods are new/ used for ....... I/ We
+certify that I/ We have compelled with the conditions laid down
+in the said Rules and the conditions subject to which Drawback
+Rates are applicable.
+Documents Submitted
+1. Invoice
+Page 9/47
+----- PAGE 10 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+2. Packing List
+3. Export License
+4. Indent
+5. Acceptance of Contract
+6. Letter of Credit
+7. QC Certificate
+8. Port Trust Document
+9. Any Other Document (specify)
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+1. Name and Address of Bank
+2. Account No.   3. DBK Ledger No.
+Item No. in S/B
+S.No. of Dbk Schedule
+Qty./ Wt. on which Dbk claimed
+Value on which Dbk claimed
+Rate of Dbk
+Amount of Dbk
+Total Dbk
+Customs
+Excise
+Customs
+Excise
+Total Amount in words: Rupees .....................
+Signature of Exporter/ CB
+'Let Export'
+'Allowed for Shipment'
+Signature of Officer of Customs
+Signature of Officer of Customs
+Vessel's name may be altered after check with  original Entry
+for                      Fee Rs.
+Fresh one may be granted to .........................
+For the portion shutout or not shipped
+Received
+Handed over to CB./ Party            Signature of Asstt. Commissioner of
+Customs             Cashier
+Contents Received on Board
+Date of Shipment'
+Date                                      Signature of Master of Vessel
+Signature of Officer of Customs
+Examination Order and Report
+[Form SB I]
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+(See regulation 2)
+Page 10/47
+----- PAGE 11 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Shipping Bill for Export of Goods
+Triplicate
+SB No. & Date
+Customs Station Code
+IEC Code [GSTIN/ UIN/ PAN etc. as applicable]
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Pre-Carriage by
+Vessel/ Flight No.
+Port of Loading
+Place of Receipt by Pre-Carrier
+Rotation No.
+Port of Discharge/ Country of Discharge
+Foreign Exchange Details :
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details : [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Invoice Value
+Currency of Invoice
+Exchange Rate U/S 14 of Customs Act
+Total Value ( in Rupees)
+INCOTERM
+Nature of Payment
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+v. Discount
+vi. Other Deductions
+Currency
+Amount
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+Page 11/47
+----- PAGE 12 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+-
+-
+-
+-
+-
+Export duty related details, if any :
+Sl. No.
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Page 12/47
+----- PAGE 13 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Quantity of the inputs consumed
+Whether imported or indigenous
+SION
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work ] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl. No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Page 13/47
+----- PAGE 14 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Container Details:[If export cargo is factory stuffed cargo] :
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Declaration :
+I/ We declare that all particulars given herein are true and correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated ...........                                          Signature of Exporter/ CB & Date
+Shipping Bill for Export of Goods
+Triplicate
+I/ We claim drawback of Rs.
+....................... under Sec. 74/75 of Customs Act, 1962 and
+Customs, Central Excise Duties and Service Tax Drawback Rules,
+1995/ Customs and Central Excise Duties Drawback Rules, 2017. I/
+We certify that the export goods are new/ used for ....... I/ We
+certify that I/ We have compelled with the conditions laid down
+in the said Rules and the conditions subject to which Drawback
+Rates are applicable.
+Documents Submitted
+1. Invoice
+2. Packing List
+3. Export License
+4. Indent
+5. Acceptance of Contract
+6. Letter of Credit
+7. QC Certificate
+8. Port Trust Document
+9. Any Other Document (specify)
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+1. Name and Address of Bank
+2. Account No.   3. DBK Ledger No.
+Item No. in S/B
+S.No. of Dbk Schedule
+Qty./ Wt. on which Dbk claimed
+Value on which Dbk claimed
+Rate of Dbk
+Amount of Dbk
+Total Dbk
+Customs
+Excise
+Page 14/47
+----- PAGE 15 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Customs
+Excise
+Total Amount in words: Rupees .....................
+Signature of Exporter/ CB
+For Department
+Officer
+Verified that the amount of DBK as claimed above
+is admissible subject to description found correct on the basis
+of physical examination/ test etc.
+Calculation Checked.
+Pre-Receipt Form
+Received the sum of Rs. ............................. as
+drawback
+Signature of A.O. & Stamp
+Comptist
+Revenue Stamp
+signature of Exporter/ CB
+'Let Export'
+'Allowed for Shipment'
+Signature of Officer of Customs
+Signature of Officer of Customs
+Claim Pre-audited for Sanction                                     Claimed passed for Rs. ................
+Inspector(Audit)                                                               Supdt./AC
+Claim Registration No. ........... Issued Cheque No. ......... Dated .............
+For Rs. ..................................... (Rupees ..................................)
+Dealing Clerk                                                                  Officer
+Examination Order and Report
+[Form SB I]
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+(See regulation 2)
+Shipping Bill for Export of Goods
+(Export Promotion Copy)
+Quadruplicate
+SB No. & Date
+Customs Station Code
+IEC Code [GSTIN/ UIN/ PAN etc. as applicable]
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Pre-Carriage by
+Vessel/ Flight No.
+Port of Loading
+Place of Receipt by Pre-Carrier
+Rotation No.
+Port of Discharge/ Country of Discharge
+Foreign Exchange Details :
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details : [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Page 15/47
+----- PAGE 16 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Invoice Value
+Currency of Invoice
+Exchange Rate U/S 14 of Customs Act
+Total Value ( in Rupees)
+INCOTERM
+Nature of Payment
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+v. Discount
+vi. Other Deductions
+Currency
+Amount
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+-
+-
+-
+-
+Page 16/47
+----- PAGE 17 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+-
+Export duty related details, if any :
+Sl. No.
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+Page 17/47
+----- PAGE 18 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Quantity of the inputs consumed
+Whether imported or indigenous
+SION
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work ] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl. No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Container Details:[If export cargo is factory stuffed cargo] :
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Declaration :
+I/ We declare that all particulars given herein are true and correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated ...........                                          Signature of Exporter/ CB & Date
+Shipping Bill for Export of Goods
+(Export Promotion Copy)
+Quadruplicate
+Verified Mate's Receipt No. .....................................................
+of ..................................................... Issued
+................................................. by
+........................................... For
+.................................................... Cases/
+Bales/ Packages/ Containers
+Page 18/47
+----- PAGE 19 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+................................................ Shipped
+....................................................... per
+......................................... which
+sailed on
+..........................................................................
+From ............................................. Under
+Preventive Supervision
+Signature of Officer of Customs
+OR
+Shipment declared on this Shipping Bill has been air-freighted
+on
+Flight No. ................................... Dated
+..................................................................
+AWB No. ................................... EGM No.
+.............................................................
+Under Preventive Supervision in full/ part (specify quantity
+air-freighted)
+Signature of Officer of Customs
+Form SB II
+(See regulation 2)
+Shipping Bill for Export of Duty Free Goods Ex-Bond
+Original
+Exporter, whether Government or Private
+Invoice No. & Date
+SB No. & Date
+Import-Export Code No. [GSTIN/ UIN/ PAN etc. as applicable]
+Buyer Name & Address
+Consignee (if different from Buyer)
+State of origin of goods
+Customs Broker LIC No.
+Deferred Credit           [   ]
+Joint Ventures             [   ]
+Rupee Credit               [   ]
+Others                           [   ]
+RBI's Approval/ Cir. No. & Date
+Pre-Carriage by
+Place of Receipt by Pre-Carrier
+Type of Shipment :
+Outright Sale                [   ]
+Consignment Export   [   ]
+Others (Specify)          [   ]
+Vessel/ Flight No.
+Rotation No.
+Port of Loading
+Others [ ]   (Specify) [   ]
+Port of Discharge [   ]
+Exchange Rate U/S 14 of CA [   ]
+S. No.
+Marks & Nos.
+No. & Kind of Pkgs. Container Nos.
+2[Statistical Code, Description of Goods, and FTP
+Page 19/47
+----- PAGE 20 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Scheme Code, where applicable]
+Quantity
+Value
+Net Weight
+Gross Weight
+Total FOB Value in words
+Analysis of Export Value
+Currency
+Amount
+Full export value OR
+where not ascertainable, the value which exporter expects to
+receive on the sale of goods.
+Currency
+..............................................Amount
+................................................
+FOB Value
+Freight
+Rate
+Insurance
+Commission
+Discount
+Other Deductions
+Import Particulars of Bonded Goods
+Bill of Entry No. & Date
+Vessels Name and Rotation No.
+No. of Pkgs.
+Bond No. & Date
+Name of Bonded Warehouse
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No.
+............................ dated ......
+Signature of Exporter/ CB & Date
+Shipping Bill for Export of Duty Free Goods Ex-Bond
+Original
+Documents Submitted
+1.
+Invoice
+[   ]
+2.
+Packing List
+[   ]
+3.
+Indent
+[   ]
+4.
+Acceptance of Contract
+[   ]
+Page 20/47
+----- PAGE 21 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+5.
+Letter of Credit
+[   ]
+6.
+QC Certificate
+[   ]
+7.
+Port Trust Document
+[   ]
+8.
+Any other (Specify)
+[   ]
+Form SB II
+(See regulation 2)
+Shipping Bill for Export of Duty Free Goods Ex-Bond
+Duplicate
+Exporter, whether Government or Private
+Invoice No. & Date
+SB No. & Date
+Import-Export Code No. [GSTIN/ UIN/ PAN etc. as
+applicable]
+State of origin of goods
+Consignee
+Deferred Credit           [   ]
+Joint Ventures              [   ]
+Customs Broker LIC No.
+Rupee Credit               [   ]
+Others                           [   ]
+RBI's Approval/ Cir. No. & Date
+Pre-Carriage by
+Place of Receipt by Pre-Carrier
+Type of Shipment :
+Outright Sale                [   ]
+Consignment Export   [   ]
+Others (Specify)          [   ]
+Vessel/ Flight No.
+Rotation No.
+Port of Loading
+Others [ ]   (Specify) [ ]
+Port of Discharge [ ]
+Exchange Rate U/S 14 of CA
+Currency of Invoice
+S. No.
+Marks & Nos.
+No. & Kind of Pkgs. Container Nos.
+2[Statistical Code, Description of Goods, and FTP
+Scheme Code, where applicable]
+Quantity
+2[Value
+Net Weight
+Gross Weight
+Page 21/47
+----- PAGE 22 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Total FOB Value in words
+Analysis of Export Value
+Currency
+Amount
+Full export value OR
+where not ascertainable, the value which exporter expects to
+receive on the sale of goods.
+Currency
+..............................................Amount
+................................................
+FOB Value
+Freight
+Rate
+Insurance
+Commission
+Discount
+Other Deductions
+Import Particulars of Bonded Goods
+Bill of Entry No. & Date
+Vessels Name and Rotation No.
+No. of Pkgs.
+Bond No. & Date
+Name of Bonded Warehouse
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No.
+............................ dated ......
+Signature of Exporter/ CB & Date
+Shipping Bill for Export of Duty Free Goods Ex-Bond
+Duplicate
+Documents Submitted
+1.
+Invoice
+[   ]
+2.
+Packing List
+[   ]
+3.
+Indent
+[   ]
+4.
+Acceptance of Contract
+[   ]
+5.
+Letter of Credit
+[   ]
+6.
+QC Certificate
+Page 22/47
+----- PAGE 23 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+[   ]
+7.
+Port Trust Document
+[   ]
+8.
+Any other (Specify)
+[   ]
+'Let Export'
+'Allowed for Shipment'
+Signature of Officer of Customs
+Signature of Officer of Customs
+Vessel's name may be altered after check with original
+Fee Rs.
+Entry for
+Fresh one may be granted to
+.................................................
+for the portion shutout or not shipped
+Received
+Handed over to CB/ Party Cashier
+Signature of Asstt. Commissioner of Customs
+Contents Received on Board
+Date of Shipment
+Date
+Signature of Master of Vessel
+Signature of Officer of Customs
+Examination Order and Report
+Form SB II
+(See regulation 2)
+Shipping Bill for Export of Duty Free Goods Ex-Bond Export Promotion Copy
+Triplicate
+Exporter, whether Government or Private
+Invoice No. & Date
+SB No. & Date
+Import-Export Code No. [GSTIN/ UIN/ PAN etc. as
+applicable]
+State of origin of goods
+Consignee
+Deferred Credit           [   ]
+Joint Ventures              [   ]
+Customs Broker LIC No.
+Rupee Credit               [   ]
+Others                           [   ]
+RBI's Approval/ Cir. No. & Date
+Pre-Carriage by
+Place of Receipt by Pre-Carrier
+Type of Shipment :
+Outright Sale                [   ]
+Consignment Export   [   ]
+Others (Specify)          [   ]
+Vessel/ Flight No.
+Rotation No.
+Page 23/47
+----- PAGE 24 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Port of Loading
+Others [ ]   (Specify) [ ]
+Port of Discharge [ ]
+Exchange Rate U/S 14 of CA
+Currency of Invoice
+S. No.
+Marks & Nos.
+No. & Kind of Pkgs. Container Nos.
+2[Statistical Code, Description of Goods, and FTP
+Scheme Code, where applicable]
+Quantity
+2[Value
+Net Weight
+Gross Weight
+Total FOB Value in words
+Analysis of Export Value
+Currency
+Amount
+Full export value OR
+where not ascertainable, the value which exporter expects to
+receive on the sale of goods.
+Currency
+..............................................Amount
+................................................
+FOB Value
+Freight
+Rate
+Insurance
+Commission
+Discount
+Other Deductions
+Import Particulars of Bonded Goods
+Bill of Entry No. & Date
+Vessels Name and Rotation No.
+No. of Pkgs.
+Bond No. & Date
+Name of Bonded Warehouse
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No.
+............................ dated ......
+Signature of Exporter/ CB & Date
+Shipping Bill for Export of Duty Free Goods Ex-Bond Export Promotion Copy
+Triplicate
+Verified Mate's Receipt No.
+........................................................ of
+...................................................................................
+Issued by
+Page 24/47
+----- PAGE 25 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+..........................................................................................................
+For .............................................. Cases/
+Bales/ Packages/ Containers
+...............................................................................
+Shipped per
+...........................................................................................................................................................................
+Which sailed on
+....................................................................................................................................................................
+From
+......................................................................................................................................................................................
+Under Preventive Supervision
+Signature of Officer of Customs
+OR
+Shipment declared on this Shipping Bill has been air freighted
+on
+Flight No. ....................................... Dated
+.............................................................................................................
+AWB No. ....................................... EGM No.
+.......................................................................................................
+Under Preventive Supervision in full/ part (Specify quantity
+air freighted).
+Signature of Officer of Customs
+[SB III
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+]
+(See regulation 3)
+Bill for Export for Goods
+Original
+SB No. & Date
+Customs Station Code
+IEC Code
+[GSTIN/ UIN/ PAN etc. as applicable]
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Lorry No./ Goods Train & Wagon No.
+Originating From
+Place of Delivery
+Land Customs Station
+Others (specify)
+Foreign Exchange Details:
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details: [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Invoice Value
+Currency of Invoice
+Exchange Rate U/S 14 of Customs Act
+Total Value (in Rupees)
+INCOTERM
+Page 25/47
+----- PAGE 26 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Nature of Payment
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+v. Discount
+vi. Other Deductions
+Currency
+Amount
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+-
+-
+-
+-
+-
+Export duty related details, if any:
+Sl. No.
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Page 26/47
+----- PAGE 27 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Quantity of the inputs consumed
+Whether imported or indigenous
+SION
+Page 27/47
+----- PAGE 28 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl.No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Container Details : [If export cargo is factory stuffed cargo]
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated
+............................
+Signature of Exporter/ CB & Date
+Bill of Export for Goods
+Original
+Documents Submitted
+1.
+Invoice
+[     ]
+2.
+Packing List
+[     ]
+3.
+Export License
+Page 28/47
+----- PAGE 29 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+[     ]
+4.
+Indent
+[     ]
+5.
+Acceptance of Contract
+[     ]
+6.
+Letter of Credit
+[     ]
+7.
+QC Certificate
+[     ]
+8.
+Any other (Specify)
+[     ]
+[SB III
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+]
+(See regulation 3)
+Bill for Export for Goods
+Duplicate
+SB No. & Date
+Customs Station Code
+IEC Code
+[GSTIN/ UIN/ PAN etc. as applicable]
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Lorry No./ Goods Train & Wagon No.
+Originating From
+Place of Delivery
+Land Customs Station
+Others (specify)
+Foreign Exchange Details:
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details: [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Invoice Value
+Currency of Invoice
+Exchange Rate U/S 14 of Customs Act
+Total Value (in Rupees)
+INCOTERM
+Nature of Payment
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+Page 29/47
+----- PAGE 30 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+v. Discount
+vi. Other Deductions
+Currency
+Amount
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+-
+-
+-
+-
+-
+Export duty related details, if any:
+Sl. No.
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Page 30/47
+----- PAGE 31 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Quantity of the inputs consumed
+Whether imported or indigenous
+SION
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Page 31/47
+----- PAGE 32 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl.No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Container Details : [If export cargo is factory stuffed cargo]
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated
+............................
+Signature of Exporter/ CB & Date
+Bill of Export for Goods
+Duplicate
+I/ We claim drawback of Rs.
+....................... under Sec. 74/75 of Customs Act, 1962 and
+Customs, Central Excise Duties and Service Tax Drawback Rules,
+1995/ Customs and Central Excise Duties Drawback Rules, 2017. I/
+We certify that the export goods are new/ used for ....... I/ We
+certify that I/ We have compelled with the conditions laid down
+in the said Rules and the conditions subject to which Drawback
+Rates are applicable.
+Documents Submitted
+1. Invoice
+2. Packing List
+3. Export License
+4. Indent
+5. Acceptance of Contract
+6. Letter of Credit
+Page 32/47
+----- PAGE 33 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+7. QC Certificate
+8. Any Other Document (specify)
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+1. Name and Address of Bank
+2. Account No.   3. DBK Ledger No.
+Item No. in S/B
+S.No. of Dbk Schedule
+Qty./ Wt. on which Dbk claimed
+Value on which Dbk claimed
+Rate of Dbk
+Amount of Dbk
+Total Dbk
+Customs
+Excise
+Customs
+Excise
+Total Amount in words: Rupees .....................
+Signature of Exporter/ CB
+'Let Export'
+'Allowed for Shipment'
+Signature of Officer of Customs
+Signature of Officer of Customs
+Carrier's name & Lorry No./ Goods Train & Wagon No. may be altered after check with  original     Fee Rs.
+Entry
+forFresh one may be granted to .........................
+For the portion shutout or not shipped
+Received
+Handed over to CB./ Party            Signature of Asstt. Commissioner of
+Customs             Cashier
+Contents Received on Board
+Date of Shipment'
+Date                                                                     For Carrier
+Signature of Officer of Customs
+Examination Order and Report
+[SB III
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+]
+(See regulation 3)
+Bill for Export for Goods
+Triplicate
+SB No. & Date
+Customs Station Code
+IEC Code
+[GSTIN/ UIN/ PAN etc. as applicable]
+Page 33/47
+----- PAGE 34 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Lorry No./ Goods Train & Wagon No.
+Originating From
+Place of Delivery
+Land Customs Station
+Others (specify)
+Foreign Exchange Details:
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details: [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Invoice Value
+Currency of Invoice
+Exchange Rate U/S 14 of Customs Act
+Total Value (in Rupees)
+INCOTERM
+Nature of Payment
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+v. Discount
+vi. Other Deductions
+Currency
+Amount
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+Page 34/47
+----- PAGE 35 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+-
+-
+-
+-
+-
+Export duty related details, if any:
+Sl. No.
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Page 35/47
+----- PAGE 36 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Quantity of the inputs consumed
+Whether imported or indigenous
+SION
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl.No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Container Details : [If export cargo is factory stuffed cargo]
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Page 36/47
+----- PAGE 37 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated
+............................
+Signature of Exporter/ CB & Date
+Bill of Export for Goods
+Triplicate
+I/ We claim drawback of Rs.
+....................... under Sec. 74/75 of Customs Act, 1962 and
+Customs, Central Excise Duties and Service Tax Drawback Rules,
+1995/ Customs and Central Excise Duties Drawback Rules, 2017. I/
+We certify that the export goods are new/ used for ....... I/ We
+certify that I/ We have compelled with the conditions laid down
+in the said Rules and the conditions subject to which Drawback
+Rates are applicable.
+Documents Submitted
+1. Invoice
+2. Packing List
+3. Export License
+4. Indent
+5. Acceptance of Contract
+6. Letter of Credit
+7. QC Certificate
+8. Any Other Document (specify)
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+[   ]
+1. Name and Address of Bank
+2. Account No.   3. DBK Ledger No.
+Item No. in S/B
+S.No. of Dbk Schedule
+Qty./ Wt. on which Dbk claimed
+Value on which Dbk claimed
+Rate of Dbk
+Amount of Dbk
+Total Dbk
+Customs
+Excise
+Customs
+Excise
+Total Amount in words: Rupees .....................
+Signature of Exporter/ CB
+For Department Officer
+Page 37/47
+----- PAGE 38 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Pre-Receipt Form
+Verified that the amount of DBK as claimed above
+is admissible subject to description found correct on the basis
+of physical examination/ test etc.
+Calculation Checked.
+Received the sum of Rs.
+................................................... as drawback
+RevenueStamp
+Signature of A.O. & Stamp
+Comptist
+Signature of Exporter/ CB
+'Let Export'
+'Allowed for Despatch'
+Signature of Officer of Customs
+Signature of Officer of Customs
+Claim Pre-audited for SanctionInspector (Audit)
+Claimed passed for Rs.  ...............Supdt./ AC
+Claim Registration No. ........... Issued Cheque No.
+...................... Dated .............
+For Rs. ..................................................
+(Rupees ..................................................)
+Dealing Clerk
+Officer
+Examination Order and Report
+[SB III
+[Substituted by Notification No. G.S.R. 239(E), dated 25.3.2019 (w.e.f. 29.6.2017.]
+]
+(See regulation 3)
+Bill For Export For Goods
+(Export Promotion Copy)
+Quadruplicate
+SB No. & Date
+Customs Station Code
+IEC Code
+[GSTIN/ UIN/ PAN etc. as applicable]
+Exporter Name & Address
+Buyer Name & Address
+Consignee (if different from Buyer)
+Customs Broker & License No.
+Lorry No./ Goods Train & Wagon No.
+Originating From
+Place of Delivery
+Land Customs Station
+Others (specify)
+Foreign Exchange Details:
+Authorized Dealer Code
+RBI Waiver No. & Date, if any
+Commercial Invoice Details: [To be provided separately for each Invoice]
+Commercial Invoice Nos. & date
+Invoice Value
+Currency of Invoice
+Page 38/47
+----- PAGE 39 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Exchange Rate U/S 14 of Customs Act
+Total Value (in Rupees)
+INCOTERM
+Analysis of Export Value
+i. FOB
+ii. Freight
+iii. Insurance
+iv. Commission
+Currency
+Amount
+Nature of Payment
+v. Discount
+vi. Other Deductions
+Cargo Details: [To be provided separately for each Invoice]
+Nature of Cargo
+Gross Weight
+Net Weight
+No. and kind of packages
+Marks & Nos.
+Item Level Details at Invoice level: [To be provided separately for each Invoice]
+Sl. No.
+Description of goods
+Quantity Code
+Quantity
+Unit Value
+Total value of Item
+Total
+-
+-
+-
+Item Level Details for the Shipping Bill :
+Sl. No.
+Marks & Nos.
+No. and kind of packages
+Description of Goods
+UQC
+Quantity
+Unit Value
+Total Value
+PMV (Where applicable)
+Statistical Code
+Scheme Code
+Total
+-
+-
+-
+-
+-
+-
+-
+Export duty related details, if any:
+Page 39/47
+----- PAGE 40 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Sl. No.
+Customs Tariff Head
+Assessable Value under Sec. 14 of CA
+Export Duty
+Cess
+Total Export Duty & Cess Amount (In numbers &
+words)
+Duty payment particulars
+Rate
+Amount
+Rate
+Amount
+IGST Details :
+Whether supply meant for export on payment of
+IGST (Y/N)
+Total amount of IGST paid, if applicable
+Whether supply meant for export under bond or
+letter of undertaking without payment of IGST (Y/N)
+Details of Bond or LUT
+Total Value of Supply of Goods
+Taxable value of supply of goods
+Invoice Nos. & Date (Issued under GST Tax
+Invoice, Credit & Debit Notes Rules 2017)
+Item Sr. No.
+CTH
+Goods description
+Value of Supply of Goods
+Whether IGST Paid (Y/N)
+Whether Compensation Cess Paid (Y/N)
+Rate at which IGST Paid
+Rate at which Compensation Cess Paid
+Amount of IGST Paid
+Amount of Compensation Cess Paid
+Export Scheme/ Job Work/ Re-export Details :
+A. EPCG Scheme [Scheme Code] :
+Item Sl. No. in the shipping Bill
+Whether Export is third party Export
+IEC [GSTIN/ UIN/ PAN etc] of manufacturer in case
+of 'third Party Export'
+Authorization No. and Date
+Sl. No. of Export item as per the Export Item
+list in the Authorization
+B. Advance Authorisation/ DFIA [Scheme Code] [details of inputs used for the manufacture of export goods] :
+Item Sl. No. in the shipping Bill
+Authorization No. and Date
+Description of the Export goods and the Sl. No.
+in the Authorization
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods and the Sl. No. in the
+Authorization
+Page 40/47
+----- PAGE 41 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Quantity of the inputs consumed
+Whether imported or indigenous
+SION
+C. Export of Goods in anticipation of issue of an Advance Authorisation :
+Item Sl. No. in the shipping Bill
+Description of the Export goods
+Export Quantity
+Name and Description of the inputs consumed in
+the manufacturing of Export goods
+Quantity of the inputs consumed
+SION
+D. Job Work Details : [details in relation to import goods worked upon during job work] :
+B/E No. & Date
+Customs Station Code of Import
+Description of goods imported
+Quantity Imported
+Quantity consumed in export goods
+Bond & BG details
+Value Addition in percentage
+E. Exports under claim of drawback under section 74 :
+Item Sl.No. in the Shipping Bill
+Bill of Entry No. and date
+Sl. No. of the goods in the Bill of Entry
+Description of goods as per the Bill of Entry
+Marks and Identification numbers at the time of
+import
+Whether imported goods used (Y/N)
+Date of payment/ debit of duty on importation
+Duty paid at the time of importation
+Container Details : [If export cargo is factory stuffed cargo]
+Sl. No.
+Type of Container
+Size of Container
+Container No.
+Seal No.
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS.
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No. ............................ Dated
+............................
+Signature of Exporter/ CB & Date
+Bill of Export for Goods
+(Export Promotion Copy)
+Quadruplicate
+Verified Railway Receipt No./ Lorry Waybill No.
+............................... Dated ...................... of
+.............................................. issued by
+For .......................................... Cases/ Bales/ Packages/
+Containers
+Page 41/47
+----- PAGE 42 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+.................................................................................
+Desptchedper
+.............................................................
+which lefton
+...................................................................
+From
+..................................................................................................................Under Preventive Supervision
+Signature of Officer of Customs
+SB IV
+(See regulation 3)
+Bill of Export for Duty Free Goods Ex-Bond
+Original
+Exporter, whether Government or Private
+Invoice No. & Date
+SB No. & Date
+Import-Export Code No. [GSTIN/ UIN/ PAN etc. as
+applicable]
+Buyer Name & Address
+Consignee (if different from Buyer)
+State of origin of goods
+Customs Broker LIC No.
+Deferred Credit           [   ]
+Joint Ventures              [   ]
+Rupee Credit               [   ]
+Others                           [   ]
+RBI's Approval/ Cir. No. & Date
+Lorry No./ Goods Train & Wagon No.
+Originating From
+Type of Shipment :
+Outright Sale                [   ]
+Consignment Export   [   ]
+Others (Specify)          [   ]
+Land Customs Station
+Others (specify)
+Place of Delivery
+Exchange Rate U/S 14 of CA
+S. No.
+Marks & Nos.
+No. & Kind of Pkgs. Container Nos.
+2[Statistical Code, Description of Goods, and FTP
+Scheme Code, where applicable]
+Quantity
+2[Value
+Net Weight
+Gross Weight
+Total FOB Value in words
+Analysis of Export Value
+Currency
+Amount
+Full export value OR
+where not ascertainable, the value which exporter expects to
+Page 42/47
+----- PAGE 43 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+receive on the sale of goods.
+Currency
+..............................................Amount
+................................................
+FOB Value
+Freight
+Rate
+Insurance
+Commission
+Discount
+Other Deductions
+Import Particulars of Bonded Goods
+Bill of Entry No. & Date
+Vessels Name and Rotation No.
+No. of Pkgs.
+Bond No. & Date
+Name of Bonded Warehouse
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No.
+............................ dated ......
+Signature of Exporter/ CB & Date
+Bill of Export for Duty Free Goods Ex-Bond
+Original
+Documents Submitted
+1.
+Invoice
+[   ]
+2.
+Packing List
+[   ]
+3.
+Indent
+[   ]
+4.
+Acceptance of Contract
+[   ]
+5.
+Letter of Credit
+[   ]
+6.
+QC Certificate
+[   ]
+7.
+Port Trust Document
+[   ]
+SB IV
+(See regulation 3)
+Page 43/47
+----- PAGE 44 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Bill of Export for Duty Free Goods Ex-Bond
+Duplicate
+Exporter, whether Government or Private
+Invoice No. & Date
+SB No. & Date
+Import-Export Code No. [GSTIN/ UIN/ PAN etc. as
+applicable]
+Buyer Name & Address
+State of origin of goods
+Customs Broker LIC No.
+Deferred Credit           [   ]
+Joint Ventures              [   ]
+Rupee Credit               [   ]
+Others                           [   ]
+RBI's Approval/ Cir. No. & Date
+Lorry No./ Goods Train & Wagon No.
+Originating From
+Type of Shipment :
+Outright Sale                [   ]
+Consignment Export   [   ]
+Others (Specify)          [   ]
+Land Customs Station
+Others (specify)
+Place of Delivery
+Exchange Rate U/S 14 of CA
+Currency of Invoice
+S. No.
+Marks & Nos.
+No. & Kind of Pkgs. Container Nos.
+2[Statistical Code, Description of Goods, and FTP
+Scheme Code, where applicable]
+Quantity
+2[Value
+Net Weight
+Gross Weight
+Total FOB Value in words
+Analysis of Export Value
+Currency
+Amount
+Full export value OR
+where not ascertainable, the value which exporter expects to
+receive on the sale of goods.
+Currency
+..............................................Amount
+................................................
+FOB Value
+Freight
+Rate
+Insurance
+Commission
+Discount
+Page 44/47
+----- PAGE 45 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Other Deductions
+Import Particulars of Bonded Goods
+Bill of Entry No. & Date
+Vessels Name and Rotation No.
+No. of Pkgs.
+Bond No. & Date
+Name of Bonded Warehouse
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No.
+............................ dated ......
+Signature of Exporter/ CB & Date
+Bill of Export for Duty Free Goods Ex-Bond
+Duplicate
+Documents Submitted
+1.
+Invoice
+[   ]
+2.
+Packing List
+[   ]
+3.
+Indent
+[   ]
+4.
+Acceptance of Contract
+[   ]
+5.
+Letter of Credit
+[   ]
+6.
+QC Certificate
+[   ]
+7.
+Port Trust Document
+[   ]
+'Let Export'
+'Allowed for Shipment'
+Signature of Officer of Customs
+Signature of Officer of Customs
+Vessel's name may be altered after check with  original Entry
+for                      Fee Rs.
+Fresh one may be granted to .........................
+For the portion shutout or not shipped
+Handed over to CB./ Party            Signature of Asstt. Commissioner of
+Customs            Received Cashier
+Contents Received on Board
+Date of Shipment'
+Page 45/47
+----- PAGE 46 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+Date                                               For carrier
+Signature of Officer of Customs
+Examination Order and Report
+SB IV
+(See regulation 3)
+Bill of Export for Duty Free Goods Ex-Bond
+Export Promotion Copy
+Triplicate
+Exporter, whether Government or Private
+Invoice No. & Date
+SB No. & Date
+Import-Export Code No. [GSTIN/ UIN/ PAN etc. as
+applicable]
+Buyer Name & Address
+State of origin of goods
+Customs Broker LIC No.
+Deferred Credit           [   ]
+Joint Ventures              [   ]
+Rupee Credit               [   ]
+Others                           [   ]
+RBI's Approval/ Cir. No. & Date
+Lorry No./ Goods Train & Wagon No.
+Originating From
+Type of Shipment :
+Outright Sale                [   ]
+Consignment Export   [   ]
+Others (Specify)          [   ]
+Land Customs Station
+Others (specify)
+Port of Discharge
+Exchange Rate U/S 14 of CA
+Currency of Invoice
+S. No.
+Marks & Nos.
+No. & Kind of Pkgs. Container Nos.
+2[Statistical Code, Description of Goods, and FTP
+Scheme Code, where applicable]
+Quantity
+2[Value
+Net Weight
+Gross Weight
+Total FOB Value in words
+Analysis of Export Value
+Currency
+Amount
+Full export value OR
+where not ascertainable, the value which exporter expects to
+receive on the sale of goods.
+Currency
+..............................................Amount
+................................................
+Page 46/47
+----- PAGE 47 -----
+The Shipping Bill and Bill of Export (Forms) Regulations, 2017
+FOB Value
+Freight
+Rate
+Insurance
+Commission
+Discount
+Other Deductions
+Import Particulars of Bonded Goods
+Bill of Entry No. & Date
+Vessels Name and Rotation No.
+No. of Pkgs.
+Bond No. & Date
+Name of Bonded Warehouse
+Declaration :
+I/ We declare that all particulars given herein are true and
+correct.
+I/ We intend to claim rewards under MEIS
+I/ We also attach the declaration(s) under clause No.(s)...
+Public Notice No.
+............................ dated ......
+Signature of Exporter/ CB & Date
+Bill of Export for Duty Free Goods Ex-Bond
+Export Promotion Copy
+Triplicate
+Verified Mate's Receipt No. .....................................................
+of ..................................................... Issued
+................................................. by
+........................................... For
+.................................................... Cases/
+Bales/ Packages/ Containers
+................................................ Shipped
+....................................................... per
+......................................... which
+sailed on
+..........................................................................
+From ............................................. Under
+Preventive Supervision
+Signature of Officer of Customs
+Related AI tags, queries and research notes
+Translation
+Page 47/47

@@ -1,0 +1,2226 @@
+
+----- PAGE 1 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Jammu and Kashmir State Electricity Regulatory Commission (Terms
+and Conditions for Determination of Multi Year Generation Tariff)
+Regulations, 2016
+Source: https://indiankanoon.org/doc/170882347/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Jammu-Kashmir - Act
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determination of Multi Year
+Generation Tariff) Regulations, 2016
+JAMMU & KASHMIR
+India
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determination of Multi Year
+Generation Tariff) Regulations, 2016
+Rule
+JAMMU-AND-KASHMIR-STATE-ELECTRICITY-REGULATORY-COMMISSION-TERMS-AND-CONDITIONS-FOR-DET
+ERMINATION-OF-MULTI-YEAR-GENERATION-TARIFF-REGULATIONS-2016 of 2016
+Published on 19 December 2016
+Commenced on 19 December 2016
+[This is the version of this document from 19 December 2016.]
+[Note: The original publication document is not available and this content could not be verified.]
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determination of Multi Year
+Generation Tariff) Regulations, 2016
+Published vide Notification No. 54-JKSERC of 2016, dated 19.12.2016
+Page 1/42
+----- PAGE 2 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+No. 54-JKSERC of 2016. - In exercise of powers conferred by section 138, read with sections 55, 56 and 71 of the J&K
+Electricity Act, 2010 (Act XIII of 2010) and all other powers enabling it in this behalf, the J&K State Electricity Regulatory
+Commission hereby makes the following Regulations, namely :-
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determination of Multi Year
+Generation Tariff) Regulations, 2016
+Part-I Preliminary
+1.
+Short title and commencement.
+- 1.1 These Regulations may be called the Jammu and Kashmir State Electricity Regulatory Commission (Terms and
+Conditions for Determination of Multi Year Generation Tariff) Regulations, 2016.
+1.2
+These shall come into force on the date of their publication in the Government Gazette and shall be applicable for
+determination of tariff for the period FY 2018-19 to FY 2020-21 in a manner as specified in these Regulations. The
+subsequent Control Period for these Regulations shall be of five (5) years or as may be specified by the Commission.
+2.
+Scope and extent of application.
+- 2.1. These Regulations shall apply in the following cases :-
+(a)
+Where tariff for a generating station or a unit thereof is required to be determined by the Commission under section 56 of
+the J&K Electricity Act, 2010 ;
+(b)
+Where tariff has been determined bilaterally between the State Government and the Utility prior to the allotment of the
+project to the Utility for construction, operation and maintenance and for which power purchase agreement has been
+approved by the Commission based upon such tariff, the Commission shall adopt such tariff together with the terms and
+conditions of such approved power purchase agreement ;
+(c)
+Where the Government of J&K notifies a policy to encourage investment in the State by allowing setting up of generating
+plants, out of which certain percentage of installed capacity as decided by the GoJK from time to time, can be procured
+by the Distribution Licensees of the State of J&K for which the tariff may be determined under Section 56 of the
+Electricity Act, 2010.
+(d)
+Where tariff may be determined by the Commission for hydroelectric projects which meet the following criteria :-
+(i)
+The Commission is satisfied that the project site has been allotted to the developer by the Government of J&K after
+following a transparent two stage process. The first stage should be for prequalification on the basis of criteria of
+financial strength, past experience of developing infrastructure projects of similar size, past track record of developing
+projects on time and within estimated costs, turnover and ability to meet performance guarantee etc. In the second
+stage, bids are to be called on the basis of quantifiable parameter, such as, additional free power in excess of
+percentage of free power, as notified by the State Government, equity participation offered to the Government of J&K, or
+any other parameter to be notified by the State Government from time to time.
+(ii)
+Concurrence of CEA (if required under Section 8 of the Act), financial closure, award of work and long term Power
+Purchase Agreement (PPA) (of the duration of 35 years or more) of the capacity specified in (iii) below with distribution
+licensees are completed by 15-08-2022.
+(iii)
+Long term PPA is firmed up for 60% or more of the total saleable design energy, balance being allowed for merchant
+sale :
+Provided that distribution licensees can extend the duration of long term PPA beyond 35 years for a further period of 15
+years at the existing terms and conditions subject to the approval of Appropriate Commission :
+Provided further that nothing contained in this Regulation shall apply to Pumped Storage Plants (PSP).
+(iv)
+Page 2/42
+----- PAGE 3 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+The time period for commissioning of all the units of the project shall ordinarily be fixed at four years from the date of
+approval of the commissioning schedule by the Commission. However, the Commission may, after recording reasons in
+writing, fix longer time period for hydroelectric projects (reservoir as well as run-of- river projects) of more than 100 MW
+capacity. Agreed timelines to achieve the fixed commissioning schedule along with penalty for delay shall be decided by
+the Commission. The Commission shall allow pass through the Interest During Construction (IDC) and Financing Cost
+(FC) only up to the period of delay not attributable to the developer. The approval of CEA, wherever required under
+Section 8 of the Act, shall be sought.
+(v)
+Award of contracts for supply of equipment and construction of the project, either through a turnkey or through well
+defined packages, are done on the basis of international competitive bidding.
+Notwithstanding anything contained in Regulation 2.1 (d) above, the developers of hydroelectric projects of more than
+100 MW design capacity for which sites have been awarded earlier by following a transparent process and on the basis
+of pre-determined set of criteria would have the option of getting the tariff determined by the Commission for the power
+to be sold through long term PPA on the basis of cost plus under Section 56 of the Act.
+2.2
+These Regulations shall not apply to,-
+(a)
+The tariff of generating companies, owned or controlled by the Central Government.
+(b)
+Generating stations whose tariff has been discovered through tariff based competitive bidding in accordance with the
+guidelines issued under Section 57 of J&K Electricity Act, 2010.
+(c)
+Generating stations based on renewable sources of energy whose tariff is determined in accordance with the JKSERC
+(Terms and Conditions for Tariff Determination from Renewable Energy Sources) Regulations, 2013 and amendments
+thereof.
+(d)
+The tariff of generating companies, other than owned or controlled by the Central Government as specified in Regulation
+(a) above, if such generating companies enter into or otherwise have a composite scheme for generating and sale of
+electricity in more than one state.
+2.3
+These Regulations shall extend to the whole of the State of Jammu and Kashmir.
+3.
+Definitions.
+(1)
+"Act" means the Jammu and Kashmir Electricity Act, 2010 (Act No. XIII of 2010), including amendments thereto.
+(2)
+"Accounting Statement" means for each financial year the following statements, namely :-
+(i)
+Balance sheet, prepared in accordance with the form contained in Part I of Schedule VI to the Companies Act,
+1956/Schedule III to the Companies Act, 2013 and as amended from time to time ; together with notes thereto, and such
+other supporting statements and information as the Commission may direct from time to time ;
+(ii)
+Profit and loss account, complying with the requirements contained in Part II of Schedule VI to the Companies Act,
+1956/Schedule III to the Companies Act, 2013 and as amended from time to time ;
+(iii)
+Cash flow statement, prepared in accordance with the Accounting Standard on Cash Flow Statement (AS-3) of the
+Institute of Chartered Accountants of India ;
+(iv)
+Report of the statutory auditor(s) of the Generating Company ;
+(v)
+Directors report and accounting policies ; and
+Page 3/42
+----- PAGE 4 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+(vi)
+Cost records, if any, prescribed by the Central Government under Section 209(1) (d) of the Companies Act, 1956/
+Schedule III to the Companies Act, 2013 and as amended from time to time.
+(3)
+"Additional Capitalization" means the capital expenditure actually incurred or projected to be incurred, after the date of
+commercial operation of the Project and admitted by the Commission after prudence check, subject to provisions of
+Regulation10.9.
+(4)
+"Authority" means Central Electricity Authority as referred to in section 70 of the Electricity Act, 2003 (Central Act 36 of
+2003).
+(5)
+"Aggregate Revenue Requirement or ARR" means for each financial year, the costs pertaining to the generating
+company which are permitted, in accordance with these Regulations, to be recovered from the tariffs and charges
+determined by the Commission.
+(6)
+"Applicant" means a generating company who has made an application for determination of tariff or an application for
+annual performance review/True-up in accordance with the Act and these Regulations and includes a Generating
+Company whose tariff is the subject of a review by the Commission either suo motu or on a Petition filed by any
+interested or affected person or as part of an Annual Performance Review/ True-up.
+(7)
+"Auxiliary Energy Consumption" in relation to a period means the quantum of energy consumed by auxiliary equipment
+of the generating station, such as the equipment being used for the purpose of operating plant and machinery including
+switchyard of the generating station and transformer losses within the generating station, and shall be expressed as a
+percentage of the sum of gross energy generated at generator terminals of all the units of the generating station :
+Provided that auxiliary energy consumption shall not include energy consumed for supply of power to housing colony
+and other facilities at the generating station and the power consumed for construction works at the generating station.
+(8)
+"Auditor" means an auditor appointed by the generating company, in accordance with the provisions of Chapter X of the
+Companies Act, 2013 (18 of 2013) or any other law for the time being in force.
+(9)
+"Base Year" means the Financial Year immediately preceding the first year of the Control Period, and used for the
+purposes of these Regulations i. e. FY 2017-18.
+(10)
+"Beneficiary" in relation to a generating station means any entity buying power generated at such a generating station,
+whose tariff is determined under these Regulations.
+(11)
+"Block" in relation to a combined cycle thermal generating station includes combustion turbine-generator, associated
+waste heat recovery boiler, connected steam turbine-generator and auxiliaries.
+(12)
+"Capital cost" means the capital cost as defined in Regulation 10.7.
+(13)
+"CERC" or "Central Commission" means the Central Electricity Regulatory Commission.
+(14)
+"Change in Law" means occurrence of any of the following events :-
+(i)
+the enactment, bringing into effect, adoption, promulgation, amendment, modification or repeal of any law ; or
+(ii)
+change in interpretation of any law by a competent court, Tribunal or Indian Governmental Instrumentality which is the
+final authority under law for such interpretation ; or
+(iii)
+change by any competent statutory authority, in any consent, approval or licence available or obtained for the project ;
+Page 4/42
+----- PAGE 5 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+(iv)
+coming into force or change in any bilateral or multilateral agreement/treaty between the Government of India and any
+other Sovereign Government having implication for the generating station regulated under these Regulations.
+(15)
+"Commission" means Jammu and Kashmir State Electricity Regulatory Commission.
+(16)
+"Control Period" means a multi-year period fixed by the Commission, from 1st April, 2018 and up to 31st March, 2021 ;
+(17)
+"Cut-off Date" means 31st March of the year closing after two years of the year of commercial operation of the project,
+and in case the project is declared under commercial operation in the last quarter of a year, the cut-off date shall be 31st
+March of the year closing after three years of the year of commercial operation :
+Provided that the cut-off date may be extended by the Commission if it is proved on the basis of documentary evidence
+that the capitalization could not be made within the cut-off date for reasons beyond the control of the project developer.
+(18)
+"Date of Commercial Operation" or "COD" means,-
+(i)
+in relation to a unit or block of the thermal generating station, the date declared by the generating company after
+demonstrating the Maximum Continuous Rating (MCR) or the Installed Capacity (IC) through a successful trial run after
+notice to the beneficiaries, from 0000 hour of which scheduling process as per the Indian Electricity Grid Code (IEGC) is
+fully implemented, and in relation to the generation station as a whole, the date of commercial operation of the last unit
+or block of the generating station ;
+(ii)
+in relation to a unit of hydro generating station, the date declared by the generating company from 0000 hour of which,
+after notice to the beneficiaries, scheduling process in accordance with the Indian Electricity Grid Code is fully
+implemented and in relation to the generating station as a whole, the date declared by the generating company after
+demonstrating peaking capability corresponding to installed capacity of the generating station through a successful trial
+run, after notice to the beneficiaries.
+Note : - 1. In case the hydro generating station with pondage or storage is not able to demonstrate peaking capability
+corresponding to the installed capacity for the reasons of insufficient reservoir or pond level, the date of commercial
+operation of the last unit of the generating station shall be considered as the date of commercial operation of the
+generating station as a whole, provided that it will be mandatory for such hydro generating station to demonstrate
+peaking capability equivalent to installed capacity of the generating unit or the generating station as and when such
+reservoir/ pond level is achieved.
+2. In case of purely run-of-river hydro generating station if the unit or the generating station is declared under
+commercial operation during lean inflows period when the water is not sufficient for such demonstration, it shall be
+mandatory for such hydro generating station or unit to demonstrate peaking capability equivalent to installed capacity as
+and when sufficient inflow is available.
+(19)
+"Daily Capacity Index" means the declared capacity expressed as a percentage of the maximum available capacity for
+the day and shall be mathematically expressed as hereunder :-
+Daily Capacity Index = Declared Capacity (MW) x 100/Maximum Available Capacity (MW).
+Daily Capacity Index shall be limited to 100%.
+(20)
+"Day" means the 24 hour period starting at 0000 hour.
+(21)
+"Declared capacity" means the capability to deliver ex-bus electricity in MW declared by such generating station in
+relation to any time block of the day as defined in the Grid Code or whole of the day, duly taking into account the
+availability of fuel or water, and subject to further qualification in the relevant regulation :-
+(a)
+For run-of-river power station with pondage and storagetype power stations, declared capacity means the ex-bus
+capacity in MW expected to be available from the generating station over the peaking hours of next day, as declared by
+Page 5/42
+----- PAGE 6 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+the generator, taking into account the availability of water, optimum use of water and availability of machines and for this
+purpose, the peaking hours shall not be less than 3 hours within 24 hour period ; and
+(b)
+In case of purely run-of-river power stations, declared capacity means the ex-bus capacity in MW expected to be
+available from the generating station during the next day, as declared by the generating station, taking into account the
+availability of water, optimum use of water and availability of machines.
+(22)
+"De-capitalization" for the purpose of the tariff under these regulations, means reduction in Gross Fixed Assets of the
+project corresponding to the removal/deletion of assets as admitted by the Commission.
+(23)
+"De-Commissioning" means removal from service of a generating station or a unit thereof including communication
+system or element thereof, after it is certified by the Central Electricity Authority or any other authorized agency, either
+on its own or on an application made by the project developer or the beneficiaries or both, that the project cannot be
+operated due to non-performance of the assets on account of technological obsolescence or uneconomic operation or a
+combination of these factors.
+(24)
+"Deemed Generation" means the energy, which a generating station was capable of generating but could not generate
+due to the conditions of grid or power system beyond the control of generating station resulting in spillage of water.
+(25)
+"Design Energy" in case of hydro generating station, means the quantum of energy which can be generated in a 90%
+dependable year with 95% installed capacity of the hydro generating station ;
+(26)
+"Existing generating station/project" means a generating station/project declared under commercial operation from a
+date prior to 01-04-2018.
+(27)
+"Expenditure Incurred" means the fund, whether the equity or debt or both, actually deployed and paid in cash or cash
+equivalent, for creation or acquisition of a useful asset and does not include commitments or liabilities for which no
+payment has been released.
+(28)
+"Financial Year" means a period commencing on 1st April of a calendar year and ending on 31st March of the
+subsequent calendar year.
+(29)
+"Force Majeure" for the purpose of these Regulations means the event or circumstance or combination of events or
+circumstances including those stated below which partly or fully prevents the generating company to complete the
+project within the time specified in the Investment Approval, and only if such events or circumstances are not within the
+control the generating company and could not have been avoided, had the generating company taken reasonable care
+or complied with prudent utility practices -
+(a)
+Act of God including lightning, drought, fire and explosion, earthquake, volcanic eruption, landslide, flood, cyclone,
+typhoon, tornado, geological surprises, or exceptionally adverse weather conditions which are in excess of the statistical
+measures for the last hundred years ; or
+(b)
+Any act of war, invasion, armed conflict or act of foreign enemy, blockade, embargo, revolution, riot, insurrection,
+terrorist or military action ; or
+(c)
+Industry-wide strikes and labor disturbances having a nationwide impact in India.
+(30)
+"Generating Company" means any Company or body corporate or association or body of individuals, whether
+incorporated or not, or artificial juridical person, which owns or operates or maintains a generating station.
+(31)
+"Gross Calorific Value" or "GCV" in relation to a thermal generating station means the heat produced in kCal by
+Page 6/42
+----- PAGE 7 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+complete combustion of one kilogram of solid fuel or one litre of liquid fuel or one standard cubic meter of gaseous fuel,
+as the case may be.
+(32)
+"Gross Station Heat Rate" or "GHR" means the heat energy input in kCal required to generate one kWh of electrical
+energy at generator terminals of a thermal generating station.
+(33)
+"Generating Station" or "Station" means any station for generating electricity including any building and plant with
+step-up transformer, switch gear, switch yard, cables or other appurtenant equipment, if any used for that purpose and
+the site thereof ; a site intended to be used for a generating station, and any building used for housing the operating staff
+of a generating station, and where electricity is generated by water, power, includes penstocks, head and tail works,
+main and regulating reservoirs, dams and other hydraulic works, but does not in any case include any sub-station.
+(34)
+"Infirm power" means electricity generated prior to commercial operation of the unit of a generating station.
+(35)
+"Installed Capacity" means the summation of the name plate capacities of the units in the generating station or the
+capacity of the generating station (reckoned at the generator terminals) as approved by the Commission from time to
+time.
+(36)
+"Maximum available capacity" means the following :-
+(a)
+Run-of-river power station with pondage and storage type power stations. The maximum capacity in MW, the generating
+station can generate with all units running, under the prevailing conditions of water levels and flows over the peaking
+hours of next day.
+Explanation : -The peaking hours for this purpose shall not be less than 3 hours within a 24 hours period.
+(b)
+Purely run-of-river power stations -
+The maximum capacity in MW, the generating station can generate with all units running, under the prevailing conditions
+of water levels and flows over the next day.
+(37)
+"Maximum Continuous Rating" or "MCR" in relation to a unit of the thermal generating station means the maximum
+continuous output at the generator terminals, guaranteed by the manufacturer at rated parameters, and in relation to a
+block of a combined cycle thermal generating station means the maximum continuous output at the generator terminals,
+guaranteed by the manufacturer with water/steam injection (if applicable) and corrected to 50 Hz grid frequency and
+specified site conditions.
+(38)
+"Normative Annual Plant Availability Factor" or "NAPAF" in relation to a generating station means the availability factor
+specified in Regulation11.4 for thermal generating station and in Regulation12.3 for hydro generating station.
+(39)
+"Normative Annual Plant Load Factor" or "NAPLF" in relation to a generating station means the Plant Load Factor
+specified in Regulation 11.4 for thermal generating station.
+(40)
+"New generating station or new project" means a generating station or new project achieving COD on or after 1.04.2018.
+(41)
+"Operation and Maintenance Expenses" or "O&M Expenses" means the expenditure incurred in operation and
+maintenance of the generating station, including part thereof, including the expenditure on manpower, repairs, spares,
+consumables, insurance and overheads but excludes fuel expenses and water charges.
+(42)
+"Original Project Cost" means the expenditure incurred by the generating company, within the original scope of project
+up to the cut-off date as admitted by the Commission.
+(43)
+"Plant Availability Factor (PAF)" in relation to a generating station for any period means the average of the daily
+Page 7/42
+----- PAGE 8 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Declared Capacities (DCs) for all the days during that period expressed as a percentage of the installed capacity in MW
+reduced by the normative auxiliary energy consumption.
+(44)
+"Plant Load Factor (PLF)" in relation to thermal generating station or unit for a given period means the total sent out
+energy corresponding to scheduled generation during the period, expressed as a percentage of sent out energy
+corresponding to installed capacity in that period and shall be computed in accordance with the following formula:-
+N
+PLF| =10000 ? SGi/{NxICx(100-AUXn}%| x 100 = 88.436%
+i=1
+Where,
+IC = Installed Capacity of the generating station or unit in MW ;
+SGi = Scheduled Generation in MW for the ith time block of the period ;
+N = Number of time blocks during the period ; and
+AUXn = Normative Auxiliary Energy Consumption as a percentage of gross energy generation.
+(45)
+"Primary energy" means the quantum of energy generated up to design energy on per year basis at the generating
+station.
+(46)
+"Project" means a generating station and in case of a hydro generating station includes the complete hydro power
+generating facility covering all components such as dam, intake, water conductor systems, power generating station and
+generating units of the scheme as apportioned to power generation, power generating station and generating units of
+the scheme, as apportioned to power generation.
+(47)
+"Prudence Check" means scrutiny of reasonableness of capital expenditure incurred or proposed to be incurred ;
+financing plan, use of efficient technology, cost and time over-run and such other factors as may be considered
+appropriate by the Commission for determination of tariff. While carrying out the Prudence Check, the Commission shall
+look into whether the generating company has been careful in its judgments and decisions and vigilant in executing the
+project.
+(48)
+"Pumped storage hydro generating station" means a hydro station which generates power through energy stored in the
+form of water energy, pumped from a lower elevation reservoir to a higher elevation reservoir.
+(49)
+"Run-of-river power station" means a hydroelectric power generating station which has no upstream pondage.
+(50)
+"Run-of-river power station with pondage" means a hydroelectric power generating station with sufficient pondage for
+meeting the diurnal variation of power demand.
+(51)
+"Saleable Primary energy" means the quantum of primary energy available for sale (ex-bus) after allowing for free
+energy to the home state, if any.
+(52)
+"Saleable Secondary energy" means the quantum of secondary energy available for sale (ex-bus) after allowing for free
+energy to the home state, if any.
+(53)
+"Secondary energy" means the quantum of energy generated in excess of the design energy on per year basis at the
+station.
+(54)
+"Scheduled Commercial Operation Date or SCOD" shall mean the date(s) of commercial operation of a generating
+station or generating unit or block thereof or as indicated in the Investment Approval or as agreed in power purchase
+agreement, whichever is earlier.
+(55)
+"Scheduled energy" means the quantum of energy scheduled by the concerned Load Dispatch Centre to be injected into
+Page 8/42
+----- PAGE 9 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+the grid by a generating station over a day.
+(56)
+"Scheduled Generation" or "SG" at any time or for any period or time-block means schedule of generation in MW or
+MWh ex-bus, given by the State Load Despatch Centre.
+Note : - For the open cycle gas turbine generating station or a combined cycle generating station if the average
+frequency for any time-block, is below 49.52 Hz but not below 49.02 Hz and the scheduled generation is more than
+98.5% of the declared capacity, the scheduled generation shall be deemed to have been reduced to 98.5% of the
+declared capacity, and if the average frequency for any time-block is below 49.02 Hz and the scheduled generation is
+more than 96.5% of the declared capacity, the scheduled generation shall be deemed to have been reduced to 96.5% of
+the declared capacity.
+(57)
+"Small Gas Turbine Generating Station" means and includes open cycle gas turbine or combined cycle generating
+stations with gas turbines in the capacity range of 50 MW or below.
+(58)
+"State" means the State of Jammu and Kashmir.
+(59)
+"Small gas turbine generating station" means and includes open cycle gas turbine or combined cycle generating stations
+with gas turbines having capacity of 50 MW or below.
+(60)
+"Start Date or Zero Date" means the date indicated in the Investment Approval for commencement of implementation of
+the project and where no date has been indicated, the date of investment approval shall be deemed to be Start Date or
+Zero Date.
+(61)
+"Storage type power station" means a hydroelectric power generating station associated with large storage capacity to
+enable variation of generation of power according to demand.
+(62)
+"State Government" means the Government of Jammu and Kashmir.
+(63)
+"Tariff" shall mean the schedule of charges for generation and bulk supply of electricity together with terms and
+conditions applicable thereof ;
+(64)
+"Tariff Period" shall mean the period from 1st April, 2018 and up to 31st March, 2021 for which Tariff is determined by
+the Commission under these Regulations.
+(65)
+"Trial Run and Trial Operation" Trial Run in relation to generating station or unit thereof shall mean the successful
+running of the generating station or unit thereof at maximum continuous rating or installed capacity for continuous period
+of 72 hours in case of unit of a thermal generating station or unit thereof and 12 hours in case of a unit of a hydro
+generating station or unit thereof :
+Provided that where the beneficiaries have been tied up for purchasing power from the generating station, the trial run
+shall commence after seven days' notice by the generating company to the beneficiaries.
+(66)
+"Unit" in relation to a thermal generating station other than combined cycle thermal generating station means steam
+generator, turbine generator and auxiliaries, or in relation to a combined cycle thermal generating station, means turbine
+generator and auxiliaries ; and in relation to a hydro generating station means turbine generator and its auxiliaries.
+(67)
+"Useful life" in relation to a unit of a generating station from the COD shall mean the following, namely :-
+(i)
+Coal/Lignite based thermal generating station -25 years ;
+(ii)
+Gas/Liquid fuel based thermal generating station -25 years ; and
+(iii)
+Page 9/42
+----- PAGE 10 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Hydro generating station -35 years.
+(68)
+"Year" means a financial year.
+4.
+Words or expressions used in these regulations and not defined herein but defined in the Jammu and Kashmir Electricity
+Act, 2010 shall have the meaning assigned to them in the Act.
+5.
+All proceedings under these regulations shall be governed by the Conduct of Business Regulations.
+6.
+Tariff determination for associated transmission network/ lines.
+- 6.1 The tariff for the associated transmission network/lines of the generating stations shall be governed by the
+JKSERC (Terms and Conditions for Determination of Transmission Tariff) Regulations, 2012.
+7.
+Norms of operation to be threshold norms.
+- 7.1 For removal of doubts, it is clarified that the norms of operation specified under these Regulations are the threshold
+norms and this shall not preclude the generating company and Beneficiaries from agreeing to improved norms of
+operation and in such case the improved norms shall be applicable for the determination of tariff :
+Provided if Power Purchase Agreement between generating company and the beneficiary stipulates better norms of
+operation, then such norms provided in the Power Purchase Agreement shall be considered for the determination of
+tariff
+Part-II Tariff Framework and Guiding Principles for Multi Year Tariff (MYT) Framework
+8.
+Tariff framework.
+- 8.1 The Commission shall adopt Multi Year Tariff framework for approval of ARR and Tariff during the Control Period.
+8.2
+Accordingly, the Control Period shall commence from 1st April, 2018 and shall extend till 31st March, 2021. ARR filings
+for the Control Period shall be done in accordance with the MYT framework contained in these Regulations ;
+Multi Year Tariff Framework for the Control Period (FY 2018-19 to FY 2020-21)
+8.3
+The generating company shall file MYT application and other documents with the Commission as per the timelines
+specified in Regulation 18 of these Regulations. The Application shall include statements containing Aggregate Revenue
+Requirement (ARR) for the previous year, base year and the projections for Control Period. The information for the
+previous year should be based on audited accounts.
+8.4
+The Guiding Principles for MYT framework are described in Regulation 9 of these Regulations.
+8.5
+The principles for determination of ARR for the Control Period are described in Part-III of these Regulations and the
+procedure for annual filing during the control period is laid down in Part-IV of these Regulations.
+9.
+Guiding Principles for MYT framework.
+- 9.1 The Commission in specifying these Regulations shall be guided by the principles contained in Sections 55 and 56
+of the Act to encourage competition, efficiency, economical use of resources, good performance and optimum
+investments.
+9.2
+The Multi Year Tariff framework shall be based on the following :-
+(a)
+Business Plan of the generating company (plant-wise separately) for the entire Control Period to be submitted to the
+Commission for approval, prior to the start of the Control Period ;
+(b)
+Applicant's forecast of expected tariff for sale of power for each year of the Control Period, based on reasonable
+assumptions of the underlying financial and operational parameters, as submitted in the Business Plan ;
+Page 10/42
+----- PAGE 11 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+(c)
+Trajectory for specific parameters stipulated by the Commission, where the performance of the Applicant is sought to be
+improved through incentives and disincentives ;
+(d)
+Annual review of performance which shall be conducted vis-à-vis the approved forecast.
+Base Year. -
+9.3
+The values for the Base Year of the Control Period will be determined based on the audited accounts available, best
+estimate for the relevant years and other factors considered relevant by the Commission, and after applying the tests for
+determining the controllable or uncontrollable nature of various items.
+9.4
+The Commission will normally not revisit the performance targets even if the targets are fixed on the basis of base
+values of un-audited accounts.
+Business Plan. -
+9.5
+The generating company shall file for the Commission's approval, a Business Plan approved by the Board of Directors
+as per the timelines specified in Section 18 of these Regulations. The Business Plan shall be for the entire Control
+Period and shall, inter alia, contain :
+(a)
+Capital Investment Plan : This shall include details of the investments planned by the generating company, along with
+the corresponding capitalisation schedule and financing plan. This plan shall be commensurate with capacity
+enhancement and proposed efficiency improvements for various plants of the Company and shall include cost benefit
+analysis ;
+(b)
+Capital Structure : The generating company shall submit plant-wise details of the capital structure and cost of financing
+(interest on debt) and return on equity, after considering the existing market conditions, terms of the existing loan
+agreements, risks associated in generation business and creditworthiness ;
+(c)
+Operation and Maintenance (O&M) expenses : This shall include the costs estimated for the Base Year, the actual
+expenses incurred in the previous five years and the projected values for each year of the Control Period based on the
+proposed norms for O&M cost, including indexation and other appropriate mechanisms ;
+(d)
+Depreciation : This shall include details of depreciation based on the fair life of the asset and capitalisation schedules for
+each year of the Control Period ;
+(e)
+Performance Targets : A set of targets proposed for other controllable items such as NAPAF, NAPLF, Station Heat
+Rate, Secondary Fuel Oil Consumption, and Auxiliary Power Consumption. The targets shall be consistent with the
+Capital Investment Plan proposed by the generating company ;
+(f)
+Power Sale Arrangement : The generating company shall submit the power sale arrangement in respect of new projects.
+For renovation and modernization schemes and all schemes meant for efficiency gain, cost benefit analysis and
+expected performance targets shall be required ;
+(g)
+Other Information : This shall include any other details considered appropriate by the generating company for
+consideration during determination of tariff.
+Capital Investment Plan. -
+9.6
+Subject to the provisions of Act, Rules and Policies, the Commission shall approve capital investment plan of the
+generating company for the Control Period commensurate with generation capacity growth. The investment plan shall
+also include corresponding capitalisation schedule and financing plan.
+9.7
+Page 11/42
+----- PAGE 12 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+The Commission shall review the actual capital investment at the end of each year of the Control Period as a part of the
+Annual Performance Review of the generating company. The generating company shall submit the actual capital
+expenditure incurred along with the Annual Performance Review Filing. In the normal course, the Commission shall not
+revisit the approved capital investment plan (capital expenditure and capitalisation schedule) during the Control Period
+and adjustment to depreciation and financing cost, which includes cost of debt (interest), working capital interest, cost of
+equity (return) for the actual capital expenditure incurred and capitalisation vis-à-vis approved capital investment plan
+(capital expenditure and capitalisation) shall be done at the end of Control Period.
+9.8
+In case the capital expenditure is required for emergency work which has not been approved in the Capital Investment
+Plan, the generation company shall submit an application (containing all relevant information along with reasons
+justifying emergency nature of the proposed work seeking approval by the Commission. The Licensee shall take up the
+work prior to the approval of the Commission provided that the emergency nature of the scheme has been certified by
+the Board of Directors :
+Provided that for the purpose of the Regulation 9.8 above, such approved capital expenditure shall be treated as a part
+of actual capital expenditure incurred to the generation company as well as the approved capital expenditure by the
+Commission.
+Performance Targets. -
+9.9
+The Commission shall set targets for each year of the Control Period for the items or parameters that are deemed to be
+"controllable" and which includes :
+(a)
+Gross Station Heat Rate ;
+(b)
+Normative Annual Plant Availability Factor/ Normative Annual Plant Load Factor ;
+(c)
+Auxiliary Energy Consumption ;
+(d)
+Secondary Fuel Oil Consumption ;
+(e)
+Operation and Maintenance Expenses;
+(f)
+Financing cost which includes cost of debt (interest), cost of equity (return) ; and
+(g)
+Depreciation.
+9.10
+Any financial loss on account of under performance on targets for parameters specified in Regulation 9.9 (a) to (e) is not
+recoverable through tariffs. Similarly, any financial gain on account of over-performance with respect to these
+parameters is to the generating company's benefit and shall not be adjusted in Tariffs.
+9.11
+The Commission shall carry out Truing-Up of tariff of generating station based on the performance of following
+uncontrollable parameters:
+(a)
+Force Majeure ;
+(b)
+Change in Law ; and
+(c)
+Primary Fuel Cost.
+True-Up during Control Period. -
+9.12
+The True-Up across various controllable parameters shall be conducted as per principles stated below :
+(a)
+Page 12/42
+----- PAGE 13 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+any surplus and deficit on account of O&M expenses shall be to the account of the generating company and shall not be
+trued up in ARR ; and
+(b)
+at the end of the control period-
+i. The Commission shall review actual capital investment vis-à-vis approved capital investment ;
+ii. Depreciation and financing cost, which includes cost of debt including working capital (interest), cost of equity (return)
+shall be trued up on the basis of actual/audited information and prudence check by the Commission.
+9.13
+Notwithstanding anything contained in these Regulations, the gains or losses in the controllable items of ARR on
+account of force majeure factors shall be passed on as an additional charge or rebate in ARR over such period as may
+be laid down in the order of the Commission.
+Part-III Application for Determination of Tariff
+10.
+Principles for determination of tariff.
+- Existing Generating Station :
+10.1
+Where the Commission has, at any time prior to the notification of these Regulations, adopted or approved the tariff
+contained therein for supply of electricity from an existing generating station on the basis of a Power Purchase
+Agreement or arrangement, the tariff for the supply of electricity by the Generating Company to the Beneficiary shall
+henceforth, in the Control Period, be decided in accordance with these Regulations :
+Provided that where the Commission has approved a Power Purchase Agreement (PPA) or arrangement between a
+Generating Company and a Beneficiary, the supply of electricity by the Generating Company to the Beneficiary shall be
+decided in accordance with such PPA or arrangement for such a period as may be approved or adopted by the
+Commission, to the extent of existing installed Capacity as contained in the PPA or arrangement :
+Provided further that the Regulation or provisions stated in this Regulation is in line with the Regulation and provisions of
+"Norms of Operation to be Threshold Norms" of these Regulations.
+10.2
+In case of the existing projects, the generating company, may be allowed tariff by the Commission based on the
+admitted capital cost as on 31.3.2018 and projected additional capital expenditure for the respective years of the tariff
+period 2018-19 to 2020-21 in accordance with these Regulations :
+Provided that :
+(a)
+where the capital cost considered in tariff by the Commission on the basis of projected capital cost as on COD or the
+projected additional capital expenditure exceeds the actual capital cost incurred on year to year basis by more than 5%,
+the generating company shall refund to the beneficiaries, the excess tariff recovered corresponding to excess capital
+cost, as approved by the Commission alongwith interest at 1.20 times of the J&K Bank base rate as prevalent on 1st
+April of respective year :
+(b)
+where the capital cost considered in tariff by the Commission on the basis of falls short of the actual capital cost incurred
+on year to year basis by more than 5%, the generating company shall be entitled to recover from the beneficiaries, the
+shortfall in tariff corresponding to reduction in capital cost, as approved by the Commission alongwith interest at 0.80
+times of J&K Bank base rate as prevalent on 1st April of respective year.
+New Generating Station :
+10.3
+Where the generating station has been declared under commercial operation from the date of issue of these
+Regulations or on or after April 1, 2018, the tariff for supply of electricity by the generating company shall be decided in
+accordance with these Regulations.
+10.4
+The generating company may make an application for determination of tariff for new generating station or unit thereof in
+accordance with these Regulations, in respect of the generating station or generating units thereof within 180 days of
+the anticipated date of commercial operation.
+Page 13/42
+----- PAGE 14 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+10.5
+In case of the new projects, the generating company, may be allowed tariff by the Commission based on the projected
+capital expenditure from the anticipated COD in accordance with these Regulations :
+Provided that :
+(a)
+if the date of commercial operation is delayed beyond 180 days from the date of issue of tariff order, the tariff granted
+shall be deemed to have been withdrawn and the generating company shall be required to file a fresh application for
+determination of tariff after the date of commercial operation of the project ;
+(b)
+where the capital cost considered in tariff by the Commission on the basis of projected capital cost as on COD or the
+projected additional capital expenditure exceeds the actual capital cost incurred on year to year basis by more than 5%,
+the generating company shall refund to the beneficiaries, the excess tariff recovered corresponding to excess capital
+cost, as approved by the Commission alongwith interest at 1.20 times of the J&K Bank base rate as prevalent on 1st
+April of respective year ;
+(c)
+where the capital cost considered in tariff by the Commission on the basis of falls short of the actual capital cost incurred
+on year to year basis by more than 5%, the generating company shall be entitled to recover from the beneficiaries, the
+shortfall in tariff corresponding to reduction in capital cost, as approved by the Commission alongwith interest at 0.80
+times of J&K Bank base rate as prevalent on 1st April of respective year.
+10.6
+Tariff Determination. -
+(1)
+The tariff in respect of a generating station under these Regulations shall be determined stage-wise, unit-wise or for the
+whole generating station.
+(2)
+For the purpose of tariff, the capital cost of the project shall be broken up into stages and by distinct units forming part of
+the project. Where the stage-wise or unit-wise break-up of the capital cost is not available and in case of on-going
+projects, the common facilities shall be apportioned on the basis of the installed capacity of the units. In relation to
+multipurpose hydroelectric projects, with irrigation, flood control and power components, the capital cost chargeable to
+power component to the project only shall be considered for determination of tariff.
+(3)
+The developer of a hydroelectric project, including Pumped Storage Plant (PSP), would have the option of getting the
+tariff determined by the Commission for the power to be sold through long term Power Purchase Agreements (PPAs) on
+the basis of performance based cost of service regulations if the following conditions are fulfilled :-
+(a)
+The Commission is satisfied that the project site has been allotted to the developer by the State Government after
+following a transparent two stage process. The first stage should be for prequalification on the basis of criteria of
+financial strength, past experience of developing infrastructure projects of similar size, past track record of developing
+projects on time and within estimated costs, turnover and ability to meet performance guarantee etc. In the second
+stage, bids are to be called on the basis of quantifiable parameter, such as, additional free power in excess of
+percentage of free power, as notified by the State Government, equity participation offered to the State Government, or
+any other parameter to be notified by the State Government from time to time ;
+(b)
+Concurrence of CEA (if required under Section 8 of the Act), financial closure, award of work and long term Power
+Purchase Agreement (PPA) (of the duration of 35 years or more) of the capacity specified in (c) below with distribution
+licensees are completed by 15-08-2022 ;
+(c)
+Long term PPA is firmed up for 60% or more of the total saleable design energy, balance being allowed for merchant
+sale ;
+Provided that distribution licensees can extend the duration of long term PPA beyond 35 years for a further period of 15
+years at the existing terms and conditions subject to the approval of Appropriate Commission :
+Page 14/42
+----- PAGE 15 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Provided further that nothing contained in this Regulation shall apply to Pumped Storage Plants (PSP) ;
+(d)
+The time period for commissioning of all the units of the project shall ordinarily be fixed at four years from the date of
+approval of the commissioning schedule by the Commission. However, the Commission may, after recording reasons in
+writing, fix longer time period for hydroelectric projects (reservoir as well as run-of- river projects) of more than 100 MW
+capacity. Agreed timelines to achieve the fixed commissioning schedule along with penalty for delay shall be decided by
+the Commission. The Commission shall allow pass through the Interest During Construction (IDC) and Financing Cost
+(FC) only up to the period of delay not attributable to the developer. The approval of CEA, wherever required as per
+Section 8 of the Act, shall be sought ;
+(e)
+Award of contracts for supply of equipment and construction of the project, either through a turnkey or through well
+defined packages, are done on the basis of international competitive bidding.
+(4)
+Notwithstanding anything contained in Paras (3) above, the developers of hydroelectric projects of more than 100 MW
+design capacity for which sites have been awarded earlier by following a transparent process and on the basis of
+pre-determined set of criteria would have the option of getting the tariff determined by the Appropriate Commission for
+the power to be sold through long term PPA on the basis of cost plus under Section 56 of the Act.
+In case of projects covered under Paras (3) and (4), the Commission shall determine tariff ensuring the following :-
+i. Any expenditure incurred or committed to be incurred by the project developer for getting project site allotted (except
+free power as notified) would neither be included in the project cost, nor any such expenditure shall be passed through
+in tariff ;
+ii. The project cost shall include the cost of the approved R&R plan of the project which shall be in conformity with the
+State Rehabilitation and Resettlement Policy currently in force. In case no such policy has been notified by the State
+Government, then the R&R plan shall be formulated in the light of National R&R policy ;
+iii. Annual fixed charges shall be taken pro-rata to the saleable design energy tied up on the basis of long term PPAs
+with respect to total saleable design energy. The total saleable design energy shall be arrived at by deducting the
+following from the design energy at the bus bar :-
+(a)
+Free power as may be notified by the State Government from time to time for the host State and percentage for
+contribution towards Local Area Development Fund as may be constituted by the State Government. This free power
+may be suitably staggered as decided by the State Government.
+Energy to be provided free of cost every month to every Project Affected Family as may be notified by the State
+Government to be offered through the concerned distribution licensee in the designated resettlement area/ projects area
+for a period of ten years from the date of commissioning.
+Capital Cost of the Project. -
+10.7
+Capital cost for a Project shall include,-
+(a)
+the expenditure incurred or projected to be incurred, including interest during construction, IEDC and financing charges
+on the loan -(i) being equal to 70% of the funds deployed, in the event of the actual equity in excess of 30% of the funds
+deployed, by treating the excess equity as normative loan, or (ii) being equal to the actual amount of loan in the event of
+the actual equity less than 30% of the funds deployed,-up to the date of commercial operation of the project, as admitted
+by the Commission after prudence check shall form the basis for determination of tariff :
+Provided that the foreign exchange variation risk shall not be a pass through. However, appropriate costs of hedging
+and swapping to take care of foreign exchange variations shall be allowed for debt obtained in foreign currencies. This
+provision would be relevant only for the projects where tariff has not been determined on the basis of competitive bids.
+(b)
+Interest During Construction (IDC) :
+i. Interest during construction shall be computed corresponding to the loan from the date of infusion of debt fund, and
+after taking into account the prudent phasing of funds up to SCOD.
+ii. In case of additional costs on account of IDC due to delay in achieving the SCOD, the generating company shall be
+Page 15/42
+----- PAGE 16 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+required to furnish detailed justifications with supporting documents for such delay including prudent phasing of funds :
+Provided that if the delay is not attributable to the generating company and is due to uncontrollable factors as specified
+in Regulation 9.10, IDC may be allowed after due prudence check :
+Provided further that only IDC on actual loan may be allowed beyond the COD to the extent, the delay is found beyond
+the control of generating company after due prudence and taking into account prudent phasing of funds.
+(c)
+Incidental Expenditure During Construction (IEDC) :
+i. Incidental expenditure during construction shall be computed from the zero date and after taking into account
+pre-operative expenses up to SCOD :
+Provided that any revenue earned during construction period up to SCOD on account of interest on deposits or
+advances, or any other receipts may be taken into account for reduction in incidental expenditure during construction.
+ii. In case of additional costs on account of IEDC due to delay in achieving the SCOD, the generating company shall be
+required to furnish detailed justification with supporting documents for such delay including the details of incidental
+expenditure during the period of delay and liquidated damages recovered or recoverable corresponding to the delay :
+Provided that if the delay is not attributable to the generating company and is due to uncontrollable factors as specified
+in Regulation 9.11, IEDC may be allowed after due prudence check :
+Provided further that where the delay is attributable to an agency or contractor or supplier engaged by the generating
+company, the liquidated damages recovered from such agency or contractor or supplier shall be taken into account for
+computation of capital cost.
+iii. In case the time over run beyond SCOD is not admissible after due prudence, the increase of capital cost on account
+of cost variation corresponding to the period of time over run may be excluded from capitalization irrespective of price
+variation provisions in the contracts with supplier or contractor of the generating company.
+(d)
+capitalised initial spares subject to the ceiling norms specified as under:
+Initial spares shall be capitalized as a percentage of the plant and machinery cost up to cut-off date, subject to following
+ceiling norms :
+i. Coal-based/lignite fired thermal generating stations-4.0%
+ii. Gas Turbine/Combined Cycle thermal generating stations-4.0%
+iii. Hydro Generating stations-4.00% :
+Provided that where the benchmark norms for initial spares have been published as part of the benchmark norms for
+capital cost under first proviso to Regulation10.8, such norms shall apply to the exclusion of the norms specified herein.
+(e)
+additional capital expenditure determined under Regulation10.9 and 10.10 of these Regulations :
+Provided that the assets forming part of the project, but not in use shall be taken out of the capital cost.
+10.8
+The capital cost admitted by the Commission after prudence check shall form the basis for determination of tariff :
+Provided that in case of the thermal generating station prudence check of capital cost may be carried out based on the
+benchmark norms specified by the Central Commission from time to time :
+Provided further that in cases where benchmark norms have not been specified by the Central Commission, the
+Commission may specify the benchmark norms or allow the capital cost on the basis of a prudence check which shall
+include scrutiny of the reasonableness of the capital expenditure, financing plan, interest during construction, incidental
+expenditure during construction, use of efficient technology, cost over-run and time over run, and such other matters as
+may be considered appropriate by the Commission for determination of tariff :
+Provided that the capital cost with respect to thermal generating station, incurred or projected to be incurred on account
+of the Perform, Achieve and Trade (PAT) scheme of Government of India will be considered by the Commission on case
+to case basis and shall include,-
+(a)
+cost of plan proposed by developer in conformity with norms of PAT Scheme ; and
+(b)
+sharing of the benefits accrued on account of PAT Scheme :
+Provided also that the Commission may issue guidelines for vetting of capital cost of hydroelectric projects by
+Page 16/42
+----- PAGE 17 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+independent agency or expert and in that event the capital cost as vetted by such agency or expert may be considered
+by the Commission while determining the tariff for the hydro generating station :
+Provided also that in case the site of a hydro generating station is awarded to a developer (not being a State controlled
+or owned company), by a State Government by following a two stage transparent process of bidding, any expenditure
+incurred or committed to be incurred by the project developer for getting the project site allotted shall not be included in
+the capital cost :
+Provided also that the capital cost in case of such hydro generating station shall include cost of approved Rehabilitation
+and Resettlement (R&R) plan of the project :
+Provided also that where the power purchase agreement entered into between the Generating Company and the
+Beneficiaries, provides for a ceiling of actual expenditure, the capital expenditure admitted the Commission shall take
+into consideration such ceiling for determination of tariff :
+Provided also that in case of the existing projects the additional capital expenditure projected to be incurred for the
+ensuing year shall form the basis for determination of tariff during control period the capital cost admitted by the
+Commission prior to 01.04.2018 and the additional capital expenditure projected to be incurred for respective year of the
+control period, as may be admitted by the Commission, shall form the basis for determination of tariff.
+Additional Capitalization. -
+10.9
+The capital expenditure incurred or projected to be incurred, on the following counts within the original scope of work,
+after the date of commercial operation and up to the cut-off date may be admitted by the Commission, subject to
+prudence check :-
+(i)
+Undischarged liabilities recognized to be payable at a future date ;
+(ii)
+Works deferred for execution ;
+(iii)
+Procurement of initial capital spares within the original scope of work, subject to the provisions under Regulations10.7
+and 10.8 ;
+(iv)
+Liabilities to meet award of arbitration or for compliance of the order or decree of a court ; and
+(v)
+Change in law :
+Provided that the details of works asset-wise/workwise included in the original scope of work along with estimates of
+expenditure, undischarged liabilities and the works deferred for execution shall be submitted along with the application
+for determination of tariff.
+10.10
+The capital expenditure incurred on the following counts after the cut-off date may, in its discretion, be admitted by the
+Commission, subject to prudence check :-
+(i)
+Liabilities to meet award of arbitration or for compliance of the order or decree of a court ;
+(ii)
+Change in law ;
+(iii)
+Deferred works relating to ash pond or ash handling system in the original scope of work ;
+(iv)
+Any additional works/services which have become necessary for efficient and successful operation of the generating
+station, but not included in the original project cost ;
+(v)
+Any liability for works executed prior to the cut-off date, after prudence check of the details of such undischarged liability,
+total estimated cost of package, reasons for such withholding of payment and release of such payments etc ;
+(vi)
+Impact of additional capitalization in tariff revision may be considered by the Commission twice in a tariff period,
+Page 17/42
+----- PAGE 18 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+including revision of tariff after the cut-off date ;
+(vii)
+Any capital expenditure found justified after prudence check necessitated on account of modifications required or done
+in fuel receiving system arising due to non-materialisation of coal supply corresponding to full coal linkage in respect of
+thermal generating station as result of circumstances not within the control of the generating station ;
+(viii)
+In case of hydro generating stations, any expenditure which has become necessary on account of damage caused by
+natural calamities (but not due to flooding of power house attributable to the negligence of the generating company)
+including due to ecological reasons after adjusting for proceeds from any insurance scheme, and expenditure incurred
+due to any additional work which has become necessary for successful and efficient plan operation :
+Provided that in respect Sub-Regulation (vii) above, any expenditure on acquiring the minor items or the assets like tools
+and tackles, furniture, air conditioners, voltage stabilizers, refrigerators, coolers, fans, washing machine, heat
+convectors, mattresses, carpets etc. brought after the cut-off date shall not be considered for additional capitalization for
+determination of tariff w. e. f. 01-04-2018 for the control period :
+Provided also that if any expenditure has been claimed under Renovation and Modernization (R&M), Life Extension,
+repairs and maintenance under (O&M) expenses and Compensation Allowance, same expenditure cannot be claimed
+under this regulation.
+Any expenditure admitted on account of committed liabilities within the original scope of work and the expenditure
+deferred on techno-economic grounds but falling within the original scope of work shall be serviced in the normative
+debt-equity ratio arrived at in the manner indicated in debt-equity ratio computation. Any expenditure on replacement of
+old assets shall be considered after writing off the gross value of the original assets from the original capital cost, except
+such items as are listed under additional capitalization computation of this Regulation. Any expenditure admitted by the
+Commission for determination of tariff on account of new works not in the original scope of work shall be serviced in the
+normative debt-equity ratio specified in debt-equity ratio computation.
+Renovation and Modernization. -
+10.11
+The generating company, for meeting the expenditure on Renovation and Modernization (R&M) for the purpose of
+extension of life beyond the useful life of the generating station or a unit thereof, shall make an application before the
+Commission for approval of the proposal with a Detailed Project Report giving complete scope, justification, cost benefit
+analysis, estimated life extension from a reference date, financial package, phasing of expenditure, schedule of
+completion, reference price level, estimated completion cost including foreign exchange component, if any, record of
+consultation with beneficiaries and any other information considered to be relevant by the generating company.
+10.12
+Where the generating company, makes an application for approval of R&M proposal, the approval shall be granted after
+due consideration of reasonableness of the cost estimates, financing plan, schedule of completion, interest during
+construction, use of efficient technology, cost benefit analysis, and such other factors as may be considered relevant by
+the Commission.
+10.13
+Any expenditure incurred or projected to be incurred and admitted by the Commission after prudence check based on
+the estimates of renovation and modernization expenditure and life extension, and after deducting the accumulated
+depreciation already recovered from the original project cost, shall form the basis for determination of tariff :
+Provided that the Commission may revise the plant specific performance norms in order to share the benefits of
+efficiency improvement on account of renovation and modernisation between the generator and the beneficiaries.
+Special allowance for coal-based thermal generating stations.
+10.14
+The generating company in case of coal-based thermal generating station, may, in its discretion, avail of a 'special
+allowance' either for a unit or a group of units as compensation for meeting the requirement of expenses including
+renovation and modernization beyond the useful life of the generating station or a unit thereof, and in such an event
+revision of the capital cost shall not be considered and the applicable operational norms shall not be relaxed but the
+special allowance shall be included in the annual fixed cost :
+Provided also that such option shall not be available for a generating station or unit for which renovation and
+Page 18/42
+----- PAGE 19 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+modernization has been undertaken and the expenditure has been admitted by the Commission before commencement
+of these Regulations, or for a generating station or unit which is in a depleted condition or operating under relaxed
+operational and performance norms.
+10.15
+A generating company (coal-based/lignite fired thermal generating station) on opting for the alternative in the
+Regulation10.14, shall be allowed special allowance at the rates as approved by the Central Commission from
+time-time, unit-wise from the next financial year from the respective date of the completion of useful life with reference to
+the date of commercial operation of the respective unit of generating station.
+In the event of granting special allowance by the Commission, the expenditure incurred or utilized from special
+allowance shall be maintained separately by the generating station and details of same shall be made available to the
+Commission as and when directed to furnish details of such expenditure.
+Sale of Infirm Power
+10.16
+Supply of infirm power shall be accounted as Deviation and paid for from the regional deviation settlement fund
+accounts in accordance with the Central Electricity Regulatory Commission (Deviation Settlement Mechanism and
+Related Matters) Regulations, 2014, as amended from time to time or any subsequent re-enactment thereof :
+Provided that any revenue earned by the Generating Company from sale of infirm power after accounting for the fuel
+expenses shall be applied for reduction in capital cost.
+Debt-Equity Ratio
+10.17
+In case of the generating station declared under commercial operation prior to 01.04.2018, debt-equity ratio allowed by
+the Commission for determination of tariff for the period ending 31.03.2018 shall be considered for determination of
+tariff.
+10.18
+For the project declared under commercial operation on or after 01.04.2018, if the equity actually deployed is more than
+30% of the capital cost, equity in excess of 30% shall be treated as normative loan :
+Provided that where equity deployed is less than 30% of capital cost, the actual equity shall be considered for
+determination of tariff :
+Provided further that the equity invested in foreign currency shall be designated in Indian rupees on the date of each
+investment :
+Explanation. - The premium, if any, raised by the generating company, while issuing share capital and investment of
+internal resources created out of its free reserve, for the funding of the project, shall be reckoned as paid up capital for
+the purpose of computing return on equity, provided such premium amount and internal resources are actually utilized
+for meeting the capital expenditure of the generating station :
+Provided, further that any consumer contribution, deposit work and grant obtained for the execution of the project shall
+not be considered as part of the capital structure for the purpose of computation of normative debt equity.
+Return on Equity
+10.19
+Return on equity shall be computed in rupee terms, on the equity base determined in accordance with Regulation10.17.
+10.20
+Return on equity shall be computed on pre-tax basis at the base rate of 15.50% for thermal generating stations and run
+of the river hydro generating station, and at the base rate of 16.50% for the storage type hydro generating stations
+including pumped storage hydro generating stations and run of river generating station with pondage, to be grossed up
+as per Regulation 10.21 :
+Provided that return on equity with respect to the actual base rate applicable to the Generating Company, in line with the
+performance of the respective generating station for the respective year during the Control Period shall be trued up
+separately for each year of the Control Period along with the tariff petition filed for the next Control Period :
+Provided that in case of Projects commissioned on or after 1st April, 2018, an additional return of 0.5% shall be allowed
+if such projects are completed within the timeline specified in the Capital Investment plan approved by the Commission :
+Provided the rate of return of a new project shall be reduced by 1% for such period as may be decided by the
+Commission, if the generating station is found to be declared under commercial operation without commissioning of any
+Page 19/42
+----- PAGE 20 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+of the Restricted Governor Mode Operation (RGMO)/ Free Governor Mode Operation (FGMO), data telemetry,
+communication system up to load dispatch centre or protection system.
+As and when any of the above requirements are found lacking in a generating station based on the report submitted by
+the respective SLDC, RoE shall be reduced by 1% for the period for which the deficiency continues.
+10.21
+The rate of return on equity shall be computed by grossing up the base rate with the normal applicable tax rate for the
+year FY 2018-19 applicable to the generating company :
+Provided that return on equity with respect to the actual tax rate applicable to the generating company, in line with the
+provisions of the relevant Finance Acts of the respective year during the Control Period shall be Trued-Up separately for
+each year of the Control Period along with the Tariff Petition filed for the next Control Period.
+10.22
+Rate of return on equity shall be rounded off to three decimal points and be computed as per the formula given below :
+Rate of pre-tax return on equity = Base rate / (1-t)
+Where "t" is the applicable tax rate in accordance with Regulation 10.21.
+Illustration. - (i) In case of generating company paying Minimum Alternate Tax (MAT) @ 20.96% including surcharge and
+cess :
+Rate of pre-tax return on equity = 15.50/ (1- 0.2096) =19.610%
+(ii)
+In case of generating company paying normal corporate tax @ 33.99% including surcharge and cess :
+Rate of pre-tax return on equity = 15.50/ (1-0.3399) = 23.481%.
+Provided the generating company shall True-Up the grossed up rate of return on equity at the end of every financial year
+based on actual tax paid together with any additional tax demand including interest thereon, duly adjusted for any refund
+of tax including interest received from the income tax authorities pertaining to the tariff period 2018-19 to 2020- 21 on
+actual gross income of any financial year :
+Provided penalty, if any, arising on account of delay in deposit or short deposit of tax amount shall not be claimed by the
+generating company. Any under-recovery or over-recovery of grossed up rate on return on equity after truing up, shall
+be recovered or refunded to beneficiaries on year to year basis :
+Provided that the actual tax on income from other business streams including deferred tax liability (i.e. income on
+business other than business of generation or transmission, as the case may be) shall not be considered for the
+calculation of applicable tax rate.
+Interest and Finance Charges
+10.23
+The loans arrived at in the manner indicated in Regulation 10.17 shall be considered as gross normative loan for
+calculation of interest on loan.
+10.24
+The normative loan outstanding as on 01.04.2018 shall be worked out by deducting the cumulative repayment as
+admitted by the Commission up to 31.03.2018 from the gross normative loan.
+10.25
+Notwithstanding any moratorium period availed by the generating company, the repayment of loan shall be considered
+from the first year of commercial operation of the project and shall be equal to the annual depreciation allowed.
+10.26
+The rate of interest shall be the weighted average rate of interest calculated on the basis of the actual loan portfolio at
+the beginning of each year applicable to the Project :
+Provided that if there is no actual loan for a particular year but normative loan is still outstanding, the last available
+weighted average rate of interest shall be considered :
+Provided further that if the generating station does not have actual loan, then the weighted average rate of interest of the
+generating company as a whole shall be considered :
+Provided further, in case of new generating company commencing its operation after the date of effectiveness of these
+Regulations, and which doesn't have actual loan portfolio, the rate of interest shall be considered on normative basis
+and shall be equal to the Base Rate of J&K Bank plus 200 basis points as on the date on which the generating unit is
+declared under commercial operation.
+Page 20/42
+----- PAGE 21 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+10.27
+The interest on loan shall be calculated on the normative average loan of the year by applying the weighted average
+rate of interest.
+10.28
+The generating company shall make every effort to re-finance the loan as long as it results in net savings on interest and
+in that event there is costs associated with such refinancing, such cost shall be pass through to the beneficiaries and the
+net savings shall be shared between the beneficiaries and the generating company, in the ratio of 2:1.
+10.29
+The changes to the terms and conditions of the loans shall be reflected from the date of such re-financing.
+10.30
+In case of dispute, any of the parties may make an application in accordance with the Conduct of Business Regulation :
+Provided that the beneficiaries shall not withhold any payment on account of the interest claimed by the generating
+company during the pendency of any dispute arising out of re-financing of loan.
+10.31
+In case of Hydroelectric projects (HEPs), if the developer uses long-term financial instruments which results in reduction
+of tariff burden in the initial years, the Commission may devise a suitable incentive mechanism at the time of issuance of
+tariff order to share the benefits accrued between the generator and beneficiaries :
+Provided that the developer shall provide necessary documentary evidence as well as analysis of savings along with
+any other information deemed important by the Commission.
+Depreciation
+10.32
+Depreciation shall be calculated for each year of the tariff period, on the amount of Capital Cost of the assets admitted
+by the Commission :
+Provided that depreciation shall not be allowed on assets funded by any capital subsidy/grant.
+10.33
+The salvage value of the asset shall be considered as 10% and depreciation shall be allowed up to maximum of 90% of
+the capital cost of the asset.
+The historical capital cost of the asset shall include additional capitalization on account of Foreign Exchange Rate
+Variation up to 31.03.2017 already allowed by the Government/ Commission :
+Provided that the salvage value for IT equipment and software shall be considered as NIL and 100% value of the assets
+shall be considered depreciable.
+10.34
+Land other than land held under lease and the land for reservoir in case of hydro generating station shall not be a
+depreciable asset and its cost shall be excluded from the capital cost while computing depreciable value of the asset.
+10.35
+Depreciation shall be calculated annually based on "Straight Line Method" and at rates specified in Appendix-I to these
+Regulations for the assets of the generating station :
+Provided that, the remaining depreciable value as on 31st March of the Year closing after a period of 12 years from the
+date of commercial operation shall be spread over the balance useful life of the assets.
+10.36
+In case of existing projects, the balance depreciable value as on 01.04.2018 shall be worked out by deducting the
+cumulative depreciation as admitted by the Commission upto 31.03.2018 from the gross depreciable value of the assets.
+The rate of depreciation shall be continued to be charged at the rate specified in Appendix-I till cumulative depreciation
+reaches 70%. Thereafter the remaining depreciable value shall be spread over the remaining life of the asset such that
+the maximum depreciation does not exceed 90%.
+10.37
+Depreciation shall be chargeable from the first year of commercial operation. In case of commercial operation of the
+asset for part of the year, depreciation shall be charged on pro rata basis.
+Interest on Working Capital
+10.38
+The Commission shall determine the working capital requirement for coal-based generating stations containing the
+Page 21/42
+----- PAGE 22 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+following components :-
+(a)
+Cost of coal or lignite and limestone towards stock, if applicable, for 15 days for pit-head generating stations and 30
+days for non-pit-head generating stations for generation corresponding to the normative annual plant availability factor or
+the maximum coal/lignite stock storage capacity whichever is lower ;
+(b)
+Cost of coal or lignite and limestone for 30 days for generation corresponding to normative annual plant availability
+factor ;
+(c)
+Cost of secondary fuel oil for two months for generation corresponding to the Normative Annual Plant Availability Factor,
+and in case of use of more than one secondary fuel oil, cost of fuel oil stock for the main secondary fuel oil ;
+(d)
+Maintenance spares @ 20% of operation and maintenance expenses specified in Regulation 10.43 ;
+(e)
+Operation and Maintenance expenses for 1 month ; and
+(f)
+Receivables equivalent to 2 months of capacity charges and energy charges for sale of electricity calculated on the
+Normative Annual Plant Availability Factor.
+10.39
+For the gas based generating stations, the working capital requirement shall be determined using the following
+components :
+(a)
+Fuel expenses for 1 month corresponding to the Normative Annual Plant Availability Factor, duly taking into account
+mode of operation of the generating station on gas fuel and liquid fuel ;
+(b)
+Liquid fuel stock for ½ month corresponding to the Normative Annual Plant Availability Factor, and in case of use of
+more than one liquid fuel, cost of main liquid fuel ;
+(c)
+Maintenance spares @ 30% of Operation and Maintenance expenses specified in Regulation10.43 ;
+(d)
+Operation and Maintenance expenses for 1 month ; and
+(e)
+Receivables equivalent to two months of capacity charge and energy charge for sale of electricity calculated on
+Normative Annual Plant Availability factor, duly taking into account mode of operation of the generating station on gas
+fuel and liquid fuel.
+10.40
+For hydro generating station, the working capital requirements shall be determined using the following components :
+(a)
+Receivables equivalent to two (2) months of fixed cost calculated on normative capacity index ; and
+(b)
+Maintenance spares @ 15% of Operation and Maintenance expenses specified in Regulation 10.44 ;
+(c)
+Operation and Maintenance expenses for 1 month.
+10.41
+The cost of fuel in cases covered under Regulation10.38 shall be based on the landed cost incurred (taking into account
+normative transit and handling losses) by the generating company and gross calorific value of the fuel as per actual for
+the three months preceding the first month for which tariff is to be determined and no fuel price escalation shall be
+provided during the tariff period.
+10.42
+Rate of interest on working capital shall be equal to the J&K Bank Base Rate plus 350 basis points, as on 01.04.2018 or
+as on 1st April of the year during the tariff period 2018-19 to 2020-21 in which the generating station or a unit thereof, is
+Page 22/42
+----- PAGE 23 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+declared under commercial operation, whichever is later.
+Operation and Maintenance (O&M) expenses :
+10.43
+Thermal generating station.-
+(a)
+Operation and Maintenance (O&M) expenses for thermal generating company shall include-
+I. Employees costs ;
+II. Administrative and General expenses ;
+III. Repairs and Maintenance expenses.
+(b)
+The Commission shall stipulate a separate trajectory for each of the components of O&M expenses viz., employee cost,
+R&M expense and A&G expense for the Control Period for all existing thermal generating stations except for the new
+generating stations for which the O&M expenses would be determined as per the CERC (Terms and Conditions of
+Tariff) Regulations, 2014.
+Employee Cost :
+(c)
+The employee cost, excluding pension fund contribution, impact of pay revision arrears and any other expense of
+non-recurring nature, for the base year i.e. FY 2017-18, shall be derived on the basis of the normalized average of the
+actual employee expenses excluding pension fund contribution, impact of pay revision arrears and any other expense of
+non-recurring nature, available in the accounts for the previous five (5) years immediately preceding the base year FY
+2017-18, subject to prudence check by the Commission.
+(d)
+The normalization shall be done by applying last five year average increase in Consumer Price Index (CPI) on year to
+year basis. The average of normalized net present value for FY2012-13 to FY 2016-17, shall then be used to project
+base year value for FY 2017-18. The base year value so arrived, shall be escalated by the above inflation rate to
+estimate the employee expense (excluding impact of pension fund contribution and pay revision and any other expense
+of nonrecurring nature, if any) for each year of the Control Period.
+At the time of True-Up, the employee costs shall be considered after taking into account the actual increase in CPI
+during the year instead of projected inflation for that period :
+Provided further that impact of pay revision (including arrears) and pension fund contribution shall be allowed on actual
+during the true-up as per accounts, subject to prudence check and any other factor considered appropriate by the
+Commission.
+A&G Expenses and R&M Expenses :
+(e)
+The administrative and general expenses (excluding water charges) and repair and maintenance expenses, for the base
+year i.e. FY 2017-18, shall be derived on the basis of the normalized average of the actual administrative and general
+expenses (excluding water charges) and repair and maintenance expenses, respectively available in the accounts for
+the previous five (5) years immediately preceding the base year FY 2016-17, subject to prudence check by the
+Commission. Any other expense of non-recurring nature shall be excluded while determining normalized average for the
+previous five (5) years.
+(f)
+The normalization shall be done by applying last five year average increase in Wholesale Price Index (WPI) on year to
+year basis. The average of normalized net present value for FY2012-13 to FY 2016-17, shall then be used to project
+base year value for FY 2017-18. The base year value so arrived, shall be escalated by the above inflation rate to
+estimate the administrative and general expense and repair and maintenance expenses for each year of the control
+period.
+At the time of true up, the administrative and general expenses and repair and maintenance expenses shall be
+considered after taking into account the actual inflation instead of projected inflation for that period :
+Provided that water charges shall be pass-through in tariff on reimbursement basis :
+Provided that the thermal power plant(s) including the existing plants located within 50 km radius of sewage treatment
+plant of Municipality/local bodies/similar organization shall in the order of their closeness to the sewage treatment plant,
+Page 23/42
+----- PAGE 24 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+mandatorily use treated sewage water produced by these bodies and the associated cost on this account shall be
+allowed as a pass through in the tariff on reimbursement basis. Such thermal plants may also ensure back-up source of
+water to meet their requirement in the event of shortage of supply by the sewage treatment plant. The associated cost
+on this account shall be factored into the fixed cost so as not to disturb the merit order of such thermal plant.
+10.43.1
+. The O&M expenses for the base year i.e. FY 2017-18, for the units / stations coming into commercial operation after
+01.04.2012, shall be considered as under :-
+(a)
+The normative O&M expenses as specified in the Central Electricity Regulatory Commission (Terms and Conditions of
+Tariff) Regulation 2009 for the FY 2012-13 and shall be admissible at the rate of 90% of the value allowed by CERC for
+the respective year. Such normative value shall be exclusive of water taxes payable to the State Government which
+shall be pass through to the beneficiary on actual basis. However, except for pension fund liabilities, normative value, so
+derived, shall be considered inclusive of all expenses incurred to meet head office or holding company expenses.
+(b)
+The adjusted value for FY 2012-13, as arrived above, shall be escalated by the actual inflation at a weighted average of
+60:40 of CPI: WPI ratio, respectively on year to year basis till FY 2016-17.
+(c)
+For projecting the normative value for FY 2017-18 and onwards, average inflation of last five years (i.e. FY 2012-13 to
+FY 2016-17) shall be applied :
+Provided, at the time of True-Up, the normative O&M cost shall be readjusted to take into account the effect of actual
+inflation for that period :
+Provided, further that impact of pay revision (including arrears), if any, shall be considered separately during the true-up
+as per accounts, subject to prudence check and any other factor considered appropriate by the Commission.
+10.44
+Existing Hydro Generating Stations.-
+(a)
+Operation and Maintenance (O&M) expenses for generating company shall include :
+I. Employees costs ;
+II. Administrative and general expenses ;
+III. Repairs and Maintenance.
+(b)
+The Commission shall stipulate a separate trajectory for each of the components of O&M expenses viz., employee cost,
+R&M expense and A&G expense for the Control Period.
+Employee Cost :
+(c)
+The employee cost, excluding pension fund contribution and impact of pay revision arrears for the base year i. e. FY
+2017-18, shall be derived on the basis of the normalized average of the actual employee expenses excluding pension
+fund contribution and impact of pay revision arrears available in the accounts for the previous five (5) years immediately
+preceding the base year FY 2017-18, subject to prudence check by the Commission. Any other expense of nonrecurring
+nature shall be excluded while determining normalized average for the previous five (5) years.
+(d)
+The normalization shall be done by applying last five year average increase in Consumer Price Index (CPI) on year to
+year basis. The average of normalized net present value for FY2012-13 to FY 2016-17, shall then be used to project
+base year value for FY 2017-18. The base year value so arrived, shall be escalated by the above inflation rate to
+estimate the employee expense (excluding impact of pension fund contribution and pay revision, if any) for each year of
+the control period.
+At the time of true up, the employee costs shall be considered after taking into account the actual increase in CPI during
+the year instead of projected inflation for that period :
+Provided further that impact of pay revision (including arrears) and pension fund contribution shall be allowed on actual
+during the true-up as per accounts, subject to prudence check and any other factor considered appropriate by the
+Commission.
+Page 24/42
+----- PAGE 25 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+A&G Expenses and R&M Expenses :
+(e)
+The administrative and general expenses (excluding water charges) and repair and maintenance expenses, for the base
+year i.e. FY 2017-18, shall be derived on the basis of the normalized average of the actual administrative and general
+expenses (excluding water charges) and repair and maintenance expenses, respectively available in the accounts for
+the previous five (5) years immediately preceding the base year FY 2017-18, subject to prudence check by the
+Commission. Any other expense of non-recurring nature shall be excluded while determining normalized average for the
+previous five (5) years.
+(f)
+The normalization shall be done by applying last five year average increase in Wholesale Price Index (WPI) on year to
+year basis. The average of normalized net present value for FY2012-13 to FY 2016-17, shall then be used to project
+base year value for FY 2017-18. The base year value so arrived, shall be escalated by the above inflation rate to
+estimate the administrative and general expense and repair and maintenance expenses for each year of the control
+period.
+At the time of True-Up, the administrative and general expenses and repair and maintenance expenses shall be
+considered after taking into account the actual inflation instead of projected inflation for that period :
+Provided that water charges shall be pass through in tariff on reimbursement basis.
+(g)
+In case of the hydro generating stations, which have not been in commercial operation for a period of five years as on
+01.4.2018, operation and maintenance expenses shall be fixed at 2% of the original project cost (excluding cost of
+rehabilitation & resettlement works). Further, in such case, operation and maintenance expenses in first year of
+commercial operation shall be escalated up to the FY 2017-18 and then averaged to arrive at the O&M expenses at FY
+2017-18 price level. It shall be thereafter escalated annually to arrive at operation and maintenance expenses in
+respective year of the Tariff Period. The escalation factor shall be computed based on the weighted average increase in
+WPI and CPI during last five years (FY 2012-13 to FY 2016-17). The weighted average shall be computed in ratio of
+80:20 for WPI and CPI, respectively.
+10.45
+For new hydro generating stations.-
+(a)
+O&M expenses for the first year of operation will be 2% of the original project cost (excluding cost of rehabilitation and
+resettlement works) ;
+(b)
+The O&M expenses for each year of the Control Period shall be determined by escalating the base year expenses
+determined above for the first year of operation, at the escalation factor computed in line with Regulation 6.40 (g).
+Tax on Income :
+10.46
+Tax on the income streams of the Generating Company, other than the core business, shall not be recovered from the
+Beneficiaries :
+Provided that the deferred tax liability, excluding Fringe Benefit Tax, for the period from 1st April 2018 to 31st March
+2021 whenever it materializes, shall not be recoverable directly from the beneficiaries and the long-term customers :
+Provided further that any tax liability on incentives and savings due to improved performance on any parameter, if any,
+shall be considered for passing onto the Beneficiaries in the ratio of the sharing of the gains as prescribed under these
+Regulations.
+11.
+Thermal Power Generating Stations
+- Components of tariff :
+11.1
+The Tariff for supply of electricity from a thermal generating station shall comprise of two parts, namely, capacity charge
+(for recovery of annual fixed cost) and energy charge (for recovery of primary fuel cost and secondary fuel cost &
+limestone where applicable) to be worked out in the manner provided hereinafter.
+11.2
+Page 25/42
+----- PAGE 26 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+The annual fixed cost of a thermal generating station shall consist of the following components :-
+(a)
+Return on Equity ;
+(b)
+Interest and Financing Charges on Loan Capital ;
+(c)
+Depreciation ;
+(d)
+Operation and Maintenance Expenses ;
+(e)
+Interest Charges on Working Capital.
+Less :
+(f)
+Non-Tariff Income
+11.3
+Energy Charge: Energy charges shall be derived on the basis of the landed fuel cost (LFC) of a generating station
+(excluding hydro) and shall consist of the following cost :-
+(a)
+Landed Fuel Cost of primary fuel ; and
+(b)
+Cost of secondary fuel oil consumption :
+Provided that any refund of taxes and duties along with any amount received on account of penalties from fuel supplier
+shall have to be adjusted in fuel cost.
+Norms of operation :
+11.4
+The norms of operation for generating stations in general shall be as under :-
+(a)
+Normative Annual Plant Availability Factor (NAPAF) : For all thermal generating stations, NAPAF shall be 85%.
+(b)
+Normative Annual Plant Load Factor (NAPLF) : All thermal generating stations, NAPLF shall be 85%.
+(c)
+Gross Station Heat Rate :
+(a)
+Coal-based and lignite-fired thermal generating Stations = 1.045 X design heat rate (kCal/kWh).
+Where, the design heat rate of a unit means the unit heat rate guaranteed by the supplier at conditions of 100% MCR,
+zero per cent make up, design coal and design cooling water temperature/back pressure :
+Provided that the design heat rate shall not exceed the following maximum design unit heat rates depending upon the
+pressure and temperature ratings of the units :
+Pressure Rating (Kg/cm2)
+150
+170
+170
+247
+247
+SHT/RHT (0C)
+535/535
+537/537
+537/565
+537/565
+565/593
+Type of BFP
+Page 26/42
+----- PAGE 27 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Electrical
+Turbine
+Turbine
+Turbine
+Turbine
+Driven
+Driven
+Driven
+Driven
+Driven
+Max. Turbine Cycle
+Heat
+rate (KCal/kWh)
+1955
+1950
+1935
+1900
+1850
+Min. Boiler Efficiency
+Sub-Bituminous Indian Coal
+0.85
+0.85
+0.85
+0.85
+0.85
+Bituminous Imported Coal
+0.89
+0.89
+0.89
+0.89
+0.89
+Max. Design Unit Heat rate (KCal/kWh)
+Sub-Bituminous Indian Coal
+2300
+2294
+2276
+2235
+2176
+Bituminous Imported Coal
+2197
+2191
+2174
+2135
+2079
+(b)
+Provided further that in case pressure and temperature parameters of a unit are different from above ratings, the
+maximum design unit heat rate of the nearest class shall be taken ;
+(c)
+Provided also that where unit heat rate has not been guaranteed but turbine cycle heat rate and boiler efficiency are
+guaranteed separately by the same supplier or different suppliers, the unit design heat rate shall be arrived at by using
+guaranteed turbine cycle heat rate and boiler efficiency ;
+Page 27/42
+----- PAGE 28 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+(d)
+Provided also that if one or more units were declared under commercial operation prior to 01.4.2016, the heat rate
+norms for those units as well as units declared under commercial operation on or after 01.4.2017 shall be lower of the
+heat rate norms arrived at by above methodology and the norms as per Regulation11.1 ;
+(e)
+Note : In respect of units where the boiler feed pumps are electrically operated, the maximum design unit heat rate shall
+be 40 kCal/kWh lower than the maximum design unit heat rate specified above with turbine driven BFP ;
+(f)
+Gas-based/Liquid-based thermal generating unit(s)/ block(s)
+= 1.05 X Design Heat Rate of the unit/block for Natural Gas and RLNG (kCal/kWh)
+= 1.071 X Design Heat Rate of the unit/block for Liquid Fuel (kCal/kWh)
+Where, the Design Heat Rate of a unit shall mean the guaranteed heat rate for a unit at 100% MCR and at site ambient
+conditions ; and the Design Heat Rate of a block shall mean the guaranteed heat rate for a block at 100% MCR, site
+ambient conditions, zero per cent make up, design cooling water temperature/back pressure.
+(d)
+Auxiliary Energy Consumption :
+(i) Coal-based generating stations
+200 MW series
+With Natural Draft cooling Tower
+or without cooling towers
+8.5%
+300/330/350/500 MW and above series-
+Steam Driven Boiler Feed Pumps
+With Natural Draft cooling Tower
+or  without cooling towers
+5.25%
+300/330/350/500 MW series-
+Electrically Driven Boiler Feed Pumps :
+With Natural Draft cooling Tower
+or  without cooling towers
+7.75%
+Provided further that for thermal generating stations with
+induced draft cooling towers, the norms shall be further
+increased by 0.5%.
+(ii) Gas-based and Naphtha-based generating
+stations :
+Combined cycle
+2.5%
+Open cycle
+1.0%
+(e)
+Secondary Fuel Oil Consumption for Coal based generating stations : 1.0 ml/kWh.
+11.5
+Wherever the station is designed for combined cycle operation, the approval of SLDC shall be required for operation of
+the station in the open cycle mode.
+11.6
+The Commission may prescribe relaxed operational norms including the norms of Normative Annual Plant Availability
+Factor contained in these Regulations for a generating station, and these relaxed norms shall be applicable for
+determination of tariff for such generating station during the Control Period.
+11.7
+In case of renovation and modernisation, derating and rerating of the generating station, norms of operation shall be
+Page 28/42
+----- PAGE 29 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+reviewed and modified accordingly by the Commission.
+Recovery of Capacity Charge :
+11.8
+The fixed cost of a thermal generating station shall be computed on annual basis, based on norms specified under these
+Regulations, and recovered on monthly basis under capacity charge. The total capacity charge payable for a generating
+station shall be shared by its beneficiaries as per their respective percentage share/allocation in the capacity of the
+generating station.
+11.9
+Full capacity charges shall be recoverable at Normative Annual Plant Availability Factor (NAPAF) specified in
+Regulation11.4. Recovery of Capacity Charges below the level of Normative Annual Plant Availability Factor (NAPAF)
+will be on a pro-rata basis. At zero availability, no capacity charges shall be payable.
+11.10
+The capacity charge payable to a thermal generating station for a calendar month shall be calculated in accordance with
+the following formulae :-
+CC1 = (AFC/12) x (PAF1/NAPAF ) subject to a ceiling of (AFC/12).
+CC2 = (AFC/6) x ( PAF2/NAPAF ) subject to a ceiling of (AFC/6) - CC1
+CC3 = (AFC/4) x ( PAF3/NAPAF) subject to a ceiling of (AFC/4) - (CC1 + CC2)
+CC4 = (AFC/3) x ( PAF4/NAPAF) subject to a ceiling of (AFC/3) - (CC1+ CC2+ CC3)
+CC5= (AFC x 5/12) x ( PAF5/NAPAF) subject to a ceiling of (AFC x 5/12) -(CC1+ CC2+ CC3+ CC4)
+CC6 = (AFC/2) x ( PAF6/NAPAF) subject to a ceiling of (AFC/2) - (CC1+ CC2+ CC3+ CC4+ CC5)
+CC7 = (AFC x 7/12) x ( PAF7/NAPAF) subject to a ceiling of (AFC x 7/12) -(CC1+ CC2+ CC3+ CC4+ CC5+ CC6)
+CC8 = (AFC x 2/3) x ( PAF8/NAPAF) subject to a ceiling of (AFC x 2/3) -(CC1+ CC2+ CC3+ CC4+ CC5+ CC6+ CC7)
+CC9 = (AFC x 3/4) x ( PAF9/NAPAF ) subject to a ceiling of (AFC x 3/4) -(CC1+ CC2+ CC3+ CC4+ CC5+ CC6+ CC7+
+CC8)
+CC10 = (AFC x 5/6) x ( PAF10/NAPAF) subject to a ceiling of (AFC x 5/6) -(CC1+ CC2+ CC3+ CC4+ CC5+ CC6+ CC7+
+CC8+ CC9)
+CC11 = (AFC x 11/12) x (PAF11/NAPAF) subject to a ceiling of (AFC x 11/12) -(CC1+ CC2+ CC3+ CC4+ CC5+ CC6+
+CC7+ CC8+ CC9+ CC10)
+CC12 = (AFC) x (PAFY/NAPAF) subject to a ceiling of (AFC) -(CC1+ CC2+ CC3+ CC4+ CC5+ CC6+ CC7+ CC8+
+CC9+ CC10+ CC11) :
+Provided that in case of generating station or unit thereof under shutdown due to Renovation and Modernisation, the
+generating company shall be allowed to recover part of AFC which shall include O&M expenses and interest on loan
+only.
+Where,
+AFC = Annual Fixed Cost specified for the year, in Rupees
+NAPAF = Normative Annual Plant Availability Factor in percentage.
+PAFN = Per cent Plant Availability Factor achieved up to the end of the nth month.
+PAFY = Per cent Plant availability factor achieved during the Year
+CC1, CC2, CC3, CC4, CC5, CC6, CC7, CC8, CC9, CC10, CC11 and CC12 are the capacity charges of 1st, 2nd, 3rd,
+4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th and 12th months respectively.
+11.11
+The PAFM up to the end of a particular month and PAFY shall be computed in accordance with the following formula:
+11.12
+The PAFM and PAFY shall be computed in accordance with the following formula:
+PAFM or PAFY = 10000 x i=1? NDCi/{N x IC x
+(100-AUX)} %
+Where,
+AUX-Normative auxiliary energy consumption in percentage ;
+DCi-Average declared capacity (in ex-bus MW), subject to Regulation11.13, for the ith day of the period i.e. the month or
+the year as the case may be, as certified by the concerned Load Dispatch Centre after the day is over.
+IC -Installed Capacity (in MW) of the generating station.
+Page 29/42
+----- PAGE 30 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+N-Number of days during the period i. e. the month or the year as the case may be.
+Note: - DCi and IC shall exclude the capacity of generating units not declared under commercial operation. In case of a
+change in IC during the concerned period, its average value shall be taken.
+11.13
+Incentive to a generating station or unit thereof shall be payable at a flat rate of 50 paise/kWh for ex-bus scheduled
+energy corresponding to scheduled generation in excess of ex-bus energy corresponding to Normative Annual Plant
+Load Factor (NAPLF).
+11.14
+In case of fuel shortage in a thermal generating station, the Generating Company may propose to deliver a higher MW
+during peak-load hours by saving fuel during offpeak hours. The SLDC may then specify a pragmatic day ahead
+schedule for the generating station to optimally utilize its MW and energy capability, in consultation with the
+beneficiaries. DCi in such an event shall be taken to be equal to the maximum peak-hour ex-power plant MW schedule
+specified by the SLDC for that day.
+Energy Charge :
+11.15
+The energy (variable) charge shall cover primary fuel and secondary fuel costs and limestone consumption cost (where
+applicable), shall be payable by every beneficiary for the total energy scheduled to be supplied to such beneficiary
+during the calendar month on ex-power plant basis, at the specified energy charge rate of the month (with fuel price
+adjustment and limestone adjustment).
+Total energy charge payable to the Generating Company for a month shall be:
+= (Energy charge rate in Rs./kWh) x {Scheduled energy (ex-bus) for the month in kWh.}
+11.16
+Energy Charge Rate (ECR) in Rupees per kWh on expower plant basis shall be determined to three decimal places in
+accordance with the following formulae :-
+(a)
+For coal based stations :
+ECR = {(GHR -SFC x CVSF) x LPPF/CVPF+
+SFC x LPSFi+ LC x LPL} x 100/(100 -AUX)}
+(b)
+For gas and liquid fuel based stations :
+ECR = GHR x LPPF x 100/{CVPF x (100 -AUX)}
+Where,
+AUX-Normative auxiliary energy consumption in percentage
+CVPF -(a) Weighted Average Gross calorific value of coal as received, in kCal per kg. for coal based stations.
+(b)
+Weighted Average Gross calorific value of primary fuel as received in kCal per kg. per litre or per standard cubic meter,
+as applicable for lignite, gas and liquid fuel based stations.
+(c)
+In case of blending of fuel from different sources, the weighted average Gross calorific value of primary fuel shall be
+arrived in proportion to blending ratio.
+CVSF -Calorific Value of Secondary Fuel, in kCal per ml.
+ECR -Energy Charge Rate, in Rupees per kWh sent out.
+GHR -Gross station Heat Rate, in kCal per kWh.
+LC = Normative limestone consumption in kg. per kWh
+LPPF -Weighted average landed price of primary fuel, in Rupees per kg. per litre or per standard cubic metre, as
+applicable, during the month (In case of blending of fuel from different sources, the weighted average landed price of
+primary fuel shall be arrived in proportion to blending ratio).
+LPSFi=Weighted Average Landed Price of Secondary Fuel in Rs./ml during the month
+LPL = Weighted average landed price of limestone in Rupees per kg.
+SFC-Specific fuel oil consumption, in ml. per kWh :
+Provided that energy charge rate for a gas/liquid fuel based station shall be adjusted for open cycle operation based on
+Page 30/42
+----- PAGE 31 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+certification of Member- Secretary of respective Regional Power Committee for the open cycle operation during the
+month.
+11.17
+The generating company shall provide to the beneficiaries of the generating station the details of parameters of GCV
+and price of fuel i. e. domestic coal, imported coal, e-Auction coal, lignite, natural gas, RLNG, liquid fuel etc.:
+Provided that the details of blending ratio of the imported coal with domestic coal, proportion of e-Auction coal and the
+weighted average GCV of the fuels as received shall also be provided separately, along with the bills of the respective
+month :
+Provided further that copies of the bills and details of parameters of GCV and price of fuel i. e. domestic coal, imported
+coal, e-Auction coal, lignite, natural gas, RLNG, liquid fuel etc., details of blending ratio of the imported coal with
+domestic coal, proportion of e-Auction coal shall also be displayed on the website of the generating company. The
+details should be available on its website on monthly basis for a period of three months.
+11.18
+The landed fuel cost of primary fuel and secondary fuel for tariff determination shall be based on actual weighted
+average cost of primary fuel and secondary fuel of the three preceding months, and in the absence of landed costs for
+the three preceding months, latest procurement price of primary fuel and secondary fuel for the generating station,
+before the start of the tariff period for existing stations and immediately preceding three months in case of new
+generating stations shall be taken into account.
+The landed cost of fuel for the month shall include price of fuel corresponding to the grade and quality of fuel inclusive of
+royalty, taxes and duties as applicable, transportation cost by rail/road or any other means, and, for the purpose of
+computation of energy charge, and in case of coal/lignite shall be arrived at after considering normative transit and
+handling losses as percentage of the quantity of coal or lignite dispatched by the coal or lignite supply company during
+the month as given below :
+Pithead generating stations : 0.2%
+Non-pithead generating stations : 0.8% :
+Provided that in case of pithead stations if coal or lignite is procured from sources other than the pithead mines which is
+transported to the station through rail, transit loss of 0.8% shall be applicable :
+Provided further that in case of imported coal, the transit and handling losses shall be 0.2%.
+Provided that, the tariff of gas based generating stations covered under the "Scheme for Utilization of Gas based power
+generation capacity" issued by the Government of India, Ministry of Power vide Office Memorandum No. 4/ 2/2015-Th.1
+dated 27.3.2015 shall be determined in due consideration of the provisions of that scheme in deviation of the relevant
+regulations.
+Fuel Price Adjustment :
+11.19
+The Fuel Price Adjustment (FPA) applicable for calculation of Energy Charges is as follows :
+(a)
+For coal-based generating stations, FPA = A + B
+Where,
+FPA -Fuel Price Adjustment for a month in Paise/ kWh Sent out ;
+A -Fuel price adjustment for Secondary Fuel oil in Paise/kWh sent out ;
+B -Fuel price adjustment for Coal in Paise/kWh sent out ;
+A=| 10(100-ACn)| *SFCn*  (Pom-  Pos)
+B=| 10(100-ACn)| *[SFCn*  {(Pcm/Kcm) - (Pcs/Kcs)}-
+SFCn {( K om * P cm / K cm ) -( K os * P cs / K cs )}]
+Where,
+SFCn = Normative Specific Fuel Oil consumption in l/ kWh ;
+SHRn = Normative Gross Station Heat Rate in Kcal/ kWh ;
+ACn = Normative Auxiliary consumption in percentage ;
+Pom = Weighted average price of fuel oil on as consumed basis during the month in Rs. /KL ;
+Kom = Weighted average Gross Calorific Value of fuel oils fired at boiler front for the month in Kcal/Litre ;
+Pos = Base value of price of fuel oils as taken for determination of base energy charge in tariff order in Rs. / KL ;
+Page 31/42
+----- PAGE 32 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Kos = Base value of Gross Calorific Value of fuel oils as taken for determination of base energy charge in tariff order in
+Kcal/Litre ;
+Pcm = Weighted average price of coal procured and burnt during the month at the power station in Rs./ MT ;
+Kcm = Weighted average Gross Calorific Value of coal fired at boiler front for the month in Kcal/kg;
+Pcs= Base value of price of coal as taken for determination of base energy charge in tariff order in Rs. /MT
+Kcs = Base value of gross calorific value of coal as taken for determination of base energy charge in tariff order in
+kCal/Kg
+(b)
+For gas based thermal power plants, the Fuel Price Adjustment is calculated using the following formula :
+FPA| 10* SHRn*
+(Pm/Km)-(Ps/Ks)
+|
+Where :
+FPA = Fuel Price Adjustment for a month in Paise/kWh sent out ;
+SHRn = Normative Gross Station Heat Rate expressed in kCal/kWh ;
+ACn = Normative Auxiliary Consumption in percentage ;
+Pm = Weighted average price of Gas or Liquid fuel as per PSL for the month in Rs. / 1000 SCM of Rs./ KL or Rs./MT ;
+Km = Weighted average Gross Calorific Value of Gas or Liquid fuel for the month in Kcal/ SCM or kCal/ Litre or kCal/ Kg
+;
+Pm = Base price of Gas or Liquid fuel as taken for determination of base energy charge in tariff order in Rs. / 1000 SCM
+of Rs./ KL or Rs./MT ;
+Ks = Base value of Gross Calorific Value of Gas or Liquid fuel as taken determination of base energy charge in tariff
+order in Kcal/ SCM or kCal/Litre or kCal/ Kg ;
+11.20
+Any variation in fuel prices on account of change in the Gross Calorific Value (GCV) of coal or gas or liquid fuel shall be
+adjusted on a monthly basis on the basis of weighted average GCV of coal or gas or liquid fuel in stock, received and
+burnt and weighted average landed cost incurred by the generating company for procurement of coal, oil, or gas or liquid
+fuel, as the case may be for a power station.
+11.21
+Initially, the Base value of price of fuel oils, price of coal incurred by the Generating Company/ generating station shall
+be taken based on actuals of the weighted average price of the three preceding months and in the absence of weighted
+average landed costs for the three preceding months, latest respective weighted average procurement price for the
+generating station, before the start of the year.
+Initially the Base value of gross calorific value of fuel oils and gross calorific value of coal incurred by the Generating
+Company/ Generating Station shall be taken based on actuals of the weighted average gross calorific value of the three
+preceding months and in the absence of weighted average gross calorific value for the three preceding months, latest
+weighted average gross calorific value for the generating station, before the start of the year.
+11.22
+In its bills, the generating company shall separately indicate rate of energy charges at base price of primary and
+secondary fuel specified by the Commission and the fuel price adjustment. No separate petition needs to be filed with
+the Commission for fuel price adjustment.
+12.
+Hydro power generating station.
+- Components of tariff :
+12.1
+The Tariff for supply of electricity from a hydro power generating station shall comprise of capacity charge and energy
+charge to be derived in the manner specified in these Regulations, for recovery of annual fixed cost consisting of the
+following components :
+(a)
+Return on Equity ;
+(b)
+Page 32/42
+----- PAGE 33 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Interest and Financing Charges on Loan Capital ;
+(c)
+Depreciation ;
+(d)
+Operation and Maintenance Expenses ;
+(e)
+Interest Charges on Working Capital ;
+Less :
+(f)
+Non-Tariff Income
+Norms of operation
+12.2
+The norms of operation for hydro power station shall be as under.
+12.3
+Normative Annual Plant Availability Factor (NAPAF): The Normative Annual Plant Availability Factor for hydro
+generating stations shall be determined by the Commission as per the following criteria :
+(a)
+Storage and pondage type plants with head variation between full reservoir level (FRL) and Minimum Draw Down Level
+(MDDL) of up to 8% and where plant availability is not affected by silt : 90%
+(b)
+Storage and pondage type plants with head variation between FRL and MDDL of more than 8%, where plant availability
+is not affected by silt: Plant-specific allowance to be provided in NAPAF for reduction in NAPAF for reduction in MW
+output capability as reservoir level falls over the months. As a general guidelines the allowance on this account in terms
+of multiplying factor may be worked out from the projection of annual average of net head, applying the formula :
+= (Average head/Rated head) +0.02
+Alternatively in case of a difficulty in making such projection, the multiplying factor may be determined as :
+= (Head at MDDL/Rated head) x 0.5 + 0.52
+(c)
+Pondage type plants where plant availability is significantly affected by silt : 85%
+(d)
+Run-of-river type plants : NAPAF to be determined plant-wise, based on 10 day design energy data, moderated by past
+experience where available/relevant.
+12.4
+A further allowance may be made by the Commission in NAPAF determination under special circumstances e.g.
+abnormal silt problem or other operating conditions, and known plant imitations.
+12.5
+In case of a new hydro-electric project the developer shall have the option of approaching the Commission in advance
+for fixation of NAPAF based on the principles enumerated in Regulation12.3, 12.4.
+12.6
+In case of pumped storage hydro generating stations, the quantum of electricity required for pumping water from
+down-stream reservoir to up-stream reservoir shall be arranged by the beneficiaries duly taking into account the
+transmission and distribution losses etc. up to the bus bar of the generating station. In return, beneficiaries shall be
+entitled to equivalent energy of 75% of the energy utilized in pumping the water from the lower elevation reservoir to the
+higher elevation reservoir from the generating station during peak hours and the generating station shall be under
+obligation to supply such quantum of electricity during peak hours :
+Provided that in the event of the beneficiaries failing to supply the desired level of energy during off-peak hours, there
+will be pro-rata reduction in their energy entitlement from the station during peak hours :
+Provided further that the beneficiaries may assign or surrender their share of capacity in the generating station, in part or
+in full, or the capacity may be reallocated by the Central Government, and in that event, the owner or assignee of the
+capacity share shall be responsible for arranging the equivalent energy to the generating station in off-peak hours, and
+be entitled to corresponding energy during peak hours in the same way as the original beneficiary was entitled.
+Page 33/42
+----- PAGE 34 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+12.7
+Auxiliary Energy Consumption (AUX): The norms for auxiliary energy consumption shall be as under :
+(a)
+Surface hydro generating stations
+i. With rotating mounted on the generator shaft : 0.7%
+ii. With static excitation system : 1%
+(b)
+Underground hydro generating stations
+i. With rotating exciters mounted on the generator shaft : 0.9%
+ii. With static excitation system : 1.2%
+Transformation Losses, from generation voltage to transmission voltage = 0.5% of energy generated
+Computation and Payment of Capacity Charges and Energy Charges for Hydro Generating Stations :
+12.8
+The annual fixed cost of a hydro generating station shall be computed, based on norms specified under these
+Regulations, and recovered on monthly basis under capacity charge (inclusive of incentive) and energy charge, which
+shall be payable by the Beneficiaries in proportion to their respective allocation in the saleable capacity of the generating
+station, that is to say, in the capacity excluding the free power to the home State :
+Provided that during the period between the Date of Commercial Operation of the first unit of the generating station and
+the Date of Commercial Operation of the generating station, the annual fixed cost shall provisionally be worked out
+based on the latest estimate of the completion cost for the generating station, for the purpose of determining the
+Capacity Charge and Energy Charge payable during such period.
+12.9
+The capacity charge (inclusive of incentive) payable to a hydro generating station for a calendar month shall be -
+= AFC x 0.5 x NDM / NDY x (PAFM / NAPAF) (in Rupees)
+Where,
+AFC -Annual Fixed Cost specified for the Year, in Rupees ;
+NAPAF -Normative Plant Availability Factor in percentage ;
+NDM -Number of Days in the month ;
+NDY -Number of Days in the Year ;
+PAFM -Plant Availability Factor achieved during the month, in Percentage.
+12.10
+The PAFM shall be computed in accordance with the following formula :
+PAFM = 10000 x i=I? NDCi / {N x IC x (100 -AUX)} %
+Where,
+AUX -Normative auxiliary energy consumption in percentage ;
+DCi -Declared Capacity (in ex-bus MW) for the ith Day of the month which the station can deliver for at least three (3)
+hours, as certified by the nodal load dispatch centre after the Day is over ;
+IC -Installed Capacity (in MW) of the complete generating station ;
+N -Number of Days in the month
+12.11
+The energy charge shall be payable by every Beneficiary for the total energy scheduled to be supplied to the
+Beneficiary, excluding free energy, if any, during the calendar month, on ex power plant basis, at the computed energy
+charge rate. Total Energy Charge payable to the Generating Company for a month shall be :
+= (Energy Charge Rate in Rs. / kWh) x {Scheduled Energy (ex-bus) for the month in kWh} x (100 -FEHS) / 100.
+12.12
+Energy Charge Rate (ECR) in Rupees per kWh on ex-power plant basis, for a hydro generating station, shall be
+determined up to three decimal places based on the following formula, subject to the Regulation12.14 :
+ECR = AFC x 0.5 x 10 / {DE x (100 -AUX) x
+(100 -FEHS)}
+Where,
+DE -Annual Design Energy specified for the hydro generating station, in MWh, subject to the provision in
+Page 34/42
+----- PAGE 35 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+Regulation12.13 ;
+FEHS -Free energy for home State, in per cent, if any.
+12.13
+In case actual total energy generated by a hydro generating station during a Year is less than the Design Energy for
+reasons beyond the control of the Generating Company, the following treatment shall be applied on a rolling basis :-
+(i)
+in case the energy shortfall occurs within 10 years from the Date of Commercial Operation of a generating station, the
+ECR for the Year following the Year of energy shortfall shall be computed based on the formula specified in Regulation
+12.12 with the modification that the DE for the Year shall be considered as equal to the actual energy generated during
+the Year of the shortfall, till the energy charge shortfall of the previous Year has been made up, after which normal ECR
+shall be applicable ;
+(ii)
+in case the energy shortfall occurs after ten years from the Date of Commercial Operation of a generating station, the
+following shall apply. Suppose the specified annual Design Energy for the station is DE MWh, and the actual energy
+generated during the concerned (first) and the following (second) financial year is A1 and A2 MWh respectively, A1
+being less than DE. Then, the Design Energy to be considered in the formula as specified in Regulation of these
+Regulation for calculating the ECR for the third financial year shall be moderated as (A1 + A2 -DE) MWh, subject to a
+maximum of DE MWh and a minimum of A1 MWh ;
+(iii)
+Actual energy generated (e.g. A1, A2) shall be arrived at by multiplying the net metered energy sent out from the station
+by 100 / (100 -AUX).
+12.14
+In case the Energy Charge Rate (ECR) for a Hydro generating station, as computed in Regulation12.12 , exceeds eighty
+paise per kWh, and the actual saleable energy in a Year exceeds {DE x (100 -AUX) x (100 -FEHS) / 10000} MWh, the
+energy charge for the energy in excess of the above shall be billed at eighty paise per kWh only :
+Provided that in a year following a year in which total energy generated was less than the Design Energy for reasons
+beyond the control of the generating company, the Energy Charge Rate shall be reduced to eighty paise per kWh after
+the energy charge shortfall of the previous year has been made up.
+12.15
+The capacity charge payable to a pumped storage Hydro generating station for a calendar month shall be :
+(AFC x NDM / NDY) (in Rupees), if actual Generation during the month is >= 75% of the Pumping Energy consumed by
+the station during the month and {(AFC x NDM / NDY) x (Actual Generation during the month during peak hours/ 75% of
+the Pumping Energy consumed by the station during the month) (in Rupees)}, if actual Generation during the month is <
+75 % of the Pumping Energy consumed by the station during the month.
+Where,
+AFC = Annual fixed cost specified for the year, in Rupees
+NDM = Number of days in the month
+NDY = Number of days in the year :
+Provided that there would be adjustment at the end of the year based on actual generation and actual pumping energy
+consumed by the station during the year.
+12.16
+The energy charge shall be payable by every beneficiary for the total energy scheduled to be supplied to the beneficiary
+in excess of the design energy plus 75% of the energy utilized in pumping the water from the lower elevation reservoir to
+the higher elevation reservoir, at a flat rate equal to the average energy charge rate of 20 paise per kWh, excluding free
+energy, if any, during the calendar month, on ex power plant basis.
+12.17
+Energy charge payable to the generating company for a month shall be :
+= 0.20 x {Scheduled energy (ex-bus) for the month in kWh -(Design Energy for the month (DEm) + 75% of the energy
+utilized in pumping the water from the lower elevation reservoir to the higher elevation reservoir of the month)} x (100
+-FEHS) / 100.
+Where,
+Page 35/42
+----- PAGE 36 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+DEm = Design energy for the month specified for the Hydro generating station in MWh
+FEHS = Free energy for home State, in per cent :
+Provided that in case the Scheduled energy in a month is less than the Design Energy for the month plus 75% of the
+energy utilized in pumping the water from the lower elevation reservoir to the higher elevation reservoir of the month,
+then the energy charges payable by the beneficiaries shall be zero.
+12.18
+The generating company shall maintain the record of daily inflows of natural water into the upper elevation reservoir and
+the reservoir levels of upper elevation reservoir and lower elevation reservoir on hourly basis. The generator shall be
+required to maximize the peak hour supplies with the available water including the natural flow of water. In case it is
+established that generator is deliberately or otherwise without any valid reason, is not pumping water from lower
+elevation reservoir to the higher elevation during off-peak period or not generating power to its potential or wasting
+natural flow of water, the capacity charges of the day shall not be payable by the beneficiary. For this purpose, outages
+of the unit(s)/ station including planned outages and the forced outages up to 15% in a year shall be construed as the
+valid reason for not pumping water from lower elevation reservoir to the higher elevation during off-peak period or not
+generating power using energy of pumped water or natural flow of water :
+Provided that the total capacity charges recovered during the year shall be adjusted on pro-rata basis in the following
+manner in the event of total machine outages in a year exceeds 15% :
+(ACC)
+adj = (ACC) R x (100- ATO)/85
+Where,
+(ACC)
+adj -Adjusted Annual Capacity Charges
+(ACC)
+R -Annual Capacity Charges recovered
+ATO - Total Outages in percentage for the year including forced and planned outages :
+Provided further that the generating station shall be required to declare its machine availability daily on day ahead basis
+for all the time blocks of the day in line with the scheduling procedure of Grid Code.
+12.19
+The concerned Load Despatch Centre shall finalise the schedules for the Hydro generating stations, in consultation with
+the Beneficiaries, for optimal utilization of all the energy declared to be available, which shall be scheduled for all
+beneficiaries in proportion to their respective allocations in the generating station.
+Part IV ? Procedure of Filling of ARR and Tariff
+13.
+Multi year tariff filing procedure. - 13.1 The filing under MYT by the generating company shall be done as per the
+timelines specified in these Regulations and in compliance with the principles for determination of ARR as specified in
+these Regulations, in such form as may be prescribed by the Commission from time to time.
+13.2
+The Applicant shall also submit the Multi Year Tariff filing in electronic format to the Commission.
+13.3
+The applicant shall also submit a statement on compliance of directives issued by the Commission in its previous orders.
+Beginning of the Control Period Filings :
+13.4
+The generating company shall file for the Commission's approval, no later than 1st September of the year preceding the
+start of the Control Period, a Business Plan and a Capital Investment Plan in accordance with Regulations 9.5 to 9.8 ;
+13.5
+The Applicant shall file the MYT application for approval of generation tariff for each year of the Control Period
+consistent with the Business Plan, not later than 30th November or less than 120 days before the commencement of the
+first year of the Control Period or such other date as may be directed by the Commission.
+Annual Filings for the Control Period
+13.6
+The generating company shall submit periodic returns as may be specified, containing operational and cost data to
+Page 36/42
+----- PAGE 37 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+enable the Commission to monitor the implementation of its MYT order.
+13.7
+The generating company shall submit to the Commission annual statements of its performance and accounts including
+latest report of audited accounts.
+14.
+Disposal of application. - 14.1 The Commission shall process the filings made by the Generating Company in
+accordance with these Regulations and the Conduct of Business Regulations.
+14.2
+Based on the generating company's filings, objections/ suggestions from public and other stakeholders, the Commission
+may accept the application with such modifications and/or such conditions as may be deemed justified and appropriate
+and issue :
+(a)
+An Order approving or rejecting the Business Plan shall, as far as practicable, within sixty (60) days from receipt of a
+complete Business Plan. The Order shall also contain targets for controllable items for the Control Period :
+(b)
+A Tariff Order, within 120 days of the receipt of the application and after considering all suggestions and objections from
+public and other stakeholders, containing inter alia Trued up cost components for the Year preceding the base year,
+estimation of parameters for the Base Year and determination of ARR and generation tariff for each year of the Control
+Period.
+15.
+Annual performance review. - 15.1 To ensure smooth implementation of the Multi Year Tariff (MYT) framework, the
+Commission may undertake periodic reviews of generating company's performance during the Control Period, to
+address any practical issues, concerns or unexpected outcomes that may arise.
+15.2
+The generating company shall submit information as part of annual performance review on actual performance to
+assess the performance vis-à-vis the targets approved by the Commission at the beginning of the Control Period. This
+shall include annual statements of its performance and accounts including latest available accounting statements, norms
+achieved and the tariff worked out in accordance with these Regulations.
+15.3
+The Commission may also direct any modifications to the forecast of the Generating Company for the remainder of the
+Control Period, with detailed reasons for the same.
+16.
+Truing up. - 16.1 The True-Up for the Control Period shall be as per Regulations 9.12 .
+Part V ? Miscellaneous
+Foreign Exchange Rate Variation :
+17.
+1. The generating company may hedge foreign exchange exposure in respect of the interest on foreign currency loan
+and repayment of foreign loan acquired for the generating station or the transmission or distribution system, in part or full
+in the discretion of the generating company or the licensee.
+17.2
+The generating company shall recover the cost of hedging of foreign exchange rate variation corresponding to the
+normative foreign debt, in the relevant year on year-to-year basis as expense in the period in which it arises and extra
+rupee liability corresponding to such foreign exchange rate variation shall not be allowed against the hedged foreign
+debt.
+Billing and Payment of Charges :
+17.3
+Bills shall be raised for capacity charge and energy charge on monthly basis by the generating company in accordance
+with these Regulations and payments shall be made by the beneficiaries directly to the generating company.
+Scheduling :
+17.4
+The methodology for scheduling and despatch for the generating station shall be as specified in Grid Code, approved by
+Page 37/42
+----- PAGE 38 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+the Commission.
+Metering and Accounting :
+17.5
+Metering arrangements, including installation, testing and operation and maintenance of meters and collection,
+transportation and processing of data required for accounting of energy exchanges and average frequency on 15 minute
+Time Block basis shall be organised by the State Transmission Utility and State Load Despatch Centre as per the Grid
+Code. All concerned entities (in whose premises the special energy meters are installed), shall fully cooperate with the
+State Transmission Utility/State Load Despatch Centre and extend the necessary assistance by taking weekly meter
+readings and transmitting them to the State Load Despatch Centre. The State Load Despatch Centre shall issue the
+Accounts for energy on monthly basis as well as Deviation charges on weekly basis.
+Incentive for Completion of Hydro Power Generating Stations ahead of Schedule :-
+17.6
+In case of commissioning of a Hydro Power Generating Station or part thereof ahead of schedule, as set out in the first
+approval of the Central/State Government or the technoeconomic clearance of the Authority, as applicable, the
+generating station shall become eligible for incentive for an amount equal to pro-rata reduction in interest during
+construction, achieved on commissioning ahead of the schedule. The incentive shall be recovered through tariff in
+twelve equal monthly instalments during the first year of operation of the generating station. In case of delay in
+commissioning as set out in the first approval of the Central/ State Government or the techno-economic clearance of the
+Authority, as applicable, interest during construction for the period of delay shall not be allowed to be capitalized for
+determination of tariff, unless the delay is on account of natural calamities or geological surprise.
+Late Payment Surcharge :
+17.7
+In case of payment of bills is delayed beyond a period of 60 days from the date of presentation of bills, the generating
+company may levy at the rate of 1.25% per month for each day of delay of payment.
+Rebate :
+17.8
+For payment of bills of capacity charges/energy charges through a letter of credit on presentation, a rebate of 2% shall
+be allowed. If the payment is made by any other mode within a period of one month of presentation of bills by the
+Generating Company, a rebate of 1% shall be allowed. Savings :
+17.9
+Nothing in these Regulations shall, expressly or impliedly, bar the Commission dealing with any matter or exercising any
+power under the Act for which no regulations have been framed, and the Commission may deal with such matters,
+powers and functions in a manner, as it considers just and appropriate.
+17.10
+Powers to Remove Difficulties : If any difficulty arises in giving effect to these Regulations, the Commission may, of its
+own motion or otherwise, by an order and after giving reasonable opportunity to those likely to be affected by such
+order, make such provisions, not inconsistent with these Regulations, as may appear to be necessary for removing the
+difficulty.
+17.11
+Powers to Relax : The Commission, for reasons to be recorded in writing, may relax or vary any of the provisions on its
+own motion or on an application made before it by an interested person.
+18.
+Summary of timelines. -
+S. No.
+Description
+Filing of theDocument by
+Obtaining additionalinformation and
+acceptance bythe Commission
+Approval of theDocument
+1
+2
+Page 38/42
+----- PAGE 39 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+3
+4
+5
+1.
+Business Plan for the FirstControl Period
+1st August, 2017
+Within 15 days of filing ofdocument
+Within 60 days ofacceptance of the filing
+2..
+Filing of MYT Petition for ExistingStations for
+the Control PeriodFY 2018-2019 to FY 2020-21
+30th November,2017
+Within 30 days offiling of document
+Within 120 days ofacceptance of the filing
+3..
+Filing of MYT Petition for NewStations for the
+Control PeriodFY 2018-19 to FY 2020-21
+Within 180 days ofanticipated CoD
+Within 30 days offiling of document
+Within 120 days ofacceptance of the filing
+4.
+Annual PerformanceReview/True-up
+30th November ofeach year of theControl Period
+Within 30 days offiling of document
+Within 120 days ofacceptance of the filing
+Appendix-I : Depreciation Schedule
+S. No.
+Asset Particulars
+Depreciation Rate(Salvage value=10%)
+1
+2
+3
+SLM
+A
+Land owned under full ownership
+0.00%
+B
+Land under lease :
+(a)
+For investment in the land
+3.34%
+(b)
+For cost of clearing the site
+3.34%
+(c)
+Land for reservoir in case of hydro generating
+station
+3.34%
+C
+Assets Purchased New :
+(a)
+Page 39/42
+----- PAGE 40 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+PI and machinery in generating stations:
+(i) Hydroelectric
+5.28%
+(ii) Steamelectric NHRB and Waste Heat Recovery Boilers
+5.28%
+(iii) Diesel electric and gas plant
+5.28%
+(b)
+Cooling towers and circulating water systems
+5.28%
+(c)
+Hydraulic works forming part of hydroelectric
+system including :
+(i) Dams, spillways weirs, canals, reinforced concrete flumes
+and siphons
+5.28%
+(ii) Reinforced concrete pipelines and surge tanks, steel
+pipelines, sluice gates, steel surge (tanks) hydraulic control
+valves and hydraulic works
+5.28%
+(d)
+Building and civil engineering works of a
+permanent character, not mentioned above :
+(i) Offices and showrooms
+3.34%
+(ii) Containing thermoelectric generating plant
+3.34%
+(iii) Containing hydroelectric generating plant
+3.34%
+(iv) Temporary erection such as wooden structures
+100.00%
+(v) Roads other than kutcha roads
+3.34%
+(vi) Others
+3.34%
+(e)
+Transformers, kiosk sub-station equipment and
+other fixed apparatus (including plant foundations) :
+(i) Transformers (including foundations) having a rating of 100
+kilo volt amperes and over
+5.28%
+(ii) Others
+5.28%
+(f)
+Switchgear, including cable connections
+5.28%
+(g)
+Lightning arrestors :
+(i) Station type
+5.28%
+(ii) Pole type
+Page 40/42
+----- PAGE 41 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+5.28%
+(iii) Synchronous condenser
+5.28%
+(h)
+Batteries :
+5.28%
+(i) Underground cable including joint boxes and disconnected
+boxes
+5.28%
+(ii) Cable duct system
+5.28%
+(i)
+Overhead lines including cable support :
+(i) Lines on fabricated steel operating at terminals voltages
+higher than 66 kV
+5.28%
+(ii) Lines on steel supports operating at terminal voltages
+higher than 13.2 kV but not exceeding 66 kV
+5.28%
+(iii) Lines on steel or reinforced concrete 5.28%
+(iv) Lines on treated wood supports supports
+5.28%
+(j)
+Meters
+5.28%
+(k)
+Self propelled vehicles 9.50%
+(l)
+Air conditioning plants :
+(i) Static
+5.28%
+(ii) Portable
+9.50%
+(m)
+(i) Office furniture and furnishings
+6.33%
+(ii) Office equipment 6.33%
+(iii) Internal wirings including fittings and apparatus
+6.33%
+(iv) Street Light fittings
+5.28%
+(n)
+Apparatus let on hire :
+(i) Other than motors
+9.50%
+(ii) Motors
+6.33%
+(o)
+Communication equipment :
+(i) Radio and higher frequency carrier systems
+6.33%
+Page 41/42
+----- PAGE 42 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Terms and Conditions for Determ...
+(ii) Telephone lines and telephones
+6.33%
+(p)
+IT Equipments
+15.00%
+(q)
+Fiber Optic
+6.33%
+(r)
+Any other assets not covered above
+5.28%
+Related AI tags, queries and research notes
+Translation
+Page 42/42

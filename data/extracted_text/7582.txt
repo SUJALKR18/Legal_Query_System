@@ -1,0 +1,654 @@
+
+----- PAGE 1 -----
+U.P. E-Court Fees Rules, 2016
+U.P. E-Court Fees Rules, 2016
+Source: https://indiankanoon.org/doc/162798562/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Uttar Pradesh - Act
+U.P. E-Court Fees Rules, 2016
+UTTAR PRADESH
+India
+U.P. E-Court Fees Rules, 2016
+Rule U-P-E-COURT-FEES-RULES-2016 of 2016
+Published on 19 February 2016
+Commenced on 19 February 2016
+[This is the version of this document from 19 February 2016.]
+[Note: The original publication document is not available and this content could not be verified.]
+U.P. E-Court Fees Rules, 2016
+Published vide Notification No. 179/94/Sta.Ni.-2-2016-700(162)-14, dated 19.2.2016, published in the U.P. Gazette,
+Extra., Part 4, Section (Kha), dated 19.2.2016, pp. 13-24
+No. 179/94/Sta.Ni.-2-2016-700(162)-14. - In exercise of the powers under Section 21 and Section 26 of the Court Fees
+Act, 1870 (Act No. 7 of 1870), the Governor is pleased to make the following rules, namely -
+Part I ? Preliminary
+1.
+Short title, extent, and commencement.
+(1)
+These rules may be called the Uttar Pradesh E-Court Fees Rules, 2016.
+(2)
+Page 1/13
+----- PAGE 2 -----
+U.P. E-Court Fees Rules, 2016
+These rules will be applicable to the whole State of Uttar Pradesh.
+(3)
+These rules shall come into force with effect from the date of their publication in the Gazette.
+2.
+Definitions.
+(1)
+In these rules unless there is anything repugnant in the subject or context, -
+(a)
+"Act" means the Court Fees Act, 1870 (Act No. 7 of 1870), as amended from time to time in its application to Uttar
+Pradesh;
+(b)
+"Agreement" means the agreement executed between the Appointing Authority and the Central Record-keeping Agency
+describing the terms and conditions of appointment of the Central Record-keeping Agency;
+(c)
+"Appointing Authority" means the Government or the Commissioner of Stamps, authorized by the Government in this
+behalf by notification in the Gazette for all or any specific purpose under these rules;
+(d)
+"Approved Intermediaries" means the Central Record-keeping Agency and the Authorized Collection Centres including
+all its offices and branches as appointed with the prior approval of the appointing authority to act as an intermediary
+between the Government and the Court Fees payer for collection of Court Fess under these rules;
+(e)
+"Authorized Collection Centre" means an agent appointed by the Central Record keeping Agency, with the prior
+approval of the Appointing Authority, to act as an intermediary between the Central Record-keeping Agency and the
+Court Fees payer for collection of Court Fees;
+(f)
+"Central Record-keeping Agency" means an agency appointed by the Appointing Authority of computerization of Court
+Fees Administration System in the State or at such places as the Appointing Authority may determine from time to time;
+(g)
+"Commissioner of Stamps" means the Inspector General of Registration appointed under Section 3 of the Registration
+Act, 1908;
+(h)
+"Department" means the Stamp and Registration/Department, Government of Uttar Pradesh;
+(i)
+"E-Court Fees" for purposes of Rule 32 of Uttar Pradesh Stamp Rules, 1942 in addition to kind of stamps prescribed
+therein, means an electronically generated impression to denote the payment of Court Fees;
+(j)
+"Form" means a form prescribed by the Appointing Authority Registrar General of the High Court from time to time;
+(k)
+"Government" means the State Government of Uttar Pradesh;
+(l)
+"Grievance Redressal Officer" means an officer of the department not below the rank of Assistant Commissioner of
+Stamps, authorized by the Commissioner of Stamps, or an officer not below the rank of Additional District Judge
+authorized by the Registrar General of the High Court or the District Judge, as the case may be.
+(m)
+"Collector" means the "collector" as defined in Indian Stamp Act, 1899.
+(2)
+Words and expressions not defined in these rules shall have the same meanings respectively assigned to them in the
+Court Fees Act, 1870 as amended from time to time in its application to Uttar Pradesh and the Information Technology
+Act, 2000.
+Part II ? Appointment of central record keeping agency
+3.
+Page 2/13
+----- PAGE 3 -----
+U.P. E-Court Fees Rules, 2016
+Eligibility criteria for appointment of Central Record-keeping Agency.
+- Any public Financial Institution, Indian Scheduled Bank, a Company engaged in providing depository services
+appointed by Central Government, a company recognized by the Government either individually or in consortium may
+be eligible for appointment as Central Record-keeping Agency.
+4.
+Appointment of Central Record-keeping Agency.
+- The Appointing Authority shall select and appoint by notification a suitable agency to function a Central
+Record-keeping Agency for the State to implement the Computerization of Courts Fees Administration System in
+specified courts of the State as declared by the Appointing Authority from time to time, in the order as mentioned below,
+-
+(a)
+On the basis recommendations, if any, of the Central Government regarding appointment of Central Record-keeping
+Agency, issued from time to time;
+(b)
+By inviting technical and financial bids through a duly constituted expert Selection Committee.
+5.
+Term of appointment.
+- The term of Central Record-keeping Agency appointed under these rules shall be five years.
+6.
+Central Record-keeping Agency of execute Agreement and Undertaking and Indemnity Bond.
+(1)
+The appointment of the Central Record-keeping Agency shall be on contract basis and the Agency shall enter into an
+Agreement with the Appointing Authority.
+(2)
+The Central Record-keeping Agency shall along with the agreement referred to in sub-rule (1) execute an Undertaking
+and Indemnity Bond, in favour of the Appointing Authority in the manner determined by the Appointing Authority from
+time to time.
+7.
+Termination of appointment of Central Record-keeping Agency.
+(1)
+The appointment of the Central Record-keeping Agency may be terminated earlier than the agreed term of appointment,
+on the ground of any breach of obligation, terms of agreement, the provisions of these rules or the Act financial
+irregularity or for any other sufficient reason which shall be recorded in writing.
+(2)
+The decision to terminate the appointment will be taken, -
+(a)
+after the Central Record-keeping Agency has been given a show-cause notice specifying the details of ground under
+sub-rule (1);
+(b)
+after the Central Record-keeping Agency has been given a reasonable opportunity of being heard;
+(c)
+after consideration of the explanation offered by the Central Record-keeping Agency; and
+(d)
+in case of breach of obligation, if the Central Record-keeping Agency fails to cure the breach within the period specified
+in the show-cause notice.
+(3)
+If the ground, on which the Appointing Authority has decided to terminate the appointment, is such that it has also
+caused loss of revenue to the State, the Central Record keeping Agency shall be bound to pay the entire amount of
+revenue loss, in addition to such amount of penalty as may be imposed by the Appointing Authority.
+(4)
+The amount or penalty that may be imposed under sub-rule (3) will not exceed twice the loss of revenue.
+Page 3/13
+----- PAGE 4 -----
+U.P. E-Court Fees Rules, 2016
+(5)
+On termination of appointment under this Rule, the Central Record-keeping Agency shall transfer all the data generated
+during the period of appointment to the Government. After the termination of the appointment, the Central
+Record-keeping Agency, shall not use or cause to be used the data generated during the period of appointment for its
+business or any other purpose.
+8.
+Renewal of appointment of Central Record-keeping Agency.
+(1)
+The application for renewal of appointment of the Central Record-keeping Agency will be made to the Appointing
+Authority at least three months before the expiry of the running term of appointment.
+(2)
+The Appointing Authority may, before taking decision on the application for renewal of the appointment of the Central
+Record-keeping Agency, call for any information or record from the Department or the Central Record-keeping Agency
+or the Authorized Collections Centres or any other person or body.
+(3)
+The Appointing Authority, on being satisfied about the suitability of renewal, may renew the appointment.
+(4)
+If the Appointing Authority decides to renew the appointment, a fresh agreement referred in sub-rule (1) of Rule 6 and
+Undertaking and Indemnity Bond referred to in sub-rule (2) of Rule 6, will be executed with suitable amendments, if any.
+(5)
+The Appointing Authority shall have power to refuse the renewal of the term of appointment for reasons to be recorded
+in writing.
+Part III ? Duties of the central record-keeping agency
+9.
+(1)
+The Central Record-keeping Agency shall be responsible for - (a) creating need based infrastructure, hardware and
+software in designated places in consultation with the Appointing Authority and its connectivity with its main server;
+(b)
+creating need based hardware and software in designated Courts, and at authorized collection centres (the appoint of
+contract for payment of Court Fees) in the identified cities/places;
+(c)
+providing suitable and adequate training for operation and the use of the system to the personnel of Department/Courts
+as may be specified from time to time by the Appointing Authority;
+(d)
+facilitating in selection of Authorized Collection Centres for collection of Court Fees and issuing of E-court Fees
+Certificates;
+(e)
+co-ordinating between the central server of Central Record-keeping Agency, Authorized Collection Centres, offices of
+court supervisory and controlling officers/courts and any other office or places as may be specified by the Appointing
+Authority;
+(f)
+Collecting Court Fees in accordance with these rules and remitting it in the proper Head of Account of the State as
+directed from time to time by the Appointing Authority;
+(g)
+Developing and designing various reports as required under these rules and as directed by the High Court of Judicature
+at Allahabad and the Appointing Authority from time to time;
+(h)
+It shall be duty of the Central Record-keeping Agency be mutually agreed upon between, Appointing Authority, Central
+Record-keeping Agency and the court.
+(2)
+(a)
+Page 4/13
+----- PAGE 5 -----
+U.P. E-Court Fees Rules, 2016
+The Central Record-keeping Agency shall provide, transfer or share without the written permission of the Appointing
+Authority any hardware, software or any other technology or details in respect of the E-Court Fees project undertaken by
+it in the State to anybody other than the duly appointed Authorized Collection Centres.
+(b)
+Deploy the E-Court Fees application software after getting the security audit conducted by agency empowered by the
+Government. The security audit shall also be required whenever there is any change in the E-Court Fees application
+software subsequently.
+(c)
+Maintain the logs of all the activities on the server dedicated for E-Court Fees under guidelines of Indian Computer
+Emergency Response Team "CERT" on regular basis.
+10.
+Commission allowable to the Central Record-keeping Agency.
+(1)
+The Central Record-keeping Agency shall be entitled to such Commission on the amount of E-Court Fees collected as
+may be notified by the Government in the Gazette from time to time.
+(2)
+The commission payable to the Central Record-keeping Agency shall be subject to the condition specified in Rule 20.
+11.
+Specification of software to be used by the Central Record Keeping Agency.
+(1)
+The Central Record-keeping Agency shall have to design and use software in such a manner that the following minimum
+details are shown on the E-Court Fees certificate -
+(a)
+Distinguished Unique Identification number of the Certificate so that it is not repeated on any other certificate during the
+lifetime of the E-Court Fees system;
+(b)
+date and time of issue;
+(c)
+amount of Court Fees paid through the certificate in words and figures;
+(d)
+in case of E-Court Fees certificate above ninety-nine rupees, name of the litigant;
+(e)
+location code of the issuing branch or the Approved Intermediary; and
+(f)
+any other distinguishing mark on the certificate e.g. bar code etc., if any,
+(2)
+The Software to be used by the Central Record-keeping Agency shall also provide -
+(a)
+facility to COurt/Designed Officials to lock the E-Court Fees certificates used in a document;
+(b)
+facility to cancel the spoiled unused or not required E-Court Fees certificates;
+(c)
+necessary user ID and passwords to be used by the designated officials of the COurt to search, access and view any
+E-COurt Fees certificate and access Management information System. The Central Record-keeping Agency shall
+provide these passwords to the concerned officials or the Courts as directed by the appointing Authority or Registrar
+General of the High Court;
+(d)
+availability of details of the issued E-COurt Fees certificate on the E-Court Fees Server maintained by the Central
+Record-keeping Agency; and
+(e)
+availability of the different transaction details and reports relating to E-Court Fees on the websites of the Central
+Page 5/13
+----- PAGE 6 -----
+U.P. E-Court Fees Rules, 2016
+Record-keeping Agency which will be accessible to officers mentioned in sub-rule (2)(c).
+Part IV ? Authorized Collection Centres
+12.
+Appointment of authorized Collection center.
+(1)
+The Central Record-keeping Agency may appoint agent(s), hereinafter called Authorized Collection Centres, with the
+prior approval of the Appointing Authority, to act as an intermediary between the Central Recordkeeping Agency and the
+Court Fees payer for collection of Court Fees. The service charges, commission, or fee etc. payable to Authorized
+Collection Centres shall be paid by the Central Record-keeping Agency at their own level as mutually agreed between
+them.
+13.
+Eligibility criteria for appointment of Authorized Collection Centre.
+(1)
+Any scheduled bank, any financial institution, an undertaking controlled by the Reserve Bank of India or the Financial
+Institution, Undertaking controlled by the Government, or a Post Office will be eligible for appointment as Authorized
+Collection centre, subject to prior approval of the Appointing Authority under Rule 12.
+(2)
+An individual may be appointed to act as Authorized Collection Centre on terms and conditions prescribed by the
+Appointing Authority in consultation with the Central Recordkeeping Agency.
+(3)
+An individual may also purchase E-Court Fees certificate online after registering on the website of the Central
+Record-keeping Agency by one self or may prescribe it through an authorized agent.
+14.
+Branches of Central Record-keeping Agency also to collect Court Fees.
+- All the office/branches of the Central Record-keeping Agency in specified places of the State, as declared by
+Appointing Authority from to time, may collect the payment of Court Fees for which separate approval from the
+Appointing Authority under Rule 12 will not be required.
+15.
+Infrastructure.
+- All such Approved Intermediaries shall be equipped with the required computers, printers, internet connectivity, and
+other related infrastructure, which is necessary to implement the E-Court Fees System as specified by the Central
+Record-keeping Agency from time to time.
+16.
+Cost of Infrastructure.
+- The cost of providing equipment and infrastructure referred to in Rule 15 will be borne by the concerned approved
+intermediaries.
+17.
+State may specify Courts/Places to establish counter.
+- State may specify Courts/places to establish counter for issue of E-Court Certificate.
+18.
+Termination of agency of Authorized Collection Centres.
+- The Appointing Authority may at any time, for reasons to be recorded in writing, advice the Central Recordkeeping
+Agency to terminate the agency of any Authorized Collection Centre and the Central Record-keeping Agency shall on
+such advice terminate the agency of such Authorized Collection Centre.
+19.
+Minimum Value limit of E-Court Fees certificates.
+(1)
+The E-Court Fees certificates may be issued only for amount exceeding Rs 5 (Rupees Five only) or such other minimum
+amount as may specified by the Appointing Authority from time to time.
+(2)
+The limit referred to in sub-rule (1) shall not apply to issue of E-Court Fees certificate for apply to issue of E-Court
+Page 6/13
+----- PAGE 7 -----
+U.P. E-Court Fees Rules, 2016
+certificate for payment of additional Court Fees under Rule 28.
+Part V ? Remittance of the Court-Fees to Government Account
+20.
+Central Record-keeping Agency to deposit the Court Fees to Government Account and payment of commission to CRA.
+(1)
+The Central Record-keeping Agency shall reconcile and deposit the consolidated amount of Court Fees collected by its
+offices/branches and by its Authorized Collection Centres in the proper head of account of Court Fees, as may be
+notified from time to time by the Government, not later than the closure of business hours of next two working days from
+the date of such collection of Court Fees or within such period as may be prescribed to in the Agreement, which shall
+not be more than two working days.
+(2)
+The method of remittance of the Amount of Court Fees by the Central Recordkeeping Agency to the proper head of the
+State shall be through Electronic Clearing System (ECS), Real Time Gross Settlement (RTGS), National Electronic
+Fund Transfer (NEFT), Challan or as directed in writing by the Appointing Authority from time to time.
+(3)
+The deposit referred in sub-rule (1) shall be transferred to the Government account under specified head of account by
+means of depositing through challan in the banks authorised to carry on Government transactions. The Government
+Treasury or Authorized Banks and the Central Record-keeping Agency shall maintain the daily account of such deposits
+in a Register which shall be in such form as may be determined from time to time by the Appointing Authority.
+(4)
+The Central Record-keeping Agency shall be paid commission on the basis of the consolidated receipt statement
+submitted by it either on a monthly or bi-monthly basis as may be determined from time to time by the Government or in
+accordance with the Agreement. The commission shall be paid under this sub-rule after deducting Income Tax at
+source. The Central Record-keeping Agency shall be liable to pay other payable under Central or State Act.
+Part VI ? Procedure for issue of E-Court fees certificate
+21.
+Application for E-Court Fees Certificate.
+- A person desiring to pay Court Fees shall make an application in the prescribed Form to any of the branch of the
+Central Recordkeeping Agency or Approved Intermediaries with the requisite details for getting the E-Court Fees
+certificate.
+22.
+Mode of payment of Court-Fees.
+- Payment of the amount of Courts Fees shall be made by Cash or Pay Order or Cheque or Bank Draft or Electronic
+Clearing System or Real Time Gross Settlement or any other mode of transfer of funds, as may be directed by the
+Appointing Authority.
+23.
+Issue of E-Court Fees certificate.
+(1)
+The Authorized official of approved Intermediary shall issue the E-Court Fees certificate under Rule 22.
+(2)
+The Approved Intermediary issuing the E-Court Fees certificate shall keep a daily account of issued E-Court Fees
+certificates in a Register to be maintained and take signature of purchaser or the authorized person, as the case may
+be, on the relevant column of the Register.
+24.
+Authorized official issuing the E-Court Fees certificate.
+- The Approved Intermediary shall ensure that the person assigned the duty of issuing E-Court Fees certificate is a duly
+authorized representative of the Agency or Institution and has suitable credentials.
+25.
+E-Court Fees certificates paper and printing.
+- The printing of E-Court Fees certificate shall be done by non-washable permanent black ink on a durable paper or in a
+manner determined by the Appointing Authority.
+Page 7/13
+----- PAGE 8 -----
+U.P. E-Court Fees Rules, 2016
+26.
+Details of E-Court Fees certificate to be on website.
+- The details of issued E-Court Fees certificate shall be made available on the E-Court Fees website maintained by the
+Central Record-keeping Agency and shall be accessible to any person authorized by the Appointing Authority in this
+behalf including the Courts holding a valid User ID and password which shall be provided by the Central Record-keeping
+Agency.
+27.
+Payment of additional Court Fees.
+- Any person who holds E-Court Fees certificate and is required to pay on additional amount of Court Fees, may make
+an application in the Form prescribed with payment of such amount of additional Court Fees to the Approved
+Intermediary.
+28.
+Issue of E-Court Fees certificate for additional Court Fees.
+(1)
+The Approved Intermediary shall issue E-Court Fees certificate for such additional Court Fee on separate sheet of paper
+in the manner prescribed in Rules 21 to 25.
+(2)
+Judicial stamp may be used together with the E-Court Fees certificates to pay the Court Fees chargeable on a
+document under the Act.
+29.
+Re-Use of E-Court Fees certificate-prohibited.
+(1)
+E-Court Fees certificate used in a document shall not be used in any other document.
+(2)
+A document not in compliance with sub-rule (1) shall be deemed to be unstamped and shall be dealt with under the
+provisions of the Act.
+30.
+Distinguished Unique Identification Number of the E-Court Fees certificate.
+- A Distinguished Unique Identification Number of the E-Court Fees certificate shall be written or printed at the top of the
+document.
+31.
+Verification and locking the details of E-Court Fees certificate.
+- Courts, after making the enquiry envisaged by the Act, shall verify the correctness and authenticity of the E-Court Fees
+certificate used in the document by accessing the relevant website of the Central Record-keeping Agency, to verify its
+unique identification number with the help of a bar code scanner. After such verification, the Courts shall lock the
+E-Court Fees certificate by using user ID Code and password provided by the Central Record-keeping Agency to
+prevent re-use of such certificate.
+The concerned officer shall not disclose the user ID and password provided by the Central Record-keeping Agency, and
+if the wrong and unauthorized use thereof results in a loss to the State Government, the concerned officer shall be held
+responsible for the same.
+Part VII ? Refund of E-Court Fees
+32.
+Procedure for refund of spoiled/unused/not required E-Court Fees certificate.
+(1)
+An application for refund of 'spoiled' or 'misused' or 'not required' E-Court Fees certificate shall be made in the Form
+prescribed along with the E-Court Fees certificate to the Collector within whose jurisdiction the E-Court Fees certificate
+is required to be locked by the Court for use.
+(2)
+On verification by accessing the relevant website of the Central Record-keeping Agency, the Collector shall cancel and
+lock the verified E-Court Fees certificate and endorse "cancelled" on the original E-Court Fees certificate with his
+signature and seal. The procedure for refund prescribed under Chapter V of the Court Fees Act, 1870 shall apply
+Page 8/13
+----- PAGE 9 -----
+U.P. E-Court Fees Rules, 2016
+mutatis mutandis with such modifications as are necessary.
+(3)
+The Collector shall maintain a record of such cancelled E-Court Fees certificate in his office.
+Part VIII ? Inspections, Audit and Appraisal of the Performance of the System
+33.
+Inspection of the Central Record-keeping Agency and the Authorized Collection Centres.
+(1)
+Officers authorized to inspect, any supervisory officer of the Department or any private or public sector
+technical-cum-audit expert/agency duly authorized by the Appointing Authority or by the Commissioner of Stamps in this
+behalf may inspect all or any of the branches/offices of the Central Record-keeping Agency and Approved
+Intermediaries located within its jurisdiction.
+(2)
+The Commissioner of Stamp may, however, at any time on receipt of a complaint or suo motu, direct any official of the
+Department to inspect any branch or office of the Central Record-keeping Agency or Approved Intermediaries and to
+submit a report, besides the regular inspections mentioned in sub-rule (1).
+(3)
+The Accountant General, Uttar Pradesh, Allahabad may also make audit of the receipts and remittances made by the
+Central Record-keeping Agency.
+34.
+Schedule to be followed for making Inspections and audit.
+- All or any of the branches/offices of the Central Record-keeping Agency and Approved Intermediaries in the State will
+be inspected and audited as per the schedule provided by the appointing authority.
+35.
+Central Record-keeping Agency/Authorized Collection Centre bound to provide information.
+- During such inspection the Inspecting Officer or the expert/agency may require the Officer In-charge of the inspected
+branch/office to provide any information on soft and or hard copy of any electronic or digital record related to the
+collection and remittance of Court Fees relating to any period of same and the concerned Central Record-keeping
+Agency or Approved Intermediary shall provide such information or (sic on) priority basis.
+36.
+Submission of Inspection report.
+- The Inspecting officer and the technical-cum-audit expert/agency shall submit inspection report mentioning the
+omissions, violations, delays or irregularities, if any, and give suggestions and recommendations to the Commissioner of
+Stamps.
+37.
+Commissioner of Stamps to take appropriate action.
+- The Commissioner of Stamps on receipt of inspection report shall take appropriate action in the matter and may (if so
+warranted by the circumstances) make recommendation to the Appointing Authority, including imposition of penalty
+and/or termination of appointment of Central Record-keeping Agency or the agency Authorized as Collection Centre. If
+the Commissioner of Stamps is also authorized by the Government to function as Appointing Authority, he will take
+appropriate action in that capacity.
+38.
+Appointing Authority to take appropriate action.
+- The Appointing Authority may, after giving a reasonable opportunity of being heard to the Central Record-keeping
+Agency or the Agency authorized as Collection Centre, take any appropriate action as it deems fit on the basis of the
+inspection technical audit report and the recommendations of the Commissioner of Stamps.
+Part IX ? Penalty for Omissions and Violations
+39.
+Penalty for delay in remittance to Government account.
+- In case the Central Record-keeping Agency fails to remit the amount of collected Court Fees in proper Account Head
+of the State within the period stipulated in sub-rule (1) of Rule 20, the Central Record-keeping Agency shall be liable to
+pay penalty for the delay, besides the collected amount of Court Fees in the following manner -
+Page 9/13
+----- PAGE 10 -----
+U.P. E-Court Fees Rules, 2016
+Period of delay
+Penalty
+(i)
+When the amount of court fees so collected is
+remitted on third working day or after that day but on or before
+seventh working day from the date of collection;
+(i) Amount equal to the commission payable to
+the Central Record-keeping Agency;
+(ii)
+When the amount of court fees so collected is
+remitted after closing seventh working day from the date of
+collection.
+(ii) In addition in to the penalty  of imposed
+above compound penalty of one per cent per day of the amount of
+Court Fees shall also be imposed from the first day of default.
+40.
+Dispute regarding delay in remittance.
+(1)
+The Central Record-keeping Agency shall be given a reasonable opportunity of being heard to explain any delay in
+remitting the Court Fees and the consequent liability to pay penalty under Rule 39.
+(2)
+If the Commissioner of Stamps is satisfied that the delay in remittance was caused due to reason(s) beyond the control
+of the Central Record-keeping Agency (such as Act of God, Act of Civil or Military Authorities, fire, epidemic, war,
+terrorist acts, riots, earthquakes, storms, typhoons, floods), he may waive the penalty stipulated in Rule 39 either fully or
+partially.
+(3)
+In case of any dispute or the penalty imposed, the matter may be referred to the Government, and the decision of the
+Government shall be final.
+41.
+Central Record-keeping Agency responsible to indemnify the loss to the Government and penalty for loss.
+(1)
+If any act, omission, irregularity or violation on the part of the Central Record-keeping Agency or any of its Authorized
+Collection Centres has resulted in loss of revenue to the Government, the Central Record-keeping Agency shall
+indemnify such amount of loss of revenue along with interest calculated at the rate of one and half per cent per mensem
+and penalty not exceeding twice the loss of revenue to the Government.
+(2)
+The Central Record-keeping Agency shall, however be given an opportunity of being heard before taking a decision
+under sub-rule (1).
+42.
+Amount due and the penalty recoverable as arrears of land revenue.
+- In case, the Central Record-keeping Agency does not to pay the amount due to the Government and the penalty
+imposed by the Appointing Authority under these rules, such amount may be recovered as arrears of land revenue.
+Part X ? Arbitration
+43.
+Arbitration.
+- All disputes and differences between the parties to the Agreement shall as far as possible, be settled amicably failing
+which all such disputes shall be referred to a mutually agreed arbitrator under the provisions of the Indian Arbitration and
+Conciliation Act, 1996 (Act No. 26 of 1996).
+44.
+Venue of Arbitration.
+- The venue of arbitration shall be at Lucknow.
+Page 10/13
+----- PAGE 11 -----
+U.P. E-Court Fees Rules, 2016
+Part XI ? Public Grievance Redressal System
+45.
+Grievance Redressal Officers.
+(1)
+The Commissioner of Stamp will designate one or more Officers of the department, called "Grievance Redressal Officer"
+to look and enquire into the complaints received against the misconduct or irregularities of the Central Recordkeeping
+Agency or its Authorized Collection Centres of any other person of the department related with the implementation of
+these rules.
+(2)
+The Registrar General of the High Court or the District Judge, as the case may be, will designate an officer not below
+the rank of Additional District Judge called "Grievance
+Redressal Officer" to look and enquire into the complaints received against the misconduct or irregularities of the
+officials of the Court related with the implementation of these rules.
+46.
+Complaint to Grievance Redressal Officers.
+- Any person paying Court Fees who has a grievance in relation to the services of the Central Record-keeping Agency
+or any of its Authorized Collection Centre or any other person related with the implementation of these rules, may make
+a complaint to the concerned Grievance Redressal Officer with evidence to support the complaint.
+47.
+Proceedings before the Enquiry officer.
+(1)
+The Grievance Redressal Officer on receiving a complaint will immediately bring it to the notice of the Commissioner of
+Stamps or the Registrar General of the High Court or the District Judge, as the case may be.
+(2)
+The Commissioner of Stamps or the Registrar General of the High Court or the District Judge, as the case may be, may
+direct the Grievance Redressal Officer or any other Officer (to be called Enquiry Officer) to enquire into the complaint.
+(3)
+The Enquiry Officer shall give a reasonable opportunity of being heard to the parties concerned.
+(4)
+The Enquiry Officer shall submit the enquiry report to the Commissioner of Stamps or the Registrar General of the High
+Court or the District Judge, as the case may be.
+48.
+Action on the enquiry report.
+(1)
+On the basis of the enquiry report, the Commissioner of Stamps shall take appropriate action under these rules against
+the Central Record-keeping Agency or will make suitable recommendations to the employer of the concerned official for
+taking appropriate action.
+(2)
+On the basis of the enquiry report, the Registrar General of the High Court or the District Judge, as the case may be,
+shall take appropriate action against the officials of the court.
+Part XII ? Management Information System/decision Support System
+49.
+Central Record-keeping Agency to furnish Management Information system and Decision Support System reports to the
+Department/Court.
+(1)
+The Central Recordkeeping Agency shall provide Login ID and password to the Commissioner of Stamps and the
+Registrar General of the High Court and to any or all such officers as they may direct in this regard, for online access of
+the required information report in the E-Court Fees System.
+(2)
+The Central Record-keeping Agency shall furnish such information including the following information reports to the
+Commissioner of Stamps and the Registrar General of the High Court and to any or all such other officers as they may
+Page 11/13
+----- PAGE 12 -----
+U.P. E-Court Fees Rules, 2016
+direct -
+(a)
+Audit trail report. - Tracking of all system based actions performed by users of collecting branches/offices of the Central
+Record-keeping Agency and the Authorized Collection Centres pertaining to any specified day or period;
+(b)
+Government payable reports. - Authorized Collection Centre-wise (including collection branches of the Central
+Record-keeping Agency) Total collection report of any specified day or period;
+(c)
+Additional Court Fees certificate reports. - For all or any of the collecting branches/offices of the Central Record-keeping
+Agency and Authorized Collection Centres pertaining to any specified day or period;
+(d)
+Locked E-Court Fees certificate reports. - Relating to all or any of the Courts pertaining to any specified day or period;
+(e)
+Remittance reports. - A district-wise details of the remittances made by the Central Record-keeping Agency into the
+Government Account pertaining to any specified day or period;
+(f)
+Report of cancelled E-Court Fees certificates. - Report pertaining to specified day or period;
+(g)
+Certificate Generation reports. - Report of E-Court Fees certificates generated for any/all collecting branches/offices of
+the Central Record-keeping Agency and the Authorized Collection Centers pertaining to any specified day or period;
+(h)
+Yearly Court Fees Collection reports. - Yearly report of Court Fees collected by any/all of the collecting branches/offices
+of the Central Record-keeping Agency and the Authorized Collection Centers;
+(i)
+Court Fees Type Collection report - Showing category of document-wise monthly Court Fees collections of any calendar
+year for any/all collecting branches/offices of the Central Record-keeping Agency and the Authorized Collection Centers;
+(j)
+Court Fees monthly collection report - Court Fees monthly collection report of any calendar year for any/all of the
+collecting branches/offices of the Central Record-keeping Agency and the Authorized Collection Centers; and
+(k)
+Any other report or information as may be required by the Commissioner of Stamps from time to time.
+Part XIII ? Role of Treasury
+50.
+Treasury to verify daily remittances.
+- The Treasury Officer shall verify' from the account scroll received from the branch of the bank carrying on the work of
+Government Business Branch, the details of the daily remittances of Court Fees made by the Central Record-keeping
+Agency into the Government Account referred to in Rule 20.
+Part XIV ? Delegation of Powers
+51.
+Appointing Authority may delegate all or any of its powers.
+- The Appointing Authority by making an order in writing may delegate all or any of its powers and/or functions to the
+officer(s) of the department.
+52.
+Power to amend the rules.
+- The Government may amend these rules by notification in the Gazette.
+53.
+Saving.
+- In case of any conflict between these rules and the U.P. Stamp Rules, 1942, these rules shall prevail.
+Part XV ? Implementation
+54.
+The facility of payment of E-Court Fee through the E-Court Fee Administration System shall come into effect in the High
+Page 12/13
+----- PAGE 13 -----
+U.P. E-Court Fees Rules, 2016
+Court and the District Courts from such dates as mutually agreed between the Appointing Authority, Central
+Record-keeping Agency and the High court and upon such date being notified by the Registered General of the High
+Court.
+Related AI tags, queries and research notes
+Translation
+Page 13/13

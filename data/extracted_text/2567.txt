@@ -1,0 +1,1740 @@
+
+----- PAGE 1 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+The Courier Imports and Exports (Electronic Declaration and
+Processing) Regulations, 2010
+Source: https://indiankanoon.org/doc/158246677/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+UNION OF INDIA
+India
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Rule
+THE-COURIER-IMPORTS-AND-EXPORTS-ELECTRONIC-DECLARATION-AND-PROCESSING-REGULATIONS-2010
+of 2010
+Published on 5 May 2010
+Commenced on 5 May 2010
+[This is the version of this document from 5 May 2010.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Published vide Notification No. G.S.R. 385(E), dated 5.5.2010
+Last Updated 11th October, 2019
+G.S.R. 385(E), dated 5.5.2010. - In exercise of the powers conferred by [section 157 read with section 84]
+[Substituted 'section 157' by Notification No. G.S.R. 764(E), dated 9.10.2019 (w.e.f. 5.5.2010).]
+of the Customs Act, 1962 (
+52 of 1962
+Page 1/33
+----- PAGE 2 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+), the Central Board of Excise and Customs hereby makes the following regulations, namely:-
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Courier Imports and Exports (Electronic Declaration and Processing) Regulations,
+2010.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Application.
+(1)
+These regulations shall apply for assessment and clearance of imported or export goods, carried by an Authorised
+Courier by air, on behalf of a consignee or consignor at such Customs airports and in such form and to such extent, as
+the Board may, by notification, declare for the purposes of these regulations in this behalf.
+(2)
+These regulations shall not apply to:
+(a)
+the following imported goods requiring testing of samples thereof or reference to the relevant statutory authorities or to
+experts before their clearance, namely:-
+(i)
+animals and parts thereof, plants and parts thereof;
+(ii)
+perishables;
+(iii)
+publications containing maps depicting incorrect boundaries of India;
+(iv)
+precious and semi-precious stones, gold or silver in any form;
+(b)
+[ import or export of goods under any export promotion scheme other than Export Oriented Unit (EOU) scheme and
+similar schemes referred to in Chapter 6 of the Foreign Trade Policy 2009-14 or 2015-20, as the case may be:
+[Substituted by Notification No. G.S.R. 296(E), dated 28.3.2018 (w.e.f. 5.5.2010).]
+[Provided that this sub-clause shall not apply to goods notified in Appendix 3C of the Foreign Trade Policy (2015-2020),
+under the Merchandise Exports from India Scheme (MEIS) in consignment of value up to five lakh rupees and involving
+transaction in foreign exchange;]]
+(c)
+the following export goods, namely:-
+(i)
+the goods which are subject to levy of any duty on their exports;
+(ii)
+goods where the value of the consignment is above rupees [five lakh]
+[Substituted 'twenty five thousand' by Notification No. G.S.R. 737(E), dated 3.8.2018 (w.e.f. 5.5.2010).]
+and transaction in foreign exchange is involved:
+Provided that the limit of rupees [five lakh]
+[Substituted 'twenty five thousand' by Notification No. G.S.R. 737(E), dated 3.8.2018 (w.e.f. 5.5.2010).]
+as provided in this sub-clause shall not apply to such export consignments where the G.R. Waiver or specific permission
+has been obtained from the Reserve Bank of India.
+3.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires -
+(a)
+Page 2/33
+----- PAGE 3 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+"Act" means the Customs Act, 1962 (
+52 of 1962
+);
+(b)
+"Authorised Courier", in relation to imported or export goods, means a person engaged in the international transportation
+of time-sensitive documents or goods on door-to-door delivery basis and is registered in this behalf by a Commissioner
+of Customs in charge of a Customs airport;
+(c)
+"Customs airport" means the airport declared by the Board as Customs airport under sub-regulation (1) of regulation 2 of
+these regulations;
+(d)
+"documents" includes any message, information or data recorded on paper, cards or photographs and of no commercial
+value which is for the time being not liable to any customs duty or subject to any prohibition or restriction on their export
+out of or import into India;
+(e)
+"electronic declaration" means the declaration of the particulars relating to the imported or export goods, lodged in the
+Customs Computer System at the Customs airport, either through the data-entry facility provided at the service centre or
+through the data communication networking facility provided from the computer system of the Authorised Courier;
+(f)
+"Form" means the Form appended to these regulations;
+(g)
+"gifts" means any bonafide gifts of articles for personal use of a value not exceeding twenty five thousand rupees per
+consignment in case of export goods and ten thousand rupees per consignment in case of imported goods, which are
+not subject to any prohibition or restriction on their export out of or import into India and for which no transfer of foreign
+exchange is involved;
+(ga)
+[ low value dutiable consignment" means an import consignment (other than documents, gifts and samples) of an
+invoice va lue not exceeding one lakh rupees.]
+[Inserted by Notification No. G.S.R. 290 (E) dated 1.4.2011 (w.e.f. 5.5.2010)]
+(h)
+"samples" means any bonafide commercial samples and prototypes of goods supplied free of charge of a value not
+exceeding fifty thousand rupees per consignment for exports or ten thousand rupees per consignment for imports, which
+are for the time being not subject to any prohibition or restriction on their export out of or import into India and for which
+no transfer of foreign exchange is involved;
+(i)
+"service centre" means the place specified by the Commissioner of Customs where data entry, for the purpose of
+lodgement of declaration or submission of any information, is carried out;
+(k)
+[ "Goods and Services Tax Identification Number" (GSTIN) means the number assigned under rule 3 of the Goods and
+Services Tax Registration Rules, 2017;]
+[Inserted by Notification No. G.S.R. 812(E), dated 30.6.2017 (w.e.f. 5.5.2010).]
+(2)
+The words used and not defined in these regulations but defined in the Act shall have the meanings respectively
+assigned to them in that Act.
+4.
+Packing of goods to be imported or exported by courier.
+(1)
+For the purposes of these regulations, the imported or export goods shall be packed separately for documents and
+goods.
+(2)
+Imported or export goods shall bear a declaration from the sender or consignor regarding the contents of each of the
+Page 3/33
+----- PAGE 4 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+packages and the total value thereof.
+5.
+Clearance of imported goods.
+(1)
+The Authorised Courier or his agent shall file, in an electronic form, a manifest for imported goods prior to its arrival, with
+the proper officer the Express Cargo Manifest - Import (ECM-I) in Form A;
+(2)
+(a)
+The Courier packages containing the imported goods shall not be dealt with in any manner except as may be directed
+by the Commissioner of Customs;
+(b)
+No person shall, except with the permission of proper officer, open any packages of imported goods.
+(3)
+The Authorised Courier or his agent who has passed the examination referred to in regulation 8 or regulation 19 of the
+[Customs House Agents Licensing Regulations, 2013]
+[Substituted 'Customs House Agents Licensing Regulations, 2004' by Notification No. G.S.R. 296(E), dated 28.3.2018
+(w.e.f. 5.5.2010).]
+shall make entry of goods imported by him, in an electronic declaration, by presenting to the proper officer the Courier
+Bill of Entry-XI (CBE-XI) for documents in Form B or the Courier Bill of Entry-XII (CBE-XII) for free gifts and samples in
+Form C or the Courier Bill of Entry-XIII (CBE-XIII) for low value dutiable consignments in Form D or the Courier Bill of
+Entry-XIV (CBE-XIV) for other dutiable consignments in Form E.
+(4)
+The Authorised Courier shall present imported goods brought by him or by his agent, in such manner as to the
+satisfaction of the proper officer or as per instructions issued by the Board or Public Notice issued by Commissioner of
+Customs, from time to time, for inspection, screening, examination and assessment thereof.
+(5)
+Any imported goods which are not taken clearance after the expiry of a period of thirty days of its arrival, shall be
+detained by proper officer and shall be sold or disposed of by the person having custody thereof, after issuing a notice to
+the Authorised Courier and to the declared importer, if any, and the charges payable for storage and holding of such
+goods shall be payable by the Authorised Courier.
+6.
+Clearance of export goods.
+(1)
+Notwithstanding anything contained in these regulations, the Authorised Courier or his agent shall, on or after such date
+as the Board may specify, by notification in the Official Gazette, file in an electronic form, a manifest for export goods
+before its export with the proper officer the Courier Export Manifest (CEM) in Form F.
+(2)
+(a)
+The courier packages containing the export goods shall not be dealt with after presentation of documents to the proper
+officer in any manner except as may be directed by the Commissioner of Customs;
+(b)
+No person shall, except with the permission of proper officer, open any package of export goods, brought into the
+Customs area, to be loaded on a flight.
+(3)
+[ The Authorised Courier or his agent who has passed the examination referred to in regulation 6 or regulation 13 of the
+Customs Brokers Licensing Regulations, 2018 shall make entry of goods for export, in Courier Shipping Bill-III (CSB-III)
+for documents in Form G or in the Courier Shipping Bill-IV (CSB-IV) for gifts, samples and prototype of goods in Form H
+or as the case may be, in Courier Shipping Bill-V (CSB-V) for goods notified in Appendix 3C of the Foreign Trade Policy
+(2015-20), to be exported under the Merchandise Exports from India Scheme (MEIS) or any other commercial goods,
+involving transfer of foreign exchange, in Form HA, before presenting it to the proper officer.]
+[Substituted by Notification No. G.S.R. 764(E), dated 9.10.2019 (w.e.f. 5.5.2010).]
+Page 4/33
+----- PAGE 5 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(4)
+The Authorised Courier shall present the export goods to the proper officer, in such manner as to the satisfaction of the
+proper officer or as per instructions issued by the Board or Public Notice issued by Commissioner of Customs, from time
+to time, for inspection, screening, examination and assessment thereof.
+(5)
+Any export goods brought into customs area for export purpose and have not been exported within seven days of arrival
+of such goods into such area or within such extended period as permitted by the proper officer in case of delay due to
+such reasons which the proper officer considers to be beyond the control of the concerned Authorised Courier and
+declared exporter, may be detained by the proper officer and sold or disposed off by the person having custody thereof,
+after issuing notice to the concerned Authorised Courier and declared exporter provided the charges payable, for
+storage and handling of such goods are paid by such Authorised Courier.
+7.
+Application for registration of Authorised Courier.
+(1)
+Every person intending to operate as an Authorised Courier shall make an application in the Form-I to the Commissioner
+of Customs having jurisdiction over the Customs airport where the goods are to be imported or exported, for registration
+in this behalf.
+(2)
+The Commissioner of Customs may dispose of the application under sub-regulation (1) within forty five days of the
+receipt of the application.
+8.
+Conditions to be fulfilled by the applicant.
+(1)
+The person applying for registration as an Authorised Courier shall disclose to the satisfaction of the Commissioner of
+Customs that he is financially viable and in support thereof he shall produce to the said Commissioner of Customs a
+certificate issued by a scheduled bank or such other proof acceptable to the Commissioner of Customs evidencing
+possession of assets of a value not less than twenty five lakh rupees.
+(2)
+The electronic declaration for clearance of imported or export goods shall be made by the persons who has passed the
+examination referred to in regulation 8 or regulation 19 of the Custom House Agents Licensing Regulations, 2004.
+[Provided that a transition period up to 31st December, 2011 shall be allowed for fulfilment of the condition mentioned in
+sub-regulation (2) by an Authorised Courier in so far as it relates to examination referred to in regulation 8 of the
+[Customs House Agents Licensing Regulations, 2013]
+[Substituted by Notification No. G.S.R. 290 (E) dated 1.4.2011 (w.e.f. 5.5.2010)]
+.]
+(3)
+The applicant shall undertake to comply with the provisions and abide by all the provisions of the Act and rules,
+regulations, notifications and orders issued thereunder.
+9.
+Scrutiny of application.
+- On receipt of application for registration under regulation 7, the Commissioner of Customs, may make enquiries for
+verification of the particulars set out in the application and also such other enquiries as the Commissioner of Customs
+may deem necessary for such registration including enquiries about the identity, bonafides and reputation of the
+applicant.
+10.
+Registration.
+(1)
+If on scrutiny of the application filed by a person under regulation 7, the Commissioner of Customs is satisfied that the
+applicant fulfils the requirements of the registration, the said applicant may be registered as an Authorised Courier.
+(2)
+The registration granted under sub-regulation (1) shall be valid for an initial period of two years, but may be renewed
+Page 5/33
+----- PAGE 6 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+from time to time, in accordance with the procedure provided in sub-regulation 8.
+(3)
+An Authorised Courier who is already registered under Courier Imports and Exports (Clearance) Regulations, 1998 on or
+before the date of coming into force of these regulations in a Customs airport, shall be considered as an Authorised
+Courier registered for the purpose of these regulations only on compliance of the conditions stipulated in regulation 8.
+(4)
+The Authorised Courier referred to in sub-regulation (3) shall comply with the conditions within a period which shall not
+exceed a period of three months:
+Provided that the Commissioner of Customs may extend the said period which shall not exceed a period of nine months.
+Provided further that nothing contained in this sub-regulation shall apply in respect of condition prescribed under
+sub-regulation (2) of regulation 8.
+(5)
+The registration granted under sub-regulation (3) shall be valid for a period of ten years.
+(6)
+The Commissioner of Customs may, if he finds that the applicant has been convicted in any court of law, or any criminal
+proceedings are pending before any court of law against the applicant, reject an application filed for registration of
+Authorised Courier.
+(7)
+The Authorised Courier, who is registered under sub regulation (1) or sub regulation (3), shall transact business in other
+Customs airports within the country subject to an intimation, as specified in Form - J, to the Commissioner of Customs
+having Jurisdiction over the Customs airport where he intends to transact business.
+(8)
+The Commissioner of Customs may, on application made before the expiry of the validity of the registration under
+sub-regulation (2) or sub-regulation (5), renew the registration for a period of ten years from the date of expiration of the
+original registration or the last renewal of such registration, as the case may be, if the performance of the Authorised
+Courier is found to be satisfactory with reference to the absence of any complaints of misconduct including
+non-compliance of any of the obligations specified in regulation 12.
+(9)
+The Commissioner of Customs may, for reasons to be recorded in writing, by order, review the registration granted
+under sub-regulation (1) or sub-regulation (3) before the expiry of the ten years.
+11.
+Execution of bond and furnishing of security.
+(1)
+The Commissioner of Customs shall require the applicant to enter into a bond with a security of ten lakhs rupees in case
+of major international airports of Mumbai, Delhi, Calcutta and Chennai and five lakhs rupees in case of other airports in
+the form of cash deposit or bank guarantee in the name of the Commissioner of Customs for complying with the
+provisions of the Act, rules and regulations made thereunder and the condition of the said bond shall also be that the
+applicant shall agree to pay the duty, if any, not levied or short levied, with interest if applicable on any goods taken
+clearance of by the Authorised Courier if in the opinion of the Assistant Commissioner of Customs or Deputy
+Commissioner or Customs the same cannot be recovered from the importer or the exporter.
+(2)
+The Authorised Courier who has been granted a registration under regulation 10 or who has intimated in the Form J to
+the Commissioner of Customs having jurisdiction over the Custom airport from where he has to transact the business,
+shall furnish the bond and security as specified under sub-regulation (1) for each of the Customs airports.
+12.
+Obligations of Authorised Courier.
+(1)
+An Authorised Courier shall -
+(i)
+obtain an authorisation, from each of the consignees or consignors of the imported goods for whom or from whom such
+Courier has imported such goods; or consignees or consignors of such export goods which such Courier proposes to
+Page 6/33
+----- PAGE 7 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+export, to the effect that the Authorised Courier may act as agent of such consignee or consignor, as the case may be,
+for clearance of such imported or export goods by the proper officer;
+[Provided that for import of documents, gifts and samples and low value dutiable consignments for which declaration
+have been filed in, Form-B or the Courier Bill of Entry-XI (CBE-XI), Form C or the Courier Bill of Entry-XII (CBE-XII) or
+Form-D or Courier Bill of Entry-XIII (CBE-XIII) respectively, the authorization may be obtained at the time of delivery of
+the consignment to consignee subject to the production of consignors' authorisation at pre-clearance stage and retention
+of authorisation obtained from the consignee for a period of one year or date of Audit by Customs, whichever is earlier.]
+[Inserted by Notification No. G.S.R. 290 (E) dated 1.4.2011 (w.e.f. 5.5.2010)]
+(ii)
+file electronic declarations, for clearance of imported or export goods, through a person who has passed the
+examination referred to in regulation 8 or regulation 19 of the [Customs House Agents Licensing Regulations, 2013]
+[Substituted 'Customs House Agents Licensing Regulations, 2004' by Notification No. G.S.R. 296(E), dated 28.3.2018
+(w.e.f. 5.5.2010).]
+and who are duly authorised under section 146 of the Act;
+[Provided that a transition period up to 31st December, 2011 shall be allowed to the Authorised Courier for fulfillment of
+the obligation in so far as it relates to examination referred to in regulation 8 of the [Customs House Agents Licensing
+Regulations, 2013]
+[Substituted by Notification No. G.S.R. 290 (E) dated 1.4.2011 (w.e.f. 5.5.2010)]
+.]
+(iii)
+advise his consignor or consignee to comply with the provisions of the Act, rules and regulations made thereunder and
+in case of non-compliance thereof, he shall bring the matter to the notice of the Assistant Commissioner of Customs or
+Deputy Commissioner of Customs;
+(iv)
+verify the antecedent, correctness of Importer Exporter Code (IEC) Number, identity of his client and the functioning of
+his client in the declared address by using reliable, independent, authentic documents, data or information;
+(v)
+exercise due diligence to ascertain the correctness and completeness of any information which he submits to the proper
+officer with reference to any work related to the clearance of imported goods or of export goods;
+(vi)
+not withhold information communicated to him by an officer of customs, relating to assessment and clearance of
+imported goods as well as inspection, examination and Clearance of export goods, from a consignor or consignee who
+is entitled to such information;
+(vii)
+not withhold any information relating to assessment and clearance of imported goods or of export goods, from the
+Assessing Officer;
+(viii)
+not attempt to influence the conduct of any officer of Customs in any matter pending before such officer or his
+subordinates by the use of threat, false accusation, duress or offer of any special inducement or promise of advantage
+or by the bestowing of any gift or favour or other thing or value;
+(ix)
+maintain records and accounts in such form and manner as may be directed from time to time by an Assistant
+Commissioner of Customs or Deputy Commissioner or Customs for a period of five years and submit them for
+inspection to the Assistant Commissioner of Customs or an officer authorised by him, wherever required; and
+(x)
+abide by all the provisions of the Act and the rules, regulations, notifications and orders issued thereunder.
+13.
+Suspension or revocation of registration of authorised courier.
+(1)
+The Commissioner of Customs may revoke the registration of an Authorised Courier and also pass an order for
+forfeiture of security on any of the following grounds namely:-
+Page 7/33
+----- PAGE 8 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(a)
+failure of the Authorised Courier to comply with any of the conditions of the bond executed by him under regulation 11;
+(b)
+failure of the Authorised Courier to comply with any of the provisions of these regulations;
+(c)
+misconduct on the part of Authorised Courier whether within the jurisdiction of the said Commissioner or anywhere else,
+which in the opinion of the Commissioner renders him unfit to transact any business in the Customs airport:
+[***]
+[Omitted by Notification No. G.S.R. 592 (E) dated 26.7.2012 (w.e.f. 5.5.2010)]
+Provided that, in case the Commissioner of Customs considers that any of such grounds against an Authorised courier
+shall not be established prima facie without an inquiry in the matter, he may conduct an inquiry to determine the ground
+and in the meanwhile pending the completion of such inquiry, may suspend the registration of the Authorised Courier:
+[Provided further that]
+[Substituted for the words "Provided also that" by Notification No. G.S.R. 592 (E) dated 26.7.2012 (w.e.f. 5.5.2010)]
+if no ground is established against the Authorised Courier, the registration so suspended shall be restored.
+(2)
+Any Authorised Courier or the officer of the Customs authorised by the Chief Commissioner of Customs in this behalf, if
+aggrieved by the order of Commissioner of Customs passed under sub-regulation (1), may represent to the Chief
+Commissioner of Customs in writing against such order within sixty days of communication of the order to the
+Authorised Courier, and the Chief Commissioner of Customs shall, after providing the opportunity of being heard to the
+parties concerned, dispose of the representation as expeditiously as may be possible.
+[13A. Procedure for revoking registration under regulation 13. - (1) The Commissioner of Customs shall issue a notice in
+writing to the Authorised Courier stating the grounds on which it is proposed to revoke the registration and requiring the
+said Authorised Courier to submit. within such time as may be specified in the notice, not being less than forty-five days,
+to the Deputy Commissioner of Customs or Assistant Commissioner of Customs nominated by him, a written statement
+of defence and also to specify in the said statement whether the Authorised Courier desires to be heard in person by the
+said Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the case may be.
+(2)
+The Commissioner of Customs may, on receipt of the written statement from the Authorised Courier, or where no such
+statement has been received within the time-limit specified in the notice referred to in sub-regulation (1), direct the
+Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the case may be, to inquire within a
+period of three months, from the order of suspension or from the date of initiation of enquiry, as the case may be, into
+the grounds which are not admitted by the Authorised Courier.
+(3)
+The Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the case may be, shall, in the course
+of inquiry, consider such documentary evidence and take such oral evidence as may be relevant or material to the
+inquiry in regard to the grounds forming the basis of the proceedings, and he may also put any question to any person
+tendering evidence for or against the Authorised Courier, for the purpose of ascertaining the correct position.
+(4)
+The Authorised Courier shall be entitled to cross-examine the persons examined in support of the grounds forming the
+basis of the proceedings, and where the Deputy Commissioner of Customs or Assistant Commissioner of Customs, as
+the case may be, declines to examine any person on the grounds that his evidence is not relevant or material, he shall
+record his reasons in writing for so doing.
+(5)
+At the conclusion of the inquiry, the Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the
+case may be, shall prepare a report of the inquiry recording his findings.
+(6)
+The Commissioner of Customs shall furnish to the Authorised Courier a copy of the report of the Deputy Commissioner
+of Customs or Assistant Commissioner of Customs, as the case may be, and shall require the Authorised Courier to
+submit, within the specified period not being less than sixty days, any representation that he may wish to make against
+the findings of the Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the case may be.
+Page 8/33
+----- PAGE 9 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(7)
+The Commissioner of Customs shall, after considering the report of the inquiry and the representation thereon, if any,
+made by the Authorised Courier, pass such orders as he deems fit.]
+14.
+Penalty.
+- An Authorised Courier, who contravenes any of the provisions of these regulations or abets such contravention or who
+fails to comply with any provision of these regulations with which it was his obligation to comply, shall be liable to a
+penalty which may extend to fifty thousand rupees.
+Form A
+[See Regulation 5(1)]
+Express Cargo Manifest-Import (ECM-I)
+(Electronic Filing)
+SI.No.
+Description
+Details
+1.
+Courier Registration Number
+2.
+Name and address of the Authorised Courier
+3.
+Name and address of the non-board courier,
+wherever applicable
+4.
+Import General Manifest Number
+5.
+Name of the airlines
+6.
+Airport of arrival
+7.
+Flight No.
+8.
+Date of arrival
+9.
+Time of arrival
+10.
+Airport of shipment
+11.
+Shipment/Consignmentwise Details:
+(a) MAWB No
+(i)HAWB No.
+(1) Consignment Reference Note (CRN) No. where
+applicable
+(ii) Number of package/pieces/bags/ULDs
+(iii) Weight (in Kgs.)
+(iv) Description of goods
+(v) Name and address of the Consignor
+(vi) Name and address of the Consignee
+(vii) Invoice value
+(viii) Invoice Currency
+(ix) Shipment to be transshipped, if Yes/No
+(x) If Shipment to be transshipped, Place of
+Page 9/33
+----- PAGE 10 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+transshipment
+Declaration
+I/We declare that all statement and particulars contained in this form and other documents presented herewith are
+complete, correct and true, in every respect.
+Date:
+Signature and name of the authorised courier
+Place:
+Note:- Upon submission of the ECM, the Customs Department serial number along with the date would be generated.
+Form B
+[See Regulation 5(3)]
+Courier Bill of Entry-XI (CBE-XI) for Document
+(Electronic Filing)
+Sl.No.
+Description
+Details
+1
+Express Cargo
+Manifest Reference No.
+2.
+Courier
+Registration Number
+3.
+Name and
+address of the Authorised Courier
+4.
+Name of the
+airlines
+5.
+Airport of
+arrival
+6.
+First port of
+arrival, wherever applicable
+7.
+Flight No.
+8.
+Date of
+arrival
+9.
+Time of
+arrival
+10.
+Airport of
+shipment
+11.
+Total No. of
+consignments/HAWB
+12.
+Number of
+bags
+Declaration
+Page 10/33
+----- PAGE 11 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+I/We declare that all authorization from each of the consignees or consignors relating to the abovementioned
+consignments have been obtained by me/us to act as an agent for the clearance of the goods.
+I/We hereby declare that goods imported as per this Bill of Entry include only documents of no commercial value and do
+not include goods which are prohibited or restricted for import into India under any law for the time being in force.
+Date:
+Signature and name of the authorised courier
+Place:
+Date:
+[Form C]
+[Substituted by Notification No. G.S.R. 158(E), dated 27.2.2019 (w.e.f. 5.5.2010).]
+[See Regulation 5(3)]
+Courier Bill of Entry-XII (CBE-XII) for Samples and Gifts
+(Electronic Filing)
+S. No.
+Description
+Details
+(1)
+(2)
+(3)
+1.
+Courier Registration Number
+2.
+Name and address of the Authorized Courier
+3.
+Name of the airlines
+4.
+Airport of arrival
+5.
+First port of arrival, wherever applicable
+6.
+Flight No.
+7.
+Date of arrival
+8.
+Time of arrival
+9.
+Airport of shipment
+10.
+Country of exportation
+11(i)
+HAWB No.
+11(ii)
+CRN No., if applicable.
+12.
+Unique Consignment reference No.
+13.
+Name and address of the consignor
+14.
+Name and address of the consignee
+15.
+GSTIN (optional)Remarks: in the case of import of
+Page 11/33
+----- PAGE 12 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+gifts/ samples, GSTIN cannot be mandatory
+16.
+IEC Code
+17.
+IEC Branch Code
+18.
+No. of items included in HAWB
+19. Item-wise Details :
+CTH
+Nature of shipment (Gifts / Samples)
+country of origin
+Description of goods
+Name & address of Manufacturer
+(I)
+(II)
+(III)
+(IV)
+(V)
+Item-wise Details (continued) :
+No. of packages
+Marks and number of packages, wherever applicable
+Unit of measure
+Quantity
+Invoice No.
+(VI)
+(VII)
+(VIII)
+(IX)
+(X)
+Item-wise Details (continued):
+Invoice value
+Invoice currency
+Freight Amount
+Insurance Amount
+Landing Charges
+rate of exchange
+(XI)
+(XII)
+(XIII)
+(XIV)
+(XV)
+(XVI)
+Item-wise Details (continued):
+Assessable value in Rs. (As per section 14 of
+the Customs Act, 1962)
+Notification
+Value under section 3 of Customs tariff Act,
+1975
+Additional Duty Rate
+Additional Duty Amount
+GST Code
+Page 12/33
+----- PAGE 13 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(XVII)
+(XVIII-A)
+(XVIII-B)
+(XVIII-C)
+(XIX)
+(XX)
+(XXI)
+(XXII)
+Notfn. type
+Notfn. No.
+Sl.No.
+IGST Rate
+IGST Exemption Notification
+IGST Amount
+GST Compensation Cess rate
+GST Compensation Cess Exemption
+Notification
+GST Compensation Cess Amount
+Total Duty Amount
+(XXIII)
+(XXIV)
+(XXV)
+(XXVI)
+(XXVII)
+(XXVIII)
+(XXIX)
+Declaration
+I/ we declare that the authorization from each of the consignees or consignors relating to the above mentioned
+consignments have been obtained by me/ us to act as an agent for the clearance of the goods.
+I/ We hereby declare that goods imported as per this Bill of Entry include only bona fide commercial samples, prototypes
+of goods and bona fide gifts of articles for personal use of value not exceeding Rs. Ten thousand and which are for the
+time being not subject to any prohibition or restriction on their import into India.
+I/ We enclose herewith ________ (number) of Airway bills and _________ (Number) of Invoices for the aforesaid
+consignments with this Bill of Entry.
+I/ we hereby declare that the contents of this Bill of Entry are complete, correct and true, in every respect and are in
+accordance with the airway bills, the invoices and other documents attached herewith.
+Date :
+Signature of the Authorised person of the Authorised Courier  with stamp of Authorised Courier
+Place :
+Note. - Uploading images of HAWB and invoices shall be optional in CBE-XII while filing through bulk upload or
+otherwise.
+[Form D]
+[Substituted by Notification No. G.S.R. 812(E), dated 30.6.2017 (w.e.f. 5.5.2010).]
+[See Regulation 5(3)]
+Courier Bill of Entry-XIII (CBE-XIII) for Non-Documents
+(Low Value Dutiable Shipments)
+(Electronic Filing)
+S. No.
+Description
+Details
+1.
+Page 13/33
+----- PAGE 14 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Courier Registration Number
+2.
+Name and address of the Authorized Courier
+3.
+Name of the airlines
+4.
+Airport of arrival
+5.
+First port of arrival, wherever applicable
+6.
+Flight No.
+7.
+Date of arrival
+8.
+Time of arrival
+9.
+Airport of shipment
+10.
+Country of exportation
+11(i)
+HAWB No.
+11(ii)
+CRN No., if applicable
+12.
+Unique Consignment reference No.
+13.
+Name and address of the consignor
+14.
+Name and address of the consignee
+15.
+GSTIN
+16.
+IEC Code
+17.
+IEC Branch Code
+18.
+No. of items included in HAWB
+19. Item-wise Details :
+Licence Type
+Licence No.
+CTH/ CTSH
+CETSH
+GST Code
+Country of origin
+(I)
+(II)
+(III)
+(IV)
+(V)
+(VI)
+Item-wise Details (continued) :
+Page 14/33
+----- PAGE 15 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Description of goods
+Name and address of manufacturer
+No. of packages
+Marks and No. of packages, wherever applicable
+Unit of measure
+(VII)
+(VIII)
+(IX)
+(X)
+(XI)
+Item-wise Details (continued) :
+Quantity
+Invoice No.
+Invoice value
+Currency for invoice
+Rate of exchange
+Invoice terms (FOB/ CIF/ C&F/ C&I)
+(XII)
+(XIII)
+(XIV)
+(XV)
+(XVI)
+(XVII)
+(XVIII)
+Item-wise Details (continued) :
+Discount amount
+Discount currency
+Assessable value
+Freight
+Landing charges
+(XIX)
+(XX)
+(XXI)
+(XXII)
+(XXIII)
+Item-wise Details (continued) :
+Insurance
+Item-wise details of other charges as per section
+14 of the Customs Act, 1962
+(XXIV)
+(XXV)
+Charge type
+Charge amount
+Item-wise Details (continued) :
+Notification used per item
+(XXVI)
+(A)
+(B)
+(C)
+(D)
+(E)
+Page 15/33
+----- PAGE 16 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(F)
+(G)
+(H)
+Notification type
+Notification No.
+Sl. No. in notification
+List No.
+List Sl.No.
+Value under section 3 of Customs tariff
+Act, 1975
+Additional Duty Rate
+Additional Duty Amount
+(XXVII)
+(A)
+(B)
+(C)
+(D)
+(E)
+(F)
+(G)
+IGST Rate
+IGST Exemption Notfn.
+IGST Amount
+GST Compensation Cess Rate
+GST Compensation Cess Exemption Notfn.
+GST Compensation Cess Amount
+Total Duty
+Declaration
+I/we declare that the authorization from each of the consignees or consignors relating to the above mentioned
+consignments have been obtained by me/us to act as an agent for the clearance of the goods.
+I/ we hereby declare that I/ we have not received any other documents or information showing a different price, value,
+quantity, or description of the said goods and that if at any time hereafter I/ we receive any documents from the importer
+showing a different state of facts I/ we will immediately make the same known to the Commissioner of Customs.
+I/ we hereby declare that the contents of this Bill of Entry are complete, correct and true, in every respect and are in
+accordance with the airway bills, the invoices and other documents attached herewith.
+I/ We enclose herewith ________ (number) of Airway bills and _________ (Number) of Invoices for the aforesaid
+consignments with this Bill of Entry.
+Date :
+Place :
+Signature and name of the authorised courier
+Note. - (i) Uploading images of HAWB and invoices shall be mandatory in CBE-XIII while filing through bulk upload or
+otherwise
+[Form E]
+[Substituted by Notification No. G.S.R. 812(E), dated 30.6.2017 (w.e.f. 5.5.2010).]
+[See Regulation 5(3)]
+Courier Bill of Entry-XIV (CBE-XIV) for Dutiable Goods
+(Electronic Filing)
+Courier Registration Number(1)
+Name and address of the Authorized Courier(2)
+Particulars of Custom House Agent(3)
+Licence Number(i)
+Page 16/33
+----- PAGE 17 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Name(ii)
+Address(iii)
+Particulars of Importer(4)
+IEC Code(i)
+IEC Branch Code(ii)
+Name and  Address(iii)
+GSTIN(iv)
+Category of Importer (Govt. Depts, Govt.
+Undertakings, Diplomatic/ UN, others)(v)
+If others, please specify(vi)
+Type of Importer (100 % EOU or not, please
+specify)(vii)
+Authorised dealer code of the Bank(5)
+Category of the Bill of Entry (Home Consumption,
+Warehouse, Ex-Bond)(6)
+Bill of Entry Number and date(7)
+Class Code (CC) (New, Split, Post, Part)(8)
+Type of Bill of Entry (Normal, Prior,
+Advance)(9)
+High Sea sale(10)
+Seller particulars in case of High Sea sale(11)
+IEC Code(A)
+IEC Branch Code(B)
+Name(C)
+Address(D)
+Use of the first proviso under section 46(1),
+Customs Act,1962 :(12)
+Special Requests(13)
+Reason in case of extension of Time Limit is
+Requested(14)
+Airlines(15)
+Flight Number(16)
+Airport of Arrival(17)
+Date of Arrival(18)
+Airport of Shipment(19)
+Country of Origin (if same for all goods of the
+consignment, otherwise declare item-wise)(20)
+Country of Consignment(21)
+IGM details(22)
+MAWB No.(23)
+MAWB date(24)
+HAWB No.(25)
+IGM No.(A)
+Date of entry Inward(B)
+CRN No., if applicable.(A)
+HAWB date(26)
+Marks and Numbers(27)
+Number of Packages(28)
+Type of Packages(29)
+Unit of measure for gross weight(30)
+Gross weight(31)
+Page 17/33
+----- PAGE 18 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Additional information for clearance of goods at
+Inland Container Depots (ICDs)(32)
+Name of Gateway Port(A)
+Gateway IGM Number(B)
+Date of Entry Inwards of Gateway Port(C)
+Container details (In case of clearance at ICDs and Sea Ports), wherever applicable(33)
+Container No.(A)
+Seal Number(B)
+FCL/ LCL(C)
+Bond details(34)
+Whether Clearance of imported goods is sought against any type of bond already registered with Customs?(A)
+Bond Type (Provisional Duty Bond, Re-Export Bond,
+Letter of Guarantee, Warehouse Bond, Project Bond, EOU Bond (B-17
+Bond), End use Bond, Test Bond, Undertaking ITC Bond, Cash
+Deposit, Jobbing etc.)(A-1)
+Bond Number(A-2)
+Details of Procurement Certificate, If any(35)
+Procurement Under 36/96 Customs?(i)
+Procurement Certificate Number(ii)
+Date of Issuance of Certificate(iii)
+Location Code of the Central Excise Office
+issuing the Certificate(iv)
+Commissionerate(v)
+Division(vi)
+Range(vii)
+Import Under Multiple Invoices(36)
+If Imports are affected under multiple invoices(i)
+Number of Invoices(i)-1
+Total Freight(i)-2
+Total Insurance(i)-3
+Details of Each Invoice(37)
+Invoice Number(i)
+Date of Invoice(ii)
+Purchase order Number(iii)
+Date of Purchase Order(iv)
+Contract Number(v)
+Date of Contract(vi)
+Letter of Credit(vii)
+Date of letter of Credit(viii)
+Details of Items and Related Information for each
+Invoice(ix)
+Invoice Number(ix)-1
+Supplier Details(ix)-2
+Name of the Supplier(ix)-2(a)
+Address of the Supplier(ix)-2(b)
+Country(ix)-2(c)
+If Supplier is not the seller(ix)-3
+Name of the Seller(ix)-3(a)
+Address of the Seller(ix)-3(b)
+Country(ix)-3(c)
+Broker/ Agent Details(ix)-4
+Page 18/33
+----- PAGE 19 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Name of the Broker/ Agent(ix)-4(a)
+Address of the Broker/ Agent(ix)-4(b)
+Country(ix)-4(c)
+Nature of Transaction (Sale, Sale on consignment
+basis, Hire/ rent, Replacement, Gift, Sample, Free of Cost,
+others(ix)-5
+If others, Please specify(ix)-5(a)
+Terms of Payment (LC, DP/ TA, FOC, Others)(ix)-6
+If others, Please specify(ix)-6(a)
+Conditions or Restrictions, if any Attached to
+sale(ix)-7
+Method of Valuation(ix)-8
+Terms of Invoice(ix)-9
+Invoice Value(ix)-10
+Invoice Currency(ix)-11
+Freight, Insurance and Other Charges(ix)-12
+Freight(ix)-12(a)
+Rate(ix)-12(a)(i)
+Amount(ix)-12(a)(ii)
+Currency(ix)-12(a)(iii)
+Insurance(ix)-12(b)
+Rate(ix)-12(b)(i)
+Amount(ix)-12(b)(ii)
+Currency(ix)-12(b)(iii)
+Loading, Unloading and Handling Charges as per
+Rule 9(2)(b) of the Customs Valuation Rules, 1988(ix)-12(c)
+Rate(ix)-12(c)(i)
+Amount(ix)-12(c)(ii)
+Currency(ix)-12(c)(iii)
+Other Charges Related to the Carriage of
+goods(ix)-12(d)
+Rate(ix)-12(d)(i)
+Amount(ix)-12(d)(ii)
+Currency(ix)-12(d)(iii)
+Cost and Service Not Included in the Invoice and
+Other Miscellaneous Charges(ix)-13
+Brokerage and Commission(ix)-13(a)
+Rate(ix)-13(a)(i)
+Amount(ix)-13(a)(ii)
+Currency(ix)-(13)(a)(iii)
+Cost of containers(ix)-13(b)
+Rate(ix)-13(b)(i)
+Amount(ix)-13(b)(ii)
+Currency(ix)-(13)(b)(iii)
+Cost of Packing(ix)-13(c)
+Rate(ix)-13(c)(i)
+Amount(ix)-13(c)(ii)
+Currency(ix)-(13)(c)(iii)
+Dismantling, Transport and handling in the
+Country of Export or any other Country(ix)-13(d)
+Rate(ix)-13(d)(i)
+Page 19/33
+----- PAGE 20 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Amount(ix)-13(d)(ii)
+Currency(ix)-(13)(d)(iii)
+Cost of Goods and Services Supplied by
+Buyer(ix)-13(e)
+Rate (ix)-13(e)(i)
+Amount(ix)-13(e)(ii)
+Currency(ix)-(13)(e)(iii)
+Documentation(ix)-13(f)
+Rate(ix)-13(f)(i)
+Amount(ix)-13(f)(ii)
+Currency(ix)-(13)(f)(iii)
+Country of Origin Certificate(ix)-13(g)
+Rate(ix)-13(g)(i)
+Amount(ix)-13(g)(ii)
+Currency(ix)-(13)(g)(iii)
+Royalty and Licence Fees(ix)-13(h)
+Rate(ix)-13(h)(i)
+Amount(ix)-13(h)(ii)
+Currency(ix)-(13)(h)(iii)
+Value of Proceeds which accrue to
+seller(ix)-13(i)
+Rate(ix)-13(i)(i)
+Amount(ix)-13(i)(ii)
+Currency(ix)-(13)(i)(iii)
+Cost of Warranty of Service, if any, Provided by
+the seller or on Behalf of the seller(ix)-13(j)
+Rate(ix)-13(j)(i)
+Amount(ix)-13(j)(ii)
+Currency(ix)-(13)(j)(iii)
+Other Costs or Payments, if any, to Satisfy the
+Obligation of the seller(ix)-13(k)
+Rate(ix)-13(k)(i)
+Amount(ix)-13(k)(ii)
+Currency(ix)-(13)(k)(iii)
+Other Charges and Payments, if any(ix)-13(l)
+Rate(ix)-13(l)(i)
+Amount(ix)-13(l)(ii)
+Currency(ix)-(13)(l)(iii)
+Discount Amount(ix)-14
+Discount Currency(ix)-15
+Additional charges, if any, for purchase on High Seas (In Rs.)(ix)-16
+Rate (%)(ix)-16 (a)
+Amount (in Rs.)(ix)-16 (b)
+Any other Information which has a bearing on Value(ix)-17
+Details of Special Valuation Branch (SVB) Loading wherever Applicable (at Invoice Level) (Fill only if same for all goods
+of the consignment else declare at item level)(ix)-18
+Are the Buyer and Seller Related? Yes/ No(ix)-18(a)
+If the buyer and Seller are Related, has the Relationship been examined Earlier by the SVB (yes/ No)(ix)-18(b)
+If examination earlier by the SVB(ix) 18 (b)
+(i)
+SVB Reference Number(ix) 18 (b) (i)(1)
+Page 20/33
+----- PAGE 21 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+SVB Date(ix) 18 (b) (i)(2)
+Indication for Provisional/ Final(ix) 18 (b)
+(i)(3)
+Item-wise Information under each Invoice(ix)-19
+Case of Re-Import(ix)-19(a)
+Import against Licence(ix)-19(b)
+Serial Number of Invoice(ix)-19(c)
+Item Description(ix)-19(d)
+General Description(ix)-19(e)
+Currency for Unit Price(ix)-19(f)
+Unit Price(ix)-19(g)
+Unit of Measure(ix)-19(h)
+Quantity(ix)-19(i)
+Accessories, if any(ix)-19(j)
+Name of Manufacturer(ix)-19(k)
+Brand(ix)-19(l)
+Model(ix)-19(m)
+Grade(ix)-19(n)
+Specification(ix)-19(o)
+End Use of Item(ix)-19(p)
+Manufacturing(ix)-19(p)(i)
+Trading(ix)-19(p)(ii)
+Self Consumption(ix)-19(p)(iii)
+Country of Origin(ix)-19(q)
+Assessable Value(ix)-19(r)
+Details, in case of previous Imports(ix)-19(s)
+Bill of Entry Number(ix)-19(s) (i)
+Date(ix)-19(s) (ii)
+Currency(ix)-19(s) (iii)
+Unit Value(ix)-19 (s)(iv)
+Custom House(ix)-19(s)(v)
+Classification Details(ix)-19(t)
+RITC(ix)-19(t)(i)
+CTSH(ix)-19(t)(ii)
+CETH(ix)-19(t)(iii)
+GST Code(ix)-19(t)(iv)
+Value under section 3 of the Customs Tariff Act,
+1975 & IGST Amount(ix)-19(t)(v)
+EXIM Scheme Code, if any(ix)-19(t)(vi)
+Para. No./ Year of EXIM Policy(ix)-19(t)(vii)
+Details of Special Valuation Branch (SVB) Loading wherever Applicable (at Item level)(ix)-19(u)
+Are the Buyer and Seller Related? Yes/ No(ix)-19(u)(i)
+If the buyer and Seller are Related, has the Relationship been examined earlier by the SVB (Yes/ No)(ix)-19(u)(ii)
+If Examined earlier by the SVB(ix)-19
+(u)(ii)(1)
+SVB Reference Number(ix)-19 (u)(ii)(2)
+SVB Date(ix)-19 (u)(ii)(3)
+Indication for Provisional/ Final(ix)-19
+(u)(ii)(4)
+Notifications Used for the Item (Customs and Excise)(ix)-19(v)
+Notification Type(ix)-19 (v)(i)
+Page 21/33
+----- PAGE 22 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Notification Number(ix)-19 (v)(ii)
+Serial Number in Notification(ix)-19 (v)(iii)
+List Number(ix)-19 (v)(iv)
+List Serial Number(ix)-19 (v)(v)
+Shipping Bills Details in case of Re-Import(ix)-19 (w)
+Shipping Bill Number(ix)-19 (w)(i)
+Shipping Bill Date(ix)-19 (w)(ii)
+Port of Export(ix)-19 (w)(iii)
+Invoice Number of Shipping Bill(ix)-19
+(w)(iv)
+Item Serial Number in Shipping Bill(ix)-19
+(w)(v)
+Payments made for Export on a Pro-Rata Basis (In
+Rs.)(ix)-19 (w)(vi)
+Freight(ix)-19 (w)(vi)(1)
+Insurance(ix)-19 (w)(vi)(2)
+Details Relating to Duty Exemption based on EXIM Schemes and Licence Particulars(ix)-19(x)
+Additional Duty Exemption Requested(ix)-19
+(x)(i)
+Notification Number(ix)-19 (x)(ii)
+Serial Number in Notification(ix)-19 (x)(iii)
+Licence Registration Number(ix)-19 (x)(iv)
+Licence Registration Date(ix)-19 (x)(v)
+Debit Value (Rs.)(ix)-19 (x)(vi)
+Unit of Measure for Quantity to be
+Debited(ix)-19 (x)(vii)
+Debit Quantity(ix)-19 (x)(viii)
+Item Serial Number in Licence(ix)-19 (x)(x)
+Additional Duty Rate(ix)-19(y)(i)
+Additional Duty Amount(ix)-19(y)(ii)
+IGST Rate(ix)-19(y)(iii)
+IGST Exemption Notification(ix)-19(y)(iv)
+IGST Amount(ix)-19(y)(v)
+GST Compensation Cess Rate(ix)-19(y)(vi)
+GST Compensation Cess Exemption
+Notification(ix)-19(y)(vii)
+GST Compensation Amount(ix)-19(y)(viii)
+Total Duty Amount(ix)-19(y)(ix)
+Declaration (For the Courier Bill of Entry-XIV for Home Consumption)
+Declaration
+(Declaration to be signed by the Courier/ Customs House Agent)
+2. I/ We declare that I/ we have not received any other documents or information showing a different price, value,
+quantity or description of the said goods and that if at any time hereafter I/ we receive any documents from the importer
+showing a different state of facts, I /we will immediately make the same known to the Commissioner of Customs.
+(Declaration to be signed by an Importer) (With Customs House Agent/ Courier)
+1. I/ We declare that the contents of invoice (s) no. (s) dated of M/s. and of other documents relating to the goods
+covered by the said invoice (s) and presented herewith are true and correct in every respect.
+2. I/ We declare that I/ we have not received and do not know of any other documents or information showing a different
+price, value (including local payments, whether as commission or otherwise), quantity or description of the said goods
+and that if at any time hereafter I / we discover any information showing a different state of facts, I /we will immediately
+make the same known to the Commissioner of Customs.
+Page 22/33
+----- PAGE 23 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+3. I/ We declare that the goods covered by the bill of entry have been imported on outright purchase/ consign-nment
+account.
+4. I/ We am/ are not connected with the suppliers/ manufacturers as -
+(a)
+Agent/ Distributor/ Indentor/ Branch/ Subsidiary/ Concessionaire, and
+(b)
+Collaborator entitled to the use of the trade mark, patent or design,
+(c)
+Otherwise than as ordinary importers or buyers.
+5. I/ We declare that the method of invoicing has not changed since the date on which my/ our books of accounts and/or
+agreement with the suppliers were examined previously by the Customs House (s).
+(Declaration to be signed by an Importer) (Without Customs House Agent/ Courier)
+1. I/ We declare that the contents of this Bill of Entry for goods imported against Airway Bill number dated are in
+accordance with the invoice number dated and other documents presented herewith. I/We also declare that the contents
+of the above mentioned invoice(s) and documents are true and correct in every respect.
+2. I/ We declare that I/ we have not received and do not know of any other documents or information showing a different
+price, value (including local payments, whether as commission or otherwise), quantity or description of the said goods
+and that if at any time hereafter I/we discover any information showing a different state of facts, I/we will immediately
+make the same known to the Commissioner of Customs.
+3. I/ We declare that the goods covered by the bill of entry have been imported on outright purchase/consignment
+account.
+4. I/ We am/ are not connected with the suppliers/ manufacturers as -
+(a)
+Agent/ Distributor/ Indentor/ Branch/ Subsidiary/ Concessionaire, and
+(b)
+Collaborator entitled to the use of the trade mark, patent or design,
+(c)
+Otherwise than as ordinary importers or buyers.
+5. I/We declare that the method of invoicing has not changed since the date on which my/our books of accounts and/or
+agreement with the suppliers were examined previously by the Customs House (s)
+Declaration (For the Bill of Entry for Warehousing)
+(Declaration to be signed by the Courier/ Customs House Agent)
+1. I/ We apply for leave to deposit the goods covered by this Bill of Entry in the warehouse being public/private
+warehouse appointed/licensed under the Customs Act, 1962.
+2. I/ We declare that the contents of this Bill of Entry for goods imported against Airway Bill Number dated are in
+accordance with the invoice number dated and other documents presented herewith.
+3. I/ We declare that I/ we have not received any other documents or information showing a different price, value,
+quantity or description of the said goods and that if at any time hereafter I/ we receive any documents from the importer
+showing a different state of facts, I/we will immediately make the same known to the Commissioner of Customs.
+(Declaration to be signed by an Importer) (With Customs House Agent/ Courier)
+1. I/ We apply for leave to deposit the goods covered by this Bill of Entry in the warehouse being public/private
+warehouse appointed/licensed under the Customs Act, 1962.
+2. I/ We declare that the contents of invoice (s) no. (s) dated of M/s. and of other documents relating to the goods
+covered by the said invoice (s) and presented herewith are true and correct in every respect.
+3. I/ We declare that I/ we have not received and do not know of any other documents or information showing a different
+price, value (including local payments, whether as commission or otherwise), quantity or description of the said goods
+and that if at any time hereafter I / we discover any information showing a different state of facts, I /we will immediately
+make the same known to the Commissioner of Customs.
+4. I/ We declare that the goods covered by the bill of entry have been imported on outright purchase/consignment
+account.
+5. I/ We am/ are not connected with the suppliers/ manufacturers as -
+Page 23/33
+----- PAGE 24 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(a)
+Agent/ Distributor/ Indentor/ Branch/ Subsidiary/ Concessionaire, and
+(b)
+Collaborator entitled to the use of the trade mark, patent or design,
+(c)
+Otherwise than as ordinary importers or buyers
+6. I/ We declare that the method of invoicing has not changed since the date on which my/our books of accounts and/or
+agreement with the suppliers were examined previously by the Customs House(s)
+(Declaration to be signed by an Importer) (Without Customs House Agent/ Courier)
+1. I/ We apply for leave to deposit the goods covered by this Bill of Entry in the warehouse being public/private
+warehouse appointed/licensed under the Customs Act, 1962.
+2. I/ We declare that the contents of this Bill of Entry for goods imported against Airway Bill Number dated are in
+accordance with the invoice number dated and other documents presented herewith. I/ We also declare that the
+contents of the above mentioned invoice(s) and documents are true and correct in every respect.
+3. I/ We declare that I/ we have not received and do not know of any other documents or information showing a different
+price, value (including local payments, whether as commission or otherwise), quantity or description of the said goods
+and that if at any time hereafter I/we discover any information showing a different state of facts, I/we will immediately
+make the same known to the Commissioner of Customs.
+4. I/ We declare that the goods covered by the bill of entry have been imported on outright purchase/consignment
+account.
+5. I/ We am/ are not connected with the suppliers/ manufacturers as -
+(a)
+Agent/ Distributor/ Indentor/ Branch/ Subsidiary/ Concessionaire, and
+(b)
+Collaborator entitled to the use of the trade mark, patent or design,
+(c)
+Otherwise than as ordinary importers or buyers.
+6. I/ We declare that the method of invoicing has not changed since the date on which my/our books of accounts and/or
+agreement with the suppliers were examined previously by the Customs House(s).
+Declaration (For the Bill of Entry for Ex-bond clearance)
+Declaration to be signed by the importer/Courier/Customs House Agent
+1. I/ We declare that the particulars given in this Bill of Entry are true
+2. I/ We apply for permission to clear the goods from the Customs Bonded Warehouse subject to the provisions of the
+Customs Act, 1962.
+Signature of Importer ___________________]
+[Note : Details relating to Sl. No. 4(ii) and 5 shall be non-mandatory.]
+Form F
+[See Regulation 6(1)]
+Courier Express Manifest (CEM-I)
+(Electronic Filing)
+Sl. No.
+Description
+Details
+1.
+Courier
+Registration Number
+2.
+Name and
+address of the Authorised Courier
+3.
+Export
+Page 24/33
+----- PAGE 25 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+General Manifest Number
+4.
+Name of the
+airlines
+5.
+Airport of
+arrival
+6.
+Flight No.
+7.
+Date of
+departure
+8.
+Time of
+departure
+9.
+Airport of
+destination
+10.
+Shipment/Consignmentwise
+Details:
+MAWB
+No.
+HAWB
+No.
+Number
+of Package/Pieces/ Bags/ULDs
+Weight
+(in kgs.)
+(1)
+(2)
+(3)
+(4)
+Description
+of Goods
+Name
+and address of the Consignor
+Name
+and address of the Consignee
+Value
+(in Rs)
+(5)
+(6)
+(7)
+(8)
+Declaration
+I/We declare that all statements and particulars contained in this form and other documents presented herewith are
+complete, correct and true, in every respect.
+Date:
+Signature and name of the authorised courier
+Place:
+Page 25/33
+----- PAGE 26 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Form G
+[See Regulation 6(1)]
+Courier Shipping Bill-III (CSB-III) for Documents
+(Electronic Filing)
+Sl.No.
+Description
+Details
+1.
+Courier
+Registration Number
+2.
+Name and address
+of the Authorised Courier
+3.
+Name of the
+airlines
+4.
+Airport of arrival
+5.
+Flight No.
+6.
+Date of departure
+7.
+Time of departure
+8.
+Airport of
+Destination
+9.
+Expected date of
+landing at destination
+10.
+Airway Bill-wise
+Information:
+(a) MAWBNo.
+(b) No. of HAWBs
+included in this MAWB
+(c) Number of
+bags/package/pieces/ULD
+11.
+Shipment/Consignment-wise
+Information:
+HAWBNo.
+Name
+and address of the consignor
+Name
+and address of the consignee
+(1)
+(2)
+(3)
+Declaration
+I/We declare that the authorization from each of the consignors relating to the above mentioned consignments have
+Page 26/33
+----- PAGE 27 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+been obtained be me/us to act as an agent for the clearance of the goods described above.
+I/We hereby declare that the goods exported as per this Shipping Bill include only document of no commercial value and
+do not include goods which are liable to duty or which are prohibited or restricted for export from India under any law for
+the time being in force.
+Date:
+Signature and name of the authorised courier
+Place:
+[Form H]
+[Substituted by Notification No. G.S.R. 158(E), dated 27.2.2019 (w.e.f. 5.5.2010).]
+[See Regulation 6(3)]
+Courier Shipping Bill-IV (CSB-IV) for Goods
+(Electronic Filing)
+S. No.
+Description
+Details
+(1)
+(2)
+(3)
+1.
+Courier Registration Number
+2.
+Name and address of the Authorized Courier
+3.
+Name of the airlines
+4.
+Airport of departure
+5.
+Flight No.
+6.
+Date of departure
+7.
+Time of departure
+8.
+Airport of destination
+9.
+10.
+Airway Bill-wise information :
+(a) MAWB No.
+(b) No. of HAWBs included in this MAWB
+(c) Number of bags/ packages/ pieces/ ULD
+AD Code
+11.
+Shipment / consignment-wise information:
+HAWB No.
+GST Invoice no. and date
+Invoice no. and date (Export Invoice)
+Value
+(1)
+(2)
+(3)
+(4)
+Page 27/33
+----- PAGE 28 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Description of the goods
+Name and address of the consignor
+Name and address of the consignee
+Weight (In KGs)
+(5)
+(6)
+(7)
+(8)
+Whether supply for export is on payment of
+IGST or not. Please indicate
+Whether supply is against Bond or UT
+Total IGST paid, if any
+GSTIN
+(9)
+(10)
+(11)
+(12)
+Declaration
+I/ We hereby declare that I/ we have obtained the authorization from each of the consignors mentioned above to act as
+an agent for the clearance of the goods described above.
+I/ We hereby declare that the goods for export as per this Shipping Bill include only bona fide commercial samples,
+prototypes of goods and bona fide gifts of articles for personal use within the value limits prescribed in the relevant
+exemption Notification and which are for the time being not subject to any prohibition or restriction on their export from
+India and no transfer of foreign exchange is involved.
+I/ We enclose herewith __________ (number) of airway bills and ________ (number) of invoices for the aforesaid
+consignments with this shipping bills.
+I/ We hereby declare that the contents of this shipping bill are true and correct in every respect and are in accordance
+with the Airway Bills, the invoices and other documents attached herewith.
+Date :
+Signature and name of the authorised courier with stamp of Authorised Courier
+Place :
+[Form- HA]
+[Substituted by Notification No. G.S.R. 158(E), dated 27.2.2019 (w.e.f. 5.5.2010).]
+Courier Shipping Bill –V(CSB-V)
+[See regulation 6(3)]
+A
+Name and Address of the Authorised Courier
+Name of Customs Station
+Courier Registration No.
+Port of loading
+Airline Name and Flight Number
+Customs Shipping Bill Number and Date
+AD Code
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+B
+Page 28/33
+----- PAGE 29 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+S. No.
+Courier AWB No.
+No. of pack age
+Declared Weight
+Destination
+Consignor/Exporter Name and Address
+IEC No. of the Exporter
+Terms of invoice
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+Description of goods as per Exporter Invoice
+Invoice Value (FOB)
+Consignee?s Name and Address
+Whether export using e-commerce Yes/No
+Whether under MEIS scheme Y/N
+(9)
+(10)
+(11)
+(12)
+(13)
+S. No.
+Description
+Qty
+HS Code
+Currency
+INR
+(i)
+(ii)
+(iii)
+(iv)
+(i)
+(ii)
+C
+GSTIN
+Invoice no. and date
+Total taxable value
+If Supply for export is on payment of IGST. Pl
+indicate, total IGST paid, if any
+Whether against Bond or UT
+Total Cess paid, if any
+(1)
+(2)
+(3)
+(4)
+(5)
+Page 29/33
+----- PAGE 30 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(6)
+Declaration:
+(i)
+I/We hereby declare that the exporter mentioned above has authorised us for booking the shipment under the Courier
+Airway bill and act as an agent for clearance and export of the goods described above.
+(ii)
+I/We hereby declare that on the basis of declaration of the exporter, I/We shall abide by the declaration in CSB-V,
+above.
+Signature of the Authorised person of the Authorised Courier
+with stamp of Authorised Courier
+Form I
+[See Regulation 7(1)]
+To
+The Commissioner of Customs
+....................(Address)
+Subject: Application Form for registration/renewal of authorised courier under the Courier Imports and Exports
+(Electronic Declaration and Processing) Regulations, 2010 issued under Section 157 of the Customs Act, 1962 (
+52 of 1962
+).
+Sir/Madam,
+I/We, the undersigned, hereby submit the following details for registration as an authorised courier under the Courier
+Imports and Exports (Electronic Declaration and processing) Regulations, 2010:
+This application is for
+(i)
+New registration
+(ii)
+For new PAN based Registration No. for existing registrants.
+(iii)
+Amendment to information pertaining to existing registrants.
+(1)
+Name of the Authorised Courier:
+(2)
+Name of Customs House where registration is required:
+(3)
+Existing Authorized Courier Registration No.(s), date & Customs Airport, if any:
+(4)
+Permanent Account No. (PAN No.):
+(5)
+Constitution of Business:
+(Specify whether Proprietorship, Partnership, Public Ltd./Private Ltd. Company Others.)
+(6)
+Registered office address:
+(Complete details of the following to be provided: Flat/Building/Plot No., Name of premises/Building, Road/Street Name,
+Locality, City, State, Pin Code No., Telephone Nos., Fax No., E mail Address)
+(7)
+Name and residential address of the Proprietor, Partners of the partnership firm, of Directors of the Company or the
+persons in charge in case of other category, as the case may be:
+(8)
+Name, designation, residential address and educational qualification/ knowledge of Customs law & procedure of duly
+authorized signatory and employees who will actually be engaged in work of Authorized courier:
+(Complete details of the following to be provided: Flat/Building/Plot No., Name of premises/Building, Road/Street Name,
+Page 30/33
+----- PAGE 31 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+Locality, City, State, Pin Code No. Telephone Nos., Fox No., E mail Address)
+(9)
+In case, it is desired to appoint employees, name, designation, residential address and educational
+qualification/knowledge of Customs law & procedure of the employees, as the case may be:
+(Complete details of the following to be provided: Flat/Building/Plot No., Name of premises/Building, Road/Street Name,
+Locality, City, State, Pin Code No. Telephone Nos., Fox No., E mail Address)
+(10)
+Particulars of the No. of consignments value of cargo cleared and duty paid as Authorized Courier during last three
+financial years:
+(11)
+Details of Bank Account used for business transaction by the Registrant:
+(Bank Account No., Name of Bank, Name of the Branch and address to be provided)
+(12)
+Details of Service Tax Registration:
+(Service Tax Registration No., Date of Issue, Commissionerate, Division, Range)
+(13)
+Whether the registration as Authorized Courier held under these regulations was cancelled or suspended:
+(14)
+Whether the applicant or any of the persons proposed to be employed by him have been penalized, convicted or
+prosecuted under any of the provisions of the Customs Act, 1962 (
+52 of 1962
+) or any other law for the time being in force:
+(15)
+Declaration:
+I am/We are authorized to make the following declarations:
+I/We declare that all particulars given herein are true and correct.
+I/We hereby affirm that I/we have read the Courier Imports and Exports (Electronic Declaration and Processing)
+Regulations, 2010 and agree to abide by them.
+I/We hereby undertake to intimate any change in respect of the information provided in the aforesaid application within a
+period of 30 days.
+Date:
+Signature and name of the applicant(s) or authorised signatory
+Place:
+Form J
+[See Regulation 7(1)]
+Form for Intimation of Authorised Courier
+To
+The Commissioner of Customs
+....................(Address)
+Subject: Application Form for intimation of authorised courier under the Courier Imports and Exports (Electronic
+Declaration and Processing) Regulations, 2010 issued under Section 157 of the Customs Act, 1962 (
+52 of 1962
+).
+Sir/Madam,
+I/We, the undersigned, hereby intimate the following details for functioning as an authorised courier under the Courier
+Imports and Exports (Electronic Declaration and processing) Regulations, 2010:
+This application is for
+(i)
+Form of Intimation for working as Authorised Courier at a Custom House other than Customs House of Registration
+(ii)
+Amendment to information pertaining to Existing Intimations.
+Page 31/33
+----- PAGE 32 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+(1)
+Name of the Authorised Courier:
+(2)
+Custom House where PAN-based Registration of Authorised Courier was issued under Regulation 7(1) (Name and
+place):
+(3)
+Name of Customs House where registration is required:
+(4)
+Existing Authorized Courier Registration No.(s), date & Customs Airport, if any:
+(5)
+Permanent Account No. (PAN No.):
+(6)
+Constitution of Business:
+(Specify whether Proprietorship, Partnership, Public Ltd./Private Ltd. Company, Others.)
+(7)
+Registered address:
+(Complete details of the following to be provided: Flat/Building/Plot No., Name of premises/Building, Road/Street Name,
+Locality, City, State, Pin Code No., Telephone Nos., Fax No., E mail Address)
+(8)
+Name and residential address of the Proprietor, Partners of the partnership firm, or Directors of the Company or the
+persons in charge in case of other category, as the case may be:
+(Complete details of the following to be provided: Flat/Building/Plot No., Name of premises/Building, Road/Street Name,
+Locality, City, State, Pin Code No. Telephone Nos., Fax No., E mail Address)
+(9)
+Name and residential address of duly authorized signatory and employees who will actually be engaged in work of
+Authorized courier at Custom House of Intimation:
+(Complete details of the following to be provided: Flat/Building/Plot No., Name of premises/Building, Road/Street Name,
+Locality, City, State, Pin Code No. Telephone Nos., Fax No., E mail Address)
+(10)
+In case, it is desired to appoint employees, name, designation, residential address and educational
+qualification/knowledge of Customs law & procedure of the employees, as the case may be:
+(Complete details of the following to be provided: Flat/Building/Plot No., Name of premises/Building, Road/Street Name,
+Locality, City, State, Pin Code No. Telephone Nos., Fax No., E mail Address)
+(11)
+Particulars of the No. of consignments value of cargo cleared and duty paid as Authorized Courier during last three
+financial years:
+(12)
+Details of Bank Account used for business transaction by the Registrant:
+(Bank Account No., Name of Bank, Name of the Branch & address to be provided)
+(13)
+Details of Service Tax Registration:
+(Service Tax Registration No., Date of Issue, Commissionerate, Division, Range)
+(14)
+Whether the registration as Authorized Courier held under these regulations was cancelled or suspended:
+(15)
+Whether the applicant or any of the persons proposed to be employed by him have been penalized, convicted or
+prosecuted under any of the provisions of the Customs Act, 1962 (
+52 of 1962
+) or any other law for the time being in force:
+Declaration
+I am/We are authorized to make the following declarations:
+Page 32/33
+----- PAGE 33 -----
+The Courier Imports and Exports (Electronic Declaration and Processing) Regulations, 2010
+I/We declare that all particulars given herein are true and correct.
+I/We hereby affirm that I/we have read the Courier Imports and Exports (Electronic Declaration and Processing)
+Regulations, 2010 and agree to abide by them.
+I/We hereby undertake to intimate any change in respect of the information provided in the aforesaid application within a
+period of 30 days.
+Signature and name of the applicant(s)
+or authorised signatory
+Date:
+Place:
+[Inserted by Notification No. G.S.R. 592 (E) dated 26.7.2012 (w.e.f. 5.5.2010)]
+Related AI tags, queries and research notes
+Translation
+Page 33/33

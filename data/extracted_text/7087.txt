@@ -1,0 +1,2302 @@
+
+----- PAGE 1 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Uttarakhand Electricity Regulatory Commission (Distribution Code)
+Regulations, 2018
+Source: https://indiankanoon.org/doc/53769621/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Uttarakhand - Act
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+UTTARAKHAND
+India
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Rule UTTARAKHAND-ELECTRICITY-REGULATORY-COMMISSION-DISTRIBUTION-CODE-REGULATIONS-2018 of
+2018
+Published on 31 March 2018
+Commenced on 31 March 2018
+[This is the version of this document from 31 March 2018.]
+[Note: The original publication document is not available and this content could not be verified.]
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Published vide Notification No. F-(9)27/RG/UERC/2018/2016, dated 31.3.2018
+Notification No. F-(9)27/RG/UERC/2018/2016. - In exercise of the powers conferred on it by Section 181 of the
+Electricity Act 2003, read with clause (c), (e) and (i) of sub-section (1) of Section 86 of the said Act and Clause 18 of
+Distribution and Retail Supply Licence issued to the Distribution Licensee under Section 14 of the Act and all powers
+enabling it in that behalf, the Uttarakhand Electricity Regulatory Commission hereby makes the following regulations:
+Chapter 1
+General
+Page 1/43
+----- PAGE 2 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+1.
+1. Short title, commencement and interpretation.
+(1)
+These regulations may be called the Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations,
+2018.
+(2)
+This regulation shall be applicable to all Distribution System participants including:
+(a)
+Distribution Licensee(s) [including deemed licensee(s)];
+(b)
+Open Access Customers connected to Distribution Systems;
+(c)
+Other Distribution Licensee connected to Distribution Systems;
+(d)
+Institutions covered under Proviso 8 of Section 14 of the Act;
+(e)
+Embedded Generators; and
+(f)
+Consumers.
+(3)
+These regulations shall come into force on the date of the publication in the Official Gazette replacing "Uttarakhand
+Electricity Regulatory Commission (Distribution Code) Regulations, 2007" thereof.
+(4)
+These regulations shall be interpreted and implemented in accordance with, and not at variance from, the provisions of
+the Electricity Act, 2003 read with the Central Electricity Authority (Measures relating to Safety and Electric Supply)
+Regulations, 2010 as amended from time to time and any other regulations issued by Central Electricity Authority in this
+regard.
+1.2
+Definitions. - (1) In the Distribution Code the following words and expressions shall, unless the subject matter or context
+otherwise requires or is inconsistent therewith, bear the following meanings:
+(a)
+"Act" means The Electricity Act, 2003 (Act 36 of 2003).
+(b)
+"Agreement" means an agreement entered into by the Distribution Licensee and the User.
+(c)
+"Apparatus" means electrical apparatus and includes all machines, fittings, accessories and appliances connected to the
+Electrical Distribution System.
+(d)
+"Area of Supply" means the geographic area within which Licensee is for the time being authorised by his licence to
+supply electrical energy.
+(e)
+"CBIP" means Central Board of Irrigation and Power.
+(f)
+"CEA" means Central Electricity Authority.
+(g)
+"Circuit" means an arrangement of conductor(s) for the purpose of conveying electrical energy and forming a system or
+a branch of system.
+(h)
+"Commission" means Uttarakhand Electricity Regulatory Commission.
+(i)
+"Conductor" means any wire, cable, bar, tube, rail or plate used for conducting energy and electrically connected to the
+Page 2/43
+----- PAGE 3 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+system.
+(j)
+"Connected Load" means aggregate of the manufacture's rating of all energy consuming apparatus duly wired and
+connected to the power supply system of licensee including portable apparatus in the consumer's premises. This shall
+not include the load of spare plug, sockets, load exclusively installed for fire fighting purposes. The load of either water
+and room heating or room cooling apparatus, whichever is higher, shall be taken into account as per prevailing season
+(1st April to 30th September for cooling use and 1st October to 31st March for heating use).
+The definition of connected load shall be used only for the purpose of assessment in case of direct theft or dishonest
+abstraction of energy or unauthorised use of energy.
+(k)
+"Control Person" means a person identified as having technical capability and responsibility for cross boundary safety.
+(l)
+"OCR" means Distribution Code Review.
+(m)
+"DCRP" means Distribution Code Review Panel.
+(n)
+"Embedded" means having a direct electrical connection to an intra state electrical system.
+(o)
+"Extra High Tension (EHT) or Extra High Voltage (EHV)" means where the voltage exceeds 33,000 volts under normal
+conditions, subject to the percentage variation permissible.
+(p)
+"GSS" means Grid Sub-station.
+(q)
+"Harmonics" means a component of a periodic wave having frequency that is an integral multiple of the fundamental
+power line frequency of 50 Hz causing distortion to pure sinusoidal wave form of voltage or current, and as governed by
+IEEE STD 519-1992, namely "IEEE Recommended Practices and Requirements for Harmonic Control in Electrical
+Power Systems" and CEA Safety Regulations/ Grid Standards as amended from lime to time.
+(r)
+"High Tension (HT) or High Voltage (HV)" means the voltage between 650 volts and up to 33,000 Volts under normal
+conditions, subject to the percentage variation permissible.
+(s)
+"Indian Standards (IS)" means those Standards and specifications approved by the Bureau of Indian Standards.
+(t)
+"Interface Point"/"Connection Point"/Boundary Point" means point at which a User's electrical system is connected to the
+Licensee's Distribution System.
+(u)
+"Low Tension (LT) or Low Voltage (LV)" means the voltage of 230 volts between phase and neutral or 400 volts
+between any two phases under normal conditions, subject to the percentage variation permissible.
+(v)
+"Power Factor" means the ratio of Active Power (kW) to Apparent Power (KVA),
+(w)
+"PTW" means permit to work.
+(x)
+"REC" means Rural Electrification Corporation.
+(y)
+"Transmission System" means the system consisting of extra high voltage electric lines being operated at EHT
+(excluding generator interconnection facilities) owned and or operated by the Transmission Licensee for the purposes of
+the transmission of electricity from one power station to a sub- station or to another power station or between
+sub-stations or to or from any external interconnection equipment up to the interconnection with the distribution system,
+any plant and apparatus and meters owned or used by the Transmission Licensee in connection with the transmission of
+electricity, but shall not include any part of the Licensee distribution system.
+Page 3/43
+----- PAGE 4 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+(z)
+"User" means any person having electrical interface with, or using the Distribution System of the Distribution Licensee to
+whom this Code is applicable. Any other Distribution Licensee, Transmission Licensee and generating units connected
+to the Distribution system are also included in this term.
+(aa)
+All words and expressions used and not defined in these regulations but defined in The Electricity Act, 2003 shall have
+the meanings as assigned to them in the said Act.
+1.3
+Objectives. - (1) To ensure that distribution system is developed and maintained in an efficient, coordinated and
+economical manner and the Distribution Licensee and all Distribution System Users comply with respective obligations
+as specified in the Act.
+(2)
+The Distribution Code brings together a single set of regulations, for using the Distribution network and provides the
+following:
+(a)
+Technical aspects of working relationship between the Licensee's Distribution system and to those connected and
+seeking connection to it.
+(b)
+Facilitation of the operation, maintenance, development and planning of economic and reliable power distribution
+network.
+(c)
+Safety and Protection parameters to be followed by the distribution licensee and users.
+1.4
+Scope of Distribution Code. - (1) The Distribution Code shall cover all material technical aspects relating to connections
+to and the operation and use of the Distribution System including the operation of the electrical lines and electrical plant
+and apparatus connected to the Distribution System insofar as relevant to the operation anduse of the Distribution
+System and shall include:
+(a)
+Distribution planning and connection code containing connection conditions specifying the technical, design and
+operational criteria to be complied with by any person connected or seeking connection with the Licensee's Distribution
+System and planning codes specifying the plan required for laying the distribution lines and the services lines in the Area
+of Supply, the technical and design criteria and procedures to be applied by the Distribution Licensee in the planning
+and development of the Licensee's Distribution System; and
+(b)
+A distribution operation code specifying the conditions under which the Distribution Licensee shall operate its
+Distribution System and under which persons shall operate their plant and/or Distribution System in relation to the
+Licensee's Distribution System, insofar as necessary to protect the security and quality of supply and safe operation of
+the Licensee's Distribution System under both normal and abnormal operating conditions.
+(2)
+The Distribution Code is not exhaustive as to the requirements to be complied with by the Distribution Licensee and the
+Users connected or seeking connection to the Licensee's Distribution System. The Distribution Licensee and all
+Users/Consumers must also comply with the requirement as laid down in various codes, standard and regulations under
+relevant laws in force.
+(3)
+The Distribution Code also deals in terms of distribution management in the event of outages and shortages of
+Electricity Supply and distribution thereof amongst all the categories of consumers as per the system network
+requirement. However, consumers having captive power plants shall come to the rescue of the Distribution licensee as
+first priority in the event of outages and shortages and resort to load shedding immediately on instructions from the
+Distribution licensee/SLDC.
+(4)
+This Distribution Code shall include-
+Page 4/43
+----- PAGE 5 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+(a)
+Management of Distribution Code
+(b)
+Distribution System Planning Code
+(c)
+Connectivity Conditions
+(d)
+Operation Code
+(e)
+Distribution Protection Requirement
+(f)
+Cross Boundary Safety Code
+(g)
+Incident/Accident Reporting
+1.5
+Implementation and Operation of the Distribution Code. - (1) The Distribution Licensee shall be responsible for its
+implementation within its Area of Supply. Users shall comply with the provisions of this code.
+(2)
+If any User has any difficulty in complying with any of the provisions of the Distribution Code, he shall immediately,
+inform to the Distribution Licensee and/or Commission, as the case may be.
+(3)
+Any continued non-compliance, without reasonable grounds shall constitute a deviation under the Act, and may lead to
+disconnection of the User's plant or apparatus in line with the provisions of The Electricity Act, 2003 from the Licensee's
+Distribution System. The responsibility for the consequences of disconnection including payment of damages and others
+rests with the User(s) who consistently violates the Distribution Code.
+(4)
+Non-compliance with any provision of the Distribution Code by the Distribution Licensee shall attract the consequences
+as provided in the Acts or in the Licence. However, in the event of non-compliance with the Distribution Code, the
+Distribution Licensee shall prepare and submit to the Commission an action plan for ensuring the compliance of the
+provisions of the Distribution Code. The Commission may exempt Distribution Licensee from compliance of any
+provisions for a particular period, if it is found that the compliance is not feasible for such period, considering the
+resources available and the circumstances prevailing.
+1.6
+Limitations of the Distribution Code. - (1) Nothing contained in this Code should be interpreted as imposing
+obligations/duties on Consumers/Distribution Licensees greater or more onerous than those mentioned in the Electricity
+Act, 2003 under relevant sections.
+(2)
+The Distribution Code contains procedures for the management of day to day technical situations in the Distribution
+System, taking into account a wide range of operational conditions likely to be encountered under both normal and
+abnormal conditions. The Distribution Code cannot foresee all the possible operating conditions. Users must therefore
+understand and accept that the Distribution Licensee, in such unforeseen circumstances, may be required to act
+decisively and with due expedition to discharge his obligations under the Licence. Users shall provide such reasonable
+co-operation and assistance as the Distribution Licensee may require in such circumstances. The concerned Distribution
+Licensee shall however refer all such cases for ratification in the next meeting of the Distribution Code Review Panel as
+described under Chapter 2 of the code 'Management of Distribution Code'.
+1.7
+Confidentiality. - Under the terms of Distribution Code, the Distribution Licensee will receive information from Users
+relating to their business. The Distribution Licensee shall not, other than as required by Distribution Code, disclose such
+information to any other person without the prior written consent of such informant, unless required by Central/State
+government departments or the authority.
+1.8
+Page 5/43
+----- PAGE 6 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Procedures to settle disputes. - In the event of any dispute regarding interpretation of any regulations provided in the
+Distribution Code between any User and the Distribution Licensee, the matter shall be referred to the Distribution Code
+Review Panel and thereafter to Uttarakhand Electricity Regulatory Commission. Commission's decision shall be final
+and binding on both the parties.
+Chapter 2
+Management of Distribution Code
+2.
+1. Introduction.
+- This chapter defines the method of managing Distribution Code, pursuing of any changes/modifications required and
+the responsibilities of the Distribution Licensees and the Users in this regard. This section facilitates revisions taking into
+account the views of all parties in an equitable manner.
+2.2
+Objective. - The objective of this chapter is to define the functions of the Distribution Code Review Panel and procedure
+for review and revision of the Distribution Code.
+2.3
+Distribution Code Review Panel. - (1) A standing body called Distribution Code Review Panel (DCRP) shall be
+constituted by the Commission comprising of the representatives of Distribution Licensee as well as the Users of the
+Distribution System in line with the provisions of this Code.
+(2)
+No change in this Distribution Code, shall be made without being deliberated upon and agreed to by the Distribution
+Code Review Panel and thereafter approved by Commission. However, in an unusual situation where normal day-to-day
+operation is not possible without revision in some of the provisions of the regulations of Distribution Code, a provisional
+revision may be implemented before approval of Commission is received, but only after discussion at a special Review
+Panel Meeting convened on emergency basis. Commission should promptly be intimated about the provisional revision.
+Commission may issue directions required to revise the Distribution Code accordingly as may be specified in those
+directions and the Distribution Licensee shall promptly comply with any such directions.
+(3)
+The Distribution Code Review Panel shall be composed of the following members, who shall be notified by the
+Commission.
+(a)
+Director (Technical/Operation) of Concerned Distribution Licensee(s);
+(b)
+Chief Engineer/General Manager level officer from other Distribution Licensee(s) in the State;
+(c)
+Chief Engineer/General Manager Level officer from STU;
+(d)
+One member not below the rank of Superintending Engineer/D.G.M. to be nominated by the SLDC;
+(e)
+One member not below the rank of Chief Engineer/G.M. representing State owned Generating Company;
+(f)
+One member not below the rank of Chief Engineer/G.M. representing other Generating Companies in the state;
+(g)
+One member not below the rank of Chief Project Officer representing State Renewable Energy Agency;
+(h)
+One member representing open access consumers;
+(i)
+One member representing Industrial Consumers;
+(j)
+One member representing Domestic/Commercial Consumers;
+(k)
+One member representing Agriculture Consumers;
+Page 6/43
+----- PAGE 7 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+(l)
+One member representing RE generators in the State;
+(m)
+One member of State Advisory Committee nominated by the Commission.
+2.4
+Terms of Office. - The Chairman of the Distribution Code Review Panel shall be Director (Technical/Operation) of
+Distribution Licensee. The Distribution Code Review Panel shall however be perpetual under the Distribution Code. All
+members of the Distribution Code Review Panel as mentioned at SI. No. (a) to (g) shall hold office until
+changed/replaced by the respective parent organisation. All members of the Distribution Code Review Panel as
+mentioned at SI. No. (h) to (/) shall hold office in rotation among all such organisations in the State. The term of each
+such member shall be two (2) years. However, the Commission shall have the powers to increase or decrease the
+aforementioned tenure.
+2.5
+DCRP Support Staff and Operating Cost. - The Member from Distribution Licensee holding the office of Chairman of
+DCRP at a given time shall provide secretarial staff including secretary not below the rank of S.E./D.GM. required to
+support DCRP operations. The cost associated with such secretarial assistance shall also be borne by that Distribution
+Licensee.
+2.6
+Functions of the Review Panel. - The functions of the Review Panel shall be:
+(1)
+Maintenance of the Distribution Code and its working under continuous scrutiny and review.
+(2)
+Consideration of requests for review made by any user and publication of their recommendations for changes in the
+Distribution Code together with reasons for such changes.
+(3)
+Provide guidance on interpretation and implementation of the Distribution Code.
+(4)
+Examination of the problems raised by any User as well as resolution of the problems.
+(5)
+Ensuring that the changes/modifications proposed in the Distribution Code are consistent and compatible with standard
+technical manual or guidelines, codes, laws, acts, rules and regulations in force at that point of time.
+(6)
+Constitution of a sub-committee for detailed study of various matters pertaining to the Distribution Code and circulation
+of the findings and recommendations to Review Panel Members and the entities concerned.
+(7)
+Making arrangements for deliberation of the issues (regarding sub committee findings and recommendations) in the
+Review Panel meetings the time frame, as provided by these sub-committees.
+(8)
+Holding of meetings as required but at least one meeting shall be held in every three months.
+(9)
+Holding of meetings by sub-committees including with any User or with groups of Users to prepare proposals for review
+panel consideration.
+2.7
+Review and Revisions. - (1) The Users seeking any amendment to the Distribution Code shall send written requests to
+the Secretary of DCRP of the Review Panel with a copy to the Commission. If the request is sent to the Commission
+directly, the same shall be forwarded to the Secretary of Review Panel who shall, in consultation with the concerned
+entities and such other persons as the Commission may direct, review the Distribution Code provisions. The Secretary
+of DCRP will circulate the proposed changes/modifications to all the panel members for their written comments within a
+reasonable time frame or the secretary may call for the Review Panel meeting in consultation with the chairman. Based
+on this interaction/ discussion, the necessary amendments/revisions may be incorporated in Distribution Code after the
+approval of Commission.
+Page 7/43
+----- PAGE 8 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+(2)
+The secretary DCRP shall send the following reports to the Commission at the conclusion of each review meeting of the
+panel:
+(a)
+Reports on the outcome of such review.
+(b)
+Any proposed revision to the Distribution Code and its rationale.
+(c)
+All written representations and objections submitted by the Users at the time of review.
+(3)
+All revisions to the Distribution Code require the approval of Commission. The secretary DCRP shall publicise revisions
+to the Distribution Code, after the approval of Commission. The Review Panel may also submit proposals for relaxation
+in such cases where Users/Distribution Licensees have difficulties in meeting the requirements of the Distribution Code.
+(4)
+Any change from the previous version shall be clearly marked in the margin. In addition, a revision sheet shall be placed
+at the front of the revised version, noting the number of every changed sub-section, together with reasons for such
+change.
+(5)
+The secretary DCRP shall maintain copies of the Distribution Code incorporating the latest amendments and shall make
+it available at a reasonable cost to any person requiring it.
+(6)
+The Commission, may. on the application of the Distribution Licensee or otherwise, call the emergency meeting of the
+review panel as and when the situation so dictates and make such alterations and amendments in the Distribution Code
+as it thinks fit.
+Chapter 3
+Distribution System Planning Code
+3.
+1. Introduction.
+(1)
+This chapter specifies the guidelines for planning methodology for the Distribution System and covers following-
+(a)
+Load Data
+(b)
+Load Forecast
+(c)
+Power System Studies and Network Expansion Plan
+(d)
+System Adequacy and Redundancy
+(e)
+Security Standards
+(f)
+Standardisation of sub-station layout
+(g)
+Standardisation of Nomenclatures and Identification Coding
+(h)
+Standardisation of design of Distribution Transformers
+(i)
+BIL and BSL
+(j)
+Reactive Compensation and Harmonics
+(k)
+Page 8/43
+----- PAGE 9 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Metering
+(l)
+Demand Side Management
+(m)
+Database Management
+(n)
+Energy Audit
+(2)
+The Distribution System shall be planned and developed in such a way that the system should be capable of catering
+the requirement of all categories of Consumers with a safe, reliable, economical and quality supply of electricity, and
+shall take into consideration the future growth requirements. However, the Consumer shall extend full support to the
+Distribution Licensee to enable the Distribution Licensee for quality supply of electricity. The Distribution System shall
+conform to the statutory requirements of all the relevant code, standards and acts in force.
+(3)
+While planning distribution system, Users and Distribution licensee shall fulfil the requirement stipulated in Regulations
+issued by CEA under sub-section (2) of Section 177 of the Act and amendments issued from time to time.
+3.2
+Objectives. - The main objectives of the Distribution System Planning Code are:
+(1)
+To enable the planning, design and construction of the Distribution System for a safe, reliable and economical operation
+conforming to Statutory Acts and Rules, which are in force.
+(2)
+Specify technical conditions to be followed by the respective Distribution Licensees and Users in meeting the standards
+for an efficient operation of the common electrical interface.
+(3)
+To prescribe the procedure for the exchange of the system planning data between the Distribution Licensee and the
+Users for facilitating synchronised planning of the Distribution System at Distribution Licensee and User levels.
+(4)
+To prescribe the procedure to Distribution Licensee to make Demand Side Management (DSM) an integral part of their
+day-to-day operations, and undertake planning, designing and implementation of appropriate DSM programmes on a
+sustainable basis.
+(5)
+These guidelines of planning cover the individual sub-stations, system planning, analysis and the techno economical
+aspects in the field of Distribution systems. It applies to all the consumers already connected or awaiting or seeking
+connection to the distribution system, Distribution Licensees and State Transmission Utility (STU), wherever it is
+applicable.
+(6)
+The items mentioned at Regulation 3.1 (1) are discussed in the following paragraphs of this chapter.
+3.3
+Load Data. - (1) From the metered data collected at each interface point with the transmission system, the Distribution
+Licensee shall develop load curves for the area fed and also the system load curve for the area of supply in point by
+applying a suitable diversity factor.
+(2)
+The Users with Demands of 1 MVA and above shall furnish their load data/ characteristic and other relevant details to
+the Distribution Licensee as detailed in Annexure 1. The Distribution Licensee shall exercise special care to monitor the
+actual development of loads in respect of Consumers desiring to avail loads of 1 MVA and above at a single point.
+(3)
+The Distribution Licensee on his part shall maintain relevant data for designing and selecting the electrical equipment,
+details of metering and relay for purpose of protection and System data in his Distribution System. The Distribution
+Licensee shall update the system data regularly and at least once a year.
+3.4
+Page 9/43
+----- PAGE 10 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Load Forecast. - (1) The Distribution Licensee shall formulate a rolling short-term demand forecast annually for a period
+of five years in his Area of Supply (to enable the STU in drawing down the annual planning process corresponding to a 5
+years forward annual plan for intra state transmission system).
+(2)
+Energy sales in each tariff class shall be projected in the forecast period after considering the previous financial year as
+base and projecting the demand for the succeeding 5 years by adopting suitable methodology, such as considering the
+trend for previous five years and considering the expected economic and social development of various sectors in his
+Area of Supply in succeeding five years.
+(3)
+During this process Distribution Licensee shall also review the status of loads materialising as per the previous load
+forecast. Further these forecasts shall be in line with the plan to be developed at national level by CEA. The Distribution
+Licensee shall incorporate the variation to the forecast, as and when required.
+(4)
+The peak load requirements at each Interface Point shall be estimated. However, if the Distribution Licensee receives
+power at a number of Interface Points in a compact area, which are interconnected in a ring, then the Distribution
+Licensee shall forward the overall short term Demand forecast at each Interface Point with the variation or tolerance as
+mutually discussed and agreed upon with the STU.
+(5)
+Apart from the short term demand forecast for each Interface Point for peak load requirement the Distribution Licensee
+shall also forward the aggregate energy and peak load demand for Area of Supply on annual basis to the STU,
+Transmission Licensee (TL) and Commission along with the following details on the basis of which the forecast is made
+- Data, Methodology and Assumptions.
+(6)
+The peak load requirement at each Interface Point will essentially ensure that the STU may determine the corrective
+measures to be taken to maintain the capacity adequacy in the Transmission System up to the Interface Point. This will
+facilitate the Transmission Licensee to develop the compatible Transmission System.
+(7)
+The Distribution Licensee shall create a database of loads for each consumer category and for each distribution
+sub-station and update it annually.
+3.5
+Power System Studies and Network Expansion Plan. - (1) Based on the projected load, the Distribution Licensee shall
+carry out the power system studies (load flow analysis) before undertaking major distribution expansion plan on
+long-term time scale. The distribution licensee shall share its findings of the power system studies with the State
+Transmission Utility on regular basis for better coordinated power system planning.
+(2)
+The Distribution Licensee shall employ the software tools for distribution network analysis for:
+(a)
+Optimum distribution transformer locations;
+(b)
+Optimum network of sub-transmission system, primary distribution, LT feeders and sub-station location;
+(c)
+Optimum ratio of the lengths of HT and LT distribution lines;
+(d)
+Optimum reactive compensation and Harmonic analysis.
+3.6
+System Adequacy and Redundancy. - (1) The Distribution Licensee while planning Distribution System shall take into
+consideration the adequacy and redundancy of system capacity and capability to allow for long term load growth based
+on perspective plan and maintaining supply to consumers in the event of forced or planned outage of lines and
+transformers. The system shall have built in redundancy so that consumers face no interruption in power supply through
+alternative circuit arrangements.
+(2)
+Page 10/43
+----- PAGE 11 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Sub-station design shall allow taking out any transformer for maintenance without affecting supply to any area even
+during peak hours. More than one transformer with smaller capacity to be employed rather than one transformer of large
+capacity to meet N-l planning criteria. Alternative circuits shall be planned for important loads. So far as possible,
+redundancy should be in the system to meet the emergencies and system adequacies shall be taken care of at planning
+stage of new sub-station(s).
+(3)
+There shall be at least two numbers of transformers of similar rating in every 33/11 kV Sub-Station.
+(4)
+In every Sub-Station of capacity 10 MVA and above there shall be a provision for obtaining alternate 33 kV supply to the
+Sub-Station in case of a failure in the incoming supply.
+3.7
+Security Standards. - The Distribution System shall be planned and maintained so as to fulfil the following security
+standards except under Force Majeure conditions beyond the reasonable control of the Distribution Licensee.
+(1)
+The feeders, either HT or LT, feeding important loads such as hospitals, crematoria, airports, railway stations, and the
+like shall be planned to have a selective switching system, so that selective switching can be operated to transfer the
+load on to an alternate healthy feeder. Appropriate safety precautions shall invariably be taken in this regard. In case of
+failure of the feeder, these switches shall be operated immediately either manually or automatically depending on the
+importance of the load.
+(2)
+The rupturing capacity of the switchgear employed in the system shall have at least 25% more capacity than the short
+circuit level computed even considering the anticipated future development of the system.
+(3)
+Efforts shall be made for every HT feeder, either primary or secondary, to manually switch over to the immediately
+available HT feeder of the same voltage class available in the vicinity. Provision shall be made in the design itself for all
+critical HT feeders to share at least 50% of the loads in the adjacent feeder during emergencies. The same shall be
+extended to all the HT feeders in a phased manner.
+(4)
+In case of single contingency; failure of any sub-station equipment controlling any outgoing 11 kV or 33 kV feeders, the
+load interrupted shall not generally exceed 20% of the total demand on the sub-station. It will not be applicable to the
+remote inaccessible and snowbound area.
+(5)
+In order to protect important assets of IT infrastructure, all licensees must adhere to IT Security and Audit Policies
+issued by the government from time to time. All licensees shall conduct Vulnerability Assessment Audit Exercise and
+implement Information Security Management System (ISMS) in line with the latest information security standards and
+must establish Disaster Recovery Plan.
+3.8
+Standardisation of Nomenclatures and Identification Coding. - The Distribution Licensee shall prepare equipment
+nomenclatures and identification equipments for uniquely identifying various equipments in distribution system. The
+nomenclatures scheme shall be consistent with the scheme provided in the UERC (State Grid Code) Regulations, 2016
+as amended from time to time for the intra State Transmission System.
+3.9
+Standardisation of sub-station layouts. - The Distribution Licensee shall develop standard layouts for the sub-stations of
+33/11 kV and 11/0.4 kV duly complying with the requirements as specified in the Central Electricity Authority (Technical
+Standards for Construction of Electrical Plants and Electric Lines) Regulations, 2010.
+(1)
+11 KV/433 V-3 Phase Distribution Transformer Centers:
+(a)
+The Distribution transformers up to 160 KVA capacity other than those meant for indoor application shall normally be
+pole mounted.
+(b)
+Page 11/43
+----- PAGE 12 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+The layout of distribution transformer centres shall generally conform to the relevant REC Construction Standards.
+(c)
+The distribution transformers shall be located close to the electrical load centre of the load fed by it.
+(d)
+The distribution transformers above 160 KVA capacity shall be plinth mounted.
+(e)
+Suitable measures shall be taken sufficiently in advance, to augment the capacity of the feeders and installation of
+additional transformer centres in the event the specified voltage regulation limits are exceeded.
+(2)
+All the 33 KV and 11 KV feeders and secondary side of Distribution Transformers shall be provided with electronic
+energy meters having a memory of 15/30 minutes load survey and billing parameters for 65 days with a provision of
+RS-232 Port to download data from the electronic energy meters:
+Provided that electronic energy meters on all the secondary sides of Distribution Transformers shall be provided in
+Urban areas within 1 year and in rural areas within 2 years from the date of notification of these regulations.
+3.10
+Standardisation of design of distribution transformers. - (1) The size/capacity of distribution transformers shall be as per
+the relevant Bureau of Indian Standards. While the selecting the transformer, due regard should be given to the star
+ratings issued by the BEE depending upon the filed conditions. As an initial step, the various technical parameters
+required for the design shall be incorporated in the specifications based on the experience gained regarding the
+performance among the various designs so far adopted. Later, standard designs of the transformers and their detailed
+construction drawings shall be evolved based on the performance of these transformers. These shall be adopted for
+future procurement. This also ensures the interchangeability of components of similar transformers manufactured by
+different manufacturers.
+(2)
+Quality Control and Quality Assurance. - A strict quality assurance and quality system management shall be enforced to
+facilitate the quality of equipment and materials. The Quality Management System to be followed shall be built around a
+philosophy of "prevention" rather "detection and cure". The various steps involved in the Quality System Management
+are:
+(a)
+Inclusion of quality requirement in the contract and selection of good quality vendors/sub-vendors.
+(b)
+Approval of unambiguous Manufacturing Quality Plan (MQP).
+(c)
+Finalisation of Field Quality Plan (FQP) ensuring regular, timely and consistent inspection at various stages, viz., raw
+material, during in-process stage and final inspection and testing prior to dispatch.
+(d)
+Analyse the equipment failures in association with Engineering and Operation services departments and use feedback
+for improvement of system.
+(e)
+Implementation of Quality Systems and Procedures as per ISO-9001 for system of vendor and sub-vendor approvals.
+(f)
+The list of approved sub-vendors are to be maintained for all the equipment, materials supply and erection works
+irrespective of the fact whether the Technical Qualifying Requirements are specified in the contract or not. The
+contractors can choose any sub-vendor from the list of a large number of sub-vendors, with a full transparency. The list
+is to be continuously revised based on the feedback obtained from the inspection reports, surveillance audits and failure
+reports, etc.
+(3)
+Manufacturing Quality Plan
+(a)
+A standard format is to be developed for the approval of Manufacturing Quality Plan (MQP) which includes the quality
+requirements at the raw material stage, in-process testing and final inspection and testing requirements as per technical
+Page 12/43
+----- PAGE 13 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+specifications of the contract and good engineering practices of the industry.
+(b)
+This document has to be self-sufficient and it should include sample size, acceptance norms, place of testing,
+requirements of test reports and hold point beyond which the work can progress only after clearance from the utility by
+standardising the various testing requirements and procedures. It is to be ennsured that it is not biased towards any
+particular manufacturer. These MQP(s) may be approved for a period of three years instead of approval on
+contract-to-contract basis.
+(c)
+A good Quality Assurance Plan (QAP) shall be aimed at the following:
+(i)
+Good quality of raw materials;
+(ii)
+Quality control during manufacturing and routine tests;
+(iii)
+Acceptance tests at the time of taking delivery;
+(iv)
+Inspection and tests on transformers received at stores on random sampling.
+3.11
+Basic Insulation Level (BIL) and Basic Switching Insulation Level (BSL). - (1) All the equipment in the sub-stations shall
+be designed to withstand the BIL/BSL values:
+Parameter
+33kV
+11kV
+0.415kV
+Nominal System Voltage (kV)
+33
+11
+0.42
+Highest System Voltage (kV)
+36
+12
+0.45
+System Earthing
+Solidly earthed system
+Solidly earthed system
+Solidly earthed system
+Lightning Impulse withstand Voltage (KV Peak)
+(BIL) 170 75 -
+Power Frequency withstand Voltage (KV rms) in
+dry condition (BSL)
+75
+28
+3
+Note. - The values of BIL/BSL given in the table above are for altitude up to 1000m above MSL. However, for altitudes
+higher than 1000 m above MSL, BIL/BSL requirements shall be kept higher as per relevant standards and practices.
+(2)
+The Basic Insulation Level (BIL)/Basic Switching Impulse Insulation Level (BSL) of the equipment to be installed in the
+distribution system shall be adequate to withstand the lightning/switching surges respectively. Lightning Arresters shall
+be provided for all the Transformers (33/11 kV and distribution Transformers 11/0.4 kV) and 33 kV and 11 kV lines. The
+lightning protection system to other equipment in the sub-station by shield wires or lightning masts shall be provided.
+(3)
+Page 13/43
+----- PAGE 14 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Besides the voltage levels mentioned above the Commission may specify other voltage levels to be a part of the
+Distribution System under extraordinary conditions.
+3.12
+Reactive compensation and Harmonics. - (1) Shunt capacitors un-switched/ switched type, shall be installed at the
+appropriate places in the Distribution System for minimising reactive power drawl from the grid, power factor
+improvement, maintaining satisfactory voltage profile and reduction of sub-transmission and Distribution losses. The size
+and location of the capacitor installations shall be determined using appropriate computer software, with reliable field
+data. Suitable precautionary measures, such as automatic switching, etc., shall be adopted to avoid over voltages during
+light load periods.
+(2)
+Optimisation studies of shunt compensation shall be conducted by the Distribution Licensee to determine the most
+appropriate sizes and locations for shunt capacitor installations.
+(3)
+The Harmonic measurements shall be carried out periodically by the Distribution Licensee and action taken to reduce
+the harmonics accordingly.
+(4)
+The total harmonic distortion for voltage and connection point shall not exceed 5% with no individual harmonic higher
+than 3%.
+(5)
+The total harmonic distortion for current drawn from the transmission system at the connection point shall not exceed
+8%.
+(6)
+The respective User responsible for generating harmonics adversely affecting the distribution system shall be
+responsible for appropriate correction.
+(7)
+The measurement of harmonics and analysis should generally be in accordance with IEEE 519 guidelines or the
+regulations specified by the CEA.
+3.13
+Metering. - (1) All interface meters, consumer meters and energy accounting and audit meters shall be installed and
+operated in conformance with the Central Electricity Authority (Installation and Operation of Meters) Regulations,
+2006/Metering Communication and Data Acquisition Requirements (MCDAR) for Intra-State Power System of
+Uttarakhand as amended from time to time.
+(2)
+The renewable energy generators connected to the distribution network are required to provide and maintain meters and
+communication system for ensuring transfer of data to SLDC in accordance with the CEA Regulations and directions
+issued by CEA/Commission from time to time.
+(3)
+The metering for 230 V single-phase supply shall be provided on a board or within a suitable box located in such a place
+protected from sun and rain and shall be in a convenient position for taking readings. The terminals of the meter shall be
+made tamper-proof and sealed. For 400 Volts three phase supply, the meters and associated metering equipment
+including connections shall be enclosed in a suitable tamper-proof box. The tamper-proof box shall be of sufficient
+strength and design with locking and sealing devices and shall have adequate provision for heat dissipation with the
+required electrical clearances. The design shall permit readings to be taken without access to its connections.
+(4)
+For HT Consumers the meters, maximum demand indicators shall be housed in a separate metering compartment and
+secondary apparatus such as instrument transformers and connections required shall be housed in a separate
+compartment, which shall be locked/sealed to prevent tampering.
+(5)
+The HT metering cubicle shall be suitable for cable entry on both sides or at leaston one side. No fuses are permitted in
+the secondary circuits of the instrument transformers. The metering cubicle shall be painted with suitable epoxy paint for
+installation in snowbound areas and other areas experiencing heavy rainfall. The instrument transformers shall be of
+Page 14/43
+----- PAGE 15 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+fixed ratio and shall not have any taps. The primary current rating of the current transformers shall match with the
+normal full load current and the saturation point of the core shall be higher than the maximum current that may occur
+due to simultaneous full load operation of all the connected equipment and machinery.
+(6)
+For HT and EHT Consumers, the secondary terminals of the instrument transformers shall be locked and sealed and the
+secondary wires brought out in a suitable GI conduit pipe up to the metering panel. There shall be no joints in the
+conduit pipes. The meters shall be as close to the instrument transformers as possible and in no case shall exceed ten
+(10) meters. The metering panel shall be housed in a weatherproof and tamperproof box and sealed in conformance
+with the Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006/Metering Communication
+and Data Acquisition Requirements (MCDAR) for Intra-State Power System of Uttarakhand as amended from time to
+time.
+(7)
+Provision for remote/automatic meter reading of LT, HT and EHT installations shall be provided as required by the
+system operator or wherever considered necessary by the Distribution Licensee.
+(8)
+Prepaid meters installed at the consumer premises should be capable of updating of prepaid softwares/logics and in no
+way should cause any hindrance in implementation of annual tariff revisions.
+3.14
+Demand Side Management (DSM). - (1) The DSM objectives, for advancement and implementation of cost effective
+DSM initiatives in the State are sought to be achieved through, but not limited, to the following-
+(a)
+To make DSM an integral part of the day to day operations of the Distribution Licensee with the objective of improving
+end use efficiency of electricity, environmental conservation and cost reduction.
+(b)
+To promote and implement Load Shifting, Power Shortage Mitigation, seasonal peak reduction, cost effective energy
+savings, lowering the cost of electricity, reduction in emissions of green house gases and pricing initiative i.e. Time of
+Use/ Seasonal, etc.
+(c)
+To complement supply side strategies in order to avoid, reduce or postpone investments in generation, transmission and
+distribution infrastructure.
+(d)
+To reduce transmission and distribution losses through implementation of end use energy efficiency programmes in
+areas reporting high AT&C losses.
+(e)
+To reduce the environmental damage by reducing the emission of green house gases.
+(f)
+To encourage consumers to revise their electricity consumption pattern both with respect to timing and level of electricity
+demand for efficient use of energy.
+(g)
+To promote the use, and create awareness about Solar Pumps, Solar Lights, LED lamps, etc.
+(2)
+DSM Plan and Programme preparation, submission and approval by the Commission:
+(a)
+Distribution Licensee shall formulate a perspective DSM Plan and submit the same to the Commission for in-principle
+approval for the specified period and as per the time lines that may be specified by the Commission from time to time;
+(b)
+The perspective DSM plan shall include:
+(i)
+A section outlining the goals sought to be achieved in the specified period.
+(ii)
+Annual DSM Plan for each year of the perspective plan period containing description of DSM programmes proposed to
+Page 15/43
+----- PAGE 16 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+be undertaken and its prioritisation along with programme wise details like-
+? indicative cost & its cost effectiveness pursuant to these Regulations and any guidelines issued by the Commission
+from time to time;
+? indicative baseline data and expected reduction in tariff and/or gain in energy efficiency;
+? consumer segments and estimated level of participation;
+? implementation strategy and schedule including process/mechanism for execution e.g. Energy Service Companies,
+Bidding for DSM Projects, DSM Resource Acquisition, etc.;
+? expected payback period and mechanism for recovery of cost and performance incentives.
+(iii)
+Mechanism for Monitoring, evaluation and reporting of perspective plan and annual plan/programmes;
+(iv)
+Programme/Plan for Training/Seminars/Workshops to increase consumer awareness.
+3.15
+Database Management. - (1) The availability of accurate and reliable data is essential for planning and development of
+the Distribution System on long-term basis. Data management system facilitates storage, retrieval and updating of data
+for complying with the requirements of the Distribution Code and for other purposes like power system studies.
+(2)
+The embedded generators connected with distribution system or seeking new connections shall furnish planning data in
+format specified at Annexure 2. The large consumers connected to or seeking connection to HT or F.11T and having
+connected load of 1 MVA or above shall furnish planning data in prescribed manner as at Annexure 1 for long term
+planning by Distribution Licensee. Distribution Licensee shall supply system data to the Users, embedded generators
+and large consumers, wherever required for their planning purpose as per format at Annexure 3.
+(3)
+A well maintained Data Management System would facilitate exchange of data between Users and Distribution Licensee
+required for long-term planning and distribution operation in an accurate and reliable manner. This will also help in
+Users, Large Consumers, open access customers and embedded generators to have access to data, which they may
+require for their planning purpose.
+(4)
+Consumer Indexing:
+(a)
+The last mile of a distribution network is the pole or support in overhead system or the service pillar/feeder pillar box in
+underground cable distribution system. Hence, the consumer indexing has to be done with respect to the last mile of the
+distribution network. The integration of consumer indexing/information with distribution transformer wise in a distribution
+network system is key to providing good consumer services.
+(b)
+The integration of consumer index with the distribution network will help the distribution licensee to operate the
+distribution network better in the manner to simulate the network to estimate the voltage profile across the network and
+identify low voltage pockets without actually visiting consumer installation and measuring voltages. This will also
+facilitate distribution licensee in conducting energy audit by estimating correctly the energy sales on the 11 kV
+Feeder/distribution transformer and account for energy supplied to the 11 kV Feeder/distribution transformer.
+3.16
+Energy Audit. - (1) The Distribution Licensee shall create responsibility centres for energy audit. Distribution sub-division
+in charge and division in charge shall be made as responsibility centres and countable for the energy input and sales in
+their respective areas. They shall also compute month/year wise distribution losses and prepare energy balance sheets
+of their respective areas.
+(2)
+The Distribution Licensee shall establish and maintain a system for segregation of technical and commercial losses
+through energy audits. Interface meters capable of data retaining capacity of at least 65 days shall be installed for all the
+incoming/outgoing feeders for each such unit.
+(3)
+The energy audit for total system shall be carried out by compiling the data and analysis carried out in each
+Page 16/43
+----- PAGE 17 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+responsibility centre. The energy received from each sub-station shall be measured at the 11 kV/33kV terminal
+switchgear of all the outgoing feeders installed with appropriate energy meters such that the energy supplied to the each
+feeder is accurately available. It shall be compared with the corresponding figures of monthly energy sales and the
+distribution loss for each feeder shall be worked out. In case the Distribution Licensee has adopted ring main system at
+11 kV and 33 kV and there is difficulty in determining the distribution losses for each feeder, then the Distribution
+Licensee shall work out distribution losses for the overall Area of Supply.
+(4)
+An action plan for reduction of the losses with adequate investments and suitable improvements in governance should
+be drawn up and shall be submitted to the Commission annually along with Annual Revenue Requirement Filing.
+Chapter 4
+Connectivity Conditions
+4.
+1. Introduction.
+- The Connectivity Conditions specify the minimum technical and design criteria, which shall be complied by any user
+connected to, or seeking connection to the Distribution System. The Distribution Licensee shall ensure compliance of
+the above criteria by any user as a pre-requisite for the establishment of an agreed connection. In addition to the above,
+the connectivity conditions should fulfil the requirement stipulated in Section 50, Section 53 and regulations issued under
+sub-section (2) of Section 177 of the Act.
+4.2
+Objectives. - (1) The objectives of the Connectivity Conditions are to specify that:
+(a)
+The basic rules for connections are complied by all user. This will help to treat all user in a non-discriminatory manner.
+(b)
+Any new or modified connection, when established, shall not suffer unacceptable effects due to its connection to the
+Distribution System nor produce unacceptable effects on the system or any other connected user.
+(c)
+The ownership and responsibility for all the equipments, in case of interface/ connections with all Users at HT and EHT,
+shall be clearly specified in a Site Responsibility Schedule as per Format specified in Annexure 4 for every site, where a
+connection is made.
+4.3
+Interface Point. - (1) Connection to Transmission System shall be governed by the UERC (State Grid Code)
+Regulations, 2016 as amended from time to time.
+(2)
+Connection of Generators and Captive generators including DG sets to Distribution Systems may be provided at bus
+bars of the generating station. All generating units shall inject the output into the bus bars via the synchronising breaker.
+The isolator between the synchronising breaker and the bus bars would be the boundary between the generator and the
+Distribution Licensee. The current transformers of the tariff metering shall be connected near the synchronising breaker.
+The voltage transformers (including the standby set) of the tariff metering shall be connected to the bus bars.
+(3)
+EHT/HT Consumers: The supply voltage may be 220kV/I32kV/66kV/33kV/11kV or voltage as agreed by the Distribution
+Licensee. The interface point for the HT/EHT consumer shall be the Distribution Licensee's cut off point/isolator in the
+consumer's switchyard at consumer's end. However, in case EHT/HT consumer is being fed from a dedicated feeder
+emanating from Transmission/Distribution Licensee's sub-station, the interface point shall be the line isolator at the said
+sub-station of the Transmission/Distribution Licensee as the case may be.
+(4)
+Low voltage consumers: The incoming terminal of the cut out/circuit breaker installed by the consumer is the boundary
+of low voltage Consumers. The tariff metering shall be provided before a fuse unit/circuit breaker of the Consumer. The
+metering equipment shall be provided at the entry point of Consumer Premises in a safe location, preferably at the entry
+of the boundary of the premises or in a common passage on ground floor or nearby safe location outside the premises
+for easy access for the purpose of meter reading, maintenance, repairs, inspection, etc. The metering equipment shall
+be provided inside a box sealed by the Distribution Licensee and the User/Consumer shall not disturb the seal of the
+Page 17/43
+----- PAGE 18 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+metering equipment and shall take reasonable care for upkeeping protecting the meter and equipment.
+4.4
+Operational Labelling. - (1) The Distribution Licensee and the Users shall be responsible for the provision and
+maintenance of clear, unambiguous signs and labels indicating the numbering and/or name of the equipment/apparatus
+and circuit at the sub-stations and connection sites.
+(2)
+The equipment installed shall conform its relevant I.S. specification and the ratings and salient specification shall be
+maintained on the equipment's nameplate. No electrical equipment shall be used without its manufacturers nameplate
+permanently affixed to it.
+4.5
+System Performance. - (1) The design and construction of all the equipments connected to the Distribution System shall
+satisfy the relevant Indian Standard Specifications to the maximum extent possible.
+(2)
+Installation of all electrical equipment shall comply with rules and code of practice in force.
+(3)
+For every new connection sought, the Distribution Licensee shall specify the Connection Point/Interface Point and the
+supply voltage, along with the metering and protection requirements as specified in the code.
+(4)
+The operation of the Distribution System shall be in accordance with the "Operation Code". The User shall however be
+subject to the distribution discipline prescribed by the SLDC/ ALDC.
+(5)
+The insulation co-ordination of the Users' equipment shall conform to the Regulation 3.1.1 of these regulations.
+4.6
+Procedure for Applications for connections to the System. - Any User seeking use of Distribution System is required to
+submit application for connection to the Distribution Licensee as per the procedures and formats laid down by the
+Commission in the relevant regulations for release of new LT/HT/EHT connections.
+4.7
+Connection Agreement. - A Connection Agreement between User and the Distribution Licensee shall be executed both
+for sale and/or purchase including Independent Power Producer (IPP). For LT consumers, an undertaking is required to
+be furnished as per UERC (Release of new LT Connections, Enhancement and reduction of Loads) Regulations, 2013
+as amended from time to time.
+Chapter 5
+Operation Code
+5.
+1. Introduction.
+- This chapter contains the procedures and practices to be followed for safe and efficient operation of the Distribution
+System by the Distribution Licensee and Users. While operating distribution system, Users and Distribution licensee
+shall fulfil the requirement as stipulated in regulations issued by CEA under sub-section (2) of Section 177 of the Act and
+amendments issued from time to time.
+The following aspects of operation are covered in this section:
+(1)
+Demand Estimation
+(2)
+Outage Planning
+(3)
+Contingency Planning
+(4)
+Demand Management and Load Shedding
+(5)
+Interface with Generating Plant including CPPs
+(6)
+Page 18/43
+----- PAGE 19 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Monitoring and Control of voltage, and power factor
+(7)
+Requirements with respect to Harmonics, Direct Current (DC) injection and Flicker
+(8)
+Safety Co-ordination
+(9)
+Communication
+(10)
+Maintenance and testing
+(11)
+Tools and spares
+(12)
+Training
+5.2
+Objective. - The objective of this chapter is to define the operating procedures and practices to be followed by the Users
+and Distribution Licensee for ensuring Distribution System safety, stability, efficiency and security.
+5.3
+Demand Estimation. - (1) The Distribution Licensee shall estimate its requirement (demand and energy) for 15 minutes
+blocks at Transmission - Distribution Interface points on day-ahead/week-ahead/month-ahead basis for his Area of
+Supply based on relevant load curves subject to modifications depending upon the communication received from any
+specific User or caused by any contingency. This may be given to SLDC as per its requirements.
+(2)
+For this purpose, the concerned major Users identified by the Distribution Licensee shall furnish the data pertaining to
+their demands to the Distribution Licensee.
+5.4
+Outage Planning. - (1) The Distribution Licensee shall furnish his proposed outage programs to the Transmission
+Licensee on a month ahead basis. The outage program shall contain identification of lines and equipment of the
+Distribution System proposed by Distribution Licensee.
+(2)
+The outage plan proposed by the Distribution Licensee shall come into effect only after the Transmission Licensee
+releases the finally agreed transmission outage plan.
+(3)
+However, at the time the line or equipment of the Distribution Licensee is taken out of service, the Distribution Licensee
+shall intimate the Transmission Licensee that the Transmission Licensee may also carry out its maintenance works
+pertaining to the line/ equipment under maintenance, if required, so that the maintenance works could be carried out
+under minimum shutdown period.
+(4)
+In case of lines and equipment of 66 kV and above the specific concurrence of SLDC shall be obtained in addition to the
+above.
+(5)
+The above procedure shall not apply under the following circumstances:
+(a)
+Emergency situations' to save plant and machinery;
+(b)
+Unforeseen emergency situations requiring isolation of lines or equipment to save human life;
+(c)
+Where disconnection is to be effected on any User installation due to breach of Agreement. In this case the SLDC shall
+be informed wherever the load to the extent of 1 MVA or more is affected.
+(6)
+Planned outages of Power System for the duration as specified in UERC (Standards of Performance) Regulations, 2007
+as amended from time to time for maintenance purposes shall be intimated to the public through media including
+Page 19/43
+----- PAGE 20 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+publishing in at least two largely circulated Newspapers In Uttarakhand (one in Hindi and one in English) of that area,
+two days in advance.
+5.5
+Contingency Planning and Crisis Management. - (1) A contingency situation may arise in the event of a total or partial
+blackout in the Transmission System. A contingency may also arise on a part of the Distribution System due to local
+breakdowns in the Distribution System itself. It may also arise due to a breakdown in the Apparatus of the Transmission
+Licensee at the point of interconnection.
+(2)
+Contingency and crises management procedure shall be documented unambiguously to achieve the restoration of the
+total system and associated demand, and re-synchronisation of parts of the total system, which have become out of
+synchronism with each other, at the shortest possible time.
+(3)
+Transmission System Failure:
+(a)
+In case of a total blackout at any point in the Area of Supply of Distribution Licensee, the Distribution Licensee shall
+follow the black start procedures framed by the Transmission Licensee.
+(b)
+The Distribution Licensee shall sectionalise the Distribution System into discrete blocks of demand. The Distribution
+Licensee shall advise and co-operate with the SLDC for the amount of MW load likely to be picked up on switching each
+demand block.
+(c)
+The Distribution Licensee shall prepare a schedule of essential and non-essential loads in order of priority at each
+connection to be picked up during the restoration process and shall furnish the same to SLDC.
+(d)
+The Distribution Licensee shall maintain direct communication links with the SLDC and shall ensure and maintain the
+load generation balance under the direction of the SLDC.
+(e)
+The Distribution Licensee shall furnish the names and designations of the person(s) with their contact details viz.
+telephone/mobile numbers and e-mail id and stations, authorised to deal with contingency operations, to the SLDC.
+(4)
+Failure of the Apparatus of the Transmission Licensee:
+(a)
+The Distribution Licensee shall immediately contact the authorised person at the sub-station of the Transmission
+Licensee, and assess the probable period of restoration and the probable restriction of load drawl from the affected
+sub-station.
+(b)
+The Distribution Licensee shall effect the demand management plan accordingly.
+(5)
+Distribution System Failure:
+(a)
+interruptions to power supply in any part of the Distribution System lasting for the period as specified in UERC
+(Standards of Performance) Regulations, 2007 as amended from time to time for Distribution Licensee due to
+breakdown in any part of the Distribution System may be termed as a Distribution System Failure.
+(b)
+The Distribution Licensee shall coordinate with SLDC for restoration process, which shall be as per UERC (State Grid
+Code) Regulations, 2016 as amended time to time.
+(c)
+The Distribution Licensee shall designate a Nodal officer to coordinate with SLDC for distribution system restoration.
+5.6
+Demand management and load shedding. - (1) Temporary Load Shedding may be resorted to, for maintaining the grid
+frequency as instructed by the SLDC. Temporary Load Shedding may also be necessitated due to loss of any circuit or
+Page 20/43
+----- PAGE 21 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+equipment or any other operational contingency. In case of automatic load shedding through Under Frequency Relays,
+the circuits and the amount of load to be interrupted with corresponding relay settings shall be co-ordinated with the
+SLDC and persons in charge of the sub-stations of the Distribution Licensee as necessary.
+(2)
+In the event of sustained shortages, Distribution Licensee shall submit a detailed program for planned load shedding
+indicating areas and timing of proposed load shedding for approval of the Commission. On receiving Commission's
+approval, Distribution Licensee shall publish the approved program in atleast two local newspapers. Distribution
+Licensee shall seek fresh approval from Commission for any deviation from approved load shedding program.
+(3)
+If the duration of unplanned load shedding to any part of the Distribution System exceeds 2 hours, the affected
+Consumers on independent circuits, emanating from primary sub-stations may be suitably intimated. The essential
+services such as public hospital, public water works, sewage works, etc., shall be intimated over the
+telephone/mobile/other electronic communication medium wherever possible.
+(4)
+Dedicated feeders for supply of power to agriculture consumers shall be constructed so as to ensure 8 to 10 hours
+supply on such feeders.
+(5)
+33 KV ring mains.shall be provided in towns.
+5.7
+Interface with Generating Units including Captive Power Plant (CPP). - (1) If the Distribution Licensee has an interface
+with any generating unit including CPP and an Agreement for this purpose exists, the Distribution Licensee and the
+concerned owner of the generating unit shall abide by the following provisions in addition to the provisions contained in
+this Code as applicable to all the Users:
+(a)
+The owner shall provide suitable protection at the interface to protect his system from any damage due to normal and
+abnormal conditions in the Distribution System.
+(b)
+If the generator is an induction generator, the owner shall take adequate precautions to limit the system disturbances,
+when the induction generator is synchronised in consent with the Distribution Licensee. Generating Company having
+induction generators shall install adequate capacitors to compensate the reactive power drawl. Also whenever the power
+factor is found very low during starting period and causes voltage dip in the Distribution Licensee's system the
+Distribution Licensee may advise the owner to install capacitors and the generating company shall comply. Failure to
+comply entails penalty and/or disconnection from the system as per provision of Act/Rules/Regulations.
+(2)
+The owner shall comply with the provisions of the UERC (State Grid Code) Regulations, 2016 as amended from time to
+time.
+5.8
+Monitoring and Control of Voltage and Power Factor. - (1) The Distribution Licensee shall monitor the voltage and power
+factors in the Distribution System at system input points at peak and off-peak hours and take reasonable measures for
+improvement of the same in coordination with the Users with demand of 1 MVA and above, and the Transmission
+Licensee.
+(2)
+The Distribution Licensee shall take power factor improvement measures at strategic points in the Distribution System
+by carrying out system studies and installing the required reactive power compensation equipment.
+(3)
+Users having loads with low Power Factor shall install capacitors of appropriate rating as per Annexure 5. The
+consumers using power for welding purposes shall install the equipment as specified by Distribution Licensee from time
+to time, to prevent frequent voltage fluctuations.
+(4)
+The Distribution Licensee and Users shall abide by the instructions issued by the SLDC from time to time on load
+management for maintaining the frequency of supply within the specified limits.
+Page 21/43
+----- PAGE 22 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+5.9
+Requirements with respect to Harmonics, Direct Current (DC) injection and Flicker. - (1) Voltage and current harmonics:
+In any installations the voltage and current Total Harmonic Distortion (THD) shall not exceed the limit as specified in the
+Central Electricity Authority (Technical Standards for connectivity to the Grid) Regulations, 2007, as amended from time
+to time, applicable to the Distribution Systems. The Consumer will take appropriate measures to restrict the THD to the
+stipulated limit.
+(2)
+The Generating station(s) shall not inject DC current greater than 0.5% of full load rated output at the interconnection
+point.
+(3)
+The Generating Stations shall not introduce Flickers beyond the limits specified in IEC61000
+(4)
+Measurement of Harmonic Contents, DC injection and Flicker shall be done at least once in a year in the presence of
+parties concerned.
+5.10
+Safety co-ordination. - (1) The Distribution Licensee and the Users (comprising Generating Companies, Transmission
+Licensee and Consumers having load above 1MVA or dedicated lines) and any other Distribution Licensee having
+common electrical interface with the Licensee shall designate suitable persons to be responsible for safety
+co-ordination. These persons shall be referred to as Safety and Control Persons. Their designations and telephone/
+mobile numbers shall be exchanged between all the concerned persons. Any change in the list shall be notified promptly
+to all the concerned.
+(2)
+The Distribution Licensee and Users shall prepare safety manuals incorporating all the safety precautions to be taken for
+each component of the Distribution System based on the Distribution System under Safety Code specified at Chapter 7
+of these Regulations. All the safety rules and precautions shall be observed when work is to be carried out on any line or
+apparatus, switchgear or circuits in any part of the Distribution System or in any part of the User System. The safety
+manuals thus prepared shall be issued to all the Safety and Control persons and such Users for compliance.
+(3)
+There shall be co-ordination between persons of the Distribution Licensee and the Users, between persons of two
+Distribution Licensees having electrical interfaces, for carrying out the work on any apparatus or lines, etc., belonging to
+either party at the point of interconnection.
+(4)
+The provisions of the UERC (State Grid Code) Regulations, 2016 as amended time to time, shall be followed at
+Connection Points/Interface Points in co-ordination with the Transmission Licensee.
+(5)
+The disconnecting device(s) at each electrical interface, which shall be capable of effectively disconnecting the system
+of the Distribution Licensee and the other Users, and the grounding devices of the respective systems at the control
+boundary shall be identified and marked by the Distribution Licensee and the respective Users. These shall be
+maintained in good condition at all times. To prevent inadvertent switching operations by unauthorised persons, such
+disconnecting devices shall be provided with interlocks.
+(6)
+Wherever any Consumer has installed an emergency power supply system, either an electronic system with storage
+batteries or with generators, the arrangement shall be such that the same cannot be operated without clearly isolating
+the system from the supply mains. The responsibility of making the required arrangement for isolation from supply mains
+shall be of the User and this shall be part of the electrical layout submitted to Electrical Inspector for his approval. A copy
+of the approved layout shall be provided to Distribution Licensee thereafter.
+The possibility of a feedback from these devices to the Distribution System from any of the conductors, including the
+neutral conductor shall be clearly ruled out:
+Provided that the grid synchronised generation shall be exempted from above provisions.
+(7)
+The appropriate Control Person at the electrical interface shall issue written permission to his counterpart for carrying
+Page 22/43
+----- PAGE 23 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+out the work on any apparatus, switchgear or lines beyond the electrical interface. Such permissions shall be termed as
+Permit to Work (PTW).The prescribed format for PTW is annexed as Anneuxure 7 of these regulations which shall be
+used by all concerned.
+(8)
+All maintenance work shall be duly authorised by the designated officer. The system of PTW shall be observed for
+carrying out any maintenance work. The line should not be energised back without return of PTW after completion of
+maintenance work.
+(9)
+The Distribution Licensee in consultation with the concerned User shall frame checklist of operations to be carried out
+and the procedures for safety coordination for each electrical interface, before issue and return of PTW. Such
+procedures and checklists shall be issued to all the concerned by the Distribution Licensee for implementation.
+5.11
+Operational Communication. - (1) Reliable communication such as telephones, mobiles and e-mails, etc., links shall be
+established for exchange of data, information and operating instructions between SLDC and the Distribution licensee,
+embedded generators, users and large consumers with a demand of more than 1 MVA.
+(2)
+The Distribution Licensee and the Users connected to its Distribution System shall designate officers and agree on
+communication channels for the exchange of information. Communication shall, as much as possible, be direct between
+the User and the operator of the Distribution System to which that User is connected.
+(3)
+List of telephone/mobile numbers, call signs and e-mail IDs shall be exchanged by the Distribution Licensee and
+concerned Users to enable control activities to be efficiently coordinated.
+5.12
+Mobile Breakdown Vans. - The Distribution Licensee shall provide Mobile Breakdown Vans in towns and cities for
+attending line and transformer faults and consumers' complaints without any delay. The Mobile Breakdown Vans will be
+equipped with all necessary Tools such as cable jointing kits and consumable at all times on duty. The Breakdown Vans
+shall be fitted with wireless phone, telescoping ladder. All spares necessary for maintenance work shall be provided in
+such breakdown van and inventory of spares shall be replenished from time to time.
+5.13
+Reserves and standbys. - (1) The Distribution Licensee shall maintain adequate reserves and standby emergency
+equipment for attending forced outage conditions of lines and transformers in each distribution division. These include oil
+filtration sets, cable jointing and maintenance kits, mobile cranes, chain pulley, lifter, etc.
+(2)
+The Distribution Licensee at all time must have adequate stock of spare transformers, isolators, circuit breakers, meters.
+Instrument Transformers, insulators, hardware, cable and cable boxes, etc., for undertaking emergency works in each
+distribution division.
+(3)
+The Distribution Licensee shall have maintenance and live wire maintenance Teams available at important locations
+which can be called and deployed on maintenance work of emergent nature.
+5.14
+Construction Practices. - (1) All electric supply lines and apparatus shall be of sufficient ratings for power, insulation and
+estimated fault current and of sufficient mechanical strength, for the duty which may be required to perform under the
+environmental conditions of installation, and shall be constructed, installed, protected, worked and maintained in such a
+manner as to ensure safety of human beings, animals and property.
+(2)
+The relevant code of practice of the Bureau of Indian Standards including National Electrical Code, if any may be
+followed. The material and apparatus used shall conform to the relevant specification of Bureau of Indian Standards
+where such specifications have been already laid.
+(3)
+The Distribution Licensee shall prepare and observe the Construction and Maintenance Manuals for various
+equipment/works like 33 kV Lines, 11 kV Lines, LT Lines, 33 kV substation and 11 kV sub-stations. The Construction
+Page 23/43
+----- PAGE 24 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+and Maintenance Manual shall be prepared taking into consideration the following:
+(a)
+Technical Standards for construction of electrical plants, electric lines and connectivity to the grid specified by the
+Central Electricity Authority (Technical Standards of Construction of Electrical Plants and Electric Lines) Regulations,
+2010 as amended from time to time;
+(b)
+Safety requirements for construction, operation and maintenance of electrical plants and electric lines specified by the
+Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010 as amended from time
+to time;
+(c)
+REC Construction Standards and Standard design layouts;
+(d)
+CBIP Publications on Code of Practices;
+(e)
+Code of Practices issued by Bureau of Indian Standards for various equipment and maintenance practices; and
+(f)
+Instruction Manuals for installation, operation and maintenance issued by standard equipments manufacturer
+concerned.
+(4)
+The standard tables for conductor size, fuse size, wire gauge, electrical clearance, ground wire size, insulation
+resistance and earth resistively, etc., shall be included in the Construction and Maintenance manual. Distribution
+Licensee shall ensure that its construction and maintenance staff strictly observe the norms given in the Manuals.
+5.15
+Preventive Maintenance Schedules. - (1) The Distribution Licensee shall prepare a Preventive Maintenance Schedule
+for various line and sub-station equipment installed in distribution system. The Preventive Maintenance Schedule shall
+include the following important equipment:
+(a)
+Power Transformers and Distribution Transformers installed outdoor/indoor;
+(b)
+11 kV and 33 kV Circuit Breakers and associated equipments;
+(c)
+11 kV and 33 kV Overhead lines including Gang Operated (GO) Switches and Drop Out Fuses;
+(d)
+11 kV and 33 kV Cable and Cable Boxes;
+(e)
+LT Lines and circuit breakers; and
+(f)
+Equipments related to Service Connection.
+(2)
+The Preventive Maintenance Schedule shall have sections covering the following;
+(a)
+Recommended Schedule for inspection;
+(b)
+Recommended Schedule for preventive maintenance ; and
+(c)
+Recommended Schedule for overhaul.
+(3)
+The inspection schedule and preventive maintenance schedule shall have daily, weekly, monthly quarterly and annual
+periodic activity to be carried out for various equipments.
+(4)
+In addition to the preventive maintenance, the Distribution Licensee shall also be required to conduct Technical Audit of
+Page 24/43
+----- PAGE 25 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+atleast one 33/11 kV Sis in each Electricity Distribution Circle (EDC) in a Financial Year. The Technical Audit shall be
+conducted through competent Independent Agency(ies) appointed by the Distribution Licensee from time to time for
+verifying proper functioning of the Distribution Protection System and adequacy check of various elements/assets
+installed at 33/11 kV Sis and its outgoing feeders upto the secondary side of Distribution Transformers (DTs) as per
+Schedule given below:
+of Activities for Technical Audit
+Description of Activities
+Financial yearwise schedule
+Responsibility
+Preparation of Terms of Reference (ToR) for
+conducting Annual Technical Audit and Publication of Notice
+Inviting Tender for conducting Technical Audit of the identified
+33/11 kV sub-stations under the Distribution Code Regulations
+By 30th day of April
+Distribution Licensee
+Selection of Technical Auditoi (s) and issuance
+of Work Order(s)
+By 30th day of June
+Distribution Licensee
+Submission of Report(s) including Action Points
+by the Technical Auditor(s) to Distribution Licensee.
+By 30th day of September
+Technical Auditor(s)
+Action Taken report(s) of Distribution Licensee
+on the recommendations made by the Technical Auditor(s) to be
+submitted before the Commission every year.
+By 31st day of March
+Distribution Licensee
+5.
+16.
+Maintenance Record. - (1) The Distribution Licensee shall maintain records of periodic inspections carried out in the
+standard formats prescribed in Preventive Maintenance Schedule. Records shall be maintained in respect of following
+amongst others in respective sub-station/sub-division/division office:
+(a)
+Power Transformers and Distribution Transformers installed indoor/outdoor
+(b)
+11 kV and 33 kV Circuit Breakers;
+(c)
+33 kV and 11 kV Lines
+(2)
+Regular testing of all the equipments such as transformers, switchgear, protective relays, etc., should be carried out as
+recommended by the manufacturer and the relevant code of practice issued by the Bureau of Indian Standards and
+CBIP. These shall be carried out at the prescribed intervals and the test results shall be recorded in the maintenance
+registers maintained at respective sub-stations. Wherever the test results indicate a decline in the insulation resistance
+and/or deterioration of the equipment, preventive maintenance shall be earned out to ensure serviceability, safety and
+efficiency.
+(3)
+The consumers shall maintain their apparatus and power lines at all times conforming to Central Electricity Authority
+(Measures relating to Safety and Electricity Supply), 2010 as amended from time to time and these shall be suitable for
+connection to distribution system in a safe and reliable manner.
+5.17
+Page 25/43
+----- PAGE 26 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Environmental Issues. - (1) The Distribution Licensee shall take due regards of environment regulatory guidelines in
+planning, design, construction and operation of distribution system. Environmental impact assessment shall be carried
+out for all major distribution projects like construction of sub-stations in green and reserved area. The required
+clearances and no-objection shall be obtained from State Pollution Control Boards wherever prescribed.
+(2)
+The Distribution Licensee shall ensure that the environmental concerns would be suitably addressed through
+appropriate advance action by way of comprehensive Environmental Impact Assessment and implementation of
+Environment Action Plan (EAP).
+5.18
+Energy Conservation. - (1) The Distribution Licensee in order to minimise the overall energy demand shall accord high
+priority to energy conservation and demand side management (DSM). The Distribution Licensee shall ensure
+compliance of the Energy Conservation Act, 2001 and adhere to the guidelines of Bureau of Energy Efficiency issued
+from time to time in this regards.
+(2)
+Distribution Licensee shall ensure that the periodic energy audits wherever have been made compulsory for power
+intensive industries, under the Energy Conservation Act, being complied by its consumers. Other industrial consumers
+may also be encouraged to adopt energy audits and energy conservation measures. Energy conservation measures viz.
+installation of roof top solar power plants based on net metering, rooftop solar water heater and solar lighting, etc., shall
+be adopted in all Government buildings for which saving potential has been estimated to be about 30% of the average
+energy consumption.
+(3)
+The Distribution Licensee in the agriculture sector shall promote the pump sets and the water delivery system
+engineered for high efficiency and preferably of appropriate star labelling. In the industrial sector, The Distribution
+Licensee shall take action for promoting energy efficient technologies as energy conservation measures. Motors and
+drive system are the major source of high consumption in Agricultural and Industrial Sector. The Distribution Licensee
+shall advise the consumers to use high efficiency motors in Agricultural and Industrial Sector. Distribution Licensee shall
+take effective steps such that energy efficient lighting technologies should also be adopted in industries, commercial and
+domestic establishments.
+(4)
+Distribution Licensee shall endeavour that the requirements for capacity additions is reduced to the extent possible by
+reducing the difference between electrical power demand during peak periods and off-peak periods through suitable
+load management techniques such as differential tariff structure for peak and off peak supply and metering
+arrangements (Time of Day metering) to achieve an efficient load management.
+5.19
+Tools and Spares. - (1) The Distribution Licensee shall ensure availability of proper tools and tackles, equipments viz.
+megger, tong-tester, earth tester, etc., at all work places for carrying out the maintenance. The tools and tackles shall be
+checked from time to time and their serviceability shall be ensured.
+(2)
+The Distribution Licensee shall maintain an inventory of spares required for maintenance and replacement purposes at
+suitable locations according to a clear policy to be laid down by the Distribution Licensee.
+5.20
+Human Resource Development and Training. - The Distribution Licensee shall impart necessary training to its
+officers/staff in distribution system operation and maintenance practices so as to implement the provisions of these
+Regulations. The Distribution Licensee shall make appropriate arrangements for imparting training to workmen and
+supervisory staff, incorporating up-to-date techniques and safety measures of distribution system design, construction
+and maintenance. The Distribution Licensee shall prepare an annual training calendar for its officers and staff and shall
+submit the same to the Commission latest by 15th May of every year.
+5.21
+Geographical Information System (GIS)/Global Positioning System (GPS) based information system. - (1) The
+Distribution Licensee shall, in stages, deploy GIS/GPS based Geographical Facilities Information System for planning
+operation and maintenance of distribution system. The GIS shall be utilised for mapping the all important elements of
+Page 26/43
+----- PAGE 27 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+distribution system which includes lines, transformers, sub-stations, generating stations, all unit locations and shall
+eventually covers all consumers. The GIS shall be linked to active Relational Database Management System (RDBMS)
+and GPS shall be utilised for time synchronisation.
+(2)
+The digital maps of distribution network shall be developed for each of the following preferably by conducting GPS
+survey which is easier, fast, accurate and economical:
+(a)
+33 kV network of complete distribution system indicating distance, type and size of conductor/size of Under Ground
+(UG) cable with single core or 3 core for lines and sub-station particulars with Single Line Diagram (SLD).
+(b)
+The feeder-wise 11 kV lines/cables indicating distance, type and size of conductor/ UG cable, location and capacity of
+distribution transformers.
+(c)
+The distribution transformer-wise LT line/cables with number of consumers and connected load of each of LT support/LT
+feeder pillar Box.
+Chapter 6
+Distribution Protection Requirement
+6.
+1. Introduction.
+- In order to safeguard Distribution System and prevent faults travelling into the Transmission System, it is essential that
+certain minimum standards for protection shall be specified for the Distribution Licensee and Users connected to
+Distribution System. Users and Distribution licensee shall fulfil the requirement stipulated in Regulations issued by CEA
+under sub-section (2) of Section 177 of the Act and amendments issued from time to time while deciding distribution
+protection system. This chapter describes these minimum standards.
+6.2
+Objective. - The objective of this chapter is to define the minimum protection requirements for any equipment connected
+to the distribution system, so that faulty distribution section can be isolated from rest of power system and thereby
+minimise disruption due to faults.
+6.3
+General Principles. - (1) No item of electrical equipment shall be allowed to remain connected to the distribution system
+unless it is covered by appropriate protection aimed at reliability, selectivity, speed and sensitivity of protective
+relays/devices. Distribution Licensee and users shall co-operate with transmission licensee to ensure correct and
+appropriate settings of protection to achieve effective, discriminatory removal of faulty equipment within the target
+clearance time specified in the UERC (State Grid Code) Regulations, 2016, as amended from time to time, (clearance
+time to be specified from the grid standards or elsewhere)
+(2)
+Protective relay settings shall not be altered or protection bypassed and/or disconnected without consultation with
+concerned distribution licensee. In case the protection has been bypassed and/or disconnected by mutual consent, the
+same should be rectified and protection restored to normal condition as quickly as possible. If no consensus is reached,
+all the electrical equipments shall be isolated forthwith.
+(3)
+Ground, Vertical and horizontal clearances of a building structure shall be as specified in relevant provisions of the CEA
+(Measures relating to safety and electric supply) Regulations, 2010 as amended from time to time.
+6.4
+Protection Manual. - Distribution Licensee shall prepare and enforce standard manual of protection indicating minimum
+protection requirement within the distribution system and connected Users' system. The Protection Manual shall cover
+protection of supply lines and Power and Distribution Transformers through which supply is provided to the consumers.
+The Protection Manual shall be prepared taking into consideration the UERC (State Grid Code) Regulations, 2016 as
+amended from time to time and shall contain relevant data on fault levels at various places, guidelines for setting
+standard relays for over current and earth faults, fuse rating selection criteria, etc. A copy of Protection Manual shall be
+furnished to Commission in compliance of this requirement after the same is prepared by the Distribution Licensee.
+Page 27/43
+----- PAGE 28 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+6.5
+Protection at inter-connection point of EHT GSS. - All 33 kV and 11 kV lines emanating from EHT GSS shall be provided
+with a minimum of over current and earth fault protection with or without directional features along with high set element
+as per the UERC (State Grid Code) Regulations,2016 as amended from time to time) requirement. Coordination with the
+originating EHT sub-station should be ensured to avoid major sub-station equipment/ EHT transmission lines from
+tripping on through faults due to delayed fault clearance in the distribution feeders. Protection on 33 kV and 11 kV
+transformers and lines (or their sectionalising points) of HT system of Distribution Licensee shall be coordinated with
+settings of protection provided on 33 kV and 11 kV feeders at EHT sub-stations.
+6.6
+33 kV and 11 kV line protection. - (1) The settings of protective relays for 33 kV and 11 kV lines from the feeding
+sub-stations shall be such that a fault in any section does not affect the upstream section between the generating
+unit/feeding sub-station and the faulty section under all conditions. 33 kV radial lines shall have two over current and one
+earth fault non-directional IDMT relay protection at feeding station. The relays shall also have instantaneous over current
+element. Where 33kV line is an interconnection between two sub-stations or a generator unit and the sub-station, these
+relays shall have directional feature.
+(2)
+All 33 kV and 11 kV lines at connection points shall be provided with a minimum of over current and earth fault relays as
+follows:
+1
+Radial feeders
+Non-directional time lag over current and earth
+fault relays with suitable settings to obtain discrimination
+between adjacent relays settings.
+2
+Parallel/ring feeders and interconnected feeders
+Directional time lag over current and earth
+fault relays.
+3
+Long feeders/transformer feeders
+These feeders shall incorporate a high set
+instantaneous element.
+6.7
+Transformer Protection. - (1) The transformers shall be suitable for outdoor installation with three phase, 50 Hz, 11 kV or
+33 kV system in which the neutral is effectively earthed and they should be suitable for service with fluctuations in supply
+voltage upto plus 12.5%to minus 12.5%.
+(2)
+The transformers shall conform to the following specific parameters:
+SI. No.
+Item
+11 kV Distribution Transformers
+33 kV Distribution Transformers
+1
+System voltage (max.)
+12kV
+36kV
+2
+Rated voltage HV
+11kV
+33kV
+3
+Rated voltage LV
+Page 28/43
+----- PAGE 29 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+433-250 V*
+433-250 V*
+4
+Frequency
+50 Hz +/- 5%*
+50 Hz +/- 5%
+5
+No. of Phases
+Three/Single
+Three/Single
+6
+Connection HV
+Delta
+Delta
+7
+Connection LV
+Star (Neutral brought out)
+Star (Neutral brought out)
+8
+Vector group
+Dyn-11
+Dyn-11
+9
+Type of cooling
+ONAN/Dry
+ONAN/ONAF/Dry
+(3)
+The Minimum protection requirements of transformers installed in distribution system shall be as under:
+SI. No.
+Type
+Primary side Protection
+Secondary side Protection
+1
+Below 1000kVA
+Link switch with fuse or circuit breaker of such
+capacity as to carry the full load current and to break only the
+magnetising current of transformer
+In case of consumer,
+circuit breaker of adequate rating shall be installed.
+In case of generating company or licensee, link
+switch with fuse or circuit breaker of adequate capacity shall be
+installed. Buchholz, winding and oil temperature alarm protection
+2
+1000 kVA and above
+Circuit breaker of adequate capacity shall be
+provided
+Circuit breaker of adequate rating shall be
+provided. Buchholz, winding and oil temperature alarm, and
+tripping protection.
+6.8
+Protection Coordination. - (1) The Distribution licensee shall decide the relay settings with the data collected from the
+Page 29/43
+----- PAGE 30 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Transmission licensee and the Users on Fault Levels at various EHT sub-stations. Representatives of the generating
+companies, transmission licensees and distribution licensees shall meet periodically to discuss such malfunctions,
+changes in the system configuration, if any, and possible revised settings of relays. The Transmission licensee shall
+notify the initial settings and any subsequent changes to the Distribution Licensee and Users from time to time. Routine
+checks on the performance of protective relays shall be conducted and any malfunction shall be noted and corrected as
+soon as possible.
+(2)
+Transmission Licensee shall be responsible for arranging periodical meetings between the generating companies,
+transmission licensee and the distribution licensees to discuss coordination of protection as per the UERC (State Grid
+Code) Regulations, 2016 (as amended from time to time) requirement. The transmission licensee shall investigate any
+malfunction of protection or other unsatisfactory protection issues. The distribution licensees shall take prompt action to
+correct any protection malfunction or activity in distribution system as discussed and agreed to in these periodical
+meetings.
+6.9
+Clearance front buildings of lines of voltage and service lines not exceeding 650 Volts. - (1) An overhead line shall not
+cross over an existing building as far as possible and no building shall be constructed under an existing overhead line.
+(2)
+Where an overhead line of voltage not exceeding 650 V passes above or adjacent to or terminates on any building, the
+following minimum clearances from any accessible point, on the basis of maximum sag, shall be observed, namely-
+(a)
+for any flat roof, open balcony, veranda roof and lean-to-roof-
+(i)
+when the line passes above the building a vertical clearance of 2.5 metres from the highest point, and
+(ii)
+When the line passes adjacent to the building a horizontal clearance of 1.2 metres from the nearest point, and
+(b)
+for pitched roof-
+(i)
+when the line passes above the building a vertical clearance of 2.5 metres immediately under the line, and
+(ii)
+when the line passes adjacent to the building a horizontal clearance of 1.2 metres.
+(3)
+Any conductor so situated as to have a clearance less than that specified above shall be adequately insulated and shall
+be attached at suitable intervals to a bare earthed bearer wire having a breaking strength of not less than 350 kg.
+(4)
+The horizontal clearance shall be measured when the line is at a maximum deflection from the vertical due to wind
+pressure.
+6.10
+Clearances from buildings of lines of voltage exceeding 650 V. - (1) An overhead line shall not cross over an existing
+building as far as possible and no building shall be constructed under an existing overhead line.
+(2)
+Where an overhead line of voltage, exceeding 650 V passes above or adjacent to any building or part of a building it
+shall have on the basis of maximum sag a vertical clearance above the highest part of the building immediately under
+such line, of not less than-
+(i)
+for lines of voltages exceeding 650 Volts up to
+and including 33,000 Volts
+3.7 metres
+(ii)
+for lines of voltages exceeding 33 kV
+3.7 metres plus 0.30 metre for every additional
+Page 30/43
+----- PAGE 31 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+33,000 Volts or part thereof.
+(3)
+The horizontal clearance between the nearest conductor and any part of such building shall, on the basis of maximum
+deflection due to wind pressure, be not less than-
+(i)
+for lines of voltages exceeding 650 V up to and
+including 11,000 Volts
+1.2 metres
+(ii)
+for lines of voltages exceeding 11,000 V and up
+to and including 33,000 V
+2.0 metres
+(iii)
+for lines of voltages exceeding 33 kV
+2.0 metres plus 0.3 metre for every additional
+33 kV or part thereof
+Explanation. - For the purpose of Regulations 6.9 and 6.10 the expression "building" shall be deemed to include any
+structure, whether permanent or temporary.
+Chapter 7
+Cross Boundary Safety Code
+7.
+1. Introduction.
+- This chapter specifies the requirements for safe working practices for maintenance of equipment associated with cross
+boundary operations and lays down the procedure to be followed when the work is carried out on electrical equipment
+connected to another User's System.
+Users and Distribution licensee shall also fulfil to the requirements stipulated in Regulations issued by CEA under
+provisions of clause (b) of sub-section (2) of Section 177 of the Act and amendments issued from time to time while
+deciding the safety of the distribution system.
+7.2
+Objective. - The objective of this section is to achieve an agreement on the principles of safety when working across a
+control boundary between the Distribution Licensee and the Users.
+7.3
+Control Persons and their Responsibility. - (1) The Distribution Licensee and all the Users (comprising Generating
+Companies. Transmission Licensees and consumers having load above 1 MVA or dedicated line) shall nominate
+suitably authorised and technically qualified persons to be responsible for the co-ordination of safety across their
+boundary in accordance with the CEA (Measures relating to safety and electric supply) Regulations, 2010 as amended
+from time. These persons shall be referred to as "Control Persons".
+(2)
+The Distribution Licensee shall issue a list of control persons with their names, designations, addresses and telephone
+numbers, to all the users having direct control boundary with him. This list shall be updated promptly whenever there is
+any change of name, designation or telephone/mobile number, e-mail ID of any Control Person named in the list.
+(3)
+All the Users having a direct control boundary with the Distribution Licensee shall issue a similar list of their Control
+Persons to the Distribution Licensee. This list shall be updated promptly whenever there is any change of name,
+designation or telephone/mobile number, e-mail ID of any Control Person named in the list.
+(4)
+Whenever any work across a cross boundary is to be carried out by the User or the Distribution Licensee, the Control
+Person of the User or the Distribution Licensee as the case may be, who has to carryout the work, shall directly contact
+his counterpart. Code words shall be agreed to at the time of work to ensure correct identification of both the parties.
+Contact between Control Persons shall normally be made by direct telephone.
+(5)
+Page 31/43
+----- PAGE 32 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+If the work extends beyond one shift, the Control Person shall hand over charge to the relief Control Person and fully
+brief him on the nature of work and the code words in the operation.
+(6)
+The Control Persons shall co-operate to establish and maintain the precautions necessary to be taken for carrying out
+the required work in a safe manner. Both the established isolation and the established earth shall be kept in the locked
+positions wherever such facilities exist, and these shall be clearly identified.
+(7)
+The Control Person in charge of the work shall satisfy himself that all the safety precautions to be taken are established
+before commencing the work. He should issue the safety documentation to the working party to allow the work to
+commence.
+(8)
+After the completion of the work, the Control Person in charge of the work being carried out should satisfy himself that
+the safety precautions taken are no longer required, and shall make a direct contact with his counterpart Control Person
+and request removal of the safety precautions. The equipment shall be declared as suitable for return to service only
+after confirmation of removal of all the safety precautions, by direct communication, using the code word contact
+between the two Control Persons, and the return of agreed safety documentation from the working party.
+(9)
+The Distribution Licensee shall develop an agreed written procedure for Cross Boundary Safety and continuously
+update the same.
+(10)
+Any dispute concerning Cross Boundary Safety shall be resolved at the level of STU, if STU is not a party. In case
+where STU is a party, the dispute shall be referred to the Commission for resolution of the dispute.
+7.4
+Special Considerations. - (1) All the equipment on Cross Boundary Circuits, which may be used for the purpose of safety
+co-ordination and establishment of isolation and earthing, shall be permanently and clearly marked with an identification
+number or name being unique to the particular sub-station. These equipments shall be regularly inspected and
+maintained in accordance with the manufacturer's specifications.
+(2)
+Each Control Person shall maintain a legibly written safety log, in chronological order, of all operations and messages
+relating to the safety co-ordination sent and received by him. All these safety logs shall be retained for a period of not
+less than five years.
+(3)
+As far as possible each of the Distribution Licensee shall maintain an updated map of his system pertaining to the area
+fed by each sub-station. Otherwise the schematic diagram of the system for 11 kV and above shall be maintained and
+exhibited in the concerned area offices/ feeding sub-stations of the Distribution Licensee.
+Chapter 8
+Incident/Accident Reporting
+8.
+1. Introduction.
+- This chapter covers procedure of major incident/accident reporting (which occur in Distribution System) by Users to
+Distribution Licensee and Licensee to Chief Electrical Inspector.
+8.2
+Major Incident or Accident Reporting. - (1) The Users shall furnish information to the Distribution Licensee regarding any
+major incident occurring In their system promptly. The Distribution Licensee and the Users shall establish a format and
+procedure for exchange of information.
+(2)
+Reporting of accidents shall be in accordance with Intimation of Accidents (Form and Time service of Notice) Rules,
+2004, read with Section 161 of The Electricity Act, 2003. If an accident occurs in the distribution system resulting in or
+likely to have resulted in loss or injury to human or animal life, the Distribution Licensee shall send a telephonic report to
+the Electrical Inspector within 24 hours of the knowledge of such occurrence. This shall be followed by a report in writing
+in the form given in Annexure 6 (as per Form A of Intimation of Accidents (Form and Time service of Notice) Rules,
+Page 32/43
+----- PAGE 33 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+2004), within 48 hours of the knowledge of occurrence of fatal and other accidents.
+8.3
+Reporting Procedure. - (1) All reportable incidents occurring in the lines and substations in distribution system shall be
+promptly reported orally by the Licensee whose equipment has experienced the incident, to all other significantly
+affected Users identified by the Distribution Licensee and the Transmission Licensee. The reporting Distribution
+Licensee should submit a written report to the Transmission Licensee, in a prescribed format mutually agreed by the
+Distribution and Transmission Licensee, within one hour of such oral report. If the reporting incident is of major nature,
+the written report shall be submitted within six hours duly followed by a comprehensive report within 7 days of the
+submission of the initial written report. In other cases, the reporting Distribution Licensee shall submit a report within
+fifteen working days to the Transmission Licensee.
+(2)
+The Transmission Licensee shall call for a report from any Distribution Licensee on any reportable incident affecting
+other Users and particularly in case such User whose equipment might have been a source of the reportable incident
+does not report the same. However, this shall not relieve any User from the obligation to report Events in accordance
+with Rules framed under relevant provision of The Electricity Act, 2003. The format for such a report shall be as per the
+approval of the Distribution Code Review Panel and shall typically contain the following:
+(a)
+Location of the incident,
+(b)
+Date and time of the incident,
+(c)
+Plant or Equipment involved,
+(d)
+Supplies interrupted and the duration wherever applicable,
+(e)
+Amount of Generation loss, wherever applicable,
+(f)
+System Parameters before and after the incident, (Voltage, Frequency, Load, Generation, etc.)
+(g)
+Network configuration before the incident,
+(h)
+Relay indications and performance of protection,
+(i)
+Brief description of the incident,
+(j)
+Estimated time of return to service,
+(k)
+Any other relevant information,
+(l)
+Recommendations for future improvement,
+(m)
+Name and designation of the reporting person.
+(3)
+The report shall contain sufficient detail to describe the event to enable the recipient to assess the implications and risks
+arising out of the same. The recipient may ask for clarifications and additional information wherever necessary and it is
+obligatory that the reporting User shall put his best efforts and provide all the necessary and reasonable information.
+(4)
+In case of a request by either party, the oral report shall be written down by the sender and dictated by way of a
+telephone/mobile message or sent by Fax/e-mail to the recipient. In case of an emergency the report can be given only
+orally and followed by written confirmation.
+Annexure 1
+Page 33/43
+----- PAGE 34 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Load Data for demands of 1 MVA and above to be furnished by the User/Consumer Name and Address of
+User/Consumer:
+SI. No.
+Description
+Details
+1
+Type of Load
+(State whether- steel melting furnace loads, Rolling
+mills, traction loads, other industrial loads, pumping loads,
+etc.)
+2
+Maximum Demand (kVA) and Annual Energy
+Requirement in kWh
+08/03/01
+3
+Year/Years by which full/part Supply is required
+08/03/02
+4
+Location of Load
+(Furnish location map to scale, indicate details of Consumer
+category/capacity, nearest Railway Station, and nearest EHT
+sub-station)
+5
+Rated Voltage at which supply is required.
+Whether Single phase or Three-phase supply required
+08/03/03
+6
+Type of supply
+Normal/Alternate/Dedicated (specify details)
+7
+Description of Equipment
+08/03/04
+A
+Motors State purpose and number of
+installations, voltage and kW rating, starting current, type of
+motors, types of drives and control arrangements
+08/03/05
+B
+Heating Type and kW Rating
+08/03/06
+C
+Furnace Type, Furnace Transformer Capacity and
+Voltage Ratio
+08/03/07
+D
+Electrolysis Purpose, kVA capacity
+08/03/08
+E
+Lighting kW Demand
+08/03/09
+8
+Page 34/43
+----- PAGE 35 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Sensitivity of demand to fluctuations in voltage
+and frequency of supply at the time of Peak Demand (Give details)
+08/03/10
+9
+Voltage sensitivity
+MW/kV MVAr/Kv
+10
+Frequency sensitivity
+MW/Hz MVAr/Hz
+11
+Phase unbalance
+imposed on system Maximum (%)
+Average (%)
+08/03/11
+12
+Maximum harmonic component imposed (Furnish
+details of devices included with the system for the suppression
+of harmonics, also furnish the harmonic currents of different
+orders drawn by each device without filters)
+08/03/12
+13
+Details of any loads, which may cause Demand
+fluctuations of greater than 10 MW at the point of connection,
+including Voltage Dips (percentage) lasting for 5 seconds and
+more. (Give details)
+08/03/13
+Annexure 2
+Embedded Generator Unit-Wise Data
+Name and Address of Generating Company:
+Location of Generating Plants(s):
+Terminal Volts (kV);
+Rated kVA;
+Maximum and minimum Active Power sent out (kW)
+Reactive Power requirements (kVAr), if any;
+Type of Generating Plant - synchronous,
+asynchronous, etc.;
+Fault Level contribution
+Method of voltage control;
+Generator transformer details, if applicable;
+Requirements for Top-up supplies and/or standby
+supplies;
+Generator kW/kVAr capability chart (at lower
+voltage terminals);
+Type of excitation system;
+Inertia constant kW secs/kVA;
+Stator Resistance;
+Direct-Axis Reactance (Sub-transient, Transient
+and Synchronous);
+Quadrature-Axis Reactance (Sub-transient and
+Synchronous);
+Zero Sequence (Resistance and Reactance);
+Page 35/43
+----- PAGE 36 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Negative Sequence (Resistance and Reactance);
+Generator Transformer (Resistance, Reactance,
+kVA Rating, Tap Arrangement, Vector Group, Grounding, Connection
+and % Impedance);
+Automatic Voltage Regulator block diagram,
+including the data on the gains (forward and feedback), time
+constants, and voltage control limits;
+Speed Governor block diagram detailing the
+governor fly-ball, if applicable, and control system and Prime
+Mover time constants, together with the turbine rating and
+maximum power
+Standby Requirements:
+Rated Capacity and Minimum Generation of each
+Generating Unit and Power Station in k\V for standby capacity
+requirements.
+Generating Unit and Power Station auxiliary
+Demand (Active Power and Reactive Power) in kW and kVAr, at rated
+capacity conditions. For Customers Self-Generating Plant, this
+shall include Top-up requirements.
+Interface Arrangements-the means of
+synchronisation between the Distributors and User;
+Details of arrangements for connecting to ground
+that part of the Generator's System directly connected to the
+Distribution System;
+The means of connection and Disconnection which
+are to be employed
+Precautions to be taken to ensure the
+continuance of safe conditions should any grounded neutral point
+of the Generator's System become disconnected from ground.
+Precautions to be taken to ensure the
+continuance of safe conditions should any grounded neutral point
+of the Generator's System become disconnected from ground.
+Annexure 3
+System Data to be provided to the intending User/Consumer with contract demand of 1 MVA or more (wherever
+applicable)
+1. 33 KV and above Distribution Line Data relevant to the location where connection has been applied/ feasible to
+provide.
+2. Details of metering system and protection system proposed.
+3. Fault levels at which the consumer should design his equipment.
+4. Fault clearance time for consumer's switch gear and
+5. Sub-station fault level.
+Annexure 4
+Site Responsibility Schedule
+Name of Sub-station/Location Site Owner
+Name of co-ordination officer of site Telephone No.
+Fax No.:
+Item of Plant/ Apparatus
+Plant owner
+Safety Responsibility
+Control Responsibility
+Operation Responsibility
+Page 36/43
+----- PAGE 37 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Maintenance Responsibility
+Remarks
+............kV Switchyard
+All equipment including bus-bars
+Feeders
+Generating Units
+Other (to be specified)
+Signatures
+Plant Owner
+Safety Responsibility Officer
+Control Responsibility Officer
+Operation Responsibility Officer
+Maintenance Responsibility Officer
+Annexure 5
+List of Power Factor Apparatus
+For Motors
+SI. No.
+Rating of Individual Motor
+KVAR Rating of Capacitor
+750 RPM
+1000 RPM
+1500 RPM
+3000 RPM
+1
+Upto 3 HP
+1
+1
+1
+1
+2
+5 HP
+2
+2
+2
+2
+3
+7.5 HP
+3
+3
+3
+3
+3
+10 HP
+3
+3
+3
+3
+5
+15 HP
+6
+5
+Page 37/43
+----- PAGE 38 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+5
+4
+6
+20 HP 8
+7
+6
+5
+7
+25 HP
+9
+8
+7
+6
+8
+30 HP
+9
+9
+8
+7
+9
+40 HP
+13
+11
+10
+9
+10
+50 HP
+15
+15
+12
+10
+11
+60 HP
+20
+20
+16
+14
+12
+75 HP
+23
+23
+19
+16
+13
+100 HP
+30
+30
+23
+20
+14
+125 HP
+Page 38/43
+----- PAGE 39 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+39
+38
+31
+26
+15
+150 HP
+45
+45
+36
+30
+16
+200 HP
+60
+60
+48
+40
+For Welding Transformers
+SI. No.
+Name Plate Rating in KVA of individual welding
+transformer
+Capacity of the capacitors (KVAR)
+1
+1
+1
+2
+2
+2
+3
+3
+3
+3
+3
+3
+5
+5
+4
+6
+6
+5
+7
+7
+6
+8
+8
+6
+9
+9
+7
+10
+10
+8
+Page 39/43
+----- PAGE 40 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+11
+11
+9
+12
+12
+9
+13
+13
+10
+13
+13
+11
+15
+15
+12
+16
+16
+12
+17
+17
+13
+18
+18
+14
+19
+19
+15
+20
+20
+15
+21
+21
+16
+22
+22
+17
+23
+23
+18
+23
+23
+19
+25
+25
+19
+26
+26
+20
+27
+27
+21
+Page 40/43
+----- PAGE 41 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+28
+28
+22
+29
+29
+22
+30
+30
+23
+31
+31
+24
+32
+32
+25
+33
+33
+25
+33
+33
+26
+35
+35
+27
+Annexure 6
+The Intimation of Accidents (Form and Time of service of Notice) Rules, 2004
+Form A
+Form for reporting electrical accidents
+1. Date and time of accident.
+2. Place of accident.
+(Village/Town, Tehsil/Thana, District and State).
+3. System and voltage of supply (Whether Extra High Voltage (EHV)/High Voltage (HV)/Low Voltage (LV) Line,
+sub-station/generation station/consumer's installations/service lines/other installations).
+4. Designation of the officer-in-charge of the generating company/licensee in whose jurisdiction the accident occurred.
+5. Name of owner/user of energy in whose premises the accident occurred.
+6. Details of victim(s):
+(a)
+Human
+SI. No.
+Name
+Father's Name
+Sex of Victim
+Full Postal address
+Approximate age
+Fatal/Non-fatal
+1
+2
+(b)
+Animal
+SI. No.
+Description of Animal(s)
+Page 41/43
+----- PAGE 42 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Number(s)
+Name(s) of Owner(s)
+Address(es) of owner(s)
+Fatal/Non-fatal
+1
+2
+7. In case the victim(s) is/are employee(s) of supplier-
+(a)
+brief description of the job undertaken, if any;
+(b)
+whether such person/persons was/were allowed to work on the job.
+8. In case the victim(s) is/are employee(s) of a licensed contractor,-
+(a)
+did the victim(s) possess any electric workmen's permit(s), supervisor's certificate of competency?
+If yes, give number and date of issue and the name of issuing authority;
+(b)
+name and designation of the person, who assigned the duties of the victim(s).
+9. In case of accident in the system of the generating company/licensee, was the permit to work (PTW) taken
+10. (a) Describe fully the nature and extent of injuries, e.g., fatal/disablement (permanent or temporary) of any portion of
+the body or burns or other injuries.
+(b)
+In case of fatal accident, was the post mortem performed?
+11. Detailed causes leading to the accident.
+(To be given in a separate sheet annexed to this form).
+12. Action taken regarding first aid, medical attendance, etc., immediately after the occurrence of the accident (give
+details).
+13.
+Whether the District Magistrate and Police Station concerned have been informed of the accident (if so, give details).
+14.
+Steps taken to preserve the evidence in connection with the accident to extent possible.
+15.
+Name and designation(s) of the person(s) assisting, supervising the person(s) killed or injured.
+16. What safety equipments were given to or used by the person(s) who met with this accident (e.g. rubber gloves,
+rubber mats, safety bells and ladders, etc,)?
+17.
+Whether isolating switches and other sectionalising devices were employed to deaden the sections for working on the
+same? Whether working section was earthed at the site of work?
+18.
+Whether the work on the live lines was undertaken by authorised person(s)? If so, the name and the designation of such
+person(s) may be given.
+19.
+Whether artificial resuscitation treatment was given to the person(s) who met with the electric accident? If yes, how long
+was it continued before its abandonment?
+20.
+Names and designations of persons present at, and witnessed, the accident.
+21.
+Any other information/remarks.
+Signature
+Place:Time:Date:
+NameDesignationAddress of the person reporting
+Annexure 7
+Page 42/43
+----- PAGE 43 -----
+Uttarakhand Electricity Regulatory Commission (Distribution Code) Regulations, 2018
+Check List for Reports/Plans/Procedures
+Submitted by
+Submitted to
+Agency
+SLDC
+STU/TL
+Consumer
+Distribution Licensee
+Generator
+DCRP
+Commission
+Electrical Inspector
+Consumer
+3.3(2), 3.15(2), 5.3(2), 5.10(1) and (6), 7.3(3),
+8.2(1)
+2.7(1)
+2.7(1)
+Distribution Licence
+5.4(5) (c), 5.5(3) (c) and (e)
+3.4(1), (4) and (5), 3.5(1), 5.4(1), 8.3(1) and
+(2)
+3.15(2), 5.4(6), 5.10(1), (2) and (9), 7.2(2)
+3.15(2), 5.10(1), (2) and (9), 7.3(2)
+1.5(4), 3.4(5), 3.14(2) (a), 3.16(4), 5.6(2),
+5.15(4), 5.20, 6.4
+8.2(2)
+Generator
+3.15(2), 5.3(2), 5.10(1). 7.3(3)
+DCRP
+1.8, 2.3(2)
+Commission
+2.3(1), 2.7(1) and (2)
+Related AI tags, queries and research notes
+Translation
+Page 43/43

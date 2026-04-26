@@ -1,0 +1,74 @@
+
+----- PAGE 1 -----
+The Information Technology (Other Standards) Rules, 2003
+The Information Technology (Other Standards) Rules, 2003
+Source: https://indiankanoon.org/doc/191927407/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Information Technology (Other Standards) Rules, 2003
+UNION OF INDIA
+India
+The Information Technology (Other Standards) Rules, 2003
+Rule THE-INFORMATION-TECHNOLOGY-OTHER-STANDARDS-RULES-2003 of 2003
+Published on 21 November 2003
+Commenced on 21 November 2003
+[This is the version of this document from 21 November 2003.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Information Technology (Other Standards) Rules, 2003
+Published Vide G.S.R. 904(E), dated 21-11-2003, published vide Notification Gazette of India, Extra, Part 2, Section 3(i),
+Sl No. 572, dated 27-11-2003.
+13.
+/638
+In exercise of the powers conferred by clause (g) of sub-section (2) of section 87, read with sub-section (2) of section 20
+of the Information Technology Act, 2000 (
+21 of 2000
+), the Central Government hereby makes the following rules, namely :-
+2.
+Definitions
+Page 1/2
+----- PAGE 2 -----
+The Information Technology (Other Standards) Rules, 2003
+.-In these rules, unless the context otherwise requires,-
+(a)
+"Act "means the Information Technology Act, 2000 (
+21 of 2000
+);
+(b)
+"Controller "means the Controller of Certifying Authorities appointed under sub-section (1) of section 17 of the Act;
+(c)
+"digital signature "means authentication of any electronic record by subscriber by means of an electronic method or
+procedure in accordance with the provisions of section 3 of the Act;
+(d ) words and expressions used herein and not defined but defined in the Act shall have the meaning respectively
+assigned to them in the Act.
+3.
+Standards to be observed by the Controller
+.-The Controller shall, observe the standards laid down in the Information Technology Security Guidelines and Security
+Guidelines for Certifying Authorities referred to in the Information Technology (Certifying Authorities) Rules, 2000, to
+ensure that the secrecy and security of the digital signatures are assured.
+Related AI tags, queries and research notes
+Translation
+Page 2/2

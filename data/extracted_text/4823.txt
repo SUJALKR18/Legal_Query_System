@@ -1,0 +1,1493 @@
+
+----- PAGE 1 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+The Bihar Electricity Regulatory Commission (Licencing for
+Intra-State Trading in electricity) Regulations, 2007
+Source: https://indiankanoon.org/doc/54151797/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Bihar - Act
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electricity) Regulations, 2007
+BIHAR
+India
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electricity) Regulations, 2007
+Rule
+THE-BIHAR-ELECTRICITY-REGULATORY-COMMISSION-LICENCING-FOR-INTRA-STATE-TRADING-IN-ELECTRICI
+TY-REGULATIONS-2007 of 2007
+Published on 4 December 2007
+Commenced on 4 December 2007
+[This is the version of this document from 4 December 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electricity) Regulations, 2007
+Published vide Notification No. 9/2007-No.BERC-Regulations - 1/2007, Bihar Gazette (Extraordinary) No. 1072, dated
+4th December, 2007
+Notification No. 9/2007-No.BERC-Regulations - 1/2007. - In exercise of the powers conferred under Section 181 read
+with Section 52 of the Electricity Act, 2003 (36 of 2003) and all other powers enabling it in that behalf, the Bihar
+Electricity Regulatory Commission hereby makes the following Regulations for grant of licence for intra-State trading in
+Electricity, the duties and responsibilities of electricity trader and other related matters:
+Page 1/28
+----- PAGE 2 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+Chapter 1
+General
+1.
+Short title, extent and commencement.
+- (i) These Regulations shall be called "the Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in
+electricity) Regulations, 2007."
+(ii)
+These Regulations shall be applicable to any person engaged in Intra-State trading in electricity within the territory of the
+State of Bihar.
+(iii)
+These Regulations shall come into force from the date of publication in the Official Gazette of the State.
+2.
+Definitions and interpretation.
+- (i) In these Regulations, unless the context otherwise requires:
+(a)
+'Act' means the Electricity Act 2003, (36 of 2003)
+(b)
+'Agreement' means agreements(s) entered into by the Electricity Trader with the seller of electricity, buyer of electricity,
+other licensees etc, which enables trading transactions to take place.
+(c)
+'Annual accounts' means the accounts of a trading licensee prepared in accordance with the provisions of the
+Companies Act, 1956 and/or in such manner as the Commission may direct in terms of provisions of the Act.
+(d)
+'Area of activity' means the area of activity specified by the Commission in the licence within which the licensee is
+authorized to trade.
+(e)
+'Applicant' means a person, who has made an application for grant of licence to the Commission under section 15 of the
+Act for intra-state trading in electricity.
+(f)
+'Commission' means the Bihar Electricity Regulatory Commission.
+(g)
+'Customer' means any person purchasing electricity from a trader and includes a distribution licensee, any trader and
+consumer.
+(h)
+'Distribution' means conveyance or wheeling of electricity by means of a distribution system.
+(i)
+'Force Majeure' means events beyond the reasonable control of the licensee, including, but not limited to earthquakes,
+cyclones, floods, storms, adverse weather conditions, war, terrorist attacks, civil commotion or similar other occurrence
+that leads to any act that involves a breach of relevant laws or Regulations related to electrical safety.
+(j)
+'Grid Code' means the State Grid Code, specified by the Commission, covering all technical aspects relating to
+connections to the operation of the grid, the use of transmission system or the operation of electrical lines/plant
+connected to the transmission system/distribution system or the system of a supplier.
+(k)
+'Intra - State trading' means trading in electricity within the territory of the State of Bihar by an electricity trader.
+(l)
+'Licence' means a licence granted by the Commission under Section 14 of the Act to conduct licenced business of
+trading in electricity.
+(m)
+'Other Business' means other business(es) of a trading licensee other than the licenced business.
+(n)
+Page 2/28
+----- PAGE 3 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+'Person' shall include any company or body corporate or association or body of individuals, whether incorporated or not,
+or artificial juridical person.
+(o)
+'Specific conditions' means the conditions in addition to or invariation of the general conditions specified by the
+Commission to a trading licensee.
+(p)
+'State' means State of Bihar.
+(q)
+'Trading' means purchase of electricity for re-sale thereof and the expression trade shall be construed accordingly.
+(r)
+'Trading licensee' means the licensee to whom a licence has been granted by the Commission under Section 14 of the
+Act for undertaking trading in electricity and includes a deemed licensee also.
+(ii)
+Unless the subject matter otherwise requires, the words and expressions used in these Regulations and not defined in
+the Act, Rules and the Regulations shall have the meaning assigned to them in the Act, Rules and Regulations.
+(iii)
+Words and phrases not defined in these Regulations Words and phrases used in these Regulations and defined in the
+Electricity Act, 2003 shall have the same meaning as defined therein. Words and phrases defined neither in these
+Regulations nor in the Electricity Act, 2003 but defined in other Acts and laws will have the meaning as defined therein
+unless the context requires otherwise. Words and phrases defined neither in these Regulations nor in any Act (or Law)
+shall have the same meaning as used in general electrical engineering practice and electricity industry.
+(iv)
+Interpretation. - In these Regulations, the following shall be interpreted as:
+(a)
+Words in the singular include the plural and vice versa.
+(b)
+Words in the masculine gender include the feminine gender and vice versa.
+(c)
+The terms "include" or "including" shall be considered as followed by "without limitation" or "but not limited to" whether
+they are actually followed by similar expressions or not in these Regulations.
+(d)
+References to these Regulations shall be construed as references to the Regulations as amended or modified from time
+to time.
+(e)
+The headings are inserted for convenience.
+(f)
+References to various Acts, Laws, Rules, Regulations and guidelines shall be construed as including all amendments
+notified thereto.
+3.
+Requirements of an Electricity Trader.
+(1)
+Technical requirements for an Electricity Trader:
+(a)
+Applicant shall have the following:
+(i)
+experts and skilled staff with relevant qualification and experience in (1) power system, (2) finance, and commerce;
+(ii)
+adequate space for office, communication facilities like telephone, fax, computer, internet facilities etc; and
+(iii)
+own website to post all necessary information relating to his electricity trade:
+(a)
+Page 3/28
+----- PAGE 4 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+The applicant shall submit along with his application the following information to the Commission for assessment of his
+capabilities with regard to the resources deployed in his trade:
+(i)
+the number of experts, summary of their qualifications, experience and knowledge in regard to electricity
+industry/market, their understanding of the operation of the system, commercial transactions and number of years of
+experience of each of the personnel.
+(ii)
+details of key staff, their academic and technical qualification and business skills; and
+(iii)
+details of office accommodation, communication facilities available and website.
+(iv)
+copies of relevant documents in respect of items (i) to (iii) above.
+(b)
+The applicant shall satisfy the Commission that his technical capacities and resources exhibited are sufficient to manage
+the activities pertaining to the Intra-State trading.
+(c)
+The applicant shall comply with ail the technical requirements while applying for a licence for Intra-State trading in
+electricity.
+(d)
+The Commission shall satisfy itself before granting Intra-State trading licence that the applicant has fulfilled all the above
+conditions required for grant of the trading licence.
+(2)
+Financial requirements for a trader in electricity:
+(a)
+Every applicant shall submit the following information to the Commission in regard to his financial requirement to show
+that he is capable of meeting the net worth requirement as per sub-regulation (c) below
+(i)
+History of his earnings
+(ii)
+Balance sheet and cash flow statement
+(iii)
+Funding arrangements
+(iv)
+Risk management strategy
+(b)
+The applicant shall comply with the above financial requirements before applying for the grant of licence for Intra-State
+trading.
+(c)
+The net worth requirement of an electricity trader at any time shall be not less than the following financial limits:
+Category of the trading licence
+Annual volume of electricity to be traded
+Net worth requirement (Rs. Crores)
+A
+Upto 50 Ml)
+1.00
+B
+Above 50 MU and upto 100 MU
+1.50
+C
+Above 100 MU and upto 200 MU
+3.00
+Page 4/28
+----- PAGE 5 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+D
+Above 200 MU and upto 300 MU
+4.50
+E
+Above 300 MU and upto 400 MU
+6.00
+F
+Above 400 MU and upto 500 MU
+7.50
+G
+Above 500 MU and
+10.00
+The limits indicated above are subject to
+(i)
+the licensee shall increase his net worth corresponding to the volume of trade increased from a lower limit to the next
+higher limit;
+(ii)
+the change of category shall be based on the volume of trade as on 31st March each year;
+(iii)
+the licensee shall keep the Commission informed of his moving from one category to another and the consequential
+changes in the net worth.
+4.
+Capital adequacy and credit worthiness to qualify as a trader.
+(1)
+The applicant shall declare to the Commission the maximum trade volume which he can handle in a month and his
+future plans of trading during the initial three years.
+(2)
+The applicant shall maintain the capital adequacy and the net worth, sufficient to cover the maximum trade volume
+supported by documentary evidence over an average settlement period of 30 days (one month) worth of credit for the
+applicant as an electricity trader, subject to the limits specified in sub-regulation 3(2)(c) above.
+(3)
+The trader shall make endeavours to maintain investment grade credit rating from an independent Credit Rating Agency
+through the period of licence.
+(4)
+The capital adequacy shall be a dynamic function, which shall be based,
+(i)
+on the quantum of trade, which the trader is allowed by the Commission based on the business plan submitted by the
+trader;
+(ii)
+it shall correspond to the pool-rate of the power handled by the trader along with company expenses.
+(iii)
+trade risks on account of default in payment and change in price adjusted on six monthly basis by corresponding
+adjustments in the equity of the trader over and above the initial limit of capital adequacy fixed by the Commission.
+(5)
+Credit worthiness of the trader shall correspond to percentage trade default in relation to the capital adequacy for three
+settlement periods. The credit worthiness shall be revised every six months along with the revision in capital adequacy
+as deemed fit by the company.
+(6)
+The Commission, shall fix trading margin to the electricity trader.
+5.
+Intra-State Trading by Deemed Licensee.
+Page 5/28
+----- PAGE 6 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+- A deemed licensee, under Section 14 of the Act, shall undertake Intra-State trading in electricity. The Commission may
+specify general or specific conditions, if any, under Section 16 of the Act, which shall be deemed to be the conditions for
+such licence.
+6.
+Procedure for grant of licence for Intra-State Trading.
+- The procedure for grant of licence to an Intra-State electricity trader by the Commission shall be governed by the
+following Regulations,
+1. Application for licence
+(1)
+(a)
+Any person who intends to carry Intra-State trading in electricity in the State of Bihar shall apply in the form in Annexure
+I to the Commission for grant of a licence in the manner specified by the Commission together with such prescribed fee
+as specified by the State Government, in shape of B.D. payable at Patna in favour of the Bihar Electricity Regulatory
+Commission.
+(b)
+The applicant shall furnish six (6) copies of all relevant documents in support of the information furnished by him.
+(2)
+(a)
+The Commission shall specify the condition for the grant of licence for intra-state trading in electricity and applicant shall
+abide by the conditions stipulated in the licence.
+(b)
+These conditions shall also apply to deemed licensee as defined under provision first, second, third and fifth to Section
+14 of the Act.
+(3)
+The Commission may, in addition to the general conditions, specify any special conditions at the time of granting a
+licence which the applicant shall abide.
+(4)
+(a)
+While applying for grant of a licence for intra-state trading, applicant may suggest any modification(s)/to the conditions
+stipulated by the Commission, which shall be in the interest of the public.
+(b)
+The Commission shall consider the suggestion(s) made by an applicant under sub-regulation (a) above, if the
+Commission considers that the suggestion(s) made will be in public interest.
+7.
+Obtaining additional information.
+- The Commission may, upon scrutiny of the application require the applicant to furnish, within a specified period, such
+additional information, particulars or documents as it may consider necessary for the purpose of processing the
+applicant's case.
+8.
+Publication of notice of application.
+- The applicant, within seven days of submitting his application for intra-state trading licence to the Commission, shall
+publish notice of his application along with such particulars in the manner specified by the Commission, in two daily
+news papers, one in English and another in the local language, having wide circulation in the State of Bihar.
+9.
+Objections.
+(1)
+Any person who desires to file an objection for grant of licence to the applicant, shall file his objections/suggestions to
+the Commission, with a copy to the applicant, within 30 days from the date of publication of the notice by the applicant.
+(2)
+The Commission, if it considers necessary, may call for the comments of the applicant on the objections/suggestions, if
+any received within the stipulated time, and take a suitable decision on the application for grant of licence.
+Page 6/28
+----- PAGE 7 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+10.
+Grant of Licence.
+(1)
+If the Commission decides for grant of licence, it shall publish notice informing the name and address of the person to
+whom it decides to grant a licence together with other details necessary and seek suggestions/objections from the public
+and also indicate a date for hearing, if required.
+(2)
+After considering all the suggestions/objections and hearing, where necessary, the Commission shall issue orders
+granting a licence in the format in Annexure II.
+(3)
+The Commission shall also forward a copy of the licence to the State Government, Central Electricity Authority, Central
+Electricity Regulatory Commission and to such other authorities/persons as it may deem necessary.
+11.
+Refusal to grant a licence.
+- If the Commission decides to refuse to grant a licence, it shall give an opportunity to the applicant for being heard in
+person before rejecting the application.
+12.
+Term of the licence.
+- The trading licence granted by the Commission shall come into force from the date specified by it in the order, granting
+the licence subject to the terms and conditions specified therein and shall be in force for a period of twenty five years or
+till it is revoked by the Commission, whichever is earlier.
+13.
+Compliances with Acts, Rules, Regulations etc.
+(1)
+The Trading licence shall comply with the provisions of the Act, Rules, Regulations, orders and directions issued by the
+Commission from time to time and the provisions of all other laws applicable to electricity industry including National
+Electricity Policy and Plan, State Government Policy for development and promotion of trading and market.
+(2)
+The Trading licensee shall also comply with Regulations on phasing of open access in electricity distribution, Standards
+of Performance, Electricity Supply Code, specified by the Commission, etc.
+(3)
+The Trading licensee shall furnish to the Commission such information as may be required to monitor the trader's
+performance, compliance with the terms and conditions of the licence and any other legislative or regulatory
+requirement.
+(4)
+The Trading licensee shall comply with all the directions issued by the State Load Despatch Centre (SLDC)
+(5)
+The trader shall provide all data and his trading business plan to the Commission, the State Transmission Utility and the
+SLDC annually by a date specified by the Commission and also at request.
+(6)
+The trading margin, if any, fixed by the Commission under Section 86(1) (j) of the Act for the Intra-State trading shall be
+applicable to the trader.
+14.
+Licence fee.
+(a)
+Every licensee shall pay a licence fee in shape of Bank Draft in favour of Bihar Electricity Regulatory Commission
+payable at Patna on or before a specified date as may be fixed by the Commission
+(b)
+If the licensee fails to pay to the Commission the prescribed fee on the due date, the licensee shall be liable:
+(i)
+to pay to the Commission interest on the outstanding amount a simple interest at the rate of 1½ % per month or part
+Page 7/28
+----- PAGE 8 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+thereof. The interest shall be payable for the period from the day on which the amount became due and ending on the
+day on which the Commission receives the payment; or
+(ii)
+to the proceedings for the recovery of such fees as stipulated in the Act in case of non-payment of fees and/or interest,
+as the case may be; or
+(iii)
+to revocation of his licence by the Commission under Section 19 of the Act; as the Commission deems fit.
+(c)
+The licensee shall be entitled to take into account any fee paid by him for determination of aggregate revenues made in
+accordance with sub-regulation (a) above but shall not take into account any interest paid in accordance with sub
+-regulation (b) (i) above.
+15.
+Acts which a Licensee(s) shall not undertake.
+(1)
+No licensee, except with prior approval of the Commission, shall undertake:
+(a)
+any transaction to acquire, through purchase or takeover or otherwise, any utility of any other licensee; or
+(b)
+merge his utility with another utility of any other licensee.
+(2)
+No licensee shall, without prior approval of the Commission, assign or transfer his utility or Licence or part thereof
+through sale, lease, exchange or otherwise.
+(3)
+Before obtaining approval under sub-regulations (1) and (2) above, a Licensee who applies for such approval to the
+Commission, shall give a notice of not less than one month to every other Licensee, who distributes electricity in the
+area of such licensee.
+(4)
+Any agreement entered into by the licensee in respect of sub-regulations (1) to (3) above shall become void unless prior
+approval of the Commission is obtained thereto.
+(5)
+Where such permission is required, the licensee shall file an application with the Commission duly furnishing all relevant
+information. The Commission may, within 30 days of the receipt of such application, accord required permission subject
+to the terms and conditions as it deems necessary or reject the application for the reasons to be recorded in writing in
+support of such rejection.
+16.
+Amendment, alteration etc to a Licence.
+(1)
+The Commission may on an application by the licensee or either suo-motu or otherwise and in public interest, make
+such amendments, alterations etc to the terms and conditions specified in a licence, as it may deem necessary.
+(2)
+Such amendments or alterations shall generally be with the consent of the licensee concerned unless the Commission
+considers it unnecessary.
+(3)
+Before making alterations or amendments, the following conditions shall be observed:
+(a)
+Where the licensee makes an application under sub-regulation (1) above proposing an alteration or amendment, the
+licensee shall publish a notice of such application with details and in such manner as may be specified by the
+Commission.
+(b)
+Where any alteration or amendment is proposed, otherwise than on an application, the Commission shall publish such
+alterations or amendments with such particulars as it may deem necessary.
+Page 8/28
+----- PAGE 9 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+(c)
+Any alteration or amendments shall be made only after considering all the suggestions or objections received with-in
+thirty days from the date of publication of such notice.
+17.
+Revocation of Licence.
+(1)
+The Commission may, in public interest, revoke a licence, after making an independent enquiry, in the following cases
+(a)
+Where a licensee makes willful or continuous default in doing any act required to be done by him under the Act or the
+rules/regulations made thereunder.
+(b)
+Where a licensee fails to observe any of the terms and conditions specified while granting the licence or any
+order/direction of the Commission.
+(c)
+When a Licensee fails, within the time allowed by the Commission:
+(i)
+to show to the Commission that he is in a position to fully and effectively discharge the duties and obligations imposed
+on him by the licence.
+(ii)
+to make a deposit or furnish security or pay fees or other charges required by his Licence
+(d)
+Where the Commission feels that the financial position of the licensee is such that he is not in a position to fulfill
+efficiently his duties/responsibilities/obligations imposed on him by his licence.
+(2)
+The Commission may revoke a licence on an application or with the consent of the licensee either in whole or part of his
+area of distribution on such terms and conditions as it may deem necessary.
+(3)
+The Commission, before revoking a Licence, shall give a notice of not less than three months in writing indicating the
+grounds on which the licence is proposed to be revoked and consider the reasons put forth by the licensee against such
+revocation.
+(4)
+The Commission, may instead of revoking the licence under sub-regulation (1) above, may allow the licence to remain in
+force subject to further terms and conditions, as it may deem fit, which shall be binding and followed scrupulously by the
+licensee.
+(5)
+The Commission, while ordering revocation of licence, shall specify the date from which the revocation takes effect.
+(6)
+Apart from the revocation of licence under this Regulation, the Commission may also impose any penalty, which it
+deems appropriate or initiate proceedings for prosecution of the licensee under the provisions of the Act.
+18.
+Settlement of Disputes and Arbitration.
+- (i) The Commission shall adjudicate the disputes between the licensees or refer any dispute for arbitration on
+application by any licensee(s).
+(ii)
+The Commission shall issue notices to all the concerned licensees indicating the details of the dispute(s) and after
+hearing the parties concerned, the Commission shall pass such order/direction as it may deem necessary.
+(iii)
+If any licensee is not satisfied with order passed by the Commission, the licensee may make a request to the
+Commission for appointment of an Arbitrator.
+(iv)
+On receipt of an application for appointment of an Arbitrator, the Commission shall appoint an Arbitrator under Section
+Page 9/28
+----- PAGE 10 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+86(f) of the Act duly indicating the terms and conditions of such appointment for settlement of the dispute(s).
+(v)
+The Arbitrator(s) nominated by the Commission, after hearing both the parties shall pass a speaking order giving
+reasons for the decision on all the issues raised in the dispute(s).
+(vi)
+The Commission, on receipt of the arbitration award shall communicate the award to the concerned parties for filing their
+views. After considering the views of the concerned parties, the Commission shall pass final orders, as it deems fit.
+(vii)
+The costs of arbitration shall be borne by the concerned licensees, as may be decided by the Commission.
+19.
+Powers of Licensee.
+- The Commission may publish an order authorizing the licensee to exercise any power or authority that could be given
+to the licensee under the Act if it considers necessary.
+20.
+Review.
+- The Commission may, from time to time, review these Regulations;
+(i)
+for the purpose of harmonising the same with reference to open access and/or to cater to the needs of the developing
+power markets, in accordance with Section 66 of the Act; and
+(ii)
+Keeping in view the need for improving the performance of the licensees in public interest.
+21.
+Enforcement of order passed by the Commission.
+(1)
+When the Commission is satisfied that a licensee has failed to comply with any of the conditions of the licence or
+provisions of the Act or Codes or Regulations, it may direct an investigation into the affairs of the licensee by an
+independent authority in accordance with the provisions of Section 128 of the Act.
+(2)
+On receipt of investigation report from the investigating authority, the Commission may give an opportunity to the
+licensee to make representation on the findings contained in the report. After examining the representation of the
+licensee, the Commission may
+(i)
+direct the licensee to take such action in respect of any matter arising out of the report as the Commission may think fit;
+under Section 129 of the Act; or
+(ii)
+revoke or suspend the business of the distribution licensee
+(3)
+The Commission may also, after giving reasonable notice to the licensee, publish the report submitted by the
+investigating authority or relevant portion of the report, as it may deem necessary.
+(4)
+The Secretary shall ensure enforcement and compliance of the orders passed by the Commission, under the Conduct of
+Business Regulations and in accordance with the provisions of Section 129 of the Act.
+22.
+Service and publication of notice.
+- 1. When the Commission is satisfied, based on the materials in its possession, that the licensee is contravening or is
+likely to contravene any of the conditions for grant of licence or any of the provisions of the Act, it shall by an order give
+necessary directions to secure compliance with the relevant conditions or provisions duly taking into account the loss or
+damage to any person consequent to such contravention and after giving notice to the licensee.
+2. The notice shall be served to the address of the licensee by Registered Post with Acknowledgement due or through
+Special Messenger and signed acknowledgement receipt obtained.
+3. In case the premises is found locked it shall be served by affixing the notice on the conspicuous part of the premises.
+Page 10/28
+----- PAGE 11 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+4. The notice shall be published in one English and one Hindi newspaper having wide circulation in the licensee's area
+of activities.
+Chapter 2
+Duties and obligations of an Electricity Trader
+23.
+Duties relating to trading transactions.
+(1)
+The trader shall have in place all agreements for the purchase and sale of electricity, and any necessary related
+authorisations and arrangements as required for the discharge of his obligations under the Licence. Necessary
+safeguards with regard to supply of electricity through trading, or payment for electricity traded shall be included in the
+agreements between the parties.
+(2)
+The trader shall have in place the open access agreements with each transmission licensee and distribution licensee
+concerned for the conveyance of electricity, unless the trader's customer or power supplier has entered into such access
+agreements.
+(3)
+The trader shall have in place a well-structured payment security mechanism, i.e., through letters of credit or any other
+superior instrument mutually acceptable to the parties concerned.
+(4)
+The trader shall maintain an up-to-date register or record of his customers and all the business transactions.
+24.
+Duties relating to supply to customers.
+- The trader shall be responsible to the Commission, the customers and others concerned in the matter of supply of
+electricity through trading to his customers notwithstanding the default of Distribution Licensee, if any.
+25.
+Technical resources, Capital adequacy and Credit worthiness.
+(1)
+The trader shall maintain the technical resources specified in Regulation 3(1) and provide to the Commission the details
+of any changes justifying that the capability is, and continues to remain, adequate to cater to the volume of his trade.
+(2)
+If the trading volume of the trader exceeds the specified volume of trade in any financial year then the trader shall
+immediately report to the Commission of his moving to the higher category and increase his net worth to the applicable
+level as specified in Regulation 3(2)(c) and pay the balance license fee prorated for the rest of the year by the following
+30th April.
+(3)
+In case of non-reporting of such an event, the Commission may levy penalty on the trader in terms of Section 142 of the
+Act, in addition to levy of late payment surcharge/interest for non-payment/delayed payment of the additional licence fee
+due from the Trader as per sub-clause (2) above, in the manner and at the rate specified in Regulation 26, apart from
+suspension of his licence.
+The trader shall make reasonable endeavours to maintain investment grade credit rating (obtained from a leading
+independent Credit Rating Agency) for all debts throughout the period they remain on the books of the trader.
+26.
+Payment of Annual Licence Fee.
+(1)
+The trader shall pay to the Commission a non-refundable annual (April to March) licence fee as specified in the Fees
+and Fines Regulations issued by the Commission from time to time by means of a demand draft/pay order drawn on
+Patna branch of a scheduled bank in favour of Bihar Electricity Regulatory Commission payable at Patna.
+(2)
+Such fee for the first year or a part thereof shall be paid before the commencement of operations, provided that for a
+part of the year, the licence fee shall be payable pro rata on the basis of number of days.
+(3)
+Page 11/28
+----- PAGE 12 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+The annual licence fee for the subsequent years starting from the first day of April, shall be paid in full before the start of
+the year. In case the trader fails to pay the licence fee or a part thereof in time, the trader shall be liable to pay late
+payment surcharge/interest on the outstanding amount at the rate of 1.5% of the licence fee payable per month or a part
+of the month, for the period the licence fee or any part thereof remains unpaid.
+(4)
+Notwithstanding the liability of the trader to pay the late payment surcharge as aforesaid, the delay in payment of licence
+fee or a part thereof, shall be construed as breach of the terms and conditions of the licence rendering the licence liable
+to be revoked on this ground alone.
+Chapter 3
+Compliances and information submission
+27.
+(1)
+At the end of every quarter, the trader shall provide information to the Commission in such form and manner as may be
+directed by the Commission from time to time to demonstrate that he has complied with the net worth criteria mentioned
+in Regulation 3(2) (c).
+(2)
+The trader shall comply with Regulations, Codes, Orders and directives such as Regulations on phasing of open access
+in electricity distribution, Standards of Performance, Electricity Supply Code, Billing and Settlement Code, etc.
+(3)
+The trader shall furnish to the Commission such information as may be required to monitor the trader's performance,
+compliance with the terms and conditions of the licence and any other legislative or Regulatory requirement.
+(4)
+The trader shall comply with any direction issued by the State Load Dispatch Centre (SLDC).
+(5)
+The trader shall provide data and his business plan to the Commission, the State Transmission Utility and the SLDC,
+annually, as well as on request.
+(6)
+The trading margin, if any, fixed by the Commission under Section 86 (1) (j) of the Act for the Intra-State trading shall be
+applicable to the trader.
+(7)
+To enable the Commission to determine the trading margin, the trader shall file the details in such form and in such
+manner as may be required by the Commission from time to time.
+(8)
+The trader shall as soon as practicable report to the Commission: (a) any significant changes in his circumstances which
+may affect the trader's ability to meet his obligations under the Act, Rules and Regulations Directions/Orders issued by
+the Commission, the State Grid Code, agreements or the licence;
+(b)
+any material breach of the provisions of the Act, rules and the regulations, directives/orders issued by the Commission,
+the State Grid Code, agreement or the licence; and
+(c)
+any major change in shareholding pattern, ownership or management of the trader.
+Chapter 4
+Accounts of the Electricity Trader
+28.
+(1)
+The trader shall maintain separate accounts for his Intra-State trading business and prepare the same in accordance
+with the guidelines issued by the Commission and till such time these guidelines are issued by the Commission, the
+accounts shall be maintained in accordance with the provisions of the Companies Act, 1956, as amended from time to
+time.
+(2)
+The trader shall prepare on a consistent basis from such records, accounting statements for each financial year
+Page 12/28
+----- PAGE 13 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+comprising a profit and loss account, a balance sheet and a statement of sources and application of funds together with
+notes thereto and showing separately the amounts of any revenue, costs, assets, liabilities, reserves or provisions which
+have been:
+1. Charged from or to any other business together with a description of the basis of that charge, and/or
+2. Determined by apportionment or allocation between the various business activities together with a description of the
+basis of the apportionment or allocation.
+(3)
+The trader shall provide, in respect of the accounting statements prepared in accordance with foregoing clauses, a
+report by the Auditors in respect of each financial year, stating whether in their opinion the statements have been
+properly prepared and give a true and fair view of the revenue, costs, assets, liabilities, reserves and provisions
+reasonably attributable to the trading business.
+(4)
+The trader shall submit to the Commission copies of the accounting statements and Auditor's report thereon not later
+than six months after the close of the financial year to which they relate.
+(5)
+Any person authorised by the Commission shall be entitled to inspect and verify the accounts of the trader and the
+trader shall render all necessary assistance to such person.
+Chapter 5
+Miscellaneous
+29.
+Prohibitions.
+(1)
+The trader shall not engage in the business of transmission of electricity.
+(2)
+The trader shall not, without prior approval of the Commission assign or transfer his licence to any person, by sale,
+lease, exchange or otherwise.
+(3)
+Wherever prior approval of the Commission is required, the trader shall file an appropriate application before the
+Commission, in accordance with the Conduct of Business Regulations.
+30.
+Contravention of terms and conditions of licence.
+- The Commission may pass such orders as it deems fit in accordance with the provisions of the Act, and this Regulation
+if there is a contravention or the likelihood of a contravention of the terms and conditions of licence by the Licensee.
+31.
+Saving.
+- Nothing contained in this Regulation shall affect the rights and privileges of a consumer under any other law for the
+time being in force, including the Consumer Protection Act, 1986 (68 of 1986).
+32.
+Dispute resolution.
+- In case of any dispute or complaint in respect of supply, the consumers shall be entitled to approach the concerned
+Forum for Redressal of Grievances of Consumers, and any appeal thereon shall lie with the Vidyut Ombudsman, in
+accordance with Bihar Electricity Regulatory Commission (Forum for redressal of Grievances of consumers and Vidyut
+Ombudsman) Regulations.*
+33.
+Issue of orders and practice directions.
+- Subject to the provisions of the Act and this Regulation, the Commission may, from time to time, issue orders and
+practice directions in regard to the implementation of this Regulation, the procedure to be followed etc., and other
+matters, which the Commission has been empowered by this Regulation to specify or direct.
+34.
+Power to remove difficulties.
+- In case of any difficulty in giving effect to any of the provisions of this Regulation, the Commission may remove such
+Page 13/28
+----- PAGE 14 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+difficulty by general or special order, not being inconsistent with the provisions of the Act, as may appear to be
+necessary for the purpose of removing the difficulty.
+35.
+Power to amend.
+- The Commission may, at any time, add, vary, alter, modify, amend or suspend any provisions of this Regulation. By
+order of the Bihar Electricity Regulatory Commission
+* See the Regulations of 2006 of even named and the Amending Regulations of 2009 Volume - 4, Page 682 & Volume -
+8 Page 1051 respectively.
+Annexure I
+Application Form for Intra State Trading Licence
+(See Regulation 6 (1))
+Part - A General Information of Applicant
+1. Details of Applicant
+a. Full Name of the Applicant
+b. Full Address of the Applicant :
+c. Name, Designation & Address of the Contact Person :
+d. Contact Telephone Numbers :
+Fax Number(s):
+Email ID:
+2. Details of Ownership
+a. Company / Firm / Co-op Society / Individual /Others :
+b. Details of Incorporation / Registration :
+Place of Incorporation / Registration :
+Year of Incorporation :
+Registration Number :
+c. Names and Addresses of Directors / Partners / Governing Body members / trustees
+d. Permanent Account Number allotted by Income Tax Department
+3. Principal Shareholders / Partners / Members
+4. Details of the area of operation
+a. Nature of other electricity licenses / authorization, if any, of the applicant for electricity transmission, distribution or
+trading already granted:
+5. Details of Operation
+a. Maximum trading volume proposed to be undertaken by the applicant on a monthly basis for the first three years; (In
+Million units and capacity)
+6. Funding arrangements (source and application) to meet the obligations:
+7. Arrangement for purchase of energy
+8. Arrangement, if any, proposed with other existing trading and distribution licensees
+9. Resume of the Organization giving details of
+a. Management capability
+b. Financial strength
+c. Ability to attend to the activities in a sustainable manner
+10. Date from which licence is sought
+Date
+Signature of the Applicant
+Part B ? List of Documents to Accompany Licence Application
+1. Documents (attested copies) to be submitted along with the licence application
+(a)
+Information relating to pre-existing licence (if any), with copy of licence/sanction
+(b)
+Certificate of Incorporation/Registration
+(c)
+Page 14/28
+----- PAGE 15 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+Certificate of commencement of Business
+(d)
+Original Power of Attorney of the Signatory to commit the Applicant or its Promoter.
+(e)
+Articles of Association, Memorandum of Association and similar constitutional documents
+(f)
+Details of Income Tax registration, PAN / TAN.
+2. Organizational and Managerial Compatibility of Applicant
+(a)
+Managerial
+(i)
+Senior management's curriculum vitae
+(ii)
+Cadre strength for different categories (technical and nontechnical)
+(b)
+Financial
+(i)
+Bank references asserting that the Applicant is financially solvent
+(ii)
+Annual Audited Reports for the past 5 years for the Applicant and for any Holding Company, Subsidiary or affiliated
+company (if any).
+(c)
+Any other document, evidence to substantiate the financial capabilities, technical competence and others.
+3. Data relating to the Applicant's Proposed Business
+(a)
+Approach and Methodology (Applicant is required to describe Approach and Methodology for establishment of the
+Trading arrangements as proposed by the Applicant)
+(b)
+Business plan (with 5 years projection) for the proposed business for which licence is sought (which should contain year
+wise anticipated growth in trade volumes, metering plan, treatment of previous losses, debt restructuring plan, projected
+profit and loss account, projected balance sheets, projected cash flow statements and projected important financial
+parameters).
+(c)
+Five year annual forecasts of costs, sales, revenues, project financing and funding arrangements (clearly specifying the
+assumptions involved)
+Date
+Signature of the Applicant
+Part C ? Format for Assessing Competence of Applicant
+(This form to be filled by an Applicant applying for a Trading licence)
+1. Previous Experience (Past 5 years details for Related Business)
+[To be filled in by the applicant or by each participant separately in case of JVC/consortium (As applicable)]
+General Information
+Does the applicant have previous
+experience in electricity trading?
+If yes, Specify location (State / Country)
+Yes / No
+Does the applicant have trading
+experience in any other related sector?
+If yes, name the sector Specify location? (State / Country)
+Yes / No
+Details of electricity trading in the last 5 years -
+Page 15/28
+----- PAGE 16 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+Commercial Operations
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Trading volume at
+various voltage levels (Million Units)
+Bulk tradeRetail trade
+Number of Ongoing
+Contracts with details
+Bulk tradeRetail trade
+Bulk trade (Nos.
+and Quantum)
+End consumersRe-sellers(s)/Trader(s)
+Retails trade
+Consumer Base (Nos. and Quantum)
+High TensionLow Tension
+Revenue from
+electricity trading (Rs. Lakhs)
+Bulk tradeRetail trade
+Details of trading in other sectors during the last 5 years -
+Commercial Operations
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Trading volume
+(________Units)
+Bulk tradeRetail trade
+Revenue from
+trading (Rs. Lakhs)
+Bulk tradeRetail
+trade
+Number of Ongoing
+trading Contracts with details
+Bulk tradeRetail trade
+Financial Information (Rs. lakhs)
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Equity.
+Promoters'Government/
+Financial InstitutionsPublicOthers
+Liabilities
+Long TermShort Term
+Income
+Electricity tradingOthers
+Page 16/28
+----- PAGE 17 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+Expenses
+Administration and
+GeneralExpensesEmployee CostDepreciation
+Interest and Financial Charges
+Long
+TermShort Term
+Others
+Profits and Returns
+Net ProfitsDividends Paid
+2. Details of Proposed Trading Activity (Business for which licence is sought)
+[To be filled in by the applicant or by each participant separately in case of JVC/ consortium (As applicable)]
+Funding
+Whether applicant himself shall be financing the proposed
+trading fully on its own balance sheet
+Yes / No
+Proposed means of Finance
+Equity (Rs.
+Lakhs)ApplicantCo-promotersOthers (specify)
+Debt
+Domestic (Rs.
+Lakhs)Indian Financial InstitutionsCommercial
+BanksOthers (specify)International (FC
+Million)Supplier's CreditDirect BorrowingOthers
+(specify)Equivalent INR (with Exchange rate used)
+Others (specify)
+In case trading activity is
+proposed to be jointly funded along with External Agency
+Name and
+Address of the Agency, and contact details of the reference
+person of the Agency (name, address, telephone/fax numbers, email
+etc.,)
+Proposed
+Equity from the Agency (Rs. Lakhs)
+Agency's
+equity as a percentage of total equity (%)
+Nature of proposed tie-up between
+Applicant and the other agency.
+Details of debt proposed for
+trading activity
+Details of
+Lenders (name & address).
+Details of
+Loan packages indicating the loan amount, currency, Term of loan,
+interest rate, up-front fees, Commitment charges etc.
+Whether any
+guarantee is being sought for the loans from any agency.
+If Yes, provide details
+Yes/ No
+Minimum level of communication
+infrastructure available
+Any other (specify)
+Page 17/28
+----- PAGE 18 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+Telephone/Fax/Internet/V-Sat
+Note : - Consent letters of the other Agency and Contractors to associate with the Applicant for the above project to be
+enclosed.
+Necessary approvals and no objection certificates to be obtained at appropriate time and forwarded to the Commission.
+3. Qualifications and Expertise (Personnel)
+Name of personnel
+Qualification
+Specialisation
+Years of experience
+Status in the firm
+1.
+2.
+3.
+4.
+5.
+Note : Atleast one full time professional, having experience in each of the disciplines like Power Systems Operation,
+Finance should be part of the Core team.
+Knowledge and understanding of power systems operation (covering generation availability, capacity utilization,
+demand, plant load factor, flow of electricity etc), power market operations, commercial arrangements(PPAs, BSA, TSA,
+etc) and communication and scheduling of power (load dispatch are required)
+4. Revenue Potential (Business for which licence is sought)
+General Information
+Details of Target Bulk consumers
+End
+consumersReseller(s)/Trader(s)
+Retails consumer base (Nos.)
+High TensionLow Tension
+Trading of electricity (expected
+annual)
+Bulk Trade
+Expected
+quantum (MU)Anticipated demand growth (%)
+Retail Trade
+Expected quantum (MU)Anticipated
+demand growth (%)
+Commercial Information
+Existing Average Tariff (Rs./ Unit)
+Bulk supply
+tariffRetail supply tariff
+High tensionLow tension
+Financial Information
+Annual expected turn over (Rs. Lakhs)
+5. Financial Soundness (Other Subsidiary Business Units)
+[To be filled in by the applicant or by each participant separately in case of JVC/ consortium (As applicable)]
+General Information
+Names of Subsidiary Business Units1.2.3.4.5.
+Products Manufactured/ Services1.2.3.4.5.
+Banker's details
+Details of Bank Accounts
+Name and
+Address of the BankAccount Number
+Page 18/28
+----- PAGE 19 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+Contract person & details
+Name of the
+representativeDesignationContact numberse-mail ID
+Financial Indicators
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Fixed Assets
+Gross Fixed AssetsAccumulated
+DepreciationNet Fixed Assets
+Equity
+Promoters'Government/
+FinancialInstitutionsPublicOthers
+Liabilities
+Long TermShort Term
+Income
+Sale of PowerOthers (specify)
+Expenses
+Administration
+and General ExpenseRepairs and MaintenanceEmployee
+CostDepreciationInterest and Financial Charges
+Long
+TermShort Term
+Others (specify)
+Financial Indicators
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Overall Turnover (Rs. Lakhs)
+Profits and Returns (Rs. Lakhs)
+Net ProfitsDividends Paid
+Operating Ratios
+Return on EquityReturn on
+Capital EmployedReturn on Net Fixed Assets
+Liquidity Ratio
+Debt Service
+Coverage RatioCurrent Ratio
+Quick Ratio
+Capital Adequacy and Credit
+Worthiness
+Debt/ NetworthDebt/ Equity
+Turnover Ratio
+Total Asset TurnoverFixed
+Asset Turnover
+6. Baseline Information (Business for which licence is sought)
+Commercial Information
+Metering StatusTotal
+Page 19/28
+----- PAGE 20 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+interconnection points
+Unmetered interconnection
+pointsConsumers with TOD metersMetered retail
+consumersUnmetered retail consumersConsumer with TOD
+meters
+Billing Status
+Billing (as a % of Total Input)
+LossCommercial loss (%)
+Note:
+1. Certificates/documents in support of all the credentials detailed above, from the Owner/Client for whom the project
+were promoted should be submitted along with the application.
+2. Wherever conversion factor is used (for currency conversion and others), mention the conversion factor used for this
+purpose.
+Date
+Signature of the Applicant
+Annexure II
+Format and Conditions of Licence of an Electricity Trader Licence granted for Trading in electricity
+[See Regulations 10(2)]
+Licence granted by the Bihar Electricity Regulatory Commission (hereinafter referred to as "the Commission"), in
+exercise of the powers conferred under Section 14 of the Electricity Act, 2003 (Act 36 of 2003, hereinafter referred to as
+"the Act"), hereby grants this licence as a Category .................... trader to .................., (hereinafter referred to as "the
+licensee") to trade in electricity as an electricity trader in the area stated in schedule to the Licence subject to the terms
+and conditions contained in the Act, (in particular, Section 17 to 22 thereof, both inclusive), the Rules made by the
+Central Government (hereinafter referred to as "the Rules") and the regulations specified by the Commission
+(hereinafter referred to as "the Regulations"), including statutory amendments, alterations, modifications, re-enactments
+thereof, which shall be read as part and parcel of this licence.
+The licence shall come into effect from ....................
+Part-I Definitions
+1. Words, terms and expressions to which meanings are assigned by the Electricity Act 2003 (36 of 2003), shall have
+the same meaning in these General Conditions.
+2. Unless the context otherwise requires:
+(a)
+"accounting statement" means for each financial year, accounting statements for the licensed business comprising a
+profit and loss account, a balance sheet and a statement of sources and application of funds, together with notes thereto
+as detailed under the Companies Act, 1956 (1 of 1956) or the respective Acts under which the licensee is governed and
+such other particulars and details in the manner as the Commission may prescribe from time to time. If the trading
+licensee engages in any business or activity in addition to the licensed business, the accounting statements shall comply
+with the regulations of the Commission dealing with the treatment of other business of trading licensees and show
+specifically the amounts of any revenue, cost, asset, liability, reserve or provision, which has been either:
+(i)
+charged from the licensed business to any other business or vice versa together with a description of the basis of that
+charge; or
+(ii)
+determined by apportionment or allocation between the licensed business and any other business of the licensee
+together with a description of the basis of the apportionment or allocation.
+(b)
+"Act" means the Electricity Act, 2003 (Act 36 of 2003)
+(c)
+"agreement" means agreement entered into by the electricity trader with the seller of electricity, buyer of electricity, other
+licensees, State Load Despatch Centre, consumer etc. that enables the trading transactions;
+(d)
+Page 20/28
+----- PAGE 21 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+"annual accounts" means the accounts of the licensee prepared in accordance with the provisions of the Companies
+Act, 1956 and/or in such other manner as may be directed by the Commission in terms of the provisions of the Act;
+(e)
+"area of activity" means the area of activity stated in schedule to the trading licence within which the licensee is
+authorised to trade;
+(f)
+"auditors" means the licensee's auditors holding office in accordance with the requirements of Sections 224 to 234A or
+Section 619 as appropriate, of the Companies Act 1956 (1 of 1956);
+(g)
+"authorised", in relation to any person, business or activity, means authorised by licence granted under Section 14 of the
+Act or deemed to be granted under the first, second, third and fifth proviso to Section 14 of the Act or exemption granted
+under Section 13 of the Act and the Regulations of the Commission;
+(h)
+"Commission" means the Bihar Electricity Regulatory Commission;
+(i)
+"Conduct of Business Regulations" means the Bihar Electricity Regulatory Commission - Conduct of Business
+Regulations for the time being in force;
+(j)
+"customer" means any buyer purchasing electricity from the trader, viz. distribution licensee, any other trading licensee
+and any customer that the licensee gets into a sale agreement with.
+(k)
+"Force Majeure" means events beyond the reasonable control of the licensee, including, but not limited to earthquakes,
+cyclones, floods, storms, adverse weather conditions, war, terrorist attacks, civil commotion or other similar occurrences
+that leads to any act that would involve a breach of relevant laws or regulations concerned with electrical safety;
+(l)
+"licence" means a licence granted under Section 14 of the Act;
+(m)
+"licensee" means a person who has been granted a licence under Section 14 of the Act;
+(n)
+"licensed business" means the business of trading of electricity in the area of activity as authorised under the licence;
+(o)
+"open access" means the non-discriminatory provision for the use of transmission lines or distribution lines or
+transmission systems or distribution systems or associated facilities with such lines or systems by any licensee or
+customer or a person engaged in generation in accordance with the Regulations specified by the Commission;
+(p)
+"person" shall include any company or body corporate or association or body of individuals, whether incorporated or not,
+or artificial juridical person;
+(q)
+"regulations" means the regulations made by the Commission, under the provisions of the Act;
+(r)
+"State" means the State of Bihar;
+(s)
+"State Government" means the Government of the State of Bihar;
+(t)
+"subsidiary" shall have the same meaning as in Section 4 of the Companies Act 1956 (1 of 1956);
+(u)
+"supply" in relation to electricity means the sale of electricity to a licensee or consumer;
+(v)
+"Electricity Supply Code" means the Code published by the Commission under Section 50 of the Act;
+(w)
+"trader" means a person who has been granted a licence or deemed to be a licensee to undertake trading in electricity
+Page 21/28
+----- PAGE 22 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+under Section 14 of the Act;
+(x)
+"trading" means purchase of electricity for resale thereof and the expression "trade" shall be construed accordingly;
+(y)
+"trading business" means the authorised business of the trading licensee in the area of supply;
+(z)
+"transfer" shall include the sale, exchange, gift, lease, licence, loan, securitisation, mortgage, charge, pledge or grant of
+any other encumbrance or otherwise permitting of any encumbrance to subsist or parting with physical possession or
+any other disposition or dealing;
+(aa)
+"transmit" means conveyance of electricity by means of transmission lines and the expression "transmission" shall be
+construed accordingly;
+(ab)
+"transmission licensee" means a licensee authorised to establish or operate transmission lines;
+(ac)
+"transmission system" means the system consisting mainly of extra high voltage electric lines having design voltage of
+66 kV and higher, owned or controlled by the transmission licensee, and used for the purposes of the conveyance of
+electricity and includes all bays/equipments upto the interconnection with the distribution system, and any plant,
+apparatus and meters owned or used in connection with the transmission of electricity, but shall not include any part of a
+distribution system;
+Part-II General Conditions
+3. Terms of the Licence. - (1) The trading licence shall come into force on the date specified by the Commission in the
+order granting such licence and unless revoked earlier, in accordance with the Regulation 17 of these Regulations or
+under Section 19 of the Act, shall remain in force for 25 (Twenty five) years from that date.
+(2)
+This trading licence is not transferable, except in accordance with the provisions of the Act, the Rules and the
+Regulations.
+4. Compliance with Laws, Rules, and Regulations. - (1) The trading licensee shall comply with the provisions of the Act,
+Rules, Regulations, Orders and Directions issued by the Commission from time to time.
+(2)
+The trading licensee shall act in accordance with this General Conditions except where the licensee is exempted from
+any provisions of these General Conditions at the time of the grant of licence or otherwise specifically permitted by the
+Commission for any deviation therefrom.
+(3)
+The trading licensee shall duly comply with the order and directions of the National Load Despatch Centre, Regional
+Load Despatch Centre and the State Load Despatch Centre and other statutory authorities issued in the discharge of
+their functions.
+5. Duties of the Trading Licensee. - (1) The trading licensee may engage in the business of trading in electricity in the
+State provided that any such sale or supply of electricity to customer subject to the trade margin that may be fixed by the
+Commission from time to time.
+(2)
+The trading licensee shall have in place all agreements, including the billing and settlement agreement, for the
+purchase, sale and supply of electricity, and all necessary authorisations as required by it to be able to perform its
+obligations under such agreements.
+(3)
+The trading licensee shall not without the prior approval of the Commission:
+(a)
+undertake any transaction to acquire by purchase or takeover or otherwise, the utility of any other licensee in its area of
+activity; or
+(b)
+acquire any beneficial interest in any generating company or generating station or distribution licensee or any other
+Page 22/28
+----- PAGE 23 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+trading licensee; or
+(c)
+merge its utility with any other licensee within the State; or
+(d)
+assign its licence, or transfer its utility, or any part thereof, by sale, lease, exchange or otherwise.
+Any agreement relating to any transaction referred to in sub-clause (a) to sub-clause (d) unless made with the approval
+of the Commission, shall be void.
+(4)
+To obtain the approval of the Commission as aforesaid, the licensee shall file a suitable application with the Commission
+disclosing relevant facts in that behalf and the Commission shall dispose such application expeditiously.
+(5)
+The grant of this trading licence to the licensee shall not in any way hinder or restrict the right of the Commission to
+grant a licence to any other person within the same area for trading in electricity as an electricity trader. The trading
+licensee shall not claim any exclusivity.
+(6)
+The trading licensee shall carry out trade by entering into appropriate contracts. Necessary safeguards with regard to
+supply of electricity through trading, or payment for the electricity traded shall be included in the agreements between
+the parties. All trading arrangements shall be done through the letters of credit or with any other superior instrument.
+(7)
+If the contract of the trading licensee with its customer is for a fixed term, then prior to the expiry of such fixed term, the
+licensee shall inform the customer as to when the term expires and the tariffs and terms and conditions applicable to the
+customer beyond the expiry of the contract, if the arrangement is continued.
+(8)
+The trading licensee shall comply with the requirements of laws in force and, in particular, the provisions of the Act, the
+Rules and the Regulations, Bihar Electricity Grid Code, Bihar Electricity Distribution Code, Bihar Electricity Supply Code,
+other codes, orders and directions issued by the Commission from time to time.
+(9)
+The trading licensee shall maintain an up to date register or record of all the business transactions.
+(10)
+The trading licensee shall be governed by the technical requirement, capital adequacy requirement and credit
+worthiness specified by the Commission in these regulations, for being an electricity trader and shall upgrade these
+technical and capital adequacy requirements including staff, when the volume of trade increases.
+(11)
+The trading licensee shall increase its networth if the quantum of trade moves from a lower category to a higher
+category and the change of category shall be decided based on the volume of electricity traded cumulated as on 31st
+March of each year of which the licensee shall keep the Commission informed of his moving from one category to the
+other and subsequent changes in the networth.
+(12)
+The trading licensee shall establish adequate communication facilities like telephone, fax, computer and internet
+facilities, before undertaking the trading.
+(13)
+The trading licensee shall render all assistance to any person authorised by the Commission for carrying out his duties
+relating to the licence.
+(14)
+The trading licensee shall pay the licence fee specified under the regulations in accordance with the time-schedule
+specified thereunder.
+(15)
+The trading licensee shall purchase the energy required for meeting its obligation under its licence in an economical
+manner and under a transparent power purchase or procurement process and in accordance with the Regulations,
+Guidelines, Directions made by the Commission from time to time.
+6. Accounts. - (1) Unless otherwise permitted by the Commission the financial year of the trading licensee for the
+Page 23/28
+----- PAGE 24 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+purposes of these General Conditions and matters relating to the licensed business shall run from the first of April to the
+following thirty-first of March.
+(2)
+The trading licensee shall, in respect of the licensed business and any other business:
+(a)
+prepare on a consistent basis from such accounting records and deliver to the Commission
+(i)
+the accounting statements;
+(ii)
+in respect of the first six months of each financial year, a half yearly profit and loss account, cash flow statement and
+balance sheet together with such supporting documents and information as the Commission may prescribe from time to
+time such statements and documents to be published in the manner prescribed by the Commission;
+(iii)
+in respect of the accounting statements prepared, an auditor's report for each financial year, stating whether in their
+opinion these statements have been properly prepared in accordance with this clause and give a true and fair view of
+the revenues, costs, assets, liabilities, reserves and provisions of, or reasonably attributable to such businesses to which
+the statements relate; and
+(iv)
+a copy of each half yearly profit and loss account not later than three months after the end of the period to which it
+relates, and copies of the accounting statements and auditor's report not later than six months after the end of the
+financial year to which they relate.
+(3)
+The trading licensee shall not normally change the basis of charge or apportionment or allocation of revenues or
+expenses in relation to the preparation of the accounting statements in respect of a financial year from those applied in
+respect of the previous financial year, without prior intimation to the Commission. Any change, if proposed, in the basis
+of charge or apportionment of revenues or expenses shall be consistent with the provisions of the Companies Act, 1956,
+the accounting standards or rules and any guidelines issued by the Commission in this regard.
+(4)
+Where, in relation to the accounting statements in respect of a financial year, the licensee has changed the basis of
+charge or apportionment or allocation from those adopted for the immediately preceding financial year, the licensee
+shall, if requested by the Commission, (in addition to preparing accounting statements on those basis which it has
+adopted), prepare such accounting statements on the basis which it applied in respect of the immediately preceding
+financial year.
+(5)
+Accounting statements under sub-clause (2) above shall, unless or otherwise approved or directed by the Commission-.
+(a)
+be prepared and published with the annual accounts of the trading licensee, in the manner provided herein;
+(b)
+state the accounting policies adopted;
+(c)
+be prepared in accordance with generally accepted Indian accounting standards; and
+(d)
+be prepared in the form as the Commission may stipulate from time to time;
+(6)
+The references to costs or liabilities of, or reasonably attributable to licensed business or other business shall be
+construed as excluding taxation, and capital liabilities which do not relate principally to such business and interest
+thereon.
+(7)
+The trading licensee shall ensure that the accounting statements in respect of each financial year prepared under
+sub-clause (2) and the auditor's report in respect of each financial year are publicised in such manner as the
+Commission may direct and are made available to any Person requesting them at a price not exceeding the reasonable
+Page 24/28
+----- PAGE 25 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+cost of duplicating them.
+(8)
+The Commission may, from such time it considers appropriate, require the licensee to comply with the provisions of sub
+clause (1) to (7) above treating the trading and other activities of the licensee as separate and distinct businesses and
+shall comply with any guidelines issued by the Commission in this regard.
+(9)
+Any person authorised by the Commission shall be entitled to inspect and verify the accounts of the trading licensee and
+the licensee shall render all necessary assistance to such person.
+7. Provision of Information to the Commission. - (1) The trading licensee shall furnish to the Commission without undue
+delay such information, documents and details related to the licensed business or any other business of the licensee, as
+the Commission may require for its own purposes or for the purposes of the Government of India, State Government,
+the State Transmission Utility, The State Load Dispatch Centre, the Central Commission and/or the Central Electricity
+Authority.
+(2)
+The trading licensee shall furnish the information as may be required from time to time to monitor the licensee's
+performance and compliance of the terms and conditions of the licence and any other legislative or regulatory
+requirement in the manner required by the Commission.
+(3)
+The trading licensee shall file the annual revenue requirements, at a time as may be directed by the Commission, and in
+the form and manner specified thereof, to enable the Commission to determine the trading margin, wherever necessary.
+(4)
+The trading licensee shall duly inform the Commission about any incident restricting it from meeting its obligation under
+the licence granted including any act of omission or commission by others and steps taken by the licensee to mitigate
+the effect of such incident. The trading licensee shall notify the Commission as soon as possible the occurrence of any
+other incident which materially affect any part of its trading activities and in any event, by not later than thirty days from
+the date of such occurrence:
+(a)
+submit a report to the Commission giving full details of the facts within the knowledge of the licensee regarding the
+incident and its cause; and
+(b)
+give copies of the report to all parties concerned with such incident and to such other persons as the Commission may
+direct.
+(5)
+The Commission may by order, after providing an opportunity of hearing, direct the trading licensee to provide such
+amount of compensation as the Commission may direct, to persons who are affected or prejudiced by any act of
+commission, omission or negligence on the part of any of the employees or agents of the licensee.
+(6)
+The trading licensee shall submit a business plan in accordance with the provisions of BERC (Terms and Conditions for
+determination of tariff) Regulations, 2007.
+8. Capital Adequacy, Credit Worthiness Norms to be Maintained. - (1) The trading licensee shall duly comply with the
+Regulations, Guidelines, Directions and Orders the Commission may issue from time to time in regard to the technical
+and financial parameters and norms to be maintained at all times by the trading licensee.
+(2)
+The net worth at any point of time during the operation of trading shall not reduce below 75% of the minimum
+requirements specified for the respective category of trader and shall be replenished at the end of every quarter ending
+March, June, September & December every year to the above specified levels. An audited certificate of compliance
+would need to be submitted to the Commission for every quarter within a period of 30 days from the end of that quarter.
+(3)
+The trader shall make reasonable endeavours to maintain investment grade credit rating obtained from a leading
+independent Credit Rating Agency for all debts throughout the period they remain on the books of the trader.
+(4)
+Page 25/28
+----- PAGE 26 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+The non-maintenance of the technical and financial parameters as per sub-clause (1) above shall amount to a material
+breach of the obligations by the licensee.
+(5)
+The trading licensee shall maintain the technical resources as specified in the regulations and provide to the
+Commission details of any changes justifying the adequacy of its capability to cater to the volume of trade it handles.
+(6)
+If the trading volume of the licensee exceeds its specified maximum volume of trade, then the licensee shall immediately
+inform the Commission and increase its networth as specified in the Regulations. In case of non-reporting of such an
+event the Commission shall levy compensation to the licensee for such negligence, and the licence shall be liable for
+revocation.
+(7)
+The increased networth shall remain in force till such time the increased networth consistently exceeds the requirement
+for a particular volume of trade through three consecutive months. On any such consistent reduction in volume of trade,
+the networth requirement may be revised in proportion to the average traded volumes during the three months, specified
+herein.
+9. Payment of Licence Fees. - (1) Within thirty days or such further period as the Commission may allow after the
+coming into force of this licence, the licensee shall pay to the Commission a fee as may be specified by the
+Commission, on a pro rata basis for the balance period of the year in quarterly instalments as specified in sub-clause (2)
+(2)
+For the subsequent financial year(s), for as long as this licence remains in force, the licensee shall, in four equal
+instalments by the 10th of April, 10th of July, 10th of October and 10th of January in each year, or such further period as
+the Commission may allow, pay to the Commission an annual licence fee as specified by the Regulations.
+(3)
+The Commission may, from time to time revise the annual licence fee payable by the licensee. The Commission may
+publish such notice, detailing the annual licence fee payable by the licensee on/or before the start of each financial year.
+(4)
+Where the trading licensee fails to pay to the Commission any of the fees due under sub-clauses (1) or (2) by the due
+dates:
+(a)
+without prejudice to other obligations, the licensee shall be liable to pay interest on the outstanding amount at a simple
+interest rate of 1.5 (one & half) percent, the interest being payable for the period beginning on the day after which the
+amount became due, and ending on the day on which the payment is made to the Commission in cleared funds; and
+(b)
+in the event of continued default by the licensee, the Commission may revoke this licence pursuant to Section 19 of the
+Act and Regulation 18 of the Regulations.
+(5)
+The trading licensee shall be entitled to take into account any fee paid by it under this clause as an expense in the
+determination of aggregate revenues, but shall not take into account any interest paid pursuant to this clause.
+(6)
+In case the trading licensee has moved from a lower Category to a higher Category, the balance of licence fee
+applicable to the licensee for such changed category shall be paid before 30th April of each year.
+10. Amendment of Licence Conditions. - Any terms and conditions of licence may be altered or amended by the
+Commission at any time in public interest in exercise of powers under Section 18 of the Act. The following provisions
+shall have effect for any alterations or amendments:
+(a)
+where the licensee has made an application under sub-section (1) of Section 18, of the Act proposing any alteration or
+modifications to the terms and conditions of licence, the licensee shall publish a notice of such application with such
+particulars and in such manner as specified in Regulation 8 of the Regulations;
+(b)
+in the case of an application proposing alterations or modifications in the area of activity comprising the whole or any
+part of any cantonment, aerodrome, fortress, arsenal, dockyard or camp or of any building or place in the occupation of
+Page 26/28
+----- PAGE 27 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+the Government for defence purposes, the Commission shall make any alterations or modifications only with the
+consent of the Central Government; the Commission shall not make any alterations or modification unless all
+suggestions or objections received within thirty days from the date of the first publication of the notice have been
+considered.
+11. Settlement of Disputes. - The provisions contained in Regulation 18 of these regulations, shall apply to any dispute
+between the trading licensee and any generating company or transmission licensee or consumers or distribution
+licensee and such disputes shall be settled in accordance with the provisions contained in the said Regulations.
+12. Tariff, Trading Margins and Expected Revenue Calculation. - (1) The trading licensee shall calculate the expected
+revenue from charges, which it is permitted to recover in accordance with the provisions of the Act, the Regulations of
+the Commission, the tariff terms and conditions and other guidelines, orders and directions issued by the Commission
+from time to time.
+(2)
+The trading licensee shall file the expected revenue calculation in the manner provided in the Conduct of Business
+Regulations and consistent with the Regulations issued under Section 61 of the Act.
+(3)
+Unless otherwise provided in the Special Conditions or in any order or direction made by the Commission the licensee
+shall every year, not later than 31st November, submit to the Commission a Statement with full details of its expected
+aggregate revenues and cost of service for the ensuing financial year for its licensed business in accordance with the
+provisions of the Act and the Regulations, guidelines and orders issued by the Commission from time to time.
+13. Compliance and Submission of Information to State Load Despatch Centre & Central Electricity Authority. - (1) The
+trading licensee shall comply with the provisions of codes and regulations published/specified by the Commission and
+directives of the Commission issued from time to time.
+(2)
+The trading licensee shall submit to the State Load Despatch Centre (SLDC) all such information pertaining to the trade
+of electricity by the licensee, provided further that the SLDC shall verify the information provided by the licensee on
+quantum of electricity traded as against its reports and submit a review report to the Commission.
+(3)
+The trading licensee shall submit information to the Central Electricity Authority as required under Section 74 of the Act
+in accordance with clause (i) of Section 73 of the Act:
+(4)
+The trading licensee shall pay the SLDC charges as may be specified by the Commission from time to time:
+(5)
+The distribution licensee(s) when trading with other distribution licensee(s) shall comply with the Commission's specified
+ceiling value of trading margin.
+(6)
+The trading licensee shall comply with the requirements under Section 66 of the Act as may be specified by the
+Commission to promote the development of market:
+14. Prudential Reporting. - The trading licensee, shall, as soon as practicable report to the Commission:
+(a)
+Any significant changes in its circumstances which may affect the licensee's ability to meet its obligations under the Act,
+Rules and Regulations Directions/Orders issued by the Commission, the Bihar Electricity Grid Code, agreement or the
+licence.
+(b)
+Any material breach of the provisions of the Act, the Rules and the Regulations, Directives/Orders issued by the
+Commission, the Bihar Electricity Grid Code, the Bihar Electricity Distribution Code, the Bihar Electricity Supply Code,
+agreement or the licence.
+(c)
+Any major change in shareholding pattern, ownership or management of the licensee.
+15. Communication. - (1) All communications relating to the trading licence shall be in writing and shall be delivered
+either in person to the addressee or his authorised agent, or sent by registered/speed post to the place of business of
+the addressee.
+Page 27/28
+----- PAGE 28 -----
+The Bihar Electricity Regulatory Commission (Licencing for Intra-State Trading in electric...
+(2)
+All communications shall be regarded to have been given by the sender and received by the addressee:
+(a)
+when delivered in person to the addressee or to his authorised agent;
+(b)
+on expiry of fifteen days from the date of sending by registered/speed post at the address of the addressee.
+16. Introduction of Competition in Trading. - (1) The Commission may grant licence to more than one person to trade in
+the same area of activity of the licensee subject to the proviso to Section 14 of the Act.
+(2)
+The Commission may, after considering applicable Government policy and in consultation with the licensees and
+generating companies, formulate arrangements for the introduction of competition in supply/promote the development of
+a market (including trading of power) in the State. These consultations will adhere to the principles of natural justice,
+financial viability of the sector and will afford a reasonable opportunity to the affected parties to represent their
+perspectives in the matter.
+(3)
+The Commission may, with reasons recorded in writing, and after providing reasonable opportunity to the licensee to be
+heard, issue such appropriate orders modifying or amending the conditions of this licence, as it shall consider
+appropriate for the purpose of implementing the arrangements referred to in this clause.
+(4)
+The trading licensee shall arrange systems and other resources necessary for complying with this clause.
+(5)
+The trading licensee in any circumstances shall not enter into any Agreement or abuse its dominant position or enter
+into a combination, which is likely to cause or causes an adverse effect on competition in the electricity industry.
+(6)
+If the trading licensee anticipates that it will be unable to meet any of the obligations under this clause, it shall as soon
+as possible notify the Commission and give sufficient reasons for the same.
+17. Application of the General Conditions to Deemed Licensees. - The conditions as set out herein above are applicable
+to any person who is a deemed licensee under Section 14 of the Act.
+Schedule
+Area of Activity of the Trading Licensee The following circles/districts in the State of Bihar:.....................including
+cantonment, aerodrome, fortresses, arsenal, dockyard or camp or any building or place in occupation of Central
+Government for defence purposes and without however affecting the rights of any other Licensee or exemption holder,
+as the case may be, under the provisions of the Electricity Act, 2003.
+Related AI tags, queries and research notes
+Translation
+Page 28/28

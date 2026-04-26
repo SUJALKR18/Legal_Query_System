@@ -1,0 +1,1046 @@
+
+----- PAGE 1 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+The Maharashtra Electricity Regulatory Commission (Consumer
+Grievance Redressal Forum & Electricity Ombudsman) Regulations,
+2006
+Source: https://indiankanoon.org/doc/169442002/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Maharashtra - Act
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & Electricity Ombudsman)
+Regulations, 2006
+MAHARASHTRA
+India
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & Electricity Ombudsman)
+Regulations, 2006
+Act 116 of 2005
+Published on 19 April 2006
+Commenced on 19 April 2006
+[This is the version of this document from 19 April 2006.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & Electricity Ombudsman)
+Regulations, 2006
+Published vide Notification No. MERC/LEGAL/116 of 2005/0822, dated 19th April, 2006, M.G.G., Part 4-C, dated
+20.4.2006, pages 457-487
+No. MERC/LEGAL/116 of 2005/0822 - In exercise of the powers conferred on it by sub-sections (r) and (s) of Section
+Page 1/20
+----- PAGE 2 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+181 read with sub-sections (5) to (7) of Section 42 of the Electricity Act, 2003 (36 of 2003) and all other powers enabling
+it in this behalf, the Maharashtra Electricity Regulatory Commission hereby makes the following Regulations, providing
+guidelines to the Distribution Licensees in the State for establishing Forum(s) for redressal of grievances of consumers
+and for the appointment of the Electricity Ombudsman by the Commission, for making representation against
+non-redressal of grievances of consumers and the time and manner of settlement of grievances by the Electricity
+Ombudsman and for matters incidental and ancillary thereto, and further to supercede the "Maharashtra Electricity
+Regulatory Commission (Consumer Grievance Redressal Forum & Ombudsman) Regulations, 2003".
+Chapter I
+General
+1.
+Short Title, Commencement and Interpretation.
+- 1.1 These Regulations may be called the "Maharashtra Electricity Regulatory Commission (Consumer Grievance
+Redressal Forum & Electricity Ombudsman) Regulations, 2006".
+1.2
+These Regulations extend to the whole of the State of Maharashtra.
+1.3
+These Regulations shall come into force from the date of its notification in the Official Gazette.
+1.4
+These Regulations shall be construed harmoniously with the standards of performance of Distribution Licensees and the
+Electricity Supply Code specified by the Commission under the provisions of clauses (x) and (za) of sub-section (2) of
+Section 181 of the Act. In case of any inconsistency with these Regulations, the standards of performance of Distribution
+Licensees and the Electricity Supply Code shall prevail.
+2.
+Definitions.
+- 2.1 In these Regulations, unless the context otherwise requires -
+(a)
+"Act" means the Electricity Act, 2003 (36 of 2003);
+(b)
+"Commission" means the Maharashtra Electricity Regulatory Commission;
+(c)
+"Grievance" means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance
+which has been undertaken to be performed by a Distribution Licensee in pursuance of a licence, contract, agreement or
+under the Electricity Supply Code or in relation to standards of performance of Distribution Licensees as specified by the
+Commission and includes inter alia (a) safety of distribution system having potential of endangering of life or property,
+and (b) grievances in respect of non-compliance of any order of the Commission or any action to be taken in pursuance
+thereof which are within the jurisdiction of the Forum or Ombudsman, as the case may be.
+(d)
+"Internal Grievance Redressal Cell" or "IGR Cell" means such first authority to be contacted by the consumer for
+redressal of his/her Grievance as notified by the Distribution Licensee;
+(e)
+"Forum" means the forum for redressal of grievances of consumers required to be established by Distribution Licensees
+pursuant to sub-section (5) of Section 42 of the Act and these Regulations.
+(f)
+"Electricity Ombudsman" means an authority appointed or designated by the Commission, in pursuance of sub-section
+(6) of Section 42 of the Act and these Regulations, to whom any consumer, who is aggrieved by non-redressal of his
+grievances by the Forum, may make a representation.
+(g)
+"Nodal Officer" shall mean an officer having knowledge and experience in distribution and supply of electricity and so
+designated by the Distribution Licensee to act as a nodal officer who shall not be below the rank of an executive
+engineer of the Board or officer of equivalent rank of any other Distribution Licensee.
+(h)
+Page 2/20
+----- PAGE 3 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+"Representation" shall mean the representation made to the Electricity Ombudsman by the consumer in person or on
+behalf of such consumer who is aggrieved by non-redressal of his grievances by the Forum (including dismissal order)
+within the specified time and in accordance with these Regulations.
+2.2
+Interpretations. - Words and expressions used and not defined in these Regulations but defined in the Act shall have the
+meanings respectively assigned to them in the Act.
+3.
+Basic Principles.
+- 3.1 Every Distribution Licensee shall, within six months from the Appointed Date or date of grant of license, whichever
+is earlier, establish Forum(s) in accordance with these Regulations. Such Forum(s) shall follow the principles of natural
+justice, including, inter alia, the following:-
+(a)
+it shall protect the interest of consumers;
+(b)
+it shall inform consumers of their rights;
+(c)
+it shall facilitate and expedite the redressal of Grievances;
+(d)
+it shall ensure that consumers can also have a remedy in the event of failure or delay on the part of the Distribution
+Licensee in redressing their Grievances.
+3.2
+A Distribution Licensee shall establish at least one (1) Forum in each distribution zone falling within its area of supply.
+Explanation - for the purpose of this Regulation 3.2, the term "distribution zone" shall mean the geographical area falling
+within the jurisdiction of a zonal office of the successor entities of the Board as may be vested with the functions of
+distributing electricity pursuant to re-organisation of the Board. Provided that where the area of supply is the city of
+Greater Mumbai and adjoining areas, each Distribution Licensee shall have at least one (1) Forum for such area of
+supply. Subject to any guidelines that may be issued by the Commission, from time to time, the area of jurisdiction of the
+Forum shall be decided by the Distribution Licensee.
+3.3
+Every Distribution Licensee shall -
+(a)
+publish its draft rules and procedures for redressal of Grievances and make the same available to public in English and
+Marathi at all cash collection centers and offices of the Distribution Licensee, provided that, the Distribution Licensee
+shall inform consumers through the bills raised on them regarding the availability of such draft rules and procedures;
+Provided that the Commission may make model rules and procedures from time to time for providing guidance to the
+Distribution Licensees.
+(b)
+invite comments on such draft rules and procedures from its consumers to be submitted at the respective cash collection
+center or office of the Distribution Licensee; and
+(c)
+finalise such draft rules and procedures considering comments, if any, and publish and make them available as at (a)
+above.
+Provided that the Distribution Licensee shall, if necessary, update and publish such rules and procedures referred to in
+sub-clause (c) at regular intervals which shall, in particular, include-
+(i)
+the objects of these Regulations;
+(ii)
+the postal and street address, the phone and fax number and, if available, electronic mail address of the IGR Cells and
+Forums;
+(iii)
+the manner and the form in which a Grievance may be made to the IGR Cells;
+Page 3/20
+----- PAGE 4 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+(iv)
+the assistance available from and the duties of the IGR Cells under these Regulations;
+(v)
+the assistance available from the Forums;
+(vi)
+all remedies in law available regarding an act or failure to act in respect of a right or duty conferred or imposed on the
+Distribution Licensee by the Act or these Regulations, as the case may be, including the manner of filing an appeal to
+the Electricity Ombudsman;
+(vii)
+any additional rules, procedures or circulars made or issued by the Distribution Licensee in relation to these Regulations
+and in accordance with the Act.
+Provided further that it shall be a constant endeavour of the Distribution Licensee to take steps in accordance with the
+requirements herein to provide as much information suo motu to the public at regular intervals through various means of
+communications, including internet, so that information is disseminated widely and in such form and manner which is
+easily accessible to the public.
+Explanation. - For the purposes of Regulation 3.3, "disseminated" means making known or communicating the
+information to the public through notice boards, newspapers, public announcements, media broadcasts, the internet or
+any other means.
+Chapter II
+Forum for Redressal of Consumer Grievances
+4.
+Constitution of Forum For Redressal of Consumer Grievances.
+- 4.1 Each Forum to be constituted by the Distribution Licensee shall consist of three members, who shall meet the
+following criteria:
+(a)
+The Chairperson of the Forum shall be a retired senior judicial officer; or a retired civil servant not below the rank of a
+Collector; or a retired Principal of a reputed Engineering college; or a retired Professor of the Electrical Engineering
+Department of a reputed institute; or a retired senior electrical engineer of the Government.
+Provided that the Chairperson shall preferably have working knowledge of the vernacular language of the State of
+Maharashtra.
+(b)
+One member shall be a person not below the rank of an executive engineer of the Board or a person of equivalent rank
+of any other Distribution Licensee.
+(c)
+[ One member shall be a representative of a registered voluntary consumer protection organization of the area, working
+preferably for at least five (5) years on matters concerning consumer grievances.]
+[Sub-regulation (c) was substituted by Notification No. MERC/Legal/116 of 2005/631, dated 2nd April, 2007 (M.G.G.,
+Part IV-C, pages 255-256).]
+Provided that the Distribution Licensee shall, while appointing the member referred to in sub-clause (b), ensure that
+he/she is a person having knowledge and experience in distribution and supply of electricity.
+Provided that, such member referred to in sub-clause (c), shall not have been in the employment in any capacity under,
+or agency of, the Distribution Licensee for a minimum period of three (3) years prior to being appointed as member of
+the Forum.
+Provided further that in case the Distribution Licensee has less than one lac fifty thousand (1,50,000) consumers in its
+area of supply in the State of Maharashtra, the Forum may consist of a single member, who shall fulfill the eligibility
+criteria of sub-clause (a) above.
+Provided also that where the Chairperson is absent from a sitting of the Forum, the technical member, who fulfills the
+eligibility criteria of sub-clause (b) above, shall be the Chairperson for such sitting.
+4.2
+The Distribution Licensee shall ensure that the post of a member in the Forum is not kept vacant for a period exceeding
+three (3) months.
+Page 4/20
+----- PAGE 5 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+4. [3 Every member of the Forum shall hold office for a fixed term of three years provided that the tenure of a member
+may be extended by the Distribution Licensee for a further period not exceeding two (2) years subject to an overall age
+limit of sixty-seven (67) years.]
+[Regulation 4.3 was substituted by Notification No. MERC/Legal/116 of 2005/631, dated 2nd April, 2007 (M.G.G., Part
+IV-C, pages 255-256).]
+4.4
+(1) No person shall be appointed and/or be entitled to continue as a member if he stands disqualified on account of his :
+(a)
+having been adjudged an insolvent;
+(b)
+having been convicted of an offence which, in the opinion of the Distribution Licensee, involves moral turpitude;
+(c)
+having become physically or mentally incapable of acting as such member;
+(d)
+having acquired such financial or other interest as is likely to affect prejudicially his functions as a member;
+(e)
+having so abused his position as to render his continuance in office prejudicial to public interest; or
+(f)
+having been guilty of proved misbehaviour.
+(2)
+An existing member shall be liable to be removed from his office forthwith on account of any of the aforesaid
+disqualifications arising or being discovered.
+Provided that no member shall be removed from his office on any ground specified in the aforesaid clauses (d), (e) and
+(f) of Regulation 4.4 (1) unless the Distribution Licensee, has, on an independent inquiry held by it, in accordance with
+such procedure as directed by the Commission, reported to the Commission that such member ought, on such ground
+or grounds, be removed.
+4.5
+The sitting fees, honorarium and/or other allowances (collectively "Remuneration") payable to the members shall be
+such as may be decided by the Distribution Licensee.
+Provided that the Remuneration and the other terms of office of the members shall not be varied to the disadvantage of
+the member after his appointment.
+Provided further that the terms and conditions of service of a member of the Forum who is in the employment of the
+Distribution Licensee shall be governed by the terms and conditions of his employment with such Distribution Licensee.
+4.6
+(a)
+The office space, secretarial support and other facilities required by members of the Forum shall be provided by the
+Distribution Licensee including the numbers, nature and categories of staff as may be intimated by the Forum to the
+Distribution Licensee, for the efficient functioning of the Forum.
+(b)
+The salaries and allowances payable to, and other terms and conditions of service of the staff required to assist the
+Forum in the discharge of its functions shall be on the terms and conditions as may be determined by the Distribution
+Licensee.
+4.7
+Notwithstanding the foregoing provisions of Regulation 4 above, the terms and conditions of service of a member of the
+Forum who is in the employment of the Distribution Licensee shall be governed by the terms and conditions of his
+employment with such Distribution Licensee.
+5.
+Quorum & other Matters.
+- 5.1 The location and the timings of the office of the Forum shall be decided by the Distribution Licensee so as to
+provide convenient access to consumers. In order to expedite disposal of Grievances, the Forum may also hold sittings
+at such places within its area of jurisdiction as may be considered necessary and proper by the Forum.
+Page 5/20
+----- PAGE 6 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+Provided that the Forum shall hold such number of sittings in a month so as to complete the enquiry as expeditiously as
+possible and to pass appropriate order within a maximum period of two (2) months from the date of receipt of the
+Grievance by the Forum.
+5.2
+Except where the Forum consists of a single member, the quorum of the Forum shall be two members. In the event a
+quorum is not present, the Forum shall be adjourned to the next working day. If at the adjourned meeting also, a quorum
+is not present, the member present shall be the quorum.
+6.
+Procedure for Grievance Redressal.
+- 6.1 The Distribution Licensee shall have an Internal Grievance Redressal Cell to record and redress Grievances in a
+timely manner. The IGR Cell of the Distribution Licensee shall have office(s) in each revenue district in the area of
+supply.
+Provided that where the area of supply is the city of Greater Mumbai and adjoining areas, the IGR Cell of the Distribution
+Licensee shall have at least one (1) office for the area of supply. The Distribution Licensee shall endeavour to redress
+Grievances through its IGR Cell.
+6.2
+A consumer with a Grievance may intimate the IGR Cell of such Grievance in the form and manner and within the time
+frame as stipulated by the Distribution Licensee in its rules and procedures for redressal of Grievances.
+Provided that where such Grievance cannot be made in writing, the IGR Cell shall render all reasonable assistance to
+the person making the Grievance orally to reduce the same in writing.
+Provided also that the intimation given to officials (who are not part of the IGR Cell) to whom consumers approach due
+to lack of general awareness of the IGR Cell established by the Distribution Licensee or the procedure for approaching
+it, shall be deemed to be the intimation for the purposes of these Regulations unless such officials forthwith direct the
+consumer to the IGR Cell.
+6.3
+(a)
+The office of the IGR Cell shall issue acknowledgement of the receipt of the Grievance to the consumer within five (5)
+working days from the date of receipt of a Grievance. Where the Grievance has been submitted in person, the
+acknowledgement shall be provided at the time of submission.
+Provided that where the Grievance is submitted by email to the IGR Cell acknowledgement of the receipt of the
+Grievance to the consumer shall be provided by return email as promptly as possible.
+Provided further that the IGR Cells shall keep such electronic records in hard form for ease of retrieval.
+Provided further that where the Grievance is submitted by email hard copies of the same shall be submitted forthwith
+separately to the IGR Cell.
+(b)
+Notwithstanding sub-clause (a), the written acknowledgement of receipt of grievance provided by officials (who are not
+part of the IGR Cell) shall be deemed to be the acknowledgement for the purposes of these Regulations.
+6.4
+Unless a shorter period is provided in the Act, in the event that a consumer is not satisfied with the remedy provided by
+the IGR Cell to his Grievance within a period of two (2) months from the date of intimation or where no remedy has been
+provided within such period, the consumer may submit the Grievance to the Forum. The Distribution Licensee shall,
+within the said period of two (2) months, send a written reply to the consumer stating the action it has taken or proposes
+to take for redressing the Grievance.
+6.5
+Notwithstanding Regulation 6.4, a Grievance maybe entertained before the expiry of the period specified therein, if the
+consumer satisfies the Forum that prima facie the Distribution Licensee has threatened or is likely to remove or
+disconnect the electricity connection, and has or is likely to contravene any of the provisions of the Act or any rules and
+regulations made thereunder or any order of the Commission, provided that, the Forum or Electricity Ombudsman, as
+the case may be, has jurisdiction on such matters.
+Provided further that no such Grievance shall be entertained, before the expiry of the period specified in Regulation 6.4,
+unless the Forum records its reasons for the same.
+Page 6/20
+----- PAGE 7 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+6.6
+The Forum shall not admit any Grievance unless it is filed within two (2) years from the date on which the cause of
+action has arisen.
+6.7
+The Forum shall not entertain a Grievance. - (a) unless the consumer has complied with the procedure under Regulation
+6.2 and has submitted his Grievance in the specified form, to the Forum;
+(b)
+unless the consumer is aggrieved on account of his Grievance being not redressed by the IGR Cell within the period set
+out in these Regulations;
+(c)
+unless the Forum is satisfied that the Grievance is not in respect of the same subject matter that has been settled by the
+Forum in any previous proceedings; and
+(d)
+where a representation by the consumer, in respect of the same Grievance, is pending in any proceedings before any
+court, tribunal or arbitrator or any other authority, or a decree or award or a final order has already been passed by any
+such court, tribunal, arbitrator or authority.
+6.8
+If the Forum is prima facie of the view that any Grievance referred to it falls within the purview of any of the following
+provisions of the Act the same shall be excluded from the jurisdiction of the Forum:
+(a)
+unauthorized use of electricity as provided under section 126 of the Act;
+(2)
+(b)
+offences and penalties as provided under sections 135 to 139 of the Act;
+(c)
+accident in the distribution, supply or use of electricity as provided under section 161 of the Act; and
+(d)
+recovery of arrears where the bill amount is not disputed.
+6.9
+The Forum may reject the Grievance at any stage if it appears to it that the Grievance is:
+(a)
+frivolous, vexatious, mala fide;
+(b)
+without any sufficient cause;
+(c)
+there is no prima facie loss or damage or inconvenience caused to the consumer;
+Provided that no Grievance shall be rejected in respect of subclauses (a), (b) and (c) unless the applicant has been
+given an opportunity of being heard.
+6.10
+Every Grievance must be submitted in writing to the Forum in the format set out in Schedule A to these Regulations.
+Provided that where such Grievance cannot be made in writing, the Forum shall render all reasonable assistance to the
+person making the Grievance orally to reduce the same in writing and in filling up the format set out in Schedule A to
+these Regulations. The Grievance may also be lodged by registered post acknowledgement due, by speed post or by
+courier service or by any other means of transmission of documents (including FAX message).
+Provided further that the Distribution Licensee shall, in its website, upload the format set out in Schedule A to these
+Regulations in word form so as to enable consumers, at their option, to submit their Grievance in electronic form.
+Provided further that all enclosures to such Grievance submitted in electronic form shall be submitted in scanned form.
+Provided also that submission of Grievance in electronic form shall be as per the rules and procedures of the
+Distribution Licensee as in force from time to time.
+6.11
+The Forum shall send an acknowledgement of receipt of Grievance to the consumer bearing a serial number and date
+Page 7/20
+----- PAGE 8 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+within five (5) working days from the date of receipt of a Grievance. Where the Grievance has been submitted in person,
+the acknowledgement shall be provided at the time of submission.
+Provided that where the Grievance is submitted by email to the Forum acknowledgement of the receipt of the Grievance
+to the consumer shall be provided by return email as promptly as possible.
+Provided further that the Forum shall keep such electronic records in hard form for ease of retrieval.
+Provided further that where the Grievance is submitted by email hard copies of the same shall be submitted forthwith
+separately to the Forum.
+6.12
+A copy of the Grievance shall be forwarded forthwith by the Forum to the Nodal Officer designated by the Distribution
+Licensee for redressal or to file its reply to the Grievance. The Nodal Officer shall act as the co-ordinator for filing of
+reply, making submissions, providing issue-wise comments on the Grievance, submitting compliance status/reports,
+etc., before the Forum and/or the Electricity Ombudsman, as the case may be.
+6.13
+Within fifteen (15) days of intimation from the Forum or within such other time as it may direct, the Distribution Licensee
+shall furnish, to the Forum with a copy to the consumer, its issue-wise comments on the Grievance, failing which the
+Forum shall proceed on the basis of the material record available.
+6.14
+The Forum shall notify the Distribution Licensee and the applicant who has submitted the Grievance, the date of hearing
+of the Grievance in writing, giving sufficient advance notice.
+6.15
+A consumer, Distribution Licensee or any other person who is a party to any proceedings before the Forum may either
+appear in person or authorise any person other than an Advocate (within the meaning of the Advocates Act, 1961) to
+present his case before the Forum and to do all or any of the acts for the purpose.
+6.16
+Where any person who has been a party to the proceedings before the Forum fails to appear on the date of hearing as
+may be fixed in this behalf, the Forum may decide the Grievance ex-parte.
+Provided that no adjournment shall be ordinarily granted by the Forum unless sufficient cause is shown and the reasons
+for the grant of adjournment have been recorded in writing by the Forum.
+6.17
+(a)
+The Forum shall be entitled to call for any record and/or require attendance of any person to facilitate and expedite the
+disposal of the Grievance. The Forum shall also be entitled to direct the Distribution Licensee to undertake an
+inspection.
+(b)
+Notwithstanding sub-clause (a), the Forum may engage a third party to undertake such inspection with regard to the
+Grievance, as may be required for the expeditious redressal of the Grievance.
+Provided that the Forum shall record the reasons in writing requiring the engagement of third party to undertake such
+inspection.
+(c)
+The expenses of such inspection to be undertaken by third party as referred to in sub-clause (b) shall be borne by the
+Distribution Licensee and to the extent reasonable and justifiable such expenses shall be allowed in the Page 12 of 29
+determination of tariff in accordance with the terms and conditions of tariff as specified by the Commission.
+6.18
+After considering the Grievance submitted by the consumer, issue-wise comments on the Grievance submitted by the
+Distribution Licensee, all other records available, the Forum shall complete the enquiry as expeditiously as possible and
+every endeavour shall be made by the Forum to pass appropriate order, on the Grievance for its redressal within a
+maximum period of two (2) months from the date of receipt of the Grievance by the Forum.
+Provided that the Forum shall issue such directions as it may deem necessary for redressal of the Grievance within
+stipulated time frames.
+Provided further that if the Order of the Forum is passed after the completion of the said period of two (2) months, the
+Forum shall record in writing reasons for the same.
+Page 8/20
+----- PAGE 9 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+6.19
+The Forum shall not be bound by the Code of Civil Procedure, 1908 (5 of 1908) or the Indian Evidence Act, 1872 (1 of
+1872) as in force from time to time.
+6.20
+(a)
+Notwithstanding anything to the contrary contained above, the Forum may initiate any proceedings suo motu, and give
+such orders and directions as may be deemed necessary, including, inter alia, for service of notices to the affected
+parties and invite reply on the issues involved in the proceedings in such form as the Forum may direct.
+(b)
+While issuing the notice of inquiry or at any time thereafter, the Forum may, at its discretion designate any person whom
+the Forum considers appropriate to, -
+(i)
+present the case of a party which cannot afford to engage its representative, or
+(ii)
+act as amicus curiae to assist the Forum in its proceedings.
+7.
+Inspection of records and supply of certified copies.
+- 7.1 Any Person shall be entitled to a copy of the orders of the Forum or take extracts therefrom, subject to payment of
+a cost, which shall not be more than the cost of photocopying and complying with other terms, which the Forum may
+direct.
+Provided that an applicant making request for information shall not be required to give any reason for requesting the
+information or any other personal details except those that may be necessary for contacting him.
+7.2
+Notwithstanding anything contained in Regulation 7.1, there shall be no obligation to give to any Person,-
+(a)
+information including commercial confidence, trade secrets or intellectual property, the disclosure of which would harm
+the competitive position of a third party, unless the Forum is satisfied that larger public interest warrants the disclosure of
+such information; or
+(b)
+information which would impede the process of investigation or apprehension or prosecution of offenders.
+8.
+Findings of the Forum.
+- 8.1 On completion of the proceedings conducted under Regulation 6, except where the Forum consists of a single
+member, the Forum shall take a decision by a majority of votes of the members of the Forum and in the event of equality
+of votes, the Chairperson shall have the second and casting vote.
+8.2
+If, after the completion of the proceedings, the Forum is satisfied after voting under Regulation 8.1 that any of the
+allegations contained in the Grievance is correct, it shall issue an order to the Distribution Licensee directing it to do one
+or more of the following things in a time bound manner, namely-
+(a)
+to remove the cause of Grievance in question;
+(b)
+to return to the consumer the undue charges paid by the consumer;
+(c)
+to pay such amount as may be awarded by it as compensation to the consumer for any loss or damage suffered by the
+consumer.
+Provided however that in no case shall any consumer be entitled to indirect, consequential, incidental, punitive, or
+exemplary damages, loss of profits or opportunity.
+(d)
+to pay such amount as compensation as specified by the Commission in the standards of performance of Distribution
+Licensees.
+Page 9/20
+----- PAGE 10 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+(e)
+any other order, deemed appropriate in the facts and circumstances of the case.
+8.3
+Notwithstanding the provisions of Regulation 8.2, the Forum may pass such interim orders, at any stage during the
+disposal of the Grievance, on the request of the consumer as the Forum considers appropriate pending the final
+decision on the Grievance.
+Provided that the Forum shall have the powers to pass such interim order in any proceeding, hearing or matter before it,
+as it may consider appropriate if the consumer satisfies the Forum that prima facie the Distribution Licensee has
+threatened or is likely to remove or disconnect the electricity connection, and has or is likely to contravene any of the
+provisions of the Act or any rules and regulations made thereunder or any order of the Commission, provided that, the
+Forum has jurisdiction on such matters.
+Provided further that, except where it appears that the object of passing the interim order would be defeated by delay,
+no such interim order shall be passed unless the opposite party has been given an opportunity of being heard.
+8.4
+Every order made by the Forum shall be a reasoned order either in Marathi or English and signed by the members
+conducting the proceedings.
+Provided that where the members differ on any point or points, the opinion of the majority shall be the order of the
+Forum. The opinion of the minority shall however be recorded and shall form part of the order.
+Provided further that, along with every order, the Forum shall intimate the consumer of the contact details of the
+Electricity Ombudsman appointed or designated by the Commission under Regulation 10.
+8.5
+A certified copy of the order passed by the Forum shall be delivered to the parties to such order.
+8.6
+The order of the Forum shall be binding on the consumer and the Distribution Licensee.
+8.7
+Any order passed or direction issued by the Forum shall be implemented or complied with by the Distribution Licensee
+or the person required by the order or direction to do so and within the time frame stipulated in the order/directions and
+further intimation of such compliance shall also be made to the Forum within the time frame stipulated in that regard in
+the order/directions.
+9.
+Public awareness of the IGR Cells and the Forums.
+- The Distribution Licensee shall, in relation to its IGR Cell, make information accessible and available to the public,
+including, inter alia, through the bills raised on the consumers and make available to consumers its rules and procedures
+for redressal of Grievances in English and Marathi at all cash collection centres and offices, internet, and other media
+deemed appropriate.
+Provided that the Distribution Licensee shall also give publicity of the existence of the Forum through statements in the
+bills raised for the supply of electricity to the consumers and in doing so, shall be guided by, any directions that the
+Commission may issue from time to time.
+Provided further that it shall be a constant endeavour of the Distribution Licensee to take steps in accordance with the
+requirements herein to provide as much information suo motu to the public at regular intervals through various means of
+communications, including internet, so that information is disseminated widely and in such form and manner which is
+easily accessible to the public. The address, email, facsimile and phone numbers of the IGR Cell and Forums shall be
+displayed at all cash collection centers and offices of the Distribution Licensee so as to put to the notice of common
+public visiting the premises and shall also be duly publicized, including in the bills raised on the consumers.
+Explanation. - For the purposes of Regulation 9, "disseminated" means making known or communicating the information
+to the public through notice boards, newspapers, public announcements, media broadcasts, the internet or any other
+means.
+Provided also that every Distribution Licensee shall, within one hundred days of the publication of these Regulations,
+designate some of its officers as may be necessary to provide information to persons requesting for the information
+under this Regulation and such officers shall deal with requests from persons seeking information and render
+reasonable assistance to the persons seeking such information.
+Page 10/20
+----- PAGE 11 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+Chapter III
+Electricity Ombudsman
+10.
+Constitution of Electricity Ombudsman.
+- 10.1 The Commission shall designate or appoint one or more persons to be the Electricity Ombudsman to exercise
+such powers and discharge such functions entrusted by or under the provisions of the Act and/or under these
+Regulations.
+10.2
+The appointment or designation of the person(s) as the Electricity Ombudsman shall be made for a period not exceeding
+three (3) years.
+Provided that the tenure of the Electricity Ombudsman may be extended by the Commission for a further period not
+exceeding two (2) years subject to an overall age limit of seventy (70) years.
+10.3
+The Electricity Ombudsman may relinquish his office by giving in writing to the Commission a prior notice of not less
+than three (3) months.
+10.4
+Where the Commission is satisfied that in the public interest and for the reasons set out below, it is necessary to remove
+the person discharging the duties of an Electricity Ombudsman, the Commission may for reasons to be recorded in
+writing and by giving three months notice or by paying three months consolidated emoluments in lieu of the notice
+period, remove the person discharging the duties of Electricity Ombudsman, if such person:
+(a)
+has been adjudged an insolvent;
+(b)
+has been convicted of an offence which, in the opinion of the Commission involves moral turpitude;
+(c)
+has become physically or mentally incapable of acting as Electricity Ombudsman;
+(d)
+has acquired such financial or other interest as is likely to affect prejudicially his functions as Electricity Ombudsman;
+(e)
+has so abused his position as to render his continuance in office prejudicial to the public interest; or
+(f)
+has been guilty of proved misbehaviour.
+Provided that no person shall be removed from his office on any ground specified in the aforesaid clauses (d), (e) and (f)
+unless the Commission, has, on an inquiry, concluded that the person ought, on such ground or grounds, be removed.
+11.
+Jurisdiction of the Electricity Ombudsman.
+- The territorial jurisdiction of the Electricity Ombudsman shall extend to the whole or part of the State of Maharashtra.
+Provided that the Commission may appoint or designate more than one Electricity Ombudsman with defined territorial
+jurisdiction.
+12.
+Location of office.
+- The office(s) of the Electricity Ombudsman(s) will be located at such place(s) as may be determined by the
+Commission. In order to expedite disposal of Grievances the Electricity Ombudsman may hold sittings at such places
+within his area of jurisdiction as may be considered necessary and proper by him in respect of a representation before
+him.
+13.
+Qualification.
+- The Electricity Ombudsman shall be constituted from amongst a retired judge of a High Court, a retired Secretary to
+the Government, or retired Chief Executive Officer of an electricity sector utility.
+14.
+Remuneration.
+Page 11/20
+----- PAGE 12 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+- The remuneration and other allowances payable to the Electricity Ombudsman will be determined by the Commission
+from time to time and shall be paid out of the Fund constituted under section 103 of the Act.
+Provided that the remuneration and the other terms of office of the Electricity Ombudsman shall not be varied to the
+disadvantage of the Electricity Ombudsman after his appointment.
+15.
+Secretariat.
+- 15.1 The Electricity Ombudsman shall be provided with a secretariat.
+15.2
+The expenses of such secretariat shall be paid out of the Fund constituted under section 103 of the Act.
+15.3
+The Electricity Ombudsman shall normally devote his whole time to the affairs of his office.
+Provided that the Commission may permit the Electricity Ombudsman to undertake such part-time honorary work, as is
+not likely to interfere with his duties under these Regulations.
+16.
+Powers and Duties of the Electricity Ombudsman.
+- The Electricity Ombudsman shall have the following powers and duties:
+(a)
+to receive from consumers, representations against orders of the Forum and consider such representations and facilitate
+their satisfaction or settlement by agreement, through conciliation and mediation between the Distribution Licensee and
+consumer or by passing an order in accordance with these Regulations;
+(b)
+to exercise general powers of superintendence and administrative control over his secretariat/office, and be responsible
+for the conduct of business thereat;
+(c)
+to incur expenditure on behalf of the office, provided however, that in order to exercise such power, the Electricity
+Ombudsman will draw up an annual budget for his office in consultation with the Commission and shall exercise the
+powers of expenditure within the approved budget;
+(d)
+to discharge such functions as the Commission, may by order, direct or assign, from time to time.
+17.
+Proceedings before the Electricity Ombudsman.
+- 17.1 The Electricity Ombudsman shall settle the Grievance of the consumer within such time and in such manner as
+specified in the following Regulations.
+17.2
+Any consumer, who is aggrieved by the non-redressal of his Grievance by the Forum, may make a representation for
+redressal of his Grievance to the Electricity Ombudsman within sixty (60) days from the date of the order of the Forum.
+Provided that the Electricity Ombudsman may entertain a representation after the expiry of the said period of sixty (60)
+days if he is satisfied that there was sufficient cause for not filing it within the said period.
+17.3
+The representation to be made before the Electricity Ombudsman shall be in writing in the form specified and set out in
+Schedule B of these Regulations and duly signed by the consumer and shall state/provide clearly the information
+required thereunder including inter alia (i) the name and address of the consumer; (ii) the facts giving rise to the
+representation supported by documents, if any, that are desired to be relied upon by the consumer and (iii) the relief
+sought from the Electricity Ombudsman. The representation may also be lodged by registered post acknowledgement
+due, by speed post or by courier service or by any other means of transmission of documents (including FAX message).
+17.4
+The Electricity Ombudsman shall send an acknowledgement of receipt of the representation to the consumer bearing a
+serial number and date within five (5) working days from the date of receipt of a representation. Where the
+representation has been submitted in person, the acknowledgement shall be provided at the time of submission.
+Provided that where the representation is submitted by email to the Electricity Ombudsman acknowledgement of the
+receipt of the Grievance to the consumer shall be by return email as promptly as possible.
+Page 12/20
+----- PAGE 13 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+Provided further that the Electricity Ombudsman shall keep such electronic records in hard form for ease of retrieval.
+Provided further that where the representation is submitted by email hard copies of the same shall be submitted
+forthwith separately to the Electricity Ombudsman.
+17.5
+The fees as may be directed by the Commission, from time to time, shall be payable along with such representation for
+redressal of Grievance.
+17.6
+The Electricity Ombudsman shall notify the Distribution Licensee and the applicant who has submitted the
+representation, the date of hearing in writing, giving sufficient advance notice.
+Provided that representations filed by applicants who are senior citizens, physically challenged, widows and persons
+suffering from serious ailments shall be listed and disposed of on a priority basis.
+17.7
+Subject to Regulations 17.11, 17.12 and 17.13, where any person who is a party to the proceedings before the
+Electricity Ombudsman fails to appear on the date of hearing as may be fixed in this behalf, the Electricity Ombudsman
+may decide the representation ex-parte.
+Provided that no adjournment shall be ordinarily granted by the Electricity Ombudsman unless sufficient cause is shown
+and the reasons for the grant of adjournment have been recorded in writing by the Electricity Ombudsman.
+17.8
+A consumer, Distribution Licensee or any other person who is a party to any proceedings before the Electricity
+Ombudsman may either appear in person or authorise any person other than an Advocate (within the meaning of the
+Advocates Act, 1961) to present his case before the Electricity Ombudsman and to do all or any of the acts for the
+purpose.
+17.9
+The Electricity Ombudsman shall not entertain a representation:
+(a)
+unless the consumer has submitted a written representation in the specified form, to the Electricity Ombudsman;
+(b)
+unless it has been shown to the Electricity Ombudsman that (i) the Forum has rejected the Grievance, or (ii) the Forum
+has not passed an order on the Grievance for its redressal within a maximum period of two (2) months from the date of
+receipt of the Grievance by the Forum, or (iii) there has been undue delay in the disposal of the Grievance by the Forum
+even after the period stated above;
+(c)
+unless the representation against an order of the Forum was made within the period set out in these Regulations;
+(d)
+unless the Electricity Ombudsman is satisfied that the representation is not in respect of the same subject matter that
+has been settled by him in any previous proceedings;
+(e)
+where the representation by the consumer, in respect of the same Grievance, is pending in any proceedings before any
+court, tribunal or arbitrator or any other authority, or a decree or award or a final order has already been passed by any
+such court, tribunal, arbitrator or authority;
+(f)
+unless the consumer has deposited in the stipulated manner, fifty percent of the amount, if any, that is required to be
+paid by him in terms of the order of the Forum or twenty-five thousand rupees whichever is less; and
+(g)
+unless the person who claims compensation from the Distribution Licensee has paid such fees as may be stipulated by
+the Commission from time to time.
+17.10
+The Electricity Ombudsman may reject the representation at any stage if it appears to him that the representation is:
+(a)
+frivolous, vexatious, mala fide;
+(b)
+Page 13/20
+----- PAGE 14 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+without any sufficient cause;
+(c)
+there is no prima facie loss or damage or inconvenience caused to the consumer; or
+(d)
+complicated in nature such that the representation requires consideration of elaborate documentary and oral evidence
+and the proceedings before the Electricity Ombudsman are not appropriate for adjudication of such representations.
+Provided that the decision of the Electricity Ombudsman in this regard shall be final and binding on the consumer and
+the Distribution Licensee.
+Provided further that no representation shall be rejected in respect of subclauses (a), (b), (c) and (d) unless the applicant
+has been given an opportunity of being heard.
+17.11
+(a)
+The Electricity Ombudsman may, in the first instance, endeavour to promote a settlement of the representation received
+through conciliation or mediation.
+(b)
+If a representation is not settled by agreement the Electricity Ombudsman may give an order after affording the parties
+reasonable opportunity to present their case.
+Provided that the Electricity Ombudsman shall determine the place, date and time of hearing of the matter, as the
+Electricity Ombudsman considers appropriate.
+17.12
+When a representation is settled, through conciliation or mediation of the Electricity Ombudsman, the Electricity
+Ombudsman shall have the settlement recorded and signed in his presence and cause issuance of orders on the
+settlement of the Grievance by mutual agreement.
+17.13
+The Electricity Ombudsman shall complete the enquiry as expeditiously as possible and every endeavour shall be made
+to decide the representation within a period of two (2) months from the date of receipt of the representation by the
+Electricity Ombudsman.
+Provided that in the event of the representation being disposed of after the completion of the said period of two (2)
+months, the Electricity Ombudsman shall record, in writing, the reasons for the same.
+17.14
+The Electricity Ombudsman shall be guided by such factors which in the opinion of the Electricity Ombudsman are
+necessary in the interest of justice and shall ensure transparency while exercising its powers and discharging its
+functions in compliance with the principles of natural justice .
+Provided that the Electricity Ombudsman shall not be bound by the Code of Civil Procedure, 1908 (5 of 1908) or the
+Indian Evidence Act, 1872 (1 of 1872) as in force from time to time.
+17.15
+The order passed by the Electricity Ombudsman shall set out -
+(a)
+issue-wise decision;
+(b)
+reasons for passing the order; and
+(c)
+directions, if any, to the Distribution Licensee or consumer or any other order, deemed appropriate in the facts and
+circumstances of the case; and/or
+(d)
+directions for adjustment or refund of amount or fees deposited in terms of Regulations 17.9(f) and 17.9(g); and/or
+(e)
+directions to pay such amount as may be awarded by it as compensation to the consumer for any loss or damage
+suffered by the consumer; and/or Provided, however, that in no case shall any consumer be entitled to indirect,
+consequential, incidental, punitive, or exemplary damages, loss of profits or opportunity.
+(f)
+Page 14/20
+----- PAGE 15 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+directions to pay such amount as compensation as specified by the Commission in the standards of performance of
+Distribution Licensees.
+17.16
+Notwithstanding the provisions of Regulation 17.15, the Electricity Ombudsman may pass such interim orders, at any
+stage during the disposal of the representation, on the request of the consumer as the Electricity Ombudsman considers
+appropriate pending the final decision on the representation.
+Provided that the Electricity Ombudsman shall have the powers to pass such interim order in any proceeding, hearing or
+matter before it, as it may consider appropriate if the consumer satisfies the Electricity Ombudsman that prima facie the
+Distribution Licensee has threatened or is likely to remove or disconnect the electricity connection, and has or is likely to
+contravene any of the provisions of the Act or any rules and regulations made thereunder or any order of the
+Commission, provided that, the Electricity Ombudsman, has jurisdiction on such matters.
+Provided further that, except where it appears that the object of passing the interim order would be defeated by delay,
+no such interim order shall be passed unless the opposite party has been given an opportunity of being heard.
+17.17
+A copy of the order shall be sent to the consumer and the Distribution Licensee named in the representation. A copy of
+the order may also be sent to the concerned Forum for information.
+17.18
+An order passed or direction issued by the Electricity Ombudsman shall be binding on the parties so named in the order
+or direction and such order or direction shall be implemented or complied with by the Distribution Licensee or the person
+required by the order or direction to do so and within the time frame stipulated therein and further intimation of such
+compliance shall also be made to the Electricity Ombudsman within the time frame stipulated in that regard therein.
+18.
+Power to remand matters to the Forum.
+(a)
+Where the Forum has disposed of the Grievance and the order of the Forum is reversed or set aside in the proceedings
+before the Electricity Ombudsman, the Electricity Ombudsman may, if it thinks fit and necessary, by order remand the
+Grievance to the Forum.
+(b)
+The Electricity Ombudsman may, further direct what issue or issues shall be decided in the Grievance so remanded,
+and shall send a copy of its judgment and order to Forum from whose order the representation has been preferred to
+Electricity Ombudsman, with such directions as may be necessary to consider the Grievance and pass orders
+accordingly.
+19.
+Review of order.
+- 19.1 Any person aggrieved by an order of the Electricity Ombudsman, may, upon the discovery of new and important
+matter or evidence which, after the exercise of due diligence, was not within his knowledge or could not be produced by
+him at the time when the order was passed or on account of some mistake or error apparent from the face of the record,
+may apply for a review of such order, within thirty (30) days of the date of the order, as the case may be, to the
+Electricity Ombudsman.
+19.2
+An application for such review shall clearly state the matter or evidence which, after the exercise of due diligence, was
+not within his knowledge or could not be produced by him at the time when the order was passed or the mistake or error
+apparent from the face of the record. The application shall be accompanied by such documents, supporting data and
+statements as the Electricity Ombudsman may determine.
+19.3
+When it appears to the Electricity Ombudsman that there is no sufficient ground for review, the Electricity Ombudsman
+shall reject such review application.
+Provided that no application shall be rejected unless the applicant has been given an opportunity of being heard.
+19.4
+When the Electricity Ombudsman is of the opinion that the review application should be granted, it shall grant the same
+provided that no such application will be granted without previous notice to the opposite side or party to enable him to
+Page 15/20
+----- PAGE 16 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+appear and to be heard in support of the order, the review of which is applied for.
+20.
+Power to call for Information.
+- 20.1 For the purpose of carrying out its duties and as may be required to decide the representation, the Electricity
+Ombudsman may, within such period as he may decide, require attendance of any person or require the Distribution
+Licensee or any of its officials, representatives or agents including the Forum named in the representation to furnish any
+information or certified copies of any documents, books, data, and details relating to the subject matter of the
+representation, which is or is alleged to be in the knowledge or possession of the Distribution Licensee or any of its
+officials, representatives or agents including the Forum.
+Provided that in the event of failure of a Distribution Licensee to comply with the requisition without any sufficient cause,
+the Electricity Ombudsman may, if deemed fit, proceed to settle the case on the basis of the records available with the
+Electricity Ombudsman.
+20.2
+(a)
+The Electricity Ombudsman may also direct the Distribution Licensee to undertake an inspection.
+(b)
+Notwithstanding sub-clause (1), the Electricity Ombudsman may engage a third party to undertake such inspection, as
+may be required for the expeditious disposal of the representation and redressal of the Grievance.
+Provided that the Electricity Ombudsman shall record the reasons in writing requiring the engagement of third party to
+undertake such inspection.
+(c)
+The expenses of such inspection to be undertaken by third party as referred to in sub-clause (b) shall be borne by the
+Distribution Licensee and to the extent reasonable and justifiable such expenses shall be allowed in the determination of
+tariff in accordance with the relevant regulations of the Commission.
+21.
+Inspection of records and supply of certified copies.
+- 21.1 A certified copy of the order passed by the Electricity Ombudsman shall be delivered to the parties to such order.
+21.2
+Any Person shall be entitled to a copy of the orders of the Electricity Ombudsman or take extracts therefrom, subject to
+payment of a cost, which shall not be more than the cost of photocopying and complying with other terms, which the
+Electricity Ombudsman may direct.
+Provided that an applicant making request for information shall not be required to give any reason for requesting the
+information or any other personal details except those that may be necessary for contacting him.
+21.3
+Notwithstanding anything contained in Regulation 21.2, there shall be no obligation to give to any Person,-
+(a)
+information including commercial confidence, trade secrets or intellectual property, the disclosure of which would harm
+the competitive position of a third party, unless the Electricity Ombudsman is satisfied that larger public interest warrants
+the disclosure of such information; or
+(b)
+information which would impede the process of investigation or apprehension or prosecution of offenders.
+22.
+Punishment for non-compliance of orders.
+- Without prejudice to any penalty which may be imposed or prosecution proceeding which may be initiated under the
+Act, non-compliance of Regulations 8.7 or 17.18
+in any manner whatsoever shall be deemed to be a contravention of the provisions of these Regulations and the
+Commission may initiate proceedings suo motu or on a complaint filed by any person to impose penalty or prosecution
+proceeding under Sections 142 and 149 of the Act.
+23.
+Supply of copies of these Regulations.
+- Upon receiving a request, the Distribution Licensee shall ensure that copies of these Regulations are made available to
+Page 16/20
+----- PAGE 17 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+the consumers on payment of a cost, which shall not be more than the cost of photocopying.
+24.
+Repeal and Savings.
+(a)
+Save as otherwise provided in these Regulations, these regulations supersede the "Maharashtra Electricity Regulatory
+Commission (Consumer Grievance Redressal Forum & Ombudsman) Regulations, 2003".
+(b)
+Notwithstanding sub-clause (1), the provisions of "Maharashtra Electricity Regulatory Commission (Consumer
+Grievance Redressal Forum & Ombudsman) Regulations, 2003" shall continue to apply to all proceedings pending
+under it as if the said regulations have not been superceded.
+(c)
+The provisions of these Regulations shall be without prejudice to the right, which the consumer may have apart from the
+rights conferred upon him by these Regulations.
+25.
+Powers to remove difficulties.
+- If any difficulty arises in giving effect to any of the provisions of these Regulations, the Commission may by general or
+special order, direct the Distribution Licensee, the Forum or the Electricity Ombudsman to take suitable action, not being
+inconsistent with the Act, which appears to the Commission to be necessary or expedient for the purpose of removing
+difficulties.
+26.
+Issue of Order and Practice Directions.
+- Subject to the provisions of the Act, the Commission may from time to time issue orders, circulars and practice
+directions in regard to the implementation of these Regulations.
+27.
+Power to Amend.
+- The Commission may, at any time vary, alter, modify or amend by notification any provision of these Regulations.
+28.
+Submission of Report.
+- 28.1 The Forum(s) and Electricity Ombudsman shall maintain true and correct records of all Grievances received by
+them from time to time and make available such records for inspection by the Commission as the Commission may
+require.
+28.2
+Notwithstanding Regulation 28.1, the Forum(s) and Electricity Ombudsman shall submit to the Commission, in the form
+as may be stipulated by the Commission, six-monthly reports in respect of Grievances filed, redressed and pending,
+within fifteen (15) days of the end of each six-month period.
+28.3
+It shall be the duty of every Distribution Licensee to furnish to the Commission such information relating to the
+composition of the Forums alongwith qualification of members, vacancies arising therein and other statistics as it may
+require and at such times and in such form and manner as may be directed by the Commission.
+Provided that the Distribution Licensee shall forthwith inform the Commission if the post of a member in the Forum is
+vacant for a period exceeding three (3) months.
+29.
+Language of the Forum(s) and Electricity Ombudsman.
+- The filing of the Grievance/representation and the proceedings of the Forum(s) and of the Electricity Ombudsman shall
+be in Marathi or in English.
+30.
+Treatment of Expenses.
+- All reasonable costs incurred by a Distribution Licensee on the establishment and running of the Forum and the
+Electricity Ombudsman, to the extent reasonable and justifiable, shall be allowed in the determination of tariff of the
+Distribution Licensee in accordance with the terms and conditions of tariff specified by the Commission.
+31.
+Page 17/20
+----- PAGE 18 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+Preservation of Records.
+- Unless otherwise directed by the Commission, the office of Forum and Ombudsman shall preserve the records of the
+Grievances/representations including interim/final orders for a period of atleast three (3) years from the date of passing
+of the final order.
+"A"
+Application to Forum for Redressal of Grievance
+Date ..............
+1. Name of the Consumer ...........................
+2. Full Address of the Consumer ...............................
+Pin Code .........................
+Phone No. .......................
+Fax No. ............................
+E-mail ID ..........................
+3. Particulars of Connection and Consumer No.
+(Please state nature of connection)    ............................................................
+4. Distribution Licensee .........................................
+5. Details of the Grievance, Facts giving rise to the Grievance    (If space is not sufficient please enclose separate sheet)
+   ............................................................    ............................................................    ............................................................
+6. Date of Original Intimation of Grievance by the Consumer to the Distribution Licensee (Internal Grievance Redressal
+Cell)
+7. Remedy provided by the Distribution Licensee, if Any (If remedy has been provided, please enclose relevant
+communication from the Distribution Licensee)
+8. Nature of Relief Sought from the Forum    ...............................................................    (Please enclose any proof to
+support claim, if any)
+9. List of Documents Enclosed    (Please enclose copies of any relevant documents which support the facts giving rise
+to the Grievance)
+10. Declaration
+(a)
+I/We the consumer/s herein declare that:
+(i)
+the information furnished herein above is true and correct; and
+(ii)
+I/We have not concealed or misrepresented any fact stated hereinabove and the documents submitted herewith.
+(b)
+The present Grievance has been intimated to the Distribution Licensee in the form and manner and within the time
+frame prescribed by the Distribution Licensee and I/We am/are not satisfied by the remedy provided by the Distribution
+Licensee or no remedy was provided within a period of two (2) months from the date of original intimation.
+(c)
+The subject matter of the present Grievance has never been submitted to the Forum by me/or by any one of us or by
+any of the parties concerned with the subject matter to the best of my/our knowledge.
+(d)
+The subject matter of my/our Grievance has not been settled through the Forum in any previous proceedings.
+(e)
+The subject matter of my/our Grievance has not been decided by any competent authority/court/arbitrator, and is not
+pending before any such authority/court/arbitrator.
+Yours faithfully
+(Signature)
+(Consumer's name in block letter)
+Nomination - (If the consumer wants to nominate his representative to appear and make submissions on his behalf
+before the Forum, the following declaration should be submitted.)
+I/We the above named consumer hereby nominate Shri/Smt. ........................................, who is not an Advocate and
+Page 18/20
+----- PAGE 19 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+whose address is ................................................................................................ as my/our Representative in the
+proceedings and confirm that any statement, acceptance or rejection made by him/her shall be binding on me/us.
+He/She has signed below in my presence.
+Accepted
+(Signature of Representative)
+(Signature of Consumer)
+"B"
+Representation Before Electricity Ombudsman
+No. ................................ of year .........................
+Date .............................
+(To be Filled up by Office)
+To
+The Electricity Ombudsman
+(Address)
+Dear Sir,
+Sub : Please make a mention of the order of the Forum from which a representation to the Electricity Ombudsman is
+being made
+Details of the Grievance are as under :
+1. Name of the Consumer .................................
+2. Full Address of the Consumer ..................................
+Pin Code ........................
+Phone No. ......................
+Fax No. ..........................
+E-mail ID ........................
+3. Name and Full Address of the Distribution Licensee, Pin Code, Phone No./Fax No. ............................
+4. Name and Full Address of the Forum, Pin Code, Phone No./Fax No. ............................
+5. Particulars of Connection and Consumer No.    (Please state nature of connection)    ...................................................
+6. Date of Submission of Grievance by the Consumer to the Forum     .........................................................    (Please
+enclose three copies of the Grievance)
+7. Subject Matter of the Representation .............................................
+8. Details of the Representation, Facts giving rise to the Representation    (If space is not sufficient please enclose
+separate sheet)    ..............................................................    ..............................................................   
+..............................................................    ..............................................................
+9. Whether the consumer has received the final decision of the Forum ?    (If yes, please enclose 'three copies' of the
+Forum's order conveying its final decision)
+10. Nature Of Relief Sought From the Electricity Ombudsman ..............................................      (Please enclose 'three
+copies' of documentary proof, if any, in support of your claim)
+11. Nature and Extent of Monetary Loss, if any, claimed by the Consumer (if any) by way of Compensation Rs.
+.......................................................      (Please enclose documentary proof, if any, to show that such loss is actual loss
+caused as a direct consequence of alleged act, omission or commission of the Distribution Licensee)
+12. List of Documents Enclosed      (Please enclose 'three copies' of all the documents which support the facts giving
+rise to the Representation)
+13. Declaration
+(a)
+I/We, the consumer/s herein declare that:
+(i)
+the information furnished herein above is true and correct; and
+(ii)
+I/We have not concealed or misrepresented any fact stated in hereinabove and the documents submitted herewith.
+(b)
+The subject matter of my/our representation has never been brought before the Office of the Electricity Ombudsman by
+Page 19/20
+----- PAGE 20 -----
+The Maharashtra Electricity Regulatory Commission (Consumer Grievance Redressal Forum & El...
+me/or by any one of us or by any of the parties concerned with the subject matter to the best of my/our knowledge.
+(c)
+The subject matter of my/our representation has not been settled through the Office of the Electricity Ombudsman in any
+previous proceedings.
+(d)
+The subject matter of the present representation has not been decided by any competent authority/court/arbitrator, and
+is not pending before any such authority/court/arbitrator.
+Yours faithfully
+(Signature)
+(Consumer's name in block letter)
+Nomination. - (If the consumer wants to nominate his representative to appear and make submissions on his behalf
+before the Electricity Ombudsman or to the Office of the Electricity Ombudsman, the following declaration should be
+submitted.)
+I/We the above named consumer hereby nominate Shri/Smt. ................................... who is not an Advocate and whose
+address is ............................................. as my/our Representative in the proceedings and confirm that any statement,
+acceptance or rejection made by him/her shall be binding on me/us. He/She has signed below in my presence.
+Accepted
+(Signature of Representative)
+(Signature of Consumer)
+Related AI tags, queries and research notes
+Translation
+Page 20/20

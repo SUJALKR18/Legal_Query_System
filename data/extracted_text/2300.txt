@@ -1,0 +1,691 @@
+
+----- PAGE 1 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+Energy Conservation (The Form and Manner For Submission of
+Report on the Status of Energy Consumption by the Designated
+Consumers) Rules, 2007
+Source: https://indiankanoon.org/doc/185390250/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy Consumption by the
+Designated Consumers) Rules, 2007
+UNION OF INDIA
+India
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy Consumption by the
+Designated Consumers) Rules, 2007
+Rule
+ENERGY-CONSERVATION-THE-FORM-AND-MANNER-FOR-SUBMISSION-OF-REPORT-ON-THE-STATUS-OF-ENE
+RGY-CONSUMPTION-BY-THE-DESIGNATED-CONSUMERS-RULES-2007 of 2007
+Published on 2 March 2007
+Commenced on 2 March 2007
+[This is the version of this document from 2 March 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy Consumption by the
+Designated Consumers) Rules, 2007
+Published vide Notification G.S.R. 174(E), dated 2.3.2007, published vide Notification Gazette of India, Extra, Part 2,
+Page 1/13
+----- PAGE 2 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+Section 3(i), dated 5.3.2007
+Last Updated 23rd April, 2019 [10/526]
+G.S.R. 174(E). - In exercise of the powers conferred by clause (i) of sub-section (2) of section 56 of the Energy
+Conservation Act, 2001 (
+52 of 2001
+), the Central Government, in consultation with the Bureau of Energy Efficiency, hereby makes the following rules,
+namely:--
+1.
+Short title and commencement.
+(1)
+These rules may be called the Energy Conservation (the Form and Manner for Submission of Report On the Status of
+Energy Consumption by the Designated Consumers) Rules, 2007.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Energy Conservation Act, 2001 (
+52 of 2001
+);
+(b)
+"Financial Year" means the year beginning on the 1st day of April and ending on the 31st March following.
+(c)
+[ "Sector Specific Pro-forma" means the supporting pro-forma for the sectors specified in section F of Form I applicable
+to a designated consumer.]
+[Inserted by Notification No. G.S.R. 891(E), dated 19.11.2015 (w.e.f. 5.3.2007).]
+(2)
+Words and expression used herein but not defined shall have the meanings respectively assigned to them in the Act.
+3.
+Submission of Report on the status of energy consumption by Designated Consumer.
+- [(1) Every designated consumer shall furnish in electronic form to the concerned state designated agency, a report on
+the status of energy consumption for the financial year ending on the 31st March of every calendar year on or before the
+30th June of the said calendar year in Form I.
+(2)
+The details of data furnished in Form I shall be drawn from the Sector Specific Pro-forma, applicable to a designated
+consumer and the applicable Sector Specific Pro-forma, duly filled in, shall be annexed to Form I.]
+[Substituted by Notification No. G.S.R. 891(E), dated 19.11.2015 (w.e.f. 5.3.2007).]
+(3)
+[ The Bureau may prescribe different forms for different sectors having regard to the different parameters required from
+the designated consumers of such sectors keeping in view their characteristics or features for seeking report on the
+status of energy consumption from the said designated consumers of such sectors.]
+[Inserted by Notification No. G.S.R. 311(E), dated 18.4.2019 (w.e.f. 5.3.2007).]
+4.
+Authentication of data.
+- Every designated consumer shall ensure that all the data furnished under rule 3 are duly authenticated by the energy
+manager appointed or designated by the designated consumer, the Chief Executive or his nominee authorised for the
+purpose before it is sent to the designated agency under rule 3 of these rules.
+5.
+[ Supply of data to the Bureau.
+Page 2/13
+----- PAGE 3 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+[Substituted by Notification No. G.S.R. 891(E), dated 19.11.2015 (w.e.f. 5.3.2007).]
+(1)
+Every designated consumer shall furnish the data in electronic form referred to in sub-rule (1) and sub-rule (2) of rule 3,
+duly authenticated, in the manner prescribed in rule 4 of these rules, to the Bureau of Energy Efficiency.]
+[Form]
+[Substituted by Notification No. G.S.R. 311(E), dated 18.4.2019 (w.e.f. 5.3.2007).]
+[Seerule 3]
+Details of information regarding total energy
+consumed and specific energy consumption per unit of production
+Section-A (General Information Details)
+Sr. No.
+General Details
+Description
+1
+Name of the Unit
+2
+(i) Year of Establishment
+(ii) Registration No. (As provided by BEE)
+3
+Sector and Sub-Sector in which the Designated
+Consumer falls
+Sector
+Sub-Sector
+4. (i)
+Complete address of DCs Unit location (including
+Chief Executive's name & designation) with mobile, telephone,
+fax number and e-mail.
+(ii)
+Registered Office address with telephone, fax
+number and e-mail.
+(iii)
+Energy Manager's Name, designation,
+Registration No., Address, Mobile, Telephone, Fax number and
+e-mail.
+Section - B (Production and Energy
+Consumption Details)
+5.1
+Aluminium, Cement, Chlor Alkali, Iron and Steel,
+Fertilizer, Pulp and Paper, Textile, and Petro-Chemical sectors
+notified as designated consumers
+(a)
+Production details
+Name of Products
+Unit
+Previous Year
+Current Year
+(1)
+(2)
+(3)
+(i)
+Product 1
+Page 3/13
+----- PAGE 4 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+Tonne
+(ii)
+Product 2
+Tonne
+(iii)
+Product 3
+Tonne
+(iv)
+Product (Please add extra rows in case of
+additional products)
+Tonne
+(v)
+Total Equivalent Product
+Tonne
+(b)
+Energy Consumption Details
+(i)
+Total Electricity Purchased from Grid or Other
+Source
+Million Kilowatt Hours
+(ii)
+Total Electricity Generated
+Million Kilowatt Hours
+(iii)
+Total Electricity Exported
+Million Kilowatt Hours
+(iv)
+Total Electrical Energy Consumption
+Million Kilowatt Hours
+(v)
+Total Solid Fuel Consumption
+Million Kilocalorie
+(vi)
+Total Liquid Fuel Consumption
+Million Kilocalorie
+(vii)
+Total Gaseous Fuel Consumption
+Million Kilocalorie
+(viii)
+Total Thermal Energy Consumption
+Million Kilocalorie
+(ix)
+Total Energy Consumption (Thermal plus
+Electrical)
+Tonne of Oil Equivalent (TOE)
+(x)
+Total Normalized Energy Consumption (Thermal
+plus Electrical)
+Tonne of Oil Equivalent(TOE)
+(c)
+Specific Energy Consumption Details
+Page 4/13
+----- PAGE 5 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+(i)
+Specific Energy Consumption (Without
+Normalization)
+Tonne of Oil Equivalent (TOE)per Tonne
+(ii)
+Specific Energy Consumption (Normalized)
+Tonne of Oil Equivalent (TOE)per Tonne
+5.2
+Thermal Power Stations (Coal or Oil or Gas or
+others) notified as designated consumer
+(i)
+Total Capacity
+Megawatt
+(ii)
+Unit Configuration
+No. of units with their capacity
+(iii)
+Annual Gross Generation
+Million Kilowatt Hours
+(iv)
+Annual Plant Load Factor
+Percentage
+(v)
+Station Gross Design Heat Rate
+Kilocalorie per Kilowatt Hour
+(vi)
+Station Gross Operative Heat Rate
+Kilocalorie per Kilowatt Hour
+(vii)
+Auxiliary Power Consumption
+Percentage
+(viii)
+Operative Net Heat Rate
+Kilocalorie per Kilowatt Hour
+(ix)
+Operative Net Heat Rate (Normalised)
+Kilocalorie per Kilowatt Hour
+5.3
+Petroleum Refinery notified as designated
+consumer
+(a)
+Crude Oil Processed Details
+(i)
+Throughput (Total Crude Oil Processed)
+Thousand Barrels (Mbbls)
+(ii)
+NRGF (Without Normalisation)
+(iii)
+NRGF(Normalised)
+(b)
+Energy Consumption Details
+Page 5/13
+----- PAGE 6 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+(i)
+Total Electricity Purchased from Grid/Other
+Source
+Million Kilowatt Hours
+(ii)
+Total Electricity Generated
+Million Kilowatt Hours
+(iii)
+Total Electricity Exported
+Million Kilowatt Hours
+(iv)
+Total Electricity Consumed in the Plant
+Million Kilowatt Hours
+(v)
+Total Electrical Energy Consumption
+Standard Refinery Fuel Tonnes
+(vi)
+Total Solid Fuel Consumption
+Standard Refinery Fuel Tonnes
+(vii)
+Total Liquid Fuel Consumption
+Standard Refinery Fuel Tonnes
+(viii)
+Total Gaseous Fuel Consumption
+Standard Refinery Fuel Tonnes
+(ix)
+Total Thermal Energy Consumption
+Standard Refinery Fuel Tonnes
+(x)
+Total Steam Exported or Consumed for
+Non-refinery operations
+Standard Refinery Fuel Tonnes
+(xi)
+Total Energy Consumption (Thermal plus
+Electrical)
+Million British Thermal Units
+(xii)
+Total Normalised Energy Consumption (Thermal
+plus Electrical)
+Million British Thermal Units
+(c)
+Specific Energy Consumption Details
+(i)
+Specific Energy Consumption (Without
+Normalisation)
+Million British Thermal Units per Thousand
+Barrels per Energy Factor (MBN)
+(ii)
+Specific Energy Consumption (Normalised)
+Million British Thermal Units per Thousand
+Barrels per Energy Factor (MBN)
+Page 6/13
+----- PAGE 7 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+5.4
+Electricity Distribution Companies notified
+as designated consumer
+(a)
+Energy Input Details
+(i)
+Input energy purchase
+Million Kilowatt Hours
+(ii)
+Net input energy (at DISCOM Periphery after
+adjusting the transmission losses and energy traded)
+Million Kilowatt Hours
+(iii)
+Total Energy billed (is the Net energy billed,
+adjusted for energy traded)
+Million Kilowatt Hours
+(b)
+Transmission and Distributionloss Details
+Million Kilowatt Hours
+Percentage
+5.5
+Railways units notified as designated
+consumer
+5.5.1
+Zonal Units Notified as designated consumers
+(a)
+Gross Tonne Kilometrage
+(i)
+Gross Tonne Kilometrage (For Diesel- Passenger)
+Gross Tonnage Kilometre
+(ii)
+Gross Tonne Kilometrage (For Diesel-Goods)
+Gross Tonnage Kilometre
+(iii)
+Gross Tonne Kilometrage (For Electrical-
+Passenger)
+Gross Tonnage Kilometre
+(iv)
+Gross Tonne Kilometrage (For Electrical- Goods)
+Gross Tonnage Kilometre
+(b)
+Energy Consumption Details
+(i)
+Diesel Consumption for Gross Tonne Kilometrage
+(for Passenger)
+Kilolitre
+(ii)
+Diesel Consumption for Gross Tonne Kilometrage
+(for Goods)
+Kilolitre
+(iii)
+Page 7/13
+----- PAGE 8 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+Electricity Consumption for Gross Tonne
+Kilometrage (for Passenger)
+Million Kilowatt Hours
+(iv)
+Electricity Consumption for Gross Tonne
+Kilometrage (for Goods)
+Million Kilowatt Hours
+(c)
+Specific Energy Consumption Details
+(i)
+Specific Energy Consumption of Diesel for
+Passenger (Without Normalisation)
+Litre per 1000 Gross Tonnage Kilometre
+(ii)
+Specific Energy Consumption of Diesel for Goods
+(Without Normalisation)
+Litre per 1000 Gross Tonnage Kilometre
+(iii)
+Specific Energy Consumption of Electrical for
+Passenger (Without Normalisation)
+Kilowatt Hour per 1000 Gross Tonnage Kilometre
+(iv)
+Specific Energy Consumption of Electrical for
+Goods (Without Normalisation)
+Kilowatt Hour per 1000 Gross Tonnage Kilometre
+(v)
+Specific Energy Consumption of Diesel for
+Passenger (With Normalisation)
+Litre per 1000 Gross Tonnage Kilometre
+(vi)
+Specific Energy Consumption of Diesel for Goods
+(With Normalisation)
+Litre per 1000 Gross Tonnage Kilometre
+(vii)
+Specific Energy Consumption of Electrical for
+Passenger (With Normalisation)
+Kilowatt Hour per 1000 Gross Tonnage Kilometre
+(viii)
+Specific Energy Consumption of Electrical for
+Goods (With Normalisation)
+Kilowatt Hour per 1000 Gross Tonnage Kilometre
+5.5.2
+Railway Production Units Notified as
+designated consumer
+(a)
+Production Details
+(i)
+Total Major Production
+No of units
+(ii)
+Total Minor Production
+Page 8/13
+----- PAGE 9 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+No of units
+(iii)
+Total Other Product-1
+No of units
+(iv)
+Total Other Product-2
+No of units
+(v)
+Total Other Product-3
+No of units
+(vi)
+Product (Please add extra rows in case of
+additional products)
+No of units
+(vii)
+Total Equivalent Product
+No of Equated Units
+(b)
+Energy Consumption Details
+(i)
+Total Electricity Purchased from Grid or Other
+Source
+Million Kilowatt Hours
+(ii)
+Total Electricity Generated
+Million Kilowatt Hours
+(iii)
+Total Electricity Exported
+Million Kilowatt Hours
+(iv)
+Total Electrical Energy Consumption
+Million Kilowatt Hours
+(v)
+Total Solid Fuel Consumption
+Million Kilocalorie
+(vi)
+Total Liquid Fuel Consumption
+Million Kilocalorie
+(vii)
+Total Gaseous Fuel Consumption
+Million Kilocalorie
+(viii)
+Total Thermal Energy Consumption
+Million Kilocalorie
+(ix)
+Total Energy Consumption (Thermal plus
+Electrical)
+Tonne of Oil Equivalent
+(x)
+Total Normalised Energy Consumption (Thermal
+plus Electrical)
+Page 9/13
+----- PAGE 10 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+Tonne of Oil Equivalent
+(c)
+Specific Energy Consumption Details
+(i)
+Specific Energy Consumption (Without
+Normalisation)
+Kilogram of Oil Equivalent per Equivalent Unit
+(ii)
+Specific Energy Consumption (Normalised)
+Kilogram of Oil Equivalent per Equivalent Unit
+5.6
+Commercial Building or establishments -
+Hotels notified as designated consumer
+(a)
+Building Area
+(i)
+Total Built up area
+m2
+(ii)
+Air-conditioned area
+m2
+(iii)
+Non-Airconditioned area
+m2
+(iv)
+Gross Floor area
+m2
+(v)
+Public area
+m2
+(vi)
+Service area
+m2
+(vii)
+Covered Parking Area
+m2
+(b)
+Energy Consumption Details
+(i)
+Total Electricity Purchased from Grid or Other
+Source
+Kilowatt Hour
+(ii)
+Total Electricity Generated
+Kilowatt Hour
+(iii)
+Total Electrical Energy Consumption
+Kilowatt Hour
+(iv)
+Total Solid Fuel Consumption
+Million Kilocalorie
+Page 10/13
+----- PAGE 11 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+(v)
+Total Liquid Fuel Consumption
+Million Kilocalorie
+(vi)
+Total Gaseous Fuel Consumption
+Million Kilocalorie
+(vii)
+Total Thermal Energy Consumption
+Million Kilocalorie
+(viii)
+Total Normalised Energy Consumption (Thermal
+plus Electrical)
+Tonne of Oil Equivalent
+(c)
+Specific Energy Consumption Details
+(i)
+Specific Energy Consumption (Without
+Normalisation)
+Tonne of Oil Equivalent per 1000 m2 per year
+(ii)
+Specific Energy Consumption (Normalised)
+Tonne of Oil Equivalent per 1000 m2 per year
+Section - C (Sector-wise as well as
+sub-sector wise pro-forma details)
+6.
+Name of the Sector
+Sub-Sector
+Pro-forma in which the details to be furnished
+(i)
+Aluminium
+Refinery or Smelter
+Sa1
+Cold Rolling Sheet
+Sa2
+(ii)
+Cement
+Cement
+Sb
+(iii)
+Chlor-Alkali
+Chlor-Alkali
+Sc
+(iv)
+Fertilizer
+Fertilizer
+Sd
+(v)
+Iron and Steel
+Integrated Steel
+Se1
+Sponge Iron
+Page 11/13
+----- PAGE 12 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+Se2
+(vi)
+Pulp and Paper
+Pulp and Paper
+Sf
+(vii)
+Textile
+Composite
+Sg1
+Fiber
+Sg2
+Spinning
+Sg3
+Processing
+Sg4
+(viii)
+Thermal Power Plant
+Thermal Power Plant
+(Coal or Oil or Gas)
+Sh
+(ix)
+Petroleum Refinery
+Petroleum Refinery
+Si
+(x)
+Electricity Distribution
+Companies Discoms
+Sj
+(xi)
+Railways
+Zonal Railways
+Sk1
+Production
+Sk2
+(xii)
+Commercial Building
+Hotels
+Sl
+Note: All Sector Specific Pro-forma, details of which are given above, are available on the Bureau of Energy Efficiency's
+official website.
+I/we undertake that the information supplied in this Form and Sector Specific Pro-forma is accurate to the best of my
+knowledge and the data furnished in this Form has been adhered to the data given in the concerned Sector Specific
+Pro-forma.
+Signature
+(       )
+Name of the Energy Manager
+Registration number
+Authorised Signatory and seal
+Name:
+Designation:
+Name of the Designated Consumers:
+Page 12/13
+----- PAGE 13 -----
+Energy Conservation (The Form and Manner For Submission of Report on the Status of Energy ...
+Address:
+ANNEXURE 1
+Name Of Sectors
+Aluminium, cement, chemicals, chlor-alkali, fertilisers, gas crackers, iron and steel, naphtha crackers, pulp and paper,
+petrochemicals, petroleum refineries, sugar, textile.
+ANNEXURE 2
+Nomenclature
+HSD
+High Speed Diesel
+LDO
+Light Diesel Oil
+LSHS
+LowSulphurHeavy Stock
+LSFO
+LowSulphurFurnace Oil
+C
+Coal
+B
+Biomass
+E
+Electricity
+C/I
+Coal Imported
+C/F
+Indian Coal grade F
+NG
+Natural Gas
+PNG
+Piped Natural Gas
+CNG
+Compressed Natural Gas
+FO
+Furnace Oil
+LPG
+Liquefied Petroleum Gas
+SCM
+Standard Cubic Metre
+(15°C and 1.01325 bar)
+KL
+Kilo Litre
+Million
+Ten (10) lakh
+Related AI tags, queries and research notes
+Translation
+Page 13/13

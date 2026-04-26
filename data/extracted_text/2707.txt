@@ -1,0 +1,1460 @@
+
+----- PAGE 1 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing
+Corporations) Regulations, 2012
+Source: https://indiankanoon.org/doc/185775643/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012
+UNION OF INDIA
+India
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012
+Rule
+THE-SECURITIES-CONTRACTS-REGULATION-STOCK-EXCHANGES-AND-CLEARING-CORPORATIONS-REGULA
+TIONS-2012 of 2012
+Published on 20 June 2012
+Commenced on 20 June 2012
+[This is the version of this document from 20 June 2012.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012
+Published vide Notification No. LAD-NRO/GN/2012-13/07/13546, dated 20.6.2012
+Securities and Exchange Board of India
+No. LAD-NRO/GN/2012-13/07/13546. - In exercise of the powers conferred by sections 4, 8A and 31 of the Securities
+Contracts (Regulation) Act, 1956, read with sections 11 and 30 of the Securities and Exchange Board of India Act, 1992,
+the Securities and Exchange Board of India hereby makes the following regulations to regulate recognition, ownership
+and governance in stock exchanges and clearing corporations and matters connected therewith or incidental thereto,
+Page 1/28
+----- PAGE 2 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+namely:-
+Chapter I
+Preliminary
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations)
+Regulations, 2012.
+(2)
+They shall come into force on the date of their notification in the Gazette of India.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires, the terms defined herein shall bear the meanings assigned
+to them below, and their cognate expressions shall be construed accordingly,-
+(a)
+"Act" means the Securities Contracts (Regulation) Act, 1956 (
+42 of 1956
+);
+(b)
+"associate" in relation to a person shall include another person:
+(i)
+who, directly or indirectly, by himself, or in combination with other persons, exercises control over the first person;
+(ii)
+who holds [more than]
+[Inserted by Notification No. SEBI/LAD/NRO/GN/2015-16/029, dated 11.1.2016 (w.e.f. 20.6.2012).]
+fifteen per cent. [***]
+[Omitted 'or more' by Notification No. SEBI/LAD/NRO/GN/2015-16/029, dated 11.1.2016 (w.e.f. 20.6.2012).]
+shares in the paid up equity capital of the first person;
+(iii)
+[***]
+[Omitted by Notification No. SEBI/LAD/NRO/GN/2015-16/029, dated 11.1.2016 (w.e.f. 20.6.2012).]
+(iv)
+who is a holding company or a subsidiary company of the first person [***]
+[Omitted 'or a company under the same management as of the first person' by Notification No.
+SEBI/LAD/NRO/GN/2015-16/029, dated 11.1.2016 (w.e.f. 20.6.2012).]
+;
+(v)
+who is a relative of the first person;
+(vi)
+who is a member of a Hindu Undivided Family wherein the first person is also a member;
+(vii)
+[ such other cases where the Board is of the view that a person shall be considered as an associate based on the facts
+and factors including the extent of control, independence, conflict of interest;]
+[Inserted by Notification No. SEBI/LAD/NRO/GN/2015-16/029, dated 11.1.2016 (w.e.f. 20.6.2012).]
+(c)
+"Board" means the Securities and Exchange Board of India established under the provisions of section 3 of the
+Securities and Exchange Board of India Act, 1992 (
+15 of 1992
+);
+(d)
+Page 2/28
+----- PAGE 3 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+"clearing corporation" means an entity that is established to undertake the activity of clearing and settlement of trades in
+securities or other instruments or products that are dealt with or traded on a recognized stock exchange and includes a
+clearing house;
+(e)
+[ "clearing member" shall mean a clearing member as defined in clause (ae) of sub-regulation (1) of Regulation 2 of the
+Securities and Exchange Board of India (Stock Brokers and Sub-Brokers) Regulations, 1992;]
+[Substituted by Notification No. SEBI/LAD-NRO/GN/2015-16/016, dated 8.9.2015 (w.e.f. 20.6.2012).]
+(f)
+"company" shall mean a company as defined in section 3 of the Companies Act, 1956 (1 of 1956);
+(fa)
+[ [***]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2015-16/016, dated 8.9.2015 (w.e.f. 20.6.2012).]
+]
+(g)
+"control" shall have the same meaning as assigned to it under clause (e) of sub-regulation (1) of regulation 2 of the
+Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 or any
+modification thereof;
+(h)
+"governing board" means the board of directors of a recognised stock exchange or a recognised clearing corporation;
+(i)
+"key management personnel" means a person serving as head of any department or in such senior executive position
+that stands higher in hierarchy to the head(s) of department(s) in the recognised stock exchange or the recognised
+clearing corporation or in any other position as declared so by such stock exchange or clearing corporation;
+(ia)
+[ [***]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2015-16/016, dated 8.9.2015 (w.e.f. 20.6.2012).]
+]
+(j)
+[ "netting" means the determination by Clearing Corporation of net payment or delivery obligations of the clearing
+members of a recognised clearing corporation by setting off or adjustment of the inter se obligations or claims arising out
+of buying and selling of securities including the claims and obligations arising out of the termination by the Clearing
+Corporation or Stock Exchange, in such circumstances as the Clearing Corporation may specify in bye-laws, of the
+transactions admitted for settlement at a future date, so that only a net claim be demanded, or a net obligation be owed.]
+[Substituted by Notification No. LAD-NRO/GN/2013-2014/21/6463, dated 2.9.2013 (w.e.f. 20.6.2012).]
+(k)
+"novation" means the act of a clearing corporation interposing itself between both parties of every trade, being the legal
+counterparty to both;
+(l)
+"persons acting in concert" in the context of acquisition or holding of shares or voting rights or control shall mutatis
+mutandis have the same meaning as assigned to it in clause (q) of sub-regulation (1) of regulation 2 of the Securities
+and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 or any modification
+thereof;
+(m)
+"public" includes any member or section of the public but does not include any trading member or clearing member or
+their associates and agents:
+Provided that a public sector bank, public financial institution, an insurance company, mutual fund and alternative
+investment fund in public sector, that has associate(s) as trading members or clearing members, shall be deemed as
+public for the purposes of these regulations;
+(n)
+"public interest director" means an independent director, representing the interests of investors in securities market and
+who is not having any association, directly or indirectly, which in the opinion of the Board, is in conflict with his role;
+Page 3/28
+----- PAGE 4 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+(o)
+"recognised clearing corporation" means a clearing corporation which is recognised by the Board under section 4 read
+with section 8A of the Act;
+(oa)
+[ [***]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2015-16/016, dated 8.9.2015 (w.e.f. 20.6.2012).]
+]
+(p)
+"regulatory department" means a department of a recognised stock exchange or a recognised clearing corporation
+which is entrusted with regulatory powers and duties and includes such department as may be specified by the Board;
+(q)
+"rules" means the Securities Contracts (Regulations) Rules, 1957;
+(r)
+"shareholder director" means a director who represents the interest of shareholders, and elected or nominated by such
+shareholders who are not trading members or clearing members, as the case may be, or their associates and agents;
+(s)
+"trading member" means a person having trading rights in any recognised stock exchange and includes a stock broker.
+(2)
+Words and expressions used and not defined in these regulations but defined in the Act, the Companies Act, 1956, the
+Securities and Exchange Board of India Act, 1992, the Depositories Act, 1996 or any rules or regulations made
+thereunder shall have the same meanings respectively assigned to them in those Acts, rules or regulations made
+thereunder or any statutory modification or re-enactment thereto, as the case may be.
+Chapter II
+Recognition of Stock Exchanges and Clearing Corporations
+3.
+Obligation to seek recognition.
+- No person shall conduct, organise or assist in organising any stock exchange or clearing corporation unless he has
+obtained recognition from the Board in accordance with the Act, rules and these regulations:
+Provided that a stock exchange, which has been recognised under the Act as on the date of commencement of these
+regulations, shall be deemed to have been recognised under these regulations and all the provisions of these
+regulations as they apply to a recognised stock exchange shall also apply to such stock exchange:
+Provided further that an existing clearing house of a recognised stock exchange or any person who clears and settles
+trades of a recognised stock exchange, as on the date of the commencement of these regulations, may continue to do
+so for a period of three months from the date of commencement of these regulations or, if he has made an application
+under regulation 4 for recognition, till disposal of such application.
+4.
+Application for recognition.
+- Subject to compliance with the provisions of Act, rules and these regulations, an application for recognition as a stock
+exchange shall be submitted to the Board in Form A as prescribed under rule 3 of the rules and an application for
+recognition as a clearing corporation shall be submitted to Board in Form A as specified in Schedule - I of these
+regulations.
+5.
+Fee for application.
+- An applicant seeking recognition as a stock exchange shall pay application fee in terms of rule 4 of the rules, and an
+applicant seeking recognition as a clearing corporation shall also pay application fee as payable by a stock exchange.
+6.
+Documents and particulars for application.
+(1)
+An application for recognition as a stock exchange or a clearing corporation, as the case may be, shall be accompanied
+by copies of memorandum of association, articles of association, bye-laws and other documents as provided in sections
+3 and 4 of the Act, rule 5 of the rules and these regulations.
+Page 4/28
+----- PAGE 5 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+(2)
+In addition to the documents specified in sub-regulation (1), the application for recognition as a clearing corporation shall
+be accompanied by the agreement(s) entered into by the applicant with the recognised stock exchange(s) and
+depositories.
+7.
+Consideration of grant of recognition.
+(1)
+The application under regulation 4 shall be governed by the provisions of the Act, rules and these regulations.
+(2)
+An applicant seeking recognition as a stock exchange or clearing corporation shall comply with the following conditions,
+namely:-
+(a)
+the applicant is a company limited by shares;
+(b)
+the applicant is demutualised;
+(c)
+the applicant, its directors and its shareholders who hold or intend to hold shares, are fit and proper persons as
+described in regulation 20;
+(d)
+the applicant satisfies requirements relating to ownership and governance structure specified in these regulations;
+(e)
+the applicant satisfies networth requirements specified in these regulations;
+(f)
+the applicant satisfies requisite capability including its financial capacity, functional expertise and infrastructure.
+Explanation. - For the purposes of this sub-regulation, the term "demutualised" means that the ownership and
+management of the applicant is segregated from the trading rights or clearing rights, as the case may be, in terms of
+these regulations.
+(3)
+An applicant seeking recognition as a stock exchange shall, in addition to conditions as specified in sub-regulations (1)
+and (2), comply with the following conditions, namely:-
+(a)
+the applicant has the necessary infrastructure for orderly execution of trades;
+(b)
+the applicant has an online screen-based trading system;
+(c)
+the applicant has an online surveillance capability which monitors positions, prices and volumes in real time so as to
+ensure market integrity;
+(d)
+the applicant has adequate infrastructure to list securities for trading on its platform, wherever applicable;
+(e)
+the applicant has necessary capability to have a nationwide network of trading members and has adequate facility to
+admit and regulate its members;
+(f)
+the applicant has made necessary arrangements to establish connectivity with its trading members and clearing
+corporation;
+(g)
+the applicant has adequate Investor Protection Fund and Investor Services Fund;
+(h)
+the applicant has adequate investor grievances redressal mechanism and arbitration mechanism to resolve disputes
+arising out of trades and its settlement;
+(i)
+Page 5/28
+----- PAGE 6 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+the applicant has the facility to disseminate information about trades, quantities and quotes in real time to at least two
+information vending networks which are accessible to investors in the country;
+(j)
+the applicant has adequate systems' capacity supported by a business continuity plan including a disaster recovery site;
+(k)
+the applicant has in its employment, sufficient number of persons having adequate professional and other relevant
+experience;
+(l)
+the business feasibility plan has been appraised by a reputed agency having expertise in securities market; and
+(m)
+any other conditions as may be specified by the Board.
+(4)
+An applicant seeking recognition as a clearing corporation shall, in addition to conditions as specified in sub-regulations
+(1) and (2), comply with the following conditions, namely:-
+(a)
+the applicant has necessary infrastructure to ensure timely clearing and settlement of trades;
+(b)
+the applicant has adequate risk management mechanism;
+(c)
+the applicant has a settlement procedure including netting, novation and guarantee for settlement of trades in place,
+which is in accordance with the manner specified by the Board;
+(d)
+the applicant has the capacity to establish a fund to guarantee settlement of trades;
+(e)
+the applicant has necessary capability to have a wide network of clearing members and has adequate facility to admit
+and regulate its members;
+(f)
+the applicant has established connectivity with the depositories, clearing banks, stock exchange and clearing members;
+(g)
+the applicant has adequate systems' capacity for on-line/real time risk management of trades cleared and settled and is
+supported by a suitable business continuity plan including a disaster recovery site;
+(h)
+the applicant has in its employment, sufficient number of persons having adequate professional and other relevant
+experience to the satisfaction of the Board;
+(i)
+the applicant has the necessary arrangements in place for resolving disputes and redressal of grievances arising out of
+clearing and settlement of trades;
+(j)
+the applicant has an agreement with a depository and with a recognised stock exchange in respect of clearing and
+settlement of the trades;
+(k)
+the business feasibility plan has been appraised by a reputed agency having expertise in securities market; and
+(l)
+any other conditions as may be specified by the Board.
+(5)
+The Board may, on being satisfied with the capability of the applicant to comply with the conditions laid down in this
+regulation, grant an in-principle approval to the applicant which shall be valid for a period of one year:
+Provided that the Board may, upon sufficient cause shown by the applicant, extend the validity of in-principle approval
+for a further period not exceeding six months.
+8.
+Power to make inquiries and call for information.
+Page 6/28
+----- PAGE 7 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+- The Board may, before granting recognition to a stock exchange or clearing corporation, make inquiries and require
+such further information or document to be furnished, as it may deem necessary.
+9.
+Grant of recognition.
+(1)
+The Board may, after considering the application under regulation 4 and on being satisfied that the applicant has
+complied with the conditions laid down in regulation 7 and is eligible to act as a recognised stock exchange or a
+recognised clearing corporation, as the case may be, grant recognition to the applicant in terms of section 4 of the Act,
+in the interest of the securities market.
+(2)
+The recognition granted to a stock exchange under sub-regulation (1) shall be in Form B of the rules.
+(3)
+The recognition granted to a clearing corporation shall be in Form B of Schedule-I of these regulations.
+(4)
+The recognised stock exchange and the recognised clearing corporation shall comply with such other conditions,
+including those with regard to the nature of securities to be dealt with, as may be imposed by the Board from time to
+time.
+10.
+Period of recognition.
+(1)
+The period of recognition granted to a stock exchange shall be as per rule 6 of the rules.
+(2)
+The recognition granted to a clearing corporation, unless granted on a permanent basis, shall be for such period not less
+than one year as may be specified in the recognition.
+11.
+Regulatory fee.
+(1)
+Every recognised stock exchange shall pay the regulatory fee in terms of Securities and Exchange Board of
+India(Regulatory Fee on Stock Exchanges) Regulations, 2006.
+(2)
+Every recognised clearing corporation shall pay the regulatory fee as the Board may specify.
+12.
+Renewal of recognition.
+(1)
+In addition to rule 7 of the rules, the provisions of these regulations, as they apply for grant of recognition to a stock
+exchange, shall also apply in relation to an application for renewal of recognition of a recognised stock exchange.
+(2)
+A recognised clearing corporation desirous of renewal of recognition shall make an application to the Board in Form A of
+Schedule-I of these regulations and such application shall reach the Board atleast three months prior to the date of
+expiry of the recognition.
+(3)
+The provisions of these regulations, as they apply for grant of recognition to a clearing corporation, shall also apply in
+relation to an application for renewal of recognition of a recognised clearing corporation.
+(4)
+An applicant seeking renewal of recognition as a stock exchange shall pay fee in terms of rule 7 of the rules, and an
+applicant seeking renewal of recognition as a clearing corporation shall also pay fee as payable by a stock exchange.
+(5)
+The recognised stock exchange and recognised clearing corporation shall comply with the applicable conditions
+specified in sub-regulation (3) and sub-regulation (4) of regulation 7, as the case may be, on a continuous basis.
+13.
+Withdrawal of recognition.
+Page 7/28
+----- PAGE 8 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+- The recognition granted to a stock exchange or a clearing corporation may be withdrawn in the manner provided under
+section 5 of the Act.
+Chapter III
+Networth of Stock Exchange and Clearing corporation
+14.
+Networth requirements.
+(1)
+Every recognised stock exchange shall have a minimum networth of one hundred crore rupees at all times:
+Provided that a recognised stock exchange having a lesser networth as on the date of commencement of these
+regulations shall achieve a minimum networth of one hundred crore rupees within a period of three years from the date
+of commencement of these regulations.
+(2)
+Every applicant seeking recognition as a clearing corporation under regulation 4 shall have a minimum networth of one
+hundred crore rupees:
+Provided that sub-regulation (2) shall not apply to an applicant which clears and settles trades of a recognised stock
+exchange on the date of commencement of these regulations.
+(3)
+Every recognised clearing corporation shall achieve a minimum networth of three hundred crore rupees within a period
+of three years from the date of recognition granted under these regulations:
+Provided that the Board may, upon an application made by the recognised clearing corporation, extend the time
+specified above in the interest of the securities market.
+(4)
+A recognised stock exchange or a recognised clearing corporation shall not distribute profits in any manner to its
+shareholders until the networth specified under sub-regulations (1) and (3), as the case may be, is achieved.
+(5)
+Every recognised stock exchange or recognised clearing corporation shall submit an audited networth certificate from
+the statutory auditor on a yearly basis by the thirtieth day of September of every year for the preceding financial year.
+Explanation I. - For the purposes of this regulation, `networth of a stock exchange' means the aggregate value of paid up
+equity share capital plus free reserves (excluding statutory funds, benefit funds and reserves created out of revaluation)
+reduced by the investments in businesses, whether related or unrelated, aggregate value of accumulated losses and
+deferred expenditure not written off, including miscellaneous expenses not written off.
+Explanation II. - For the purposes of this regulation, `networth of a clearing corporation' means the aggregate value of its
+liquid assets calculated in the manner as specified by the Board from time to time.
+Chapter IV
+Ownership of Stock Exchanges and Clearing Corporations
+15.
+Definitions.
+- For the purposes of this Chapter:
+(a)
+"banking company" shall have the same meaning as assigned to it in clause (c) of section 5 of the Banking Regulation
+Act, 1949 (10 of 1949);
+(b)
+"insurance company" shall have the same meaning as assigned to it in sub-section (8) of section 2 of the Insurance Act,
+1938 (
+4 of 1938
+);
+(c)
+"person resident in India" shall have the same meaning as assigned to it in clause (v) of section 2 of the Foreign
+Exchange Management Act, 1999 (
+42 of 1999
+);
+Page 8/28
+----- PAGE 9 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+(d)
+"person resident outside India" shall have the same meaning as assigned to it in clause (w) of section 2 of the Foreign
+Exchange Management Act, 1999 (
+42 of 1999
+).
+16.
+General conditions.
+(1)
+Save as otherwise provided in these regulations, the shareholding or voting rights of any person in a recognised stock
+exchange or a recognised clearing corporation shall not exceed the limits specified in this Chapter at any point of time.
+(2)
+The shareholding as specified in this Chapter shall include any instrument owned or controlled, directly or indirectly, that
+provides for entitlement to equity or rights over equity at any future date:
+Provided that any equity or rights over equity, arising from such instruments in excess of limit of shareholding specified
+in this Chapter on the date of commencement of these regulations, shall be reduced to the specified limit within a period
+as may be decided by the Board, which may extend upto three years from the date of such commencement.
+17.
+Shareholding in a recognised stock exchange.
+(1)
+Atleast fifty one per cent. of the paid up equity share capital of a recognised stock exchange shall be held by public.
+(2)
+No person resident in India shall at any time, directly or indirectly, either individually or together with persons acting in
+concert, acquire or hold more than five per cent. of the paid up equity share capital in a recognised stock exchange:
+Provided that,-
+(i)
+a stock exchange;
+(ii)
+a depository;
+(iii)
+a banking company;
+(iv)
+an insurance company; and
+(v)
+a public financial institution, may acquire or hold, either directly or indirectly, either individually or together with persons
+acting in concert, upto fifteen per cent. of the paid up equity share capital of a recognised stock exchange.
+(3)
+No person resident outside India, directly or indirectly, either individually or together with persons acting in concert, shall
+acquire or hold more than five per cent. of the paid up equity share capital in a recognised stock exchange:
+[Provided that, -
+(i)
+a foreign stock exchange;
+(ii)
+a foreign depository;
+(iii)
+a foreign banking company;
+(iv)
+an foreign insurance company; and
+(v)
+a foreign commodity derivatives exchange,
+may acquire or hold, either directly or indirectly, either individually or together with persons acting in concert, upto fifteen
+per cent. of the paid up equity share capital of a recognised stock exchange.
+Page 9/28
+----- PAGE 10 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+Explanation. - For the purposes of this proviso, the persons referred to in clauses (i) to (v) shall mean persons
+recognised/ incorporated outside India.]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2016-17/020, dated 11.1.2017 (w.e.f. 20.6.2012).]
+(4)
+[Subject to the limits as otherwise prescribed by the Central Government from time to time,]
+[Inserted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+the combined holding of all persons resident outside India in the paid up equity share capital of a recognised stock
+exchange shall not exceed, at any time, forty-nine per cent. of its total paid up equity share capital, subject to the
+following:
+(a)
+[ ***]
+[Omitted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+(b)
+[ ***]
+[Omitted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+(c)
+[ ***]
+[Omitted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+[***]
+[Omitted by Notification No. SEBI/LAD-NRO/GN/2016-17/020, dated 11.1.2017 (w.e.f. 20.6.2012).]
+[***]
+[Omitted by Notification No. SEBI/LAD-NRO/GN/2016-17/020, dated 11.1.2017 (w.e.f. 20.6.2012).]
+(5)
+No clearing corporation shall hold any right, stake or interest, of whatsoever nature, in any recognised stock exchange.
+18.
+Shareholding in a recognised clearing corporation.
+(1)
+Atleast fifty one per cent. of the paid up equity share capital of a recognised clearing corporation shall be held by one or
+more recognised stock exchange(s):
+Provided that no recognised stock exchange shall, directly or indirectly, either individually or together with persons
+acting in concert, acquire or hold more than fifteen per cent. of the paid up equity share capital in more than one
+recognised clearing corporation.
+(2)
+No person resident in India, except a recognised stock exchange as permitted in sub-regulation (1), shall at any time,
+directly or indirectly, either individually or together with persons acting in concert, acquire or hold more than five per
+cent. of the paid up equity share capital in a recognised clearing corporation:
+Provided that,-
+(i)
+a depository;
+(ii)
+a banking company;
+(iii)
+an insurance company; and
+(iv)
+a public financial institution, may acquire or hold, either directly or indirectly, either individually or together with persons
+acting in concert, upto fifteen per cent. of the paid up equity share capital of a recognised clearing corporation.
+(3)
+No person resident outside India shall, directly or indirectly, either individually or together with persons acting in concert,
+acquire or hold more than five per cent. of the paid up equity share capital in a recognised clearing corporation.
+(4)
+[Subject to the limits as otherwise prescribed by the Central Government from time to time,]
+Page 10/28
+----- PAGE 11 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+[Inserted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+the combined holding of all persons resident outside India in the paid up equity share capital of a recognised clearing
+corporation shall not exceed, at any time, forty-nine per cent. of its total paid up equity share capital, subject to the
+following.
+(a)
+[ ***]
+[Omitted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+(b)
+[ ***]
+[Omitted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+(c)
+[ ***]
+[Omitted by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+[***]
+[Omitted by Notification No. SEBI/LAD-NRO/GN/2016-17/033, dated 14.2.2017 (w.e.f. 20.6.2012).]
+(5)
+Any person holding equity shares in a recognised clearing corporation in excess of the limits specified in this regulation
+on the date of commencement of these regulations shall comply with the conditions specified in this regulation within a
+period of three years from the date of such commencement.
+19.
+Eligibility for acquiring or holding shares.
+(1)
+No person shall, directly or indirectly, acquire or hold equity shares of a recognised stock exchange or recognised
+clearing corporation unless he is a fit and proper person.
+(2)
+Any person who, directly or indirectly, either individually or together with persons acting in concert, acquire equity shares
+such that his shareholding exceeds two per cent. of the paid up equity share capital of a recognised stock exchange or
+recognised clearing corporation shall seek approval of the Board within fifteen days of the acquisition.
+(3)
+A person eligible to acquire or hold more than five per cent. of the paid up equity share capital under sub-regulation (2)
+of regulation 17 and sub-regulation (2) of regulation 18 may acquire or hold more than five per cent. of the paid up equity
+share capital of a recognised stock exchange or a recognised clearing corporation only if he has obtained prior approval
+of the Board.
+(4)
+Any person holding more than two per cent. of the paid up equity share capital of the recognised stock exchange or the
+clearing corporation on the date of commencement of these regulations, shall ensure compliance with this regulation
+within a period of ninety days from the date of such commencement.
+(5)
+If approval under sub-regulation (2) or (3) is not granted by the Board to any person, such person shall forthwith divest
+his excess shareholding.
+(6)
+Any person holding more than two per cent. of the paid up equity share capital in a recognised stock exchange or a
+recognised clearing corporation, as the case may be, shall file a declaration within fifteen days from the end of every
+financial year to the recognised stock exchange or recognised clearing corporation, as the case may be, that he
+complies with the fit and proper criteria provided in these regulations.
+20.
+Fit and proper criteria.
+(1)
+For the purposes of these regulations, a person shall be deemed to be a fit and proper person if-
+(a)
+such person has a general reputation and record of fairness and integrity, including but not limited to-
+Page 11/28
+----- PAGE 12 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+(i)
+financial integrity;
+(ii)
+good reputation and character; and
+(iii)
+honesty;
+(b)
+such person has not incurred any of the following disqualifications-
+(i)
+the person, or any of its whole time directors or managing partners, has been convicted by a court for any offence
+involving moral turpitude or any economic offence or any offence against the securities laws;
+(ii)
+an order for winding up has been passed against the person;
+(iii)
+the person, or any of its whole time directors or managing partners, has been declared insolvent and has not been
+discharged;
+(iv)
+an order, restraining, prohibiting or debarring the person, or any of its whole time directors or managing partners, from
+dealing in securities or from accessing the securities market, has been passed by the Board or any other regulatory
+authority, and a period of three years from the date of the expiry of the period specified in the order has not elapsed;
+(v)
+any other order against the person, or any of its whole time directors or managing partners, which has a bearing on the
+securities market, has been passed by the Board or any other regulatory authority, and a period of three years from the
+date of the order has not elapsed;
+(vi)
+the person has been found to be of unsound mind by a court of competent jurisdiction and the finding is in force; and
+(vii)
+the person is financially not sound.
+(2)
+If any question arises as to whether a person is a fit and proper person, the Board's decision on such question shall be
+final.
+21.
+Disclosure of shareholding.
+(1)
+Without prejudice to the provisions of the Act, rules and these regulations, the recognised stock exchange(s) and the
+recognised clearing corporation(s) shall disclose to the Board, in the format specified by the Board, their shareholding
+pattern on a quarterly basis within fifteen days from the end of each quarter, including therein the following:-
+(a)
+the names of the ten largest shareholders along with the number and percentage of shares held by them;
+(b)
+the names of the shareholders falling under regulations 17 and 18 who had acquired shares in that quarter.
+(2)
+A recognised stock exchange and a recognised clearing corporation shall monitor and ensure compliance with this
+Chapter at all times.
+22.
+Record keeping.
+- In addition to the requirements under other laws in force, a recognised stock exchange and recognised clearing
+corporation shall maintain and preserve all the books, registers, other documents and records relating to the issue or
+transfer of its securities for a period of not less than ten years.
+Chapter V
+Governance of Stock Exchanges and Clearing Corporations
+Page 12/28
+----- PAGE 13 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+23.
+Composition of the governing board.
+(1)
+The governing board of every recognised stock exchange and recognised clearing corporation shall include:
+(a)
+shareholder directors;
+(b)
+public interest directors; and,
+(c)
+managing director.
+(2)
+Subject to prior approval of the Board, the chairperson shall be elected by the governing board from amongst the public
+interest directors.
+(3)
+The number of public interest directors shall not be lesser than the number of shareholder directors in a recognised
+stock exchange.
+(4)
+The number of public interest directors of a recognised clearing corporation shall not be less than two-third, and
+shareholder directors shall not exceed one-third, of its governing board strength.
+(5)
+The managing director shall be an ex-officio director on the governing board and shall not be included in either the
+category of public interest directors or shareholder directors.
+(6)
+Any employee of a recognised stock exchange or recognised clearing corporation may be appointed on the governing
+board in addition to the managing director, and such director shall be deemed to be a shareholder director.
+(7)
+No trading member or clearing member, or their associates and agents, shall be on the governing board of any
+recognised stock exchange or recognised clearing corporation.
+(8)
+Atleast one public interest director shall be present in the meetings of the governing board to constitute the quorum.
+(9)
+No foreign [portfolio]
+[Substituted 'institutional' by Notification No. SEBI/LAD/NRO/GN/2015-16/037, dated 7.3.2016 (w.e.f. 20.6.2012).]
+investor shall have any representation in the governing board of a recognised stock exchange or a recognised clearing
+corporation.
+(10)
+Every recognised stock exchange shall ensure compliance with the provisions of this regulation within three months
+from the date of commencement of these regulations.
+24.
+Conditions of appointment of directors.
+(1)
+The appointment and re-appointment of all shareholder directors on the governing board of every recognised stock
+exchange or recognised clearing corporation shall be with the prior approval of the Board.
+(2)
+The public interest directors on the governing board of the recognised stock exchange(s) and the recognised clearing
+corporation(s) shall be nominated by the Board.
+(3)
+Public interest directors shall be nominated for a fixed term of three years, or for such extended period, as may be
+approved by the Board.
+(4)
+If any issue arises as to whether an assignment or position of a public interest director is in conflict with his role, the
+Page 13/28
+----- PAGE 14 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+Board's decision shall be final.
+(5)
+A public interest director may be renominated after a cooling-off period of one year or such period as the Board may
+deem fit in the interest of the securities market.
+(6)
+Public interest directors shall be paid only sitting fees as specified in the Companies Act, 1956.
+25.
+Appointment of managing director.
+(1)
+The appointment, renewal of appointment and termination of service of the managing director of a recognised stock
+exchange or a recognised clearing corporation shall be subject to prior approval of the Board.
+(2)
+Every recognised stock exchange or recognised clearing corporation shall, subject to the guidelines issued by the Board
+from time to time, determine the qualification, manner of appointment, terms and conditions of appointment and other
+procedural formalities associated with the selection/ appointment of the managing director.
+(3)
+The appointment of the managing director shall be for a tenure not less than three years and not exceeding five years.
+(4)
+The managing director of a recognised stock exchange or a recognised clearing corporation shall not-
+(a)
+be a shareholder or an associate of a shareholder of a recognised stock exchange or recognised clearing corporation or
+shareholder of an associate of a recognised stock exchange or recognised clearing corporation, as the case may be;
+(b)
+be a trading member or a clearing member, or his associate and agent, or shareholder of a trading member or clearing
+member or shareholder of an associate and agent of a trading member or a clearing member; or
+(c)
+hold any position concurrently in the subsidiary of a recognised stock exchange or a recognised clearing corporation, or
+in any other entity associated with a recognised stock exchange or a recognised clearing corporation:
+Provided that the managing director of a recognised stock exchange may be appointed on the governing board, but not
+as managing director, of the subsidiary of a recognised stock exchange or a recognised clearing corporation, as the
+case may be.
+(5)
+The managing director shall be liable for removal or termination of services by the governing board of the recognised
+stock exchange or recognised clearing corporation with the prior approval of the Board for failure to give effect to the
+directions, guidelines and other orders issued by the Board, or the rules, the articles of association, bye-laws and
+regulations of the recognised stock exchange or the recognised clearing corporation.
+(6)
+The Board may suo motu remove or terminate the appointment of the managing director if deemed fit in the interest of
+securities market:
+Provided that no managing director shall be removed unless he has been given a reasonable opportunity of being
+heard.
+26.
+Code of Conduct for directors and key management personnel.
+(1)
+Every director of a recognised stock exchange and a recognised clearing corporation shall abide by the Code of
+Conduct specified under Part- A of Schedule- II of these regulations.
+(2)
+Every director and key management personnel of a recognised stock exchange and a recognised clearing corporation
+shall abide by the Code of Ethics specified under Part- B of Schedule- II of these regulations.
+(3)
+Every director and key management personnel of a recognised stock exchange and a recognised clearing corporation
+Page 14/28
+----- PAGE 15 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+shall be a fit and proper person as described in regulation 20.
+(4)
+The Board may, for any failure by the directors to abide by these regulations or the Code of Conduct or Code of Ethics
+or in case of any conflict of interest, either upon a reference from the recognised stock exchange or the recognised
+clearing corporation or suo motu, take appropriate action including removal or termination of the appointment of any
+director, after providing him a reasonable opportunity of being heard.
+27.
+Compensation and tenure of key management personnel.
+(1)
+A recognised stock exchange or a recognised clearing corporation shall constitute a compensation committee
+comprising a majority of public interest directors and chaired by a public interest director.
+(2)
+The compensation committee shall determine the compensation of key management personnel in terms of a
+compensation policy.
+(3)
+The compensation policy shall be in accordance with the norms specified bythe Board.
+(4)
+The compensation payable to the managing director shall be as approved by the Board and the terms and conditions of
+the compensation of the managing director shall not be changed without prior approval of the Board.
+(5)
+The compensation given to the key management personnel shall be disclosed in the Report of the recognised stock
+exchange or recognised clearing corporation under section 217 of the Companies Act, 1956.
+(6)
+The tenure of a key management personnel, other than a director, shall be for a fixed period, as may be decided by the
+compensation committee.
+28.
+Segregation of regulatory departments.
+- The recognised stock exchange and recognised clearing corporation shall segregate its regulatory departments from
+other departments in the manner specified in Part- C of Schedule - II of these regulations.
+29.
+Oversight committees.
+(1)
+Every recognised stock exchange shall constitute independent oversight committees of the governing board, [to the
+extent applicable,]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2018/04, dated 2.4.2018 (w.e.f. 20.6.2012).]
+each chaired by a public interest director, in order to address the conflicts of interest in respect of-
+(a)
+member regulation,
+(b)
+listing functions, [***]
+[Omitted 'and' by Notification No. SEBI/LAD-NRO/GN/2018/04, dated 2.4.2018 (w.e.f. 20.6.2012).]
+(c)
+trading and surveillance function[, and]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2018/04, dated 2.4.2018 (w.e.f. 20.6.2012).]
+(d)
+[ product design.]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2018/04, dated 2.4.2018 (w.e.f. 20.6.2012).]
+(2)
+A recognised stock exchange shall follow the minimum listing standards specified by the Board from time to time.
+(3)
+The heads of departments handling the matters referred to in sub-regulation (1) shall report directly to the respective
+Page 15/28
+----- PAGE 16 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+committee and also to the managing director.
+(4)
+Any action of a recognised stock exchange against a head of a regulatory department shall be subject to an appeal to
+the respective committee specified under sub-regulation (1), within such period as may be determined by the governing
+board.
+(5)
+The provisions of this regulation shall mutatis mutandis apply to a recognised clearing corporation.
+30.
+Advisory committee.
+(1)
+An advisory committee shall be constituted by the governing board of every recognised stock exchange and recognised
+clearing corporation to advise the governing board on non-regulatory and operational matters including product design,
+technology, charges and levies.
+(2)
+The advisory committee of a recognised stock exchange shall comprise its trading members and the advisory committee
+of a recognised clearing corporation shall comprise its clearing members.
+(3)
+The chairperson of the governing board shall be the head of the advisory committee and the managing director shall be
+a permanent invitee to every meeting of the advisory committee.
+(4)
+The advisory committee shall meet at least four times a year with a maximum gap of three months between two
+meetings.
+(5)
+The recommendations of the advisory committee shall be placed in the ensuing meeting of the governing board of the
+recognised stock exchange or the recognised clearing corporation for consideration and appropriate decision of the
+governing board, and such recommendations along with the decision of the governing board on the same, shall be
+disclosed on their respective websites.
+(6)
+Trading members and clearing members shall not be part of any other committee of the recognised stock exchange or
+the recognised clearing corporation, as the case may be.
+31.
+Risk management committee of a clearing corporation.
+(1)
+Every recognised clearing corporation shall constitute a risk management committee, comprising its public interest
+directors and independent external experts, which shall report to the governing board.
+(2)
+The risk management committee shall formulate a detailed risk management policy which shall be approved by the
+governing board.
+(3)
+The head of the risk management department shall be responsible for implementation of the risk management policy
+and he shall report to the risk management committee and to the managing director of the recognised clearing
+corporation.
+(4)
+The risk management committee shall monitor implementation of the risk management policy and keep the Board and
+the governing board informed about its implementation and deviation, if any.
+32.
+Appointment of compliance officer.
+(1)
+Every recognised stock exchange and recognised clearing corporation shall appoint a compliance officer who shall be
+responsible for monitoring the compliance of the Act, the Companies Act, 1956, the Securities and Exchange Board of
+India Act, 1992, rules, regulations, or directions issued thereunder and for the redressal of investors' grievances.
+Page 16/28
+----- PAGE 17 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+(2)
+The compliance officer shall, immediately and independently, report to the Board any non-compliance of any provision
+stated in sub-regulation (1) observed by him.
+33.
+[ Contribution to the Settlement Guarantee Fund.
+[Substituted by Notification No. SEBI/L.A.D.-N.R.O./G.N./2016-17/011, dated 26.8.2016 (w.e.f. 20.6.2012).]
+(1)
+The contribution to the Fund as specified in regulation 39 shall be made by the recognised stock exchange, the
+recognised clearing corporation and the clearing members, in the manner as may be specified by the Board from time to
+time.
+(2)
+In case of shortfall in the Fund, the recognised clearing corporation and the recognised stock exchange shall replenish
+the Fund to the threshold level as may be specified by the Board from time to time.]
+34.
+Transfer of penalties.
+- Penalties levied by recognised stock exchange or recognised clearing corporation shall be credited to its Investor
+Protection Fund or the Fund as specified in regulation 39, as the case may be.
+35.
+Disclosure and corporate governance norms.
+- The disclosure requirements and corporate governance norms as specified for listed companies shall mutatis mutandis
+apply to a recognised stock exchange and a recognised clearing corporation.
+Chapter VI
+General Obligations
+36.
+Clearing and settlement of trades.
+- Every recognised stock exchange shall, with effect from the date specified by the Board in this behalf, use the services
+of recognised clearing corporation(s) for clearing and settlement of its trades.
+37.
+Agreement between stock exchange and clearing corporation.
+(1)
+Subject to provisions of sub-regulation (2), a recognised stock exchange shall avail the service of a recognised clearing
+corporation pursuant to an agreement in writing between them stipulating their rights and obligations, the conditions for
+admission of securities for clearing and settlement, risk management measures, charges for clearing and settlement and
+other incidental and consequential matters.
+(2)
+The recognised stock exchange shall extend its arbitration mechanism for settlement of disputes or claims arising out of
+clearing and settlement of trades executed on such stock exchange.
+38.
+Admission of securities for clearing and settlement.
+- A recognised clearing corporation shall seek approval of the Board before extending its services to any segment of a
+recognised stock exchange and before admitting any securities for clearing and settlement.
+39.
+Fund to guarantee settlement of trades.
+(1)
+Every recognised clearing corporation shall establish and maintain a Fund by whatever name called, for each segment,
+to guarantee the settlement of trades executed in respective segment of a recognised stock exchange.
+(2)
+The Settlement Guarantee Fund or the Trade Guarantee Fund of an existing recognised stock exchange shall be
+transferred to the recognised clearing corporation to which the clearing and settlement functions of the stock exchange
+are transferred.
+(3)
+Page 17/28
+----- PAGE 18 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+Till such time the Fund is transferred under sub-regulation (2), it shall be utilized only for the purposes of meeting
+settlement obligations as specified by the Board and as per the byelaws of the recognised stock exchange.
+(4)
+An existing clearing corporation shall continue to utilize its Settlement Guarantee Fund or Trade Guarantee Fund after
+its recognition under these regulations.
+(5)
+In the event of a clearing member failing to honour his settlement obligations, the Fund shall be utilized to complete the
+settlement.
+(6)
+The corpus of the Fund shall be adequate to meet the settlement obligations arising on account of failure of clearing
+member(s).
+(7)
+The sufficiency of the corpus of the Fund shall be tested by way of periodic stress tests, in the manner specified by the
+Board.
+(8)
+The [***]
+[Omitted 'contribution and' by Notification No. SEBI/L.A.D.-N.R.O./G.N./2016-17/011, dated 26.8.2016 (w.e.f.
+20.6.2012).]
+utilization of the Fund shall be in accordance with the norms specified by the Board.
+40.
+Utilization of profits and investments.
+- The utilization of profits and investments by recognised clearing corporations shall be in accordance with the norms
+specified by the Board.
+41.
+Equal, fair and transparent access.
+(1)
+The recognised clearing corporation shall lay down a transparent policy framework for ensuring that there is no
+discrimination while rendering clearing and settlement services in settlement of trades on shareholder stock exchange(s)
+and on non-shareholder stock exchange(s).
+(2)
+The recognised clearing corporation and recognised stock exchange shall ensure equal, unrestricted, transparent and
+fair access to all persons without any bias towards its associates and related entities.
+(3)
+The recognised stock exchange and recognised clearing corporation shall not engage in activities that are unrelated or
+not incidental to its activity as a stock exchange or clearing corporation, as the case may be, except through a separate
+legal entity and as permitted by the Board.
+42.
+Maintenance of books of accounts and records.
+(1)
+Every recognised stock exchange shall maintain and preserve the books of account and documents as per rule 14 of the
+rules.
+(2)
+Subject to the provisions of any other law for the time being in force, every recognised clearing corporation shall
+maintain and preserve the following books of account and documents for a minimum period of ten years, namely:-
+(a)
+Minute books of the meetings of:
+(i)
+governing board;
+(ii)
+any committees of the governing board;
+(b)
+Page 18/28
+----- PAGE 19 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+Record of clearing members showing their full names, addresses and details of bank and depository accounts for
+settlement purposes;
+(c)
+Transaction records;
+(d)
+Record of security deposits;
+(e)
+Margin deposits book;
+(f)
+Client margin collection details;
+(g)
+Ledgers;
+(h)
+Journals;
+(i)
+Cash book;
+(j)
+Bank account statement;
+(k)
+Such other books of accounts and documents as may be specified by the Board from time to time.
+43.
+Submission of annual financial statements and returns.
+(1)
+Every recognised stock exchange and recognised clearing corporation shall furnish to the Board its annual financial
+statements and returns as per rule 17 and 17A of the rules.
+(2)
+The records as per sub-regulation (1) with respect to preceding financial year shall be furnished to the Board by the
+thirtieth of September of every year.
+44.
+Bye-laws, rules, etc. of stock exchanges and clearing corporation.
+(1)
+A recognised stock exchange and recognised clearing corporation shall, with the previous approval of the Board, make
+bye-laws for the regulation of contracts and clearing and settlement, as the case may be, as per section 9 of the Act and
+these regulations.
+(2)
+No memorandum of association, articles of association or any other constitution document, in so far as they relate to
+matters specified in section 3 of the Act or under these regulations and bye- laws of a recognised stock exchange or a
+recognised clearing corporation, shall be amended except with prior approval of the Board.
+44A.
+[ Settlement and netting.
+[Inserted by Notification No. LAD-NRO/GN/2013-2014/21/6463, dated 2.9.2013 (w.e.f. 20.6.2012).]
+(1)
+The payment and settlement in respect of a transaction in a recognized stock exchange and recognized clearing
+corporation shall be determined in accordance with the netting or gross procedure as specified in the bye-laws of such
+recognized stock exchange and recognized clearing corporation, with the prior approval of the Securities and Exchange
+Board of India.
+(2)
+Payment and settlement in respect of a transaction between parties referred to in sub-regulation (1), effected under the
+bye-laws of a recognized stock exchange or recognized clearing corporation, shall be final, irrevocable and binding on
+such parties.
+(3)
+Page 19/28
+----- PAGE 20 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+When a settlement has become final and irrevocable, the right of the recognized stock exchange or the recognized
+clearing corporation, as the case may be, to appropriate any collaterals or deposits or margins contributed by the trading
+member, clearing member or client towards its settlement or other obligations in accordance with the bye-laws of the
+recognised stock exchange or recognized clearing corporation shall take priority over any other liability of or claim
+against the said trading member, clearing member or client, as the case may be.
+Explanation. - For removal of doubts, it is hereby declared that the settlement, whether gross or net, referred to in this
+regulation is final and irrevocable as soon as the money, securities or other transactions payable as a result of such
+settlement is determined, whether or not such money, securities or other transactions is actually paid.
+44B.
+Right of Clearing Corporation.
+- The right of recognised clearing corporation(s) to recover the dues from its clearing members, arising from the
+discharge of their clearing and settlement functions, from the collaterals, deposits and the assets of the clearing
+members, shall have priority over any other liability of or claim against the clearing members.]
+44C.
+[
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2015-16/016, dated 8.9.2015 (w.e.f. 20.6.2012).]
+A recognized stock exchange [***] shall not introduce any new segment without the prior approval of the Board.
+44D.
+[ Obligation of Clearing Corporation in Commodity Derivatives.
+[Substituted by Notification No. SEBI/LAD-NRO/GN/2018/04, dated 2.4.2018 (w.e.f. 20.6.2012).]
+- Every recognised clearing corporation providing clearing and settlement services for commodity derivatives shall
+ensure guarantee for settlement of trades including good delivery.]]
+Chapter VII
+Listing of Securities
+45.
+Listing.
+(1)
+Subject to the provisions of applicable laws in force, a recognised stock exchange may apply for listing of its securities
+on any recognised stock exchange, other than itself and its associated stock exchange, if,-
+(a)
+it is compliant with the provisions of these regulations particularly those relating to ownership and governance;
+(b)
+it has completed three years of continuous trading operations immediately preceding the date of application of listing;
+and
+(c)
+it has obtained approval of the Board.
+(2)
+The Board may specify such conditions as it may deem fit in the interest of the securities market including those in
+relation to transfer of shares held by any person.
+(3)
+A recognised stock exchange shall not list any securities of its associates.
+(4)
+The securities of a recognised clearing corporation shall not be listed on any stock exchange.
+46.
+Dematerialization.
+- Securities of a recognised stock exchange and a recognised clearing corporation shall be in dematerialised form.
+Chapter VIII
+Miscellaneous
+47.
+Power to call for information.
+- The Board may from time to time call for any information, documents or records from the recognised stock exchange or
+Page 20/28
+----- PAGE 21 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+the recognised clearing corporation, or their governing board or any shareholder thereof.
+48.
+Power of inspection.
+(1)
+The Board may at any time undertake inspection, conduct inquiries and audit of any recognised stock exchange or
+recognised clearing corporation, any associate of such exchange or clearing corporation, any shareholder of such stock
+exchange or clearing corporation or any associate and agent of such shareholder.
+(2)
+Where an inspection under sub-regulation (1) is undertaken by the Board, such recognised stock exchange or
+recognised clearing corporation or shareholder or associate and every manager, director, managing director,
+chairperson or officer and other employee of such recognised stock exchange, recognised clearing corporation,
+shareholder or associate shall co-operate with the Board.
+49.
+Directions by the Board.
+- Without prejudice to exercise of its powers under the provisions of the Act or the Securities and Exchange Board of
+India Act, 1992 and rules and regulations made thereunder, the Board may, either suo motu or on receipt of any
+information or during pendency of any inspection, inquiry or investigation or on completion thereof, in the interest of
+public or trade or investors or the securities market, issue such directions as it deems fit, including but not limited to any
+or all of the following:-
+(a)
+directing a person holding equity shares or rights over equity shares in a recognised stock exchange or recognised
+clearing corporation in contravention of these regulations to divest his holding, in such manner as may be specified in
+the direction;
+(b)
+directing transfer of any proceeds or securities to the Investor Protection Fund of a recognised stock exchange or
+Settlement Guarantee Fund of a recognised clearing corporation;
+(c)
+debarring any recognised stock exchange or recognised clearing corporation, any shareholder of such recognised stock
+exchange or recognised clearing corporation, or any associate and agent of such shareholder, or any transferee of
+shares from such shareholder, directors and key management personnel of recognised stock exchange and recognised
+clearing corporation from accessing the securities market or dealing in securities for such period as may be determined
+by the Board.
+50.
+Power to remove difficulties.
+- In order to remove any difficulties in the interpretation or application of the provisions of these regulations, the Board
+shall have the power to issue directions through guidance notes or circulars.
+51.
+Power to specify procedures, etc. and issue clarifications.
+- For the purposes of implementation of these regulations and matters incidental thereto, the Board may specify norms,
+procedures, processes, manners or guidelines as specified in these regulations, by way of circulars to recognised stock
+exchange(s) and recognised clearing corporation(s).
+52.
+Repeal and savings.
+(1)
+On and from the commencement of these regulations, the Securities Contracts (Regulation) (Manner of Increasing and
+Maintaining Public Shareholding in Recognized Stock Exchanges) Regulations, 2006, shall stand repealed.
+(2)
+Notwithstanding such repeal, anything done or any action taken or purported to have been taken or contemplated under
+the repealed regulations before the commencement of these regulations shall be deemed to have been done or taken or
+commenced or contemplated under the corresponding provisions of these regulations.
+(3)
+Page 21/28
+----- PAGE 22 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+After the repeal of the regulations referred to in sub-regulation (1), any reference thereto in any regulation, guideline,
+circular or direction issued by the Board shall be deemed to be a reference to the relevant provisions of these
+regulations.
+I
+Form A
+[See regulations 4 and 12]
+Application for recognition/renewal of recognition of a clearing corporation under regulation 4/regulation 12 of the
+Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012
+To
+......................................
+......................................
+Subject: Application for recognition or renewal of recognition of a clearing corporation under regulation 4/regulation 12 of
+the Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012.
+Sir,
+1. We/I on behalf of .................. (name and address of clearing corporation ) being a clearing corporation hereby apply
+for recognition/renewal of recognition for the purposes of the said Act in respect of clearing and settlement of contracts
+in securities.
+2. Two copies of the rules, memorandum and articles of association relating in general to the constitution and
+management of the clearing corporation and two copies of the bye-laws for the clearing and settlement of contracts in
+securities are enclosed.
+3. All the necessary information required in the Annexure to this Form is enclosed. Any additional information will be
+furnished as and when called for by the Board.
+4. We/I, on behalf of the said clearing corporation, hereby undertake to comply with the requirements of section 4 of the
+said Act and such other conditions and terms as may be contained in the certificate of recognition or be provided or
+imposed subsequently.
+5. [Proof of remittance through electronic payment mode/]
+[Inserted by Notification No. SEBI/LAD-NRO/GN/2016-17/037, dated 6.3.2017 (w.e.f. 20.6.2012).]
+Demand Draft No.......dated......drawn in favour of Securities and Exchange Board of India for  L ............, towards
+payment of fees as specified in regulation 5/regulation 12 of the Securities Contracts (Regulation) (Stock Exchanges
+and Clearing Corporations) Regulations, 2012, is attached.
+Yours faithfully,
+Authorised signatory
+Annexure to Form `a'
+Part I ? General 1. Name of the applicant clearing corporation.
+2. Address.
+3. Date of establishment or incorporation of a clearing corporation.
+4. Is your clearing corporation a joint stock company (state whether public or private) registered under the Companies
+Act?
+5. Give details of your capital structure and attach three copies of the audited balance sheets and profit and loss account
+of the clearing corporation for the preceding three years.
+6. Give details of shareholding pattern of the clearing corporation.
+7. Has your business viability plan been appraised by a reputed agency having expertise in securities market for its
+viability? Give a copy of the appraisal report.
+8. Have you entered into an agreement with recognised stock exchange(s) for clearing and settling its trades? Give the
+name of such stock exchange(s) and details of its organisation and management.
+Part II ? Clearing membership of clearing corporation. 9. State the number of clearing members at the time of
+application. Also specify how many are inactive.
+10. State whether there is any provision, resolution or convention for limiting the number of clearing members and
+whether in pursuance thereof you have fixed a ceiling on the number of clearing members that you would admit.
+11. Do you insist on any minimum qualifications and experience before enrolling new clearing members? If so, give
+details.
+Page 22/28
+----- PAGE 23 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+12. State the different classes of clearing members, if any, the number thereof and the privileges enjoyed by each class.
+What is the procedure followed by your clearing corporation for the admission of different classes of new clearing
+members?
+13. What are the rates of your annual subscription in respect of the different classes of clearing members?
+14. Do you collect any security deposit from your clearing members? If so, give details and also state the manner in
+which such deposits are utilised and the rate of interest allowed, if any.
+15. Do you collect any admission or entrance fees from your clearing members? If so, how much?
+16. Do you insist on your clearing members divesting themselves of other activities either as principal or as employee?
+17. Give details of the scale of brokerage and other charges, if any, specified by your clearing corporation.
+18. Do you prescribe standard form of agreement to be entered with the trading member for engaging the services of
+your clearing member? Attach two copies of such agreement.
+19. What are the measures adopted by you to regulate or prohibit advertising or issuing circulars by your clearing
+members?
+20. Do you require clearing members to supply such information or explanation and to produce such books relating to
+their business as your governing board may require?
+21. Do you undertake periodic inspection of your clearing members? Give details including the number of annual
+inspections and manpower available for conducting inspection.
+Part III ? Governing Board 22. What is the present strength of your governing board? Give details of the constitution,
+powers of management, election and tenure of office of members of the governing board, and the manner in which its
+business is transacted.
+23. Are any trade or commercial interest represented on your governing board? If so, give details of interests
+represented.
+24. Do you associate members of investors associations with the management of your clearing corporation? If so, state
+the manner in which it is done.
+25. Are there any Government or the Board representatives on your governing board? If so, furnish their names.
+26. How many public interest directors are there on the governing board? Furnish their names, qualifications and
+experience.
+27. Do your rules provide for the direct election by clearing members on the Advisory Committee of the governing
+board? If so, give details of its constitution, tenure, powers and functions.
+28. Do you have any provision for the appointment of standing or ad hoc subcommittees of the governing board? If so,
+furnish details of their composition, appointment, term of office, powers and functions.
+29. Give the designations, powers and duties of key management personnel of your clearing corporation. Give details as
+to the mode of their appointment, tenure of office and remuneration.
+30. What are the disciplinary powers with the governing board to enforce due compliance by clearing members of the
+rules and bye-laws of the clearing corporation and generally to ensure proper standard of business conduct?
+31. What provisions have you made for the levy and recovery of fees, fines and penalties?
+Part IV ? Clearing and Settlement 32. Describe the clearing and settlement system of the clearing corporation.
+33. State the different kinds of products being cleared and settled or proposed to be cleared and settled in your clearing
+corporation(e.g., equity, equity derivative, currency derivatives, interest rate derivatives, debt instruments, etc.). State
+the period of delivery, payment and the settlement mechanism in each case.
+34. What are the conditions subject to which trades are settled and cleared on your clearing corporation?
+35. What are your requirements for admitting derivative transactions for clearing and settlement?
+36. Do you have the right to prohibit, withdraw or suspend clearing and settlement of dealings admitted for clearing and
+settlement? If so, under what circumstances is this right exercised?
+37. Give details of the clearing and settlement charges and other charges, if any, levied by your clearing corporation.
+38. What provisions have you made for periodical settlement of contracts and differences thereunder, the delivery of,
+and payment for securities and the passing of delivery orders?
+39. How do you fix, alter or postpone the dates of settlement?
+40. Do you provide any safeguards for the prevention of market manipulation, especially in the case of physical delivery
+of shares in the derivative markets and for meeting emergencies in settlement? Give details.
+41. Provide a detailed assessment of the measures adopted to address the various risks faced by the clearing
+Page 23/28
+----- PAGE 24 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+corporation in terms of the BIS-IOSCO paper on `Principles for Financial Market Infrastructures.'
+42. Do you publish any statistics in regard to business done on the clearing corporation including the value of Settlement
+Guarantee Fund and transactions settled through the clearing corporation, if maintained? In particular, have you evolved
+any machinery for computing the gross and net exposure of the clearing corporation and the value of clearing and
+settling of different kinds of contracts permitted on your clearing corporation? Give details.
+43. (a) Do you have any bye-laws, contravention of which makes a contract void?
+(b)
+Do you have necessary infrastructure, margin mechanism and adequate risk management mechanism to ensure market
+safety and integrity? Give Details
+(c)
+Do you undertake any other activity other than clearing and settling? Give Details.
+(d)
+What is your net worth? Give Details.
+(e)
+Give details of business hours?
+(f)
+What are the conditions subject to which dealings are admitted for clearing and settlement?
+44. Do you maintain Settlement Guarantee Fund? Give details of the corpus of the settlement guarantee fund, its
+contribution, circumstances for utilisation, priority of utilisation, etc
+45. How do you ensure the adequacy of the Settlement Guarantee Fund? Do you perform stress tests on a periodic
+basis. Give details and results of the latest stress test.
+46. What is the netting procedure adopted by the clearing corporation for determining the obligations of the clearing
+member?
+47. What is your policy in respect of settling trades of shareholder stock exchange and non-shareholder stock
+exchange?
+48. Do you have any provisions for regulating the volume of business and exposure taken by any individual clearing
+member other than through a system of margins? If so, give details.
+49. What provisions have you made for regulating- (a) the entering into contracts, their performance and rescission (b)
+the consequences of breach, default or insolvency on the part of trading or clearing members whether acting as buyers,
+sellers or intermediaries?
+Part V ? Infrastructure 50. Do you have any machinery for arbitration of disputes between clearing members and/or
+between clearing members and their constituents and trading member and clearing member? Give details.
+51. Have you established connectivity with the depositories, clearing banks, stock exchange and clearing members?
+Give details.
+52. What is the average load that is being handled by your systems? What is the peak load that can be handled and the
+extent of scalability of the systems in times of stress?
+53.
+What is your business continuity plan? Give details including details of the disaster recovery site.
+54.
+What are the names, qualifications and expertise of your key management personnel?
+Form B
+[See regulation 9 and 12]
+The Securities and Exchange Board of India
+No. ....................................The Securities and Exchange Board of India, having considered the application for grant of
+recognition/renewal of recognition under regulation 4/regulation 12 of the Securities Contracts (Regulation) (Stock
+Exchanges and Clearing Corporations) Regulations, 2012 by.............................. (name and address of clearing
+corporation) and being satisfied that it would be in the interest of the trade, in the interest of securities market and also in
+the public interest so to do, hereby grants, in exercise of the powers conferred by section 4 read with sub-section (4) of
+section 8A of the Securities Contracts (Regulation) Act, 1956, recognition to the said clearing corporation for
+................... year/years ending ......................20 ....... subject to the conditions stated herein below or as may be
+prescribed or imposed hereafter.
+Page 24/28
+----- PAGE 25 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+Seal of the Board
+Date:
+Place: Mumbai
+Signature of Officer
+II
+Part - A [See regulation 26(1)]
+Code of conduct for the directors on the governing board
+i. Meetings and minutes. - Every director of the recognised stock exchange and recognised clearing corporation shall-
+a) not participate in discussions on any subject matter in which any conflict of interest exists or arises, whether
+pecuniary or otherwise, and in such cases the same shall be disclosed and recorded in the minutes of the meeting;
+b) not encourage the circulation of agenda papers during the meeting, unless circumstances so require;
+c) offer their comments on the draft minutes and ensure that the same are incorporated in the final minutes;
+d) insist on the minutes of the previous meeting being placed for approval in subsequent meeting;
+e) endeavour to have the date of next meeting fixed at each governing board meeting in consultation with other
+members of the governing board;
+f) endeavour to ensure that in case all the items of the agenda of a meeting were not covered for want of time, the next
+meeting is held within fifteen days for considering the remaining items.
+ii. Code of Conduct for the public interest directors. - a) In addition to the conditions stated in Para (i) above, public
+interest directors of the recognised stock exchange or recognised clearing corporation shall, endeavour to attend all the
+governing board meetings and they shall be liable to vacate office if they remain absent for three consecutive meetings
+of the governing board or do not attend seventy five per cent. of the total meetings of the governing board in a calendar
+year.
+b) Public interest directors shall meet separately, at least once in six months to exchange views on critical issues.
+iii. Strategic planning. - Every director of the recognised stock exchange and recognised clearing corporation shall-
+a) participate in the formulation and execution of strategies in the best interest of the recognised stock exchange or
+recognised clearing corporation and contribute towards pro-active decision making at the governing board level;
+b) give benefit of their experience and expertise to the recognised stock exchange or recognised clearing corporation
+and provide assistance in strategic planning and execution of decisions.
+iv. Regulatory compliances. - Every director of the recognised stock exchange and recognised clearing corporation
+shall-
+a) endeavour to ensure that the recognised stock exchange or recognised clearing corporation abides by all the
+provisions of the Securities and Exchange Board of India Act, 1992, Securities Contracts (Regulation) Act, 1956, rules
+and regulations framed thereunder and the circulars, directions issued by the Board from time to time;
+b) endeavour compliance at all levels so that the regulatory system does not suffer any breaches;
+c) endeavour to ensure that the recognised stock exchange or recognised clearing corporation takes steps
+commensurate to honour the time limit stipulated by Board for corrective action;
+d) not support any decision in the meeting of the governing board which may adversely affect the interest of investors
+and shall report forthwith any such decision to the Board.
+v. General responsibility. - Every director of the recognised stock exchange and recognised clearing corporation shall-
+a) place priority for redressing investor grievances and encouraging fair trade practice so that the recognised stock
+exchange or recognised clearing corporation becomes an engine for the growth of the securities market;
+b) endeavour to analyse and administer the recognised stock exchange or recognised clearing corporation issues with
+professional competence, fairness, impartiality, efficiency and effectiveness;
+c) submit the necessary disclosures/statement of holdings/dealings in securities as required by the recognised stock
+exchange or recognised clearing corporation from time to time as per their Rules or Articles of Association;
+d) unless otherwise required by law, maintain confidentiality and shall not divulge/disclose any information obtained in
+the discharge of their duty and no such information shall be used for personal gains;
+e) maintain the highest standards of personal integrity, truthfulness, honesty and fortitude in discharge of their duties in
+order to inspire public confidence and shall not engage in acts discreditable to their responsibilities;
+f) perform their duties in an independent and objective manner and avoid activities that may impair, or may appear to
+impair, their independence or objectivity or official duties;
+Page 25/28
+----- PAGE 26 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+g) perform their duties with a positive attitude and constructively support open communication, creativity, dedication, and
+compassion;
+h) not engage in any act involving moral turpitude, dishonesty, fraud, deceit, or misrepresentation or any other act
+prejudicial to the administration of the recognised stock exchange or recognised clearing corporation.
+Part - B [See regulation 26(2)]
+Code of Ethics for directors and key management personnel of stock exchanges or clearing corporations
+The `Code of Ethics' for directors and key management personnel of the recognised stock exchanges or recognised
+clearing corporations, is aimed at improving the professional and ethical standards in the functioning of recognised stock
+exchanges or recognised clearing corporations thereby creating better investor confidence in the integrity of the market.
+i. Objectives and underlying principles. - The Code of Ethics for directors and key management personnel of the
+recognised stock exchange or recognised clearing corporation seeks to establish a minimum level of business/
+professional ethics to be followed by these directors and key management personnel, towards establishing a fair and
+transparent marketplace. The Code of Ethics is based on the following fundamental principles:
+? Fairness and transparency in dealing with matters relating to the stock exchange or clearing corporation and the
+investors.
+? Compliance with all laws/ rules/ regulations laid down by regulatory agencies/ recognised stock exchange/ recognised
+clearing corporation.
+? Exercising due diligence in the performance of duties.
+? Avoidance of conflict of interest between self interest of directors/ key management personnel and interests of
+recognised stock exchange or recognised clearing corporation and investors.
+ii. Ethics committee. - For overseeing implementation of this Code, an ethics committee shall be constituted by every
+recognised stock exchange and recognised clearing corporation under the respective governing board.
+iii. General standards. - a) Directors and key management personnel shall endeavour to promote greater awareness and
+understanding of ethical responsibilities.
+b) Directors and key management personnel, in the conduct of their business shall observe high standards of
+commercial honour and just and equitable principles of trade.
+c) The conduct of directors and key management personnel in business life should be exemplary which will set a
+standard for other members of the recognised stock exchange or recognised clearing corporation.
+d) Directors and key management personnel shall not use their position to give/get favours to/from the executive or
+administrative staff of the stock exchange or clearing corporation, technology or service providers and vendors of the
+recognised recognised stock exchange or clearing corporation, or any listed company at the recognised stock exchange.
+e) Directors and key management personnel shall not commit any act which will put the reputation of the recognised
+stock exchange or recognised clearing corporation, in jeopardy.
+f) Directors, committee members and key management personnel of the recognised stock exchange or recognised
+clearing corporation, should comply with all rules and regulations applicable to the securities market.
+iv. Disclosure of dealings in securities by key management personnel of the stock exchange or clearing corporation. - a)
+Key management personnel of the recognised stock exchange or recognised clearing corporation shall disclose on a
+periodic basis as determined by the stock exchange or recognised clearing corporation (which could be monthly), all
+their dealings in securities, directly or indirectly, to the governing board/ ethics committee/ Compliance Officer.
+b) The dealings in securities shall also be subject to trading restrictions for securities about which key management
+personnel in the recognised stock exchange or recognised clearing corporation may have non-public price sensitive
+information. Requirement laid down under Securities and Exchange Board of India (Prohibition of Insider Trading)
+Regulations, 1992 may be referred in this regard.
+c) All transactions must be of an investment nature and not speculative in nature. Towards this end, all securities
+purchased must be held for a minimum period of sixty days before they are sold. However, in specific/exceptional
+circumstances, sale can be effected anytime by obtaining pre-clearance from the Compliance Officer to waive this
+condition after recording in writing his satisfaction in this regard.
+Explanation. - "securities" for the purposes of this Code shall not include mutual fund units.
+v. Disclosure of dealings in securities by directors of the stock exchange or clearing corporation. - a) All transactions in
+securities by the directors and their family shall be disclosed to the governing board of the recognised stock exchange or
+recognised clearing corporation.
+Page 26/28
+----- PAGE 27 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+b) All directors shall also disclose the trading conducted by firms/corporate entities in which they hold twenty per cent. or
+more beneficial interest or hold a controlling interest, to the Ethics Committee.
+c) Directors who are Govt. of India nominees or nominees of Govt. of India statutory bodies or financial institutions and
+are governed by their own codes shall be exempt from this requirement.
+vi. Avoidance of conflict of interest. - a) No director of the governing board or member of any committee of the
+recognised stock exchange or recognised clearing corporation shall participate in any decision making/adjudication in
+respect of any person /matter in which he is in any way, directly or indirectly, concerned or interested.
+b) Whether there is any conflict of interest or not in a matter, should be decided by the governing board.
+vii. Disclosures of beneficial interest. - All directors and key management personnel shall disclose to the governing
+board, upon assuming office and during their tenure in office, whenever the following arises:-
+a) any fiduciary relationship of self and family members and directorship/partnership of self and family members in any
+trading member or clearing member;
+b) shareholding, in cases where the shareholding of the director, directly or through his family exceeds 5 per cent. in any
+listed company or in other entities related to the securities markets;
+c) any other business interests.
+viii. Role of the Chairperson and directors in the day to day functioning of the stock exchange or clearing corporation. -
+a) The Chairperson and directors shall not interfere in the day to day functioning of the recognised stock exchange or
+recognised clearing corporation and shall limit their role to decision making on policy issues and to issues as the
+governing board may decide.
+b) The Chairperson and directors shall abstain from influencing the employees of the recognised stock exchange or
+recognised clearing corporation in conducting their day to day activities.
+c) The Chairperson and directors shall not be directly involved in the function of appointment and promotion of
+employees unless specifically so decided by the governing board.
+ix. Access to information. - a) Directors shall call for information only as part of specific committees or as may be
+authorised by the governing board.
+b) There shall be prescribed channels through which information shall move and further there shall be audit trail of the
+same. Any retrieval of confidential documents/ information shall be properly recorded.
+c) All such information, especially which is non-public and price sensitive, shall be kept confidential and not be used for
+any personal consideration/ gain.
+d) Any information relating to the business/operations of the recognised stock exchange or recognised clearing
+corporation, which may come to the knowledge of directors/ key management personnel during performance of their
+duties shall be held in strict confidence, shall not be divulged to any third party and shall not be used in any manner
+except for the performance of their duties.
+x. Misuse of position. - Directors/ committee members shall not use their position to obtain business or any pecuniary
+benefit in the organization for themselves or family members.
+xi. Ethics committee to lay down procedures. - a) The ethics committee shall lay down procedures for the
+implementation of the code and prescribe reporting formats for the disclosures required under the code.
+b) The Compliance Officer shall execute the requirements laid down by the ethics committee.
+While the objective of this Code is to enhance the level of market integrity and investor confidence, it is emphasized that
+a written code of ethics may not completely guarantee adherence to high ethical standards. This can be accomplished
+only if directors and key management personnel of the recognised stock exchange or recognised clearing corporation
+commit themselves to the task of enhancing the fairness and integrity of the system in letter and spirit.
+Part - C [See regulation 28]
+Measures to ensure segregation of regulatory departments
+In order to ensure the segregation of regulatory departments, every recognised stock exchange and recognised clearing
+corporation shall adopt a "Chinese Wall" policy which separates the regulatory departments of the recognised stock
+exchange or recognised clearing corporation from the other departments. The employees in the regulatory departments
+shall not communicate any information concerning regulatory activity to any one in other departments. The employees in
+regulatory areas may be physically segregated from employees in other departments including with respect to access
+controls. In exceptional circumstances employees from other departments may be given confidential information on
+"need to know" basis, under intimation to the Compliance Officer.
+Page 27/28
+----- PAGE 28 -----
+The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulati...
+Related AI tags, queries and research notes
+Translation
+Page 28/28

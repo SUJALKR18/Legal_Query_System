@@ -1,0 +1,650 @@
+
+----- PAGE 1 -----
+Securities Transaction Tax Rules, 2004
+Securities Transaction Tax Rules, 2004
+Source: https://indiankanoon.org/doc/35003869/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Securities Transaction Tax Rules, 2004
+UNION OF INDIA
+India
+Securities Transaction Tax Rules, 2004
+Rule SECURITIES-TRANSACTION-TAX-RULES-2004 of 2004
+Published on 28 September 2004
+Commenced on 28 September 2004
+[This is the version of this document from 28 September 2004.]
+[Note: The original publication document is not available and this content could not be verified.]
+Securities Transaction Tax Rules, 2004
+Published vide Notification Gazette of India, Extra, Part 2, Section 3(ii), dated 28.9.2004.
+1687.
+S.O. 1059(E), dated 28.9.2004.- In exercise of the powers conferred by sub-section (1) read with subsection (2) of
+section 114 of the Finance (No.2) Act, 2004 (23 of 2004), the Central Government hereby makes the following rules for
+carrying out the provisions of Chapter VII of the said Act relating to securities transaction tax, namely:-
+1.
+Short title and commencement.-
+(1)
+These rules may be called the Securities Transaction Tax Rules, 2004.
+(2)
+Page 1/13
+----- PAGE 2 -----
+Securities Transaction Tax Rules, 2004
+They shall come into force on the 1st day of October, 2004.
+2.
+Definitions.-
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Finance (No.2) Act, 2004 ( 23 of 2004);
+(b)
+"authorised bank" means any bank as may be appointed by the Reserve Bank of India as its agent under the provisions
+of sub-section (1) of section 45 of the Reserve Bank of India Act, 1934 (
+2 of 1934
+);
+(c)
+"Form" means a Form set out in the Appendix to these rules.
+3.
+Value of taxable securities transaction.-
+For the purposes of clause (c) of section 99 of the Act, the value of a taxable securities transaction, being a purchase or
+sale of an equity share in a company or a unit of an equity oriented fund, entered into in a recognised stock exchange,
+shall be determined in the following manner, namely:-
+(a)
+where the equity share or unit is purchased or sold by a person on a trading day in the netted settlement mode,
+(i)
+the quantity of shares or units purchased or sold in each trade in that equity share or unit executed by the person on that
+day, shall be multiplied by the price at which the trade is executed, to determine the trade value of each such trade;
+(ii)
+the aggregate trade value of all trades in the equity share or unit by the person on that day shall be arrived at by totalling
+the trade values determined under sub-clause (i);
+(iii)
+the aggregate trade value arrived at under sub-clause (ii), shall be divided by the total quantity of the equity share or unit
+traded by the person on that day, to determine the volume weighted average price of that equity share or unit for that
+person for that day;
+(iv)
+such volume weighted average price (rounded off to the nearest paisa) shall be taken to be the value of the taxable
+securities transaction relating to the equity share or unit.
+Explanation.- For the purposes of this clause, the determination of the value of taxable securities transaction in a case
+where the equity share or unit is purchased or sold through a member of the stock exchange, shall be made with
+reference to the trades executed in the equity share or unit under a particular client Code through that member;
+(b)
+where the equity share or unit is purchased or sold by a person in the trade-fortrade settlement mode, the value of the
+taxable securities transaction shall be the price at which the equity share or unit is purchased or sold;
+(c)
+where the equity share or unit is purchased in the auction settlement mode, the value of the taxable securities
+transaction shall be the volume weighted average price of the equity share or unit, determined in the manner specified in
+clause (a), in respect of all trades in that equity share or unit carried out in the auction session;
+(d)
+where the equity share or unit is sold in the auction settlement mode, the value of the taxable securities transaction shall
+be the price at which the equity share or unit is sold.
+Explanation.- For the purposes of this rule -
+(i)
+"netted settlement mode" means a mode of settlement of transactions in a recognised stock exchange where the
+quantity of an equity share or unit purchased by a person on a trading day is set off against the quantity of that equity
+Page 2/13
+----- PAGE 3 -----
+Securities Transaction Tax Rules, 2004
+share or unit sold by him on that day and actual delivery is required to be taken or given by him as the case may be,
+only in respect of the net quantity purchased or sold as has not been so set off;C:\Documents and
+Settings\mnautiyal\Desktop\STT Rules(final).doc
+(ii)
+"trade-for-trade settlement mode" means a mode of settlement of transactions in a recognised stock exchange where
+each trade is compulsorily required to be settled by actual delivery;
+(iii)
+"auction settlement mode" means a mode of settlement, in a stock exchange, of transactions carried out in the auction
+session, being a trading session in which the stock exchange makes purchases of equity shares or units through an
+auction process initiated by it, so as to settle transactions where there has been a failure to deliver such equity shares or
+units which were required to be delivered.
+4.
+Rounding off value of taxable securities transaction, securities transaction tax, etc.-
+The value of taxable securities transaction and the amount of securities transaction tax, interest and penalty payable,
+and the amount of refund due, under the provisions of Chapter VII of the Act shall be rounded off to the nearest rupee
+and, for this purpose, where such amount contains a part of a rupee consisting of paise then, if such part is fifty paise or
+more, it shall be increased to one rupee and if such part is less than fifty paise it shall be ignored.
+5.
+Person responsible for collection and payment of securities transaction tax in case of a Mutual Fund. -
+In the case of a Mutual Fund, the person responsible for collection and payment of securities transaction tax in
+accordance with sub-sections (2), (3) and (4) of section 100 of the Act, shall be the trustee of the Fund, or such other
+person managing the affairs of the Mutual Fund as may be duly authorised by the trustee in this behalf.
+6.
+Payment of Securities Transaction Tax. -
+Every recognised stock exchange, or, as the case may be, the trustee of every Mutual Fund or such other person
+managing the affairs of the mutual fund as may be duly authorised by the trustee in this behalf, who is required to collect
+and pay securities transaction tax under section 100, shall pay the amount of such tax to the credit of the Central
+Government by remitting it into any branch of the Reserve Bank of India or of the State Bank of India or of any
+authorised bank accompanied by a securities transaction tax challan.
+7.
+Return of taxable securities transactions.-
+(1)
+The return of taxable securities transactions required to be furnished under sub-section (1) of section 101 of the Act
+shall,-
+(a)
+in the case of a recognised stock exchange, be in Form No. 1 and be verified in the manner indicated therein;
+(b)
+in the case of a Mutual Fund, be in Form No. 2 and be verified in the manner indicated therein.
+(2)
+The particulars required to be furnished in the schedules to Form No. 1 and Form No. 2 referred to in sub-rule (1) shall
+be furnished on a computer media, in accordance with the following, -
+(a)
+the computer media conforms to the following specifications:-
+(i)
+CD ROM of 650 MB capacity or higher capacity; or
+(ii)
+4mm 2GB/ 4GB (90M/ 120M) DAT Cartridge, or
+(iii)
+Digital Video Disc;
+(b)
+if the data relating to the schedules is copied using data compression or backup software utility, the corresponding
+Page 3/13
+----- PAGE 4 -----
+Securities Transaction Tax Rules, 2004
+software utility or procedure for its decompression or restoration shall also be furnished;
+(c)
+the return shall be accompanied by a certificate regarding clean and virus free data.
+(3)
+In the case of a Mutual Fund, the return referred to in sub-rule (1) shall be furnished by the trustee of the Fund, or such
+other person managing the affairs of the Mutual Fund as may be duly authorised by the trustee in this behalf.
+(4)
+The return of taxable securities transaction entered into during a financial year shall be furnished on or before the 30th
+June immediately following that financial year.
+8.
+Return by whom to be signed.-
+The return under sub-section (1) of section 101 of the Act shall be signed and verified -
+(a)
+in the case of a recognised stock exchange -
+(i)
+being a company, by the managing director or a director thereof;
+(ii)
+in any other case, by the principal officer thereof.
+(b)
+in the case of a Mutual Fund, by the trustee or such other person managing the affairs of the Mutual Fund as may be
+duly authorised by the trustee in this behalf.
+9.
+Time limit to be specified in the notice calling for return of taxable securities transaction.-
+Where an assessee fails to furnish the return under sub-section (1) of section 101 of the Act within the time specified in
+sub-rule (4) of rule 7, the Assessing Officer may issue a notice to such person requiring him to furnish, within thirty days
+from the date of service of the notice, a return in the Form prescribed in rule 7 as applicable to him and verified in the
+manner indicated therein.
+10.
+Rules(final).doc Notice of demand.-
+Where any tax, interest or penalty is payable in consequence of any order passed under the provisions of Chapter VII of
+the Act, the Assessing Officer shall serve upon the assessee a notice of demand in Form No. 3 specifying the sum so
+payable.
+11.
+Prescribed time for refund of tax to the person from whom such amount was collected.-
+Every assessee, in case any amount is refunded to it on assessment under sub-section (2) of section 102 of the Act,
+shall, within thirty days from the date of receipt of such amount, refund the same to the concerned person from whom it
+was collected.
+12.
+Form of appeal to Commissioner of Income-tax (Appeals).-
+(1)
+An appeal under sub-section (1) of section 110 to the Commissioner (Appeals) shall be made in Form No. 4.
+(2)
+The form of appeal prescribed by sub-rule (1), the grounds of appeal and the form of verification appended thereto
+relating to an assessee shall be signed and verified by the person who is authorised to sign the return of taxable
+securities transactions under rule 8, as applicable to the assessee.
+13.
+Form of appeal to Appellate Tribunal.-
+An appeal under sub-section (1) or sub-section (2) of section 111 of the Act to the Appellate Tribunal shall be made in
+Form No. 5, and where the appeal is made by the assessee, the form of appeal, the grounds of appeal and the form of
+verification appended thereto shall be signed by the person specified in rule 8.
+APPENDIX
+Page 4/13
+----- PAGE 5 -----
+Securities Transaction Tax Rules, 2004
+FORM NO. 1
+[See rule 7 of Securities Transaction Tax Rules, 2004]
+Return Of Taxable Securities Transactions
+For recognised stock exchanges
+Please follow instructions.
+Use block letters only.
+1. NAME OF THE STOCK EXCHANGE
+2. ADDRESS OF THE STOCK EXCHANGE
+3. PERMANENT ACCOUNT NUMBER (PAN)
+4. FINANCIAL YEAR (TRANSACTIONS RELATING TO WHICH ARE REPORTED)-
+5. WARD/CIRCLER/RANGE
+6. VALUE OF TAXABLE SECURITIES TRANSACTIONS
+CODE*
+(Schedule)
+VALUE
+(In Rs.)
+01.
+(A[7])
+02.
+(A[8])
+03.
+(A[9])
+04.
+(B[8])
+05.
+(B[9])
+TOTAL
+7. TOTAL SECURITIES TRANSACTION TAX COLLECTIBLE
+CODE*
+(Schedule)
+AMOUNT
+(In Rs.)
+01.
+(A[10])
+02.
+(A[11])
+03.
+(A[12])
+04.
+(B[10])
+05.
+(B[11])
+TOTAL
+Schedule
+8. TOTAL SECURITIES TRANSACTION TAX COLLECTED
+9. TOTAL SECURITIES TRANSACTION TAX PAID
+10. SECURITIES TRANSACTION TAX PAYABLE/REFUNDABLE (7-9)
+11. INTEREST PAYABLE UNDER SECTION 104
+12. INTEREST PAID
+VERIFICATION
+I, ........... (full name in block letters), son/ daughter of ............ solemnly declare that to the best of my knowledge and
+Page 5/13
+----- PAGE 6 -----
+Securities Transaction Tax Rules, 2004
+belief the information given in this return and schedules accompanying it is correct and complete and that the total value
+of taxable securities transactions and other particulars shown therein are truly stated and are in accordance with
+provisions of Chapter VII of the Finance (No.2) Act, 2004 and Securities Transaction Tax Rules, 2004.
+I further declare that I am making this return in my capacity as ......... and I am also competent to make this return and
+verify it.
+Date .........
+Place .........
+(Name and Signature)
+CODES IN RESPECT OF TAXABLE SECURITIES TRANSACTION
+Sl. No.
+Nature of transaction
+Code
+1.
+Purchase of an equity share in a company or a unit of an equity oriented fund, where -
+(a) the transaction of such purchase is entered into in a recognized stock exchange;  and
+(b) The contract for the purchase of such share or unit is settled by the actual delivery or transfer of such share or unit.
+01
+2.
+Sale of an equity share in a company or a unit of an equity oriented fund, where -
+(a) the transaction of such sale is entered into in a recognized stock exchange; and
+(b) The contract for the sale of such share or unit is settled by the actual delivery or transfer of such share or unit.
+02
+3.
+Sale of an equity share in a company or a unit of an equity oriented fund, where -
+(a) the transaction of such sale is entered into in a recognized stock exchange; and
+(b) The contract for the sale of such share or unit is settled otherwise than by the actual delivery or transfer of such
+share or unit.
+03
+4.
+Sale of a derivative being "option in securities", where the transaction of such sale is entered into in a recognized stock
+exchange.
+04
+5.
+Sale of a derivative being "futures", where the transaction of such sale is entered into in a recognized stock exchange.
+05
+A
+Sl. No.
+Stock Broker Code
+Trading Client Code
+Client Name
+PAN of Client
+MAPIN of Client
+Value of taxable securities transactions (in Rs.)
+Securities transaction tax collectible (in Rs.)
+Code 01
+Code 02
+Code 03
+Code 01
+Code 02
+Code 03
+1
+Page 6/13
+----- PAGE 7 -----
+Securities Transaction Tax Rules, 2004
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+TOTAL
+B
+Sl. No.
+Clearing member code
+Stock broker code
+Trading client code
+Client Name
+PAN of Client
+MAPIN of Client
+Value of taxable Securities Transaction (in Rs.)
+Securities transaction tax Collectible (in Rs.)
+Code 04
+Code 05
+Code 04
+Code 05
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+TOTAL
+C
+Month
+Taxable securities transaction Code
+Value of taxable securities transactions during the month
+Securities transaction tax collectible (In Rs.)
+Securities transaction tax collected (In Rs.)
+Securities transaction tax paid (In Rs.)
+Interest payable under section 104 (In Rs.)
+1
+2
+3
+4
+5
+Page 7/13
+----- PAGE 8 -----
+Securities Transaction Tax Rules, 2004
+6
+7
+Interest paid under section 104 (In Rs.)
+Particulars of payment of securities transaction tax/interest u/s. 104
+Tax/Interest
+(In Rs.)
+Name of the bank branch
+BSR code of the bank branch
+Date of deposit
+Serial No. of Challan
+Amount
+(In Rs.)
+8
+9
+10
+11
+12
+13
+14
+Notes:-
+1. This Form must be used by a recognised stock exchange only.
+2. Details required in Schedules A, B and C may be furnished on computer media as specified in rule 7.
+3. Details required in Schedules A and B may be given separately for each stock Broker code and Clearing Member
+Code as the case may be. Particulars of Client Name, PAN and MAPIN of client should be given wherever available.
+4. Particulars of Trading Client Code in Schedule A need not be given in respect of purchase transactions conducted by
+the stock exchange during auction sessions on behalf of stock brokers who have failed to deliver shares or unit in
+settlement.
+5. Details required in Schedule C may be given separately for each month for each type of transaction (Codes 01 to 05)
+and sub-total for each month be also given.
+FORM NO. 2
+[See rule 7 of Securities Transaction Tax Rules, 2004]
+Return of Taxable Securities Transactions
+For Mutual Funds
+Please follow instructions.
+Use block letters only.
+1. NAME OF THE MUTUAL FUND
+2. DATE OF REGISTRATION OF TRUST DEED FOR THE MUTUAL FUND UNDER THE INDIAN REGISTRATION
+ACT, 1908
+3. NAMES AND ADDRESSES OF TRUSTEES - SCHEDULE - A
+4. NAME AND ADDRESS OF ASSET MANAGEMENT COMPANY FOR THE FUND
+5. PERMANENT ACCOUNT NUMBER (PAN) OF ASSET MANAGEMENT COMPANY FOR THE FUND
+6. FINANCIAL YEAR (TRANSACTIONS RELATING TO WHICH ARE REPORTED)
+7. WARD/CIRCLE/RANGE
+8. NUMBER OF EQUITY ORIENTED FUNDS
+9. VALUE OF TAXABLE SECURITIES TRANSACTIONS (B[7])
+10. TOTAL SECURITIES TRANSACTION TAX COLLECTIBLE (B[8])
+11. TOTAL SECURITIES TRANSACTION TAX COLLECTED (C[6])
+12. TOTAL SECURITIES TRANSACTION TAX PAID (C[7])
+13. SECURITIES TRANSACTION TAX PAYABLE/REFUNDABLE (10-12)
+14.
+INTEREST PAYABLE UNDER SECTION 104 (C[8])
+Page 8/13
+----- PAGE 9 -----
+Securities Transaction Tax Rules, 2004
+15.
+INTEREST PAID (C[9])
+VERIFICATION
+I, ........... (full name in block letters), son/ daughter of ............ solemnly declare that to the best of my knowledge and
+belief the information given in this return and schedules accompanying it is correct and complete and that the total value
+of taxable securities transactions and other particulars shown therein are truly stated and are in accordance with
+provisions of Chapter VII of the Finance (No.2) Act, 2004 and Securities Transaction Tax Rules, 2004.
+I further declare that I am making this return in my capacity as ......... and I am also competent to make this return and
+verify it.
+Date: .........
+Place .........
+(Name and Signature)
+A
+Sl. No.
+Name
+Address
+1
+2
+3
+TOTAL
+| | | | | | | | | |
+B
+Name of equity oriented fund
+Unique Client Code of the fund
+Folio number of person from whom units purchased
+Name of person from whom units purchased
+PAN of person from whom units purchased
+MAPIN of person from whom units purchased
+Value of taxable securities transaction (In Rs.)
+Securities transaction tax Collectible (In Rs.)
+Securities transaction tax collected (In Rs.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+TOTAL
+C
+Month
+Name of equity oriented fund
+Unique Client Code of the fund
+Value of taxable securities transactions during the month
+Securities transaction tax collectible (In Rs.)
+Securities transaction tax collected (In Rs.)
+Securities transaction tax paid (In Rs.)
+Interest payable under section 104 (In Rs.)
+1
+Page 9/13
+----- PAGE 10 -----
+Securities Transaction Tax Rules, 2004
+2
+3
+4
+5
+6
+7
+8
+Interest paid under section 104 (In Rs.)
+Particulars of payment of securities transaction tax/interest u/s. 104
+Tax/Interest
+(In Rs.)
+Name of the bank branch
+BSR code of the bank branch
+Date of deposit
+Serial No. of Challan
+Amount
+(In Rs.)
+9
+10
+11
+12
+13
+14
+15
+NOTES:-
+1. This Form must be used by a Mutual Fund only.
+2. Details required in Schedules A, B & C may be filed on computer media as specified in rule 7.
+3. Details required in Schedule B be given separately for each equity oriented fund set up by the Mutual Fund and
+sub-total for each fund be also given.
+4. Details required in Schedule C be given separately for each month for each equity oriented fund set up by the Mutual
+Fund and sub-total for each month be also given.
+FORM NO. 3
+[See rule 10 of Securities Transaction Tax Rules, 2004]
+Notice of demand
+To,
+1. This is to give you notice that for the financial year .......... a sum of Rs. ......., details of which are given on the reverse,
+has been determined to be payable by you.
+2. The amount should be paid to the Manager, authorised bank or State Bank of India or Reserve Bank of India at .......
+within 30 ......... days of the service of this notice. The previous approval of the Additional/ Joint Commissioner of
+Income-tax has been obtained for allowing a period of less than 30 days for the payment of the above sum. A challan is
+enclosed for the purpose of payment.
+3. If you do not pay the amount within the period specified above, you shall be liable to pay simple interest at one per
+cent for every month or part of a month from the date commencing after the end of the period aforesaid in accordance
+with section 220(2) of the Income-tax Act read with section 109 of the Finance (No.2) Act, 2004.
+4. If you do not pay the amount of the tax within the period specified above, penalty (which may be as much as the
+amount of tax in arrear) may be imposed upon you after giving you a reasonable opportunity of being heard in
+accordance with section 221 of the Income-tax Act read with section 109 of the Finance (No.2) Act, 2004.
+5. If you do not pay the amount within the period specified above, proceedings for the recovery thereof will be taken in
+accordance with sections 222, 227, 229 and 232 of the Income-tax Act, 1961 read with section 109 of the Finance
+(No.2) Act, 2004.
+6. If you intend to appeal against the assessment or penalty, you may present an appeal under section 110 of Chapter
+Page 10/13
+----- PAGE 11 -----
+Securities Transaction Tax Rules, 2004
+VII of the Finance (No.2) Act, 2004, to the Commissioner of Income-tax (Appeals) .......... within thirty days of the receipt
+of this notice, in Form No. 4 as prescribed in rule 12, duly stamped and verified as laid down in that form.
+7. The amount has become due as a result of the order of the Commissioner of Income-tax (Appeals) under section 110
+of the Chapter VII of the Finance (No. 2) Act, 2004. If you intend to appeal against the aforesaid order, you may present
+an appeal under section 111 of Chapter VII of the said Act to the Income-tax Appellate Tribunal .........within sixty days of
+the receipt of that order, in Form No. 5, as prescribed in rule 13, duly stamped and verified as laid down in that form.
+Place ...........
+Date ...........
+Notes:-
+1. Delete inappropriate paragraphs and words.
+2. If you wish to pay the amount by cheque, the cheque should be drawn in favour of the Manager, authorised bank or
+State Bank of India or Reserve Bank of India.
+3. If you intend to seek extension of time for payment of the amount or propose to make the payment by instalments, the
+application for such extension or as the case may be, permission to pay by instalments, should be made to the
+Assessing Officer before the expiry of the period specified in paragraph 2. Any request received after the expiry of the
+said period will not entertained in view of the specific provisions of section 220(3) of the Income-tax Act.
+FORM NO. 4
+[See rule 12 of Securities Transaction Tax Rules, 2004]
+Appeal to the Commissioner of Income-tax (Appeals)
+Designation of the Commissioner (Appeals)
+1. Name and address of the appellant.
+2. Permanent Account Number.
+3. Financial year in connection with which the appeal is preferred
+4. Assessing Officer passing the order appealed against
+5. Section and sub-section of the Chapter VII of the Finance (No.2) Act, 2004, under which the Assessing Officer passed
+the order appealed against and the date of such order
+6. Where the appeal relates to any assessment or penalty, the date of service of the relevant notice of demand
+7. In any other case, the date of service of the intimation of the order appealed against
+8. Section and sub-section of the Chapter VII of the Finance (No.2) Act, 2004, under which the appeal is preferred
+9. Where a return has been filed by the appellant for the financial year in connection with which the appeal is preferred,
+whether tax due on the value of taxable securities transaction returned has been paid in full (if the answer is in the
+affirmative, give details of date of payment and amount paid)
+10. Relief claimed in appeal
+11. Where an appeal in relation to any other financial year is pending in the case of the appellant with any
+Commissioner (Appeals), give the details as to the -
+(a)
+Commissioner (Appeals), with whom the appeal is pending;
+(b)
+financial year in connection with which the appeal has been preferred;
+(c)
+Assessing Officer passing the order appealed against;
+(d)
+section and sub-section of the Chapter VII of the Finance (No. 2) Act, under which the Assessing Officer passed the
+order appealed against and the date of such order
+12. Address to which notices may be sent to the appellant
+FORM OF VERIFICATION
+I, ........., the appellant, do hereby declare that what is stated above is true to the best of my information and belief.
+Place .........
+Date ...........
+Notes:-
+1. The form of appeal, grounds of appeal and the form of verification appended thereto shall be signed by a person in
+Page 11/13
+----- PAGE 12 -----
+Securities Transaction Tax Rules, 2004
+accordance with the provisions of rule 8 of Securities Transaction Rules, 2004.
+2. The memorandum of appeal, statement of facts and the grounds of appeal must be in duplicate and should be
+accompanied by a copy of the order appealed against and the notice of demand in original, if any.
+3. Delete the inappropriate words.
+4. These particulars will be filled in in the office of the Commissioner (Appeals).
+5. If the space provided herein is insufficient, separate enclosures may be used for the purpose.
+6. If appeals are pending in relation to more than one financial year, separate particulars in respect of each financial
+year may be given.
+7. The memorandum of appeal shall be accompanied by a fee of one thousand rupees.
+8. The fee should be credited in a branch of the authorised bank or a branch of the State Bank of India or a branch of
+the Reserve Bank of India after obtaining a challan from the Assessing Officer.
+FORM NO. 5
+[See rule 13 of Securities Transaction Tax Rules, 2004]
+Form of appeal to the Appellate Tribunal
+APPELLANT Versus RESPONDENT
+1. The State in which the assessment was made
+2. Section of the Chapter VII of the Finance (No.2) Act, 2004 under which the order appealed against was passed
+3. The Commissioner (Appeals) passing the order appealed against
+4. Financial year in connection with which the appeal is preferred
+5. Total value of taxable securities transactions declared by the assessee for the financial year referred to in item 4
+6. Total value of taxable securities transactions as computed by the Assessing Officer for the financial year referred to in
+item 4
+7. The Assessing Officer passing the original order
+8. Section of the Chapter VII of Finance (No.2) Act, 2004 under which the Assessing Officer passed the order
+9. Date of communication of the order appealed against
+10. Address to which notices may be sent to the appellant
+11. Address to which notices may be sent to the respondent
+12. Relief claimed in appeal
+Verification
+I, ..........., the appellant, do hereby declare that what is stated above is true to the best of my information and belief.
+Place .........
+Date ..........
+1. The memorandum of appeal must be in triplicate and should be accompanied by two copies (at least one of which
+should be a certified copy) of the order appealed against, two copies of the relevant order of the Assessing Officer, two
+copies of the grounds of appeal before the first appellate authority, two copies of the statement of facts, if any, filed
+before the said appellate authority.
+2. The memorandum of appeal by an assessee under section 111(1) of the Chapter VII of Finance (No.2) Act, 2004
+must be accompanied by a fee of one thousand rupees.
+It is suggested that the fee should be credited in a branch of the authorised bank or a branch of the State Bank of India
+or a branch of the Reserve Bank of India after obtaining a challan and the triplicate challan sent to the Appellate Tribunal
+with a memorandum of appeal. The Appellate Tribunal will not accept cheques, drafts, hundies or other negotiable
+instruments.
+3. The memorandum of appeal should be written in English or, if the appeal is filed in a Bench located in any such State
+as is for the time being notified by the President of the Appellate Tribunal for the purposes of rule 5A of the Income-tax
+(Appellate Tribunal) Rules, 1963, then, at the option of the appellant, in Hindi, and should set forth, concisely and under
+distinct heads, the grounds of appeal without any argument or narrative and such grounds should be numbered
+consecutively.
+4. *The number and year of appeal will be filed in the office of the Appellate Tribunal.
+5. Delete the inapplicable columns.
+6. If the space provided is found insufficient, separate enclosures may be used for the purpose.
+Related AI tags, queries and research notes
+Page 12/13
+----- PAGE 13 -----
+Securities Transaction Tax Rules, 2004
+Translation
+Page 13/13

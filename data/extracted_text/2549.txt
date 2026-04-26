@@ -1,0 +1,1453 @@
+
+----- PAGE 1 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Central Electricity Regulatory Commission (Power Market)
+Regulations, 2010
+Source: https://indiankanoon.org/doc/159698194/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+UNION OF INDIA
+India
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Rule CENTRAL-ELECTRICITY-REGULATORY-COMMISSION-POWER-MARKET-REGULATIONS-2010 of 2010
+Published on 20 January 2010
+Commenced on 20 January 2010
+[This is the version of this document from 20 January 2010.]
+[Note: The original publication document is not available and this content could not be verified.]
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Published vide Notification No. L-1/13/2010- CERC, dated 20.1.2010
+Last Updated 6th January, 2020
+No. L-1/13/2010- CERC. - In exercise of powers conferred under Section 66 read with Section 178(2)(y) of the Electricity
+Act, 2003 (
+36 of 2003
+) and paragraph 5.7.1 (f) of the National Electricity Policy, and all other powers enabling it in this behalf, and after
+previous publication, the Central Electricity Regulatory Commission hereby makes the following regulations, namely:
+Part - 1 Preliminary
+Page 1/27
+----- PAGE 2 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+1.
+Short title and commencement.
+- (i) These regulations may be called the Central Electricity Regulatory Commission (Power Market) Regulations, 2010.
+(ii)
+These regulations shall come into force from the date of their publication in the Official Gazette.
+2.
+Definitions and Interpretation.
+- (i) In these regulations, unless the context otherwise requires-
+(a)
+"Act" means the Electricity Act, 2003 (
+36 of 2003
+);
+(b)
+"Annual Turnover" means such turnover in Million Units of Electricity (MU) which is calculated considering the total
+number of units cleared in all types of transactions on a Power Exchange in a financial year.
+For example. - if a transaction of 10 MU is cleared , the turnover considered will be 10 MU only and not a cumulative
+addition of 10 MU as buy quantity and 10 MU as sell quantity of that transaction;
+(c)
+"Automated audit trail" means automated creation and maintenance of time-sequenced record of transactions (creation,
+modification or deletion) in the electronic trading system of Power Exchange for reference at later date/time;
+(d)
+"Board" means board of directors of a Power Exchange;
+(e)
+"Cartelization" means an act by market participants to form an association to control or attempt to control generation,
+distribution, sale or prices or transaction in electricity;
+(ea)
+[ "Collective Transaction" means a set of transactions discovered in power exchange(s) through anonymous,
+simultaneous competitive bidding by buyers and sellers.
+[Added by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+(eb)
+"Continuous Transaction" means a transaction other than collective transaction, where the buy and the sell bids are
+matched on a continuous basis with price-time priority.]
+(f)
+"Contract" means a contract for or relating to the purchase or sale of electricity or its related products;
+(g)
+"Clearing Corporation" means an organization which undertake clearing and financial settlement of all contracts
+transacted on an Exchange with which it is affiliated or any contracts transacted outside the Exchange in accordance
+with these regulations as amended from time to time;
+(h)
+"Clearing" means the process of determination of obligations of Members of Exchange resulting from conclusion of a
+transaction at an Exchange ;
+(i)
+"Client" means a person who executed an agreement with a Member of Power Exchange or Member of Clearing
+Corporation or Electricity Trader for dealing and /or clearing through such member or Electricity Trader ;
+(j)
+"Credit risk" means risk emanating in a contract due to change in financial condition of any of the contracting parties;
+(k)
+"Day ahead contract" means contracts where transaction occurs on day (T) and delivery of power is on the next day
+(T+1) and which are scheduled by Regional Load Despatch Centre or National Load Despatch Centre;
+(ka)
+[ "Day Ahead Market (DAM)" means a market for collective transactions of 'Day Ahead Contracts' through Power
+Page 2/27
+----- PAGE 3 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Exchange(s).]
+[Added by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+(l)
+"Derivative Contract " means an electricity contract transacted in the OTC markets or Exchanges and that derives its
+value from an underlying asset in electricity (e.g. day ahead electricity contract or other spot market contract or other
+reference index);
+(m)
+"Electricity Trader" shall have the meaning assigned to it under sub section (26) of section 2 of the Act;
+(n)
+"Exchange" means a Power Exchange and Other Exchanges ;
+(na)
+[ "Gate Closure" in reference to Real-Time Market refers to the time after which the bids submitted to the Power
+Exchange cannot be modified for a specified delivery period.]
+[Added by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+(o)
+[ "Intraday Contract/Contingency Contract" means the contract where the transaction (not being a collective transaction)
+occurs on day (T) after the closure of day ahead transaction window and the delivery of power is on the same day (T)
+except for the duration of the specified period of delivery of the real-time market, or next day (T+1) and which is
+scheduled by Regional Load Despatch Centre or National Load Despatch Centre.]
+[Substituted by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+(p)
+"Load Despatch Centre" (LDC) means the National Load Despatch Centre (NLDC) or Regional Load Despatch Centres
+(RLDC) or State Load Despatch Centres (SLDC) as the case may be ;
+(q)
+"Market" means a forum / platform where buyers and sellers directly or through Electricity Trader , or through electronic
+Exchanges (including a Power Exchange) buy or sell electricity or its related products ;
+(r)
+" Market Splitting" is a mechanism adopted by Power Exchange where the market is split in the event of transmission
+congestion, into predetermined (by NLDC) bid areas or zones, which are cleared individually at their respective area
+prices such that the energy balance in every bid area is reached based upon the demand and supply in individual bid
+areas and using the available transmission corridor capacity between various bid areas simultaneously;
+(s)
+"Member of Power Exchange " means a person who has been admitted as such by a power Exchange in accordance
+with these regulations;
+(t)
+"Member of Clearing Corporation" means a person who has been admitted as such by the Clearing Corporation in
+accordance with these regulations;
+(u)
+"Member Service Charge" has the meaning assigned to it under Regulation 27;
+(v)
+"Networth" means aggregate value of the paid up equity capital and free reserves (excluding reserves created out of
+revaluation) reduced by the aggregate value of accumulated losses, deferred expenditure ( including miscellaneous
+expenses) not written off and loans and advances to the associates;
+(w)
+"Open position" means a buy or sell position when a transaction has been executed but the delivery or financial
+settlement has not been completed and where a person may remain exposed to price or credit or operational risk;
+(x)
+"Operational risk" means any risk emanating in a contract due to systems, processes, technology error or breakdown
+,non scheduling of power due to technical reasons ;
+(y)
+"Other Exchanges" means such exchanges other than Power Exchange within the meaning of Regulation 3( iii) where
+Page 3/27
+----- PAGE 4 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+contracts specified under Regulation 4 are transacted;
+(z)
+"Over The Counter (OTC)" shall have the meaning assigned to it as under Clause (i) of Regulation 3;
+(aa)
+"Position" means the financial and physical condition arising as a result of a buy or a sell action of a participant of the
+Exchange or OTC market;
+(bb)
+"Price risk" means any risk emanating in a contract due to change in price of the contract / asset during tenure of the
+contract;
+(cc)
+"Power Exchange" means the exchange registered under these regulations;
+(cca)
+[ "Real-time Contract" means the contract other than day ahead contract and intraday or contingency contract, where
+collective transactions occur on the day (T) or (T-1) after the right to revision of schedule ends for a specified delivery
+period during the day (T) and which are scheduled by Regional Load Despatch Centre or National Load Despatch
+Centre.
+[Added by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+(ccb)
+"Real-Time Market" means a market for collective transactions of Real time Contracts through Power Exchange(s).]
+(dd)
+"Reserves" means any part of shareholders' equity, except for basic share capital;
+(ee)
+"Safe Liquid Investment" means investments in liquid assets comprising of cash in hand, cash equivalents (Cash
+equivalents are short term, highly liquid investments that are readily convertible into known amounts of cash and which
+are subject to an insignificant risk of changes in value) and demand deposits with banks;
+(ff)
+"Settlement Guarantee Fund (SGF)" means a fund maintained by the Power Exchange or Clearing Corporation used for
+settlement of defaults of its members as prescribed in the default remedy mechanism of Power Exchange or Clearing
+Corporation and may comprise of any sources of funds as may be determined by the Power Exchange or Clearing
+Corporation with prior approval of the Commission from time to time;
+(gg)
+"Settlement" means the process of discharging the obligations of members resulting from conclusion of a transaction at
+an Exchange ;
+(hh)
+Short term market means a market with contracts for a period not exceeding one year;
+(ii)
+"Spot Market" means a market where physical delivery of electricity occurs either on the same day as the date of the
+transaction (T) or on the next day (T+ 1);
+(jj)
+"Term Ahead market" means a market where physical delivery of electricity occurs on a date more than one day (T + 2
+or more) ahead from the date of transaction (T) and the contracts in such market can be transacted weekly / monthly /
+yearly or more in advance and have a defined delivery period on expiry of contract and is scheduled by Regional Load
+Despatch Centre or National Load Despatch Centre;
+(ii)
+Save as aforesaid and unless repugnant to the context or if the subject-matter otherwise requires, words and
+expressions used in these regulations and not defined, but defined in the Act or other regulations made thereunder by
+the Commission shall have the meaning assigned to them in the Act or other regulations made by the Commission.
+Part - 2 Scope of Regulation and Extent of Application
+3.
+These regulations shall apply to OTC markets and Exchange markets dealing in electricity, and where -
+(i)
+Page 4/27
+----- PAGE 5 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Over the Counter Market - Over the Counter Market is the inter-State market where buyers and sellers directly transact
+or transact through an Electricity Trader, and where the price and terms of the contract are determined through
+negotiations as agreed between the parties or through competitive bidding process or through a Electricity Trader. The
+risk in contracts executed in such markets is managed between the parties themselves or by the Electricity Trader, as
+the case may be.
+(ii)
+Power Exchange Market - Power Exchange Market is a market where buyers, sellers, Electricity Traders, Members of
+Power Exchange transact on standardised contracts and where the Power Exchange or Clearing Corporation is
+counterparty to such contracts and further, scheduling is done by Regional Load Despatch Centre or National Load
+Despatch Centre unless actual delivery is dispensed with.
+(iii)
+Other Exchange Market - Other Exchange is a market where derivative contracts, contracts for electricity or its related
+products are transacted on standardised contract specifications and where the Exchange or Clearing Corporation is
+counterparty to such contracts.
+4.
+These regulations shall apply to the following types of contracts -
+(i)
+Delivery based Short Term contracts in OTC market -
+(a)
+OTC Contracts directly between buyers and sellers -The interstate transactions in which buyers and sellers enter into a
+contract and decide price and other terms of the contract either through negotiation or based on competitive bidding
+processes.
+(b)
+OTC Contracts through Electricity Traders -
+I. Back to back deals - The interstate transaction in which an Electricity Trader buys a specific quantity of power for a
+particular duration from one party and simultaneously sells it to another party on same terms and conditions. Such
+transaction does not expose the trader to any price risk. It may expose the trader to credit risk and operational risk.
+II. Deals with Open position - The interstate transaction in which a Electricity Trader takes a position in a power
+purchase or sale contract based on price and other factors in view and adopts a strategy which he deems fit
+Illustration. - Electricity Trader A buys power for a long term period at a contracted price and sells power to buyers B, C,
+D in tranches over a period of time at different prices.
+III. Contract to aggregate suppliers / buyers and sell / buy to a one or more buyers / sellers
+(ii)
+Financially settled electricity derivatives contracts transacted in OTC market - It is a contract which derives its value from
+an underlying asset (e.g. day ahead electricity contract or other spot market contract or other reference index). The
+contract price is fixed at the time of transaction. The final financial settlement price is based on the spot price of the
+underlying asset or any other predefined reference index as agreed between the parties at the expiry of contract. These
+contracts can be Derivative Contracts, swap and other structured contracts etc.
+(iii)
+Delivery based contracts transacted on Exchange
+(a)
+Intraday contract /Contingency contract
+(b)
+Day Ahead contract
+(c)
+Term Ahead contract
+(d)
+[ Real Time Contract]
+[Added by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+(iv)
+Financially settled electricity derivative contracts transacted on Exchange -
+Page 5/27
+----- PAGE 6 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+It is a contract which derives its value from an underlying asset (e.g. day ahead electricity contract or other spot market
+contract or other reference index). The contract price is fixed at the time of transaction. The final financial settlement
+price is based on the spot price of the underlying asset at the expiry of contract.
+These contracts can be futures contract and other standardised contracts etc.
+(v)
+Any new contracts linked with electricity generated from renewable sources, e.g. Renewable Energy Certificates (REC),
+etc. transacted on Power Exchange.
+(vi)
+Any new contract in areas related to capacity , power price indices, and other areas related to electricity ;
+(vii)
+Capacity Contracts -These are contracts where the capacity of a generating station is booked in advance and
+consideration is paid by the buyer with the right to require the generator to despatch electricity as and when required by
+such buyer at any time during the tenure of the contract. These can be transacted both on OTC markets and /or on
+Exchanges .
+(viii)
+Ancillary Services Contracts - These contracts are for ancillary services. Ancillary Services in power system (or grid)
+operation are support services necessary to support the power system (or grid) operation for maintaining power quality,
+reliability and security of the grid, e.g. active power support for load following, reactive power support, black start, etc.
+5.
+These regulations shall apply to all market participants including -
+(i)
+Grid connected entity(ies) such as but not limited to Generating companies, Distribution Licensees, consumers who
+have been granted open access.
+(ii)
+Electricity Traders;
+(iii)
+Power Exchanges and Clearing Corporations approved by the Commission;
+(iv)
+Members of Power Exchanges;
+(v)
+Members of Clearing Corporation;
+(vi)
+Other Exchanges and
+(vii)
+Any other transacting party
+Part - 3 Approval / Suspension of the Contracts by the Commission
+6.
+The Commission may, on an application made in this behalf , permit any Exchange to introduce such contracts as
+specified in Part 2 of these Regulations for transacting on the Exchange
+Provided that the requirement to seek permission shall not apply to such contracts which are transacted on a Power
+Exchange on the date of notification of these Regulations with the approval of the Commission.
+Provided further that an Electricity Trader is not required to obtain any approval under these regulations but shall submit
+information as specified in Central Electricity Regulatory Commission (Procedure, Terms and Condition of grant of
+Trading License and other related matters) Regulations, 2009 and comply with the trade reporting requirement as
+specified in Regulation 59 (iii) hereof.
+7.
+(1)
+An Exchange seeking permission under Regulation 6 shall submit to the Commission the complete and detailed contract
+specifications.
+(2)
+The Commission may, prior to granting such authorisation to Exchanges as specified in Regulation 6, examine the
+Page 6/27
+----- PAGE 7 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+following and such other parameters of such contracts as considered appropriate having particular regard to the
+following :-
+(i)
+Type of contract (day ahead, term ahead etc);
+(ii)
+Price Discovery methodology and matching rules proposed;
+(iii)
+Transaction period - When transaction shall commence and for what tenure transaction session shall continue before
+delivery commences;
+(iv)
+Risk Management mechanism
+(a)
+Margining mechanism
+(b)
+Final Price Settlement mechanism
+(v)
+(a)
+Delivery mechanism
+(b)
+Delivery Duration - Delivery is for intraday, daily, week, month, particular season or year
+(vi)
+Penalty for Contractual Deviation (for Term Ahead Market) Contractual Deviation is the difference between the energy
+corresponding to contracted power and actual scheduled energy by the seller / buyer at point of injection respectively.
+Provided that during approval of any new type of contract, the complete contract specification shall be submitted to the
+Commission for approval. Thereafter modification in the specifications other than the above mentioned parameters can
+be done by the Exchange itself with intimation to the Commission within seven days of effecting the said modifications.
+8.
+Notwithstanding anything contrary contained in these Regulations, no person shall enter into or transact in any of the
+following types of contracts unless the same has been permitted to be so launched or introduced by the Commission in
+terms of notification issued in this behalf -
+(i)
+Derivatives Contracts;
+(ii)
+Ancillary Services Contracts
+(iii)
+Capacity Contracts
+Provided that the Commission shall, permit such contracts in the market from a date to be notified in this behalf, for
+ensuring reasonable prices of electricity and having regard to liquidity and volatility in the market, demand supply
+situation and other relevant factors.
+9.
+If the Commission is of the opinion that it is necessary or expedient so to do, it may after granting the concerned person
+the opportunity of being heard, by order, suspend transactions on any contract for the period specified in the order or
+withdraw any contract from the market or the Exchange, as the case may be.
+Part - 4 Principles of Market and Market Design
+10.
+A Power Exchange shall function with the following objectives -
+(i)
+Ensure fair, neutral, efficient and robust price discovery
+(ii)
+Provide extensive and quick price dissemination
+(iii)
+Page 7/27
+----- PAGE 8 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Design standardised contracts and work towards increasing liquidity in such contracts
+Explanation. - Liquidity is a measure of ease of entering or exiting into a transaction (generally large transaction) with
+minimal impact in the market price of the transacted contract.
+11.
+A Power Exchange shall adopt the following market design in case of day ahead markets [and Real-time markets]
+[Added by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+.
+- A. Price Discovery
+(i)
+The economic principle of social welfare maximisation and to create buyer and seller surplus simultaneously during price
+discovery.
+(ii)
+The bidding mechanism shall be double sided closed bid auction on a day ahead basis [and Real-time basis]
+[Added by Notification No. L-1/13/2010/CERC, dated 12.12.2019 (w.e.f. 20.1.2010).]
+.
+(iii)
+The price discovered for the unconstrained market shall be a uniform market clearing price for all buyers and sellers who
+are cleared
+(iv)
+In case of congestion in transmission corridor, market splitting mechanism shall be adopted.
+(v)
+The delivery / drawl of power shall be considered at the regional periphery.
+B. Delivery Procedure
+(i)
+Participants in Power Exchange shall take "Concurrence ,Prior Standing Clearance, or No objection" from their
+respective State Load Despatch Centres if applicable before participating in the Power Exchange
+(ii)
+Transmission charges and transmission losses shall be handled as per Procedure for scheduling (Open access) of
+Collective Transactions issued in accordance with CERC (Open access in Inter State Transmission) Regulations, 2008
+and as amended from time to time.
+(iii)
+Contracts in day ahead market are necessarily for physical delivery and shall be binding on the participant executing the
+transaction
+(iv)
+The scheduling and delivery of contracts on Power Exchange shall be in coordination with the system operator and in
+accordance with CERC (Open access in Inter State Transmission) Regulations, 2008 as amended from time to time,
+Indian Electricity Grid Code as amended from time to time. The operational details shall be as per the Procedure for
+scheduling (Open access) of Collective Transactions issued in accordance with CERC (Open access in Inter State
+Transmission) Regulations, 2008 and as amended from time to time.
+(v)
+The allotment of transmission corridor to Power Exchanges shall be done by National Load Despatch Centre as per
+directions of the Commission.
+12.
+OTC Markets.
+- The following principles of transaction shall be observed:
+(i)
+OTC market shall provide customized solution to sector participants and endeavour to bring innovation in the market
+place.
+(ii)
+Contracts to be sold to client shall be based on the suitability, appropriateness and full material disclosure of contract
+pricing, its risks and implications to the parties entering into the contract.
+Page 8/27
+----- PAGE 9 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+13.
+The Physical Market Design should complement security and reliability of power system and under no circumstances
+should market mechanisms compromise grid security.
+Part - 5 Power Exchange
+14.
+No Power Exchange shall operate without obtaining registration under these regulations.
+Provided that the Power Exchanges which have been granted approval / in principle approval by the Commission on or
+prior to the date of notification of these regulations shall be deemed to be registered under these regulations subject to
+payment of annual registration charge.
+Provided further that the Power Exchanges in operation shall realign their Bye-laws, Rules and Business Rules to make
+the same in conformance with these regulations and shall submit the same for approval of the Commission within three
+months from the date of notification of these regulations.
+Provided also that the existing approved Bye-laws, Rules and the Business Rules shall remain in force till the
+Commission gives approval to revised Bye-laws, Rules and Business Rules.
+Provided further that anything done or any action taken or purported to have been done or taken under the existing
+approved Bye-laws, Rules and the Business Rules shall, in so far as it is not inconsistent with the provisions of these
+Regulations, be deemed to have been done or taken under the corresponding provisions of these Regulations.
+15.
+The eligibility criteria for making application for registration of Power Exchange shall be as follows:
+(i)
+(a)
+Any company limited by shares incorporated as a public company within the meaning of the Companies Act, 1956;
+(b)
+A consortium of companies having an agreement amongst themselves to set up a power exchange through a special
+purpose vehicle ("SPV") incorporated as a public company limited by shares within the meaning of the Companies Act,
+1956;
+Provided that the process for registration may be commenced in case a consortium applies for registration by submitting
+a copy of such an agreement entered into amongst the consortium members, but registration shall be granted only when
+consortium has incorporated the SPV as aforesaid.
+(ii)
+The main objects of the applicant company shall be to primarily set up and operate Power Exchange though the other
+and incidental objects may be to undertake other businesses related to energy sector and its ancillaries with the prior
+approval of the Commission.
+Provided that such a company shall maintain separate accounts for separate businesses.
+16.
+Procedure for filing Application.
+- (i) Application for grant of registration to establish and operate a Power Exchange shall be filed in the form of a petition
+to the Commission in accordance with the Central Electricity Regulatory Commission (Conduct of Business)
+Regulations, 1999 and as amended from time to time.
+(ii)
+The salient details of the applicant, proposed transaction platform and website address where the full application is
+accessible shall be published in all editions of at least two national daily newspapers including one economic daily
+newspaper within 7 days of filing of the application inviting public comments/objections, if any, upto a period of 30 days.
+(iii)
+The application as filed and the information as sought by the Commission shall be posted and kept on the web site of
+the applicant at least for a minimum period of 30 days from the date of publication of notice in newspapers.
+(iv)
+The applicant shall file before the Commission its reply to the objections or suggestions received in response to the
+public notice within 45 days of its publication in the newspaper.
+(v)
+The Commission after consideration of the objections or suggestions received in response to the notice published by the
+Page 9/27
+----- PAGE 10 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+applicant and his reply may propose to grant registration to the applicant.
+(vi)
+When the Commission proposes to grant registration, it shall publish a notice of its proposal in two daily newspapers, as
+the Commission may consider appropriate, stating the name and address of the person to whom it proposes to grant the
+registration with such other details as the Commission considers appropriate, to invite further objections or suggestions
+to its proposal.
+(vii)
+On consideration of further objections or suggestions received and the reply of the applicant thereto, if any, the
+Commission may grant registration or reject the application, for reasons to be recorded in writing if the application does
+not conform to the provisions of the Act or the regulations thereunder
+Provided that no application shall be rejected, unless the applicant has been given an opportunity of being heard.
+17.
+Applicants seeking registration to set up and operate a Power Exchange shall submit the following documents along
+with the application, to the Commission:
+(i)
+Memorandum and Articles of Association of the company making the application;
+(ii)
+In case of a consortium of companies, a formal agreement amongst the members of the consortium to set up a Power
+Exchange shall be submitted;
+(iii)
+Details of the existing business of the consortium members;
+(iv)
+Copies of the Annual Report and/or audited accounts of the applicant for the last three years, to the extent applicable;
+(v)
+A Project Report containing the following details:
+(a)
+Constitution of the proposed Power Exchange;
+(b)
+Funding sources of the proposed Power Exchange;
+(c)
+Management and Administrative structure of the proposed Power Exchange;
+(d)
+Infrastructural facilities available/proposed to be acquired by the Power Exchange;
+(vi)
+The draft rules of the proposed power Exchange relating in general to the constitution of the proposed Power Exchange
+and in particular, that relating to:
+I. The board of directors of the Power Exchange, its constitution and powers;
+II. Management of the Power Exchange and the manner in which its business is to be transacted;
+(vii)
+The draft bye laws of the proposed Power Exchange covering the aspects specified in Regulation 24 hereof.
+18.
+Prudential Norms for establishment of Power Exchange.
+- (i) A Power Exchange shall always have a minimum networth of Rs. 25 Crore
+Provided that the Power Exchange shall always maintain the above networth and in case the same depletes due to
+payment made by the power Exchange to sellers / buyers in default including by the usage of the SGF impacting its
+networth, the Power Exchange shall increase its networth to comply with the above networth criteria within 3 months
+from the date of depletion.
+Provided that if and when a Power Exchange separates its clearing function to a Clearing Corporation, it shall be
+required to have a minimum networth of Rs. 5 Crore.
+Provided further that the Commission may, by general order, review the networth criteria from time to time.
+(ii)
+Page 10/27
+----- PAGE 11 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+For an applicant the networth to be considered shall be minimum in three years immediately preceding the year in which
+the application is made or such lesser period during which the applicant may have been incorporated, registered or
+formed and on the date of special balance sheet accompanying the application for grant of registration
+(iii)
+The Networth of a Power Exchange in operation shall be as per the last audited balance sheet.
+(iv)
+Settlement Guarantee Fund (SGF)
+(a)
+The Power Exchange or Clearing Corporation shall invest the proceeds of SGF in safe investments and ensure that the
+principal amount is not at risk. Fifty percent (50 %) of the SGF proceeds shall be kept in safe liquid investments.
+(b)
+The SGF investment returns shall be retained by the Power Exchange till the Settlement Guarantee Fund is maintained
+by the Power Exchange. In case of hiving off of the Clearing Corporation, the SGF investment returns shall be retained
+by the Clearing Corporation.
+(c)
+The principles and methods of usage of the SGF shall be clearly communicated to the members and clients of Power
+Exchange through the bye laws of the Power Exchange.
+(d)
+Details of investment of SGF shall be submitted to the Commission on an annual basis while submitting the Power
+Exchange's annual report or the Clearing Corporations annual report as the case may be
+(e)
+Additional Prudential Norms, SGF requirements for Power Exchanges and Clearing Corporations as required for
+financial derivative contracts on Power Exchanges may be notified by the Commission by order and once these are
+notified, the same shall be complied with in terms thereof.
+19.
+Shareholding Pattern of Power Exchange.
+(1)
+The shareholding pattern for equity holders in the Power Exchange shall be as follows:
+(i)
+Any shareholder other than a Member of the Power Exchange can have a maximum (whether directly or indirectly) of
+25% shareholding in the Power Exchange.
+(ii)
+A Member of the Power Exchange can have a maximum (whether directly or indirectly) of 5 % shareholding in the
+Power Exchange.
+(iii)
+In total, a Power Exchange can have a maximum of 49% of its total shareholding owned by entities (whether directly or
+indirectly) which are Members of the Power Exchange.
+Explanation I. - "indirectly" means through an associate where an associate is -
+(i)
+one who owns or controls shares carrying not less than twenty-six percent of the voting rights of the shareholder
+intending to hold equity in the power exchange; or
+(ii)
+in respect of whom the shareholder intending to hold equity in the Power Exchange owns or controls shares carrying not
+less than twenty-six percent of the voting rights; or
+(iii)
+one who is under the same management as the shareholder intending to hold equity in the power exchange.
+Explanation II. - An associate shall be deemed to be under the same management:
+(i)
+if the managing director or manager of the shareholder intending to hold equity in the power exchange is the managing
+director or manager of the associate; or
+(ii)
+Page 11/27
+----- PAGE 12 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+if a majority of the directors of the shareholder intending to hold equity in the power exchange constitute or any time
+within six months immediately preceding, constituted a majority of the directors of the associate; or
+(iii)
+if not less than one third of the total voting power with respect to any matter relating to the shareholder intending to hold
+equity in the power exchange and the associate is exercised or controlled by the same individual or body corporate; or
+(iv)
+if any of the directors of the shareholder intending to hold equity in the power exchange while holding the majority of
+shares of such shareholder also holds the majority of shares in the associate.
+(2)
+The share holding pattern shall be reported to the Commission from time to time .
+20.
+Notwithstanding Regulation 19, the Power Exchanges granted approval or in principle approval prior to the date of
+notification of these regulations, shall within a period not exceeding three years from the date of notification of these
+regulations, ensure the shareholding structure/pattern as specified in Regulation 19.
+21.
+Grant of Registration to Power Exchange.
+- (i) The Commission may, after making such inquiries as may be necessary in this regard and after obtaining such
+further information as it may require, grant registration subject to such conditions as deemed fit, for setting up and
+operation of a Power Exchange.
+(ii)
+The registration of a power exchange shall continue to be in force for a period of twenty five (25) years from the date of
+commencement of operations unless such registration is revoked or cancelled.
+(iii)
+Notwithstanding clause (ii) above, the Commission may, on an application filed in this behalf, renew the registration for a
+like period of 25 years
+Provided that an application for renewal may be filed at the most 5 years before the expiry of the initial registration.
+22.
+Ownership and Governance structure of Power Exchange.
+- (i) There shall be a clear demarcation between ownership, management / operations and participation in trading.
+(ii)
+Independent Directors - At least one third of the members of the Board or a minimum of two directors, whichever is
+higher, shall be independent directors selected from a panel constituted by the Power Exchange and approved by the
+Commission out of which one person will have professional qualification and experience in finance. The panel shall be
+constituted of persons of repute and integrity from academics, professionals, industry representatives, public figures
+none of whom should have any interest in any Member of Power Exchange and any fiduciary relationship with any
+shareholder of Power Exchange.
+(iii)
+The total strength of the Board shall be in accordance with the provisions of the Companies Act 1956.
+(iv)
+Not more than one fourth of the Board of directors shall represent Members of Power Exchange.
+(v)
+The Board shall appoint a CEO cum Managing Director who shall be solely responsible for running the day to day
+operations of the Power Exchange. The Managing Director shall be a professional with adequate qualification and at
+least 10 years of experience in the relevant field.
+(vi)
+The Managing Director, the Chief Executive or the Director in charge of day-today operations or any employee, of the
+power Exchange shall not be directly or indirectly associated with any Member of the Power Exchange or client or
+participant of the Power Exchange or with a holding or subsidiary company thereof.
+(vii)
+Services of any consultant or advisor can be availed of by Power Exchange as long as he is not dealing with price
+sensitive information of the Power Exchange and there is no conflict of interest between assignments undertaken for
+Page 12/27
+----- PAGE 13 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+other persons served by the consultant or advisor and the Power Exchange
+(viii)
+The Managing Director shall ensure that the individual bids of members of the Power Exchange is not shared with the
+board of directors.
+(ix)
+The Power Exchanges which has been granted approval or in principle approval by the Commission on or prior to the
+date of notification of these regulations, shall within a period not exceeding one year from the date of notification of
+these regulations , ensure that the governance structure as specified in this Regulation 22 is adhered to and complied
+with
+23.
+Registration Charge.
+- A Power Exchange shall pay an annual registration charge as specified below:-
+Annual Turnover in Power Exchange (Million
+Units)
+Annual Registration Charge (Rs Lac)
+Above 10,000
+30
+Upto 10,000
+15
+Upto 5,000
+5
+The Annual registration charge shall be payable through a Bank Draft or Pay Order or by electronic transfer of money in
+favour of "Assistant Secretary, Central Electricity Regulatory Commission, New Delhi", by 30th April every year
+Provided further that the Commission may, by order, review the quantum of the annual registration charge from time to
+time.
+Provided also that the Power Exchange would declare apriori the category it envisages to be in. In case of any
+difference between declarations and actual at the end of financial year, the annual registration charge shall be
+accordingly adjusted.
+24.
+The Power Exchange shall function according to its Bye-laws and Rules as approved by the Commission, which
+amongst other requirements would cover the following:
+(a)
+Price Discovery and matching mechanism;
+(b)
+Rights and liabilities of its members;
+(c)
+Market surveillance and investigation;
+(d)
+Clearing and settlement procedure;
+(e)
+Risk management;
+(f)
+Default and Penalty mechanism;
+(g)
+Penalty for contractual deviations;
+(h)
+Transaction charge and the mechanism of its determination;
+(i)
+Brokerage and Commission Charges of its members;
+(j)
+Maintenance of records and accounts;
+Page 13/27
+----- PAGE 14 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+(k)
+Preparation of annual accounts and audit thereof;
+(l)
+Arbitration, dispute resolution and conciliation;
+(m)
+Mechanism for redressal of grievances;
+(n)
+Opening and closing of transaction hours, transaction and settlement calendar;
+(o)
+Procedure from opening of the platform up to its scheduling by LDC;
+(p)
+Procedure for handling a default, i.e., failure to schedule the transaction finalized;
+(q)
+Details of market splitting methodology for handling transmission congestion; this shall be elucidated with examples
+Inter-face design with system operator/Regional Load Dispatch Centres;
+(r)
+The details of the Exit Scheme;
+(s)
+Qualifications for membership, exclusion, suspension and expulsion
+(t)
+Indemnification of Central Transmission Utility, National Load Despatch Centre, Regional Load Despatch Centres, State
+Load Despatch Centres by the Power Exchange.
+Provided that Bye-laws and Rules may be amended subject to obtaining prior approval of the Commission.
+25.
+Management of Power Exchange.
+- (i) The senior management of the Power Exchange shall comprise of at least two full-time proficient professionals
+having, qualifications and experience and expertise in the following areas -
+Discipline
+Qualification and Experience
+Power system operations
+Degree in Engineering with at least 10 years
+experience in the field
+Finance, commerce and accounts
+CA/ICWA/MBA(in Finance) with at least 10 years
+experience in the field
+(ii)
+The Power Exchange shall constitute a Risk Management Committee (RMC) headed by an independent director of the
+board which shall stipulate risk containment measures and monitor adherence of the same.
+(iii)
+The Power Exchange shall constitute a Market Surveillance committee headed by an independent director of the board
+and having members from the executive team of the Power Exchange. No member of this committee shall be a Member
+of the Power Exchange.
+(iv)
+The Power Exchange shall constitute a SGF management committee with adequate representation from the Members
+of the Power Exchange. This committee shall be responsible for overseeing the management of SGF.
+26.
+Membership in Power Exchange.
+- (i) Membership in Power Exchange shall be of the following three categories :-
+(a)
+Member who is an Electricity Trader or
+(b)
+Page 14/27
+----- PAGE 15 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Member who is a distribution licensee including deemed distribution licensee or a grid connected entity or
+(c)
+Member who is neither an Electricity Trader nor distribution licensee including deemed distribution licensee nor a grid
+connected entity
+(ii)
+Member who is neither an Electricity Trader nor distribution licensee including deemed distribution licensee nor a grid
+connected entity can only provide the following services to its clients:-
+(a)
+IT infrastructure for bidding on electronic Exchange platform or skilled personnel
+(b)
+Advisory services related to power prices and the follow on bidding strategy (e.g. weather related information, demand
+supply position etc)
+(c)
+Facilitation of procedures on behalf of his client for delivery of power (e.g. State Load Despatch Centre standing
+clearances, coordination with National Load Despatch Centre etc)
+In no case, such a member shall provide any credit or financing or working capital facility to their clients.
+(iii)
+Member who is an Electricity Trader shall trade and clear on their own account or trade and clear on behalf of their
+clients. This category of members may provide any credit or financing or working capital facility to their clients.
+(iv)
+Member who is distribution licensee including deemed distribution licensee or grid connected entities shall transact and
+clear their own account only
+(v)
+The Power Exchange shall submit to the Commission detailed list of its members along with their clients every month as
+per the format appended to these Regulations.
+Provided that the Commission may, by order, review the format from time to time.
+(vi)
+In case of any discrepancies found in the transactions of members or contravention of these Regulations, the
+Commission may, after giving the member of the Power Exchange an opportunity of being heard in the matter, direct,
+the Power Exchange to revoke the membership of such member. Any such direction will be without prejudice to action
+against the Power Exchange under these Regulations.
+(vii)
+The Commission may direct Power Exchanges to introduce qualification test for personnel handling electronic trading
+terminals and trading in electricity.
+(viii)
+A Power Exchange may, at its discretion, stipulate any criteria for membership to the Power Exchange including
+networth, minimum base capital / security deposit requirement, liquid asset requirement.
+(ix)
+The Power Exchange shall maintain supporting documents provided by the member for obtaining membership including
+the documents evidencing compliance with any criteria specified by the Power Exchange and furnish it to the
+Commission on being required to do so. These documents shall be maintained upto a period of five years after the
+member has surrendered membership or ceases to be a member of the Power Exchange.
+(x)
+The Commission may by order, notify any additional membership criteria for transacting in derivatives contracts.
+27.
+Member Service Charge for providing services to their clients in day ahead and term ahead markets in Power Exchange
+shall not be more than 0.75% of transaction value. This ceiling would be an overall ceiling including the service charges
+of any subordinate service providers.
+Provided that Member Service charge to their clients in day ahead and term ahead market in Power Exchange for
+Electricity Traders who are members of Power Exchange shall be the trading margin only as per CERC (Fixation of
+trading margin) Regulations 2006 and as amended from time to time.
+Page 15/27
+----- PAGE 16 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Provided further that the Commission may, by order, review the members service charge criteria from time to time.
+Provided also that the Commission may, by order, notify the member service charges separately for derivative contracts.
+Provided also that member service charge shall not include any charges levied by Power Exchange, transmission (open
+access) charges, other charges payable to National Load Despatch Centre / Regional Load Despatch Centre / State
+Load despatch Centre, statutory taxes etc.
+28.
+Risk Management by Power Exchange.
+- (i) The Power Exchange shall adopt best practices while formulating prudent and dynamic risk management processes
+based on the changing risk profiles of the market.
+(ii)
+The Risk management Committee (RMC) shall review the risk management framework and process of the Power
+Exchange on a six monthly basis in January and July each year. The RMC report shall be submitted to the board of
+directors. The decision of the board of directors on the subject along with the RMC report shall be submitted to the
+Commission within one month of the risk management review process and not later than end of February and August
+respectively.
+(iii)
+The Members' risk shall be monitored constantly and margins shall be collected at appropriate time for efficacy of risk
+management.
+(iv)
+Members shall be subject to margins on a gross basis across clients by the Power Exchange. There shall be no
+offsetting of positions of different clients of a member in the same market.
+Illustration. - In case of an Electricity Trader member, if his client A has a buy position of 50 Mwh and his client B has a
+sell position of 50 MWh in the same contract, the net position of the member in the contract is to be taken as 100 MWh.
+The buy position of client A and sell position of client B in the contract will not be netted. It shall be summed up to arrive
+at the member's open position for the purpose of margin calculation.
+(v)
+Members should, wherever applicable, have a prudent risk management and timely margin collection system from their
+clients. The quantum of margins collected by members from client shall be at the discretion of the members and as per
+bye laws of Power Exchange.
+29.
+Power Exchanges may hive off the clearing and settlement function to a separate Clearing Corporation in case deemed
+fit. The Clearing Corporation shall be mandatory in case Power Exchanges launch financial derivative contracts
+Provided that the Commission may make the requirement of setting up of Clearing Corporation mandatory for spot and
+term ahead markets also as and when it deems appropriate
+30.
+Default remedy mechanism on Power Exchange or Clearing Corporation.
+- (i) A member may be declared a defaulter by direction or circular of the Power Exchange or Clearing Corporation if:
+(1)
+he is unable to fulfill his clearing or settlement obligations; or
+(2)
+he admits or discloses his inability to fulfill or discharge his duties, obligations and liabilities; or
+(3)
+he fails or is unable to pay within the specified time the damages and the money difference due on a closing-out effected
+against him under the Rules, Bye Laws of Power Exchange or Clearing Corporation ;
+(4)
+he fails to pay any sum due to the Power Exchange or Clearing Corporation which may be prescribe by them from time
+to time ; or
+(5)
+he fails to pay or deliver all moneys, electricity or other related assets due to a member who has been declared a
+defaulter within such time of declaration of default of such member in such manner and to such person as the Power
+Exchange or Clearing Corporation may direct; or
+Page 16/27
+----- PAGE 17 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+(6)
+he fails to abide by the arbitration award as laid down under the Rules, Bye Laws and Regulations of Power Exchange
+or Clearing Corporation ; or
+(7)
+under any other circumstances as may be decided by the Power Exchange or Clearing Corporation from time to time.
+Provided that Power Exchange or Clearing Corporation may, at its discretion, stipulate any additional criteria to declare
+defaulter in the Power Exchange or the Clearing Corporation as the case may be
+(ii)
+In the event a member is declared a defaulter and the member fails to meet the clearing and settlement obligations, the
+Power Exchange shall give precedence to the payment of transmission charges, scheduling and system operation
+charges from the deposits of the member or client as the case may be. Thereafter the Power Exchange may utilise the
+Settlement Fund and other monies to the extent necessary to eliminate the obligation of the defaulting member in the
+following order-
+(1)
+Liquidation of collaterals: Contributions or deposits, including margins in any form, by the defaulting member or client.
+(2)
+Liquidation of security deposit: Membership deposit given by the defaulting member to the Power Exchange.
+(3)
+Insurance money: Insurance taken by Power Exchange of an amount as considered appropriate by the Power
+Exchange for protection against defaults.
+(4)
+It's Initial contribution as considered appropriate by the Power Exchange towards Settlement Guarantee Fund.
+(5)
+Current year's Profits of the Power Exchange including Fines, penalty collected from members.
+(6)
+Reserves of the Power Exchange.
+(7)
+Contribution towards settlement guarantee fund by all members or clients:
+- All non-defaulting members or client's contribution in proportion of deposits towards Settlement Guarantee Fund.
+(8)
+Equity Capital of the Power Exchange.
+(9)
+Balance obligations remaining outstanding after above funds will be met by contribution from members or clients in
+proportion to their contribution to the SGF.
+Provided that once the Clearing Corporation is hived off, the default remedy mechanism shall be handled by the
+Clearing Corporation and the Power Exchange shall not be held liable on this account.
+31.
+Information Technology Infrastructure and Trading System of Power Exchange shall comply with the following:
+(i)
+Power Exchange shall use electronic trading system and telecommunication network;
+(ii)
+The orders entered by a Member of Power Exchange shall be first checked against availability of funds/ collateral in the
+risk management system before being accepted in the order book of the Power Exchange. This process shall be
+continued even after separation of clearing function to the Clearing Corporation;
+(iii)
+Automated audit trail of bids, offers, and the matching of orders or the execution of transactions on the facility shall be
+maintained;
+(iv)
+The algorithm of the software application for price discovery and market splitting shall be in compliance with the
+methodology mentioned in Byelaws, Rules and Business Rules of Power Exchange as approved by the Commission;
+(v)
+Page 17/27
+----- PAGE 18 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+The Commission may Audit or appoint an agency to audit the Software application used by the Power Exchanges in
+operation for price discovery and market splitting on a random basis. The Power Exchanges shall produce the test
+results of test cases and scenarios provided by the Commission.
+(vi)
+Power Exchange shall also carry out periodic IT system audit for data security, data integrity and operational efficiency
+and submit its reports to the Commission annually;
+(vii)
+Power Exchange shall build a Disaster recovery site and alternate trading facility in case of emergency.
+32.
+Delivery Procedure.
+- (i) The scheduling and delivery of contracts on Power Exchange shall be in accordance with by CERC ( Open access
+in Inter State Transmission ) regulations ,2008 and as amended from time to time ,Indian Electricity Grid Code 2009 and
+as amended from time to time
+(ii)
+Subject to the provisions of these regulations, operationalisation of Scheduling of Collective Transactions through the
+Power Exchange(s), shall be in accordance with the detailed procedure issued under the CERC ( Open Access in Inter
+State Transmission ) Regulations 2008 and as amended form time to time .
+(iii)
+In addition the detailed procedure may cover, though not limited to, the following aspects:
+(a)
+Submission and processing of the application for scheduling of Collective Transactions
+(b)
+Sharing of available transmission margins between multiple Power Exchanges
+(c)
+Scheduling of Collective Transactions
+(d)
+Treatment of losses
+(e)
+Real time Congestion Management
+(f)
+Transmission Charges, Operating Charges, Application Fees and other Commercial Conditions
+(g)
+Payments and defaults in payments
+(h)
+Disbursal
+(i)
+Any other issue pertaining to operationalisation of Scheduling of Collective Transactions through the Power
+Exchange(s).
+(iv)
+The Power Exchanges shall carry out Congestion Management using Market Splitting mechanism in Day Ahead market.
+The Power Exchange can develop its own Market Splitting Methodology with approval of the Commission.
+(v)
+Any mismatch between the scheduled and the actual drawal at drawal points and scheduled and the actual injection at
+injection points, including schedule for Contracts transacted on the Power Exchange of the grid connected entity will be
+settled by such entities under Unscheduled Interchange (UI) mechanism as per the procedure laid down by the
+Commission in the case of Regional Entities or any other settlement system as prescribed by concerned State
+Commission in case of Intra-State Entities. In case the State Commission concerned has not specified the settlement
+system, the Unscheduled Interchanges rate for intra-State entity shall be 105% (for overdrawals or under generation)
+and 95% (for under-drawals or over generation) of the Unscheduled Interchanges rate at the periphery of regional entity.
+(vi)
+Scheduling of transactions in Term ahead market on Power Exchange shall be governed by Open Access Regulations,
+Page 18/27
+----- PAGE 19 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+2008 and as amended from time to time, and Indian Electricity Grid Code( IEGC) and any other relevant regulations.
+(vii)
+All data transfer between National Load Despatch Centre and the Power Exchange(s) shall be done electronically
+through a secure communication channel.
+(viii)
+Indemnification by Power Exchange -
+(a)
+Power Exchange should provide that the clearance advice issued by National Load Despatch Centre shall be on good
+faith basis. The byelaws should also provide that the clearance/curtailment advice by the National Load Despatch
+Centre shall not be binding and the Central Transmission Utility, National Load Despatch Centre, Regional Load
+Despatch Centres and State Load Despatch Centres shall not have any financial liability on account of inability, for any
+reason whatsoever, to achieve the complete matching between the advice of the National Load Despatch Centre and
+the final schedules.
+(b)
+The Power Exchange(s), including its Buyers and Sellers, shall keep each of the National Load Despatch Centre
+/Regional/State Load Despatch Centres indemnified at all times and shall undertake to indemnify, defend and save the
+National Load Despatch Centre / Regional/State Load Despatch Centres and hold them harmless from any and all
+damages, losses, claims and actions, including those relating to injury to or death of any person or damage to property,
+demands, suits, recoveries, costs and expenses, court costs, attorney fees, and all other obligations by or to third
+parties, arising out of or resulting from the transactions.
+(ix)
+The Power Exchange shall be responsible for payment of transmission charges, scheduling and system operation
+charges to LDC, STU as per the regulations specified by the Commission and State Commissions.
+(x)
+The National Load Despatch Centre /Regional Load despatch Centres may take appropriate decisions in the interest of
+System Operation. Such decisions shall be taken under intimation to the Commission.
+33.
+Power Exchange Congestion Amount management.
+- (i) The Power Exchange may be vested with Congestion Amounts arising from the difference in market prices of
+different regions as a consequence of market splitting.
+The Congestion Amount shall be maintained in a separate account by the Power Exchange to be transferred on the next
+working day to a regulatory fund as may be directed by the Commission.
+Provided that until the time the aforesaid fund is created congestion amount shall be transferred to National Load
+Despatch Centre account and once such a fund is created the NLDC shall transfer the congestion amount in favour of
+such fund.
+(ii)
+Congestion Amount Fund shall be utilised in accordance with the directions of the Commission. The Commission may
+consider utilisation of the fund for the following purposes:-
+(a)
+Installation of VAR compensators, series compensators and other reactive energy generators
+(b)
+Additional transmission capacity creation for relieving congestion
+(c)
+To undertake technical study of the grid for congestion reduction
+(d)
+The Congestion Amount Fund may be parked with a financial institution for grant of loans at concessional rates to
+projects specific to congestion reduction in the grid.
+(e)
+To undertake capacity building measures and training of participants of Power Exchanges
+(f)
+To develop information dissemination mechanism for the participants of Power Exchanges
+Page 19/27
+----- PAGE 20 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+(iii)
+The Central Transmission Utility, National Load Despatch Centre or Power Exchanges can approach the Commission
+with specific proposals in line with the above mentioned purposes for utilisation from the Congestion Amount Fund.
+34.
+The Power Exchange shall submit its Annual report along with its Audited balance sheet by 30 th September every year
+to the Commission.
+35.
+A Power Exchange which has less than 20 % market share for continuously two financial years falling after a period of
+two years of commencement of its operations shall close operations or merge with an existing Power Exchange with in a
+period of next six months. (For this purpose Market size is defined as the total Annual Turnover in Million Units of all
+contracts transacted in all the Power Exchanges in each financial year)
+Provided that this regulation shall not apply if there are only two Power Exchanges in operation.
+36.
+Exit Scheme.
+- The Power Exchange shall have their Exit scheme approved by the Commission during the registration process
+detailing the manner in which the running contracts on the Power Exchange shall be closed or the succession plan for
+all transacted contracts in case of closure of Power Exchange, cancellation or withdrawal of registration under these
+regulations. Thereafter the Exit scheme shall be provided in the bye-laws of the Power Exchange.
+Provided that the Power Exchanges operating on the date of notification of these regulations, shall submit to the
+Commission the exit scheme for approval within a period of one year. Consequently the bye laws shall be modified.
+37.
+Withdrawal of registration.
+- The Commission may for reasons to be recorded in writing and after giving the Power Exchange an opportunity of
+being heard, withdraw or cancel the registration accorded to the Power Exchange in any of the following events :
+(i)
+If the functioning of the Power Exchange is in persistent violation of the terms and conditions of these regulations or
+terms of registration if any;
+(ii)
+If the Power exchange indulges in any persistent malpractice;
+(iii)
+In case the net worth of the Power exchange reduces at any time below the specified amount and is not replenished as
+provided in these Regulations;
+(iv)
+In case the Power Exchange fails to comply with any direction of the Commission
+38.
+Notwithstanding such withdrawal or cancellation of the registration, contracts executed prior to such withdrawal or
+cancellation, shall remain valid and its performance shall be ensured by the Power Exchange or as directed by the
+Commission.
+39.
+Consequent upon withdrawal or cancellation of the registration, the members of such Power Exchange shall cease to be
+Members of the Power Exchange.
+40.
+The Power Exchange shall set aside sufficient funds in order to provide for settlement of any claims, pertaining to
+pending arbitration cases, arbitration awards, liabilities/claims of contingent nature, if any, and unresolved investors
+complaints/grievances lying with the Power Exchange.
+41.
+Grievance Redressal of members and clients.
+- (i) Power Exchanges shall disclose on their website the details of complaints lodged by members against Power
+Exchange and by clients against its members.
+(ii)
+Power Exchanges shall also disclose on their website the conflict resolution mechanism followed and the result of
+Page 20/27
+----- PAGE 21 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+grievance resolution.
+Part - 6 Clearing Corporation
+42.
+Application for grant of permission to set up and operate Clearing Corporation shall be filed in the form of a petition to
+the Commission in accordance with the Central Electricity Regulatory Commission (Conduct of Business) Regulations,
+1999 and as amended from time to time.
+43.
+Eligibility Criteria.
+- (i) Clearing Corporation shall be a separate independent corporate entity
+(ii)
+This can be formed by a Power Exchange or by any other company incorporated as a company limited by shares within
+the meaning of the Companies Act, 1956 or by a consortium of companies having a formal agreement for this purpose.
+The registration shall be given to the incorporated company limited by shares finally formed by the consortium.
+(iii)
+The Clearing Corporation shall have a minimum net worth of Rs 25 Crore.
+Provided that the Commission may, by order, review the networth criteria, from time to time.
+44.
+The Clearing Corporation shall submit its rules and bye laws for approval of the Commission.
+45.
+The Clearing Corporation shall perform full novation, i.e., the Clearing Corporation shall interpose itself between both
+legs of every transaction, becoming the counter party to both or alternatively should provide an unconditional guarantee
+for settlement of all transactions.
+46.
+The Clearing Corporation shall perform the function of periodical clearing and settlement of any transaction or contract
+of electricity in spot, term ahead and derivatives transacted on the Exchange as the case may be.
+47.
+The default remedy mechanism of Clearing Corporation shall be same as in Regulation 30. The Clearing Corporation
+shall publish on its website details of its membership criteria and its service charges for clearing transactions of its
+members.
+48.
+The Clearing Corporation may also clear OTC transactions subject to the prior approval of the Commission.
+49.
+The Clearing Corporation shall create an Electronic clearing and settlement system for movement of funds.
+50.
+The Clearing system shall generate different reports like obligation report, transaction report, deliveries report, bad
+deliveries report, funds report, margin reports etc for operational purpose.
+51.
+The SGF of Power Exchange concerned shall be transferred to the Clearing Corporation and maintained by the Clearing
+Corporation once the Power Exchange hives off this activity to the Clearing Corporation.
+52.
+The Clearing Corporation shall get a credit rating done of itself by a credit rating agency accredited by Securities
+Exchange Board of India (SEBI) within six months of its incorporation and inform the Commission. It shall also be
+displayed on its website.
+Part - 7 Market Oversight
+53.
+The Commission may issue such directions, after considering investigation report as referred in Regulation 55, as it
+considers appropriate to maintain market oversight and surveillance and to check market integrity in the following
+circumstances:-
+(i)
+Manipulative or attempted manipulative activity;
+(ii)
+Page 21/27
+----- PAGE 22 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Transactions that are misleading or deceptive, or are likely to mislead or deceive;
+(iii)
+Unwarranted speculation leading to price rise;
+(iv)
+Any form of cartelisation;
+(v)
+Any other form of Market abuse;
+(vi)
+Abuse of dominant position by any market participant;
+54.
+Other circumstances requiring intervention.
+- (i) The Commission may, on being satisfied that any of the below mentioned circumstances exist or is likely to occur in
+the market, by an order, give such directions to whom as may be necessary:
+(a)
+Abnormal increase or decrease in prices of electricity;
+(b)
+Sudden or unreasonable fluctuations or unwarranted changes in the prices of electricity and high volatility;
+(c)
+Sudden high transaction volumes on an Exchange;
+(ii)
+In particular and without prejudice to the generality of the foregoing power, the Commission may, by order in writing:
+(a)
+Impose floor and cap on prices of electricity in the market
+(b)
+Suspend transaction activities for a cooling off period (in case of increased volatility);
+(c)
+Suspend transaction of any specific contract on Exchange;
+(d)
+Increase the margin for contracts transacted on Exchange (in a case of high speculation);
+(e)
+Allow only trade for trade settlements;
+(f)
+Limit Open position of one participant on Exchange;
+(g)
+Limit market wide position on Exchange.
+55.
+Investigation of certain matters.
+- (i) The Commission may, on being satisfied that, any of the factors specified in Regulation 53 exists, at any time, by
+order in writing, call upon any Electricity Trader or Exchange or Member of Exchange to furnish in writing information or
+explanation related to the affairs of their transactions.
+(ii)
+Notwithstanding sub-regulation (i) above, the Commission may direct any person (hereafter referred to as "Investigating
+Authority") specified in the order to investigate the affairs of any Electricity Trader or Exchange or Member of Exchange
+including his books of account, and to report to the Commission on any investigation made by such Investigating
+Authority:
+Provided that the Investigating Authority may, wherever necessary, employ any auditor or any other person for the
+purpose of assisting him in any investigation under this regulation.
+Provided further that the Investigating Authority shall supply to the Electricity Trader or Exchange or Member of
+Exchange, as the case may be, a copy of his report on such inspection.
+(iii)
+It shall be the duty of every manager, managing director or other officer of the Electricity Trader or Exchange or Member
+Page 22/27
+----- PAGE 23 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+of Exchange, as the case may be, to produce before the Investigating Authority directed to make the investigation under
+sub-regulation (ii), all such books of account, registers and other documents in his custody or power and to furnish him
+with any statement and information relating to the affairs of the Electricity Trader or Exchange or Member of Exchange,
+as the case may be, as the said Investigating Authority may require of him within such time as the said Investigating
+Authority may direct.
+(iv)
+On receipt of any information or report under sub-regulation (i) or sub-regulation (ii), the Commission may, after giving
+such opportunity to the Electricity Trader or Exchange or Member of Exchange, as the case may be, to make a
+representation in connection with the report as in the opinion of the Commission, seems reasonable, and after
+considering representation if made by order in writing ?
+(a)
+Require the Electricity Trader or Exchange or Member of Exchange to take such action in respect of any matter arising
+out of the report as the Commission may think fit; or
+(b)
+Cancel the registration of the Power Exchange under these regulations ; or
+(c)
+Direct Power Exchange to cancel membership of a member ; or
+(d)
+Direct the Power Exchange to cease to carry on the business of Power Exchange.
+Provided that no action specified above shall be taken unless an opportunity of being heard is given to the person likely
+to be affected thereby.
+56.
+Power to issue interim orders Where during an investigation or intervention, the Commission is satisfied that an act in
+contravention of these regulations has been committed and/ or continues to be committed or that such act is about to be
+committed, the Commission may, by order, temporarily restrain any person from carrying on such act until the
+conclusion of such investigation or intervention or until further orders, after giving notice to such person.
+57.
+Information Dissemination by Power Exchange.
+- (i) The exchange shall display on its website compilation of links to all relevant price sensitive information including but
+not limited to:
+(a)
+Daily information on the Indian weather condition;
+(b)
+Fuel price information;
+(c)
+Reservoir levels of dams available in Central Electricity Authority website;
+(d)
+Any urgent market information issued by Regional Load despatch centre on their websites;
+(e)
+Planned maintenance schedule of generators / transmission lines available with Regional Load Despatch Centre /
+Regional Power Committee;
+(f)
+Demand forecast information and load generation balance report available on Central Electricity Authority's website.
+(ii)
+Prices, volumes and historic prices shall be made available on the website of the exchange and should be in
+downloadable format.
+(iii)
+Traded Prices i.e., maximum, minimum, average of the month and average volume cleared shall be published in two
+leading newspapers once a month.
+(iv)
+The exchange shall organise on a regular basis Member / Client awareness programmes across the country
+Page 23/27
+----- PAGE 24 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+58.
+Market Surveillance by Exchange.
+- (i) All Exchanges shall set up a surveillance department which shall carry out day to day monitoring of transactions and
+surveillance .They shall also undertake other analysis as mentioned in sub regulation (v).
+(ii)
+The Power Exchange shall also constitute a Market Surveillance committee headed by an independent director of the
+board and having members from the executive team of the Power Exchange. No member of this committee shall be a
+Member of the Power Exchange.
+(iii)
+The Power Exchange surveillance department shall submit its analysis report to the market surveillance committee. The
+Market Surveillance committee shall submit quarterly surveillance reports to the Commission.
+(iv)
+Market surveillance shall be executed from a physically secure and restricted area by authorised personnel only and the
+personnel shall maintain information and data security at all times and especially when the auction window is open. All
+conversations of such personnel shall be recorded and it shall be made known to them that these are recorded
+telephone lines. Audio tapes shall be made available to the Commission on demand.
+(v)
+The surveillance department shall analyse bidding patterns and transactions of participants. The analysis report to be
+submitted to the Commission on quarterly basis shall be in the following particular areas but not limited to:-
+(a)
+Open position by clients, by contracts;
+(b)
+Members of Exchange's pattern of transaction over a specific time period;
+(c)
+Daily, weekly, monthly Volatility analysis of prices (day ahead and term ahead contract prices);
+(d)
+Price setter analysis of buyer and seller;
+(e)
+Dominant participants and Market concentration
+(f)
+Circular Trading monitoring
+Explanation. - A fraudulent transaction to buy and sell the same quantity of a contract, at the same price and at the
+same time, without actual change of ownership.
+(g)
+Analysis of sudden high transaction volumes or sudden increase in open position of Member of Exchange;
+(h)
+Analysis and reason of persistent default by any member on the Exchange or Clearing Corporation;
+(i)
+Analysis of transactions to check that the market splitting methodology as approved by the Commission is being
+followed in operation in case of congestion in transmission corridors.
+59.
+Transaction Reporting requirement for Exchange, Electricity Trader and OTC market participants:-
+(i)
+All reporting shall be in electronic format.
+(ii)
+For Electricity Trader trade reports shall be in the format prescribed in the CERC (Procedure, Terms and Conditions for
+grant of trading licence and other related matters) (Second Amendment) Regulations, 2009 and as amended from time
+to time.
+(iii)
+In addition to the prescribed reports, mentioned in sub regulation (ii) Electricity Trader shall provide open position report
+and tenure of all trades and risk summary report on a quarterly basis for risk monitoring purpose.
+Page 24/27
+----- PAGE 25 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+Provided that the Commission may, by order, lay down and review the formats from time to time for the purpose of
+reporting.
+(iv)
+An Exchange shall report price, transaction volume, buyers and sellers on its platform on monthly basis.
+Provided that the Commission may by order, review the other reporting details and reporting frequency depending on
+technology, type of market liquidity, volatility and other criteria in the market.
+(v)
+For Day ahead market, Power Exchange shall provide monthly details of all transactions on it platform in the formats
+appended to these regulations.
+Provided that the Commission may, by order, review the formats from time to time
+(vi)
+For Term ahead market, Power Exchange shall also report Market Wide limit (MWL), Open Interest (OI), Open position
+limit of its members. MWL and OI shall also be made available on the trading system of the Power Exchange and
+electronic trading terminal of participants.
+Explanation I. - Market Wide Position Limit is the total open interest of all clients together in the market for specific
+contract on an Exchange.
+Explanation II. - Open Interest is the total number of open contracts on an underlying asset that is, the number of future
+contracts of a client or member that have not been exercised, expired or fulfilled by delivery.
+(vii)
+All exchanges shall submit analysis report mentioned in Regulation 58 sub regulation (v) to the Commission on a
+quarterly basis.
+(viii)
+The Exchange shall submit to the Commission bids of all participants along with its analysis as prescribed and as and
+when directed by the Commission.
+(ix)
+Power transacted directly between buyers and sellers for interstate transactions above 100 MW in the short term market
+shall be reported by them to the Commission within 10 days of execution.
+60.
+Whistle Blowing policy.
+- (i) Market participants shall be entitled to report to the Commission either by letter or email, of any unscrupulous
+activity, wrongdoing or violation of law, as may come to their knowledge.
+(ii)
+The provider of the above information shall be entitled to request that its identity be kept confidential and be not
+disclosed.
+(iii)
+The Commission shall take strict action in case of any kind of retaliation to such an informant by any affected party.
+61.
+Insider Trading Policy.
+- A person having non-public price sensitive information relating to generator outage, plant maintenance shall not
+transact on the Power Exchange and Other Exchanges unless such information has been submitted to LDC.
+62.
+The Commission may, on being satisfied that a person has failed to comply with any of the provisions above, at any
+time, by order in writing, direct any person specified in the order to investigate the affairs of such person and to report to
+the Commission on any investigation made by such Investigating Authority. The provisions of Regulation 55 shall apply
+mutatis mutandis to the investigation specified in this regulation.
+Part - 8 Miscellaneous
+63.
+Saving of inherent powers of the Commission.
+- (i) Nothing in these Regulations shall be deemed to limit or otherwise affect the inherent power of the Commission to
+make such orders as may be necessary for meeting the ends of justice or to prevent the abuse of the process of the
+Commission.
+Page 25/27
+----- PAGE 26 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+(ii)
+Nothing in these Regulations shall bar the Commission from adopting in conformity with the provisions of the Act, a
+procedure, which is at variance with any of the provisions of these Regulations including summary procedures, if the
+Commission, in view of the special circumstance of a matter or class of matters and for reasons to be recorded in
+writing, deems it necessary or expedient for so dealing with such a matter or class of matters.
+(iii)
+Nothing in these Regulations shall bar the Commission to deal with any matter or exercise any power under the Act for
+which no regulations have been made, and the Commission may deal with such matters, powers and functions in a
+manner it thinks fit.
+64.
+Power to remove difficulties.
+- If any difficulty arises in giving effect to the provisions of these Regulations, the Commission may, by order, make such
+provisions not inconsistent with the provisions of the Act, as may appear to be necessary for removing the difficulty.
+65.
+Provisions of these regulations are in addition to and not in derogation of any other regulation made by the Commission
+Format-B1
+Volume and Price of Electricity Traded (Day
+Wise) Through Power Exchange
+Name of the Power Exchange:
+Month:
+Delivery Date
+Maximum No. of purchase bids in an hour
+Volume of purchase bids (MUs)
+Maximum No. of Sale bids in an hour
+Volume of sale bids (MUs)
+Market Clearing Volume (MUs)
+Market Clearing Price (Rs/KWh)
+Minimum
+Maximum
+Weighted Average
+Note. - the data is required to be submitted every month by Power Exchange
+Format-B2
+Volume and Price of Electricity Traded (hour
+wise) Through Power Exchange
+Name of the Power Exchange:
+Month:
+Sr
+Hour
+Purchase Bids
+Sale Bids
+Market Clearing Volume (MUs)
+Market Clearing Price (Rs/KWh)
+Number of bids
+Volume (MUs)
+Number of bids
+Volume (MUs)
+1
+2
+3
+4
+5
+Page 26/27
+----- PAGE 27 -----
+Central Electricity Regulatory Commission (Power Market) Regulations, 2010
+6
+7
+8
+9
+10
+Note: the data is required to be submitted for each day of the month by Power Exchange
+Format B3
+List of Members
+Sl No
+Member Name and Clients
+Contact person
+Address
+Telephone
+Email Id
+Format B4
+Format For Submission of Information Regarding Congestion To Cerc
+Name of Power Exchange:
+Date of filling of the Information dd-mm-yyyy
+Period for which details are being submitted:
+From Date
+dd-mm-yyyy
+To Date
+dd-mm-yyyy
+Sr.No.
+Date
+Hour
+Consgested Corridor
+Power Flow
+Prices
+Congestion
+(eg. Total Import to SR)
+over Congested Corridor
+Upstream
+Downstream
+Difference
+Revenue
+in MWh
+(Rs./MWh)
+(Rs./MWh)
+(Rs./MWh)
+in Rs.
+(A)
+(B)
+(C)
+(D)=(C)-(B)
+(E)=(A)X(D)
+Total Congestion Revenue Collected
+Related AI tags, queries and research notes
+Translation
+Page 27/27

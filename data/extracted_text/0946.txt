@@ -1,0 +1,1319 @@
+
+----- PAGE 1 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules,
+1974
+Source: https://indiankanoon.org/doc/188153847/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+UNION OF INDIA
+India
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+Rule THE-MERCHANT-SHIPPING-CARGO-SHIP-CONSTRUCTION-AND-SURVEY-RULES-1974 of 1974
+Published on 6 March 1974
+Commenced on 6 March 1974
+[This is the version of this document from 6 March 1974.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+Published vide Notification Gazette of India, 1974, Part 2, Section 3(i), page 676.
+1898.
+G.S.R. 295, dated 6th March, 1974. - Whereas a draft of the Merchant Shipping (Cargo Ship Construction and Survey)
+Rules, 1972, was published as required by sub-section (1) of Section 299-B of the Merchant Shipping Act, 1958 (
+44 of 1958
+), at pages 3693 to 3701 of the Gazette of India, Part II-Sec. 3, sub-section (i), dated the 23rd December, 1972 under
+the notification of the Government of India in the Ministry of Shipping and Transport, No. G.S.R. 1606, dated the 19th
+December, 1972, inviting objections and suggestions till the 5th February, 1973, from all persons likely to be affected
+Page 1/25
+----- PAGE 2 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+thereby;
+And whereas the said Gazette was made available to the public on the 23rd December, 1972;
+And whereas no objections or suggestions have been received;
+Now, therefore, in exercise of the powers conferred by sub-section (1) of Section 284 and Section 299-B of the
+Merchant Shipping Act, 1958 (
+44 of 1958
+), the Central Government hereby makes the following rules, namely :-
+1.
+Short title, Commencement, application and exception.
+(1)
+These rules may be called the Merchant Shipping (Cargo Ship Construction and Survey) Rules, 1974.
+(2)
+They shall come into force at once.
+(3)
+Unless expressly provided otherwise, they shall apply to :
+(i)
+all sea-going cargo ships of 500 tons gross or more, other than pleasure yachts and fishing vessels registered in India;
+(ii)
+all sea-going cargo ships of 500 tons gross or more, other than pleasure yachts and fishing vessels, not registered in
+India when they are at a port or place in India or within the territorial waters of India :
+Provided that rule 4, except sub-rule (1) of that rule, rules 6 to 12 both inclusive, sub-rule (2) of rule 13, sub-rule (2) of
+rule 18, Cls. (c) and (d) of sub-rule (2) of rule 20, rule 24, rule 25, except sub-rule (1) of that rule, rule 27 and sub-rule (2)
+of rule 29 shall not apply to any ship the keel of which was laid before the 26th May, 1965.
+2.
+Definitions.
+- In these rules, unless the context otherwise requires. -
+(a)
+"Act" means the Merchant Shipping Act, 1958 (
+44 of 1958
+);
+(b)
+"B Class Panel" means a panel which complies with the requirements of rule 12 of these rules;
+(c)
+"bulkhead deck" means the uppermost deck up to which the majority of transverse watertight bulkheads are carried;
+(d)
+"cargo ship construction certificate" means a cargo ship construction certificate issued under these rules to a ship of five
+hundred tons gross or more which is not engaged in international voyages;
+(e)
+"cargo ship safety construction certificate" means a cargo ship safety construction certificate issued under these rules to
+a ship of five hundred tons gross or more which is engaged in international voyages;
+(f)
+"combustible material" means any material which is not an incombustible material;
+(g)
+"control stations" means spaces in which radio equipments, main navigating equipments, Central fire-recording
+equipment or the emergency generator are or is located;
+(h)
+"equivalent material" where the words are used in the expression "steel or other equivalent material" means any material
+which by itself or due to insulation provided, has structural and integrity properties equivalent to steel at the end of an
+appropriate fire test;
+(i)
+"gross tonnage" has the same meaning as is assigned to it in the Merchant Shipping (Tonnage Measurement of Ships)
+Page 2/25
+----- PAGE 3 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+Rules, 1960, except that where a ship has dual tonnages, the higher of the two shall be deemed to be its tonnage for the
+purposes of these rules;
+(j)
+"incombustible material" means a material which neither burns nor gives off inflammable vapours in sufficient quantity to
+ignite at a pilot flame, when heated up to approximately 750°C.
+(k)
+"length" in relation to the length of a Ship means-
+(i)
+the length in metres on the summer load water-line from the foreside of the stem to the after side of the rudder post; or
+(ii)
+for ships with no rudder post, the length in metres from the foreside of the stem to the axis of the rudder stock; or
+(iii)
+for ships with cruiser sterns, the length in metres which shall be taken at 96 per cent of the total length on the summer
+load water-line or as the length from the foreside of the stem to the axis of the rudder stock whichever is greater;
+(l)
+"machinery control room" means a room from which the propelling machinery and boilers serving the needs of
+propulsion may be controlled;
+(m)
+"machinery space" means any space used for propelling auxiliary or refrigerating machinery, boilers, pumps, engineer's
+workshops, generators, ventilation or air-conditioning machinery, oil filling stations and similar spaces and trunkways to
+such spaces;
+(n)
+"maximum service speed" means the greatest speed which the ship is designed to maintain at sea at its deepest
+sea-going draught;
+(o)
+"oil fuel unit" means the equipment used for the preparation of oil fuel for delivery to the oil burners of an oilfired boiler
+and includes the oil pressure pumps, filters, and heaters;
+(p)
+"settling tank" means an oil storage tank having a heating surface of not less than 0.183 sq. metres per tonne of oil
+capacity;
+(q)
+"standard fire test" means a test in which a specimen of the material to be tested with a surface area of not less than
+4.65 sq. metres and height not less than 2.44 metres, is exposed in a test furnace to a series of time temperature
+relationships approximately as follows, namely :-
+(i)
+at the end of the first five minutes 538°C
+(ii)
+at the end of the first ten minutes 704°C
+(iii)
+at the end of the first thirty minutes 843°C
+(iv)
+at the end of the first sixty minutes 927°C
+(r)
+"steering gear power unit" means :-
+(i)
+in the case of electro-hydraulic steering gear, the electric motor, and its associated electrical equipment; or
+(ii)
+in the case of electro-hydraulic steering gear, the electric motor, and its associated electrical equipment and connected
+pump;
+(iii)
+in the case of steam-hydraulic or pneumatic hydraulic steering gear, the driving engine and connected pump;
+Page 3/25
+----- PAGE 4 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+(s)
+"suitable" in relation to material means approved by the Central Government as suitable for the purpose for which it is
+used;
+(t)
+"working day" means any day on which Mercantile Marine Department Offices are open for transacting business
+excepting a Sunday or a closed holiday including second Saturday of a month.
+3.
+Structural strength.
+- The structural strength and the number and disposition of transverse water-tight bulkheads of every ship shall be
+adequate for the service for which the ship is intended.
+4.
+Water-tight doors.
+(1)
+In every ship in which water-tight doors are provided to maintain the water-tight integrity of a bulkhead, every such
+water-tight door shall be made of a suitable material and shall be efficiently constructed for its intended use.
+(2)
+In every ship,--------
+(a)
+every water-tight door of the sliding type shall be capable of being operated by efficient hand-operated gear both at the
+door itself and from an accessible position above the bulkhead deck;
+(b)
+the gear, operated from above a bulkhead deck for operating any sliding water-tight door fitted in the bulkhead of a
+machinery space, shall be situated outside the machinery space unless such a position is inconsistent with the efficient
+arrangements of the necessary gearing;
+(c)
+where there is access from the lower part of a machinery space to a water-tight shaft tunnel, the access opening shall
+be provided with a sliding water-tight door which shall be capable of being operated locally on both sides of the door;
+(d)
+means shall be provided at remote operating positions to indicate when a sliding door is closed;
+(e)
+water-tight doors shall be capable of being operated when the ship is listed up to 15 degrees either way.
+5.
+Bilge pumping arrangement.
+- Every ship shall he provided with efficient bilge pumping plant and means for drainage so arranged that water entering
+any part of the hull (other than a space permanently appropriated for the carriage of fresh water, water ballast, oil fuel or
+liquid cargo and for which other efficient means of pumping or drainage are provided) can be pumped out through at
+least one suction pipe when the ship is on even keel or is listed not more than 5 degrees either way. Wing suctino shall
+be provided, where necessary for the purpose. Efficient means shall be provided whereby water may easily flow to the
+suction pipes:
+Provided that the Central Government may allow the means of pumping or drainage to be dispensed with in particular
+compartments of any ship or class of ships if it is satisfied that the safety of the ship is not thereby impaired.
+6.
+Electrical equipment and installations.
+(1)
+In every ship the electrical equipment and installations, including any electrical means of propulsion shall be such that
+the ship and all persons on board are protected against electrical hazards and shall conform to the standards accepted
+by the Central Government.
+(2)
+Every ship in which electric power is the only power for maintaining auxiliary services essential for the propulsion or
+safety of the ship, shall be provided with two or more generating sets of such power so that the aforesaid services can
+be maintained when any one of the sets is out of service.
+Page 4/25
+----- PAGE 5 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+(3)
+In every ship in which the electrical load includes services essential for the propulsion or safety of the ship and the
+normal sea load is such as to require simultaneous working of two or more generators, arrangements shall be made to
+trip automatically sufficient non-essential load when the total current exceeds the connected generator capacity.
+7.
+Emergency source of electric power in ships of 5000 tons gross or over.
+(1)
+In every ship of 5000 tons gross or over, a self contained emergency source of electric power shall he provided in a
+position above the uppermost continuous deck and outside the machinery casings, so arranged as to ensure its
+functioning in the event of fire or other casualty causing failure of the main electrical installation.
+(2)
+In every such ship the emergency source of electric power required under sub-rule (1), shall be capable of operating the
+following services simultaneously, for a consecutive period of not less than six hours; namely :-
+(a)
+the emergency lighting required under the Indian Merchant Shipping (Life Saving Appliances) Rules, 1956;
+(b)
+the emergency lighting system provided in the main machinery space, the space containing the ship's main electric
+generating plant, on the navigating bridge and in the chart room;
+(c)
+the general alarm, if electrically operated;
+(d)
+the ship's navigation lights, if solely electric; and
+(e)
+the day light signalling lamp, if it is operated' the ship's main source of electric power.
+(3)
+In every such ship.----
+(a)
+the emergency source of electric power required under sub-rule (1) shall be either accumulator (storage) batteries,
+capable of complying with the requirements of sub-rule (2) without being recharged or suffering an excessive voltage
+drop, or it shall be a generator driven by internal combustion type machinery with an independent fuel supply and with
+efficient starting arrangements and the fuel provided for such machinery shall have a flash point of not less than 43°C;
+(b)
+the emergency source of electric power shall be so arranged that it will operate efficiently when the ship is listed 22-1/2
+degrees and when the trim of the ship is 10 degrees from an even keel;
+(c)
+provision shall be made for the periodical testing of the emergency source of electric power and its associated circuits.
+8.
+Emergency source of electrical power in ships of 1600 tons gross or over but less than 5000 tons gross.
+(1)
+In every ship of 1600 tons gross or over but of less than 5000 tons gross a self-contained source of electric power shall
+be provided in a position above the uppermost continuous deck or raised quarter deck and outside the machinery
+casings, so arranged as to ensure its functioning in the event of fire or other casualty causing failure of the main
+electrical installation.
+(2)
+The emergency source of electric power required under sub-rule (1) shall be capable of operating the following services
+simultaneously, for a consecutive period of not less than three hours, namely :-
+(a)
+the emergency lighting required under the Indian Merchant Shipping (Life Saving Appliances) Rules, 1956;
+(b)
+the general alarm, if electrically operated; and
+(c)
+Page 5/25
+----- PAGE 6 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+the ship's navigation lights, if solely electric.
+(3)
+In every such ship-
+(a)
+the emergency source of electric power required under sub-rule (1) shall be either accumulator (storage) batteries
+capable of complying with the requirements of sub-rule (2) without being recharged or suffering an excessive voltage
+drop or it shall be a generator driven by internal combustion type machinery with an independent fuel supply and with
+efficient starting arrangements and the fuel provided for such machinery shall have a flash point of not less than 43°C;
+(b)
+the emergency source of electric power shall be so arranged that it will operate efficiently when the ship is listed 22-1/2
+degrees and when the trim of the ship is 10 degrees from an even keel;
+(c)
+provision shall be made for the periodical testing of the emergency source of electric power and its associated circuits.
+9.
+Emergency source of electric power in ships of less than 1600 tons gross.
+(1)
+In every ship of less than 1600 tons gross not having its main source of electric power situated above the uppermost
+continuous deck or raised quarter deck and outside the machinery casings, a self contained emergency source of
+electric power shall be provided in a position above the machinery casings, arranged as to ensure its functioning in the
+event of fire or other casualty causing failure of the main electrical installation.
+(2)
+The emergency source of electric power required under sub-rule (1) shall be capable of operating the following services
+simultaneously, for a consecutive period of not less than three hours, namely :-
+(a)
+the emergency lighting required under the Indian Merchant Shipping (Life Saving Appliances) Rules, 1956;
+(b)
+the general alarm, if electrically operated; and
+(c)
+the ship's navigation lights, if solely electric.
+(3)
+In every such ship-
+(a)
+the emergency source of electric power required under sub-rule (1) shall be either accumulator (storage) batteries
+capable of complying with the requirements of sub-rule (2) without being recharged or suffering an excessive voltage
+drop or it shall be a generator driven by internal combustion type machinery with an independent fuel supply and with
+efficient starting arrangements and the fuel provided-for such machinery shall have flash point of not less than 43°C;
+(b)
+the emergency source of electric power shall be so arranged that it will operate efficiently when the ship is listed 22-1/2
+degrees and when the trim of the ship is 10 degrees from an even keel;
+(c)
+provision shall be made for the periodical testing of the emergency source of electric power and its associated circuits.
+10.
+Electric and electrohydraulic steering gear.
+(1)
+In every ship, which is fitted with electric or electrohydraulic steering gear, indicators shall be provided which will show
+when the power units of such steering gear are running. These indicators shall be situated in the machinery control room
+or in such other position or positions as the Central Government may approve and on the navigating bridge.
+(2)
+In every ship of 5000 tons gross or over the following provision shall be made, namely :-
+(a)
+electric and electrohydraulic steering gear shall be served by two circuits fed from the main switch board one of which
+Page 6/25
+----- PAGE 7 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+may pass through the emergency switch board, if an emergency switch board is provided on the ship. Each circuit shall
+have adequate capacity for supplying all the motors which are normally connected to it and which operate
+simultaneously, and if transfer arrangements are provided in the steering gear room to permit either circuit to supply any
+motor or combination of motors, the capacity of each circuit shall be adequate for the most severe load condition. The
+circuits shall be separated as widely as is practicable throughout their length;
+(h)
+short circuit protection only shall be provided for such circuits and motors.
+(3)
+Every ship under 5000 tons gross, in which electric power is the sole source of power for both main and auxiliary
+steering gear, shall comply with the requirements of sub-rule (2) except that if the auxiliary steering gear is powered by a
+motor primarily intended for other services, suitable overload protection maybe fitted.
+11.
+Precautions against shock, fire and other hazards of electrical origin.
+(1)
+In every ship all electrical equipments shall be so constructed and installed that there will be no danger of injury to any
+person handling it in a proper manner. Subject to the provisions of sub-rule (2), where electrical equipment supplied as
+ship's equipment is required to be operated at a voltage in excess of 55 volts, the exposed metal parts of such
+equipment which arc not intended to have voltage above that of earth but which may have such a voltage under fault
+conditions shall be earthed.
+(2)
+In every ship, exposed metal parts of portable electric lamps, tools and similar apparatus supplied as ship's equipment
+required to be operated at a voltage in excess of 55 volts, shall be earthed through a conductor in the supply cable,
+unless by the use of double insulation or a suitable isolating transformer, protection, at least as effective as earthing
+through a conductor is provided. When electric lamps, tools or other apparatus are used in damp spaces, provision shall
+be made so far as practicable, to ensure that the danger of electric shock is reduced to a minimum.
+(3)
+In every ship each main and emergency switch board shall be so arranged as to give easy access to the back and the
+front thereof, without danger to any person. Every such switch board shall be suitably guarded and a non-conducting
+mat or grating shall be provided at its back and the front, where necessary. No exposed parts which may have a voltage,
+between conductors or to earth, exceeding 250 volts direct current or 55 volts alternating current, shall be installed on
+the face of any such board or control panel.
+(4)
+The hull return system of distribution shall not be used in any ship : Provided that the Central Government may exempt
+any ship other than a tanker from complying with the requirements of this sub-rule.
+(5)
+In every ship, each electric cable shall, at every position at which an electrical fault may cause a fire, be flame-retardant,
+sheathed or armoured or otherwise equally effectively protected. All metal sheaths and metal armour or electrical cable
+shall be electrically continuous" and shall be earthed.
+(6)
+In every ship, lighting fittings shall be so arranged as to prevent rises in temperature which would be injurious to the
+electrical wiring thereof or which would result in a risk of fire in the surrounding material.
+(7)
+In every ship, wiring shall be supported in such a manner as to avoid chafing and other injury.
+(8)
+In every ship-
+(a)
+each separate electrical circuit, shall be protected against short circuit;
+(b)
+each such separate electrical circuit other than a circuit in respect of which the Central Government has granted an
+exemption, shall be protected against overload. On or near each overload protective device, the current carrying
+capacity of the circuit which it protects and the rating or setting of the device shall be clearly and permanently indicated.
+Page 7/25
+----- PAGE 8 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+(9)
+In every ship, all accumulator (storage) batteries shall be housed in boxes or compartments which are constructed to
+protect the batteries from damage and are ventilated to minimise the accumulation of explosive gas. Devices liable to
+are shall not be installed in any compartment assigned principally to accumulator batteries.
+(10)
+In every ship in which electric space heater forms a part of its equipment every such electric space heater shall be fixed
+in such a position and shall be sio constructed as to reduce the risk of fire to the minimum. No such heater shall be
+constructed with an element so exposed that clothing, curtains or other materials can be scorched or set on fire by heat
+from the element.
+12.
+Fire protection.
+(1)
+This rule shall apply to all cargo ships of 4000 tons gross or over and sub-rule (9) shall apply also to cargo ships of 500
+tons gross or over.
+(2)
+In a ship in which a bulkhead is required to be constructed of 'B' class panels, such panels shall be capable of
+preventing the passage of flame throughout a standard fire test of 30 minutes duration. Every incombustible 'B' class
+panel used for this purpose shall be such that if either face thereof is exposed to a standard fire test of 30 minutes
+duration, the average temperature on the unexposed face of the panel shall not increase at any time during the first 15
+minutes of the test and during the entire period of the test it shall not exceed by more than 139°C above the initial
+temperature on that face nor shall the temperature at any one point thereon increase by more than 225°C above the
+initial temperature. Every combustible 'B' class panel used for this purpose shall be such that if either face thereof is
+exposed to a fire test of 30 minutes duration the average temperature on the unexposed face of the panel shall not
+increase by more than 139°C above the initial temperature on that face nor shall the temperature at any one point
+thereon increase by more than 225°C above the initial temperature.
+(3)
+In every ship-
+(a)
+the hull including the superstructure, bulkheads, decks and deckhouses shall be constructed of steel :
+Provided that in special cases the Central Government may permit any of these to be constructed of such other suitable
+materials as it may deem fit, having regard to the risk of fire;
+(b)
+the corridor bulkheads serving accommodation spaces and control stations shall be constructed of steel or 'B' class
+panels.
+(4)
+In every ship-
+(a)
+the doorways and similar openings in corridor bulkheads shall be capable of being closed by permanently attached
+doors or by shutters :
+(b)
+the number of ventilation openings in such bulkheads shall be kept to a minimum. Such openings shall, so far as is
+reasonably practicable, be in the lower part of the door.
+(5)
+In every ship, interior stairways, ladders and crew lift trunks within accommodation spaces shall be constructed of steel
+or other equivalent material.
+(6)
+In every ship, the boundary bulkheads of any emergency generator room and the bulkheads separating a galley,
+paint-room, lamp-room, or boatswain's store from an accommodation space shall be constructed of steel or other
+equivalent materials.
+(7)
+In every ship, deck coverings with accommodation spaces and control station on the deck forming the crown of
+Page 8/25
+----- PAGE 9 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+machinery and cargo spaces shall be of a type which will not readily ignite.
+(8)
+In every ship-
+(a)
+paints, varnishes and other surface materials having a nitrocellulose or other highly inflammable base shall not be used
+in accommodation spaces, machinery spaces and control stations;
+(b)
+pipes intended to convey oil or other combustible liquids shall be of a material acceptable to the Central Government
+having regard to the risk of fire;
+(c)
+overboard scuppers, sanitary discharges or other outlets close to the waterline shall not be of a material likely to fail in
+the event of fire and thereby give rise to a danger of flooding; and
+(d)
+cellulose nitrate film shall not be used in cinematograph installations.
+(9)
+In every ship-
+(a)
+the skylights to spaces containing main propulsion machinery or oil fired boilers or auxiliary internal combustion type
+machinery of a total horse power of 1000 or over shall be capable of being closed and, where, practicable, opened, from
+outside the spaces in the event of fire and where they contain glass panels, such panels shall be of fire resisting
+construction fitted with wire reinforced glass and shall have external permanently attached shutters of steel or other
+equivalent material;
+(b)
+windows shall not be fitted in engine casings except where the Central Government is satisfied that they are necessary
+and will not constitute a fire hazard. Where such windows are fitted they shall be of non-opening type and shall be of fire
+resisting construction fitted with wire reinforced glass and shall have permanently attached external shutters of steel or
+other equivalent material.
+13.
+Boilers and machinery-General.
+(1)
+In every ship, the machinery boilers and other pressure vessels shall be of a design and construction adequate for the
+service for which they are intended and shall be so installed and protected as to reduce to a minimum any danger to
+persons on board.
+(2)
+Without prejudice to the generality of the requirement of sub-rule (1), in boilers and machinery of every ship means shall
+be provided which will prevent over-pressure of any part of such machinery, boilers and other pressure vessels and in
+particular every boiler and every oilfired steam generator shall be provided with not less than two safety valves:
+Provided that the Central Government may, having regard to the output or any other feature of any boiler or unfired
+steam generator, permit only one safety valve to be fitted if it is satisfied that adequate protection against overpressure
+is provided.
+14.
+Boilers and other pressure vessels.
+(1)
+In every ship, every boiler or other pressure vessel and its respective mountings shall, before being put into service for
+the first time, be subjected to a hydraulic test to a pressure suitably in excess of the working pressure of that boiler or
+the pressure vessel, as the case may be so as to ensure that the boiler or any other pressure vessel together with its
+mountings is adequate in strength and design for the service for which it is intended having regard to---
+(a)
+the design and the material of which it is constructed;
+(b)
+the purpose for which it is intended to be used; and
+Page 9/25
+----- PAGE 10 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+(c)
+the working conditions under which it is intended to be used.
+(2)
+Every such boiler or pressure vessel and its respective mountings shall be maintained in an efficient condition.
+(3)
+In every ship, provision shall be made which will adequately facilitate the cleaning and inspection of every pressure
+vessel.
+15.
+Machinery.
+(1)
+In every ship, main and auxiliary machinery essential for the propulsion and safety of the ship shall be provided with
+effective means of control and the machinery shall be capable of being brought into operation when initially no power is
+available in the ship.
+(2)
+In every ship, where risk from over speeding of machinery exists means shall be provided to ensure that the safe speed
+is not exceeded.
+(3)
+In every ship, where main or auxiliary machinery or any parts of such machinery are subject to internal pressure, such
+machinery or such parts shall, before being put into service for the first time, be subjected to a hydraulic test to a
+pressure suitably in excess of their working pressure having regard to---
+(a)
+the design and the material of which they are constructed;
+(b)
+the purpose for which they are intended to be used;
+(c)
+the working conditions under which they are intended to be used.
+(4)
+In every ship, main or auxiliary machinery or any parts thereof which are subject to internal pressure shall be maintained
+in an efficient condition.
+16.
+Means of going astern.
+- Every ship shall have sufficient power for going astern to secure proper control of the ship in all normal circumstances.
+17.
+Shafts.
+- In every ship, each shaft shall be so designed and constructed that it will withstand the maximum working stresses to
+which it may be subjected, with a factor of safety which is adequate having regard to--
+(a)
+the material of which it is constructed;
+(b)
+the service for which it is intended; and
+(c)
+the type of engines by which it is driven or of which it form a part.
+18.
+Boiler feed system.
+(1)
+In every ship, every boiler which provide services essential for the safety of the ship and which could be render
+dangerous by the the failure of its feed water supply, shall be provided with no less than two efficient and separate feed
+water systems so arranged that either of such systems may be opened for inspection or overhaul without affecting the
+efficiency of the other. In every such system means shall be provide which will prevent over-pressure in any part of the
+system.
+(2)
+Page 10/25
+----- PAGE 11 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+If in any ship a possibility of oil entering the feed water system exists, the arrangements for the supply of boiler feed
+water shall provide the interception of oil in the feed water.
+(3)
+Every feed check valve, fitting or pipe through which feed was passes from a pump to such boilers shall be designed
+and constructed withstand the maximum working stresses to which it may be subjected, with a factor of safety which is
+adequate having regard to the material of why it is constructed and the working conditions under which it will be us.
+Every such valve, fitting or pipe shall, before being put into service for the first time, be subjected to a hydraulic test
+suitably in excess of the maximum working pressure of the boiler to which it is connected or of the maximum working
+pressure to which the feed line may be subjected, whichever is greater, and shall be maintained in an efficient condition.
+(4)
+The feed pipes referred to in sub-rule (3) shall be adquately supported.
+19.
+Steam pipe system.
+(1)
+In every ship, every steam pipe and every fitting connected thereto through which steam may pass shall be so designed
+and constructed as to withstand the maximum working stresses to which it may be subjected, with a factor of safety
+which is adequate having regard to---
+(a)
+the material of which it is constructed; and
+(b)
+the working conditions under which it will be used.
+(2)
+Without prejudice to the requirement of sub-rule (1), every such steam pipe or fitting shall, before being put into service
+for the first time, be subjected to a test by hydraulic pressure to a pressure suitably in excess of its working pressure to
+be determined having regard to the requirements of Cls. (a) and (b) of sub-rule (1), and every such steam pipe or fitting
+shall be maintained in an efficient condition.
+(3)
+Steam pipes shall be adequately supported.
+(4)
+Provision shall be made which will avoid excessive stress likely to lead to the failure of any such steam pipe or fitting
+whether by reason of variation in temperature, vibration or otherwise.
+(5)
+Efficient means shall be provided for draining every such steam pipe so as to ensure that the interior of the pipe is kept
+free of water and that water hammer action will not occur under any conditions likely to arise in the course of the
+intended service of the ship.
+(6)
+If in any ship a steam pipe is required to receive steam from any source at a higher pressure than it can withstand with
+an adequate factor of safety, an efficient reducing valve, relief valve and pressure gauge shall be fitted to such pipe.
+20.
+Air pressure system.
+(1)
+In every ship in which machinery essential for the propulsion and safety of the ship or persons on board is required to be
+started, operated or controlled solely by compressed air, an efficient air system shall be provided which shall include a
+sufficient number of air compressors and compressed air storage vessels so as to ensure that an adequate supply of
+compressed air is available under all conditions likely to be met in service.
+(2)
+(a)
+Parts of every such compressed air system other than a pneumatic control system which are subjected to air pressure
+shall be so designed and constructed as to withstand, with adequate factor of safety, the maximum working stresses to
+which they may be subjected and every air pressure pipe or fitting in such system shall, before being put into service for
+the first time, be subjected to a hydraulic test to twice its maximum working pressure and be maintained in an efficient
+Page 11/25
+----- PAGE 12 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+condition.
+(b)
+Means shall be provided to prevent over-pressure in any part of any such compressed air system and where water
+jackets or casings of air compressors and coolers might be subjected to dangerous over-pressure due to leakage into
+them from air pressure parts, suitable and adequate pressure relief arrangements shall be provided.
+(c)
+In every such compressed air system provision shall be made-
+(i)
+to reduce to a minimum entry of oil into the system;
+(ii)
+to drain the system; and
+(iii)
+to protect the system from the effects of internal explosion.
+(d)
+In every such compressed air system, discharge pipes from starting air compressors shall lead directly to the starting air
+receivers, and all starting air pipes from the receivers leading to main or auxiliary engines shall be entirely separate from
+the compressor discharge pipe system.
+21.
+Cooling water system.
+- In every ship in which cooling water services are essential for the running of the propelling machinery, at least two
+means of operating such water services shall be provided.
+22.
+Lubricating and other oil systems.
+- In every ship in which oil for lubrication, cooling or operation of the main propelling machinery and its ancillary services
+is circulated under pressure, adequate provision shall be made so that in the event of the failure of pump an alternative
+means of circulating such oil is available.
+23.
+Oil and gaseous fuel installations.
+(1)
+In every ship, oil fuel provided for use in boilers or machinery shall have flash point of not less than 65.6°C (closed test):
+Provided that the Central Government may, subject to such conditions as it may impose-
+(a)
+permit any ship to use oil fuel having a flash point of not less than 54.5°C in boilers or of not less than 43.4 °C in internal
+combustion type machinery; and
+(b)
+permit the use of gaseous fuel in ships designed for the carriage of liquefied gas if such fuel results solely from
+evaporation of cargo carried.
+(2)
+Nothing in sub-rule (1) shall apply to fuel provided for the machinery operating the emergency source of electric power
+required under Cl. (a) of sub-rule (3) of rule 7, Cl. (a) of sub-rule (3) of rule 8 and Cl. (a) of sub-rule (3) of rule 9.
+(3)
+In every ship in which oil or gaseous fuel is used the arrangements for the storage, distribution and utilisation of the fuel
+shall be such that, having regard to the hazards of fire and explosion which the use of such fuel may entail, the safety of
+the ship and of persons on board is preserved.
+(4)
+In every ship in which oil or gaseous fuel is used in engines or boilers for the propulsion or safety of the ship, the
+arrangements for the storage, distribution and utilisation of the fuel shall be such that the effective use of the engines
+can be maintained under all conditions likely to be met by the ship in service.
+(5)
+Every oil fuel installation which serves a boilers that supplies steam for the propulsion of the ship shall include not less
+than two oil fuel units.
+Page 12/25
+----- PAGE 13 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+24.
+Communication between bridge and engine room.
+- Every ship shall be provided with two means of communicating orders from the navigating bridge to the engine room
+control platform. One of such means shall be an engine room telegraph.
+25.
+Steering gear.
+(1)
+Every ship shall be provided with efficient main and auxiliary steering gear :
+Provided that if duplicate steering gear power units and their connections are fitted to the satisfaction of the Central
+Government and each such power unit complies with the requirements of Cl. (c) of sub-rule (2), and the duplicate units
+and connections operating together comply with the requirements of Cl. (b) of sub-rule (2) the Central Government may
+dispense with the requirement of providing an auxiliary steering gear on any ship.
+(2)
+In every ship-
+(a)
+the main steering gear, including the rudder and associated fittings, shall be of adequate strength and sufficient to steer
+the ship at maximum service speed. The main steering gear and rudder stock shall be so designed that they are not
+damaged at maximum astern speed;
+(b)
+the main steering gear shall be capable of putting the rudder over from 35° on one side to 35° on the other side with the
+ship running ahead at maximum service speed. The rudder shall be capable of being put over from 35° on either side to
+30° on the other side in 28 seconds at maximum service speed;
+(c)
+the auxiliary steering gear shall be capable of being brought rapidly into action and shall be of adequate strength and of
+sufficient power to enable the ship to be steered at navigable speed. In any ship where a rudder stock of over 35.56
+centimetres diameter in way of the tiller is required to comply with the requirements of Cl. (a), the auxiliary steering gear
+shall be operated by power.
+(3)
+In every ship, which is fitted with a power operated steering gear, the position of the rudder shall be indicated at the
+principal steering station.
+26.
+Space gear.
+- Every ship shall be provided with sufficient spare gear having regard to the intended service of the ship.
+27.
+Compasses.
+(1)
+Subject to the provisions of sub-rule (2), every ship shall be provided with two efficient magnetic compasses which shall
+be mounted in binnacles and sited on the ship's centre line. One of such compasses shall be provided for use as a
+standard compass and shall be sited near the normal steering position and in a position from which the view of the
+horizon is least obstructed. The other of such compasses shall be provided for use as a steering compass and shall be
+sited at the normal steering position unless the projected or reflected image of the standard magnetic compass is
+provided for this purpose or gyrocompass or a repeater from a gyro or transmitting magentic compass is positioned near
+the normal steering position, in which case the second magnetic compass, mounted in a binnacle or in a pedestal, may
+be fitted at the emergency steering position.
+(2)
+Where there is no emergency steering position, two magnetic compasses and binnacles shall not be required, provided
+that the ship is equipped with a standard projector magnetic compass and a gyrocompass with repeaters and provided
+also that a spare magnetic compass bowl with its gimbal units is carried on board so that it may be interchanged with the
+standard compass if that compass should become unserviceable.
+28.
+Anchors and chain cables.
+Page 13/25
+----- PAGE 14 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+- Every ship shall be provided with such anchors and chain cables as are sufficient in number, weight and strength
+having regard to the size and the intended service of the ship.
+29.
+Means of escape.
+(1)
+In every ship, stairways and ladder ways shall be so arranged as to provide easy means of escape to the lifeboat
+embarkation deck from all crew spaces, and other spaces in which the crew are normally employed.
+(2)
+In every ship, two means of escape shall be provided from each engine room, shaft tunnel and boiler room as widely
+separated from one another as practicable, one of which may be a watertight door if such a door is available as a means
+of escape. Where no such watertight door is available the two means of escape shall consist of two sets of steel ladders
+leading to separate doors in the casing or elsewhere from which there is access to the lifeboat or life raft embarkation
+deck or decks :
+Provided that the Central Government may exempt any ship of less than 2,000 tons gross from the requirements of this
+sub-rule.
+30.
+Means of stopping machinery, shutting off oil fuel, suction pipes and closing of openings.
+(1)
+In every ship means shall be provided for stopping ventilating fans fitted in the machinery, accommodation and cargo
+spaces. For machinery and cargo spaces, means shall be provided for closing all skylights, doorways, ventilators,
+annular spaces around funnels and other openings to such spaces. Such means shall be capable of being operated
+from positions outside the said space which would not become inaccessible by a fire within such spaces.
+(2)
+In every ship, machinery driving-forced and induced draught fans, oil fuel transfer pumps, oil fuel pumps and other
+similar fuel pumps shall be fitted with remote controls situated outside the spaces in which machinery or pumps are
+situated. Such controls shall be capable of stopping such machinery or pumps in the event of fire in the said spaces.
+(3)
+(a)
+In every ship, every pipe connected to any oil fuel storage, settling or daily service tank, not being a double bottom tank,
+which, if damaged, would permit discharge of contents so as to cause a fire hazard, shall be fitted with a valve or cock
+which shall be secured to the tank to which it is connected and be capable of being closed from a readily accessible
+position outside the space in which the tank is situated :
+Provided that if the inlet pipe is fitted to such a tank a non-return valve similarly secured to the tank may be substituted
+for the valve or cock required under this sub-rule.
+(b)
+Every such pipe connected to an oil fuel deep-tank transversed by any shaft or pipe tunnel, in addition to the valve to be
+fitted to the tank under the requirements of Cl. (a), a valve or valves may be fitted on the pipe line or lines outside the
+tunnel or tunnels to enable control to be exercised in the event of fire.
+31.
+Survey of ships before the issue of cargo ship construction certificate or cargo ship safety construction certificate.
+(1)
+The owner of every ship shall cause his ship to be surveyed by a surveyor for the purpose of issue of a cargo ship
+construction certificate or a cargo ship safety construction certificate, as the case may be, under these rules.
+(2)
+An application for such survey shall be made by the owner, master or agent in Schedule Ito these rules, and it shall be
+accompanied by plans, designs and such other data and information as the principal officer may require.
+(3)
+An application for survey shall be made, not later than 72 hours before the hour at which the survey is desired to be
+commenced to the principal officer of the district concerned or such other officer or officers whom the Central
+Government may appoint in this behalf by a notification in the Official Gazette, during office hours on any working day.
+(4)
+Page 14/25
+----- PAGE 15 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+Fees for survey under these rules shall be levied at the appropriate rates specified in this behalf in Schedule II to these
+rules and no application shall be entertained unless it is accompanied by appropriate fees.
+(5)
+On receipt of an application for survey and the survey fee, the officer receiving it shall deliver to the applicant an official
+receipt for the fees so paid and an intimation that the application is received.
+(6)
+Surveys shall be conducted at the ports of Calcutta, Bombay, Madras, Vishakhapatnain, Cochin, Marmagoa,
+Bedibunder and at such other ports or places as the Central Government may by a notification issued in the Official
+Gazette appoint to be the places of survey in India :
+Provided that, if the applicant so desires and the circumstances so permit, the principal officer, may arrange survey at
+any other port or place on applicant agreeing in writing to reimburse to the Central Government the expenditure by the
+Government on the travelling allowance and daily allowance admissible to the surveyor under relevant rules and
+regulations in this behalf.
+(7)
+On receipt of such application, the principal officer shall cause the ship to be surveyed by a surveyor on any working day
+between 7.00 A.M. and 5.00 P.M.: Provided that, if so required by the applicant and circumstances permitting, the
+principal officer may arrange survey to be made on a day other than a working day on payment of overtime fees at the
+rate of Rs. 200 for each visit of the surveyor on such days, in addition to the fees payable under sub-rule (4).
+(8)
+If requisite preparations enabling the surveyor to carry out the survey are not made on the day and at the hour for the
+intended survey mentioned in the application or if the surveyor is unavoidably detained or otherwise prevented from
+conducting the survey on such day and such hour, any other day and hour may be fixed for the survey of the ship which
+may be convenient both to the surveyor and the applicant.
+(9)
+The surveyor shall survey the ship and shall satisfy himself that the arrangements, materials and scantlings of the
+structure, boilers and other pressure vessels and their appurtenances, other than domestic boilers having a heating
+surface of 4.65 sq. metres or less or a working pressure of 3.52 k. gms. per sq. centimetres or less and other domestic
+pressure vessels having such a working such a working pressure, main and auxiliary machinery, electrical installations
+and other equipments comply with the requirements of these rules and are in all respects satisfactory for the services for
+which the ship is intended having regard to the period for which a cargo ship construction certificate or a cargo ship
+safety construction certificate, as the case may be, in respect of the ship is to be issued.
+(10)
+The surveyor, if satisfied on survey that he may properly do so shall forward to the principal officer a report on the
+survey in Schedule III to these rules.
+(11)
+The principal officer, if satisfied on the scrutiny of the report on survey of the ship that he may properly do so, shall issue
+a cargo ship construction certificate, as the case may be, in respect of the ship.
+32.
+Intermediate surveys.
+(1)
+The owner of every ship in respect of which a cargo ship construction certificate or a cargo ship safety construction
+certificate has been issued shall, as long as the said certificate remains in force, cause the ship to be surveyed in the
+manner and at the intervals specified in sub-rule (2) for the purpose of ascertaining that the ship complies with all such
+requirements of its cargo ship construction certificate or the cargo ship safety construction certificate, as the case may
+be, to remain in force and if the ship is not so surveyed the principal officer may cancel the certificate.
+(2)
+The survey to be carried under sub-rule (1) shall be as follows :
+(a)
+the hull and ship's side fastenings shall be examined in dry dock at intervals not exceeding two years and ship's side
+fittings shall be thoroughly examined at intervals not exceeding four years :
+Provided that where the principal officer is satisfied in the case of any ship that an extension of this period is justified, he
+Page 15/25
+----- PAGE 16 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+may, on application of the owner, extend the period between the two surveys by such period as he may consider
+necessary but such period of extension shall not exceed 12 months.
+(b)
+all boilers including exhaust gas or steam heated steam generators, economisers and domestic boilers, other than
+domestic boilers having a heating surface of 4.65 sq. metres or less and a working pressure of 3.52 k. gms. per sq.
+centimetre or less, shall be examined internally and externally at intervals not exceeding two years until they are eight
+years old and thereafter annually :
+Provided that where the principal officer is satisfied in the case of any ship that the extension of this period is justified, he
+may on application of the owner, extend the period between two surveys by such period as he may consider necessary,
+but not exceeding six months.
+(c)
+screw shafts and tube shafts with continuous liners or running in oil shall be withdrawn and surveyed at intervals not
+exceeding three years and other screws and tube shafts shall be withdrawn and surveyed at intervals not exceeding two
+years :
+Provided that in the case of single screw ships where shafts have liners or approved oil glands or are made of approved
+corrosion resistant material, the interval between two surveys may be extended by a period not exceeding twelve
+months if the principal officer is satisfied that-
+(i)
+the shafts are withdrawn and examined at each survey by an efficient crack detection method; and
+(ii)
+the design of the keyway is such so as to justify the period of extension.
+(3)
+Every application for the survey of a ship under this rule shall be in Schedule I to these rules and shall be made to the
+principal officer by whom the cargo ship construction certificate or the cargo ship safety construction certificate, as the
+case maybe, was issued :
+Provided that where a ship holds a cargo ship construction certificate or a cargo ship safety construction certificate, as
+the case may be, issued outside India, the application may be made to the principal officer of any district.
+(4)
+The principal officer, on receipt of the application and on payment of fees by the applicant at the appropriate rate
+specified in this behalf in Schedule II to these rules, shall cause the ship to be surveyed by a surveyor.
+(5)
+The surveyor shall survey the ship with a view to satisfying himself-
+(a)
+that such of the parts of the ship and its equipment specified in sub-rule (2) as are subject to the application for the
+survey remain efficient, so far as practicable; and
+(b)
+that no material alterations have been made in the hull, machinery or equipment of the ship to which the cargo ship
+construction certificate or the cargo ship safety construction certificate, as the case may be, relates without the previous
+approval of the principal officer.
+(6)
+On completion of the survey in accordance with the requirements of sub-rule (5), the surveyor shall forward a report of
+survey of the ship in Schedule III to these rules to the principal officer.
+(7)
+The principal officer, if satisfied on the scrutiny of the report of survey that he may properly do so, allow the cargo ship
+construction certificate or the cargo ship safety construction certificate, as the case may be, to remain in force or cancel
+it as he may deem fit.
+I
+[See rule 31 (2) and 32 (3)]
+Ref. No.
+Application for survey for grant or renewal of Cargo Ship Construction Certificate/Cargo Ship Construction Certificate or
+intermediate survey.
+Page 16/25
+----- PAGE 17 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+(In order to avoid delay, not less than 72 hours notice should be given for surveys or inspections at Bombay, Calcutta,
+Madras, Visakhapatnam or Cochin. For other ports, as much notice as possible should be given.)
+Sir,
+I beg to apply for the survey described overleaf. I forward the survey fee of Rs. ...................................... herewith and
+agree to pay the expenses and balance of fees which may be properly chargeable in connection with the case.
+Date ..................................
+Full address :-
+....................................
+Signature
+....................................
+Designation
+....................................
+To
+The Principal Officer/.............................
+Mercantile Marine Department,
+District.
+(To be filled in at the Mercantile Marine Office.)
+The, fee of Rs ................................. has been duly received and receipt No. ............................ has been granted.
+Passed to the following Surveyor/Surveyors for necessary action :
+..................................
+Principal Officer
+District
+Date .............................................
+Noted.
+Date ..............................................
+Surveyors.
+Particulars
+of Ship
+Name of ship
+Port of Registry
+Official No.
+Steam Motor or
+Sail
+Registered lenght
+Classification, if
+any
+Tonnage Gross
+Register
+Hull when and
+where built-Material
+Engines when built
+and by whom ? Brief Particulars IHP/NHP/BHP
+Boilers when built
+and by whom ? Working pressure
+Intended voyage or
+service
+Proposed date of
+sailing
+Name and address
+of owners or agents of ship.
+Name and Telephone
+Page 17/25
+----- PAGE 18 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+Number of Marine/Engineer Superintendent or Agent responsible for
+arranging surveys.
+Details of Last
+Cargo Ship Construction Certification/Cargo Ship Safety
+Construction Certification or other certificate and date of
+expiry.
+Nature of
+survey/inspection now required.
+Particulars of
+casualties to the ship since her last survey, (if any).
+Place where and
+date and hour when ship will be ready for survey.
+Any special
+remarks.
+II
+[See rules 31(4) and 32 (4)]
+Table of fees payable for surveys conducted for the purposes of grant or renewal of a Cargo Ship Construction
+Certificate or a Cargo Ship Safety Construction Certificate and intermediate surveys conducted for partial inspections.
+Gross
+Tonnage of a ship
+Fees
+payable for survey before issue of Cargo Ship Construction
+Certificate/Cargo Ship Safety Construction Certificate
+Fees
+payable for surveys before renewal of Cargo Ship Construction
+Certificate/Cargo Ship Safety Construction Certificate
+Fees
+payable for any intermediate survey during period of validity of
+Cargo Ship Construction Certificate/Cargo Ship Safety
+Construction Certificate
+1
+2
+3
+4
+500
+tons and above but less than 1000 tons. 1000 tons and above but
+less than 5000 tons.
+Rs.
+500
+Rs.
+1200
+Rs.
+300
+Rs.
+5000 for first 1000 tons gross plus Rs. 250 for every 100 tons
+more, or part thereof.
+Rs.
+1200 for first 1000 tons gross plus Rs. 45 for every 100 tons
+more, or part thereof.
+Rs.
+300 for first 1000 tons gross plus Rs. 10 for every 100 tons
+Page 18/25
+----- PAGE 19 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+more, or part thereof.
+5000
+tons and above but less than 10,000 tons.
+Rs.
+15,000 for first 5000 tons gross plus Rs. 200 for every 100 tons
+more, or part thereof.
+Rs.
+3000 for first 5000 tons gross plus Rs. 30 for every 100 tons
+more or part thereof.
+Rs.
+700 for first 5000 tons gross plus Rs. 8 for every 100 tons
+more, or part thereof.
+10,000
+tons and above but less than 15,000 tons.
+Rs.
+25,000 for first 10,000 tons gross plus Rs. 150 for every 100
+tons more, or part thereof.
+Rs.
+4500 for first 10000 tons gross plus Rs. 20 for every 100 tons
+more, or part thereof.
+Rs.
+1100 for first 10,000 tons gross plus Rs. 5 for every 100 tons
+more, or part thereof.
+15,000
+tons and over
+Rs.
+32,500 for first 15,000 tons gross plus Rs. 100 for every 100
+tons more, or thereof.
+Rs.
+5,500 for first 15,000 tons gross plus Rs. 15 for every part
+100 tons more, or part thereof.
+Rs.
+1350 for first 15,000 tons gross plus Rs. 4 for every 100 tons
+more, or part thereof.
+Notes. -
+(1)
+Where a surveyor carries out a survey before the renewal of a Cargo Ship Safety Construction Certificate or as the case
+may be, Cargo Ship Construction Certificate or an intermediate survey and such survey is not completed in one
+operation but is effected by two or more partial surveys, fees payable for such survey shall be the appropriate fees in
+accordance with column (3) or as the case may be, column (4) of the Table hereinbefore set out plus Rs. 60 for each
+additional visit of Surveyor.
+(2)
+Where at the express request of owner or master of the ship, surveyor is detained after 5.00 P.M. an additional fee of
+Rs. 75 shall be payable if the Surveyor is released before 7.00 P.M. and of Rs. 100 if the Surveyor is released any time
+after 7.00 P.M.
+(3)
+Where a Surveyor carried out concurrently with a survey for classification purposes a survey before issue or renewal of
+a Cargo Ship Safety Construction Certificate or a Cargo Ship Construction Certificate or an intermediate survey required
+under these rules, no fees shall be payable according to the Table of fees set out hereinbefore in this Schedule.
+III
+[See rules 31(10) and 32(6)]
+Page 19/25
+----- PAGE 20 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+Government Of India
+Report Of Survey For Issue Of A Cargo Ship Safety Construction Certificate
+Name Of Ship :
+Official Number :
+Port Of Registry :
+Name And Address Of Owners :
+Name
+of Ship
+Type
+(Tanker-Tug) etc.
+Port
+of Registry
+Official
+Number
+Gross
+Tonnage
+Where
+Built
+Year
+of Build
+Name
+and Adress of Owners/Agents
+Date
+on which keel was laid (if after 26thMay, 1965)
+Last
+Place and Date of Dry Docking
+Ship
+Surveyed at
+Date/Dates
+on which Survey was completed
+Classification
+Society with which vessel is classed.
+Classification Particulars :-
+(a)
+Hull :
+(b)
+Machinery :
+(c)
+Special conditions, in any :
+Notes. -
+(i)
+The attached questionnaire is to be completed for all items for ships keel of which was laid on or after 25th May, 1965.
+(ii)
+For ships, whose keels were laid before 25th May, 1965, items marl with an asterik may be answered to the extent
+possible.
+QUESTIONNAIRE
+CHAPTER II |
+Regulation
+19-SOLAS CONVENTION, 1960
+STABILITY
+INFORMATION
+Page 20/25
+----- PAGE 21 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+*1.
+Has the Ship been inclined and the elements of her stability
+determined ?
+2.
+Is the stability data on board ?
+*3.
+If an inclining test has not been made state the reasons for
+dispensing with the same.
+4.
+Any special remarks concerning the stability of the Ship ?
+CHAPTER
+II |
+Regulation
+26-EMERGENCY SOURCE OF ELECTRICAL POWER
+*5.
+Is there a self-contained emergency source of power located
+above the uppermost continuous deck and outside machinery
+castings ?
+*6.
+Is the location of the emergency source of power in conformity
+with approved drawings ?
+*7.
+Is the power available sufficient to supply simultaneously--
+(a)
+Emergency lighting at every boat station on deck and over-sides,
+in all alleyways, stairways and exits, in the main machinery
+space and main generating set space over the main switchboard,
+on the navigating bridge and in the chartroom ?
+(b)
+The general alarm ?
+(c)
+Navigation lights if solely electric, and the day-light
+signalling lamp if operated by the main source of electric power
+?
+(d)
+Is the emergency source of supply, adequate for a continuous
+period of 6 hours ?
+*8.(a)
+Is the emergency source of power an accumulator (storage)
+battery ?
+(b)
+In that event, is the battery under constant charge?
+(c)
+Is the emergency source of power a generator driven by a diesel
+engine with an independent fuel supply ?
+N.B.- The fuel used shall have a flash point of not less than 43°C.
+(d)
+In that event, is there a separate starting device for the
+diesel engine, independent of the ships auxiliary machinery ?
+(e)
+Can the emergency power unit be started from the place where it
+Page 21/25
+----- PAGE 22 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+is located?
+If
+so, what are the starting arrangements ?
+*9.
+(a) Has the complete emergency (electrical) system been tested
+and found satisfactory?
+(b)
+Has the emergency lighting been arranged in conformity with
+approved drawings?
+CHAPTER
+II |
+Regulation
+27-PRECAUTIONS AGAINST SHOCK, FIRE AND OTHER HAZARDS OF
+ELECTRICAL ORIGIN
+*10.
+Are all exposed metal parts of electrical machinery earthed
+(grounded) ?
+*11.
+Are main and emergency switchboards arranged as required ?
+*12.
+Has the hull return system of distribution been used ?
+*13.
+Have electric cables been arranged according to the requirements
+of the SOLAS Convention, 1960 ?
+*14.
+Have light fittings been arranged according to the requirements
+of the SOLAS Convention, 1960 ?
+*15.
+Is wiring supported in such manner as to avoid chafing or other
+injury to the wires ?
+*16.
+Is each separate circuit protected against short circuit and
+against overload ?
+*17.
+Are accumulator batteries suitably housed and are compartments
+for their accommodation properly constructed and efficiently
+ventilated ?
+CHAPTER
+II |
+Regulation
+28-MEANS OF GOING" ASTERN
+18.
+Has the ship sufficient power for going astern to secure proper
+control of the ship in all normal circumstances ?
+CHAPTER
+II |
+Regulation
+29-STEERING GEAR
+19.
+Is the ship provided with main and auxiliary steering gear?
+*20.
+Page 22/25
+----- PAGE 23 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+Is the main steering gear of adequate strength and sufficient to
+steer the ship at maximum speed?
+*21.
+Is the ship provided with auxiliary steering gear of adequate
+strength and sufficient to steer the ship at navigable speed ?
+*22.
+Is the auxiliary steering gear capable of being brought speedily
+into action in an emergency ?
+23.
+Can the auxiliary steering gear be operated by power (rudder
+stock of over 35.56 cros. diameter) ?
+CHAPTER
+II |
+Regulation
+30-ELECTRICAL AND ELECTRO-HYDRAULIC STEERING GEAR
+*24.
+Are the indicators showing if the steering gear motors are
+running located where they can readily be seen from the engine,
+operating platform and the steering station on the bridge ?
+*25.
+Are the steering gears served by two separate circuits fed from
+the main switch board ?
+*26.
+Is one of the circuits to the steering engine routed through the
+emergency switch board ?
+*27.
+Has each circuit adequate capacity to supply all the motors
+normally connected to it and operating simultaneously ?
+*28.
+Is the short-circuit protection provided for these circuits and
+motors ?
+CHAPTER
+II |
+Regulation
+33-COMMUNICATION BETWEEN BRIDGE AND ENGINE ROOM
+29.
+Is the ship fitted with engine room telegraphs with a reply
+system as well as a voice pipe or telephone from the bridge to
+the engine room ?
+CHAPTER
+II |
+Regulation
+54 & 69-FIRE PROTECTION
+*30.
+Are the hull, superstructure, bulkheads, engine and boiler room
+casings, decks and deckhouses constructed of steel ?
+*31.
+Are boundary bulkheads of galley, paint and lamprooms,
+storerooms and adjacent to accommodation, steering gear rooms,
+spaces, for emergency fire pumps and emergency generators, etc.
+constructed of steel ?
+Page 23/25
+----- PAGE 24 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+*32.
+Are corridor bulkheads fitted with doors leading into
+accommodation of at least "B" Class materials as laid
+down in SOLAS Convention, 1960 ?
+*33.
+Are interior stairways made of steel ? If not, give particulars.
+*34.
+Are lifttrunks made of steel and are doors self-closing ?
+*35.
+Are deck coverings in accommodation spaces adjacent to engine
+and boiler rooms of approved material which will not readily
+ignite ?
+*36.
+Are ceilings in corridors and stairways made of incombustible
+material ?
+*37.
+Are all unprotected surfaces on bulkheads and linings below deck
+in corridors and stairways made of materials with low flame
+spread ?
+38.
+Can ventilation fans serving machinery passenger and crew
+spaces. boilers and cargo spaces, be stopped from outside such
+spaces ?
+39.
+Can all doorways, ventilators, annulars spaces around funnels
+and other openings be closed from outside such spaces ?
+40.
+Are fuel tanks situated above the double bottom ? Are they
+fitted with cocks or valves?
+41.
+Are the cocks or valves fitted to fuel tanks capable of being
+closed from outside the space in which tanks are situated ?
+CHAPTER
+II |
+Regulation
+68-MEANS OF ESCAPE, ETC.
+42.
+Are stairways and ladders serving all passenger and crew spaces
+arranged so as to provide ready means of escape to the life-boat
+embarkation deck?
+*43.
+Are two means of escape provided from each engine room and from
+each shaft tunnel ?
+44.
+Reference Section 454-A of the M.S. Act, 1958, state whether any
+particular fitting, material, appliance or apparatus required to
+be fitted under the SOLAS Convention, 1960, has been substituted
+by any other equivalent material.
+45.
+Surveyor's special remarks, if any.
+The survey has been carried out at the request of
+Page 24/25
+----- PAGE 25 -----
+The Merchant Shipping (Cargo Ship Construction And Survey) Rules, 1974
+...............................................................................................................................................................................................
+.............................................
+It is hereby certified that the surveys have been carried out in conformity with Regulation 10 of Chapter I of the
+International Convention on Safety of Life at Sea, 1960 and the Merchant Shipping (Cargo Ship Construction and
+Survey) Rules, 1974 and that the ship compiled with the applicable requirement of Chapter II (other than those relating
+to fire extinguishing appliances and fire control plan) and the Merchant Shipping Act, 1958. It is recommended that a
+Cargo Ship Safety Construction Certificate be issued to the ship for a period of
+.............................................................................................. ........................................................................ from
+................................................................ to Remarks if any :...........................................................
+Name of Surveyor
+...........................................
+Signature of Surveyor
+Name and Address of Organisation/Classification :
+Place :
+Date :
+Extract from the Merchant Shipping Act, 1958.
+Section 454-A. - Where this Act requires that a particular fitting, material/appliance or apparatus or any type thereof shall
+be fitted or provided for in a ship or that any particular provision shall be made in a ship the, Central Government after
+satisfying itself by trials or otherwise that any other fitting, material, appliance or apparatus or type thereof or provision is
+as effective as that so required, may permit, by general or special order, such other fitting, material, appliance or
+apparatus or type thereof or provision to be used or provided.
+Related AI tags, queries and research notes
+Translation
+Page 25/25

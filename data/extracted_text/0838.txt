@@ -1,0 +1,1338 @@
+
+----- PAGE 1 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+The Merchant Shipping (Fire Appliances) Rules, 1969
+Source: https://indiankanoon.org/doc/190217039/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Merchant Shipping (Fire Appliances) Rules, 1969
+UNION OF INDIA
+India
+The Merchant Shipping (Fire Appliances) Rules, 1969
+Rule THE-MERCHANT-SHIPPING-FIRE-APPLIANCES-RULES-1969 of 1969
+Published on 3 February 1969
+Commenced on 3 February 1969
+[This is the version of this document from 3 February 1969.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Merchant Shipping (Fire Appliances) Rules, 1969
+Published vide Notification Gazette of India, 1969, Part 2, Section 3(i), page 1045.
+1899.
+G.S.R. 932, dated the 3rd February, 1969. - In exercise of the powers conferred by Section 289 read with Cl. (b) of
+sub-section (2) of Section 458 of the Merchant Shipping Act, 1958 (44 of 1958), and in supersession of the Indian
+Merchant Shipping (Fire Appliances) Rules, 1956, the Central Government hereby makes the following rules, namely :-
+Preliminary
+1.
+Short title, commencement and application.
+(1)
+These rules may be called the Merchant Shipping (Fire Appliances) Rules, 1969.
+Page 1/25
+----- PAGE 2 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(2)
+They shall come into force at once.
+(3)
+They shall apply to--
+(a)
+every Indian ship which proceeds to sea from any port or place in India;
+(b)
+a foreign ship when in an Indian port or Indian territorial waters :
+Provided that these rules shall not apply to
+(i)
+a foreign-ship which holds a valid safety convention certificate and the actual condition whereof corresponds with the
+particulars given in the certificate;
+(ii)
+a foreign ship which would not have been within a port in India or within Indian territorial waters, but for the stress of
+weather or any other circumstances that neither the master nor the owner nor the charterer, if any, could have prevented
+or forestalled;
+(iii)
+pleasure yachts not exceeding fifteen tons net which are neither passenger ships nor engaged in trade.
+[* * * * *]
+[Omitted by G.S.R. 374, dated 26th March, 1974.]
+2.
+Definitions.
+- In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Merchant Shipping Act, 1958 (44 of 1958);
+(b)
+"accommodation spaces" means passenger spaces, corridors, lavatories, cabins, offices, crew spaces, barber shops,
+isolated pantries, lockers and other similar spaces;
+(c)
+"cargo spaces" means all spaces used for cargo (including cargo oil tanks) and trunks to all such spaces;
+(d)
+"control station" includes those spaces in which radio, main navigating or central fire recording equipment or the
+emergency generator is located;
+(e)
+"crew spaces" means accommodation provided for the exclusive use of the crew;
+(f)
+"length" in relation to a registered ship means the registered length and in relation to an unregistered ship means the
+length from the fore part of the stem to the aft side of the head of the stern post or, if no stem post is fitted to take the
+rudder to the fore side of the rudder stock, to the point where the rudder passes out of the hull;
+(g)
+"machinery spaces" includes all spaces used for propelling, auxiliary, or refrigerating machinery, boilers, pumps,
+workshops, generators, ventilation and air-conditioning machinery, oil tilling station and similar spaces and trunk ways to
+such spaces;
+(h)
+"oil fired boiler" means any boiler wholly or partly fired by liquid fuel not being a domestic boiler of less than 63,000
+kilocalories per hour;
+(i)
+"oil fuel unit" means all equipments used for the preparation of oil fuel for delivery to the oil burners of an oil fired boiler
+and includes the oil pressure pumps, filters and heaters;
+(j)
+"passenger spaces" means the spaces provided for the use of passengers;
+Page 2/25
+----- PAGE 3 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(k)
+"Schedule" means a Schedule to these rules;
+(l)
+"service space" includes galleys, main pantries, laundries, store rooms, paint rooms, baggage rooms, mail rooms,
+bullion rooms, carpenters and plumbers workshops, and trunk ways loading to such spaces;
+(m)
+"settling tank" means an oil storage tank provided with a heating surface not less than 0.180 squaremetre per ton of oil
+capacity;
+(n)
+"short international yoyage" means an international voyage in the course of which a vessel is not more than 200 miles
+from any port or place in which the passengers and crew could be placed in safety and which does not exceed 600
+miles in length between the last port of call in the country in which the voyage begins and the final port of destination;
+(o)
+"tons" in relation to the tonnage of a ship means gross tons.
+3.
+Classification of Ships.
+- For the purposes of these rules, ships shall be classified as follows, namely :-
+Class I-Passenger ships (other than those falling under Classes 11, III and IV) engaged on international yoyages.
+Class II-Passenger ships (other than those falling under Class IV) engaged on short international yoyages.
+Class III-Unberthed Passenger ships (other than ships of Class IV) engaged on international yoyages.
+Class IV-Unberthed Passenger ships engaged on short international voyages.
+Class V-Unberthed Passenger ships engaged on coastal voyages.
+Class VI-Cargo ships (other than those falling under Class VII).
+Class VII-Cargo ships engaged on coastal voyages.
+Class VII-Ships not falling under Classes I to VII.
+Passenger Ships
+4.
+Ships of Class I-Fire patrol, detection and alarm systems.
+- In every ship of Class I,--
+(i)
+an efficient patrol system capable of promptly detecting any outbreak of fire shall be maintained;
+(ii)
+a manual fire alarm system capable of enabling the fire patrol to give an alarm immediately to the bridge or fire control
+station shall be fitted throughout the passenger and crew accommodation spaces;
+(iii)
+a fire detection system complying with the requirements specified in rule 43 shall be provided in every part of the ship
+which is inaccessible to the fire patrol :
+Provided that the Central Government may, if it is satisfied, having regard to the short duration of the voyage or voyages
+on which a ship is engaged, that it would be unreasonable to require the ship to comply with the requirements of Cl. (iii),
+exempt such ship from such requirements in respect of such voyage or voyages.
+5.
+Accommodation and service spaces.
+- In every ship of Class I there shall be provided--
+(a)
+appliances capable of rapidly supplying at least two simultaneous jets of water, not emanating from the same hydrant, at
+least one of which shall be from a single length of hose and reaching any part of accommodation and service spaces
+normally accessible to the passengers or crew while the ship is being navigated when all watertight doors and all doors
+in main vertical zone bulkheads are closed;
+(b)
+on each deck, a sufficient number of portable fire extinguishers so that-
+(i)
+Page 3/25
+----- PAGE 4 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+at least two of these shall be readily available for use in every accommodation and service space between watertight
+bulkheads and bulkheads; and
+(ii)
+at least one such extinguisher shall be provided for use on each side of the ship in enclosed accommodation and
+service spaces :
+(c)
+in every galley, at least one portable fire extinguisher and an asbestos blanket in addition to the fire extinguisher
+required under Cl. (b) : Provided that where the superficial deck area of any galley exceeds 45 sq. metres at least two
+such extinguishers and two such blankets shall be provided.
+6.
+Cargo spaces and store rooms.
+(1)
+In every ship of Class I, there shall be provided appliances capable of rapidly ejecting at least two simultaneous jets of
+water, not emanating from the same hydrant, at least one of which shall be from a single length of hose and capable of
+reaching any part of any cargo spaces or any store-room when empty.
+(2)
+In every ship of Class I of 1,000 tons gross and over, there shall be provided a fixed fire-smothering gas system
+complying with requirements specified in rule 40 which shall be so arranged as to protect every cargo space :
+Provided that the Central Government may, if it is satisfied that having regard to the short duration of the voyage or
+voyages on which a ship is engaged, it would be unreasonable to require the ship to comply with the requirements of
+this sub-rule, exempt the ship from such requirements in respect of such voyage or voyages.
+7.
+Machinery spaces-General.
+- Every ship of Class I shall be provided with appliances capable of ejecting rapidly and simultaneously at least two jets
+of water not emanating from the same hydrant, at least one of which shall be from a single length of hose, and reaching
+any part of any bunker spaces and any machinery spaces when all watertight doors and doors in the main vertical zone
+bulkheads are closed.
+8.
+Machinery spaces-Ships fitted with oil-fired boilers or oil burning equipment.
+(1)
+In every ship of Class I fitted with main or auxiliary oil-fired boilers, there shall be provided in the machinery spaces.
+(i)
+at least two fire hydrants, one on the port-side and the other on the starboard side;
+(ii)
+for each such hydrant, a fire hose with at least two nozzles, one of which shall be capable of spraying water on oil.
+(2)
+In every such ship, each firing space shall be provided with a receptacle containing not less than 0.30 cubic metres of
+sand or saw dust impregnated with soda or any other material suitable for quenching oil fires with scoops for distributing
+the contents of the receptacle, or alternatively, a portable fire extinguisher, suitable for extinguishing oil fires.
+(3)
+In every such ship, each firing space in each boiler room and each compartment which contains the whole or part of fuel
+oil installation shall be provided with sufficient but in any case not less than two portable fire extinguishers capable of
+discharging froth or any other substance suitable for quenching oil fires.
+(4)
+In every such ship, there shall be provided in the machinery space a fire smothering gas installation complying with the
+requirements of rule 40, or a pressure water spraying system complying with the requirements of rule 41, or a foam fire
+extinguishing installation complying with the requirements of rule 42.
+Explanation. - For the purposes of this sub-rule, engine room and boiler room shall be regarded as a single area if they
+are not separated from each other by a bulkhead, and fuel oil may drain from the boiler room into the engine room
+bilges.
+(5)
+Page 4/25
+----- PAGE 5 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+The installation referred to in sub-rule (4) shall be capable of being controlled from a readily accessible position which is
+not likely to be cut off in the event of fire.
+(6)
+In every such ship, there shall be provided in each of the boiler rooms at least one CO2 fire extinguisher of 45 kg.
+capacity or a both fire extinguisher of at least 136 litres together with a hose on reel capable of reaching every part of
+the boiler room and of any space which contains the whole or part of the oil fuel installation.
+9.
+Machinery spaces containing steam engines.
+(1)
+In every ship of Class I there shall be provided in spaces containing steam turbines or in closed pressure lubricated
+steam engines used either for main propulsion, or having in the aggregate a total power of not less than 1,000BHP or
+auxiliary purposes foam fire extinguishers each of at least 45 litres spacity or carbon dioxide fire extinguishers each of at
+least 15 kg. capacity efficient in number to enable foam or carbon dioxide, as the case may be, to be directed on to any
+part of the pressure lubrication system and on to any part of the casings enclosing pressure lubricated parts of turbines,
+ennes or associated gearing, if any:
+Provided that such extinguishers shall not be necessary if adequate provision is made in such spaces by fitting a fixed
+fire extinguishing installation complying with the requirements of sub-rules (4) and (5) of rule 8.
+(2)
+In every such ship, machinery spaces containing steam turbines or closed pressure lubricating steam engines shall be
+provided with adequate number of portable fire extinguishers on a scale of one such extinguishers for every 1,000 BHP
+or part thereof :
+Provided that the number of portable fire extinguishers so provided all never be less than two and may not be more than
+six including the be extinguishers provided under rule 10.
+10.
+Spaces containing internal cumbustion type of machinery.
+- In every ship of Class I using internal cumbustion type of machinery either to main propulsion or for auxiliary purpose
+associated with a total power not less than 1,000 B.H.P. there shall be provided---
+(i)
+at least two fire hydrants, one on the port side and one on the starboard side and each such hydrant shall be provided
+with a fire hose with at least two nozzles one of which shall be capable of spraying water on oil or alternatively suitable
+dual purpose nozzles;
+(ii)
+one froth type fire extinguisher of not less than 136 litres capacity or equivalent carbon dioxide extinguisher:
+(iii)
+one portable froth type fire extinguisher for each 1,000 BHP or part thereof, but in no case less than two such
+extinguishers : Provided that not more than 6 such extinguishers need he carried in any one compartment;
+(iv)
+a fixed fire extinguishing installation complying with the requirements of sub-rules (4) and (5) of rule 8.
+11.
+Fire pumps.
+(1)
+Every ship of Class I of 4,000 tons and above shall be provided with at least three independently driven power-operated
+fire pumps and every such ship of less than 4,000 tons, shall be provided with at least two such fire pumps and all such
+fire pumps together shall be capable of delivering for fire fighting purposes, a quantity of water under the conditions and
+at the pressure specified in rule 33.
+(2)
+In every ship of Class I, the arrangement of sea connection pumps and sources of power for operating them shall be
+such as to ensure that fire in any one compartment will not put all the fire pumps out of action.
+12.
+Water pipes, hydrants and fire hoses.
+(1)
+Page 5/25
+----- PAGE 6 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+Every ship of Class I shall be provided with water service pipes, hydrants and hoses such that an adequate supply of
+water for rapid and simultaneous operation of at least two fire hoses, not emanating from the same hydrant, for the
+projection of two powerful jets of water would be available.
+(2)
+The number and position of hydrants shall be such that at least two such jets of water may he rapidly and
+simultaneously directed into any part of the ship by means of two fire hoses one of which shall not exceed 18.00 metres
+in length and each such jet of water being supplied from a separate hydrant.
+(3)
+At least one fire hose shall be provided for each such hydrant and all hoses so provided shall be used for the purposes
+of extinguishing fires or for the testing of fire-fighting appliances at fire drills and surveys.
+13.
+International shore connections.
+- Every ship of Class I shall be provided with at least one international shore connection complying with the
+requirements specified in the First Schedule and necessary facilities for enabling such a connection to be used on both
+sides of a ship.
+14.
+Firemen's outfit.
+(1)
+Every ship of Class I shall carry one fireman's outfit for each 30 metres or part thereof of the registered length of the
+ship, but in no case less than two.
+(2)
+Every such outfit shall comply with the requirements of rule 44 and at least two of them shall include breathing
+apparatus of the air hose type.
+(3)
+Where the fireman's outfit carried on board a ship in compliance with sub-rule (1) consists of only breathing apparatus of
+the air hose type, and an air hose exceeding 35 metres in length would be necessary to reach from the open deck well
+clear of any hatch or doorway to any part of the accommodation, service, cargo or machinery spaces on the ship, at
+least two sets of breathing apparatus of the self-contained type shall also be provided on board the ship.
+15.
+Portable drilling machine.
+(1)
+Every ship of Class I shall be provided with a portable electric drilling machine to enable emergency access to fire
+through decks, casings, or bulkheads.
+(2)
+The drilling machine shall be provided with drills of various sizes up to 15 millimetres diameter and shall be stored
+outside the machinery spaces, preferably in a suitable box on the bridge.
+16.
+Ships of Classes 11, 111, IV and V.
+- Rules 4 to 15 (both inclusive) shall apply to ships of Classes II, III, IV and V as they apply to ships of Class I.
+Ships other than passenger ships
+17.
+Ships of Class VI-Cargo spaces.
+(1)
+Every ship of Class VI of 2,000 tons and above shall be protected by a fixed fire smothering gas installation complying
+with the requirements of rule 40:
+Provided that steam may be substituted for fire-smothering gas in any ship.
+(2)
+The Central Government may exempt any ship other than a tanker from the requirements of sub-rule (1), if it is satisfied
+that--
+(i)
+the holds therein are provided with steel hatch covers and effective means of closing all ventilators and other openings
+Page 6/25
+----- PAGE 7 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+leading to such holds;
+(ii)
+the ship is constructed for and employed solely in the carriage of ore, coal or grain; or
+NO to require compliance therewith would be unreasonable having regard to the short duration of the voyages on which
+the ship is engaged.
+(3)
+The Central Government may exempt any tanker from the requirements of sub-rule (1) if it is satisfied that the tanker is
+provided with adequate installations discharging foam internally or externally to the tanks.
+(4)
+Every ship of Class VI, in addition to complying with the requirements of this rule, shall, while carrying explosives of the
+nature and in quantity not permitted to be carried in a passenger vessel, comply with the following :
+(i)
+steam shall not be used for fire-smothering purposes in any compartment carrying explosives :
+(ii)
+In addition, in each compartment containing explosives and in adjacent cargo compartments, there shall be provided a
+smoke or fire-detection system in each cargo space.
+Explanation. - For the purpose of this sub-rule, compartment means all spaces contained between two adjacent
+permanent bulkheads and includes the lower hold and all cargo spaces above it. The whole of any shelter-deck spaces
+not sub-divided by steel bulkheads the openings of which can be closed by steel closing plates shall, for the purpose of
+this sub-rule, be considered as a compartment. Where steel bulkheads with openings closed by steel closing plates are
+fitted, the enclosed spaces in the shelter deck may be regarded as a part of the compartment or compartments below.
+18.
+Fire pumps and water service pipes.
+- In every ship of Class VI there shall be provided--
+(a)
+water service pipes complying with the requirement of rule 35; and
+(b)
+where the ship is of 1000 tons or more,
+(i)
+two independently driven power pumps; and
+(ii)
+an alternative provision for water for fire-fighting if any fire in any one compartment could put all the pumps out of action
+:
+Provided that in the case of ships of 2000 tons or more, such provision shall be by means of fixed emergency pump
+independently driven and capable of rapidly supplying two powerful jets of water simultaneously to reach any part of the
+ship.
+19.
+Fire hydrant, hoses and nozzles.
+- In every ship of Class VI of 1000 tons or more,--------
+(i)
+the number of fire hoses (excluding those required in any engine room or boiler room) to be provided, (each such hose
+complete with couplings and nozzles) shall be one for each 30 metres length of the ship together with one spare for the
+ship but shall in no case be less than 5 in all:
+Provided that the Central Government may increase the number of hoses to be carried so as to ensure that hoses in
+sufficient number are available and accessible at all times having regard to the type of ship and the nature of services;
+(ii)
+the number and position of the hydrants in accommodation, service and machinery spaces shall be such as to ensure
+that at least two jets of water not emanating from the same hydrant, one of which shall be from a single length of hose,
+may reach any part of the ship normally accessible to passengers and crew while the ship is being navigated;
+(iii)
+arrangements shall be such as to ensure that at least two jets of water can reach any part of any cargo space when
+Page 7/25
+----- PAGE 8 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+empty;
+(iv)
+all hydrants in machinery spaces of ships fitted with main or auxiliary oil-fired boilers or internal combustion type of
+machinery shall be provided with hoses complete with nozzles each of which shall be suitable for spraying water on oil,
+or alternatively with suitable dual purpose nozzles.
+20.
+Portable fire extinguishers.
+(1)
+Every ship of Class V1 shall be provided with sufficient number of portable fire extinguishers to ensure that at least one
+such extinguisher will be readily available for use in every crew and passenger space, if any.
+(2)
+The number of such fire extinguishers shall not be less than 5 in a ship of 1000 tons or more and not less than 3 in a
+ship of less than 1000 tons.
+21.
+Firemen's outfit.
+(1)
+Every ship of Class VI shall carry one firemen's outfit for each 30 metres (or part thereof) of the registered length of the
+ship and shall comply with the requirements of rule 44 provided that no such ship shall be required to carry more than
+three such outfits.
+(2)
+At least one such outfit carried in any such ship shall include a breathing apparatus of the air hose type.
+(3)
+If any such ship carries firemen's outfits containing only breathing apparatus of the air hose type and an air hose
+exceeding 35 metres in length would be necessary to reach from the open deck well clear of any hatch or doorway to
+any part of the accommodation, service, cargo or machinery spaces, at least one breathing apparatus of the
+self-contained type shall be provided in addition.
+22.
+Portable drilling machine.
+(1)
+Every ship of Class VI, other than a tanker, on which a supply of electric energy is available shall be provided with a
+portable drilling machine to provide emergency means of access to fires through decks, casings or bulkheads.
+(2)
+The drilling machine shall be provided with drills of various sizes up to 12 m.m. diameter and shall be stored outside the
+machinery spaces, preferably in a suitable box on the bridge.
+23.
+Machinery spaces-Ships fitted with main or auxiliary oil-fired boilers.
+(1)
+In every ship of Class VI fitted with main or auxiliary oil-fired boilers, there shall be provided---
+(i)
+in the machinery spaces, at least two fire hydrants one on the port side and one on the starboard side and each such
+hydrant shall be provided with a fire hose with nozzle suitable for spraying water on oil, or alternatively with suitable dual
+purpose nozzles;
+(ii)
+in firing spaces, a receptacle containing at least 0.30 cubic metres of sand or saw dust impregnated with soda or any
+other material suitable for quenching oil fires along with scoops for distributing the contents of the receptacle, or
+alternatively a portable fire extinguisher;
+(iii)
+in each firing space, in each boiler room and in each space of such space containing the whole or part of oil fuel
+installation, at least two portable fire extinguishers which shall be capable of discharging froth or any other substance
+suitable for quenching oil fires;
+(iv)
+Page 8/25
+----- PAGE 9 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+one extinguisher of at least 45 litres capacity or an equivalent carbon dioxide extinguisher in each boiler room if the
+number of burners therein is five or more, provided that if the number of such burners is less than five, one portable froth
+fire extinguisher for each such burner may be carried.
+(2)
+Every ship of Class VI shall also be provided in the machinery spaces with one of the fixed fire extinguishing installations
+as required under sub-rule (4) of rule 8.
+24.
+Space, containing steam turbine separated from boiler room by a watertight bulkhead.
+- Every ship of Class VI shall he provided in spaces containing steam turbines but not requiring any fixed smothering
+installation--
+(i)
+with at least two fire hydrants-one on the portside and one on the starboard side and each such hydrant shall be
+provided with a fire hose with a nozzle;
+(ii)
+with sufficient number of 45 litres foam fire extinguishers or equivalent number of carbon dioxide fire extinguishers to
+enable foam or carbon-dioxide to be directed to the machinery and its operations, unless the installation is adequately
+protected by one of the fixed fire extinguishing installations required under Cl. (iv) of rule 10.
+(iii)
+with portable foam fire extinguishers as shown below :
+(a)
+for machinery up to 2000 B.H.P. - two such portable fire extinguishers;
+(b)
+for every additional 1000 B.H.P. - one additional portable fire extinguisher subject to a maximum of six:
+Provided that if there is also a switchboard, then one portable carbon dioxide fire extinguisher shall also be carried.
+25.
+Spaces containing internal combustion type machinery.
+(1)
+Every ship of Class VI using internal combustion engines either for main propulsion machinery or for auxiliary purposes
+associated with a total power not less than 1000 B.H.P. shall be provided with--
+(i)
+two fire hydrants, one on the portside and one on the starboard side and each such hydrant shall be provided with a fire
+hose with nozzle suitable for spraying water on oil, or alternatively with suitable dual purpose nozzles;
+(ii)
+in each engine space, a froth fire extinguisher, of at least 45 litres capacity or equivalent carbon dioxide extinguisher;
+(iii)
+portable fire extinguishers, capable of discharging froth or any other substance suitable for quenching oil fires, in
+accordance with the following Table :-
+BHP
+of main engine
+No.
+of portable fire extinguishers
+Not
+over 1000
+2
+Over
+1000 but not over 2000
+3
+Over
+2000 but not over 3000
+4
+Over
+Page 9/25
+----- PAGE 10 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+3000 but not over 4000
+5
+Over
+4000
+6
+(2)
+Every such ship of Class VI shall also be provided in addition, with one of the fire extinguishing installations required
+under sub-rule (4) of rule 8.
+Explanation. - For the purposes of this sub-rule engine room and boiler room shall be regarded as a single area if they
+are not separated from each other by a bulkhead, and fuel oil may drain from the boiler room to the engine room bilges.
+(3)
+The provisions of sub-rule (1) shall not apply if the Central Government is satisfied that to require compliance therewith
+will be unreasonable having regard to the short duration of the voyages on which the ship is engaged.
+26.
+International shore connection.
+- Every ship of Class VI shall be provided with--
+(i)
+at least one international shore connection complying with the requirements specified in the First Schedule;
+(ii)
+necessary facilities for enabling such a connection to be used on both sides of the ship.
+27.
+Ships of Class VII of 1000 tons and above.
+- Rules 17 to 26 (both inclusive) shall apply to ships of Class VII of 1000 tons and above as they apply to ships of Class
+VI.
+28.
+Ships of Class VII of 500 tons and above but less than 1000 tons.
+(1)
+This rule shall apply to ships of Class VII of 500 tons and above but less than 1000 tons.
+(2)
+Every such ship shall be provided with at least:
+(i)
+one pump operated by power and one fire hose, whereby a powerful jet of water can be rapidly directed into any part of
+the ship, together with a spare hose of 9 metres length;
+(ii)
+three portable fire extinguishers readily accessible for use in crew spaces and passenger spaces, if any;
+(iii)
+a fireman's outfit complying with the requirements specified in the Fourth Schedule.
+(3)
+Every such ship which is fitted with main or auxiliary oil-fired boilers or internal combustion type machinery shall be
+provided with a hydrant and a fire hose with nozzles, one of which shall be suitable for spraying water on oil; or
+alternatively with suitable dual purpose nozzles.
+(4)
+Every such ship fitted with main or auxiliary oil-fired boilers shall be provided in each boiler room either with a receptacle
+containing at least 0.30 cubic metres of sand or any other material suitable for quenching oil fires together with scoops
+for distributing the contents of the receptacle or with a portable fire extinguisher.
+(5)
+In each firing place in every such ship and in each compartment therein containing the whole or part of the fuel oil
+installation, there shall be provided at least two portable fire extinguishers which shall be capable of discharging froth or
+any other substance suitable for quenching oil fires. In addition one such fire extinguisher of at least 45 litre capacity or
+an equivalent carbon dioxide extinguisher shall be provided in each boiler room if the number of burners is five or more
+and the number of such burners is less than five in a boiler room, there shall be provided therein one froth extinguisher
+Page 10/25
+----- PAGE 11 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+of at least 9 litres capacity for each such burner.
+(6)
+Every such ship of Class VII fitted with main or auxiliary oil-fired boilers or internal combustion machinery shall be
+provided in the machinery space with one of the fixed fire extinguishing installations as required under sub-rule (4) of
+rule 8.
+(7)
+Every ship to which this rule applies, being a ship fitted with internal combustion propelling machinery, shall be provided
+in the machinery spaces with portable fire extinguishers capable of discharging froth or other substance suitable for
+quenching oil fires, in accordance with the following Table :-
+B.H.P of main engines
+Number of portable extinguishers
+Not over 100
+3
+Over 100 but not over 150
+4
+Over 150 but not over 200
+5
+Over 200 but not over 250
+6
+Over 250
+7
+Provided that, for the number of portable fire extinguishers set forth in the fore-going Table, there may be substituted
+two such extinguishers as are referred to in the fore-going provision, and either--
+(a)
+one froth fire extinguisher of at least 45 litres, or
+(b)
+an equivalent carbon dioxide fire extinguisher.
+29.
+Ships of 150 tons and above but less than 500 tons.
+(1)
+This rule applies to ships of Class VII which are of 150 tons and more but less than 500 tons.
+(2)
+Every such ship shall be provided with at least--
+(i)
+one power pump and one fire hose whereby one powerful jet of water can be rapidly directed into any part of the ship;
+(ii)
+four fire buckets;
+(iii)
+one fireman's axe.
+(3)
+Every such ship, if fitted with main or auxiliary oil-fired boilers or internal combustion propelling machinery shall be
+provided with a nozzle suitable for spraying water on oil by means of hose referred to in Cl. (i) of sub-rule (2).
+(4)
+Every such ship if fitted with main or auxiliary oil-fired boilers shall be provided--
+(i)
+in the machinery spaces, either with a receptacle containing an adequate quantity of sand or saw dust impregnated with
+soda or any other dry material suitable for quenching oil fires together with a scoop for distributing the contents of the
+receptacle, or with a portable fire extinguisher;
+(ii)
+in the boiler room and each compartment in the ship which contains the whole or part of fuel oil installation, with at least
+two portable fire extinguishers capable of discharging froth or other substance suitable for quenching oil fires;
+Page 11/25
+----- PAGE 12 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(iii)
+in the machinery space with one of the fixed fire extinguishing installations as required under sub-rule (4) of rule 8.
+(5)
+Every such ship if fitted with internal combustion propelling machinery shall be provided in the engine room with--
+(i)
+a receptacle containing an adequate quantity of sand or saw dust impregnated with soda or any other dry material
+suitable for quenching oil fires together with a scoop for distributing the contents of the receptacle;
+(ii)
+at least two portable extinguishers capable of discharging froth or any other substance suitable for quenching oil fires;
+(iii)
+one forth fire extinguisher of 45 litre capacity.
+30.
+Ships of under 150 tons.
+(1)
+This rule applies to ships of Class VII of less than 150 tons.
+(2)
+Every such ship shall be provided with--
+(i)
+one pump and one fire hose whereby a powerful jet of water can be directed into any part of the ship;
+(ii)
+at least three fire buckets;
+(iii)
+a fireman's axe :
+Provided that in open ships fitted with internal combustion propelling machinery, two fire buckets with lanyard attached
+may be substituted for a pump and a fire hose and such fire buckets shall be in addition to the fire buckets referred to in
+Cl. (ii).
+(3)
+Every such ship, if fitted with main or auxiliary oil-fired boilers or internal combustion propelling machinery, shall be
+provided with-
+(i)
+a receptacle containing an adequate quantity of sand or saw dust impregnated with soda or any other dry material
+suitable for quenching oil fires together with a scoop for distributing the contents of the receptacle;
+(ii)
+if the ship is provided with a fire hose, a nozzle for spraying water on oil by means of that hose;
+(iii)
+at least two portable fire extinguishers capable of discharging froth or any other substance suitable for quenching oil
+fires.
+31.
+Ships of Class VIII.
+- Rules 27 to 30 (both inclusive) shall apply to ships of Class VIII as they apply to ships of Class VII.
+General
+32.
+Spaces containing particular risks.
+- In every ship to which these rules apply containing spaces such as galley, gasoline compartments, cinemas,
+electric-streering gear, battery charging room and such other similar spaces which in the opinion of the Central
+Government contain particular risk, there shall be provided such fire appliances as may be specified by the Central
+Government for avoiding such risk.
+33.
+Fire pumps.
+(1)
+Every fire pump required to be carried under these rules shall be operated by means of power other than the ship's main
+Page 12/25
+----- PAGE 13 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+engines, sanitary, ballast, bilge, or general service pumps may be accepted as fire pumps provided that they are not
+normally used for pumping oil and in case they are occasionally used for pumping or transferring fuel oil, suitable
+change over arrangements are fitted.
+(2)
+Each of the required type of fire pumps, other than an emergency pump referred to in these rules, shall have a capacity
+of not less than 80 percent of the total required capacity divided by the number of pumps required under these rules and
+shall, in any case, be capable of delivering at least two simultaneous jets of water at a throw of at least 12 metres at the
+pressure specified below at every prescribed nozzle, other than a spray nozzle, when used with any of the fire hoses
+and nozzles provided in compliance with these rules :
+Passenger Ships.
+4000 tons and
+over.
+3.5 kilogrammes
+per sq. centimetre.
+Below 4000 tons.
+3.0 kilogrammes
+per sq. centimetre.
+Cargo Ships.
+6000 tons and
+over.
+3.0 kilogrammes
+per sq. centimetre.
+Below 6000 tons.
+2.6 kilogrammes
+per sq. centimetre.
+(3)
+In every ship required by these rules to be provided with fire pumps operated by power, the total pumping capacity of
+such pumps shall not be less than that specified below :
+(i)
+in the case of a passenger ship, the required fire pumps shall be capable of delivering a quantity of water, at the
+appropriate pressure prescribed in sub-rule (2), not less than two-thirds of the quantity required to be dealt with by the
+bilge pumps;
+(ii)
+in the case of a cargo ship, the required fire pumps, other than an emergency pump, shall be capable of delivering a
+quantity of water, at the appropriate pressure prescribed in sub-rule (2), not less than four-thirds of the quantity required
+to be dealt with by each of the independent bilge pumps in a passenger ship of the same dimensions when employed on
+bilge pumping. For this purpose diameter of the bilge main shall be calculated according to the following formulae (the
+actual internal diameter of the bilge main being the nearest standard size acceptable to the Central Government) :-
+d =
+d = internal diameter of bilge in millimetres where-
+L means length between perpendiculars in metres.
+B means greatest moulded breadth in metres.
+D means depth to bulkhead deck amidship in metres :
+Provided that in no cargo ship need the total required capacity of the fire pumps exceed 180 tonnes per hour.
+(4)
+If more fire pumps operated by power than are required by these rules are provided in any ship the Central Government
+may permit the capacity of any such additional fire pumps to be less than 80 per cent.
+(5)
+Relief valves shall be provided in conjunction with all the fire pumps if the pumps are capable of developing a pressure
+exceeding the design pressure of water service pipes, hydrants or hoses provided that such valves shall be so placed
+and adjusted as to prevent excessive pressure in any part of the fire main system.
+Page 13/25
+----- PAGE 14 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(6)
+Every centrifugal pump which is connected to the fire main shall be fitted with a non-return valve.
+(7)
+In every ship of Class I, II, III or Nan emergency fire pump shall be fitted abaft of the ship's collision bulkhead.
+(8)
+(i)
+Emergency fire pumps required to be provided under these rules shall be of fixed and self priming type independently
+driven by compression ignition engine or other approved means and shall have an adequate capacity for supplying at
+least two jets of water at the appropriate pressure prescribed in sub-rule (2) and shall be located at the place remote
+from machinery spaces and shall have their own sea-sections capable of providing adequate suction lift tor the intended
+purpose but the suction lift shall under no circumstances exceed six metres :
+(ii)
+Handles for starting the emergency fire pump prime movers should be stowed and marked so that they can be easily
+located in an emergency.
+34.
+Water pipes and fire hydrants.
+(1)
+All water pipes and fire hydrants provided in compliance with these rules shall be so placed that, in addition to complying
+with other requirements under these rules, fire hoses may easily be coupled to them.
+(2)
+The diameter of the fire main and water service pipes shall be sufficient for the effective distribution of the maximum
+required discharge from one or two fire pumps as required to be provided by the rules operating simultaneously except
+that in the case of cargo ships the diameter need only be sufficient for the discharge of 140 tonnes per hour. The fire
+mains shall have no connection other than those necessary for fire fighting and washing down.
+(3)
+In ships likely to carry deck cargo, the position of the hydrants shall be such that they are always easily accessible with
+pipes and arranged in a manner to avoid risk of damage from such cargo and in ships where the deck pipe lines run on
+exposed deck two such lines shall be provided.
+(4)
+Water pipes shall not be made of material which may be readily rendered ineffective by heat. They shall not be made of
+cast iron and shall be galvanised if made of iron or steel.
+(5)
+All hose couplings and outlets on ship's fire mains to which hose connection is made shall be of 64 millimetres
+instantaneous, pattern, and shall be of a type approved by the Central Government.
+(6)
+The fire main shall be situated outside the machinery spaces and the discharge line or lines shall be fitted with isolating
+valves at the connections to the fire main provided that when the machinery space is situated amidships, the isolating
+valves shall also he provided in the fire main so that fire hydrants at both ends of the ship may be used simultaneously
+and separately.
+(7)
+Cocks and valves shall be fitted to water service pipes and shall be so arranged that any fire hose coupled thereto may
+be removed while fire pumps are in operation.
+(8)
+All water pipes for fire extinguishing system shall be provided with drain valves for use in frosty weather and so located
+that they may not be damaged by cargo.
+35.
+Fire hose.
+(1)
+Fire hoses provided in compliance with these rules shall be suitable for the intended use and shall not exceed 20 metres
+in length and shall be made in leather, seamless hemp, closely woven flax canvas or any other suitable material and
+shall be provided with couplings, conductors and other necessary equipment and also with suitable nozzles.
+Page 14/25
+----- PAGE 15 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(2)
+Every fire hose provided in compliance with these rules, together with the tools and fittings necessary for its use, shall
+be kept in a conspicuous position near the fire hydrants or connections with which it is intended to be used.
+(3)
+The fire hoses provided in compliance with these rules shall not be used for any purposes other than for extinguishing
+fires or at fire drills or for testing fire appliances.
+36.
+Nozzles.
+- The nozzles required to be provided under these rules and used for extinguishing fires, other than oil fires, shall have a
+bore of 12 mm provided that nozzles having bores of 16 mm and 20 mm may also be used in machinery spaces.
+Nozzles larger in diameter may be provided if the requirements of these rules relating to provision of water for fire
+fighting purposes is otherwise complied with.
+37.
+Fire buckets.
+(1)
+Every fire bucket provided in compliance with these rules shall be painted red and shall be clearly and permanently
+marked in black or white with the word "Fire". Every such fire bucket shall be kept filled with sand or water.
+(2)
+At least half the number of such fire buckets shall be fitted with lanyards of sufficient length to enable the buckets to be
+filled from the sea with the ship in light condition.
+(3)
+Such fire buckets shall not be used for any purpose other than for extinguishing fires.
+38.
+Acceptable equivalents for fire extinguishers.
+- Wherever these rules provide for substitutes, the acceptable equivalents for fire extinguishers shall be as prescribed
+below :-
+Froth
+Carbon
+Dioxide
+136
+litres
+35
+kilogrammes.
+45
+litres
+16
+kilogrammes.
+Portable
+4.5
+kilogrammes.
+39.
+Fire extinguishers.
+(1)
+Non-portable foam and carbon dioxide fire extinguishers provided in compliance with these rules shall be constructed in
+accordance with the requirements of the Second and Third Schedules respectively.
+(2)
+(a)
+Portable fire extinguishers (other than carbon dioxide fire extinguishers) provided in compliance with these rules shall, if
+they are of a type discharging fluid, have a capacity of not more than 13.5 litres and not less than 9 litres.
+(b)
+Portable carbon dioxide fire extinguishers provided in compliance with these rules shall have a capacity of not less than
+Page 15/25
+----- PAGE 16 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+4.5 kg. of carbon dioxide.
+(c)
+Portable dry powder fire extinguishers provided in compliance with these rules shall have a capacity of not less then 4.5
+kg. of dry powder.
+(d)
+Portable fire extinguishers of other types provided in compliance with these rules shall be of not less than the fire
+extinguishing equivalent of 9 litres fluid fire extinguisher.
+(e)
+Portable fire extinguishers provided in compliance with these rules shall not exceed 25.5 kg. in weight in the fully
+charged condition and shall be as portable as a 13.5 litres fluid fire extinguisher.
+(3)
+Potable fire extinguishers provided in compliance with these rules for use in accommodation or service spaces of any
+ship shall so far as practicable have a uniform method of operation.
+(4)
+Portable fire extinguishers provided in compliance with these rules shall, subject to sub-rules (2) and (3) be designed
+and constructed to the satisfaction of the Central Government.
+(5)
+(a)
+Fire extinguishers in which the substance used for extinguishing fires is stored under pressure shall not be provided for
+use in accommodation spaces.
+(b)
+Notwithstanding the requirement of Cl. (a), portable dry powder fire extinguishers wherein the substance to extinguish
+fire is stored under pressure may be provided in compliance with these rules in either the accommodation or service
+spaces or in the machinery spaces, subject to their number not exceeding one half of the total number of extinguishers
+required to be provided in either of these spaces.
+(6)
+Fire extinguishers provided for use in any ship to which these rules apply shall not contain an extinguishing medium
+which either itself or when in use gives off gases harmful to persons.
+(7)
+For the purposes of these rules,--
+(a)
+the capacity of any fire extinguisher other than a carbon dioxide fire extinguisher shall be taken to be the greatest
+volume or weight of extinguishing medium which it can contain when sufficient space is left to ensure the proper
+operation of the extinguisher.
+(b)
+the capacity of a carbon dioxide fire extinguisher shall be taken to be the greatest weight of carbon dioxide which it can
+safely contain in a tropical climate.
+(8)
+Every fire extinguisher provided in compliance with these rules shall be kept fully charged at all times.
+(9)
+A spare charge shall be provided for every portable fire extinguisher provided in compliance with these rules, except that
+for each such fire extinguisher which is of a type that cannot readily be recharged while the ship is at sea, an additional
+portable fire extinguisher of the same type, or its equivalent, shall be provided in lieu of a spare charge.
+40.
+Smothering gas and steam installation.
+(1)
+Where provision is made for the injection of gas or steam into machinery or cargo spaces for fire extinguishing
+purposes, the necessary pipes for conveying the gas or steam shall be provided with control valves or cocks which shall
+be so placed that they will be easily accessible and not readily cut off from use by an outbreak of fire. Such control
+valves or cocks shall be so marked as to indicate clearly the compartments to which the pipes are laid. Suitable
+provision shall be made to prevent inadvertant admission of the gas or steam to any compartment. Where cargo spaces
+Page 16/25
+----- PAGE 17 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+fitted with smothering gas for fire protection are used as passenger spaces the smothering gas or steam pipe connection
+shall be blanked during service as a passenger space.
+(2)
+The piping shall be so arranged as to distribute the smothering gas or steam in an effective manner. In holds over 20
+metres in length at least two pipes shall be provided in cargo space one at each end of the hold, i.e., one on the forward
+side and the other on the after part. Except in tankers and ships used for the conveyance of coal, pipes for conveying
+steam shall be fitted with Outlets as low as practicable in the space which they serve and as nearly as possible to the
+centre line of the space.
+(3)
+In tankers, the piping system shall be so arranged that the smothering gas when discharged, will be distributed over the
+surface of the cargo.
+(4)
+Where a generator producing inert gas is used to provide smothering gas in the fixed smothering installation for cargo
+spaces, it shall be capable of producing hourly a volume of free gas equal to 25 per cent of the gross volume of the
+largest compartment protected in this way for a period of 72 hours.
+(5)
+When steam is used as an extinguishing medium in cargo spaces, the boilers available for supplying steam shall have
+an evaporation of at least one kilogramme of steam per hour for each 0.75 cubic metre of the gross volume of the
+largest cargo compartment in the ship. The steam shall be available in the required quantity whenever needed during
+the course of the voyage and for this purpose suitable provision by way of extra feed water shall be made.
+(6)
+When carbon dioxide is used as an extinguishing medium--
+(i)
+if discharged into space containing boilers or internal combustion type of machinery, the quantity of gas available shall
+be sufficient to give a minimum quantity of free gas to larger of the following quantities, namely, either---------
+a volume to include the casing tip to the level at which the
+(a)
+40 per cent of the gross volume of the largest space, such horizontal area of the casing is 40 per cent or less of the
+space concerned; or
+(b)
+35 per cent of the entire volume of the largest space including the casing :
+Provided that the above mentioned percentages maybe reduced to 35 per cent or 30 per cent, as the case may be, in
+the case of cargo ships of less than 2000 tons :
+Provided further that if two or more spaces containing boilers or internal combustion type of machinery are not entirely
+separate, they shall be deemed as forming one compartment;
+(ii)
+if discharged into cargo spaces, the quantity of gas available shall be sufficient to give a minimum volume of free gas
+equal to 30 per cent of the gross volume of the largest cargo compartment in the ship which is capable of being sealed;
+(iii)
+if discharged into both cargo spaces and spaces containing boilers or internal combustion type of machinery, the
+quantity of gas need not be more than the maximum required either for the largest cargo compartment or machinery
+spaces;
+(iv)
+if discharged into spaces containing boilers or internal combustion type of machinery, the fixed piping system shall be
+such that 88 per cent of the gas shall be capable of being discharged into such spaces within two minutes.
+(7)
+For the purpose of determining the quantity of liquid carbon dioxide required to produce the volume of smothering gas
+required under these rules, 1 kg. of liquefied carbon dioxide shall be deemed to produce 0.56 cubic metres of gas.
+(8)
+Adequate means shall be provided for giving audible warning when carbon dioxide is about to be released into any
+working spaces.
+Page 17/25
+----- PAGE 18 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(9)
+When carbon dioxide is used as the extinguishing medium in spaces containing boilers or oil fuel installations a quantity
+of gas which can be discharged normally without danger to the operator shall be available near the oil fuel unit.
+41.
+Fixed pressure water spraying systems for machinery Spaces.
+(1)
+Every fixed pressure water spraying system fitted in compliance with these rules shall be provided with a pump, piping
+system, control valves, and spraying nozzles.
+(2)
+The spraying nozzles shall be of such a type, sufficient in number and so arranged as to ensure distribution of water
+spray such as will effectively extinguish oil on fire in the spaces protected thereby. Spraying nozzles shall be fitted above
+bilges, tank tops and other areas over which oil fuel is liable to spread and above other main fire hazards in the spaces
+to be protected.
+(3)
+The water spraying system may be divided into sections and shall be controlled from distribution manifolds the valves of
+which shall be capable of being operated from easily accessible positions outside the spaces to be protected and which
+shall be capable of withstanding the effects of an outbreak of fire for a reasonable time.
+(4)
+The water spraying system shall be kept charged at the necessary pressure and the pump supplying the water for the
+system shall be automatically put into action by pressure drop in the system.
+(5)
+The pump shall be capable of supplying water at the necessary pressure simultaneously to all sections of the water
+spraying system in any one compartment to be protected. The pump and its control shall be installed outside the space
+or spaces to be protected. It shall not be possible for a fire in the space or spaces protected by the water spraying
+system to put the system out of action.
+(6)
+Means shall be provided which will prevent nozzles, from becoming clogged by impurities in the water or corrosion of
+piping, nozzles, valves and pump.
+(7)
+The water spraying system shall include mobile sprayers ready for immediate use in the firing area of the boiler or in the
+vicinity of the oil fuel unit.
+(8)
+No part of the water spraying system shall be situated forward of the collision bulkheads in any passenger steamer.
+(9)
+Operating instructions in clear and permanent lettering shall be affixed to every water spraying system or in a position
+adjacent thereto.
+42.
+Fixed Foam fire extinguishing installations.
+(1)
+Every fixed foam fire extinguishing installation fitted in compliance with these rules shall be capable of discharging
+through fixed discharge outlets in not more than 5 minutes, a quantity of foam sufficient to cover to a depth of 15
+centimetres the largest single area over which oil fuel is liable to spread. Such installation shall be capable of generating
+foam suitable for extinguishing oil fires and means shall be provided for the effective distribution of the foam through a
+permanent system of piping and control valves or cocks to discharge outlets, and for the foam to be effectively directed
+by fixed sprayers on other main oil fire hazards in the protected space either simultaneously or separately. Such
+installation shall include mobile sprayers ready for immediate use in the firing area of the boiler.
+(2)
+Every fixed area fire extinguishing installation fitted in lieu of a fixed fire smothering gas installation required by these
+rules to be provided in the oil cargo spaces of any tanker shall be capable of distributing on the decks over the oil cargo
+tanks through fixed discharge outlets in not more than 15 minutes, a quantity of foam sufficient to cover to a depth of at
+least 5 centimetres the whole of tank deck area. Such installation shall be capable of generating foam suitable for
+Page 18/25
+----- PAGE 19 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+extinguishing oil fires and means shall be provided for the effective distribution of the foam through a permanent system
+of piping and control valves or cocks to discharge outlets. There shall be sufficient mobile foam sprayers capable of
+being connected to the installation whereby foam can be directed into any tank.
+Explanation. - For the purpose of this sub-rule, "tank deck area" means an area equivalent to the extreme length of the
+cargo tanks multiplied by the breadth of the ship.
+(3)
+Every fixed foam fire extinguishing installation shall be so arranged that a fire in any of the spaces it protects will not
+render the controls inaccessible nor put the installation out of action.
+(4)
+Operating instructions in clear and permanent lettering shall be affixed to every fixed foam fire extinguishing installation
+or in a position adjacent thereto.
+43.
+Fire detection systems.
+(1)
+Every fire detection system fitted in complianced these rules shall be capable of automatically indicating the presence or
+indication of fire and its location. The indicators shall be centralised either on the navigating bridge or at other control
+stations which are provided with direct communication with the navigating bridge :
+Provided that the Central Government may in any ship permit the indicators to be distributed among several stations if
+they are satisfied that such arrangements are at least as effective as if the indicators were so centralised.
+(2)
+In any passenger steamer electrical equipment used in the operation of any fire detection system fitted in compliance
+with these rules shall be capable of being supplied from two sources of electric power one of which shall be the
+emergency source of power.
+(3)
+The indicating system of any fire detection system fitted in compliance with these rules shall operate both audible and
+visible alarms at the stations referred to in sub-rule (1).
+44.
+Firemen's outfits.
+(1)
+Every firemen's outfit carried in compliance with these rules shall consist of--
+(a)
+a breathing apparatus complying with the requirements specified in the Fourth Schedule;
+(b)
+a portable self-contained electric-battery-operated safety lamp capable of functioning efficiently for a period of at least
+three hours; and
+(c)
+a fireman's axe.
+(2)
+Where more than one such outfit is provided they shall be kept in readily accessible and widely separated positions
+which are not likely to be cut off in the event of fire.
+45.
+Fire Control plans.
+(1)
+There shall be permanently exhibited for the guidance of the master and officers of all ships over 21 metres in length
+general arrangement plans showing clearly for each deck the position of the control stations, the sections of the ship
+which are enclosed by fire resisting bulkheads together with particulars of the fire alarms, fire detection systems, the
+sprinkler instaliatoins, firemen's outfits, the means of access to the various compartments and decks in the ship, the
+ventilating system including particulars of the masterfan controls, the position of dampers and identification numbers of
+the ventilating fans serving each section of the ship, the location of the international shore connection and the position of
+all means of control referred to in rule 49.
+(2)
+Page 19/25
+----- PAGE 20 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+The general arrangement plans required by this rule shall be kept up-to-date, any alterations being recorded therein
+without delay.
+46.
+Means for stopping machinery, shutting off oil fuel suction pipes and closing of openings.
+(1)
+In every ship to which these rules apply there shall be provided means for stopping ventilating fans serving machinery,
+accommodation and cargo spaces. For machinery and cargo spaces there shall be provided means for closing all
+skylights, doorways, ventilators, annular spaces round the funnels and other openings to such places. Such means shall
+be capable of being operated from positions outside the said spaces which would not be made inaccessible by a fire
+within such spaces.
+(2)
+In every ship to which these rules apply machinery driving (forced or induced) draught fans, oil fuel transfer pumps, oil
+fuel unit pumps and other similar fuel pumps shall be fitted with remote controls situated outside the spaces in which
+such machinery or pumps are situated and such controls shall be capable of stopping such machinery or pumps in the
+event of fire in the said spaces.
+(3)
+In every ship to which these rules apply every pipe connected to any oil fuel storage, settling or daily service tank, not
+being a double bottom tank, which if damaged would permit discharge of contents so as to cause a fire hazard, shall be
+fitted with a valve or cock which shall be secured to the tank to which it is connected and which shall be capable of being
+closed from a readily accessible position outside the space in which the tank is situated, provided that in case of any
+inlet pipe to such a tank non-return valve, similarly secured to the tank may be substituted. In the case of an oil deep
+tank tranversed by any shaft or pipe tunnel a valve shall be fitted on the tank, but an additional valve or valves may be
+fitted on the pipe line or lines outside the tunnel or tunnels to enable control to be exercised in the event of fire.
+47.
+Stowage of movable fire appliances.
+- All movable fire appliances other than firemen's outfits, required to be provided in compliance with these rules, shall be
+stowed where they will be readily accessible from the spaces in which they are intended to be used and, in particular,
+fire extinguishers shall be stowed near the entrances to spaces in which they are intended to be used.
+48.
+Approval of material, etc.
+- Where these rules require that a particular fitting, appliance, apparatus or equipment or any type or equivalent thereof
+shall be provided, fitted or carried or any particular arrangement or provision shall be made, then every such fitting,
+appliance, apparatus or equivalent thereof or any such arrangement or provision shall be such as is reasonably
+adequate for he purpose for which it is required to be provided.
+49.
+Requirements for ships of special design and layout.
+- Where in the case of a ship in which particular fittings, appliance, apparatus or any other equipment or any type thereof
+fitted in compliance with these rules are not considered by the Central Government as adequate, having regard to her
+design, layout or susceptibility to risk of fire, it may, notwithstanding anything contained in these rules, require, by order
+in writing, the ship to provide such other fittings, appliances, apparatus or equipment as it may consider necessary.
+50.
+Equivalents, exemptions and savings.
+(1)
+Where these rules require that a particular fitting, material, appliance, apparatus or equipment or any type thereof shall
+he fitted or carried in a ship or that any particular arrangement or provision shall be made, the Central Government may
+allow any other fitting, material, appliance, apparatus or any type thereof to be carried or fitted or any other arrangement
+or provision to be made in that ship if they are satisfied, by trial thereof or otherwise, that such other fittings, material,
+appliance, apparatus or equipment or type thereof or any such other arrangement or provision is at least as effective as
+that required under these rules.
+(2)
+The Central Government may, on such conditions as it thinks fit, exempt--
+Page 20/25
+----- PAGE 21 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(a)
+any ship of Class V, VII or VIII from the requirements of these rules if it is satisfied that by the nature of her construction
+and design it is neither practicable nor reasonable for that ship to comply with such requirements;
+(b)
+any ship which is not normally engaged on international voyages but which in exceptional circumstance is required to
+undertake a single international voyage from the requirement of these rules, provided the ship complies with such safety
+requirements as are, in the opinion of the Central Government, adequate for the intended voyage.
+(3)
+These rules shall not apply in the case of a ship the keel of which was laid before the Safety Convention came into force
+:
+Provided that such ship complies with the requirements of the Indian Merchant Shipping (Fire Appliances) Rules, 1956,
+as in force immediately before the coming into force of these rules and complies also with such other requirements as to
+improvement and modifications in standards of fire safety as maybe specified by the Central Government having due
+regard to the date the ship was built and the extent of major structural alterations involved.
+51.
+Penalties.
+- Whoever commits a breach of any of the provisions of these rules shall be punishable with fine which may extend to
+one thousand rupees and in the event of a continuing breach of these rules, with a further fine which may extend to fifty
+rupees for every day after the first during which the breach continues.
+First Schedule
+(See rule 13 and 26)
+International Shore Connection
+1. The International Shore connection, as hereinafter illustrated which is required to be provided in compliance with
+these rules, shall be in accordance with the following specifications:
+Outside
+diameter
+178
+millimetres
+Inner
+diameter
+64
+millimetres
+Bolt
+circle diameter
+132
+millimetres
+Holes
+4 holes
+each of 19 millimetres diameter equidistantly placed, slotted to
+the flange periphery.
+Flange
+thickness
+14.5
+millimetres minimum
+Bolts
+4, each
+of 16 millimetres diameter and 50 millimetres in length.
+Flange
+surface
+Flat
+face
+Page 21/25
+----- PAGE 22 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+material
+Any
+suited to 10.5 kilogrammes per square centimetre service.
+Gasket
+Any
+suited to 10.5 kilogrammes per square centimetre service.
+2. The connection shall be constructed of material suitable for 10.5 kilogrammes per square centimetre service. The
+flange shall have a flat face on one side, and to the other shall have permanently attached thereto a coupling that will fit
+the ship's hydrants and hoses. The connection shall be kept aboard the ship together with a gasket of any material
+suitable for 10.5 kilogrammes per square centimetre service, together with four 16 millimetres bolts and 50 millimetres in
+length and eight washers service, together with four 16 millimetres diameter bolts and 50 millimetres in length and eight
+washers.
+Illustration Of International Shore Connection (Ship)
+Second Schedule
+(See rule 39)
+Non-portable foam fire extinguishers. - (1) Every foam fire extinguisher, other than a portable fire extinguisher provided
+in compliance with these rules shall be so designed and constructed that the interior of the extinguisher can be
+examined.
+(2)
+The body of the extinguisher shall be cylindrical with ends which shall be dished outwards without reverse flanging, to a
+radius not exceeding the diameters of the body. The body and ends shall be made of sheet steel which shall be tinned
+or lead-coated internally, and every part of the extinguisher shall, where necessary, be protected against corrosin.
+(3)
+The body of the extinguisher, shall be welded or riveted. All riveted joints shall be soldered.
+(4)
+The body shall be provided with an opening for the introduction of an inner container. The opening shall be fitted with a
+cap of gunmetal or other suitable material, screwed with a continuous thread, through the side of which safety holes or
+slots shall be provided so that when the cap is being removed any pressure of gas remaining in the container may be
+released gradually, should the discharge opening be choked. The cap joint shall be made with acid-resisting rubber,
+greased leather, or other suitable material.
+(5)
+If the extinguisher is provided with an inner container, such container shall be adequately supported.
+(6)
+A reinforced discharge hose shall be provided together with a nozzle, the area of which shall be such that when the
+extinguisher is operated the foam is projected to a distance of 13.50 metres for a period of not less than 100 seconds, in
+the case of an extinguisher of 136 litres capacity or over, and to a distance of 10.5 metres for a period not less than 90
+seconds in the case of an extinguisher of under 136 litres capacity.
+(7)
+The charge and the air space above the level of the solution in the body shall be so regulated that the maximum
+pressure in the extinguisher when put into action, with all outlets closed, does not exceed 19.75 kg. per square
+centimetre, with the solution at a temperature of 38°C.
+(8)
+The extinguisher shall be capable of withstanding for a period of 5 minutes an internal pressure of 11h times the
+pressure in the extinguisher when put into action with all outlets closed, and in no event of less than 25 kg. per square
+centimetre.
+(9)
+The outside of the extinguisher shall be clearly and permanently marked with------
+(a)
+the name of the maker or vendor of the extinguisher;
+(b)
+the capacity of the extinguisher;
+Page 22/25
+----- PAGE 23 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(c)
+the level of the solution, when the extinguisher is filled to its working capacity;
+(d)
+the pressure under which the extinguisher was tested;
+(e)
+instructions for operating the extinguisher;
+(f)
+the year in which the extinguisher was manufactured.
+Third Schedule
+(See rule 39)
+Non-portable carbon dioxide fire extinguishers. - (1) Every carbon dioxide fire extinguisher provided in compliance with
+these rules shall be provided with suitable cylinders designed and constructed to the satisfaction of the Central
+Government.
+(2)
+Each cylinder shall be provided with an internal discharge tube, and a valve to release the gas.
+(3)
+The extinguisher shall be provided with a discharge hose which shall be reinforced so as to withstand a pressure of at
+least 127 kg. per square centimetre when the necessary couplings are fitted. The bore of the discharge hose shall not
+be less than the sizes respectively set forth in the following Table :
+Capacity of
+extinguisher
+Minimum bore of
+discharge
+4.5 kg.
+6 mm.
+16.0 kg.
+9 mm.
+45.0 kg.
+12 mm.
+The discharge hoses shall be provided with horn which shall be of electrically non-conducting material and of a design
+which will reduce the velocity of the gas discharged. The metal of the operating handle shall be sheathed to protect the
+hand of the operator from extreme cold.
+(4)
+At any temperature between 15°C and 18°C inclusive the extinguisher shall discharge gas at such a rae that carbon
+dioxide equal in weight to 3/4 of the capacity of the container will be discharged in the periods respectively set forth in
+the following Table :-
+Capacity
+of extinguisher
+Period
+4.5
+kg.
+20
+seconds
+16.0
+kg.
+30
+to 45 seconds
+45.0
+kg.
+60
+to 90 seconds
+Page 23/25
+----- PAGE 24 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(5)
+The outside of the extinguisher shall be clearly and permanently marked with--
+(a)
+the name of the maker or vendor of the extinguisher;
+(b)
+the capacity of the extinguisher;
+(c)
+instructions for operating the extinguisher;
+(d)
+markings which will indicate the respective weights of the extinguisher when empty and when filled;
+(e)
+the year in which the extinguisher was manufactured.
+Fourth Schedule
+(See rule 44)
+Fireman's outfit
+1. Breathing apparatus. - Every breathing apparatus provided in compliance with these rules may be either
+(a)
+a smoke helmet or a smoke mask, each of which shall be provided with
+an air-pump or bellows and an air hose; or
+(b)
+a self contained breathing apparatus.
+2. Smoke helmet and smoke mask. - Every smoke helmet or smoke mask provided in compliance with these rules shall
+be provided with a hose for the supply of air from the outside atmosphere. An air pump or bellows shall be provided
+which shall be suitable for pumping air through the hose. The hose shall be of the non-collapsing type and shall be
+sufficient in length to enable the air pump or bellows to be on the open deck in clean air well clear of any hatch or
+doorway, while the wearer of the helmet or mask is in any part of the accommodation, service, cargo, or machinery
+spaces. Efficient couplings shall be provided if two or more lengths of hose are to be joined in order to reach the
+aforesaid spaces. The air inlet to the pump or bellows shall be so protected as to ensure that the supply of air cannot be
+obstructed.
+3. Self contained breathing apparatus. - (a) Every self-contained breathing apparatus provided in compliance with these
+rules shall be of the open circuit compressed air type.
+(b)
+The storage capacity of the compressed air cylinder or cylinders attached to the apparatus and carried by the wearer
+shall be at least 1,200 litres of free air. The storage cylinders shall be constructed of suitable material and shall be of
+efficient design and of sufficient strength to withstand with an adequate factor of safety the internal pressure to which
+they may be subjected, and each cylinder shall be capable of withstanding a test by hydraulic pressure suitable in
+excess of the working pressure.
+(c)
+Means shall be provided for the automatic regulation of the air supply to the wearer of the apparatus in accordance with
+his breathing requirements, when he is breathing any volume of pure air up to 85 litres per minute at any time when the
+pressure in the supply cylinder or cylinders is above 10.50 kg. per square centimetre. Means shall be provided for
+overriding the automatic air supply valve.
+(d)
+A pressure gauge with an anti-bursting orifice shall be incorporated in the high pressure air supply system to enable the
+wearer to read directly and easily the pressure of air in the supply cylinder or cylinders.
+(e)
+Means shall be provided for warning the wearer audibly when 80 per cent. of use usable capacity of the apparatus has
+been consumed.
+(f)
+The maximum weight of any such apparatus shall not exceed 16 kg. excluding any life line and, if they do not form an
+integral part of the apparatus, any safety belt or harness.
+Page 24/25
+----- PAGE 25 -----
+The Merchant Shipping (Fire Appliances) Rules, 1969
+(g)
+Every self-contained breathing apparatus shall be provided with fully charged spare cylinders having a spare storage
+capacity of at least 2,400 litres of free air except that-------
+(i)
+if the ship is carrying five sets or more of such apparatus the total spare storage capacity of free air shall not be required
+to exceed 9,600 litres;
+(ii)
+if the ship is equipped with means for recharging the air cylinders to full pressure with air free from contamination, the
+spare storage capacity of the fully charged spare cylinder of each such apparatus shall be of at least 1,200 litres of free
+air, and the total spare storage capacity of free air provided in the ship shall not be required to exceed 4,800 litres.
+(h)
+A servicing and instruction manual shall be kept with each such apparatus.
+4. General. - (a) Every breathing apparatus shall be constructed of materials having adequate mechanical strength,
+durability and resistance to deterioration by heat or by contact with water and such materials shall be resistant to fire and
+shall not allow the breathing circuit to be penetrated by smoke or chemical fumes likely to be encountered in service.
+The fabric used in the construction of any harness provided with such apparatus shall be resistant to shrinkage.
+Exposed metal parts of the apparatus, harness and fittings shall be of material so far as practicable resistant to frictional
+sparking.
+(b)
+The following equipment shall be provided for use with each set of breathing apparatus--
+(i)
+a fire proof life and signalling line at least 3 metres longer than is required to reach from the open deck in clear air well
+clear of any hatch or doorway to any part of the accommodation, service, cargo or machinery spaces. The line shall be
+made of copper of vanised steel wire-rope having a breaking strength of at least 50 litres and shall be overlaid up to at
+least 32 millimetres in circumfire by hemp or other covering to provide a surface which can be gripped when wet;
+(ii)
+an adjustable safety belt or harness to which such line be capable of being securely attached and detached by the
+wearer means of a suap hook;
+(iii)
+means for protecting the eyes and face of the wearer age smoke;
+(iv)
+plates of suitable non-inflammable material bearing a close legible code of signals to be used between the wearer and
+his attendant, one of which shall be attached to the safety belt or hard and another attached to the free end of the life
+line;
+(v)
+for every apparatus other than a smoke helmet a light wearer safety helmet with lining and adjustable head band.
+(c)
+Every breathing apparatus shall be clearly marked with name of the maker or vendor and the year of manufacture.
+Operated instructions in clear and permanent lettering shall be affixed to such apparatus.
+Related AI tags, queries and research notes
+Translation
+Page 25/25

@@ -1,0 +1,328 @@
+
+----- PAGE 1 -----
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on N...
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid
+Interactive Systems Based on Net Metering) Regulations, 2015
+Source: https://indiankanoon.org/doc/198745051/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Bihar - Act
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on Net Metering) Regulations,
+2015
+BIHAR
+India
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on Net Metering) Regulations,
+2015
+Rule
+BIHAR-ELECTRICITY-REGULATORY-COMMISSION-ROOFTOP-SOLAR-GRID-INTERACTIVE-SYSTEMS-BASED-O
+N-NET-METERING-REGULATIONS-2015 of 2015
+Published on 6 July 2015
+Commenced on 6 July 2015
+[This is the version of this document from 6 July 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on Net Metering) Regulations,
+2015
+Published vide Notification No. BERC-SMP No.-5/2015-5, dated 06.07.2015
+Last Updated 7th February, 2020
+No. BERC-SMP No.-5/2015-5. - In exercise of powers conferred under section 61,66 86(1)(e) and 181 of the Electricity
+Page 1/7
+----- PAGE 2 -----
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on N...
+Act, 2003 (Act 36 of 2003) and all other powers enabling it in this behalf, and after previous publication, the Bihar
+Electricity Regular makes the following regulations for the grid connected Solar Rooftop Photovoltaic system:
+1.
+Short title, extent and commencement.
+- 1.1 These regulations may be called the Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive
+Systems Based on Net Metering) Regulations, 2015
+1.2
+The Regulations extend to the whole of the State of Bihar.
+1.3
+These regulations shall come into force from the date of their notification in the Official Gazette of Government of Bihar.
+2.
+Definitions and Interpretations.
+- 2.1 In these Regulations, unless the context otherwise requires:
+(a)
+"Act" means the Electricity Act, 2003 (36 of 2003) and subsequent amendments thereof;
+(b)
+"Agreement licensee and the consumer;
+(c)
+"Authority section (1) of Section 70 of the Act;
+(d)
+"Billing cycle or billing period electricity bills as specified by the Commission, are prepared for different categories of
+consumers by the licensee;
+(e)
+"Commission constituted under the Act;
+(f)
+"Consumer" means any person who is supplied with electricity for his own use by a licensee or the Government or by
+any other person engaged in the business of supplying electricity to the public under this Act or any other law for the
+time being in force and includes any person whose premises are, for the time being, connected for the purpose of
+receiving electricity with the works of a distribution licensee, the Government or such other person, as the case may be;
+(g)
+"Contracted load" or "Contract demand" means the maximum demand in kW, kVA or BHP, agreed to be supplied by the
+licensee and indicated in the agreement executed between the licensee and the consumer;
+(h)
+"Distribution licensee" or "Licensee" means a person granted a license under Section 14 of the Act authorizing him to
+operate and maintain a distribution system for supplying electricity to the consumers in his area of supply;
+(i)
+"Electricity Supply Code" means the Bihar Electricity Supply Code 2007 specified by the Commission under section 50
+of the Act and subsequent amendments thereof;
+(j)
+"Eligible consumer" means a consumer of electricity in the area of supply of the distribution licensee, who uses a rooftop
+solar system installed in the consumer premises, to offset part or all of the consumer's own electrical requirements,
+given that such systems can be self-owned or third party owned;
+(k)
+"Financial year" or "Year" means the period beginning from first of April in an English calendar year and ending with the
+thirty first of the March of the next year;
+(l)
+"Government" means the Government of Bihar;
+(m)
+"Inter connection point" means the interface of solar power generation facility system with the network of distribution
+licensee;
+(n)
+Page 2/7
+----- PAGE 3 -----
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on N...
+"Invoice" means either a Monthly Bill / Supplementary Bill or a Monthly Invoice/ Supplementary Invoice raised by the
+distribution licensee;
+(o)
+"kWp" means kilo Watt peak;
+(p)
+"Net meter" means an appropriate energy meter capable of recording both import and export of electricity or a pair of
+meters one each for recording the import and export of electricity as the case may be; which shall be an integral part of
+the net metering system;
+(q)
+"Obligated entity" means the entity mandated under clause (e) of subsection (1) of section 86 of the Act to fulfil the
+renewable purchase obligation and identified under Bihar Electricity Regulatory Commission(RPO its Compliance and
+REC Framework Implementation) Regulations, 2010 and subsequent amendments thereof;
+(r)
+"Premises" means rooftops or/and elevated areas on the land, building or any other structure or part or combination
+thereof in respect of which separate meter or metering arrangements have been made by the licensee for supply of
+electricity;
+(s)
+"Rooftop solar system" means the solar photovoltaic power system installed on the rooftops or any other structure in
+consumer premises that uses sunlight for direct conversion into electricity through photovoltaic technology;
+(t)
+"Renewable Energy Certificate (REC)" means the certificate issued in accordance with the procedures approved by the
+Central Electricity Regulatory Commission;
+(u)
+"Settlement period" means the period beginning from first of April in an English calendar year and ending with the thirty
+first of the March of the next year;
+(v)
+"Solar meter" means a unidirectional energy meter installed as an integral part of the net metering system, at the point at
+which the electricity generated by solar energy system is delivered to the main panel of the eligible consumer;
+(w)
+"Tariff order" in respect of a licensee means the most recent order issued by the Commission for that licensee indicating
+the rates to be charged by the licensee from various categories of consumers for supply of electrical energy and
+services and its validity has not expired.
+2.2
+All other words and expressions used in these Regulations although not specifically defined herein above, but defined in
+the Act, shall have the meaning assigned to them in the Act. The other words and expressions used herein but not
+specifically defined in these Regulations or in the Act but defined under any law passed by the Parliament applicable to
+the electricity industry in the State shall have the meaning assigned to them in such law.
+3.
+Scope and Application.
+- 3.1 These Regulations shall apply to the distribution licensee and consumers of electricity of distribution licensee of the
+State of Bihar.
+3.2
+The eligible consumer may install the rooftop solar system under net metering arrangement which,
+(a)
+shall be within the permissible rated capacity as defined under these Regulations.
+(b)
+shall be located in the consumer premises.
+(c)
+shall interconnect and operate safely in parallel with the distribution licensee network.
+3.3
+The capacity of the solar energy system to be installed at the premises of any eligible consumer under these
+Page 3/7
+----- PAGE 4 -----
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on N...
+Regulations shall not be less than one KWp and shall not exceed one MWp. These regulations do not preclude the right
+of State Government to undertake rooftop solar projects above 1 MWp capacity through alternative mechanisms.
+4.
+General Principles.
+- 4.1 The distribution licensee shall offer the provision of net metering arrangement to the consumer, who intends to
+install grid connected rooftop solar system, in its area of supply on non-discriminatory and first come first serve basis.
+Provided that the distribution licensee shall offer the provision of net metering to the consumer for the target capacity as
+specified under these Regulations;
+Provided further that the consumer is eligible to install the grid connected rooftop solar system of the rated capacity as
+specified under these Regulations;
+Provided further that the interconnection of such system with the grid is undertaken as per technical standards specified
+by the Central Electricity Authority.
+5.
+Capacity Targets for Distribution Licensee.
+- 5.1 The distribution licensee shall provide net metering arrangement to eligible consumers as long as the total capacity
+(in MW) does not exceed the target capacity determined by the Commission; Provided a maximum cumulative capacity
+of 10MW shall be allowed to eligible consumers under net metering, on yearly basis, in the area of supply of the
+distribution licensee;
+Provided that the cumulative capacity to be allowed at a particular distribution transformer shall not exceed 15% of the
+capacity of the distribution transformer;
+5.2
+The distribution licensee shall update distribution transformer level capacity available for connecting rooftop solar
+systems under net metering arrangement on yearly basis and shall provide the information on its website as well as to
+the Commission.
+6.
+Eligible Consumer and Individual Project Capacity.
+- 6.1 All eligible consumers of electricity in the area of supply of the distribution licensee can participate in the solar
+rooftop net metering arrangement (reference to sub clause 2.1(j) of these Regulations).
+6.2
+The maximum rooftop solar system capacity to be installed at any eligible consumer premises shall be governed by the
+eligibility of interconnection with the grid for that eligible consumer. The maximum capacity of an individual rooftop PV
+system would be equal to the sanctioned load of the consumer. The installation of Net metered rooftop solar systems on
+consumer premises will utilize the same service line and installation for injection of excess power into the grid, which is
+currently being used by the consumer for drawls of power from the distribution licensee. Provided that the maximum
+installed capacity shall not exceed 1MW.
+7.
+Interconnection with the Grid.
+- 7.1 The interconnection of the rooftop solar system with the network of the distribution licensee shall conform to the
+technical specifications, standards and provisions as provided in the Central Electricity Authority (technical Standards for
+connectivity of the Distributed Generation resources) Regulations,2013 as amended from time to time.
+The distribution Licensee shall also ensure that interconnection of Rooftop Solar power system with the distribution
+system of the Licensee conforms to the relevant provisions of the Central Electricity Authority(Measures related to
+Safety and Electric Supply) Regulations,2010 as amended from time to time.
+The Net meter and solar meter installed should conform to the standards, specifications and accuracy class as provided
+in the Central Electricity Authority (Installation and operation of Meters) Regulations, 2006, as amended from time to
+time and are installed in such a way that they are accessible for reading.
+7.2
+The Rooftop Solar power producer may install grid interactive Solar power system with or without battery backup.
+Provided that if the Solar Energy Generator, prefers connectivity with battery backup (full load backup/partial load
+backup) ,in all such cases the inverter shall have separate backup wiring to prevent the battery/Solar power to flow into
+the grid in the absence of grid supply and manual isolation switch shall also be provided.
+Page 4/7
+----- PAGE 5 -----
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on N...
+7.3
+The Solar power producer shall be responsible for safe operation, maintenance and rectification of any defect of the
+solar Energy System up to the point of Net Meter beyond which the responsibility of safe operation & maintenance shall
+rest with the Distribution Licensee.
+7.4
+The Distribution licensee shall have the right to disconnect the Solar Energy System at any time in the event of possible
+threat/damage to its distribution system,
+8.
+Energy Accounting and Settlement.
+- 8.1 For each billing period, the licensee shall show the quantum of injected electricity by eligible consumer in the billing
+period, supplied electricity by distribution licensee in the billing period, net billed electricity for payment by the consumer
+for that billing period and net carried over electricity to the next billing period separately;
+Provided that in the event the electricity injected exceeds the electricity supplied during the billing period, such excess
+injected electricity shall be carried forward to next billing period as electricity credit and may be utilized to net electricity
+injected or consumed in future billing periods;
+Provided further that in the event the electricity supplied by the distribution licensee during any billing period exceeds the
+electricity generated by the eligible consumer's rooftop solar system, the distribution licensee shall raise invoice for the
+net electricity consumption after taking into account any electricity credit balance remaining from previous billing periods;
+The net energy imported has to be billed by the distribution licensee as per tariff in force applicable to that category of
+consumers.
+Provided, in case the eligible customer is under the ambit of time of day tariff, as determined by the Commission from
+time to time, the electricity consumption in any time block (e.g., peak hours, off-peak hours, etc.) shall be first
+compensated with the electricity generation in the same time block. Any cumulate excess generation over consumption
+in any other time block in a billing cycle shall be accounted as if the excess generation occurred during the off-peak time
+block.
+Provided also that the excess electricity measured in kilo-watt hour may only be utilized to offset the consumption
+measured in kilo-watt hour and may not be utilized to compensate any other fee and charges imposed by the distribution
+licensee as per the instructions of Bihar Electricity Regulatory Commission Provided also that the distribution licensee in
+addition to consumer tariff shall be eligible to raise invoice for any other charges as allowed by the Bihar Electricity
+Regulatory Commission.
+8.2
+The electricity generated by the rooftop solar system of an eligible consumer shall not be more than 90% of the
+electricity consumption by the eligible consumer at the end of the settlement period.
+Provided that such injection of the above mentioned eligible consumer shall be settled only as per net metering
+arrangement at the end of each settlement period;
+Provided further that in the event the electricity generated exceeds 90% of the electricity consumed at the end of the
+settlement period, no payment shall be made by the distribution licensee and shall not be carried forward to next
+settlement period and the same shall be treated as unwanted/ inadvertent injection. Provided also that at the beginning
+of each settlement period, cumulative carried over injected electricity will be reset to zero.
+However, if net electricity injected in the month of March remains unadjusted, it may be allowed a carry forward for the
+next billing month.
+8.3
+In case of any dispute in billing it would be settled by the consumer grievance redressal forum and if issue still remains
+unresolved shall be settled by the Bihar Electricity Regulatory Commission following appropriate procedure.
+9.
+Solar Renewable Purchase Obligation.
+- The quantum of electricity consumed by eligible consumer, who is not defined as Obligated entity, from the rooftop
+solar system under net metering arrangement shall qualify towards compliance of Solar Renewable Purchase Obligation
+(Solar RPO) for the distribution licensee.
+10.
+Applicability of Other Charges.
+Page 5/7
+----- PAGE 6 -----
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on N...
+- The rooftop solar system under net metering arrangement, whether self-owned or third party owned installed on
+eligible consumer premises, shall be exempted from banking and wheeling charges and cross subsidy surcharge.
+Eligible consumer availing net metering facility cannot avail banking facility.
+Provided that banking shall be as per the BERC (Terms and conditions for determination of Tariff for solar energy
+sources) (3rd amendment) Regulations, 2014.
+11.
+Eligibility to Participate under Renewable Energy Certificate Mechanism.
+- The issuance of renewable energy certificate shall be as per the eligibility criteria specified under Central Electricity
+Regulatory Commission (Terms and Conditions for recognition and issuance of Renewable Energy Certificate for
+Renewable Energy Generation) Regulations, 2010 and subsequent amendments thereof;
+12.
+Metering Arrangement.
+- 12.1 The metering system shall be as per the provisions of CEA (Installation & operation of meters) Regulations, 2006,
+CEA (Measures relating to Safety and electricity supply) Regulations, 2010 and CEA(technical standards for
+Connectivity of the distributed generation resources), Regulations,2013 as amended from time to time and in
+compliance with the norms fixed by BERC/CERC from time to time.
+12.2
+The Net Meter shall be installed at the interconnection point of the eligible consumer with the network of distribution
+licensee. The solar meter shall be installed at the delivery point of the solar energy system to measure the solar energy
+generated. The licensee shall provide meters as per provision in Bihar Electricity Supply Code, 2007.
+12.3
+Check meters shall be mandatory for rooftop solar systems having capacity more than 20 kW. For installations size of
+less than and equal to 20 kW, the solar Check meters would be optional.
+12.4
+The Meter shall be tested, installed and sealed in accordance with the provisions of CEA (Installation and operation of
+Meters) Regulations, 2006 as amended from time to time and provisions under Bihar Electricity Supply Code, 2007. It
+shall be jointly inspected and sealed by the licensee on behalf of both the parties. It shall be tested by the licensee and
+installed in presence of consumer and the licensee with due acknowledgement.
+Provided that the eligible consumer shall follow the metering specifications, provisions for placement of meter as
+developed by the distribution licensee from time to time and as per the Bihar Electricity Supply Code, 2007; Provided
+further that in case the eligible consumer is under the ambit of time of day tariff, meters compliant of recording time of
+day consumption/generation shall be employed.
+12.5
+The meter reading, both net meter and solar meter shall be taken by the distribution licensee and shall form the basis of
+commercial settlement. The copy of the meter reading statement shall be handed over to consumer as soon as meter
+reading is taken.
+13.
+Penalty or Compensation.
+- In case of failure of net metering system, the provisions of penalty or compensation shall be as per the provisions of
+the standard of performance regulations for distribution licensee.
+14.
+Power to give Directions.
+- The Commission may from time to time issue such directions and orders as considered appropriate for the
+implementation of these Regulations
+15.
+Power to Relax.
+- The Commission may by general or special order, for reasons to be recorded in writing, and after giving an opportunity
+of hearing to the parties likely to be affected may relax any of the provisions of these Regulations on its own motion or
+on an application made before it by an interested person
+16.
+Power to Amend.
+Page 6/7
+----- PAGE 7 -----
+Bihar Electricity Regulatory Commission (Rooftop Solar Grid Interactive Systems Based on N...
+- The Commission may from time to time add, vary, alter, suspend, modify, amend or repeal any provisions of these
+Regulations.
+Related AI tags, queries and research notes
+Translation
+Page 7/7

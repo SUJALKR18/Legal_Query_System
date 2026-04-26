@@ -1,0 +1,1829 @@
+
+----- PAGE 1 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+The Standards of Weights and Measures (National Standards) Rules,
+1988
+Source: https://indiankanoon.org/doc/100161368/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Standards of Weights and Measures (National Standards) Rules, 1988
+UNION OF INDIA
+India
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Rule THE-STANDARDS-OF-WEIGHTS-AND-MEASURES-NATIONAL-STANDARDS-RULES-1988 of 1988
+Published on 16 November 1988
+Commenced on 16 November 1988
+[This is the version of this document from 16 November 1988.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Published Vide Notification G.S.R. 1076(E), dated 16-11-1988, published in the Gazette of India, Extra, 2, Section 3(i),
+dated 16-11-1988
+1010.
+G.S.R. 1076 (E) dated 16.11.1988. - In exercise of the powers conferred by section 83 of the Standards of Weights and
+Measures Act, 1976 (
+60 of 1976
+), the Central Government hereby makes the following rules, namely:-
+Vide G.S.R. 1076(E), dated 16-11-1987, published in the Gazette of India, Ext., Pt. II, section 3(i), dated 16-11-1988.
+Page 1/34
+----- PAGE 2 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Chapter I
+Preliminary
+1.
+Short title and commencement
+(1)
+;These rules may be called The Standards of Weights and Measures (National Stan-dards) Rules, 1988.
+(2)
+;They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions
+- In these rules, unless the context otherwise requires,--
+(a)
+;"Act" means the Standards of Weights and Measures Act, 1976 (
+60 of 1976
+);
+(b)
+;"coefficient" means those parameters without physical dimensions or ratios of quantities of the same kind, which are
+necessary for particular measurements or for characterising properties of substances or mixtures of certain substances.
+Illustration
+Degree of alcoholic strength, percentage of sugar, and hardness of materials, are examples of coefficients;
+(c)
+;"derived units" means units, expressed algebraically in terms of base units, or in terms of base and supplementary units
+of weights or measures, by means of mathematical symbols of multiplication or division, or both.
+Explanation I.- Derived units having special names and symbols (such as "newton", with symbol ‘N') may, by
+themselves, be used to express other derived units in a simpler way than in terms of the base units of weights and
+measures.
+Explanation II.-The values of dimensionless quantities (such as refractive index, specific gravity, relative permeability or
+relative permittivity) are expressed by numbers. In such cases the corresponding unit shall be the ratio of the relevant
+two units and may be expressed by a number;
+(d)
+;"International System of Units" of weights and measures means "Le System International d' Units", with the international
+abbreviation ‘SI' established by the General Conference on Weights and Measures.
+Explanation.-‘SI' is divided into three classes of units, namely,--
+(i)
+;base units, as defined in the Act;
+(ii)
+;derived units; and
+(iii)
+;supplementary units;
+(e)
+;"permitted units" means the units which though not part of the SI, are recognised and permitted by the General
+Conference on Weights and Measures for general use along with SI units;
+(f)
+;"physical constants" means those constants which express the value of physical invariants in a given system of units.
+These constants includes,--
+(i)
+;those which correlate two or more physical quantities to express a physical phenomenon in quantitative terms
+independent of any material properties; for example, gravitational constant, velocity of light, etc.
+(ii)
+;those which correlate the microscope properties of elementary particles (atoms, molecules, etc.) to the corresponding
+macroscopic properties; for example; Avogadro constant, Faraday constant, etc.
+Page 2/34
+----- PAGE 3 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+(iii)
+;those conversion factors used to express the same parameter in terms of inde-pendently defined units; for example, the
+conversion factor relating the astro-nomical unit or parasec to the metre and atomic mass unit to kilogram;
+(iv)
+;those which describe the material properties of pure substances, for example, thermal conductivity, specific resistance,
+etc.
+(g)
+;"Schedule" means Schedule appended to these rules;
+(h)
+;"SI prefix" means the name and symbol of a prefix used for forming decimal multiples and sub-multiples of SI units, and
+of such other units as are permitted subject to any exception or modification by the General Conference on Weights and
+Measures or the International Organisation of Legal Metrology, or both, to be used along with the SI units;
+(i)
+;"special units" means units, outside the SI, which are ordinarily used in specialised fields of scientific research. The
+values of those units expressed in SI units can only be obtained by experiment, and are, therefore, not known exactly.
+Explanation.-The value of electron volt (the unit of energy) depends upon the experimen-tally determined value of the
+charge of an electron;
+(j)
+;"supplementary units" means the units of weight or measure which have been specified as such by the General
+Conference on Weights and Measures.
+Explanation.-Supplementary units may be used to form derived units;
+(k)
+;"symbol" means a letter or a group of letters, written or combined in the specified manner for the convenient
+representation of a unit or a group of units;
+(l)
+;"temporarily accepted units" means the units of weight or measure which have been recognised for the time being by
+the General Conference on Weights and Measures, for use along with SI units.
+Chapter II
+Units Of Weight Or Measure
+3.
+Rules of construction
+- In these rules, wherever the expression "weight" has been used as symbolising the quantity of matter, such expression
+shall be construed as representing mass.
+4.
+Supplementary units
+- The units defined and specified in Schedule I shall be the supplementary units and the symbol assigned to each such
+unit in that Schedule shall be the symbol of that unit.
+5.
+Derived units
+- The units defined and specified in Schedule II shall be derived units and the symbol assigned to each such unit in that
+Schedule shall be the symbol of that unit and no other units shall be used for the entities specified in Schedule II except
+for the purpose of scientific or technological research.
+6.
+Decimal multiples and sub-multiples of units
+(1)
+Decimal multiples and sub-multiples of base, supplementary, derived or other units shall be formed, unless otherwise
+specified, by using either the full name, or symbol of the SI prefix specified in Schedule III.
+(2)
+The SI prefixes shall be used in the manner specified in Schedule III.
+7.
+Permitted units
+Page 3/34
+----- PAGE 4 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+(1)
+The units specified in Schedule IV may be used along with the SI units, subject to such limitations as are specified in
+that Schedule.
+(2)
+;The multiples and sub-multiples of the units of time and plane angle specified in Schedule IV, shall be formed only in
+the manner specified in the Schedule.
+8.
+Special units
+(1)
+The units specified in Schedule V shall be used in such manner that their values may be expressed in terms of such SI
+unit or combination of SI units, as may be appropriate.
+(2)
+;The multiples and sub-multiples of the units specified in Schedule V shall be formed with the help of SI prefixes
+specified in Schedule III.
+9.
+Temporarily accepted units
+- The unit of weight or measure specified in Schedule VI may also be used, subject to the condition that the Central
+Government shall, at least once in every ten years after the commence-ment of these rules, review the need, or
+otherwise, for the continuance for general use of such units:
+Provided that such review may be undertaken earlier by the Central Government either on its own motion or on the
+basis of a recommendation made by the General Conference on Weights and Measures, or the International
+Organisation of Legal Metrology.
+10.
+Units which should be progressively discontinued
+(1)
+Subject to the provisions of sub-rule (2), the CGS (i.e., centrimetre, gram, second) units specified in Schedule VII, and
+the units of weights and measures specified in Schedule VIII (being units outside the SI), shall not ordinarily be used
+except for the purpose of scientific and technological research and no such unit shall ordinarily be used for the purpose
+of teaching.
+(2)
+The use of the units specified in Schedule VII or, as the case may be, Schedule VIII, shall be progressively discontinued
+so that no such unit is used in any field (except in the field of scientific and technological research) after the expiry of a
+period of ten years from the commencement of these rules.
+(3)
+While using, for the purpose of scientific and technological research the units specified in Schedule VII, or, as the case
+may be, the Schedule VIII, such units shall be used only with the corresponding symbols specified in the said
+Schedules.
+11.
+Physical constants
+- The physical constants specified in Schedule IX and their corresponding numerical values shall be used for all
+purposes except for the purposes of research connected with determination of their values.
+12.
+Coefficient and symbol
+(1)
+Coefficients include the terms defined and specified in Schedule X; the symbol as-signed to any such coefficient in that
+Schedule shall be the symbol of such coefficient.
+(2)
+Ordinarily, the coefficients and their respective symbols specified in Schedule X shall be used:
+Provided that any coefficient which is not specified in Schedule X but which corresponds to any coefficient specified in
+that Schedule, may be used for a period of five years from the commencement of these rules:
+Provided further where any new coefficient added in Schedule X, any coefficient corresponding to the coefficient so
+Page 4/34
+----- PAGE 5 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+added may be used for a period of five years from the date of addition of such coefficient.
+(3)
+On the expiry of the period of aforesaid five years, the use of coefficient and their respective symbols as specified in
+Schedule X shall be compulsory.
+Explanation.-In the case of a coefficient the use of which is permissible under any of the provisos to sub-rule (2), the
+symbol, if any, attached to such coefficient may also be used for the same period for which the corresponding coefficient
+is permitted to be used.
+13.
+Formation of new units
+- No new unit of weight or measure shall be formed or used except for the purpose of scientific and technological
+research, without the previous approval of the Central Government.
+Chapter III
+National Standards
+14.
+Custody, maintenance, etc., of national standards of weights and measures
+(1)
+The work relating to the realisation, establishment, custody, maintenance, determination, reproduction and updating of
+national standards of weights and measures shall, on the commencement of these rules, be the responsibility of the
+National Physical Laboratory.
+(2)
+The Central Government may call for such reports from, or issue such directions to, the National Physical Laboratory as
+it may think fit, in relation to all or any of the matters specified in sub-rule (1).
+15.
+Realisation and establishment of the national standards of weights and measures based on SI units
+(1)
+;The National Physical Laboratory shall discharge the responsibility of realising and establishing the national standards
+of weights and measures on the basis of recommendations made from time to time, by the General Conference on
+Weights and Measures or the Interna-tional Organisation of Legal Metrology, as the case may be.
+(2)
+;The standards of weights and measures, so realised and established, shall be self-con-sistent.
+(3)
+;For the purpose of establishing the national standards for the base units other than that of mass, the National Physical
+Laboratory shall--
+(a)
+;prepare or cause to be prepared such objects, or equipments, or reproduce such phenomena, or both, as may be
+necessary for the purpose; and
+(b)
+;determine or cause to be determined the values of the national standards as recommended by the General Conference
+on Weights and Measures and intercompare them, or cause them to be intercompared, with the corresponding
+international standards.
+(4)
+;For the purpose of deriving the value of the kilogram, the National Physical Laboratory shall arrange the periodical
+determination of the value of the national prototype of the kilogram in terms of the international prototype of the kilogram
+and the national prototype of the kilogram, the value of which is so determined, shall be the national standard of mass.
+(5)
+;For the purpose of establishing the national standards for the derived and supplemen-tary units, the National Physical
+Laboratory shall prepare such standards, or objects or equip-ments, or both, and determine periodically their values and
+accuracy in relation to the national standards of base units.
+16.
+Custody and maintenance of prototype standards
+(1)
+Page 5/34
+----- PAGE 6 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+;The national prototype of the kilogram and other standards, equipments and objects shall remain in the custody of the
+National Physical Laboratory.
+(2)
+;The national prototype of the kilogram, and every other national standard, standard equipment and object shall be
+maintained and realised periodically in accordance with such instructions as the General Conference on Weights and
+Measures or the International Organisation of Legal Metrology or any organisation constituted by either of them may
+issue from time to time.
+(3)
+;Where no instructions have been issued by the International Organisation referred to in sub-rule (2), any consultative
+committee constituted, may compile instructions for the proper maintenance of national prototype, national standards,
+standard equipment and objects.
+(4)
+;The National Physical Laboratory shall arrange, where necessary, to have the national prototype and national
+standards of physical measurements realised and established in accor-dance with the recommendations of the General
+Conference on Weights and Measures and to get them calibrated or intercompared with reference to the appropriate
+international standards of physical measurements, at periodical intervals of not more than ten years.
+(5)
+;The value of the national prototype and other national standards shall be the value determined by the National Physical
+Laboratory or assigned by the National Physical Labora-tory on the basis of the technical information provided by the
+International Bureau of Weights and Measures. The National Physical Laboratory shall publish such values periodically
+but in any case at least once in every five years.
+(6)
+;The value determined in accordance with sub-rule (5) shall be deemed to represent the highest obtainable accuracy of
+such value in the country.
+Chapter IV
+Reference, Secondary And Working Standards
+17.
+Standards which are to be fabricated by the Mint
+- Unless otherwise specified by the Central Government, all the reference, secondary and working standards of mass
+and length and secondary and working standards of capacity shall be fabricated by the Metrological Wing of the
+Government of India Mint at Bombay.
+18.
+Places where reference, secondary and working standards be kept
+(1)
+;There shall be established by the Central Government, at such places as it may think fit, Reference Standard
+Laboratories for maintaining such reference, secondary and working standards as may be needed by the Central
+Government for the purpose of the Act.
+(2)
+;The Indian Institute of Legal Metrology or any other laboratory specified by the Central Government for this purpose
+may also maintain such reference, secondary and working standards, as may be necessary, for their functioning as a
+metrological laboratory of the level of a Reference Standard Laboratory.
+(3)
+;The Government of India Mint at Bombay may also maintain such reference, secondary and working standards as may
+be necessary for carrying out the work referred to in rule 17.
+19.
+Period and manner of verification of reference, secondary and working standards
+(1)
+;Every reference standard shall be verified and certified in terms of the National Standards by the National Physical
+Laboratory, at an interval not exceeding three years:
+Provided that in the case of length measures such interval shall not exceed five years.
+(2)
+Page 6/34
+----- PAGE 7 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+;Every secondary standard shall be verified against the appropriate reference standard by the Reference Standard
+Laboratory, at an interval not exceeding two years.
+(3)
+;Every working standard shall be verified against the appropriate secondary standard, by any of the laboratories where
+secondary standards are maintained, at an interval not exceeding one year.
+20.
+Maintenance of reference, secondary and working standards
+- Every reference standard, every secondary standard and every working standard, irrespec-tive of the place where they
+are kept, shall be maintained as far as practicable in accordance with the guidelines issued by the National Physical
+Laboratory from time to time.
+I
+Supplementary Units And Their Symbols
+(See rule 4)
+1. Units of plane angle. - The unit of plane angle shall be the radian (symbol: rad)
+The radian is the plane angle between two radii of a circle which cut off, on the circumference, an arc equal in length to
+the radius.
+2. Unit of solid angle.-The unit of solid angle shall be the steradian. (Symbol: sr)
+The steradian is the solid angle which, having its vertex in the centre of a sphere, cuts off an area of the surface of the
+sphere equal to that of a square with sides of length equal to the radius of the sphere.
+II
+(See rule 5)
+Derived Units And Their Symbols
+Part I ? Derived Units In Relation To Space And Time
+1. Unit of area.-The unit of area shall be the square metre. (Symbol: m2)
+The square metre is the area of a square with sides of one metre each.
+2. Unit of volume. - The unit of volume shall be the cubic metre (Symbol: m2)
+The cubic metre is the volume of a cube with sides of one metre each.
+3. Unit of frequency. - The unit of frequency shall be the hertz. (Symbol: Hz)
+The hertz is the frequency of a periodic phenomenon, the period of which is one second,
+1 Hz=
+1
+=s-1
+1s
+4.
+Unit of angular velocity. - The unit of angular velocity shall be the radian per second. (Symbol: rad/s)
+The radian per second is the angular velocity of a body, rotating around a fixed axis, which rotates through one radian in
+one second, when set in uniform rotation.
+5.
+Unit of angular acceleration.- The unit of angular acceleration shall be the radian per second squared.
+(Symbol: rad/s2)
+The radian per second squared is the angular acceleration of a body, rotating around a fixed axis, which when set into a
+uniformly varying rotation, changes angular velocity at the rate of one radian per second in one second.
+6. Unit of speed and velocity.-The unit of speed and velocity shall be the metre per second.
+(Symbol: m/s or ms-1)
+The metre per second is the velocity (speed) of a body in motion which traverses a distance of one metre in one second
+when set in uniform motion.
+7. Unit of acceleration.-The unit of acceleration shall be the metre per second squared.
+(Symbol: m/s2 of ms-2)
+The metre per second squared is the acceleration of a body in motion which, when set in a uniformly varying motion,
+changes its velocity at the rate of one metre per second in one second.
+8. Unit of rotational frequency.-The unit of rotational frequency shall be the second raised to the power minus one.
+Page 7/34
+----- PAGE 8 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+(Symbol:s-1)
+The second raised to the power minus one is the rotational frequency of a uniform rotatory movement which produces
+one complete revolution in one second.
+Note 1.-This unit is also called: revolutions per second.
+Note 2.-The unit "revolutions per minute" may also be used.
+9. Unit of wave number.- The unit of wave number shall be the metre raised to the power minus one.
+(Symbol: m-1)
+The metre raised to the power minus one is the number of waves of a monochromatic radiation which can be
+accommodated, in the direction of its propagation, in a length equal to one metre.
+10. Unit of vergency of optical system.-The unit of vergency of optical system shall also be the metre raised to the power
+minus one.
+(Symbol: m-1)
+The metre raised to. the power minus one is the vergency of an optical system, the focal distance of which is one metre
+in a medium having unit refractive index.
+Note 1.-This unit is also called "per metre" or "dioptre".
+Note 2.-The metre raised to the power minus one with symbol m' is the unit of wave number as well as that of vergency
+of optical system. The context in which the said unit is used will indicate whether the unit relates to the wave number or
+vergency of optical system.
+Part II
+Derived Units In Relation To Mechanics
+1. Units of density and mass density.-The unit of density and mass density shall be the kilogram per cubic metre.
+(Symbol: kg/m3 or kg m-3)
+The kilogram per cubic metre is the density or mass density of a homogeneous body having a mass of one kilogram and
+a volume of one cubic metre.
+2. Unit of concentration.-The unit of concentration shall be the kilogram per cubic metre.
+(Symbol: kg/m3 or kg m-3)
+The kilogram per cubic metre is the concentration of a homogeneous solution having a total volume of one cubic metre
+and containing a mass of one kilogram of the given substance.
+3. Unit of force.-The unit of force shall be the newton
+(Symbol: N)
+The newton is the force which gives to a mass of one kilogram an acceleration of one metre per second squared.
+1N.
+=1kg Im/s2=1kg ms-2
+4. Unit of moment of force.-The unit of moment of force shall be the metre newton.
+(Symbol: N. m)
+The metre newton is the moment of force produced in a body by a force of one newton acting at a perpendicular
+distance of one metre from the fixed axis around which the body turns.
+1N.
+m=1m2kg.s-2
+Note.-The unit of moment of force shall not be written as joule (J) just because it is N. m.
+5. Unit of pressure.-The unit of pressure shall be the pascal.
+(Symbol: Pa)
+The pascal is the pressure which, acting on a plane surface of one square metre exerts on that area a total force of one
+newton.
+1 Pa
+IN
+or 1 Nm-2= 1 kg m-1s-2
+m2
+6. Unit of tensile strength.-The unit of tensile strength shall be the mega pascal.
+(Symbol: MPa or MN/m2)
+The tensile strength is the highest force, when applied normal to the cross section of a test piece which it can withstand,
+Page 8/34
+----- PAGE 9 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+divided by the original area of the cross-section.
+7. Unit of dynamic viscosity.-The unit of dynamic viscosity shall be the pascal second.
+(Symbol: Pa. s)
+The pascal second is the dynamic viscosity of a homogenous liquid in which the straight and uniform movement of a
+plane surface of one square metre produces a retarding force of one newton, when there is a velocity difference of one
+metre per second between two parallel planes separated by one metre.
+1 Pa.s = 1
+Pa.m2
+m-1kgs-1
+ms-1.m
+8. Unit of kinematic viscosity.-The unit of kinematic viscosity shall be the square metre per second.
+(Symbol: m2/s or m2.s-1)
+The square metre per second is the kinematic viscosity of a liquid which has a dynamic viscosity of one pascal second
+and a density of one kilogram per cubic metre.
+1 m2
+=
+1Pa/1s
+1s
+1 kg/m3
+9. Unit of surface tension. - The unit of surface tension shall be the newton per metre.
+(Symbol: N/m)
+The newton per metre is the surface tension produced when a force of one newton acts over a length of one metre on
+the surface of a liquid separating the liquid from the material surrounding it.
+10. Unit of work, energy and quantity of heat.-The unit of energy, work and quantity of heat shall be the joule.
+(Symbol: J)
+The joule is the work done when the point of application of force of one newton moves a distance of one metre in the
+direction of the force.
+1J.
+=1N.1m
+11. Unit of power, radiant flux and heat flux.-The unit of power, radiant flux and heat flux shall be the watt.
+(Symbol: W)
+The watt is the power of an energy system in which one joule of energy is uniformly transferred in one second.
+1W.
+=1J/1s=1Js-1
+12. Unit of volume flow.-The unit of volume flow shall be the cubic metre per second.
+(Symbol : m3/s or m3s-1)
+The cubic metre per second is the volume delivered by the uniform discharge of one cubic metre traversing the given
+cross-section in one second.
+13. Unit of mass flow.-The unit of mass flow shall be the kilogram per second.
+(Symbol : kg/s or kg. s-1)
+The kilogram per second is the mass delivered by the uniform discharge of a mass of one kilogram traversing the given
+cross-section in one second.
+14. Unit of specific volume.-The unit of specific volume shall be the cubic metre per kilogram.
+(Symbol : m3/kg)
+The cubic metre per kilogram is the specific volume of a homogeneous body having a volume of one cubic metre and a
+mass of one kilogram.
+Part III ? DERIVED UNITS IN RELATION TO HEAT
+1.
+Unit of entropy.-The unit of entropy shall be the joule per kelvin.
+(Symbol : J /K)
+The joule per kelvin is the increase of entropy of a system receiving a quantity of heat equal to one joule at the constant
+Page 9/34
+----- PAGE 10 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+thermodynamic temperature of one kelvin, provided that no irreversible change takes place in the system.
+2.
+Unit of specific entropy.-The unit of specific entropy shall be the joule per kilogram kelvin.
+[Symbol : J/(kg.K)]
+The joule per kilogram kelvin is the specific entropy of a system of homogeneous mass of one kilogram receiving a
+quantity of heat equal to one joule at the constant thermodynamic temperature of one kelvin, provided that no
+irreversible change takes place in the system.
+3.
+Unit of heat capacity.-The unit of heat capacity shall be the joule per kelvin.
+(Symbol : J/K)
+The joule per kelvin is the heat capacity of a homogeneous body in which a quantity of heat equal to one joule produces
+an increase of one kelvin in the thermodynamic temperature.
+4.
+Unit of specific heat capacity.-The unit of specific heat capacity shall be the joule per kilogram kelvin.
+[Symbol : J/(kg.K)]
+The joule per kilogram kelvin is the specific heat capacity of a homogeneous body having a mass of one kilogram in
+which quantity of heat equal to one joule produces an increase of one kelvin in the thermodynamic temperature.
+5.
+Unit of latent heat.-The unit of latent heat shall be the joule per kilogram.
+(Symbol : J/kg)
+The joule per kilogram is the specific energy of a system of homogeneous mass of one kilogram having the internal
+energy of one joule.
+6.
+Unit of specific energy.-The unit of specific energy shall be the joule per kilogram
+[Symbol : J/kg]
+The joule per kilogram is the heat exchanged by one kg of substance to change from one phase to another at the
+temperature of its changing phase.
+7.
+Unit of thermal conductivity.-The unit of thermal conductivity shall be the watt per metre kelvin.
+[Symbol: W/(m.K)]
+The watt per metre kelvin is the thermal conductivity of a homogeneous body in which a difference of one kelvin in the
+thermodynamic temperature produces a radiant flux of one watt between two parallel planes, each having an area of
+one square metre, placed one metre apart.
+1 W/m.K
+=
+1w/m2
+1k/1m
+8.
+Unit of energy density.-The unit of energy density shall be the joule per cubic metre.
+(Symbol : J/m3)
+The joule per cubic metre is the energy density of a system of homogeneous mass of volume one cubic metre and
+having the radiant energy of one joule.
+9.
+Unit of heat flux density.-The unit of heat flux density shall be the watt per square metre.
+(Symbol : W/m2)
+The watt per square metre is heat flux density of a surface of one square metre in area radiating out energy at the rate
+of one joule per second.
+Part IV ? Derived Units In Relation To Electricity And Magnetism
+1.
+Unit of quantity of electricity and electric charge.-The unit of quantity of electricity and electric charge shall be the
+coulomb.
+Page 10/34
+----- PAGE 11 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+(Symbol : C)
+The coulomb is the quantity of electricity carried in one second by a current of one ampere.
+1C.
+=1A.1s
+2. Unit of electric charge density.-The unit of electric charge density shall be the coulomb per cubic metre.
+(Symbol : C/m3)
+The coulomb per cubic metre is the electric charge density of a homogeneous mass or system of volume one cubic
+metre and having a charge of one coulomb.
+3.
+Unit of electric flux density.-The unit of electric flux density shall be the coulomb per square metre.
+(Symbol : C/m2)
+The coulomb per square metre is the electric flux density when a condenser, having plates of infinite area/size, parallel
+to each other, is charged, in vacuum, with a quantity of electricity equal to one coulomb per one square metre of area of
+the plates.
+4.
+Unit of electric tension, electric potential and electromotive force.-The unit of electric tension, electric potential and
+electromotive force shall be the volt.
+((Symbol : V)
+The volt is the potential difference between two points of a conducting wire carrying a constant current of one ampere,
+when the power dissipated between these points is equal to one watt.
+1V =
+1W
+1A
+5.
+Unit of electric field strength.-The unit of electric field strength shall be the volt per metre.
+(Symbol : V/m)
+The volt per metre is the electric field strength of an electric field which produces a forte equal to one newton in a body
+charged with a quantity of electricity equal to one coulomb.
+1V
+=
+1N
+1m
+1C
+6.
+Unit of electric resistance.-The unit of electric resistance shall be the ohm
+(Symbol: ?)
+The ohm is the electric resistance'between two points of a conductor when a constant potential difference of one volt,
+applied to these points, produces in the conductor a current of one ampere, the conductor not being the seat of any
+electromotive force.
+1? =
+1V
+1A
+7.
+Unit of conductance.-The unit of conductance shall be the siemens.
+(Symbol : S)
+The siemens is the conductance of a conductor having a resistance of one ohm.
+1S.
+=1/?
+=1?-1
+8.
+Unit of capacitance.-The unit of capacitance shall be the farad
+Page 11/34
+----- PAGE 12 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+(Symbol : F)
+The farad is the capacitance between the conductors of a capacitor across which there appears a potential difference of
+one volt when it is charged by a quantity of electricity of one coulomb.
+1F =
+1C
+=1C/1V
+1V
+9.
+Unit of permittivity.-The unit of permittivity shall be the farad per metre.
+(Symbol : F/m)
+The farad per metre is the permittivity of the medium which gives a capacitance of one farad per square metre of area of
+two parallel plates separated by a distance of one metre.
+10.
+Unit of inductance.-The unit of inductance shall be the henry.
+(Symbol : H)
+The henry is the inductance of a closed circuit in which an electromotive force of one volt is produced when the electric
+current in the circuit varies uniformly at the rate of one ampere per second.
+1H =
+V
+=
+1VsA-1
+A/s
+11.
+Unit of permeability.-The unit of permeability shall be the henry per metre.
+(Symbol : H/m)
+The henry per metre is the permeability of a material surrounded by a single turn 'of flat sheet conductor including an
+area of one square metre and length one metre which gives an inductance of one henry.
+12.
+Unit of magnetic flux and flux of magnetic induction.-The unit of magnetic flux and flux of magnetic induction shall be the
+weber.
+(Symbol : Wb)
+The weber is the magnetic flux which, linking a circuit of one turn, would produce in it an electromotive force of one volt if
+it were reduced to zero at a uniform rate in one second.
+1. Wb/s=1 V,i.e.,1 Wb=1 Vs
+13.
+Unit of magnetic induction and magnetic flux density.-The unit of magnetic induction and magnetic flux density shall be
+the tesla.
+(Symbol : T)
+The tesla is the uniform magnetic induction which, distributed evenly over a surface of one square metre, produces a
+total magnetic flux of one weber while passing over the surface.
+1T =
+1Wb
+1Wb.m-2
+1m2
+14.
+Unit of magnetic field strength.-The unit of magnetic field strength shall be the ampere per metre
+(Symbol : A/m or A.m-1)
+The ampere per metre is the magnetic field strength produced in vacuum along the surface of a circular cylinder with a
+circumference of one metre, by a current of intensity of one ampere, maintained in a straight conductor of infinite length,
+of negligible circular cross-section, which forms the axis of the said cylinder.
+15.
+Page 12/34
+----- PAGE 13 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Unit of current density.-The unit of current density shall be ampere per square metre.
+(Symbol : A/m2)
+The ampere per square meter is the current density in a linear conductor when a current of intensity one ampere flows
+uniformly through a cross-section of the conductor equal to one square metre, perpendicular to the direction of flow of
+the current.
+Part V ? Derived Units In Relation To Electromagnetic Radiation And Light
+1.
+Unit of radiant intensity.-The unit of radiant intensity shall be the watt per steradian.
+(Symbol: W/sr)
+The watt per steradian is the radiant intensity of a point source uniformly emitting a radiant flux of one watt within a solid
+angle of one steradian.
+2.
+Unit of irradiance.-The unit of irradiance shall be the watt per square metre.
+(Symbol: W/m2)
+The watt per square metre is the irradiance produced by a radiant flux of one watt, distributed uniformly over an element
+having a surface of one square metre.
+[See also (1) above]
+3.
+Unit of radiance.-The unit of radiance shall be the watt per square metre steradian.
+(Symbol : W/m2. sr)
+The watt per square metre steradian is the radiance of a source radiating one watt per steradian per square metre of
+projected area.
+4.
+Unit of luminance.-The unit of luminance shall be the candela per square metre.
+(Symbol : Cd/m2)
+The candela per square metre is the luminance perpendicular to the plane surface of one square metre of a source, the
+luminous intensity of which perpendicular to this source, is one candela.
+5.
+Unit of luminous flux.-The unit of luminous flux shall be the lumen.
+(Symbol: lm)
+The lumen is the luminous flux emitted in a solid angle of one steradian by a uniform point source having a luminous
+intensity of one candela.
+lm =1 Cd. sr
+6.
+Unit of illuminance
+The unit of illuminance shall be the lux
+(Symbol : lx)
+The lux is the illuminance produced by a luminous flux of one lumen, uniformly distributed over a surface of area one
+square metre.
+1 lx = 1
+1 lm
+1 lm.m-2
+1m2
+Part VI ? Derived Unit In Relation To Ionising Radiations
+1.
+Unit of activity (radioactivity).-The unit of activity (of a radioactive source) shall be the becquerel
+(Symbol : Bq)
+The becquerel is the activity of a radioactive source in which one transformation or one transition takes place in one
+second.
+1Bq.
+=1/.1.s=1s-1
+Page 13/34
+----- PAGE 14 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+2.
+Unit of absorbed dose.-The unit of absorbed dose shall be gray which is equivalent to one joule per kilogram
+(Symbol : Gy)
+The gray is the dose absorbed in an element of substance of mass one kilogram to which an energy of one joule is
+communicated by an ionising radiation, having a constant density of radiant flux.
+1Gy.
+=1J/1 kg = 1J.kg-1
+Part VII ? Derived Units In Relation To Physical Chemistry And Molecular Physics
+1.
+Unit of concentration (of amount of substance).-The unit of concentration (of amount of substance) shall be the mole per
+cubic metre.
+(Symbol : mol/m3)
+The mole per cubic metre is the concentration of a homogeneous solution having a total volume of one cubic metre and
+containing one mole of the given substance.
+2.
+Unit of molar energy.-The unit of molar energy shall be the joule per mole.
+(Symbol : J/mol)
+The joule per mole is the molar energy of one mole of substance having the energy of one joule.
+3.
+Unit of molar entropy.-The unit of molar entropy shall be joule per mole kelvin.
+(Symbol : J/mol K)
+The joule per mole kelvin is the molar entropy of a system of homogeneous mass having a substance equal to one mole
+receiving a quantity of heat equal to one joule at the constant thermodynamic temperature of one kelvin provided that no
+irreversible change takes place in the system.
+4. Unit of molar heat capacity.-The unit of molar heat capacity shall be the joule per mole kelvin.
+(Symbol : J/mol.K)
+The joule per mode kelvin is the molar heat capacity of a homogeneous body having an amount of substance equal to
+one mole, in which a quantity of heat equal to one joule produces an increase of one kelvin in the thermodynamic
+temperature.
+III
+Names, Magnitudes And Symbols Of Si Prefixes And Principles Of Use Of Si Prefixes
+(See rule 6)
+1. Name, magnitudes and symbols of SI prefixes. - The names of prefixes, their magnitudes and symbols shall be as
+given in Table I
+TABLEI
+Name of prefixes, their magnitudes and symbols
+Name of prefix
+Magnitude of prefix
+Symbol of prefix
+exa
+1018
+E
+peta
+1015
+P
+tera
+1012
+T
+giga
+109
+G
+Page 14/34
+----- PAGE 15 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+mega
+106
+M
+kilo
+103
+k
+hecta
+102
+h
+Deca
+101
+da
+deci
+10-1
+d
+centi
+10-2
+c
+mili
+10-3
+m
+micro
+10-6
+µ
+nano
+10-9
+n
+pico
+10-12
+p
+femto
+10-15
+f
+atto
+10-18
+a
+Explanation.-The unit of length is metre with symbol m : after adding a prefix 'c' for centi we get "cm" as new unit symbol.
+This can be raised to a positive exponent 3 to give the unit of volume. Similarly this can be combined with another unit
+say 'kg' and by giving it negative exponent 3 to indicate density in kg per cm3
+Kg/cm3=
+kg
+= 106kg/m3
+10-6m3
+Similarly g/cm3= 1000 kg/m3
+2. Symbol how to be combined with units.-(a) The symbol of the prefix shall be placed before the unit symbol without
+any intermediary space or dot; (b) The combination shall form the symbol of the multiple and sub-multiple of the unit; (c)
+The symbol for the prefix shall be considered to be combined with the symbol of the unit to which it is directly linked
+together, forming a new unit symbol, which can be combined with other unit symbols to form composite unit symbols.
+3. Errors how to be avoided.-To avoid errors in calculations, all quantities shall be expressed in SI units, and powers of
+10 shall be used.
+4. Exponents.-An exponent affixed to a symbol containing a prefix indicates that the multiple or sub-multiple of the unit is
+Page 15/34
+----- PAGE 16 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+raised to the power expressed by the exponent.
+Illustration:
+1cm.
+=102m gives 1cm3=10-6m3 and 1cm-1 =102m-1
+5. Compound units how to be formed.-Only one prefix shall be used in forming the multiples of a compound unit, and
+compound prefixes shall not be used.
+Illustration:
+Write nm (nano metre), instead of m  m.
+6. Use of prefixes with unit of mass.-Notwithstanding that the base unit of mass contains a prefix, names of decimal
+multiples and sub-multiples of the unit of mass shall be formed by attaching prefixes to the word gram.
+Illustration
+Write milligram (mg) but not microkilogram (µkg)
+7. Printing: (1) Symbols of units,
+(a)
+shall be printed in roman (upright) type irrespective of the type used in the rest of the text;
+(b)
+shall remain unaltered in the plural;
+(c)
+shall be written, without a final full stop (period) unless the context otherwise requires; and
+(d)
+shall be placed after the complete numerical value in the expression for a quantity, leaving a space between the
+numerical value and the unit.
+(2)
+The symbols for units of weight or measure shall be printed in lower case letters except that the first letter shall be
+printed in upper case when the name of the unit is derived from a proper name.
+Illustration:
+m-metre
+A-ampere
+Wb-weber
+8. Multiplication of units.-(1) When a compound unit is formed by multiplication of twoor more units, the multiplication
+may be indicated in one of the following ways;
+M. N, N. m, Nm
+(2)
+In using a symbol of a unit of weight or measure which coincides with the symbol for a prefix, special care shall be taken
+to avoid confusion.
+Illustration:
+The unit "newton metre" shall be written Nm or m.N to avoid confusion with mN, the millinewton
+9. Division of units.-(l) When a compound unit is formed by dividing one unit by another the division shall he indicated in
+one of the following ways:
+m/s or by writing the product of m and s-1 as ms-1
+(2)
+The letter p shall not be used to denote division.
+Illustration:
+Do not write kmph, write km/h or km.h-1
+(3)
+In no case shall more than one solidus (oblique stroke) on the same line be included in such a combination unless
+parentheses are inserted to avoid ambiguity.
+Illustration:
+Write m/s2 or m.s-2 but not m/s/s
+(4)
+In complicated cases, negative powers or parantheses shall be used.
+Page 16/34
+----- PAGE 17 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Illustration:
+Write m.kg/(s3.A) or m.kg.s-3.A-1 but not m.kg/s3/A:
+10. Expression of results.-(1) The appropriate integral multiple and sub-multiple to which a unit is to be expressed shall
+be selected in such a manner that the numerical value to be expressed is between 0.1 and 1000.
+Illustration:
+1.2
+x 10"N may be written as 12 kN
+0.00394m
+may be written as 3.94 mm
+1401.
+Pa may be written as 1.401 kPa
+3.1
+x 10 8s may be written as 31 ns
+(2)
+In a table of values for the same quantity or in a discussion of such values within a given context the same integral
+multiple or sub-multiple of a unit may be used for all items, even when some of the numerical values may be outside the
+range of 0.1 to 1000.
+(3)
+For the purpose of expression of dimensions in mechanical engineering drawings, only the millimetre shall be used.
+11. Expression of numbers.-(1) To express numbers in connection with units of weights and measures, the dot shall be
+used to separate the integral part of numbers from the decimal part.
+(2)
+Numbers shall be divided in groups of three starting from the decimal point in order to facilitate reading and neither dots
+nor commas, shall be inserted in the space between such group of numbers.
+Illustration:
+Write 3 211468.022 82
+not 3.211.468.022.82
+or 3,211,468.022.82
+IV
+Units Permitted To Be Used With Base, Supplementary Or Derived Units
+(See rule 7)
+1. Permitted units of time.-(1) The permitted units in relation to time shall be as follows, namely,
+(a)
+(i)
+the minute, equal to 60 seconds (symbol : min),
+(ii)
+the hour, equal to 3600 seconds or 60 minutes (symbol : h), and
+(iii)
+the day, equal to 86 400 seconds or 24 hours (symbol : d)
+(b)
+The week, month and year shall correspond to the Saka Calendar or the Gregorian Calendar.
+2. Permitted units of plane angle.-The permitted units in relation to plane angle shall be as follows, namely,
+(i)
+the degree, equal to 7c / 180 radian (symbol : °),
+(ii)
+The minute, equal to 7t/10800 radian or (1 /60)° (symbol : '), and
+(iii)
+the second equal to it/648000 radian or (1 /60)', (symbol : ")
+3. Permitted unit of volume.-(1) The permitted unit of volume shall be the litre (symbol :1). The litre shall be equal to one
+thousandth part of the cubic metre.
+11.
+Page 17/34
+----- PAGE 18 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+=1dm3 = 10-3m3
+(2)
+The litre shall not be used for work involving precise measurements.
+4. Permitted unit of mass.-(1) The permitted unit of mass shall be the tonne.
+(Symbol: t)
+The.tonne is equal to 1000 kilograms.
+(2)
+Only the prefixes "kilo" "mega", "giga" and "tera" specified in Schedule III may be used with the tonne.
+V
+Special Units And Their Symbols
+(See rule 8)
+1. Special unit of energy.-The special unit of energy acquired by an electron shall be the electron volt.
+(Symbol : eV)
+The electron volt is the energy acquired by an electron in passing through a potential difference of one volt in vacuum.
+1eV.
+=1.60217733x10-19J
+2. Special unit of atomic mass.-The special unit of mass of an atom shall be the unified atomic mass unit.
+(Symbol : u)
+The unified atomic mass unit is equal to the fraction 1/12 of the mass of an atom of the nucleus 12C
+1u.
+=1.660540 2x10-27kg.
+3. Special units of stellar distance.-(1) The first special unit of stellar distance shall be the astronomical unit.
+(Symbol : AU)
+The astronomical unit of distance is the length of the radius of the unperturbed circular orbit of a body of negligible mass
+moving round the Sun with a sidereal angular velocity of 0.017202098950 radian per day of 86400 ephermeris seconds.
+IAU=14960x106m
+Note.-The symbol for stellar distance is not internationally uniform, for example the symbol used for stellar distance is
+UA in France, AU in England and AE in Germany.
+(2)
+The second special unit of stellar distance shall be the persec (symbol: pc)
+The persec is the distance at which one astronomical unit substands an angle of one second of arc.
+1. pc=206 265 AU
+= 30 857 x 1012m.
+VI
+Temporarily Accepted Units
+(See rule 9)
+1. Unit of nautical distance.-The unit of distance for use in marine and aerial navigation shall be the nautical mile. The
+nautical mile is equal to a distance of 1852 metres.
+2. Unit of nautical velocity.-The unit of velocity for use in marine and aerial navigations shall be the knot. The knot is the
+velocity equal to one nautical mile per hour.
+1. knot = (1852/3600) m/s, i.e., 0.514444 m/s.
+3. Unit of wavelength of light.-(1) The unit of wavelength of light shall be the angstrom.
+(Symbol : A)
+The angstrom is equal to 0.1 nanometre.
+1A.
+=0.1nm=10-10m
+4. Units of land measurement.-(1) The first unit for measurement of land area shall be the "are"
+(Symbol : a)
+The "are" is the area of a square with sides of length 10 metres.
+Ia=1dam2=102m2
+(2)
+Page 18/34
+----- PAGE 19 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+The second unit for measurement of land area shall be the hectare. (Symbol : ha)
+The hectare is the area of a square with sides of length 100 metres.
+I ha = 1hm2=104m2
+(3)
+The prefixes specified in Schedule III shall not be used with the "are" or hectare.
+5. Unit of nuclear cross-section.-The unit of nuclear cross-section shall be the barn.
+(Symbol : b)
+The barn is the nuclear cross-section area equal to 100 square femtometres.
+1. b =10-28 m2
+6. Unit of pressure of fluid.-The unit of pressure of fluid shall be the bar (Symbol: bar)
+The bar shall be equal to 100 000 pascals.
+7. Unit of standard atmosphere.-The unit of standard atmosphere shall be 101325 pascals.
+The standard atmosphere is the pressure exerted by air at mean sea level under the standard conditions specified by
+the General Conference on Weights and Measures.
+8. Special unit of acceleration due to gravity.-The special unit of acceleration due to gravity for use in geodesey and
+geophysics shall be the gal (Symbol : Gal).
+The gal is equal to 1 / 100 metre per second square.
+9. Unit of activity of radio-nuclides.-The unit of activity of radionuclides shall be the curie.
+(Symbol : Ci)
+The curie is the quantity of any radioactive nuclide in which the number of disintegrations per second is
+3.7x1010or
+1. Ci = 3.7 x 1010 Bq
+10. Unit of exposure dose.-The unit of exposure dose shall be the rontgen.
+(Symbol : R)
+The rontgen is the exposure dose of an ionising radiation which can produce in a quantity of air having a mass of one
+kilogram, ions of the same sign carrying a total charge 2.58 x 10-4 coulomb, the density of energy flux being the same
+throughout the quantity of air taken.
+R=2.58 x 10-4C/kg
+11. Unit of velocity.-The unit of velocity will be kilometre per hour.
+(Symbol : km/h)
+The kilometre per hour is the velocity of a body in motion which when set in a uniform motion, traverses a distance of
+one kilometre in one hour.
+12. Unit of mass of special value.-The unit of mass of special value shall be the carat.
+(Symbol : c)
+The carat is equal to five thousandth part of the kilogram. It shall be used for commercial transactions in diamonds,
+pearls and precious stones.
+1c.
+=200 mg
+13. Unit of mass for special use.-The unit of mass for special use shall be the quintal (symbol : q)
+The quintal is equal to 100 kilograms. The quintal may be used in large commercial transactions in food grains, farm
+produce and other consumer commodities.
+VII
+C.G.S.Units With Special Names
+(See rule 10)
+Name of unit
+Symbol
+Value in terms of base, supplementary or derived units
+(1)erg
+erg
+1 erg
+= 10-7J
+Page 19/34
+----- PAGE 20 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+(2)dyne
+dyn
+1 dyn
+= 10-5N
+(3)poise
+p
+1 P =
+1 dyn.s/cm2= 0.1 Pa.s
+(4)stokes
+st
+1 st
+= 1cm2/s = 10-4m2/s
+(5)gauss
+Gs, G
+1 Gs=
+10-4T
+(6)Oersted
+Oe
+1 Oe =
+1000
+A
+4?
+m
+(7)maxwell
+Mx
+1 Mx
+= 10-8Wb
+(8)stilb
+sb
+Sb =
+1 cd/cm2= 104cd/m2
+(9)phot
+ph
+1 ph
+= 1041x
+VIII
+Units Outside The International System
+(See rule 10)
+Name of unit
+Value in terms of base, supplementary or derived units
+(1)fermi
+1
+fermi = 1m = 10-15m
+(2)torr
+1torr
+=
+101 325
+Pa
+760
+(3)Kilogram-force
+(kgf)
+Page 20/34
+----- PAGE 21 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+1 kgf
+= 9.806 65 N
+(4)Calorie (cal)*
+1 ca
+= 4.186 8 J
+(5)Micron(µ)
+1 µ -
+1 µm = 10-6m
+(6)X unit**
+1 X unit = 1.002 x 10-4nm approximately
+(7)stere (st)***
+1 st
+= 1m3
+(8)gamma (y)
+1Y =
+1 nT = 10-9T
+(9)Y
+1Y =1µg
+= 10-9kg
+(10)?
+1 ?
+= 1 µl = 10-61 = 10-9m3
+*This value is that of that `IT' calorie (5th Internaional Conference on Properties of Steam, London, 1956).
+**This special unt was employed to express wavelenghts of X-rays
+***This special unit was used to measure firewoiod.
+IX
+Important Physical Constants
+(See rule 11)
+Quantity
+Symbol
+Value
+Units
+Relative uncertainty (ppm)
+GENERAL CONSTANTS
+Universal constants
+Speed of light in vacuum
+c
+299792.458
+ms-1
+(exact)
+Permeability of vacuum
+µo
+4? x 10-7
+NA-2
+(exact)
+=12,566370614..
+10-7NA-2
+Permittivity of vacuum
+Eo
+1µoc2
+10-12Fm-1
+Page 21/34
+----- PAGE 22 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+(exact)
+=8.854187817
+Newtonian constant of gravitation
+G
+6.67259(85)
+10-11m3kg-1s-2
+128
+Planck constant
+h
+6.6260755(40)
+10-34Js
+0.60
+in electron volts h/{e}
+4.1356692(12)
+10-15eVs
+0.30
+h/2?
+h
+1.05457266(63)
+10-34Js
+0.60
+In electron volts, h/{e}
+6.5821220(20)
+10-16eVs
+0.30
+Planck mass, (hc/G)1/2
+mp
+2.17671(14)
+10-8kg
+64
+Planck length, h/mpc = (hG/C3)1/2
+1p
+1.61605(10)
+10-33m
+64
+Planck time 1p/c = (hG/c5)1/2
+tp
+5.39056(34)
+10-44s
+64
+ELECTROMAGNETIC CONSTANTS
+Elementary charge
+e
+1.60217733(49)
+10-19C
+0.30
+e/h
+2.41798836(72)
+1014AJ-1
+0.30
+Magnetic Flux quantum, h/2e
+Page 22/34
+----- PAGE 23 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+?o
+2.06783461(61)
+10-15Wb
+0.30
+Josephoson frequency-voltage ratio
+2e/h
+4.8359767(14)
+1014HzV-1
+0.30
+Quantized Hall conductance
+e2/h
+3.87404614(17)
+10-5S
+0.045
+Quantized Hall resistance, h/e2= ½ (muo c/L)
+Rh
+25812.8056(12)
+?
+0.045
+Bohr magneton, eh/2me
+µB
+9.2740154(31)
+10-24JT-1
+0.34
+In electron volts, µB/{e}
+5.78838263(52)
+10-5eVT-1
+0.089
+In hertz, µB/h
+1.39962418(42)
+10101HzT-1
+0.30
+In wavenumbers, µB/hc
+46.686437(14)
+m-1T-1
+0.30
+in kelvins, µB/hc
+0.6717099(57)
+KT-1
+8.5
+Nuclear magneton, eh/2m
+µN
+5.0507866(17)
+10-27JT-1
+0.34
+In electron volts, µN/{e}
+3.15245166(28)
+10-8eVT-1
+0.089
+In hertz, µN/h
+7.622914(23)
+Page 23/34
+----- PAGE 24 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+MHzT-1
+0.30
+In wavenumbers, µN/hc
+2.54262281(77)
+10-2m-1T-1
+0.30
+In kelvins, µN/k
+3.658246(31)
+10-4KT-1
+8.5
+ATOMIC CONSTANTS
+Fine structure constant, ½ µoce2/h
+?
+7.29735308(3)
+10-3
+0.045
+Inverse fine structure constant
+?-1
+137.0359895(61)
+0.045
+Rydberg constant,1/2 mec?2/h
+R?
+10973731.534(13)
+m-1
+0.0012
+In hertz, R?c
+3.2898419499(39)
+1015Hz
+0.0012
+In joules, R?hc
+2.1798741(13)
+10-18J
+0.60
+In eV, R?hc/{e}
+13.6056981(40)
+eV
+0.30
+Bohr radius,?/4?R?
+?o
+0.529177249(24)
+10-10m
+0.045
+Hartree energy,e2/4€o?o= 2R?hc
+Eh
+4.3597482(26)
+10-18J
+0.60
+In eV, Eh/{e}
+27.2113961(81)
+eV
+0.30
+Page 24/34
+----- PAGE 25 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Quantum of circulation
+h/2me
+3.63694807(33)
+10-4m2s-1
+0.089
+h/me
+7.27389614(65)
+10-4m2s-1
+0.089
+ELECTRON
+Electron mass
+me
+9.1093897(54)
+10-31kg
+0.59
+5.48579903(13)
+10-4u
+0.023
+In electron volts, mec2/{e}
+0.51099906(15)
+MeV
+0.30
+Electron-muon mass ratio
+me/mµ
+4.83633218(71)
+10-3
+0.15
+Electron proton mass ratio
+me/mp
+5.44617013(11)
+10-4
+0.020
+Electron deuteron mass ratio
+me/md
+2.72443707(6)
+10-4
+0.020
+Electron-?-particle mass ratio
+me/m?
+1.37093354(3)
+10-4
+0.021
+Electron specific charge
+-e/me
+-1.75881962(53)
+1011Ckg-1
+0.030
+Electron molar mass
+M(e). Me
+5.48579903(13)
+10-7kg/mol
+Page 25/34
+----- PAGE 26 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+0.023
+Compton wavelength, h/mec
+?C
+2.42631058(22)
+10-12m
+0.089
+?C/2?  = ?ao= ?2/4?R?
+?C
+3.86159323(35)
+10-13m
+0.089
+Classical electron radius ?2ao
+re
+2.81794092(38)
+10-15m
+0.13
+Thomson cross section (8?/3)r2e
+?e
+0.66524616(18)
+10-23m2
+0.27
+Electron magnetic moment
+µe
+928.47701(31)
+10-26JT-1
+0.34
+In Bohr magnetons
+µe/µB
+1.001159652193(10)
+1 x 10-5
+In nuclear magnetons
+µe/µN
+1838.282000(37)
+0.020
+Electron magnetic moment anomaly, µe/µB-1
+?e
+1.159652193(10)
+10-3
+0.0086
+Electron g-factor, 2(1 + ?€)
+ge
+2.002319304386(20)
+1 x 10-5
+Electron-muon magnetic moment ratio
+µe/µµ
+206.766967(30)
+0.15
+Electron-proton magnetic moment ratio
+µe/µp
+658.2106881(66)
+0.010
+Page 26/34
+----- PAGE 27 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Muon mass
+µµ
+1.8835327(11)
+10-28kg
+0.61
+0.113428913(17)
+u
+0.15
+In electron volts
+mµc2{e}
+105.658389(34)
+MeV
+0.32
+Muon-electron mass ratio
+mµ/me
+206/768262(30)
+0.15
+Muon molar mass
+M(µ), Mµ
+1.13428913(17)
+10-4kg/mol
+0.15
+Muon magnetic moment
+µµ
+4.4904514(15)
+10-26JT-1
+0.33
+In Bohr magnetons
+µµ/µB
+4.84197097(71)
+10-3
+0.15
+In nuclear magnetons
+µµ/µN
+8.8905981(13)
+0.15
+Muon magneticmoment anomaly
+[µµ/(eh/2mµ)]-1
+?µ
+1.1659230(84)
+10-3
+7.2
+Muon g-factor, 2(1 + ?µ)
+gµ
+2.002331846(17)
+0.0084
+Muon-proton magnetic moment ratio
+µµ/µp
+3.18334547(47)
+015
+PROTON
+Page 27/34
+----- PAGE 28 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Proton mass
+mp
+1.6726231(10)
+10-27kg
+0.59
+1.007276470(12)
+u
+0.012
+In electron volts, mpC2/(e)
+938.27231(28)
+MeV
+0.30
+Proton-electron mass ratio
+mp/me
+1836.152701(37)
+0.020
+Proton-muon mass ratio
+mp/mµ
+8.8802444(13)
+Proton specific charge
+e/mp
+9.5788309(29)
+107Ckg-1
+0.30
+Proton molar mass
+M(p), Mp
+1.007276470(12)
+10-3kg/mol
+0.012
+Proton Compton wavelength, h/mpc
+?Cp
+1.32141002(12)
+10-15m
+0.089
+?cp/2?
+?Cp
+2.10308937(19)
+10-16m
+0.089
+Proton magnetic moment
+µp
+1.41060761(47
+10-26JT-1
+0.34
+In Bohr magnetons
+µp/µB
+1.521032202(15)
+10-3
+0.010
+In nuclear magnetons
+µp/µN
+Page 28/34
+----- PAGE 29 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+2.792847386(63)
+0.023
+Diamagneticshielding correction for portions in pure water, spherical sample, 25 C, 1-µ'p/µ/p
+?H2O
+25.689(15)
+10-6
+Shielded proton moment (H2O sph., 25 C)
+µ'p
+1.41057138(47)
+10-26JT-1
+0.34
+In Bohr magnetons
+µ'p/µB
+1.520993129(17)
+10-3
+0.011
+In nuclear magnetons
+µ'p/µN
+2.792775642(64)
+0.023
+Proton gyromagnetic ratio
+Ýp
+26752.2128(81)
+104s-1T-1
+0.30
+Ýp/2?
+42.577469(13)
+MHzT-1
+0.30
+Uncorrected
+(H2O sph. 25C)
+Ýp
+26751.5255(81)
+104s-1T-1
+0.30
+Ýp/2?
+42.576375(13)
+MHzT-1
+0.30
+Neutron mass
+mn
+1.6749286(10)
+10-27kg
+0.59
+1.008664904(14)
+u
+0.014
+In electron volts, mnc2/{e}
+939.56563(28)
+MeV
+0.30
+Page 29/34
+----- PAGE 30 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+Neutron-eletron mass ratio
+mn/me
+1838.683662(40)
+0.022
+Neutron-proton mass ratio
+mn/mp
+1.001378404(9)
+0.009
+Neutron molar mass
+M(n), Mn
+1.008664904(14)
+10-3kg/mol
+0.014
+Neutron Compton wavelength, h/mnc
+?c,n
+1.31959110(12)
+10-15m
+0.089
+?cn/2?
+?c,n
+2.10019445(19)
+10-16m
+0.089
+Neutron magnetic moment*
+µn
+0.96623707(40)
+10-26JT-1
+0.41
+In Bohr magnetons
+µn/µB
+1.04187563(25)
+10-3
+0.24
+In nuclear magnetons
+µn/µN
+1.91304275(45)
+0.24
+Neutron
+– proton magnetic moment ratio
+µn/µp
+0.68497934(16)
+0.24
+DEUTERON
+Deuteron mass
+md
+3.3435860(20)
+10-27kg
+0.59
+2.013553214(24)
+u
+0.012
+Page 30/34
+----- PAGE 31 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+In electron volts, mdC2/{e}
+1875.61339(57)
+MeV
+0.30
+Deuteron-electro mass ratio
+md/me
+3670.483014(75)
+0.020
+Deuteron-proton mass ratio
+md/mp
+1.999007496(6)
+0.003
+Deuteron molar mass
+M(d), Md
+2.013553214(24)
+10-3kg/mol
+0.012
+Deuteron magnetic moment
+µd
+0.43307375(15)
+10-26JT-1
+0.34
+In Bohr magnetons
+µd/µB
+0.4669754479(91)
+10-3
+0.019
+in nuclear magnetons
+µd/µN
+0.857438230(24)
+0.028
+Deuteron-electron magnetic moment ratio
+µd/µe
+0.4664345460(91)
+0.019
+Deuteron-proton magnetic moment ratio
+md/mp
+0.3070122035(51)
+0.017
+PHYSICO-CHEMICAL CONSTANTS
+Avogadro constant
+NA,L
+6.0221367(36)
+1023mol-1
+0.59
+Atomic mass constant mu=1/12m(12C)
+mu
+1.6605402(10)
+10-27kg
+0.59
+In electron volts, muc2/{e}
+Page 31/34
+----- PAGE 32 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+931.49432(28)
+MeV
+0.30
+Faraday constant
+F
+96485.309(29)
+Cmol-1
+0.30
+Molar Planck constant
+NAh
+3.99031323(36)
+10-10Jsmol-1
+0.089
+NAhc
+0.11962658(11)
+Jm mol-1
+0.089
+Molar gas constant
+R
+8.314510(70)
+Jmol-1K-1
+8.4
+Boltzmann constant, R/NA
+k
+1.380658(12)
+10-23JK-1
+8.5
+In electron volts, k/{e}
+8.617385(73)
+10-5eVK-1
+8.4
+In hertz, k/h
+2.083674(18)
+1010HzK-1
+8.4
+In wavenumbers, k/hc
+69.50387(59)
+m-1k-1
+8.4
+Molar volume (ideal gas), RT/p
+T =
+273.15 K, p=101 325 Pa
+Vm
+22.41410(19)
+L/mol
+8.4
+Loschmidt constant, NA/Vm
+no
+2.686763(23)
+1025m-3
+8.5
+Page 32/34
+----- PAGE 33 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+T =
+273.15K, p = 100kPa
+Vm
+22.71108(19)
+L/mol
+8.4
+Sackur
+– Tetrode constant (absolute entropy constant)** 5/2 + In(2?mukT1/h2)3/2kT1/po}
+T1 =
+1K, Po = 100 kPa
+So/R
+-1.151693(21)
+18
+P?  = 101 325Pa
+-1.164856(21)
+18
+Stefan-Boltzmann constant, (?2/60)k4/h3c2
+?
+5.67051(19)
+10-8Wm-2k-4
+34
+First radiation constant, 2?hc2
+C1
+3.7417749(22)
+10-16Wm2
+0.60
+Second radiation constant, hc/k
+C2
+0.01438769(12)
+mK
+8.4
+Wien displacement law constant,
+b
+2.897756(24)
+10-3mk
+8.4
+B =
+?maxT = c2/4.96511423
+.
+*The scalar magnitude of the neutron moment is listed here. The neutron magnetic dipoles directed oppositely to that of
+the proton, and corresponds to the dipole associated with a spinning negative charge distribution. The vector sum, µd =
+µp + µ,,, is approximately satisfied.
+**The entropy of an ideal monatomic gas of relative atomic weight Ar is given by S = So + 3/2
+R1nAr - Rln(p/po) + 3/2 Rln (T/K).
+X
+(See rule 12)
+The following coefficients shall be used for the purpose of these rules:
+1. Alcoholic strengths. (a) The "alcoholic strength by volume" of a mixture of water and alcohol is the ratio of the volume
+of alcohol, measured at 20°C, contained in the mixture to the total volume of the mixture, measured at the same
+temperature. The symbol is "% vol".
+(b)
+Page 33/34
+----- PAGE 34 -----
+The Standards of Weights and Measures (National Standards) Rules, 1988
+The "alcoholic strength by mass" of a mixture of water and alcohol is the ratio of the mass of alcohol contained in the
+mixture to the total mass of the mixture. The symbol is "% mass".
+For the purpose of the inter-relation between these two strengths and between the density of acquous solution of
+alcohol, the International recommendation No. 22 on Alcoholometry, together with the International Alcoholometric
+Tables, shall be used.
+2. Hardness numbers for materials-
+(a)
+Brinell Hardness Number.-A number related to the size of the permanent impression made by a ball indenter of specified
+size, pressed into the surface of the material under a specified load. The surface area of the impression is determined
+from the average measured diameter of the rim of the impression and from the ball diameter. In reporting Brinell 
+hardness number, the International Recommendation No. 9, on verification and calibration of Brinell Hardness
+Standardised Blocks, shall be used.
+(b)
+Diamond pyramid or Vickers Hardness Number.-A number obtained by dividing the load in kilograms applied to a
+square-based pyramidal diamond indenter having included face angles of 136° by the surface area of the impression
+calculated from the measured diagonal of the impression. In reporting diamond pyramid hardness, the International
+Recommendation No. 10 on verification and calibration of Vickers Hardness Standardised Blocks, shall be used.
+(c)
+Rockwell Hardness Number.-A number derived from net increase in depth of impression as the load on all indenter is
+increased from a fixed minimum load. In reporting Rockwell hardness number on Rockwell B scale, the International
+Recommendation No. 11 on verification and calibration of Rockwell B Hardness Standardised Blocks, shall be used.
+Similarly, in reporting Rockwell hardness number on Rockwell C scale, the International Recommendation No. 12 on
+verification and calibration of Rockwell C Harness Standardised Block shall be used.
+3. For the purpose of determining the sugar content present in the sugar solutions either of the two following coefficients
+may be used. Degree Brix or sugar degree (°S)
+(a)
+Degree brix is the percentage of sucrose present by mass in the sugar solution. In reporting the degree brix, Indian
+Standard Specification for brix hydrometres: (IS : 7324-1974) shall be used, till such time, the Directorate of Legal
+Metrology or the International Organisation of Legal Metrology prepares such document.
+(b)
+Sugar degree on the international sugar scale is defined as follows:
+The 100°S point of the International Sugar Scale is fixed by the optical rotation ".t" undergone by the polarized light of
+the green line of the mercury isotope 198 (µ-546.2271 nm in vacuum), when passing through a 200.00 mm length of
+sucrose solution in pure water, kept at a temperature of 20.00°C, and containing 26.0160 g, weighed in a vacuum of
+pure sucrose per 100.00 cm3 of solution "normal" sugar solution.
+A mass of 26.0160 g of sucrose corresponds to 26.00 g when this sucrose is weighed in air by means of weights with a
+density of 8000 kg/m3 in air, at a standard pressure of 101325 pascal, at a temperature of 20°C and a relative humidity
+of 50%, the density of this air therefore being 1.2 kg/ m3.
+4. Relative humidity.-It is the ratio of the actual vapour pressure of water vapours present in air at the temperature of
+measurement of the saturation vapour pressure over a plane liquid water surface at the same temperature. This is
+expressed as a pure number as percentage.
+5. PH is the logarithm to the base 10 of the inverse of the hydrogen ion concentration in a dilute ionic solution.
+Explanation.-A 0.04 molar hydrochloric acid solution will have hydrogen ion concentration of 10" mol and its ph value is
+1.4. Similarly, 0.001 mol hydrochloric acid solution will have the hydrogen ion concentration of 103 mole and its ph value
+is 3.
+Related AI tags, queries and research notes
+Translation
+Page 34/34

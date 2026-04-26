@@ -1,0 +1,963 @@
+
+----- PAGE 1 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+Joint Electricity Regulatory Commission for the State of Goa and
+Union Territories (Solar PV Grid Interactive System based on Net
+Metering) Regulations, 2019" (hereinafter referred to as "Net Metering
+Regulations, 2019")
+Source: https://indiankanoon.org/doc/74078013/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar PV Grid Interactive System
+based on Net Metering) Regulations, 2019" (hereinafter referred to as "Net Metering Regulations, 2019")
+UNION OF INDIA
+India
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar PV Grid Interactive System
+based on Net Metering) Regulations, 2019" (hereinafter referred to as "Net Metering Regulations, 2019")
+Rule
+JOINT-ELECTRICITY-REGULATORY-COMMISSION-FOR-THE-STATE-OF-GOA-AND-UNION-TERRITORIES-SOLAR
+-PV-GRID-INTERACTIVE-SYSTEM-BASED-ON-NET-METERING-REGULATIONS-2019-HEREINAFTER-REFERRED-
+TO-AS-NET-METERING-REGULATIONS-2019 of 2019
+Published on 24 July 2019
+Commenced on 24 July 2019
+[This is the version of this document from 24 July 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+Page 1/18
+----- PAGE 2 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar PV Grid Interactive System
+based on Net Metering) Regulations, 2019" (hereinafter referred to as "Net Metering Regulations, 2019")
+Published vide Notification No. JERC-24/2019, Gurugram, dated 24th July, 2019
+Last Updated 30th July, 2019
+Joint Electricity Regulatory Commission
+(For The State of Goa and Union Territories)
+No. JERC-24/2019. - In exercise of the powers conferred under Sub-Section (1) of Section 181 and Clauses (zd), (ze)
+and (zf) of Sub-Section (2) of Section 181, read with Sections 42, 61(h), 66, 83 and 86(1)(e) of the Electricity Act, 2003
+and all other powers enabling it in this behalf, the Joint Electricit Regulatory Commission (for the State of Goa and Union
+Territories) hereby makes the following Regulations, namely:
+1.
+Short Title, Commencement and extent.
+- 1.1. These Regulations shall be called the "Joint Electricity Regulatory Commission for the State of Goa and Union
+Territories (Solar PV Grid Interactive System based on Net Metering) Regulations, 2019" (hereinafter referred to as "Net
+Metering Regulations, 2019").
+1.2
+These Regulations shall come into force from the date of publication in the official gazette.
+1.3
+These Regulations shall extend to the State of Goa and the Union Territories of Andaman and Nicobar Islands,
+Chandigarh, Dadra & Nagar Haveli, Daman & Diu, Lakshadweep and Puducherry.
+1.4
+These Regulations shall apply only to the Grid Connected Rooftop mounted, ground mounted and floating Solar Power
+Projects.
+2.
+Definitions, Abbreviations and Interpretations.
+- 2.1. In these Regulations, unless the context otherwise requires:
+(1)
+"Act" means the Electricity Act, 2003 (
+36 of 2003
+), and subsequent amendments thereof;
+(2)
+"Average Power Purchase Cost" (APPC) means the Weighted Average Pooled Price of power purchase at Distribution
+Licensee's periphery, as approved by the Commission in the Tariff Order of the respective year in which solar energy is
+generated, from all the energy suppliers on long-term, medium-term and short-term basis, but excluding energy
+purchased from Renewable Energy sources;
+(3)
+"Authority" means the Central Electricity Authority referred to in sub-section (1) of Section 70 of the Act;
+(4)
+"Billing cycle" means the period for which regular electricity bills as specified by the Commission, are prepared for
+different categories of consumers by the Licensee;
+(5)
+"COD" or "Commercial Operation Date" or "Date of commercial operation" mean the date on which generating plant is
+synchronised with the grid system;
+(6)
+"Check Meter" means a meter, which shall be connected to the same core of the current transformer (CT) and voltage
+transformer (VT) to which Solar Energy Meter is connected and shall be used for accounting and billing of electricity in
+case of failure of main meter or Solar Energy Meter;
+(7)
+"Commission" or "Joint Electricity Regulatory Commission" or "JERC" means the Joint Electricity Regulatory
+Commission for the State of Goa and Union Territories of Andaman and Nicobar Islands, Chandigarh, Dadra & Nagar
+Haveli, Daman & Diu, Puducherry and Lakshadweep referred to in sub-section (1) of Section 82 of the Act and
+Page 2/18
+----- PAGE 3 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+constituted under the Act;
+(8)
+"Connection Agreement" means the net-metering inter-connection Agreement entered into between the Distribution
+Licensee and the Consumer;
+(9)
+"Consumer" means any person who is connected to the electricity distribution system of the Distribution Licensee or any
+other person engaged in the business of supplying electricity to the public, as per the Act or any other law in force as of
+now and includes any person whose premises are used for receiving power;
+(10)
+"Consumer Grievances Redressal Forum (CGRF in brief)" means the forum for redressal of grievance of Consumers,
+established under section 42(5) of the Act;
+(11)
+"Contracted Load" or "Contract Demand" means the maximum demand in kW, kVA or HP, agreed to be supplied by the
+Distribution Licensee and as indicated in the Agreement executed between the Licensee and the Consumer;
+(12)
+"Credit Note" means number of units (kWh) as credit in the account as surplus power exported to the grid or the banked
+solar units accounted at the end of financial year by the Consumer for which the Distribution Licensee shall make the
+payment to the Consumer as per these Regulations;
+(13)
+"Distribution Licensee" means a person granted a Licence under Section 14 (b) of the Act authorizing him to operate
+and maintain a distribution system and supply electricity to the consumers in his area of supply;
+(14)
+"Electricity Supply Code" means the Electricity Supply Code specified by the Commission under Section 50 of the Act
+and subsequent amendments thereof;
+(15)
+"Eligible Consumer" means a consumer of electricity in the area of supply of the Distribution Licensee, who uses a
+self-owned or third party owned solar power project, to offset part or all of the consumer's own electricity requirements;
+(16)
+"Feed-in-Tariff" means the Generic Tariff determined by the Commission for generation from Solar Photovoltaic projects
+for Gross Metering in accordance with the Joint Electricity Regulatory Commission for the State of Goa and UTs (Terms
+and Conditions for Tariff determination from Renewable Energy Sources) Regulations, 2019 or as amended from time to
+time;
+(17)
+"Grid" means the low voltage electrical network, the distribution and transmission network or the high voltage backbone
+system of inter-connected transmission lines, sub-stations and generating plants for sale of energy or wheeling of
+energy as defined in these Regulations;
+(18)
+"Group Net Metering" means an arrangement whereby surplus energy is generated and injected from a Renewable
+Energy System through Net Meter and the exported energy is adjusted in more than one electricity service connection(s)
+of the same consumer either at the same or different premise located within the same Distribution Licensee's area of
+supply;
+(19)
+"Installed Capacity" means the summation of the name plate capacities expressed in kWp of all the units of the Solar
+Project or the capacity of the Solar Project reckoned at the output terminals, approved by the Commission;
+(20)
+"Interconnection Point" means the interface point of a Solar Project with the distribution network of the Distribution
+Licensee at appropriate voltage level as defined in the Joint Electricity Regulatory Commission for the State of Goa and
+UTs (Electricity Supply Code) Regulations, 2018 or as amended from time to time;
+(21)
+"Invoice" means a periodical Bill/Supplementary Bill or an Invoice/ Supplementary Invoice by the Distribution Licensee to
+the Consumer;
+Page 3/18
+----- PAGE 4 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+(22)
+"Month" means English calendar month starting with 1st day/date of the month and ending with last day/date of the
+month. Part Month will be applicable for number of days in proportion to total number of days in the specific month;
+(23)
+"Net Metering" means an arrangement under which Solar PV System installed at Eligible Consumer's premises is
+delivering surplus electricity, if any, to the grid of the Distribution Licensee after off-setting the electricity supplied by the
+Distribution Licensee to such Eligible Consumer during the applicable billing period;
+(24)
+"Net Meter" means an appropriate bi-directional energy meter capable of recording both import from the grid and export
+of electricity generated at Solar Project;
+(25)
+"Obligated Entity" means the licensed Supplier of Power, Distribution Licensee(s), Captive user(s) and Open Access
+Consumer(s), identified under Joint Electricity Regulatory Commission for the State of Goa and Union Territories
+(Procurement of Renewable Energy) Regulations, 2010 as amended from time to time and mandated under clause (e)
+of subsection (1) of Section 86 of the Act to fulfil the Renewable Purchase Obligations as determined by the
+Commission from time to time;
+(26)
+"Ombudsman" means the person appointed in accordance with Section 42 (6) read with Section 181 of the Act;
+(27)
+"Open Access Consumer" means a person permitted to use Intra-State Transmission System and / or Distribution
+System to receive supply of electricity from a person other than the Distribution Licensee of his area of supply, and the
+expression includes a Generating Company and a Licensee, who has availed of or intends to avail of Open Access;
+(28)
+"Project Developer" means the developer of the Solar Project, who shall develop such a project on his own premises or
+on premises taken on lease or rent;
+(29)
+"Prosumer" means a Consumer who is also a Producer of Solar Power;
+(30)
+"Producer of Solar Power" means an individual or an entity or a group of people intending to set up or who has/have set
+up a Solar Project for the purpose of generation of Solar power for own consumption and sale of surplus power to the
+Distribution Licensee;
+(31)
+"Premises" means Rooftop of a house / factory/ Ware house / Government building/ Panchayat Bhavan / Community
+Centre/ School/ dispensary / hospital / parking place / Bus Stand / Group Housing Society/ Market Society / market roof
+top / Canals / Water Reservoir/ any such place/ or vacant space and elevated area on the land, building or the
+Infrastructure or part or combination thereof, or the area taken on rent or on lease, or the area for the common facility in
+the premises of any multi-storeyed building, Group Housing Society / Residential Welfare Association / Market Welfare
+Association/ Industrial Welfare Group and in respect of which a separate meter or metering arrangements have been
+made by the Licensee for supply of electricity. The premises exclude the structures of historic significance (unless
+permission is taken from appropriate authority);
+(32)
+"Renewable Energy Certificate (REC)" means the certificate issued in accordance with the Regulations and the
+procedures approved by the Central Electricity Regulatory Commission;
+(33)
+"Renewable Purchase Obligations (RPO)" means renewable power purchase obligations;
+(34)
+"Sanctioned Load" means the load in kW, kVA or HP, which the Licensee has agreed to supply from time to time subject
+to the governing terms and conditions in the absence of an Agreement between the Distribution Licensee and the
+consumer;
+(35)
+"Settlement Period" means the period beginning from first day of April as per the English calendar year and ending with
+Page 4/18
+----- PAGE 5 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+the thirty first day of March of the next year;
+(36)
+"Solar Energy Meter" means the meter used for measuring the gross solar power units generated by the Solar Project
+for the purpose of accounting and billing;
+(37)
+"Solar Grid Inverter" means equipment that converts the DC (direct current) power from Solar Power modules to
+Grid-compatible AC (alternating current) power;
+(38)
+"Solar Photovoltaic Power" means a solar photo voltaic power project that uses sunlight for direct conversion into
+electricity through Photo Voltaic technology based on technologies such as crystalline Silicon or thin film, etc., as
+approved by the Ministry of New & Renewable Energy (MNRE) from time to time;
+(39)
+"Solar Project" means a Rooftop or ground mounted or floating Photovoltaic and other small Solar Power generating
+station, installed that uses sunlight for its direct conversion into electricity;
+(40)
+"Solar Project Developer (SPD)" means a Consumer or an entity whose Solar Project has been granted connectivity by
+the Distribution Licensee;
+(41)
+"Solar Power Generator (SPG)" means anyone who has started generating solar power from the approved project;
+(42)
+"State Nodal Agency" means the agency in the concerned State or Union Territory as may be designated by the
+Commission to act as the agency for accreditation and recommending the renewable energy projects for registration and
+to undertake such functions as may be specified under clause (e) of sub-section (1) of Section 86 of the Act;
+(43)
+"Supplier of Power" means a person or an entity having licence to supply electricity to the Consumer;
+(44)
+"Tariff Order" in respect of a Licensee means the last retail Tariff Order issued by the Commission for that Licensee
+indicating the tariff to be charged by the Licensee from various categories of Consumers for supply of electrical energy
+and services;
+(45)
+"Third Party Owned" means a Solar Project owned by a Solar Project Developer that is installed on the roof or elevated
+structure or the Premises as defined in 1(31) above for which a commercial lease or revenue share agreement has been
+entered into by the Solar Project Developer with the owner;
+(46)
+"Virtual Net Metering" means an arrangement whereby entire energy generated from a Solar Project installed at
+Consumer premise or any other location is injected through Solar Energy Meter and the energy exported is adjusted in
+either one or more than one electricity service connection(s) of participating Consumer(s) located within the same
+Distribution Licensee's area of supply;
+(47)
+"Year" or "Financial Year" means a period commencing on 1st April of an English calendar year and ending on 31st
+March of the subsequent calendar year.
+2.2
+Abbreviations. - In these Regulations the following shall be interpreted as:
+i. "EPC" means Engineering Procurement & Construction Contractor authorized by the Distribution Licensee;
+ii. "kWp" means kilo Watt peak, term used as a rating of the Solar Plant;
+iii. "MNRE" means the Ministry of New and Renewable Energy of Government of India;
+2.3
+All other words and expressions used in these Regulations if not specifically defined herein above, but defined in the
+Act, shall have the meaning assigned to them in the Act. The other words and expressions used herein but not
+specifically defined in these Regulations or in the Act but defined under any other law passed by the Parliament
+applicable to the electricity industry in the State or Union Territory shall have the meaning assigned to them in such law.
+Page 5/18
+----- PAGE 6 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+3.
+Scope of Regulations and Extent of Application.
+- 3.1. These Regulations shall be applicable to the grid connected solar projects subject to the fulfilment of Eligibility
+Criteria specified in these Regulations.
+3.2
+Group Net Metering Framework shall be applicable for all Consumers..
+3.3
+Virtual Net Metering Framework shall be applicable for residential consumers, Group Housing Societies, and
+establishments of Government/Local Authorities.
+4.
+Eligibility Criteria.
+- 4.1. Solar Projects of capacity up to 500 kWp at one premise based on the technologies approved by MNRE are
+eligible for connecting the project with the Grid under these Regulations. The capacity of the Solar Project to be installed
+under Group Net Metering or Virtual Net Metering framework shall not be less than 5 kWp and more than 500 kWp
+Provided that the Solar Project of rating higher than 500 kWp can be considered by the Distribution Licensee if the
+distribution system remains stable with higher rating Solar Project getting connected to the grid.
+4.2
+The Eligible Consumer may install the Solar Project under these Regulations, provided the Solar Project is:
+i. Within the permissible rated capacity as defined under these Regulations;
+ii. Located at the Consumer's Premises;
+iii. Interconnected and operated safely in parallel with the Distribution Licensee's network.
+4.3
+Consumers will generate solar power for self-consumption and are allowed to feed the excess solar power into the grid,
+which shall be adjusted under Net Metering as per provisions of these Regulations.
+4.4
+The maximum Solar Power Generation capacity to be installed at any Eligible Consumer's Premises shall not exceed his
+Contract Demand (in kVA) or Sanctioned Load (in kW).
+5.
+Third Party Owned Solar Project.
+- In the third party owned Solar Project, the following conditions shall apply:
+i. The Consumer may lease out / rent the Rooftop Space/ Land/ Water bodies to a Solar Project Developer on a mutual
+commercial arrangement for setting up Solar Project under Net Metering framework. The Consumer will pay the Solar
+Project Developer for all the energy generated by the Solar Project at a mutually agreed tariff. The commercial
+arrangement between the Project Developer and the Prosumer will be submitted to the Distribution Licensee for records
+and the Distribution Licensee will not have any role in such commercial arrangement. All the provisions of Net Metering
+framework shall be applicable for Solar Project set up by a Solar Project Developer.
+ii. Such Solar Projects set up under these Regulations shall be exempted from Open Access restrictions and associated
+charges including losses.
+iii. The Distribution Licensee / Nodal Agency may explore other business models that may facilitate the proliferation of
+Grid connected Rooftop solar projects. For any new business model not envisaged in these Regulations, the
+Commission will approve the framework for such business model based on the specific Petition to be filed in this regard.
+6.
+Solar Power Generation Capacities.
+- 6.1. The Distribution Licensee may undertake demand aggregation and other related activities, to promote solar power
+capacity in its licensed area. The Distribution Licensee may act EPC to undertake solar power development:
+Provided that in case the Distribution Licensee acts EPC, the income from such activity shall be considered as "Other
+Income" under the provisions of the applicable Tariff Regulations.
+6.2
+The Distribution Licensee shall facilitate the Solar Project Development:
+Provided that the cumulative solar capacity allowed at a particular Distribution Transformer shall not exceed 75 percent
+of the capacity of the Distribution Transformer:
+Page 6/18
+----- PAGE 7 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+Provided further that the Distribution Licensee may allow solar power capacity connected to a particular Distribution
+Transformer and feeder connected to the same exceeding 75 percent of capacity upon consideration of a detailed load
+study carried out by it.
+6.3
+The Distribution Licensee shall update on a yearly basis for each of the Distribution Transformers, the Distribution
+Transformer capacity available for connecting the Solar Projects and shall provide the information on its website, as well
+as to the Commission.
+7.
+Solar Project-Types.
+- For the purpose of these Regulations, the Commission has covered the Solar Power Projects for Prosumer, which may
+be roof mounted, ground mounted, floating on water bodies or installed on Elevated structures.
+8.
+Metering Arrangement.
+- 8.1. The metering system shall be as per the Central Electricity Authority (Installation & Operation of Meters)
+Regulations, 2006, as amended from time to time.
+8.2
+Net Meter of the same accuracy class as the Consumer's meter existing before the commissioning of the Solar Project,
+shall be installed in replacement of existing meter:
+Provided that, if the Eligible Consumer is within the ambit of Time-of-Day (`ToD') Tariff, the Net Meter installed shall be
+capable of recording ToD consumption and generation:
+Provided further that such Meters may be provided by the Distribution Licensee or the Consumer, subject to the same
+being from the approved list of the suppliers:
+Provided also that if the Meter is installed by the Distribution Licensee, its cost shall be recovered from the Consumer
+before the COD of the Project.
+8.3
+The Solar Energy Meter (a unidirectional meter) is to be installed as an integral part of the Net Metering system at the
+point at which the electricity is generated by the Solar Project and delivered to the main panel. The Solar Energy Meter
+shall have facility for recording meter readings using Meter Reading Instrument (MRI) or wireless equipment.
+8.4
+Check Meters shall be mandatory for Solar Project having capacity more than 20 kW. For installations having capacity
+less than or equal to 20 kW, the Check Meters would be optional:
+Provided that the cost of Check Meter shall be borne by the Consumer, and such meter shall be tested and installed by
+the Distribution Licensee.
+8.5
+The Distribution Licensee shall be responsible for installation, testing and maintenance of the metering
+equipment/system and its adherence to the applicable standards and specifications.
+8.6
+The Meters installed, if arranged by the Consumer, shall be inspected, verified for the accuracy and sealed by the
+Distribution Licensee in the presence of the Consumer or its representative (if he chooses to be present at the time of
+testing).
+9.
+Inter-connection with the Distribution Network, Standards and Safety.
+- 9.1. The Distribution Licensee shall ensure that the inter-connection of the Solar Project with its distribution network
+conforms to the specifications, standards and other provisions specified in the CEA (Technical Standard for Connectivity
+of the Distributed Generation Resources) Regulations, 2013, CEA (Technical Standards for Connectivity to the Grid)
+Regulations, 2007 including amendments thereto, the CEA (Measures relating to Safety and Electric Supply),
+Regulations, 2010 including amendments thereto, the Joint Electricity Regulatory Commission for the State of Goa and
+UTs (Electricity Supply Code) Regulations, 2018 including amendments thereto, and the Joint Electricity Regulatory
+Commission for the State of Goa and UTs (State Grid Code) Regulations, 2010 including amendments thereto.
+9.2
+Solar Power generation with Net metering will be allowed for all the eligible Consumers of the Distribution Licensee
+Page 7/18
+----- PAGE 8 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+under the jurisdiction of the Commission with/without battery back-up support:
+Provided that, if an Eligible Consumer opts for connectivity with a battery back-up, the inverter shall have a separate
+back-up wiring to prevent the battery/ decentralized generation (DG) power from flowing into the grid in the absence of
+grid supply, and that an automatic as well as manual isolation switch shall also be provided.
+Provided further that the Inverter shall comply with the Standards prescribed in Annexure A.
+9.3
+The Eligible Consumer shall be responsible for the safe operation, maintenance and rectification of any defect in the
+Solar Project up to the point of Net Meter, beyond which point such responsibility, including in respect of the Net Meter,
+shall be that of the Distribution Licensee:
+Provided that the Solar Energy Meter shall be maintained by the Distribution Licensee.
+9.4
+The Eligible Consumer shall provide appropriate protection for islanding of the Solar Project from the network of the
+Distribution Licensee in the event of grid or supply failure.
+9.5
+The Consumer shall be solely responsible for any accident to human being/ animals whatsoever (fatal/nonfatal/
+departmental/non-departmental) that may occur due to back feeding from the Solar Project when the grid supply is off:
+Provided that the Distribution Licensee shall have the right to disconnect the Solar Project from its distribution network at
+any time in the event of any threat of accident or damage from such Project to its distribution system, for maintenance of
+distribution system so as to avoid any accident or damage to it:
+Provided further that the Eligible Consumer may use his Solar Project in islanding mode for his own consumption.
+9.6
+The Distribution Licensee and Eligible Consumer shall discharge their respective duties and responsibilities as specified
+in the relevant Regulations of the Central Electricity Authority.
+9.7
+HT Consumers opting for Net Metering shall not be required to provide separate connectivity for the Solar Project at HT
+voltage level for consumption at LT Level.
+10.
+Communication Facilities.
+- All grid connected Solar Projects shall have electricity meters with features to record energy for data storage for
+injection into the grid through Solar Energy Meter as provided under these Regulations:
+Provided that all projects shall have communication port for exchanging real time information with the Distribution
+Licensee:
+Provided further that all Meters shall have Advanced Metering Infrastructure (AMI) facility.
+11.
+Billing, Energy Accounting and Settlement.
+- 11.1. The accounting of electricity exported from the Solar Project and imported from the Grid by the Eligible Consumer
+shall become effective from the date of connectivity of the Solar Project with the distribution network.
+11.2
+For each billing period, the Distribution Licensee shall show separately: -
+(a)
+the quantum of electricity Units exported by the Eligible Consumer;
+(b)
+the quantum of electricity Units imported by the Eligible Consumer;
+(c)
+the net quantum of electricity Units billed for payment by the Eligible Consumer; and
+(d)
+the net quantum of electricity Units carried over (if surplus) to the next billing period:
+Provided that, if the quantum of electricity exported exceeds the quantum imported during the billing period, the excess
+quantum shall be carried forward to the next billing period as credited Units of electricity;
+Provided further that, if the quantum of electricity Units imported by the Eligible Consumer during any billing period
+exceeds the quantum exported, the Distribution Licensee shall raise its invoice / bill for the net electricity consumption
+Page 8/18
+----- PAGE 9 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+after adjusting the credited Units.
+11.3
+The unadjusted net credited Units of electricity as at the end of each financial year shall be considered as units
+purchased by the Distribution Licensee at Average Power Purchase cost of the concerned Distribution Licensee or
+Feed-in-Tariff determined for that Year without considering subsidy and Accelerated Depreciation, whichever is lower.
+Provided that, at the beginning of each Settlement Period, the cumulative quantum of injected electricity carried forward
+will be re-set to zero.
+11.4
+In case the Eligible Consumer is within the ambit of Time of Day (ToD) tariff, the electricity consumption in any time
+block, i.e., peak hours, off-peak hours, etc., shall be first compensated with the quantum of electricity injected in the
+same time block:
+Provided that any excess injection over and above the consumption in any other time block in a billing cycle shall be
+accounted as if the excess injection had occurred during off-peak hours.
+11.5
+The Distribution Licensee shall compute the amount payable to the Eligible Consumer, latest by April 30th of the
+following year for the excess solar energy purchased by it during the Financial year as specified in Regulation 11.3, and
+shall pay the amount to the eligible consumer by May 31st of the following year.
+11.6
+The Eligible Consumer shall have recourse, in case of any dispute with the Distribution Licensee regarding billing, to the
+mechanism specified by the Commission under Sections (5) to (7) of the Act for the redressal of grievances.
+11.7
+In case of Group Net Metering, the billing and energy accounting shall be dealt with as under:
+(a)
+Where the export of units during any billing period exceeds the import of units at the connection where Solar Project is
+located, such surplus units injected into the grid shall be adjusted against the energy consumed in the monthly bill of
+service connection(s) in a sequence indicated in the priority list provided by the Consumer. The sequence of priority for
+adjustment shall be deemed to have begun with the service connection where the Solar Project is located;
+(b)
+The priority list for adjustment of the balance surplus energy against other electricity connection(s) may be revised by
+the Consumer once at the beginning of every financial year with an advance notice of two months;
+(c)
+The electricity consumption in any time block (e.g., peak hours, off-peak hours, etc.) shall be first compensated with the
+electricity generation in the similar time blocks in the same billing cycle of the Consumer where the Solar Project is
+located, and any surplus units injected shall be adjusted against the energy consumed in the monthly bill of service
+connection(s) in a sequence indicated in the priority list provided by the Consumer, as if the surplus generation/ Energy
+Credits occurred during the off peak time block for Time of Day (ToD) Consumers and normal time block for Non-ToD
+Consumer;
+(d)
+Where during any billing period, the export of units either in Non-ToD Tariff or ToD Tariff exceeds the import of units by
+the electricity service connection(s), such surplus units injected by the Consumer shall be carried forward to the next
+billing period as energy credit and shown as energy exported by the Consumer for adjustment against the energy
+consumed in subsequent billing periods within the Settlement Period in the sequence indicated in the priority list;
+(e)
+For unadjusted net credited Units of electricity at the end of each financial year, the provisions of Clause 11.3 will be
+applicable for the connection where Solar Project is located.
+11.8
+In case of Virtual Net Metering, the billing and energy accounting shall be dealt with as under:
+(a)
+The energy generated from the Solar Project shall be credited in the monthly electricity bill of each participating
+consumer(s) as per the ratio of procurement from Solar Project indicated under the agreement/MoU entered on a stamp
+paper by the Consumer(s) and submitted to the Distribution Licensee;
+Page 9/18
+----- PAGE 10 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+(b)
+The Consumer(s) shall have the option to change the share of credit of electricity from Solar Project by submitting a
+fresh Agreement/MoU on a stamp paper subject to the ratio of procurement from Solar Project indicated under the
+agreement/MoU entered by the Consumer(s) once at the beginning of the financial year with an advance notice of two
+months;
+(c)
+Where the service connection of any participating consumer(s) is disconnected due to any reason under any law for the
+time being in force, the unadjusted units/remaining credits of that consumer shall be paid by the Distribution Licensee at
+the end of the financial year;
+(d)
+The electricity consumption in any time block (e.g., peak hours, off-peak hours, etc.) shall be first compensated with the
+electricity generation in the similar time blocks in the same billing cycle of the participating consumer(s). Any surplus
+generation over consumption in any time block in a billing cycle shall be accounted as if the surplus generation/ Energy
+Credits occurred during the off-peak time block;
+(e)
+Where the units credited during any billing period of any participating Consumer exceeds the import of units by that
+consumer, such surplus credited units shall be carried forward in the next billing period as energy credits for adjustment
+against the energy consumed in subsequent billing periods within the settlement period of each participating
+Consumer(s);
+(f)
+For unadjusted net credited Units of electricity at the end of each financial year, the provisions of Clause 11.3 will be
+applicable for each participating Consumer(s).
+(g)
+The commercial arrangement for setting up and operating Solar Project under Virtual net Metering between the
+participating Consumer(s) will be mutually agreed and the Distribution Licensee will not have any role in such
+commercial arrangement.
+12.
+Penalty or Compensatio.
+- Failure in Metering System. - In case of failure of metering system, the provisions of penalty or compensation shall be
+as per the provisions of the Joint Electricity Regulatory Commission for the State of Goa and UTs (Standards of
+Performance for Distribution Licensees) Regulations, 2015 for the Distribution Licensee.
+13.
+Late Payment Surcharge.
+- In case the payment by the Distribution Licensee under Regulation 11.3 above is delayed beyond 31st of May of that
+year, a Late Payment Surcharge at the rate of 1.25% per month from the delay beyond 31st May shall be levied on the
+Distribution Licensee.
+14.
+Charges for Banking of Solar Power.
+- The Solar Projects, whether self-owned or third party owned installed under these Regulations, shall be exempted from
+charges in respect of banking of electricity.
+15.
+Renewable Purchase Obligation and Eligibility to Participate under REC Mechanism.
+- 15.1. The quantum of electricity consumed by the Eligible Consumer from the Solar Project under the Net Metering
+Arrangement shall qualify towards his compliance of Solar RPO, if such Consumer is an Obligated Entity.
+15.2
+The quantum of electricity consumed by the Eligible Consumer from the Solar Project owned and installed under the Net
+Metering arrangement shall, if such Consumer is not an Obligated Entity, qualify towards meeting the Solar RPO of the
+Distribution Licensee:
+Provided that the Distribution Licensee shall, with the consent of the Eligible Consumer, make all the necessary
+arrangements, including for additional metering, as may be required for the accounting of the Solar energy generated
+and consumed by the Eligible Consumer.
+Page 10/18
+----- PAGE 11 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+15.3
+The unadjusted surplus units of Solar energy purchased by the Distribution Licensee under the provisions of Regulation
+11.3 shall also qualify towards meeting its Solar RPO.
+15.4
+The Solar energy generated by an Eligible Consumer in a Net Metering Arrangement under these Regulations shall not
+be eligible for REC.
+15.5
+The Solar Energy generated for captive use shall also qualify for meeting the RPO.
+16.
+Procedure for Application and Registration.
+- 16.1. The Eligible Consumer shall apply to the concerned Distribution Licensee for connectivity of the Solar Project
+with the Licensee's distribution network along with one-time, non-refundable registration fee for Rs. 500 (five hundred) or
+such other amount as may be stipulated by the Commission from time to time; and the Distribution Licensee shall
+acknowledge receipt of such application:
+Provided that the Distribution Licensee shall provide the option of making such application and payment of fees by
+electronic means online within two months from the date of publication of these Regulations.
+16.2
+The procedure for application for connectivity of a Solar Project with the network of the Distribution Licensee is set out at
+Annexure 1 of these Regulations. The model Application Form, along with a checklist, for application to be made by the
+Eligible Consumer to the concerned Licensee is at Annexure 2.
+16.3
+Before rejecting any application for setting up a Solar Project for connection to a particular Distribution Transformer, the
+Distribution Licensee shall serve the applicant with a notice to rectify, within 15 days or such longer period as may be
+necessary, the deficiencies:
+Provided that in case approval cannot be granted due to inadequate Distribution Transformer capacity, the application
+may be considered, in chronological order of date seniority and if the Consumer so opts, after such capacity becomes
+available.
+16.4
+The Distribution Licensee shall implement a web-based processing system for processing of the applications for Solar
+Net Metering, which shall be set up within three months of the notification of these Regulations.
+16.5
+Matters relating to subsidy shall be dealt by the State Nodal Agency/Distribution Licensee or as approved by MNRE
+from time to time.
+16.6
+The Distribution Licensee shall annually publish on its web, information relating to the Solar Projects added in the year,
+ratings of each Solar Project and other relevant information. The information shall also be submitted to the Commission
+by 30th April of the next year.
+16.7
+The plants with capacity more than 500 kWp shall be checked by the concerned Chief Electrical Inspector associated
+with the Distribution Licensee.
+Miscellaneous
+17.
+Power to relax.
+- The Commission may by general or special order, for reasons to be recorded in writing, and after giving an opportunity
+of hearing to the Parties likely to be affected, relax any of the provisions of these Regulations on its own motion or on an
+application made before it by an interested person.
+18.
+Power to amend.
+- The Commission may at any time add, vary, alter, suspend, modify, amend or repeal any of the provisions of these
+Regulations.
+19.
+Page 11/18
+----- PAGE 12 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+Repeal and Savings.
+- Save as otherwise provided in this Net Metering Regulations, 2019, JERC (Grid Connected Ground Mounted and Solar
+Rooftop and Metering) Regulations, 2015, together with amendments made from time to time, are hereby repealed:
+Provided that for all purposes, including review matters pertaining to the period till notification of these Regulations, the
+issues relating to Net Metering shall be governed by the provisions of the JERC (Grid Connected Ground Mounted and
+Solar Rooftop and Metering) Regulations, 2015, including amendments thereto, as may be applicable.
+20.
+Power to remove difficulties.
+- In case of any difficulty arising while giving effect to the provisions of these Regulations, the Commission may either
+suo-motu or on a Petition, by an order, make such provisions not inconsistent with the provisions of the Act as may
+appear to be necessary.
+Annexure A: Voltage level Harmonics, Standards: Harmonics & Inverter. - Harmonics shall be as per IEEE 519
+Standards. The permissible individual harmonics level shall be less than 3% (for both voltage and current harmonics)
+and Total Harmonics Distortion (THD) for both voltage and current harmonics of the Grid system shall be less than 5%.
+Inverter Standards. - Inverter should comply with IEC 61683/IS 61683 for efficiency and Measurements and should
+comply IEC 60068-2 (1, 2, 14, 30) / Equivalent BIS Standard for environmental testing. Inverter should supervise the
+grid condition continuously and in the event of grid failure (or) under voltage (or) over voltage, Solar Plant should be
+disconnected by the circuit Breaker / Auto switch provided in the Inverter.
+Various Other Standards
+Sl.
+Parameter
+Reference
+Requirements
+1.
+Overall conditions of service
+State Distribution/Supply Code
+State Distribution/Supply Code
+2.
+Overall Grid Standards
+Central Electricity Authority (Grid Standard)
+Regulations 2010
+Central Electricity Authority (Grid Standard)
+Regulations 2010
+3.
+Equipment
+BIS / IEC / IEEE
+BIS / IEC / IEEE
+4.
+Meters
+Central Electricity Authority (Installation &
+operation of meters) Regulation 2006 as amended time to time
+Central Electricity Authority (Installation &
+operation of meters) Regulation 2006 as amended time to time
+5.
+Safety and supply
+Central Electricity Authority (Measures relating
+to Safety and Electricity Supply) Regulations, 2010
+Central Electricity Authority (Measures relating
+to Safety and Electricity Supply) Regulations, 2010
+6.
+Harmonic Requirements Harmonic Current
+Page 12/18
+----- PAGE 13 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+IEEE 519
+CEA (Technical
+Standards for Connectivity of the Distributed
+Generation Resources) Regulations 2013.
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013.
+7.
+Synchronization
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+Solar Plant must be equipped with a grid
+frequency synchronization device. Every time the generating
+station is synchronized to the electricity system. It shall not
+cause voltage fluctuation greater than +/- 5% at the point of
+connection.
+8.
+Voltage
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+The voltage-operating window should minimize
+nuisance tripping and should be under operating range of 80% to
+110% of the nominal connected voltage. Beyond a clearing time of
+2 second, the Solar Plant must isolate itself from the grid.
+9.
+Flicker
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+Operation of Solar Plant should not cause
+voltage flicker in excess of the limits stated in IEC 61000
+standards or other equivalent Indian standards, if any.
+10.
+Frequency
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+When the Distribution system frequency deviates
+outside the specified conditions (50.5 Hz on upper side and 47.5
+Hz on lower side), There should be over and under frequency trip
+functions with a clearing time of 0.2 seconds.
+11.
+DC injection
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+Should not inject DC
+power more than 0.5% of full rated output at the interconnection
+point or
+Page 13/18
+----- PAGE 14 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+1% of rated inverter output current into
+distribution system under any operating condition.
+12.
+Power Factor
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+While the output of the inverter is greater than
+50%, a lagging power factor of greater than 0.9 should operate.
+13.
+Islanding and Disconnection
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+The Solar Project in the event of fault, voltage
+or frequency variations must island/disconnect itself within IEC
+standard on stipulated period.
+14.
+Overload and Overheat
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+The inverter should have the facility to
+automatically switch off in case of overload or overheating and
+should restart when normal conditions are restored.
+15.
+Paralleling Device
+IEEE 519
+CEA (Technical Standards for Connectivity of the
+Distributed Generation Resources) Regulations 2013
+Paralleling device of Solar System shall be
+capable of withstanding 220% of the normal voltage at the
+interconnection point.
+16.
+Note:The standards/specifications shall be subject to
+amendments/revisions from time to time by the Distribution
+Licensee and the State Agency on respective websites.
+ANNEXURE-1 Procedure for Application for connectivity of Solar Project with Distribution Licensee's Network
+(a)
+A Consumer intending to set up a Solar Project or who has already installed such a system may download the
+Application Form from the concerned Distribution Licensee's website and submit it, duly filled, along with technical
+details of the Project to the concerned office of the Distribution Licensee along with registration fee, or apply and pay the
+fee online.
+(b)
+The Distribution Licensee shall register the Application and acknowledge its receipt within three working days; or
+intimate the Applicant within that period of any deficiency or incompleteness.
+(c)
+The Distribution Licensee shall conduct a technical feasibility study within 15 working days from the registration of the
+Application considering the following aspects:
+i. AC Voltage level at which connectivity is sought;
+ii. Sanctioned Load/Contract Demand of the Applicant;
+Page 14/18
+----- PAGE 15 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+iii. Rated Output AC Voltage of the proposed Solar Project;
+iv. Available cumulative capacity of relevant Distribution Transformer;
+(d)
+Before rejecting any application for setting up a Solar Project at a particular Distribution Transformer, the Distribution
+Licensee shall serve the Applicant with a notice to rectify, within 15 days or such longer period as may be necessary, the
+deficiencies.
+(e)
+If found technically feasible, the Distribution Licensee shall, within 7 working days of the completion of the feasibility
+study, convey its approval for installing the Solar Project. The approval shall indicate the maximum permissible capacity
+of the Project, and shall be valid for a period of 4 months from the date of approval, or such extended period as may be
+agreed to by the Distribution Licensee.
+(f)
+The Applicant shall, within the period of validity of such approval, submit the work completion report, along with relevant
+details (such as technical specifications, test reports received from manufacturer / system provider, etc.), with a request
+to the Distribution Licensee for the testing and commissioning of the Solar Project.
+(g)
+The Distribution Licensee shall complete the testing and commissioning of the Project within 10 working days from
+receipt of such request, and shall install the Net Metering equipment and synchronize the Roof-top Solar PV System
+within 10 working days thereafter.
+(h)
+The Eligible Consumer and Distribution Licensee shall enter into a Net Metering Connection Agreement in the
+prescribed format (Annexure-3) after the Solar Project is installed but before it is synchronized with the distribution
+network.
+ANNEXURE-2 Model Application Form for installation of Solar Project under Net Metering arrangement
+Name of Distribution Licensee [                   ]
+Name of Administrative Office [                   ]
+(To be filled by the Applicant in Block Letters)
+1.
+Applicant's Full Name
+:
+2.
+Address of the premises at which Solar Project
+is to be installed.
+:
+3.
+Telephone/Mobile No.
+:
+4.
+E-mail ID (if available)
+:
+5.
+Alternate Address for communication (if any)
+:
+6.
+Category of existing electricity connection
+:
+7.
+Consumer No.
+:
+8.
+Sanctioned Load / Contract Demand (in kW /kVA/
+Page 15/18
+----- PAGE 16 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+HP).
+:
+9.
+Voltage at which existing supply has been given
+(in volts).
+:
+10.
+Proposed AC capacity of Roof-top Solar PV System
+to be installed (in kW).
+:
+11.
+Voltage at the output of Solar inverter (in
+volts).
+:
+12.
+Details of Registration Fee paid (Rs. 500/-).
+:
+Date : ____________________
+Signature of Applicant.
+Application No. _____________________________
+Date of Receipt ____________________________
+List of documents attached with Application Form
+1. Copy of the latest paid electricity bill.
+2. General Power of Attorney in favour of signatory in case of Partnership Firms; certified true copy of the Resolution,
+authorizing the signatory to deal with the concerned Distribution Licensee, passed by the Board of Directors in case of
+Companies (as applicable).
+3. Technical details of PV modules, Inverter and other equipment of system proposed to be installed.
+4. Proof of payment of Registration Fee.
+......................................................................................................................
+Acknowledgement
+Received an Application from ........................................ for connectivity/installation of Solar Project of capacity of
+................... kW as per details below: -
+Date of Receipt
+Applicant's Name
+Application Number
+Existing Consumer No.
+Capacity of Rooftop Solar PV System
+(1)
+(2)
+(3)
+(4)
+(5)
+Date :
+(Signature and Designation of Authorized Officer).
+ANNEXURE - 3 Model Net Metering Connection Agreement
+This Agreement is made and entered into at (location)___________ on this (date)_______ day of (month)_______
+(year)_______ between the Eligible Consumer (Name)________________ having premises at
+(address)______________________ and Consumer No.__________________ as the first Party,
+And
+The Distribution Licensee________________________ (hereinafter referred to as `the Licensee') and having its
+Registered Office at (address)_______________________ as second Party of this Agreement;
+Page 16/18
+----- PAGE 17 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+Whereas, the Eligible Consumer has applied to the Licensee for approval of a Net Metering Arrangement under the
+provisions of the Joint Electricity Regulatory Commission (Solar PV Grid Interactive System based on Net Metering)
+Regulations, 2019 (herein after referred to as `the Net Metering Regulations') and sought its connectivity to the
+Licensee's Distribution Network;
+And whereas, the Licensee has agreed to provide Network connectivity to the Eligible Consumer for injection of
+electricity generated from its Solar Project of ________ kilowatt;
+Both Parties hereby agree as follows: -
+1. Eligibility. - The Solar Project meets the applicable norms for being integrated into the Distribution Network, and that
+the Eligible Consumer shall maintain the Project accordingly for the duration of this Agreement.
+2. Technical and Inter-connection Requirements. - 2.1. The metering arrangement and the inter-connection of the Solar
+Project with the network of the Licensee shall be as per the provisions of the Net Metering Regulations and the technical
+standards and norms specified by the Central Electricity Authority for connectivity of distributed generation resources
+and for the installation and operation of meters.
+2.2
+The Eligible Consumer agrees, that he shall install, prior to connection of the Solar Project to the network of the
+Licensee, an isolation device (both automatic and in built within inverter and external manual relays); and the Licensee
+shall have access to it if required for the repair and maintenance of the Distribution Network.
+2.3
+The Licensee shall specify the interface/inter-connection point and metering point.
+2.4
+The Eligible Consumer shall furnish all relevant data, such as voltage, frequency, circuit breaker, isolator position in his
+System, as and when required by the Licensee.
+3. Safety. - 3.1. The equipment connected to the Licensee's Distribution System shall be compliant with relevant
+International (IEEE/IEC) or Indian Standards (BIS), as the case may be, and the installation of electrical equipment shall
+comply with the requirements specified by the Central Electricity Authority regarding safety and electricity supply.
+3.2
+The design, installation, maintenance and operation of the Solar Project shall be undertaken in a manner conducive to
+the safety of the Roof-top Solar PV System as well as the Licensee's Network.
+3.3
+If, at any time, the Licensee determines that the Eligible Consumer's Solar Project is causing or may cause damage to
+and/or results in the Licensee's other Consumers or its assets, the Eligible Consumer shall disconnect the Solar Project
+from the distribution network upon direction from the Licensee, and shall undertake corrective measures at his own
+expense prior to re-connection.
+3.4
+The Licensee shall not be responsible for any accident resulting in injury to human beings or animals or damage to
+property that may occur due to back- feeding from the Solar Project when the grid supply is off. The Licensee may
+disconnect the installation at any time in the event of such exigencies to prevent such accident.
+4. Other Clearances and Approvals. - The Eligible Consumer shall obtain any statutory approvals and clearances that
+may be required, such as from the Electrical Inspector or the municipal or other authorities, before connecting the Solar
+Project to the distribution Network.
+5. Period of Agreement, and Termination. - This Agreement shall be for a period for 25 years, but may be terminated
+prematurely
+(a)
+By mutual consent; or
+(b)
+By the Eligible Consumer, by giving 30 days' notice to the Licensee;
+(c)
+By the Licensee, by giving 30 days' notice, if the Eligible Consumer breaches any terms of this Agreement or the
+provisions of the Net Metering Regulations and does not remedy such breach within 30 days, or such other reasonable
+period as may be provided, of receiving notice of such breach, or for any other valid reason communicated by the
+Licensee in writing.
+Page 17/18
+----- PAGE 18 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar ...
+6. Access and Disconnection. - 6.1. The Eligible Consumer shall provide access to the Licensee to the metering
+equipment and disconnecting devices of Solar Project, both automatic and manual, by the Eligible Consumer.
+6.2
+If, in an emergent or outage situation, the Licensee cannot access the disconnecting devices of the Solar Project, both
+automatic and manual, it may disconnect power supply to the premises.
+6.3
+Upon termination of this Agreement under Clause 5, the Eligible Consumer shall disconnect the Solar Project forthwith
+from the Network of the Licensee.
+7. Liabilities. - 7.1. The Parties shall indemnify each other for damages or adverse effects of either Party's negligence or
+misconduct during the installation of the Solar Project, connectivity with the distribution network and operation of the
+System.
+7.2
+The Parties shall not be liable to each other for any loss of profits or revenues, business interruption losses, loss of
+contract or goodwill, or for indirect, consequential, incidental or special damages including, but not limited to, punitive or
+exemplary damages, whether any of these liabilities, losses or damages arise in contract, or otherwise.
+8. Commercial Settlement. - 8.1. The commercial settlements under this Agreement shall be in accordance with the Net
+Metering Regulations.
+8.2
+The Licensee shall not be liable to compensate the Eligible Consumer if his Solar Project is unable to inject surplus
+power generated into the Licensee's Network on account of failure of power supply in the grid/Network.
+8.3
+The existing metering System, if not in accordance with the Net Metering Regulations, shall be replaced by a
+bidirectional meter (whole current/CT operated), and a separate generation meter may be provided to measure Solar
+power generation. The bi-directional meter (whole current/CT operated) shall be installed at the inter-connection point to
+the Licensee's Network for recording export and import of energy.
+8.4
+The uni-directional and bi-directional meters shall be fixed in separate meter boxes in the same proximity.
+8.5
+The Licensee shall issue monthly electricity bill for the net metered energy on the scheduled date of meter reading. If the
+exported energy exceeds the imported energy, the Licensee shall show the net energy exported as credited Units of
+electricity as specified in the Net Metering Regulations, 2019. If the exported energy is less than the imported energy,
+the Eligible Consumer shall pay the Distribution Licensee for the net energy imported at the prevailing tariff approved by
+the Commission for the Consumer category to which he belongs.
+9. Connection Costs. - The Eligible Consumer shall bear all costs related to the setting up of the Solar Project, excluding
+the Net Metering Arrangement cost beyond the Net Meter.
+10. Dispute Resolution. - 10.1. Any dispute arising under this Agreement shall be resolved promptly, in good faith and in
+an equitable manner by both the Parties.
+10.2
+Disputes pertaining to billing / payments and metering shall be referred to the Consumer Grievances Redressal Forum
+(CGRF) and then to the Ombudsman appointed under sub-section 6 of Section 42 of the Act for settlement in case the
+same is not resolved at CGRF.
+In the witness, where of (Name)____________________________ for and on behalf of
+Eligible Consumer and (Name)_____________________________ for and on behalf of
+(Licensee)
+agree to this agreement.
+Related AI tags, queries and research notes
+Translation
+Page 18/18

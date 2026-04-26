@@ -1,0 +1,354 @@
+
+----- PAGE 1 -----
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating un...
+The Information Technology (Recognition of Foreign Certifying
+Authorities not Operating under any Regulatory Authority)
+Regulations, 2013
+Source: https://indiankanoon.org/doc/122643571/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating under any Regulatory
+Authority) Regulations, 2013
+UNION OF INDIA
+India
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating under any Regulatory
+Authority) Regulations, 2013
+Rule
+THE-INFORMATION-TECHNOLOGY-RECOGNITION-OF-FOREIGN-CERTIFYING-AUTHORITIES-NOT-OPERATING-
+UNDER-ANY-REGULATORY-AUTHORITY-REGULATIONS-2013 of 2013
+Published on 6 April 2013
+Commenced on 6 April 2013
+[This is the version of this document from 6 April 2013.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating under any Regulatory
+Authority) Regulations, 2013
+Published vide Notification New Delhi, the 6th April, 2013
+Page 1/7
+----- PAGE 2 -----
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating un...
+G.S.R. 205 (E). - In exercise of the powers conferred by clause (b) of sub-section (2) of section 89 of the Information
+Technology Act, 2000 (
+21 of 2000
+), the Controller hereby, after consultation with the Cyber Regulations Advisory Committee and with the previous
+approval of the Central Government, makes the following Regulations, namely :-
+1.
+Short title and Commencement.
+(1)
+These Regulations may be called the Information Technology (Recognition of Foreign Certifying Authorities not
+operating under any Regulatory Authority) Regulations, 2013.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+- In these Regulations, unless the context otherwise requires, -
+(a)
+"Act" means the Information Technology Act, 2000 (
+21 of 2000
+);
+(b)
+"Certifying Authority" means a person who has been granted a licence to issue a Digital Signature Certificate under
+section 24;
+(c)
+"Controller" means the Controller of Certifying Authorities appointed under sub-section (1) of section 17 of the Act;
+(d)
+"Foreign Certifying Authority" means a certifying authority other than one licensed to issue a digital signature certificate
+under section 24 of the Act and whose installed facilities and infrastructure associated with all functions of generation,
+issue and management of digital signature certificates are located outside India ;
+(e)
+"Recognized Foreign Certifying Authority" means a Foreign Certifying Authority who has been granted recognition under
+these regulations pursuant to sub-section (1) of section 19 of the Act;
+(f)
+Words and expressions used herein and not defined, but defined in the Act, shall have the meanings respectively
+assigned to them in the Act.
+3.
+Criteria for recognition of foreign certifying authorities which does not operates under any regulatory authority.
+- (A) Recognition of Foreign Certifying Authorities. - The procedure relating to recognition of Foreign Certifying
+Authorities which does not operate under any Regulatory Authority is as under :
+(1)
+Application for grant of recognition. - Notwithstanding anything contained in regulation 3(A), any foreign certifying
+authority may apply to the Controller for recognition.
+(2)
+Particulars of application. - Every application for recognition of a Foreign Certifying Authority under this regulation shall
+be made to the Controller, in such manner as the Controller may, from time to time, determine, supported by such
+documents and information as the Controller may require and it shall inter alia, include the following, namely :-
+(a)
+a Certification Practice Statement (CPS);
+(b)
+a statement including the procedures with respect to identification of the applicant;
+(c)
+a statement for the purpose and scope of anticipated Digital Signature Certificate technology, management, or
+Page 2/7
+----- PAGE 3 -----
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating un...
+operations to be outsourced;
+(d)
+certified copies of the business registration documents and licences of the Foreign Certifying Authority that intends to be
+recognized;
+(e)
+a description of any event, particularly current or past insolvency, that could materially affect the applicant's ability to act
+as a recognized Foreign Certifying Authority;
+(f)
+an undertaking by the applicant that to its best knowledge and belief it can and will comply with the requirements of its
+Certification Practice Statement;
+(g)
+the required fee; and
+(h)
+any other information required by the Controller.
+(3)
+Performance Bond and in the form of Banker;s guarantee - Every applicant under this regulation shall submit a
+performance bond and furnish a banker's guarantee from a scheduled bank in India in favour of the Controller in such
+form and in such manner as may be approved by the Controller for an amount of not less than one crore of US dollars
+and the performance bond and banker's guarantee shall remain valid for a period of six years from the date of its
+submission.
+(4)
+Invocation of Performance Bond and Banker's Guarantee - Without prejudice to any penalty which may be imposed or
+prosecution which may be initiated for any offence under the Act or any other law for the time being in force, the
+performance bond and banker's guarantee submitted under sub-regulation (3) may be invoked in the following
+circumstances, namely :-
+(a)
+when the Controller has suspended the recognition of the foreign certifying authority under these regulations; or
+(b)
+for payment of an offer of compensation made by the Controller; or
+(c)
+for payment of liabilities and rectification costs attributed to the negligence of the foreign Certifying Authority, its officers
+or employees; or
+(d)
+for payment of the costs incurred in the discontinuation or transfer of operations of the foreign Certifying Authority, if the
+foreign Certifying Authority's authorization in the country of its origin or operations is discontinued; or
+(e)
+for payment of the costs incurred in the inspection of the infrastructure utilized by the foreign certifying authority for
+generation, issue and management of Digital Signature Certificates if such costs are not defrayed by the foreign
+certifying authority.
+(f)
+any other default made by the Certifying Authority in complying with the provisions of the Act or rules made thereunder
+or under these regulations.
+Explanation. - For the purpose of this sub-regulation, the expression "transfer of operation" shall have the meaning
+assigned to it in clause (47) of section 2 of the Income-tax Act, 1961 (
+43 of 1961
+).
+(5)
+Local office - Every applicant shall establish a local office in India.
+(6)
+Audit Report of infrastructure - (a) Every applicant shall furnish an audit report of its installed facilities and infrastructure
+associated with all functions of generation, issue and management of digital signature certificate audited according to
+Page 3/7
+----- PAGE 4 -----
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating un...
+standards at least equivalent to those specified under the Act.
+(b)
+The audit report mentioned in clause (a) shall contain a statement to the effect that the audit has been performed
+according to standards at least equivalent to those specified in the Act.
+(7)
+Fee - (a) Every application for the grant of recognition shall be accompanied by a non-refundable fee of twenty five
+thousand of US dollars payable by a bank draft or by a pay order drawn in the name of the Controller.
+(b)
+The application submitted to the Controller for renewal of recognition shall be accompanied by a nonrefundable fee of
+five thousand of US dollars payable by a bank draft or by a pay order drawn in the name of the Controller.
+(c)
+The Fee or any part thereof shall not be refunded if the recognition is suspended or revoked during its validity period.
+(8)
+Issuance of recognition - (a) The Controller may, within a period of four weeks from the date of receipt of the application
+under this regulation, after considering the documents accompanying the application and such other factors, as he may
+deem fit, grant or renew the recognition or reject the application:
+Provided that in exceptional circumstances and for reasons to be recorded in writing, the period of four weeks may be
+extended to such period, not exceeding eight weeks in all as the Controller may deem fit:
+Provided further while rejecting the application, reasons for rejection of the same may be specified.
+(b)
+If the application for recognition of the Foreign Certifying Authority under this regulation is approved, the applicant shall:
+(i)
+submit a performance bond and furnish a banker's guarantee within one month from the date of such approval to the
+Controller in accordance with the provisions of sub-regulation (3) of regulation 3(A);
+(ii)
+execute an agreement with the Controller binding himself to comply with the terms and conditions of the recognition.
+(9)
+Security Guidelines - (a) Any Foreign Certifying Authority recognized under this regulation shall have the sole
+responsibility of integrity, confidentiality and protection of information and information assets employed in its operation,
+considering classification, declassification, labeling, storage, access and destruction of information assets according to
+their value, sensitivity and importance of operation.
+(b)
+Information Technology Security Guidelines and Security Guidelines for a Foreign Certifying Authority recognized under
+this regulation aimed at protecting its integrity, confidentiality and availability of service shall be of a level equivalent to
+that of a Certifying Authority licensed under the Act as specified under Schedule-II and Schedule-III of the Information
+Technology (Certifying Authority) Rules 2000 respectively.
+(c)
+A Foreign Certifying Authority recognized under this regulation shall formulate its Information Technology and Security
+Policy for operation complying with these guidelines and submit it to the Controller:
+Provided that any change made by any Foreign Certifying Authority recognized under this regulation in the Information
+Technology and Security Policy shall be submitted by it within a period of two weeks to the Controller.
+(10)
+Audit of operations - (a) A foreign certifying authority recognized under this regulation shall get its operations audited
+annually by an auditor approved under sub-regulation (6) and such audit shall include inter alia,-
+(i)
+security policy and planning;
+(ii)
+physical security;
+(iii)
+technology evaluation;
+(iv)
+Page 4/7
+----- PAGE 5 -----
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating un...
+services administration;
+(v)
+relevant Certification Practice Statement;
+(vi)
+compliance to relevant Certification Practice Statement;
+(vii)
+contracts or agreements;
+(viii)
+regulations prescribed by the Controller;
+(ix)
+policy requirements of Certifying Authorities Rules, 2000.
+(b)
+The Recognized Foreign Certifying Authority shall conduct internal half yearly audit of the Security Policy, physical
+security and planning of its operation.
+(c)
+The Recognized Foreign Certifying Authority shall submit copy of each audit report to the Controller within a period of
+four weeks of the completion of such audit and where irregularities are found, the Certifying Authority shall take
+immediate appropriate action to remove such irregularities.
+(11)
+Inspection - (a) The Controller may, when he deems fit, call for physical inspection of the facilities and infrastructure
+associated with all functions of generation, issue and management of digital signature certificate belonging to a Foreign
+Certifying Authority recognized under this regulation.
+(b)
+The Recognized Foreign Certifying Authority shall bear all costs and expenses with regards to the inspection mentioned
+in clause (a) of this regulation.
+(B)
+Recognized Foreign Certifying Authority not to issue certificates in India. - Notwithstanding anything contained in these
+regulations, a Recognized Foreign Certifying Authority shall not issue digital signature certificates to Indian nationals
+residing in India.
+Explanation: For the purposes of these regulations, the term Indian national shall include a company, a firm, an
+association of persons, a body of individuals or a local authority whose registered office or principal place of business is
+located in India.
+(C)
+Validity of recognition. - (1) A recognition granted under sub-regulation (8) of regulation 3(A) shall be valid for a period of
+five years from the date of its issue.
+(2)
+The recognition granted under these regulations shall not be transferable.
+(D)
+Digital Signature Certificates issued prior to recognition to be invalid. - Where any Foreign Certifying Authority is
+recognized under these regulations, all digital signature certificates issued by such Certifying Authority prior to such
+recognition shall be invalid for the purposes of this Act.
+(E)
+Suspension or revocation of recognition. - (1) A recognition granted to a Foreign Certifying Authority under
+sub-regulation (8) of regulation 3(A) shall stand suspended when the performance bond submitted or the banker's
+guarantee furnished by such Certifying Authority is invoked under sub-regulation (4) of regulation 3(A).
+(2)
+The Controller may, if he is satisfied after making such inquiry, as he may think fit, that a Foreign Certifying Authority
+recognized under sub-regulation (8) of regulation 3(A) has,-
+(a)
+made a statement in, or in relation to, the application for the issue or renewal of the recognition, which is incorrect or
+false in material particulars;
+Page 5/7
+----- PAGE 6 -----
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating un...
+(b)
+failed to comply with the terms and conditions subject to which the recognition was granted;
+(c)
+failed to maintain the procedures and standards, if any, specified by the Controller,
+(d)
+contravened any provisions of this Act, rule, regulation or order made thereunder, shall suspend or revoke the
+recognition:
+Provided that no recognition shall be suspended or revoked unless the recognized Foreign Certifying Authority has been
+given a reasonable opportunity of showing cause against the proposed revocation.
+(F)
+Renewal of recognition. - (1) The provisions of these regulations shall apply in the case of an application for renewal of
+recognition as it applies to a fresh application for recognition.
+(2)
+A Recognized Foreign Certifying Authority shall submit an application for the renewal of its recognition not less than
+forty-five days before the date of expiry of the period of validity of recognition.
+(3)
+The application for renewal of recognition may be submitted in the form of electronic record subject to such
+requirements as the Controller may deem fit.
+(4)
+If the application for renewal of recognition of a Foreign Certifying Authority recognized under sub-regulation (8) of
+regulation 3(A) is approved, such Certifying Authority shall -
+(a)
+submit a performance bond and furnish a banker's guarantee within a period one month from the date of such approval
+to the Controller in accordance with sub-regulation (3) of regulation 3(A); and
+(b)
+execute an agreement with the Controller binding himself to comply with the terms and conditions of the recognition and
+the provisions of the Act and the rules and regulations made thereunder.
+(G)
+Refusal of recognition. - The Controller may refuse to grant or renew a recognition if-
+(i)
+the applicant has not provided the Controller with such information relating to its business, and to any circumstances
+likely to affect its method of conducting business, as the Controller may require; or
+(ii)
+the applicant is in the course of being wound up or liquidated; or
+(iii)
+a receiver has, or a receiver and manager have, been appointed by the court in respect of the applicant; or
+(iv)
+the applicant or any trusted person has been convicted, whether in India or out of India, of an offence the conviction for
+which involved a finding that it or such trusted person acted fraudulently or dishonestly, or has been convicted of an
+offence under the Act or these rules; or
+(v)
+an applicant commits breach of, or fails to observe and comply with, the procedures and practices as per the
+Certification Practice Statement; or
+(vi)
+an applicant fails to comply with the directions of the Controller; or
+(vii)
+the authorization granted to the applicant, to issue a Digital Signature Certificate under laws of a recognized country has
+been suspended or revoked:
+Provided that the reasons for refusal of recognition may be mentioned.
+(H)
+Requirements Prior to Cessation as recognized Foreign Certifying Authority. - Before ceasing to act as a recognized
+Page 6/7
+----- PAGE 7 -----
+The Information Technology (Recognition of Foreign Certifying Authorities not Operating un...
+Foreign Certifying Authority, the recognized Foreign Certifying Authority shall, -
+(a)
+give notice to the Controller of its intention to cease acting as a recognized Foreign Certifying Authority:
+Provided that the notice shall be made ninety days before ceasing to act as a recognized Foreign Certifying Authority or
+ninety days before the date of expiry of recognition;
+(b)
+advertise sixty days before the expiry of recognized or ceasing to act as recognized Foreign Certifying Authority, as the
+case may be, the intention in such daily newspaper or newspapers and in such manner as the Controller may
+determine;
+(c)
+notify its intention to cease acting as a recognized Foreign Certifying Authority to the subscriber of each unrevoked or
+unexpired Digital Signature Certificate issued by it:
+Provided that the notice shall be given sixty days before ceasing to act as a recognized Foreign Certifying Authority or
+sixty days before the date of expiry of unrevoked or unexpired Digital Signature Certificate, as the case may be;
+(d)
+the notice shall be sent to the Controller, affected subscribers and Cross Certifying Authorities by digitally signed e-mail
+and registered post;
+(e)
+revoke all Digital Signature Certificates that remain unrevoked or unexpired at the end of the ninety days notice period, if
+the subscribers have requested for revocation;
+(f)
+make a reasonable effort to ensure that discontinuing its recognition causes minimal disruption to its subscribers and to
+persons duly needing to verify digital signatures by reference to the public keys contained in outstanding Digital
+Signature Certificates;
+(g)
+make reasonable arrangements for preserving the records for a period of seven years;
+(h)
+pay reasonable restitution (not exceeding the cost involved in obtaining the new Digital Signature Certificate) to
+subscribers for revoking the Digital Signature Certificates before the date of expiry.
+Related AI tags, queries and research notes
+Translation
+Page 7/7

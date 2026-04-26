@@ -1,0 +1,354 @@
+
+----- PAGE 1 -----
+The Payment And Settlement Systems Regulations, 2008
+The Payment And Settlement Systems Regulations, 2008
+Source: https://indiankanoon.org/doc/39878125/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Payment And Settlement Systems Regulations, 2008
+UNION OF INDIA
+India
+The Payment And Settlement Systems Regulations, 2008
+Rule THE-PAYMENT-AND-SETTLEMENT-SYSTEMS-REGULATIONS-2008 of 2008
+Published on 12 August 2008
+Commenced on 12 August 2008
+[This is the version of this document from 12 August 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Payment And Settlement Systems Regulations, 2008
+Published vide Notification DPSS/194/02.11.01/2007-2008, dated 12.8.2008, published in the Gazette of India,
+Extraordinary, Part 3, Section 4, Sl. No. 131, dated 12.8.2008.
+18.
+/833
+In exercise of the powers conferred by sub-section (1) read with clauses (b) to (f) of sub-section (2) of section 38 of the
+Payment and Settlement Systems Act, 2007 (
+51 of 2007
+), the Reserve Bank of India hereby makes the following regulations, namely:--
+Chapter I
+Preliminary
+Page 1/7
+----- PAGE 2 -----
+The Payment And Settlement Systems Regulations, 2008
+1.
+Short title and commencement
+.-(1) These regulations may be called The Payment and Settlement Systems Regulations, 2008.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions
+.-(1) In these regulations, unless the context otherwise requires,-
+(a)
+"Act" means the Payment and Settlement Systems Act, 2007 (
+51 of 2007
+);
+(b)
+"Bank" means the Reserve Bank of India constituted by the Reserve Bank of India Act, 1934 (
+2 of 1934
+);
+(c)
+"Authorisation Certificate" means the Certificate containing the authorisation issued by the Bank under sub-section (1) of
+section 7 of the Act.
+(2)
+All other words and expressions used herein and not defined, but defined in the Act or the Reserve Bank of India Act,
+1934 (
+2 of 1934
+) shall have the meanings respectively assigned to them in those Acts.
+Chapter II
+Authorisation Of Payment Systems
+3.
+Submission of application for authorisation for commencing or carrying on a payment system
+.-(1) Every person desirous of commencing or carrying on a payment system (hereinafter referred to as "applicant") shall
+submit an application under sub-section (1) of section 5 of the Act to the Bank for grant of authorisation under
+sub--section (1) of section 7 of the Act.
+(2)
+The application under sub-regulation (1) shall be made in Form A addressed to the Chief General Manager of
+Department of Payment and Settlement Systems at Central Office of the Bank at Mumbai, or to such other office or
+officer of the Bank as may be specified by it in this behalf.
+(3)
+The application under sub-regulation (1) shall be accompanied by a non-refundable fee of Rs. 10,000 in the form of cash
+or electronic funds transfer or cheque or payment order or demand draft drawn in favour of the Bank.
+4.
+Grant of authorisation certificate
+.-(1) On consideration of the particulars furnished by the applicant, if the Bank is satisfied that the requirements under
+sub-section (1) of section 7 of the Act are fulfilled, it may issue an authorisation certificate in Form "B" to the applicant to
+commence or carry on a payment system and specify the date on which the authorisation shall take effect.
+(2)
+The Bank, while granting authorisation, may impose such conditions as it may deem fit, and the authorisation so granted
+shall be in force subject to satisfaction of such conditions.
+(3)
+The Bank may levy such amount as may be specified by it in the authorisation certificate, towards fees for authorisation
+to be in force under clause (c) of sub-section (2) of section 7 of the Act.
+(4)
+Where the Bank considers it necessary for the proper conduct of the payment system, it may require the applicant to
+Page 2/7
+----- PAGE 3 -----
+The Payment And Settlement Systems Regulations, 2008
+furnish a security deposit under clause (d) of sub-section (2) of section 7 of the Act, of such amount as may be specified
+by the Bank from time to time.
+Chapter III
+Payment Instructions And Determination Of Standards
+5.
+Every system provider, with respect to the format of payment instructions and other matters specified in clauses (a) to (f)
+of sub--section (1) of section 10 of the Act, shall be governed by the regulations, guidelines and instructions, set out in
+the Schedule, as modified from time to time.
+Chapter IV
+Furnishing Of Returns, Documents And Other Information
+6.
+Submission of returns, documents, etc
+.-(1) Every system provider shall be bound to submit to the Bank such returns, documents and other information as may
+be required by the Bank from time to time.
+(2)
+Without prejudice to the generality of the above, every system provider shall submit the following returns/documents to
+the Bank, namely:--
+(a)
+Monthly return, either in electronic form or paper format or both, containing the number of participants in the payment
+system operated, payment instructions processed, both in terms of volume and value, and number of instructions
+returned, with reasons.
+(b)
+Details of the defaults in fulfilling the payment obligations by the system participants to be reported on the date of
+occurrence.
+(c)
+Monthly return containing the details of the defaults in fulfilling the payment obligations by the system participants.
+(d)
+Quarterly certificate from the bankers about functioning of system provider's account with them.
+(e)
+Quarterly statement regarding any disputes between participants or between participants and the system provider.
+(f)
+Annual return relating to the staff strength, income and expenditure.
+(g)
+Annual return from the system provider showing changes in its Board of Directors or partners, as the case may be,
+changes in shareholding pattern whereby the aggregate shareholding of an individual or a group becomes equivalent to
+5% or more of the paid up capital of the system provider and changes in Memorandum or Articles of Association of the
+system provider.
+(3)
+The returns and documents referred to in clauses (a) to (g) of sub-regulation (2) shall be submitted by the system
+provider in the form specified by the Bank from time to time.
+(4)
+The returns and documents under sub-regulation (1) and those referred to in clauses (a) to (g) of sub-regulation (2) shall
+be submitted by the system provider from its registered office to the office of the Bank (Department of Payment and
+Settlement Systems, Central Office) situated in Mumbai:
+Provided that the Bank may at any time, direct that the returns and documents under sub-regulation (1) and those
+referred to in clauses (a) to (g) of sub-regulation (2) be submitted to any other office of the Bank as may be specified.
+7.
+Furnishing of accounts and balance sheets
+.-(1) Every system provider shall furnish to the Bank within three months from the date on which its annual accounts are
+closed and balanced, a copy of its audited balance sheet as on the last date of the relevant year together with a copy of
+the profit and loss account for the year and a copy of the Auditor's report:
+Page 3/7
+----- PAGE 4 -----
+The Payment And Settlement Systems Regulations, 2008
+Provided that the Bank may, on an application made by the system provider, extend the said period of three months for
+furnishing of returns by a further period not exceeding three months.
+(2)
+The system provider shall also publish, a copy of its balance sheet, profit and loss account and Auditor's report
+submitted to the Bank under sub-regulation (1), in any two leading newspapers, one in English and the other in Hindi, or
+place a copy of the same on its website within a period of one month from the date of submission of the same to the
+Bank.
+FORM A
+[See regulation 3(2)]
+Application Form For Authorisation To Set Up Payment System
+From
+Name and address of registered office/principal place of business of applicant (By Registered Post AD/Hand Delivery)
+To
+Chief General Manager
+Department of Payment and Settlement Systems
+Reserve Bank of India
+Central Office
+14th.
+Floor RBI Central Office Building
+Shaheed Bhagat Singh Marg
+Mumbai -400001
+Dear Sir,
+Application For Authorisation For Setting Up A Payment System
+We hereby submit an application under sub-section (1) of section 5 of the Payment and  Settlement Systems Act, 2007
+for authorisation to set up a payment system. The required  information and documents have been furnished as per
+instructions.
+We declare that to the best of our knowledge and belief the information furnished in the statements/annexes enclosed
+are true/correct and complete.
+A electronic funds transfer transaction No ...................or cheque or payment order or  demand draft No
+.....................dated for an amount of Rs. 10,000 (Rupees Ten Thousand  only) as non-refundable application fees is
+enclosed with the application.
+Yours faithfully
+............
+Signature:
+Name:
+Designation:
+Company Seal:
+Date
+Place:
+Encl: sheets
+Application For Authorisation To Set Up Payment System
+Part A
+1. Name of applicant:
+2. Constitution of applicant:
+(a)
+Is the applicant a company or firm or any other entity :
+(b)
+If the applicant is a company, is it a private limited company or public limited Company:
+(c)
+If the applicant is any other entity please specify the statute under which it is incorporated /established:
+3. Address of Registered Office and Principal Offices (if applicant is a company):
+Page 4/7
+----- PAGE 5 -----
+The Payment And Settlement Systems Regulations, 2008
+4. Principal place of business and address (if applicant is a firm or any other entity):
+5. If applicant is a firm, names, nationality and addresses of the partners :
+(Copy of Partnership Deed to be enclosed).
+6. Date of incorporation of applicant if it is a company:
+7. Date of commencement of business :
+(Memorandum of Articles and Association to be enclosed).
+8.
+If the applicant is any other entity, name, nationality and address of each of its directors/managers/principal officers:
+9.
+Main business of the applicant company/firm/other entity:
+10.
+Names and addresses of subsidiary companies /associated firms/other associated entities:
+11.
+Management information, if applicant is a company/firm/any other entry:
+(a)
+Name of Chief Executive:
+(b)
+Age, Nationality, Qualifications and Experience of Chief Executive:
+(c)
+Shares held by the Chief Executive and Directors in the applicant company:
+12.
+Name of the statutory auditors and their business address:
+(Attach the audited balance sheet, profit and loss statement of applicant for the last three years).
+13.
+Name and address of bankers of the applicant:
+14.
+Whether the applicant has committed any default in repayment of loan, advance or  any credit facility taken from a bank
+or financial institution, if so please mention full  particulars:
+(Attach a bankers' report on the functioning of the applicant account and its financial health in sealed cover(s)):
+15.
+Amount of fees deposited along with application:
+16.
+Mode of deposit of fees:
+(Additional information sheets/documents as required may be enclosed.
+Part B
+1. Particulars of payment system sought to be set up (full details to be furnished)  including process flow, technology to
+be used, security features, inter-operability,  etc., (details can be given in a separate note, if required):
+2. Expected benefits to the financial system/country from the operationalisation of the  payment system' sought to be set
+up:
+3. Whether other companies/firms/entities will be associated with the applicant in  setting up the payment system:
+4. If the answer to query 3 is yes, please furnish full particulars of this association:
+5. Previous experience of applicant and associated companies/firms/entities in the  payment systems area:
+6. Type of payment system proposed to be set up, i.e., whether electronic fund transfer  or payment card based/internet
+based/mobile phone based:
+7. Whether the payment system will cover a particular region or the whole country:
+8. Does the proposed payment system seek to address the needs of any particular  social/economic segment/s of the
+population:
+9. Method of settlement of payment claims, namely, whether gross, net or a hybrid  method combining both gross and
+net methods:
+10. Name of the settlement agent for the payment system sought to be set up:
+11. Whether the applicant or settlement agent will act as a central counterparty to  provide guaranteed/secured
+Page 5/7
+----- PAGE 6 -----
+The Payment And Settlement Systems Regulations, 2008
+settlement:
+12. On which day will be the account credited/ funds made available to the beneficiary:
+13. What will be the risks in operating the payment system sought to be set up and how  does the applicant propose to
+mitigate them:
+14. Mention the customer grievances redressal machinery proposed for the payment  system sought to be set up:
+15. The time proposed to be taken to dispose customer complaints:
+(Additional information sheets/ documents as required may be enclosed)
+Part C
+1. Amount of finance required for executing payment system project:
+2. Sources of finances for executing the payment system project:
+(a)
+Amount of own capital proposed to be deployed:
+(b)
+Amount of borrowings expected from banks:
+(c)
+Amount of borrowing expected from sources other than banks:
+(Sources may be mentioned)
+3. Rate of return on investment expected from the payment system sought to be set up:
+4. How does the applicant propose to recover its investment and earn an income, that  is, whether through cash flows or
+by levying joining fees, security fees, annual/operating charges, etc. (Please give full details):
+(Additional information sheets/documents as required may be enclosed).
+Part D
+Any other information the applicant wishes to furnish.
+FORM B
+[See regulation 4(1)]
+[section 7(2)]
+Reserve Bank Of India
+Department Of Payment And Settlement Systems
+Central Office, Mumbai
+(RBI Seal)
+CERTIFICATE OF AUTHORISATION
+No:
+In exercise of the powers conferred on the Reserve Bank of India by section 7 of the  Payment and Settlement Systems
+Act, 2007
+..............................................................
+Is hereby granted
+Certificate of Authorisation
+To commence/operate *a payment system/*a payment system for ...................................#,  with effect from
+.............................. subject to compliance with the terms and conditions given  on the reverse of Certificate.
+Given under my hand
+At Mumbai on this ............................day of.............20........
+Signature
+Chief General Manager
+RBI Seal
+Terms and Conditions*
+1. The Certificate of Authorisation or a certified copy thereof shall be displayed at the  main premises of the Payment
+System Provider and its other offices.
+2. The Payment System Provider shall adhere to the provisions of the Payment and  Settlement Systems Act, 2007,
+regulations issued thereunder and the directions/guidelines issued by the Reserve Bank of India.
+3. A sum of Rs .......................(Rupees............................only) is deposited as authorisation  fees with the Reserve Bank
+of India.
+Page 6/7
+----- PAGE 7 -----
+The Payment And Settlement Systems Regulations, 2008
+4. A sum of Rs .....................(Rupees..........................only) is deposited as security deposit  with the Reserve Bank of
+India
+5. (Any other condition as may be specified)
+*Strike off whichever is not applicable.
+#specify the payment system.
+Schedule
+(See regulation 5)
+1. Uniform Regulations and Rules for Bankers' Clearing Houses
+2. Procedural Guidelines on Mechanised Cheque Processing using MICR Technology
+3. Procedural Guidelines on Electronic Clearing Service (Credit Clearing)
+4. Procedural Guidelines on Electronic Clearing Service (Debit Clearing)
+5. Procedural Guidelines on National Electronic Funds Transfer System
+6. Operational Manual on National Electronic Funds Transfer System
+7. [ RTGS System Regulations, 2013.]
+[Substituted by Notification No. DPSS (CO) RTGS No. 1866/04.04.016/2016-17, dated 17.1.2017 (w.e.f. 12.8.2008).]
+[8]
+[Re-numbered '9' by Notification No. DPSS (CO) RTGS No. 1866/04.04.016/2016-17, dated 17.1.2017 (w.e.f.
+12.8.2008).]
+. Procedural Guidelines for Cheque Truncation System (CTS) (Version 1.1).
+[9]
+[Re-numbered '10' by Notification No. DPSS (CO) RTGS No. 1866/04.04.016/2016-17, dated 17.1.2017 (w.e.f.
+12.8.2008).]
+. Bye Laws, Rules and Regulations of the Clearing Corporation of India Limited.
+[10]
+[Re-numbered '11' by Notification No. DPSS (CO) RTGS No. 1866/04.04.016/2016-17, dated 17.1.2017, (w.e.f.
+12.8.2008).]
+. Such other instructions as may be specified by the Bank from time to time.
+Related AI tags, queries and research notes
+Translation
+Page 7/7

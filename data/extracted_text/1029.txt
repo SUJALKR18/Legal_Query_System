@@ -1,0 +1,693 @@
+
+----- PAGE 1 -----
+Import-Manifest (Aircraft) Regulations, 1976
+Import-Manifest (Aircraft) Regulations, 1976
+Source: https://indiankanoon.org/doc/102117123/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Import-Manifest (Aircraft) Regulations, 1976
+UNION OF INDIA
+India
+Import-Manifest (Aircraft) Regulations, 1976
+Rule IMPORT-MANIFEST-AIRCRAFT-REGULATIONS-1976 of 1976
+Published on 23 October 1976
+Commenced on 23 October 1976
+[This is the version of this document from 23 October 1976.]
+[Note: The original publication document is not available and this content could not be verified.]
+Import-Manifest (Aircraft) Regulations, 1976
+Published vide Notification G.S.R. 1550, dated 23rd October, 1976
+G.S.R. 1550, dated 23rd October, 1976. - In exercise of the powers conferred by Section 157, read with Section 30 of
+the Customs Act, 1962 (52 of 1962), the Central Board of Excise and Customs hereby makes the following regulations,
+namely :
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Import-Manifest (Aircraft) Regulations, 1976.
+(2)
+They shall come into force on such [date]
+Page 1/13
+----- PAGE 2 -----
+Import-Manifest (Aircraft) Regulations, 1976
+[This Regulation came into force on 1st April, 1978, vide G.S.R. No. 782 (E) (Notification No. 260-Custom), dated 29th
+December, 1977 Notification No. 219-Custom (G.S.R 1419), dated 22nd October, 1977, rescinded.]
+as the Central Board of Excise and Customs may, by notification in the official Gazette, appoint.
+2.
+Definition.
+- In these regulations, "form" means a form appended to these regulations.
+3.
+Import-manifest.
+- [(1)]
+[Renumbered as sub-rule (1) by Notification No. G.S.R. 958(E), dated 19.12.2003 (w.e.f. 23.10.1976)]
+Every import manifest shall -
+(a)
+be delivered in duplicate;
+(b)
+cover all the goods carried in the aircraft; and
+(c)
+consist of  -
+(i)
+a general declaration, in Form I.
+(ii)
+a passenger manifest, in Form II.
+(iii)
+a cargo manifest, in Form III.
+(iv)
+a list of private property in the possession of the Captain of the Aircraft and other member of the crew, in Form IV.
+(2)
+[ Any person who delivers the import manifest to proper officer under section 30 of the Customs Act, 1962 (52 of 1962),
+shall apply for registration with the Customs in Form V.]
+[Inserted by Notification No. G.S.R. 958(E), dated 19.12.2003 (w.e.f. 23.10.1976)]
+4.
+Cargo manifest.
+(1)
+The cargo manifest referred to in sub-clause (ii) of Clause (c) of Reg. 3 shall be delivered in separate sheets in respect
+of the following categories of cargo, namely :
+(a)
+Cargo to be landed;
+(b)
+unaccompanied baggage;
+(c)
+goods to be transhipped;
+(d)
+same bottom or retention cargo.
+(2)
+(a)
+Notwithstanding anything contained in sub-regulation (1), the cargo declaration in respect of  -
+(i)
+arms;
+(ii)
+ammunition;
+(iii)
+explosives;
+Page 2/13
+----- PAGE 3 -----
+Import-Manifest (Aircraft) Regulations, 1976
+(iv)
+narcotics;
+(v)
+dangerous drugs;
+(vi)
+gold; or
+(vii)
+silver;
+irrespective of whether for landing, for transhipment, or for being carried as same bottom cargo, shall be furnished in
+separate [sheet]
+[Size of entire document not more than 22 cm. X 36 cm. (Approx. 8.5 x 14 ).]
+and shall be set out in the order of the posts of loading.
+(b)
+If an aircraft does not carry any of the cargoes referred to in Clause (a) nil declaration shall be furnished.
+5.
+[ Passenger manifest.
+[Inserted by Notification No. G.S.R. 547(E), dated 30.8.2005.]
+- [(1) The passenger manifest shall be delivered within fifteen minutes of the closure and departure of the flights from the
+port of embarkation outside India.
+(2)
+The manifest shall be transmitted electronically to the Indian Customs either in flat file format or in United Nations/
+Electronic Data Interchange for Administration, Commerce and Transport Passenger List Advance Passenger
+Information (UN/EDIFACT PAXLST API) message format as per Annexure.]
+(3)
+Where the manifest cannot be delivered electronically due to some unavoidable reason, the same may be delivered as
+acceptable to the concerned [Principal Commissioner of Customs or]
+[Inserted by Notification No. G.S.R. 787(E), dated 11.8.2016 (w.e.f. 23.10.1976).]
+Commissioner of Customs in accordance with the conditions prescribed in the procedure.]
+[Annexure]
+[Inserted by Notification No. G.S.R. 787(E), dated 11.8.2016 (w.e.f. 23.10.1976).]
+(i)
+Flat File Naming Convention: The structure of file name will be as below:- 160401PJFKDELBY161.api where
+160401
+6 digit scheduled Arrival date in YYMMDD format
+P/C
+P for PAX and C for Crew
+JFK
+Departure Airport Code (Last Leg port)
+DEL
+3 character destination airport code (DEL=Delhi)
+BY
+2/3 digit IATA carrier code
+161
+3/4 digit IATA flight number
+.api
+File extension
+(ii)
+File structure Details: One file structure will contain a complete manifest for Pax/Crew of a particular flight. Separate file
+for Crew and PAX for each flight needs to be sent.
+(iii)
+Field Details/ Description:
+Page 3/13
+----- PAGE 4 -----
+Import-Manifest (Aircraft) Regulations, 1976
+S. No.
+Field Description
+Length
+Type
+Remarks
+1.
+Flight Carrier Code
+3
+Character
+IATA Carrier Code
+2.
+Flight Number
+4
+Number
+3/4 digit numeric
+3.
+Flight ScheduledDeparture Date
+8
+Character
+YYYYMMDD
+4.
+Flight ScheduledDeparture Time
+4
+Character
+HHMM
+5.
+Flight ActualDeparture Date
+8
+Character
+YYYYMMDD
+6.
+Flight ActualDeparture Time
+4
+Character
+HHMM
+7.
+Flight ScheduledArrival Date
+8
+Character
+YYYYMMDD
+8.
+Flight ScheduledArrival Time
+4
+Character
+HHMM
+9.
+Flight Last Leg Port Outside India
+3
+Character
+IATA Airport Code
+10.
+Page 4/13
+----- PAGE 5 -----
+Import-Manifest (Aircraft) Regulations, 1976
+Flight First Arrival Port in India
+3
+Character
+IATA Airport Code
+11.
+Number of Crews in flight
+4
+Number
+0 for PAX file
+12.
+Number of PAX in flight
+4
+Number
+0 for Crew file
+13.
+PNR
+10
+Character
+Passenger NameRecord Locator
+14.
+Pax/ Crew Serial Number
+4
+Number
+Running Serial Number within the file
+15.
+Pax/Crew Status
+1
+Character
+T = Transit,D = Disembarking
+16.
+Pax/Crew Type
+3
+Character
+CRW = CrewPAX = Passenger
+17.
+Document Type
+2
+Character
+P = Passport,O = Others
+18. #
+Document Number
+20
+Character
+Passport Number/ Unique ID Number for other travel documents
+19.
+Document Expiry Date
+8
+Character
+YYYYMMDD
+20.
+Document Issue Country
+Page 5/13
+----- PAGE 6 -----
+Import-Manifest (Aircraft) Regulations, 1976
+3
+Character
+3-char Country Code
+21.
+Pax/Crew Name
+100
+Character
+As appears in Passport/ other travel document
+22.
+Pax/Crew Date of Birth
+8
+Character
+YYYYMMDD
+23.
+Pax/Crew Nationality
+3
+Character
+3-char Country Code
+24.
+Pax/Crew Gender 1
+Character
+M/F
+25.
+Pax/Crew Embark Airport
+3
+Character
+IATA Airport Code
+26.
+Pax/Crew Disembark Airport
+3
+Character
+IATA Airport Code
+27.
+Pax/Crew Disembark Address
+40
+Character
+Address of PAX at Disembarking country (e.g. House/ Flat No,
+Street etc.)
+28.
+Pax/Crew Disembark City
+35
+Character
+Airport Name of Disembarking City
+29.
+Pax/Crew Disembark Postal Code
+9
+Character
+Postal Code of Disembark address
+30.
+Pax/Crew Disembark Country
+3
+Page 6/13
+----- PAGE 7 -----
+Import-Manifest (Aircraft) Regulations, 1976
+Character
+3-char country code of disembarking country
+31.
+Pax/Crew Residential Country code
+3
+Character
+3-char country code
+32.
+Subsequent Place/ Port of Call within the Country
+3
+Character
+IATA Airport Code
+33.
+Crew Other Document Code
+2
+Character
+Only in case of CREW, For License code L
+34.
+Crew Other Document Number
+20
+Character
+CREW License Number
+35.
+Crew Other Document Expiry Date
+8
+Character
+Date of expiry of License in YYYYMMDD format
+36.
+Crew Other Document Issue Country
+3
+Character
+3-char country code where license has been issued
+37.
+Crew Type
+3
+Character
+3-char CREW type as mentioned in UN/EDIFACT
+38.
+Pax/ Crew Home Address
+70
+Character
+Address of Home place (e.g. House/Flat No, Street name and
+number etc.)
+39.
+Pax/ Crew Home City
+70
+Character
+Home city name
+40.
+Pax/ Crew Home State
+70
+Page 7/13
+----- PAGE 8 -----
+Import-Manifest (Aircraft) Regulations, 1976
+Character
+Home State name
+41.
+Pax/ Crew Home Country
+3
+Character
+3-char country code
+42.
+Pax/ Crew Birth Place
+70
+Character
+Address of Birthplace (e.g. House/Flat No, Street name and
+number etc.)
+43.
+Pax/ Crew Birth City
+70
+Character
+City name of birth place
+44.
+Pax/ Crew Birth State
+70
+Character
+Birth place State name
+45.
+Pax/ Crew Birth Country
+3
+Character
+3-char country code of birth address
+46.
+Visa Number
+15
+Character
+Visa Number as in Travel Document
+47.
+Pax/Crew Visa Issue Date
+8
+Character
+YYYYMMDD
+48.
+Pax/Crew Visa Issue Place
+50
+Character
+VISA issue place
+49.
+EDIFACT Version Number
+10
+Character
+Version Number of US/UN EDIFACT
+50.
+EDIFACT Release Number
+10
+Page 8/13
+----- PAGE 9 -----
+Import-Manifest (Aircraft) Regulations, 1976
+Character
+Release Number of US/UN EDIFACT
+51.
+Carrier Contact Information
+50
+Character
+Name of the nodal officer of the carrier to contact
+52.
+Carrier Contact Number
+50
+Character
+Phone numbers of the contact person
+53.
+Carrier Contact Fax
+50
+Character
+FAX numbers of the contact person
+#The passport number is not mandatory for some countries viz. currently for Nepal and Bhutan and in those cases
+'O'(other) value to be mentioned in the document type and Unique Document number be provided.
+• Each data element should be separated by '|' (pipe line) in the record (Total 53 no. of '|' should be there in each record)
+• In case of value not available for a specific data element, null value (not space) should be given.
+• Each record for PAX should be in a single line, no line separator is required.
+Example of structure of file for PAX only
+B Y | 1 6 1 | 2 0 16 0 4 0 1 | 1 0 1 0 | | | 2 0 16 0 4 0 2 | 0 7 4 5 | L H R | D E L | 0 | 1 6 0 | H K 2 5 6 L | 2 0 | D | P A X | P
+| A 1 2 3 4 5 6 7 8 | 1 0 0 4 0 1 | G B R | J O H N D S O N | 7 5 0 5 0 6 | G B R | M | J F K | D E L | | | | | | | | | | | | | | | | | | | |
+| | | | J M A R T I N | 9 1 1 1 2 7 4 6 8 8 2 3 | | |
+(iv)
+For furnishing the information in United Nations/ Electronic Data Interchange for Administration, Commerce and
+Transport Passenger List Advance Passenger Information (UN/EDIFACT PAXLST API) message format, airlines/
+carriers may refer WCO/IATA/ICAO passenger list message (PAXLST) implementation guide. (www.wcoomd.org).
+FORM I
+(See Reg. 3)
+General Declaration
+Owner or Operator..........................................................
+Marks of Nationality and Registration.......................Flight No..........
+Date...................Departure from..............Arrival at...................
+(Place and Country)                                          (Place and Country)
+FLIGHT ROUTING
+[Place]
+[Place of origin, en-route stop and destination to be indicated.]
+Total Number of crew
+Number of passengers of this stage
+Cargo
+Departure Place:Embarking ?...Cargo
+attached through flight............................Arrival
+Place:Disembarking...............Through on same
+flight............................
+Manifest on same
+Declaration of Health
+For official use only
+Persons on board known to be suffering from illness
+Page 9/13
+----- PAGE 10 -----
+Import-Manifest (Aircraft) Regulations, 1976
+other than air sickness or the effects of accidents, as well as
+those cases of illness disembarked during the
+flight..........................
+Any other conditions on board which may lead to the
+spread of disease................................
+Details of each disinsecting or sanitary treatment
+(place, date, time, method) during the flight. If no disinsecting
+has been carried out during the flight, give details of most
+recent disinsecting.........................
+Signed., if required.....................
+Crew member concerned.
+I declare that all statements and particulars contained in this General Declaration, and in a supplementary form required
+to be presented with this General Declaration are complete, exact and true the best of my knowledge and that all
+through passengers will continue/have continued on the flight.
+Signature.................
+Authorized Agent or Pilot-in Command
+[FORM II]
+[Substituted by Notification No. G.S.R. 787(E), dated 11.8.2016 (w.e.f. 23.10.1976).]
+[See Regulation 3]
+Passenger Manifest
+Owner or Operator ............................................................. Marks of Nationality and Registration...............
+Flight No. ................. Date.............
+Point of embarkation ........................ Point of disembarkation ...............
+(Place and Country)                                                  (Place and Country)
+I. Flight information:
+For use by owner or operator only
+For official use only
+a. airline
+carrier code and flight number
+b. departure
+airport
+c. scheduled
+departure date and time
+d. actual
+departure date and time *
+e. arrival
+airport
+f. scheduled
+arrival date and time
+g.
+subsequent port of call outside the country
+h. number of
+crew in flight
+i. number of
+passengers in flight
+II. Passenger information:
+a. serial
+number in the manifest
+b. status;
+whether transiting or disembarking
+c. name of
+Page 10/13
+----- PAGE 11 -----
+Import-Manifest (Aircraft) Regulations, 1976
+the passenger
+d. gender
+e. date of
+birth
+f.
+nationality
+g. address
+in the country of primary residence
+h. place of
+birth
+i. address
+of birth *
+III. Journey information:
+a. journey
+start airport
+b.
+destination airport
+c. passenger
+name record locator
+d. address
+in India*
+e. residence
+country code*
+IV. Travel document information:
+a. document
+type
+b. document
+number
+c. expiry
+date
+d. country
+of issue
+V. Crew related information
+a. crew
+other document code*
+b. crew
+other document number*
+c. crew
+other document expiry date*
+d. crew
+other document issue country*
+e. crew
+type*
+VI. Visa related information for foreigners
+a. visa
+number *
+b. visa
+issue date*
+c. place of
+issue*
+VII. Message related information
+Page 11/13
+----- PAGE 12 -----
+Import-Manifest (Aircraft) Regulations, 1976
+a. EDIFACT
+version number
+b. EDIFACT
+release number
+c. Carrier
+contact information
+d. Carrier
+contact number
+e. Carrier
+contact fax
+Prepared by ............................................. Page
+................................... of ..........................
+pages.
+*The data fields with (*) mark are not mandatory.
+FORM III
+(See Reg. 3)
+Cargo Manifest
+Owner or Operator.................................Marks of Nationality and
+Registration......................Flight No.................... Date............ .......Point of loding ......................Point of unloding
+....................................
+(Place and Country)
+(Place and Country)
+Air-way bill No.
+Number of packages
+Nature of goods
+For use by owner or operator only
+For official use only
+Prepared by ?....................Page
+?...............................................of..................................................
+pages
+Size of entire document not more than 22 cm. x 36 cm. (Approx. 8.5" x 14").
+FORM IV
+(See Reg. 3)
+[List of private property in the possession of the Captain and Crew]
+[Size of the articles declared herein as ae to be landed, should be specified separately in these columns [G.S.R. 1550
+dated 23rd October, 1976].]
+Flight No..............................
+Aircraft departed for........................
+Arrived from.....................................
+Name of the new member
+Position held
+Currency
+Tobacco products
+Alcoholic Liquors
+Watches
+Jewelery
+Any other article not enumerated
+Signature
+Remarks
+Indian
+Foreign
+Page 12/13
+----- PAGE 13 -----
+Import-Manifest (Aircraft) Regulations, 1976
+Traveler's cheques, etc.
+S. No., Make Brand
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Aircraft imprest cash........................
+Aircraft cash collection.....................
+Gold, coin and bullion.......................
+Certified that the above declaration is true to the best of my
+knowledge.
+Signature of Captain of the Aircraft
+[FORM V]
+[Inserted by Notification No. G.S.R. 958(E), dated 19.12.2003 (w.e.f. 23.10.1976)]
+[See regulation 3(2)]
+Application Form For Registration
+1. Name of applicant with detail Permanent Account Number (PAN)
+(In case the applicant is a firm or a company, the name of each of the partners of the firm or the directors of the
+company as the case may be)
+2. Full address of the applicant :-
+(In case the applicant is a firm or a company, the full address of each of the partners or director or directors of the
+company as the case may be)
+4. Educational qualification of each of the persons who will actually be engaged in the filling of import manifest) :-
+5. The enclosures :-
+(a)
+Copy of contract, or
+(b)
+Memorandum of understanding, or
+(c)
+Agreement entered into with the foreign authorizing agent.
+I/We hereby declare that the contents of the above paragraphs are true to the best of my/our knowledge.
+Date:
+Place:
+Signature of the applicant(s)
+Related AI tags, queries and research notes
+Translation
+Page 13/13

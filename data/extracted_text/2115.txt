@@ -1,0 +1,117 @@
+
+----- PAGE 1 -----
+Frequency Band 2.4 Ghz To 2.4835 Ghz (Exemption From Licensing Requirement) Rules, 2005
+Frequency Band 2.4 Ghz To 2.4835 Ghz (Exemption From Licensing
+Requirement) Rules, 2005
+Source: https://indiankanoon.org/doc/155973247/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Frequency Band 2.4 Ghz To 2.4835 Ghz (Exemption From Licensing Requirement) Rules, 2005
+UNION OF INDIA
+India
+Frequency Band 2.4 Ghz To 2.4835 Ghz (Exemption From Licensing Requirement) Rules, 2005
+Rule FREQUENCY-BAND-2-4-GHZ-TO-2-4835-GHZ-EXEMPTION-FROM-LICENSING-REQUIREMENT-RULES-2005
+of 2005
+Published on 28 January 2005
+Commenced on 28 January 2005
+[This is the version of this document from 28 January 2005.]
+[Note: The original publication document is not available and this content could not be verified.]
+Frequency Band 2.4 Ghz To 2.4835 Ghz (Exemption From Licensing Requirement) Rules, 2005
+Published Vide Notification Gazette of India, Extra., Part 2, Section 3(i), dated 28.1.2005.
+1701.
+Notification No. G.S.R. 45 (E), dated 28.1.2005. - In exercise of the powers conferred by sections 4 and 7 of the Indian
+Telegraph Act, 1885 (
+13 of 1885
+) and sections 4 and 10 of the Indian Wireless Telegraphy Act, 1933 (
+17 of 1933
+Page 1/3
+----- PAGE 2 -----
+Frequency Band 2.4 Ghz To 2.4835 Ghz (Exemption From Licensing Requirement) Rules, 2005
+) and in supersession of the Indoor Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz
+(Exemption from Licensing Requirement) Rules, 2004, except as respects things done or omitted to be done before
+such supersession, the Central Government hereby makes the following rules, namely :-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Use of low power Equipment in the frequency band 2.4 GHz to 2.4835 GHz (Exemption
+from Licensing Requirement) Rules, 2005.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definition.
+- In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Indian Telegraph Act,1885 (13 of 1885);
+(b)
+"Effective Radiated Power" includes the gain of the antenna, if any;
+(c)
+words and expressions used in these rules and not defined but defined in the Act and the Indian Wireless Telegraphy
+Act, 1933 (
+17 of 1933
+), shall have the same meanings respectively as assigned to them in those Acts.
+3.
+Use of wireless equipment in the band 2.4 GHz to 2.4835 GHz.
+- Notwithstanding anything contained in any law for the time being in force, no licence shall be required by any person to
+establish, maintain, work, possess or deal in any wireless equipment, on non-interference, non-protection and shared
+(non-exclusive) basis, in the frequency band 2.4 GHz to 2.4835 GHz with the transmitter power, Effective Radiated
+Power and height of antenna as specified in the Table below, namely :-
+TABLE
+Maximum out power of transmitter
+Maximum Effective Radiated Power
+Height of Antenna
+(1)
+(2)
+(3)
+1 W (30 dBm) in Spread of 10 MHz or higher.
+4 W (36 dBm)
+Within 5 metres above the roof top of existing authorized building
+4.
+Standing Advisory Committee on Frequency Allocations clearance.
+- In case the top of Antenna is more than 5 metres beyond the existing roof top, then Standing Advisory Committee on
+Frequency Allocations clearance as applicable to antenna needs to be obtained for the antenna for outdoor applications.
+5.
+Interference.
+- The effect of unwanted energy due to one or a combination of emissions, radiations or induction upon reception in a
+radio communication system, manifested by any performance degradation, misinterpretation, or loss of information
+which could be extracted in the absence of such unwanted energy. In case where any person to whom a licence has
+been issued under section 4 of the Act, informs that his licensed system is getting harmful interference from any other
+radio communication system exempted under these rules, the use of such unlicensed Wireless equipment shall be
+discontinued forthwith.
+6.
+Page 2/3
+----- PAGE 3 -----
+Frequency Band 2.4 Ghz To 2.4835 Ghz (Exemption From Licensing Requirement) Rules, 2005
+Equipment.
+(1)
+The wireless equipment shall be type approved and designed and constructed in such a manner that the bandwidth of
+emission and other parameters shall conform to the limits specified in the Table referred to in rule 3.
+(2)
+The application for obtaining equipment type approval shall be made to the Central Government in such form as may be
+specified by that Government in this behalf.
+Related AI tags, queries and research notes
+Translation
+Page 3/3

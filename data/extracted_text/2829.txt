@@ -1,0 +1,1177 @@
+
+----- PAGE 1 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+The Black Money (Undisclosed Foreign Income and Assets) and
+Imposition of Tax Rules, 2015
+Source: https://indiankanoon.org/doc/55264484/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+1
+]
+Union of India - Act
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+UNION OF INDIA
+India
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Rule
+THE-BLACK-MONEY-UNDISCLOSED-FOREIGN-INCOME-AND-ASSETS-AND-IMPOSITION-OF-TAX-RULES-2015 of
+2015
+Published on 2 July 2015
+Commenced on 2 July 2015
+[This is the version of this document from 2 July 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Published vide Notification No. G.S.R. 529(E), dated 2nd July, 2015
+Ministry of Finance
+(Department of Revenue)
+G.S.R. 529(E). - In exercise of the powers conferred by sub-sections (1) and (2) of Section 85 of the Black Money
+(Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 (
+22 of 2015
+Page 1/22
+----- PAGE 2 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+), the Central Board of Direct Taxes with the approval of the Central Government hereby makes the following rules,
+namely:-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules,
+2015.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires,-
+(a)
+"Act" means the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 (
+22 of 2015
+);
+(b)
+"Chapter" means a Chapter of the Act;
+(c)
+"Form" means a Form appended to these rules;
+(d)
+"Income-tax Act" means the Income-tax Act, 1961 (
+43 of 1961
+);
+(e)
+"Section" means a section of the Act.
+(2)
+Words and expressions used and not defined in these rules but defined in the Act, the Income-tax Act or the rules made
+thereunder, shall have the meanings respectively assigned to them in those Acts and rules.
+3.
+Fair market value.
+(1)
+For the purposes of sub-section (2) of Section 3 of the Act, the fair market value of the assets shall be determined in the
+following manner, namely:-
+(a)
+value of bullion, jewelery or precious stone shall be the higher of,-
+(I)
+its cost of acquisition; and
+(II)
+the price that the bullion, jewelery or precious stone shall ordinarily fetch if sold in the open market on the valuation date
+for which the assessee may obtain a report from a valuer recognized by the Government of a country or specified
+territory outside India or any of its agencies for the purpose of valuation of bullion, jewelery or precious stone under any
+regulation or law;
+(b)
+valuation of archaeological collections, drawings, paintings, sculptures or any work of art (hereinafter referred to as
+artistic work) shall be the higher of,-
+(I)
+its cost of acquisition; and
+(II)
+the price that the artistic work shall ordinarily fetch if sold in the open market on the valuation date for which the
+Page 2/22
+----- PAGE 3 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+assessee may obtain a report from a valuer recognized by the Government of a country or specified territory outside
+India or any of its agencies for the purpose of valuation of artistic work under any regulation or law;
+(c)
+valuation of shares and securities,-
+(I)
+the fair market value of quoted share and securities shall be the higher of,-
+(i)
+its cost of acquisition; and
+(A)
+the average of the lowest and highest price of such shares and securities quoted on any established securities market
+on the valuation date; or
+(B)
+where on the valuation date there is no trading in such shares and securities on any established securities market,
+average of the lowest and highest price of such shares and securities on any established securities market on a date
+immediately preceding the valuation date when such shares and securities were traded on such securities market;
+(II)
+the fair market value of unquoted equity shares shall be the higher of,-
+(i)
+its cost of acquisition; and
+(ii)
+the value, on the valuation date, of such equity shares as determined in the following manner, namely:-
+(ii)
+the price as determined in the following manner, namely:-
+the fair market value of unquoted equity shares =| (A+B-L)(PE)| x (PV).
+where,
+A = book value of all the assets (other than bullion, jewelery, precious stone, artistic work, shares, securities and
+immovable property) as reduced by,- (i) any amount of income-tax paid, if any, less the amount of income-tax refund
+claimed, if any, and (ii) any amount shown as asset including the unamortised amount of deferred expenditure which
+does not represent the value of any asset;
+B = fair market value of bullion, jewelery, precious stone, artistic work, shares, securities and immovable property as
+determined in the manner provided in this rule;
+L = book value of liabilities, but not including the following amounts, namely:-
+(i)
+the paid-up capital in respect of equity shares;
+(ii)
+the amount set apart for payment of dividends on preference shares and equity shares;
+(iii)
+reserves and surplus, by whatever name called, even if the resulting figure is negative, other than those set apart
+towards depreciation;
+(iv)
+any amount representing provision for taxation, other than amount of income tax paid, if any, less the amount of
+income-tax claimed as refund, if any, to the extent of the excess over the tax payable with reference to the book profits
+in accordance with the law applicable thereto;
+(v)
+any amount representing provisions made for meeting liabilities, other than ascertained liabilities;
+(vi)
+any amount representing contingent liabilities other than arrears of dividends payable in respect of cumulative
+preference shares;
+PE = total amount of paid up equity share capital as shown in the balance-sheet;
+PV = the paid up value of such equity shares;
+(III)
+Page 3/22
+----- PAGE 4 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+the fair market value of unquoted share and security other than equity share in a company shall be the higher of,-
+(i)
+its cost of acquisition; and
+(ii)
+the price that the share or security shall ordinarily fetch if sold in the open market on the valuation date for which the
+assessee may obtain a report from a valuer recognized by the Government of a country or specified territory outside
+India or any of its agencies for the purpose of valuation of share and security under any regulation or law;
+(d)
+the fair market value of an immovable property shall be higher of,-
+(I)
+its cost of acquisition; and
+(II)
+the price that the property shall ordinarily fetch if sold in the open market on the valuation date for which the assessee
+may obtain a valuation report from a valuer recognized by the Government of a country or specified territory outside
+India in which the property is located or any of its agencies for the purpose of valuation of immovable property under any
+regulation or law;
+(e)
+value of an account with a bank shall be,-
+(I)
+the sum of all the deposits made in the account with the bank since the date of opening of the account; or
+(II)
+where a declaration of such account has been made under Chapter VI and the value of the account as computed under
+sub-clause (I) has been charged to tax and penalty under that Chapter, the sum of all the deposits made in the account
+with the bank since the date of such declaration:
+Provided that where any deposit is made from the proceeds of any withdrawal from the account, such deposit shall not
+be taken into consideration while computing the value of the account.
+(f)
+value of an interest of a person in a partnership firm or in an association of persons or a limited liability partnership of
+which he is a member shall be determined in the manner specified in clause (g).
+(g)
+The net asset of the firm, association of persons or limited liability partnership on the valuation date shall first be
+determined and the portion of the net asset of the firm, association of persons or limited liability partnership as is equal
+to the amount of its capital shall be allocated among its partners or members in the proportion in which capital has been
+contributed by them and the residue of the net asset shall be allocated among the partners or members in accordance
+with the agreement of partnership or association for distribution of assets in the event of dissolution of the firm or
+association, or, in the absence of such agreement, in the proportion in which the partners or members are entitled to
+share profits and the sum total of the amount so allocated to a partner or member shall be treated as the value of the
+interest of that partner or member in the partnership or association.
+Explanation. - For the purposes of this clause the net asset of the firm, association of persons or limited liability
+partnership shall be (A + B - L), which shall be determined in the manner provided in sub-clause (II) of clause (c).
+(h)
+valuation of any other asset shall be higher of,-
+(I)
+its cost of acquisition or the amount invested; and
+(II)
+the price that the asset would fetch if sold in the open market on the valuation date in an arm's-length transaction.
+(2)
+Notwithstanding anything contained in sub-rule (1), where an asset (other than a bank account) was transferred before
+the valuation date the fair market value of such asset shall be higher of its cost of acquisition and the sale price:
+Provided that where such asset was transferred without consideration or inadequate consideration before the valuation
+date, the fair market value of the asset shall be higher of its cost of acquisition and the fair market value on the date of
+Page 4/22
+----- PAGE 5 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+transfer.
+(3)
+Where a new asset has been acquired or made out of consideration received on account of transfer of an old asset or
+withdrawal from a bank account, then the fair market value of the old asset or the bank account, as the case may be,
+determined in accordance with sub-rule (1) and sub-rule (2) shall be reduced by the amount of the consideration
+invested in the new asset.
+Illustration
+A house property (H1) located outside India was bought in 1997 for twenty lakh rupees. It was sold in 2001 for twenty
+five lakh rupees which were deposited in a foreign bank account (BA). In 2002 another house property (H2) was bought
+for thirty lakh rupees. The investment in H2 was made through withdrawal from BA. H2 has not been transferred before
+the valuation date and its value on the valuation date is fifty lakh rupees. Assuming that the value of BA as computed
+under Rule 3(1)(e) is seventy lakh rupees, the fair market value (FMV) of the assets shall be as below:
+FMV of H1: (Higher of Rs. 20 lakh and 25 lakh) - Rs. 25 lakh (invested in BA) = Nil
+FMV of BA: Rs. 70 lakh - Rs. 30 lakh (invested in H2) = Rs. 40 lakh
+FMV of H2: (Higher of Rs. 30 lakh and 50 lakh) = Rs. 50 lakh
+(4)
+The fair market value of an asset determined in a currency which is one of the permitted currencies designated by the
+Reserve Bank of India under the Foreign Exchange Management Regulations, shall be converted into Indian currency
+as per the reference rate of the Reserve Bank of India on the date of valuation.
+(5)
+Where the fair market value of an asset is determined in a currency other than one of the permitted currencies
+designated by the Reserve Bank of India, then, such value shall be converted into United States Dollar on the date of
+valuation as per the rate specified by the Central Bank of the country or jurisdiction in which the asset is located and
+such value in United States Dollar shall be converted into Indian currency as per the reference rate of the Reserve Bank
+of India on the date of valuation:
+Provided that where the Central Bank of the country or jurisdiction in which the asset is located does not specify the rate
+of conversion from its local currency to United States Dollar then such rate shall be the one as specified by any other
+bank regulated under the laws of that country or jurisdiction.
+Explanation 1. - For the purposes of this rule,-
+(a)
+"established securities market" means an exchange that is officially recognized and supervised by a Governmental entity
+in which the market is located and that has a meaningful annual value of shares traded on the exchange;
+(b)
+"meaningful annual value of shares traded on the exchange" with respect to an exchange means it has an annual value
+of shares traded on the exchange (or a predecessor exchange) exceeding one billion United States Dollar during each
+of the three calendar years immediately preceding the calendar year in which the determination is being made;
+(c)
+"meaningful volume of trading on an on-going basis" with respect to each class of shares means,- (i) trades in each such
+class are effected, other than in de minimis quantities, on one or more established securities markets on at least sixty
+business days during the prior calendar year; and (ii) the aggregate number of shares in each such class that are traded
+on such market or markets during the prior year are at least ten percent. of the average number of shares outstanding in
+that class during the prior calendar year;
+(d)
+"quoted share or security" means the share or security which has a meaningful volume of trading on an ongoing basis
+on an established securities market and is regularly quoted by dealers where they actively do offer to, and in fact do,
+purchase the share from, and sell the share to, customers who are not related to the dealer in the ordinary course of a
+business;
+(e)
+"unquoted share and security" in relation to share or security means share or security which is not a quoted share or
+security.
+Explanation 2. - For the purpose of determining the market value as on valuation date referred to in in sub-rule (1), and
+Page 5/22
+----- PAGE 6 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+for the purpose of conversion into Indian currency or conversion of foreign currency into United States Dollar and
+thereafter into Indian currency, the date shall be-
+(a)
+in respect of asset declared under section 59 of the Act, the 1st day of July, 2015;
+(b)
+in any other case, the 1st day of April of the previous year.
+4.
+Tax authorities.
+- For the purposes of section 8, the tax authorities shall be the Assessing Officer, Joint Commissioner, Commissioner
+(Appeals), Commissioner or Principal Commissioner, Chief Commissioner or Principal Chief Commissioner.
+5.
+Notice of demand.
+- Where any tax, interest or penalty is payable in consequence of any order passed under the provisions of the Act, the
+Assessing Officer shall serve upon the assessee a notice of demand in Form 1 specifying the sum so payable.
+6.
+Appeal to Commissioner (Appeals).
+(1)
+An appeal under sub-section (1) of section 15 to the Commissioner (Appeals) shall be made in Form 2.
+(2)
+The form of appeal referred to in sub-rule (1), the grounds of appeal and the form of verification appended thereto
+relating to an assessee shall be signed and verified by the person who is authorized to sign the return of income under
+section 140 of the Income-tax Act, as applicable to the assessee.
+(3)
+Every appeal filed under sub-section (1) of section 15 shall be accompanied by a fee of ten thousand rupees.
+(4)
+No appeal under sub-section (1) of section 15 shall be admitted unless at the time of filing of the appeal the assessee
+has paid the tax alongwith penalty and interest thereon on the amount of liability which has not been objected to by the
+assessee.
+7.
+Appeal to Appellate Tribunal.
+(1)
+An appeal under sub-section (1) of section 18 to the Appellate Tribunal shall be made in Form 3, and where the appeal
+is made by the assessee, the form of appeal, the grounds of appeal and the form of verification appended thereto shall
+be signed by the person specified in sub-rule (2) of rule 6.
+(2)
+The memorandum of cross-objections under sub-section (4) of section 18 to the Appellate Tribunal shall be made in
+Form 4, and where the memorandum of cross objection is made by the assessee, the form of memorandum of cross
+objections, the grounds of cross-objections and the form of verification appended thereto shall be signed by the person
+specified in sub-rule (2) of rule 6.
+(3)
+Every appeal filed under sub-section (1) of section 18 shall be accompanied by a fee of twenty five thousand rupees.
+8.
+Form of tax arrears.
+- A statement of tax arrears under section 31 or section 33 shall be drawn up by the Tax Recovery Officer in Form 5.
+9.
+Declaration of undisclosed asset located outside India under section 59.
+(1)
+A declaration in respect of any undisclosed asset located outside India under section 59 of the Act shall be made in
+Form 6.
+(2)
+The Principal Commissioner or the Commissioner shall grant an acknowledgment in Form 7 to the declarant within
+Page 6/22
+----- PAGE 7 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+fifteen days of the submission of proof of payment of tax alongwith penalty by the declarant under sub-section (2) of
+section 63 of the Act in respect of the undisclosed asset located outside India.
+10.
+Educational qualifications.
+- The educational qualifications for the purpose of clause (f) of sub-section (3) of section 78 shall be the same as those
+prescribed in rule 51 of the Income-tax Rules, 1962.
+11.
+Authority in certain cases.
+- For the purposes of clause (c) of sub-section (4) of section 78, the authority shall be the Principal Chief Commissioner
+or Chief Commissioner or Principal Commissioner or Commissioner having jurisdiction over the case in the proceedings
+connected with which the tax practitioner is alleged to be guilty of misconduct.
+12.
+Rounding off of income, value of asset and tax.
+- For the purpose of section 79 the amount of undisclosed foreign income and asset computed in accordance with the
+Act and any amount payable or receivable by the assessee under the Act shall be rounded off to the nearest multiple of
+one hundred rupees or ten rupees, as the case may be and for this purpose, where such amount contains a part of a
+rupee consisting of paise then, if such part is fifty paise or more, it shall be increased to one rupee and if such part is
+less than fifty paise it shall be ignored.
+13.
+[ Payment of sum under sub-sections (2) or (5) of section 32.
+[Inserted by Notification No. G.S.R. 1180(E), dated 28.12.2016 (w.e.f. 2.7.2015).]
+- For the purpose of sub-section (2) or sub-section (5) of section 32 of the Act, the employer or debtor, as the case may
+be, shall remit the sum by way of pay order, drawn on an authorized bank or a branch of the State Bank of India, or a
+branch of the Reserve Bank of India in favour of the Assessing Officer or the Tax Recovery Officer who has made
+requisition under sub-section (1) or sub-section (4) of section 32 of the Act, as the case may be.
+14.
+Service of notice, summons, requisition, order or any other communication under section 74.
+(1)
+For the purposes of sub-section (1) of section 74, the addresses (including the address for electronic mail or electronic
+mail message) to which a notice or summons or requisition or order or any other communication under the Act may be
+delivered or transmitted shall be as provided in sub-rule (2) and sub-rule (3).
+(2)
+The addresses for communications to be delivered or transmitted in the manner provided in clause (a) or clause (b) of
+sub-section (1) of section 74 shall be-
+(i)
+the address available in the PAN database of the addressee; or
+(ii)
+the address available in the return furnished under the Income-tax Act to which the communication relates; or
+(iii)
+the address available in the last return furnished under the income-tax Act by the addressee; or
+(iv)
+in the case of addressee being a company, address of registered office as available on the website of Ministry of
+Corporate Affairs:
+Provided that the communication shall not be delivered or transmitted to the address mentioned in item (i) to (iv) where
+the addressee furnishes in writing any other address for the purposes of communication to the tax authority or any
+person authorized by such authority issuing the communication.
+(3)
+The addresses for communications to be delivered or transmitted electronically in the manner provided in clause (c) of
+sub-section (1) of section 74, shall be-
+(i)
+the e-mail address available in the return furnished under the Income-tax Act by the addressee to which the
+Page 7/22
+----- PAGE 8 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+communication relates; or
+(ii)
+the e-mail address available in the last return furnished under the Income-tax Act by the addressee; or
+(iii)
+in the case of addressee being a company, e-mail address of the company as available on the website of the Ministry of
+Corporate Affairs; or
+(iv)
+any e-mail address made available by the addressee to the tax authority or any person authorized by such tax authority.
+(4)
+The Principal Director General of Income-tax (Systems) or the Director General of Income-tax (Systems) shall specify
+the procedure, formats and standards for ensuring secure transmission of electronic communication and shall also be
+responsible for formulating and implementing appropriate security, archival and retrieval policies in relation to such
+communication.
+15.
+Approved valuer under section 77.
+(1)
+The Principal Commissioner or Commissioner shall maintain a register to be called the Register of Valuers in which the
+names and addresses of persons approved under sub-section (1) of section 77 of the Act shall be entered as valuers.
+(2)
+Any person who is registered as a valuer under section 34AB of the Wealth-tax Act, 1957 (
+27 of 1957
+), may apply to the jurisdictional Principal Commissioner or Commissioner for being approved as valuer under
+sub-section (1) of section 77 of the Act.
+(3)
+An application for approval as a valuer under sub-rule (2) shall be in Form 8 and shall be verified in the manner specified
+therein and shall be accompanied by a fee of rupees five thousand which shall not be refunded.
+(4)
+Subject to the provisions of sub-rule (5), the Principal Commissioner or Commissioner shall, within fifteen days from the
+end of the month in which Form 8 is received, approve such person as valuer under sub-section (1) of section 77 of the
+Act.
+(5)
+The Principal Commissioner or Commissioner on being satisfied that the details furnished in Form 8 are incorrect or
+false may, after providing a reasonable opportunity of being heard, reject the application for approval as a valuer under
+sub-section (1) of section 77 of the Act.]
+Appendix
+Form 1
+[See rule 5]
+Notice of demand
+To...................................................................................................
+Status.......................PAN.........................
+1. This is to give you notice that for the assessment year............ a sum of Rs. .........., details of which are given on the
+reverse, has been determined to be payable by you.
+2. The amount should be paid to the Manager, authorized Bank or State Bank of India or Reserve Bank of India at
+............. within .............. days of the service of this notice. The previous approval of the Additional/Joint Commissioner
+has been obtained for allowing a period of less than 30 days for the payment of the above sum.
+3. If you do not pay the amount within the period specified above, proceedings for the recovery thereof will be taken in
+accordance with sections 30 to 39 of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax
+Act, 2015.
+4. If you intend to appeal against the assessment or penalty, you may present an appeal under section 15 of the Act, to
+the Commissioner (Appeals)............. within thirty days of the receipt of this notice, in Form 2 as prescribed in rule 6, duly
+stamped and verified as laid down in that form.
+Page 8/22
+----- PAGE 9 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+5. The amount has become due as a result of the order of the Commissioner (Appeals) under section 15 of the Act.
+If you intend to appeal against the aforesaid order, you may present an appeal under section 18 of the Act to the
+Appellate Tribunal .............. within sixty days of the receipt of that order, in Form 3, as prescribed in rule 7, duly stamped
+and verified as laid down in that form.
+Place...................Date....................
+........................Assessing
+Officer?..................Address
+Notes:
+1. Delete inappropriate paragraphs and words.
+2. If you wish to pay the amount by cheque, the cheque shall be drawn in favour of the Manager, authorized Bank or
+State Bank of India or Reserve Bank of India.
+Form 2
+[See rule 6(1)]
+Appeal to the Commissioner (Appeals)
+Designation of the Commissioner (Appeals)
+*No.......... of 20............
+1. Name and address of the appellant
+2. Permanent Account Number
+3. Assessment year in connection with which the appeal is preferred
+4. Assessing Officer passing the order appealed against
+5. Section and sub-section of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act,
+2015, under which the Assessing Officer passed the order appealed against and the date of such order
+6. Where the appeal relates to any assessment or penalty, the date of service of the relevant notice of demand
+7. In any other case, the date of service of the intimation of the order appealed against
+8. Section and sub-section of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act,
+2015, under which the appeal is preferred
+9. Relief claimed in appeal
+10. Amount of tax alongwith penalty and interest thereon, arising out of the order in which appeal is preferred, that is not
+objected to by the appellant in appeal
+11. Whether the undisputed amount referred to in item 10 has been paid (if yes, give details of date of payment, challan
+number and amount paid)
+12. **Where an appeal in relation to any other assessment year is pending in the case of the appellant with any
+Commissioner (Appeals), give the details as to the -
+(a)
+Commissioner (Appeals), with whom the appeal is pending;
+(b)
+assessment year in connection with which the appeal has been preferred;
+(c)
+Assessing Officer passing the order appealed against;
+(d)
+Section and sub-section of the Act, under which the Assessing Officer passed the order appealed against and the date
+of such order
+13. Address to which notices may be sent to the appellant
+...................
+Signed
+(Appellant)
+Statement of Facts
+Grounds of Appeal
+...................
+Signed
+(Appellant)
+Page 9/22
+----- PAGE 10 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Form of Verification
+I, ..................., the appellant, do hereby declare that what is stated above is true to the best of my information and belief.
+Verified today the ................. day of ...................
+Place ...............
+........................Signature
+Notes:
+1. The form of appeal, grounds of appeal and the form of verification appended thereto shall be signed by a person in
+accordance with the provisions of rule 6(2).
+2. The memorandum of appeal, statement of facts and the grounds of appeal shall be in duplicate accompanied by a
+copy of the order appealed against and the notice of demand in original, if any.
+3. Delete the inappropriate words.
+4. *These particulars will be filled in in the office of the Commissioner (Appeals).
+5. If the space provided herein is insufficient, separate enclosures may be used for the purpose.
+6. **If appeals are pending in relation to more than one assessment year, separate particulars in respect of each
+assessment year may be given.
+7. The memorandum of appeal shall be accompanied by a fee of ten thousand rupees.
+8. The fee should be credited in a branch of the authorized Bank or a branch of the State Bank of India or a branch of
+the Reserve Bank of India.
+Form 3
+[See rule 7(1)]
+Form of appeal to the Appellate Tribunal
+In the Appellate Tribunal .....................
+*Appeal No.................... of 20.......................
+........................
+........................
+Appellant
+versus
+Respondent
+1. The State in which the assessment was made
+2. Permanent Account Number of the assessee (Appellant/Respondent)
+3. Section under which the order appealed against was passed
+4. Assessment year in connection with which the appeal is preferred
+5. Total undisclosed foreign income and asset assessed by the Assessing Officer for the assessment year referred to in
+item 4
+6. The Assessing Officer passing the original order
+7. Section of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 under which
+the Assessing Officer passed the order
+8. The Commissioner (Appeals) passing the order under section 12/ 15/45
+9. Date of communication of the order appealed against
+10. Address to which notices may be sent to the appellant
+11. Address to which notices may be sent to the respondent
+12. Relief claimed in appeal
+Grounds of Appeal
+1.
+2.
+3.
+4. etc.
+.............................Signed
+.............................Signed
+(Authorized representative, if any)
+(Appellant)
+Page 10/22
+----- PAGE 11 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Verification
+I, ........, the appellant, do hereby declare that what is stated above is true to the best of my information and belief.
+Verified today the ......... day of ..........
+Place ..............
+....................Signed
+Notes. - 1. The memorandum of appeal shall be in triplicate accompanied by two copies (at least one of which should be
+a certified copy) of the order appealed against, two copies of the relevant order of the Assessing Officer, two copies of
+the grounds of appeal before the first appellate authority, two copies of the statement of facts, if any, filed before the said
+appellate authority.
+2. The memorandum of appeal by an assessee under sub-section (1) of Section 18 of the shall be accompanied by a
+fee of twenty five thousand rupees.
+3. The fee shall be credited in a branch of the authorized Bank or a branch of the State Bank of India or a branch of the
+Reserve Bank of India after obtaining a challan and the triplicate challan shall be sent to the Appellate Tribunal with a
+memorandum of appeal. The Appellate Tribunal shall not accept cheques, drafts, hundies or other negotiable
+instruments.
+4. The memorandum of appeal shall be written in English or, if the appeal is filed in a Bench located in any such State
+as is for the time being notified by the President of the Appellate Tribunal for the purposes of rule 5A of the Income-tax
+(Appellate Tribunal) Rules, 1963, then, at the option of the appellant, in Hindi, and shall set forth, concisely and under
+distinct heads, the grounds of appeal without any argument or narrative and such grounds shall be numbered
+consecutively.
+5. *The number and year of appeal will be filled in the office of the Appellate Tribunal.
+6. Delete the inapplicable columns. If the space provided is found insufficient, separate enclosures may be used for the
+purpose.
+Form 4
+[See rule 7(2)]
+Form of memorandum of cross-objections to the Appellate Tribunal
+In The Appellate Tribunal ..........................
+*Cross-objection No. .......... of ..............
+**In Appeal No. ......... of .............
+........................
+........................
+Appellant
+versus
+Respondent
+1. **Appeal No. allotted by the Tribunal to which memorandum of cross-objections relates
+2. The State in which the assessment was made
+3. Section under which the order appealed against was passed
+4. Assessment year in connection with which the memorandum of cross-objections is preferred
+5. Date of receipt of notice of appeal filed by the appellant to the Tribunal
+6. Address to which notices may be sent to the respondent (cross-objector)
+7. Address to which notices may be sent to the appellant
+8. †Relief claimed in the memorandum of cross-objections
+? Grounds of Cross-Objections
+1.
+2.
+3.
+4. etc.
+.............................Signed
+.............................Signed
+(Authorized representative, if any)
+(Respondent)
+Page 11/22
+----- PAGE 12 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Verification
+I ................., the respondent, do hereby declare that what is stated above is true to the best of my information and belief.
+Verified today the .................... day of .............
+.........................Signed
+Notes. - 1. The memorandum of cross-objections must be in triplicate.
+2. The memorandum of cross-objections should be written in English or, if the memorandum is filed in a Bench located
+in any such State as is for the time being notified by the President of the Appellate Tribunal for the purposes of rule 5A
+of the Income-tax (Appellate Tribunal) Rules, 1963, then, at the option of the respondent, in Hindi, and should set forth,
+concisely and under distinct heads, the cross-objections without any argument or narrative and such objections should
+be numbered consecutively.
+3. *The number and year of memorandum of cross-objections will be filled in in the office of the Appellate Tribunal.
+4. **The number and year of appeal as allotted by the office of the Tribunal and appearing in the notice of appeal
+received by the respondent is to be filled in here by the respondent.
+5. ?  If the space provided is found insufficient, separate enclosures may be used for the purpose.
+Form 5
+[See rule 8]
+Certificate under section 31 or 33 of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax
+Act, 2015
+Office of the TRO..................
+Dated the..........................
+To
+.........................(PAN)
+.........................
+1. *This is to certify that a sum of Rs. .............. has become due from you on........... in the status of ................., details of
+which are given on the reverse.
+Whereas a certificate bearing Serial Number........... dated.............. had been forwarded by the Tax Recovery Officer,
+..................[name of the place], for the recovery of the sum of Rs.  ............. details of which are given on the reverse and
+the said Tax Recovery Officer has sent a certified copy of the said certificate to the undersigned under section 33(2) of
+the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 specifying a sum of Rs.
+............... which is to be recovered from you.
+2. You are hereby directed to pay the above sum within 15 days of the receipt of this notice failing which the recovery
+shall be made in accordance with the provisions of section 31 to section 39 of the Black Money (Undisclosed Foreign
+Income and Assets) and Imposition of Tax Act, 2015 and the Second Schedule to the Income-tax Act, 1961 and the
+rules made thereunder.
+3. In addition to the sums aforesaid, you will also be liable for all costs, charges and expenses incurred in respect of the
+services of this notice and of warrants and other processes and all other proceedings taken for realising the arrears.
+Seal
+..............................
+Tax Recovery Officer
+*Score out whichever paragraph is not applicable.
+Details of Amount in Arrears
+Amount (Rs.)
+Asst. year
+1. Tax
+2. Penalty u/s.....
+3. Interest u/s.....
+4. Any other sum (give details)
+5. Total
+Form 6
+Tax compliance for undisclosed foreign asset
+[See rule 9(1)]
+Page 12/22
+----- PAGE 13 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Form of declaration of undisclosed asset located outside India under section 59 of the Black Money (Undisclosed
+Foreign Income and Assets) and Imposition of Tax Act, 2015
+To,
+The Principal Commissioner/Commissioner
+........................................
+Sir/ Madam,
+I hereby make a declaration under section 59 of the Black Money (Undisclosed Foreign Income and Assets) and
+Imposition of Tax Act, 2015. I give below the necessary particulars:-
+1.
+Name of the declarant
+...............................
+2.
+Address: Office
+...............................
+E-mail................................... Telephone
+No...............................
+Residence....................................................................................
+.....................................................................................................
+E-mail.............................Telephone
+No........................................
+3.
+Permanent Account Number (PAN)
+...............................
+(In case PAN is not held, please apply for PAN and quote here)
+4.
+Original/Revised declaration
+...............................
+(If Revised provide date of filing original declaration)
+5.
+Status of the declarant
+(a) State whether individual, HUF, firm, company etc.
+...............................
+(b) State whether Resident/Non-Resident/Not ordinarily
+resident
+...............................
+6.
+Whether any Income-tax return has been filed? Yes/No. If Yes
+provide the following details
+(a) Asst. Year for which last return filed
+...............................
+(b) Assessing Officer before whom filed, if above return filed
+in paper form
+...............................
+7.
+Statement of undisclosed asset located outside India (as per
+annexure)
+8.
+Total amount of declaration of undisclosed asset located
+outside India
+Rs. ............................
+9.
+Page 13/22
+----- PAGE 14 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Tax payable thereon (@ 30% of item 8)
+Rs. ............................
+10.
+Penalty payable thereon (@ 30% of item 8)
+Rs. ............................
+11.
+Tax paid, if any, on or before the date of declaration
+Rs. ............................
+(Attach proof of payment and provide details below)
+{|
+Sl
+BSR Code of Bank
+Date of Deposit(DD/MM/YYYY)
+Serial Number of Challan
+Amount (Rs.)
+(1)
+(2)
+(3)
+(4)
+(5)
+i
+ii
+|-
+| 12.
+| Balance tax payable
+| ...............................
+|}
+Verification
+I, .................(Full name in block letters) son/daughter/wife of Shri................................ (name of father/husband) solemnly
+declare that-
+(a)
+the information given in this declaration is correct and complete to the best of my knowledge and belief;
+(b)
+my own undisclosed foreign asset and also any undisclosed foreign asset of other persons in respect of which I am
+chargeable to tax and income accruing or arising from assets held by me through any other person, for which I had
+failed to furnish a return under section 139 of the Income-tax Act, 1961/which I had failed to disclose in a return of
+income furnished by me before the commencement of the Act/which has otherwise escaped assessment, has been
+disclosed in this declaration;
+(c)
+the provisions of section 71(a) in respect of Conservation of Foreign Exchange and Prevention of Smuggling Activities
+Act, 1974 are not applicable to me;
+(d)
+the provision of section 71(b) in respect of Indian penal Code, the Narcotic Drugs and Psychotropic Substances Act,
+1985, the Unlawful Activities (Prevention) Act, 1967, the Prevention of Corruption Act, 1988 are not applicable to me;
+(e)
+the undersigned has not been notified under section 3 of the Special Court (Trial of Offences Relating to Transactions in
+Securities) Act, 1992;
+(f)
+the asset declared has not been acquired from income chargeable to tax under the Income-tax Act for any previous year
+relevant to assessment year,-
+(i)
+Page 14/22
+----- PAGE 15 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+where a notice under section 142 or sub-section (2) of section 143 or section 148 or section 153A or section 153C of the
+Income-tax Act has been received in respect of such assessment year and the proceeding is pending before the
+Assessing Officer;
+(ii)
+where a search has been conducted under section 132 or requisition has been made under section 132A or a survey
+has been carried out under section 133A of the Income-tax Act in a previous year and a notice under subsection (2) of
+section 143 of the said Act for the assessment year relevant to such previous year or a notice under section 153A or
+under section 153C of the said Act for an assessment year relevant to any previous year prior to such previous year has
+not been received and the time for issuance of such notice has not expired.
+I, further declare that I am making this declaration in my capacity as................... (designation) and that I am competent
+to make this declaration and verify it.
+.................................
+(Signature)
+Place......................
+Date.......................
+* Score out whichever is not applicable.
+Annexure to Form 6
+Statement of undisclosed assets located outside India
+Description of assets declared (Use separate sheet in case of multiple assets in the same category)
+1.
+Bank account
+(a)
+Name and address of Bank
+________________
+(b)
+Country of location
+________________
+(c)
+Account holder name(s)
+________________
+(d)
+Account Number
+________________
+(e)
+Account opening date
+________________
+(f)
+Sum of all credits in the account
+________________
+(g)
+Fair market Value as per Rule 3
+________________
+(Provide separate computation if different from (f))
+2.
+Immovable property (attach valuation report)
+(a)
+Nature of property (land/building/flat etc.)
+________________
+(b)
+Address of the property
+________________
+Page 15/22
+----- PAGE 16 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+(c)
+Country of location
+________________
+(d)
+Name(s) under which held
+________________
+(e)
+Date of acquisition
+________________
+(f)
+Total acquisition cost
+________________
+(g)
+Value as estimated by the valuer on valuation date
+________________
+(h)
+Fair Market value as per Rule 3
+________________
+(Provide separate computation if different from (f) or (g))
+3.
+Jewellery (attach valuation report)
+(a)
+Gold
+(I) Purity ________, Weight _________, Value ____________
+(II) Purity ________, Weight _________, Value ____________
+(b)
+Diamond (1 carat or more)
+(I) Carat ________, Cut _______, Colour ______,
+Clarity_______, Value ________
+(II) Carat ________, Cut _______, Colour ______,
+Clarity_______, Value ________
+(c)
+Diamond (less than 1 carat) and other precious stones
+Value ________
+(d)
+Other precious metals
+Value________
+4.
+Artistic work (attach valuation report)
+(a)
+Nature of artistic work
+________________
+(b)
+Country of location
+________________
+(c)
+Name(s) under which held
+________________
+(d)
+Date of acquisition
+________________
+Page 16/22
+----- PAGE 17 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+(e)
+Cost of acquisition
+________________
+(f)
+Value of artistic work as estimated by the valuer
+________________
+(g)
+Fair Market value as per Rule 3
+________________
+(Provide separate computation if different from (e) or (f))
+5.
+Shares and securities
+(a)
+Quoted shares and securities [Rule 3(1)(c)(I)]
+(i)
+Description of security/share
+(A) Name of issuer
+________________
+(B) Number of securities/shares
+________________
+(C) Type of security/share
+________________
+(ii)
+Established securities market where quoted
+________________
+(iii)
+Country where securities market located
+________________
+(iv)
+Name(s) under which held
+________________
+(v)
+Cost of acquisition
+________________
+(vi)
+Date(s) of acquisition
+________________
+(vii)
+Value as determined under Rule 3(1)(c)(I)
+________________
+(viii)
+Date of valuation
+________________
+(ix)
+Fair Market value as per Rule 3
+________________
+(Provide separate computation if different from (v) or (vii))
+(b)
+Unquoted equity share [Rule 3(1)(c)(II)] (attach valuation
+report)
+(i)
+Page 17/22
+----- PAGE 18 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Description of share
+(A) Name of issuer
+________________
+(B) Number of shares
+________________
+(C) Type of share
+________________
+(ii)
+Country of location
+________________
+(iii)
+Name(s) under which held
+________________
+(iv)
+Cost of acquisition
+________________
+(v)
+Date(s) of acquisition
+________________
+(vi)
+Value as determined under Rule 3(1)(c)(II)
+________________
+(vii)
+Date of valuation
+________________
+(viii)
+Fair Market value as per Rule 3
+________________
+(Provide separate computation if different from (iv) or (vi))
+(c)
+Unquoted shares and securities other than equity shares in a
+company [Rule 3(1)(c)(III)] (attach valuation report)
+(i)
+Description of share/security
+(A) Name of issuer
+________________
+(B) Number of securities/shares
+________________
+(C) Type of security/share
+________________
+(ii)
+Country of location
+________________
+(iii)
+Name(s) under which held
+________________
+(iv)
+Cost of acquisition
+________________
+(v)
+Date(s) of acquisition
+Page 18/22
+----- PAGE 19 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+________________
+(vi)
+Value as determined under Rule 3(1)(c)(III)
+________________
+(vii)
+Date of valuation
+________________
+(viii)
+Fair Market value as per Rule 3
+________________
+(Provide separate computation if different from (iv) or (vi))
+6.
+Any other asset
+(a)
+Description of asset
+________________
+(b)
+Country of location
+________________
+(c)
+Name(s) under which held
+________________
+(d)
+Value as determined under Rule 3(1)
+________________
+(e)
+Date of valuation
+________________
+(f)
+Fair Market value as per Rule 3
+________________
+(Provide separate computation if different from (d))
+7.
+Total fair market value of all the assets declared
+________________
+8.
+Deduction as per section 5 of the Act(where part of asset
+acquired from income already assessed under the Income-tax Act)
+(to be provided in respect of each asset separately)
+________________
+9.
+Deduction on account of investment made in the asset during
+the previous year relevant to the assessment year for which a
+notice u/s 142/143(2)/148/153A/153C of the I.T. Act is issued
+________________
+10.
+Total fair market value of all the undisclosed assets declared
+(7-8-9)(to be taken to item 8 of the form)
+________________
+.....................................
+(Signature)
+Page 19/22
+----- PAGE 20 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+.....................................
+(Name)
+Place.......................
+Date.........................
+Notes. - 1. If the total amount of tax payable is not paid before 31st December 2015, the declaration will be treated as
+void and shall be deemed never to have been made.
+2. If the declaration is made by misrepresentation or suppression of facts it shall be void and shall be deemed never to
+have been made.
+Form 7
+Tax compliance for undisclosed foreign asset
+[See rule 9(2)]
+Acknowledgement of declaration of undisclosed foreign asset under Chapter VI of the Black Money (Undisclosed
+Foreign Income and Assets) and Imposition of Tax Act, 2015
+Office of the Principal Commissioner/Commissioner of Income-tax,
+.................................
+.................................
+This is to acknowledge that a declaration under section 59 of the Black Money (Undisclosed Foreign Income and
+Assets) and Imposition of Tax Act, 2015 has been accepted in respect of the following:
+(1)
+Name and address of the declarant:
+..............................
+(2)
+Son/Daughter/Wife of
+..............................
+(3)
+PAN
+..............................
+(4)
+Receipt No. and date of filing the Declaration:
+..............................
+(5)
+Details of Declaration [As per Annexure to Form 6 (to be
+countersigned by the Principal Commissioner or Commissioner)]
+Total fair market value of all the assets declared and
+accepted
+Rs. ........................
+6)
+Tax payable on the assets declared & accepted
+Rs. ........................
+7)
+Penalty payable on the assets declared & accepted
+Rs. ........................
+8)
+Total Amount payable (6) + (7)
+Rs. ........................
+9)
+Details of tax paid
+Sl
+BSR Code of Bank
+Date of Deposit(DD/MM/YYYY)
+Serial Number of Challan
+Page 20/22
+----- PAGE 21 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+Amount (Rs.)
+(1)
+(2)
+(3)
+(4)
+(5)
+i
+ii
+Date: ......................
+..................................
+(Principal Commissioner/Commissioner of Income-tax)
+Note. - No acknowledgment will be issued unless the total amount of tax and penalty payable has been paid.
+[Form 8]
+[Inserted by Notification No. G.S.R. 1180(E), dated 28.12.2016 (w.e.f. 2.7.2015).]
+(See rule 15)
+Application for registration as an approved valuer under sub-section (1) of section 77 of the Black Money (Undisclosed
+Foreign Income and Assets) and Imposition of Tax Act, 2015
+To
+The Principal Commissioner/ Commissioner,
+Sir,
+I hereby apply for recognition as an approved valuer of _______________________________ (class of assets) under
+sub-section (1) of section 77 of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act,
+2015.
+1.
+Name in full (block letters)
+_____________________________________
+2.
+Father's/ husband's name
+_____________________________________
+3.
+Permanent address and Mobile No.
+_____________________________________
+_____________________________________
+_____________________________________
+4.
+Present address:
+_____________________________________
+(i) Office
+_____________________________________
+_____________________________________
+(ii) Residence
+_____________________________________
+_____________________________________
+5.
+Permanent Account Number (PAN)
+_____________________________________
+6.
+Date of birth
+_____________________________________
+7.
+Educational qualifications, including professional or technical
+Page 21/22
+----- PAGE 22 -----
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+qualifications
+_____________________________________
+[enclose self-certified copy of supporting documents]
+_____________________________________
+8.
+(a) Present occupation
+_____________________________________
+(b) If a partner of a firm, name, address and business/
+profession of the firm
+_____________________________________
+9.
+Details of appointment as registered valuer under section 34AB
+of the Wealth-tax Act, 1957:
+(i) Date of appointment
+_____________________________________
+(ii) Certificate/ Registration number
+_____________________________________
+(Attach certified copy of proof of registration)
+Verification
+I, ___________________________________ [name in block letters] do hereby declare that, -
+(i)
+what is stated in the above application is true and correct to the best of my knowledge and belief;
+(ii)
+the documents enclosed are the true copies thereof; and
+(iii)
+I continue to remain as registered valuer under section 34AB from the date of appointment referred in serial number (9)
+above.
+Place _____________.
+Date ______________.
+Signature
+List of enclosures:
+(i)
+Certified copy of proof of registration under section 34AB of the Wealth-tax Act, 1957.
+(ii)
+Self-certified copy of supporting documents depicting educational qualification.
+Note. - 1. Please see rule 15 of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Rules,
+2015.
+2. This Form must be accompanied by a non-refundable fee of Rs. 5,000/-. It is suggested that the fee should be
+credited in a branch of the authorized bank or a branch of the State Bank of India or a branch of the Reserve Bank of
+India after obtaining a challan from the Assessing Officer. The receipted challan should be enclosed along with the
+application.
+Related AI tags, queries and research notes
+Translation
+Page 22/22

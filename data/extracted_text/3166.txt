@@ -1,0 +1,2409 @@
+
+----- PAGE 1 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Joint Electricity Regulatory Commission for the State of Goa and
+Union Territories (Generation, Transmission and Distribution Multi
+Year Tariff) Regulations, 2018
+Source: https://indiankanoon.org/doc/103970351/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Generation, Transmission and
+Distribution Multi Year Tariff) Regulations, 2018
+UNION OF INDIA
+India
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Generation, Transmission and
+Distribution Multi Year Tariff) Regulations, 2018
+Rule
+JOINT-ELECTRICITY-REGULATORY-COMMISSION-FOR-THE-STATE-OF-GOA-AND-UNION-TERRITORIES-GENE
+RATION-TRANSMISSION-AND-DISTRIBUTION-MULTI-YEAR-TARIFF-REGULATIONS-2018 of 2018
+Published on 10 August 2018
+Commenced on 10 August 2018
+[This is the version of this document from 10 August 2018.]
+[Note: The original publication document is not available and this content could not be verified.]
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Generation, Transmission and
+Distribution Multi Year Tariff) Regulations, 2018
+Published vide Notification No. JERC-22/2018, dated 10.8.2018
+Page 1/45
+----- PAGE 2 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+No. JERC-22/2018. - In exercise of the powers conferred on it by sub-Section (2) of Section 181 read with Section 36,
+Section 39, Section 40, Section 41, Section 51, Section 61, Section 62, Section 63,Section 64, Section 65 and Section
+86 of the Electricity Act, 2003 (
+36 of 2003
+) and all other powers enabling it in this behalf, the Joint Electricity Regulatory Commission for the State of Goa and
+Union Territories (except Delhi), after previous publications, hereby makes the following Regulations, namely:
+Chapter 1
+Preliminary
+1.
+Short Title, Commencement and Extent.
+- 1.1. These Regulations shall be called the Joint Electricity Regulatory Commission for the State of Goa and Union
+Territories (Generation, Transmission and Distribution Multi Year Tariff) Regulations, 2018.
+1.2
+These Regulations shall come into force from the date of their publication in the Official Gazette and shall remain in
+force till March 31, 2022, unless otherwise reviewed/extended.
+1.3
+These Regulations extend to the whole of the State of Goa and the Union Territories of Andaman and Nicobar Islands,
+Lakshadweep, Dadra & NagarHaveli, Daman & Diu, Puducherry and Chandigarh.
+2.
+Definitions.
+- 2.1 In these Regulations, unless the context otherwise requires:
+1. "Accounting Statements" shall mean for each Financial Year, the balance sheet, the profit and loss statement, the
+cash flow statement and the report of the statutory auditors together with notes thereto:
+Provided that in case of any local authority engaged in the business of distribution of electricity, the Accounting
+Statement shall mean the items, as mentioned above, prepared and maintained in accordance with the relevant Acts or
+Statutes as applicable to such local authority;
+2. "Act" shall mean the Electricity Act, 2003 (
+36 of 2003
+), as amended from time to time;
+3.
+"Aggregate Revenue Requirement" or "ARR"shall mean the annual revenue requirement comprising of allowable
+expenses and return on capital pertaining to the Generating Company, Transmission Licensee or Distribution Licensee,
+for recovery through tariff, in accordance with these Regulations;
+4.
+"Allocation Statement" shall mean for each Financial Year, a statement showing the amounts of any revenue, cost,
+asset, liability, reserve or provision etc. determined by apportionment or allocation between Distribution Wires Business
+and Retail Supply Business of a Distribution Licensee;
+5.
+"Allotted Transmission Capacity" shall mean the power transfer in MW between the specified point(s) of injection and
+point(s) of drawal allowed to a Long-term Consumer or a Medium-term Consumer on the intra- State transmission
+system under the normal circumstances and the expression "allotment of transmission capacity" shall be construed
+accordingly;
+6.
+"Auxiliary Energy Consumption" or "AUX" in relation to a period in case of a Generating Station means the quantum of
+energy consumed by auxiliary equipment of the Generating Station, such as the equipment being used for the purpose
+of operating plant and machinery including switch yard of the Generating Station and the transformer losses within the
+Generating Station, expressed as a percentage of the sum of gross energy generated at the generator terminals of all
+the units of the Generating Station:
+Provided that Auxiliary Energy Consumption shall not include energy consumed for supply of power to housing colony
+and other facilities at the Generating Station and the power consumed for construction works at the Generating Station;
+7.
+Page 2/45
+----- PAGE 3 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+"Applicant" shall mean a Generating Company, Transmission Licensee or Distribution Licensee who has made an
+application for determination of Aggregate Revenue Requirement and tariff in accordance with the Act and these
+Regulations and shall include a Generating Company, Transmission Licensee or Distribution Licensee whose tariff is
+being determined by the Commission on suo-motu basis;
+8.
+"Area of Supply" shall mean the area within which a Distribution Licensee is authorised by its license to supply
+electricity;
+9.
+"Authority" shall mean the Central Electricity Authority referred to in Section 70 of the Act;
+10.
+"Availability" in relation to a transmission system for a given period shall mean the time in hours during the period the
+transmission system is capable of transmitting electricity at its rated voltage expressed in percentage of total hours in
+the given period;
+11.
+"Bank Rate" shall mean the Bank Rate declared by the Reserve Bank of India from time to time;
+12.
+"Base Year" shall mean the Year immediately preceding the first Year of the Control Period;
+13.
+"Bulk Power Transmission Agreement" shall mean an executed Agreement that contains the terms and conditions under
+which a Transmission System User is entitled to access the intra-State transmission system of a Transmission Licensee;
+14.
+"Change in Law" shall mean the occurrence of any of the following events:
+(a)
+enactment, bringing into effect or promulgation of any new Indian law: or
+(b)
+adoption, amendment, modification, repeal or re-enactment of any existing Indian law: or
+(c)
+change in interpretation or application of any Indian law by a competent court, Tribunal or Indian Governmental
+Instrumentality, which is the final authority under law for such interpretation or application: or
+(d)
+change by any competent statutory authority in any condition or covenant of any consent or clearances or approval or
+licence available or obtained for the project: or
+(e)
+coming into force or change in any bilateral or multilateral agreement/treaty between the Government of India and any
+other Sovereign Government having implication for the Generating Station or the transmission system regulated under
+these Regulations;
+15.
+"Central Commission" or "CERC" shall mean the Central Electricity Regulatory Commission referred to in sub-section (1)
+of Section 76 of the Act;
+16.
+"Commission" shall mean the Joint Electricity Regulatory Commission for the State of Goa and Union Territories (except
+Delhi) referred to in Section 83 of the Act;
+17.
+"Control Period" shall mean the period of three (3) Years from April 1, 2019 to March 31, 2022;
+18.
+"Central Transmission Utility" or "CTU" shall mean any Government company which the Central Government may notify
+under sub-section (1) of Section 38 of the Act;
+19.
+"Cut-off Date" shall mean 31stMarch of the Year closing after two (2)Years from the Year of commercial operation of the
+project, and in case the project is declared under commercial operation in the last quarter of a Year, the Cut-off Date
+shall be 31stMarch of the Year closing after three (3) Years from the Year of commercial operation:
+Page 3/45
+----- PAGE 4 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Provided that the Cut-off Date may be extended by the Commission if it is proved on the basis of documentary evidence
+that the capitalisation could not be made within the Cut-off Date for reasons beyond the control of the project developer;
+20.
+"Consumer" shall any person who is supplied with electricity for his own use by a Licensee or the Government or by any
+other person engaged in the business of supplying electricity to the public under this Act or any other law for the time
+being in force and includes any person whose premises are for the time being connected for the purpose of receiving
+electricity with the works of a Licensee, the Government or such other person, as the case may be, but shall be
+restricted to such Consumers within the State;
+21.
+"Contracted Capacity" shall mean the capacity in MW contracted by a Transmission System User;
+22.
+"Day" shall mean a day starting at 00.00 hours and ending at 24.00 hours;
+23.
+"Date of Commercial Operation" or "COD" in case of a transmission system shall mean the date declared by the
+Transmission Licensee from 00.00 hours,for which an element of the transmission system is in regular service after
+successful trial operation for transmitting electricity, and communication signal from sending end to receiving end:
+Provided that where the transmission line or substation is dedicated for evacuation of power from a particular
+Generating Station, the Generating Company and Transmission Licensee shall endeavour to commission the
+Generating Station and the transmission system simultaneously as far as practicable and shall ensure the same through
+appropriate Implementation Agreement:
+Provided also that in case a transmission system or an element thereof is prevented from regular service for reasons not
+attributable to the Transmission Licensee or its supplier or its contractors but is on account of the delay in
+commissioning of the concerned Generating Station or in commissioning of the upstream or downstream transmission
+system, the Transmission Licensee shall approach the Commission through an appropriate application for approval of
+the Date of Commercial Operation of such transmission system or an element thereof:
+Provided further that the Date of Commercial Operation for a Generating Station shall be as defined in the prevalent
+CERC Tariff Regulations;
+24.
+"De-capitalisation" shall mean reduction in Gross Fixed Assets of the project corresponding to the removal of assets as
+approved by the Commission;
+25.
+"Distribution Business" shall mean the business of operating and maintaining a distribution system for supplying
+electricity in the Area of Supply of the Distribution Licensee;
+26.
+"Distribution Licensee" shall mean a Licensee authorised to operate and maintain a distribution system for supplying
+electricity to the Consumers in its Area of Supply;
+27.
+"Distribution Wires Business" shall mean the business of operating and maintaining a distribution system for wheeling of
+electricity in the Area of Supply of the Distribution Licensee;
+28.
+"Expected Revenue from Tariff and Charges" shall mean the revenue estimated to accrue to the Generating Company,
+Transmission Licensee or Distribution Licensee from the regulated business at the prevailing tariff;
+29.
+"Electricity Supply Code" shall mean the Electricity Supply Code specified under Section 50 of the Act;
+30.
+"Existing Project" shall mean a project declared under commercial operation prior to April 1, 2019;
+31.
+"Force Majeure Event" shall mean, with respect to any party, any event or circumstance or combination of events or
+circumstances including those stated below, which is not within the reasonable control of, and is not due to an act of
+omission or commission of that party and which, by the exercise of reasonable care and diligence, could not have been
+avoided, and without limiting the generality of the foregoing, would include the following events:
+Page 4/45
+----- PAGE 5 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+(a)
+An Act of God including lightning, drought, fire and explosion, earthquake, volcanic eruption, landslide, flood, cyclone,
+typhoon, tornado, geological surprises, or exceptionally adverse weather conditions which are in excess of the statistical
+measures for the last hundred Years: or
+(b)
+Any act of war, invasion, armed conflict or act of foreign enemy, blockade, embargo, revolution, riot, insurrection,
+terrorist or military action: or
+(c)
+Industry-wide strikes and labour disturbances having a nationwide impact in India;
+32.
+"Generation Company" shall mean any company or body corporate or association or body of individuals, whether
+incorporated or not, or artificial juridical person, which owns or operates or maintains a Generating Station and for the
+purpose of these Regulations, shall exclude a company generating electricity from renewable sources;
+33.
+"Generating Station" shall mean any station for generating electricity, including any building and plant with step-up
+transformer, switchgear, switch yard, cables or other appurtenant equipment, if any, used for that purpose and the site
+thereof; a site intended to be used for a Generating Station, and any building used for housing the operating staff of a
+Generating Station, and where electricity is generated by water-power, includes penstocks, head and tail works, main
+and regulating reservoirs, dams and other hydraulic works, but does not in any case include any sub-station and for the
+purpose of these Regulations shall exclude stations generating electricity from renewable sources;
+34.
+"Grid" shall mean the high voltage backbone system of inter-connected transmission lines, sub-stations and generating
+plants;
+35.
+"Gross Station Heat Rate" or "GHR" means the heat energy input in kCal required to generate one kWh of electrical
+energy at generator terminals of a thermal Generating Station;
+36.
+"Integrated Utility" means the Department of Power in the State of Goa and the Union Territories of Andaman and
+Nicobar Islands, Chandigarh, Daman and Diu, Lakshadweep and Puducherry, in its present form or the successor
+entities performing more than one of the functions of generation, transmission and distribution after restructuring thereof;
+37.
+"Licensed Business" shall mean as defined in Regulation 2 of Joint Electricity Regulatory Commission for Goa & Union
+Territories (Treatment of Other Business of Transmission Licensees and Distribution Licensees) Regulations, 2009 as
+amended from time to time;
+38.
+"Licensee" shall mean a person who has been granted license under Section 14 of the Act and for the purpose of these
+Regulations shall also include an Integrated Utility;
+39.
+"MCLR" shall mean One Year Marginal Cost of Funds based Lending Rate;
+40.
+"Mid-term Review" shall mean a review to be undertaken in accordance with the Regulation 5.2 (b);
+41.
+"Month" shall mean a calendar month as per the Gregorian calendar;
+42.
+"New Project" shall mean a project declared under commercial operation on or after April 1, 2019;
+43.
+"Non-Tariff Income" shall mean income relating to the Licensed Business other than from tariff, excluding any income
+from Other Business and, in case of the Retail Supply Business of a Distribution Licensee, excluding income from
+wheeling and receipts on account of Cross-Subsidy Surcharge and Additional Surcharge on charges of wheeling;
+44.
+"Operation and Maintenance expenses" or "O&M expenses" in relation to a Generating Company, Transmission
+Page 5/45
+----- PAGE 6 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Licensee or Distribution Licensee shall mean the expenditure incurred on operation and maintenance of the system by
+the Generating Company, Transmission Licensee or Distribution Licensee, and includes the expenditure on manpower,
+repairs, spares, consumables, insurance and overheads etc.;
+45.
+"Original Project Cost" means the capital expenditure incurred by the Generating Company or the Transmission
+Licensee or the Distribution Licensee, as the case may be, within the original scope of the project up to the Cut-off Date
+as admitted by the Commission;
+46.
+"Other Business" shall mean as defined in Regulation 2(i)(f) of Joint Electricity Regulatory Commission for Goa & Union
+Territories (Treatment of Other Business of Transmission Licensees and Distribution Licensees) Regulations, 2009, as
+amended from time to time;
+47.
+"Prudence Check" shall mean scrutiny of the reasonableness of expenditure incurred or proposed to be incurred,
+financing plan, use of efficient technology, cost and time over-run and such other factors as may be considered
+appropriate by the Commission for determination of tariff;
+48.
+"Rated Voltage" shall mean the manufacturer's design voltage at which the transmission system is designed to operate
+or such lower voltage at which the line is charged, for the time being, in consultation with Transmission System Users;
+49.
+"Retail Supply Business" shall mean the business of sale of electricity by a Distribution Licensee to its Consumers in
+accordance with the terms of its license;
+50.
+"State" shall mean the State of Goa, and includes the Union Territories, except Delhi;
+51.
+"State Grid Code" shall mean the State Grid Code specified by the Commission under Clause (h) of subsection (1) of
+Section 86 of the Act;
+52.
+"State Load Despatch Centre" or "SLDC" shall mean the centre established under sub-section (1) of Section 31 of the
+Act;
+53.
+"Transmission Licensee" shall mean a Licensee authorised to establish or operate transmission lines;
+54.
+"Transmission System User" shall mean the Distribution Licensee or Open Access User, as the case maybe, who uses
+the intra-State transmission network for the purpose of transmission of electricity;
+55.
+"Useful life" in relation to a unit of a transmission system and distribution system from the Date of Commercial Operation
+shall be as defined in Appendix I to these Regulations;
+56.
+"Working Day" shall mean a Day on which banks are open for business;
+57.
+"Year" or "Financial Year" shall mean a Financial Year (FY), beginning from 1st April of calendar Year and ending on
+31st March of the next calendar Year.
+2.2
+Words and expressions occurring in these Regulations and not defined herein but defined in the Act or Grid Code or
+State Grid Code shall bear the same meanings as respectively assigned to them in the Act or Grid Code or State Grid
+Code and the words and expressions used herein but not specifically defined herein or in the Act or Grid Code or State
+Grid Code shall have the meanings generally assigned to them in the electricity industry.
+2.3
+In the interpretation of these Regulations, unless the context otherwise requires:
+(a)
+Words in the singular or plural term, as the case may be, shall also be deemed to include the plural or the singular term,
+Page 6/45
+----- PAGE 7 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+respectively;
+(b)
+The terms "include" or "including" shall be deemed to be followed by "but not limited to" regardless of whether such
+terms are followed by such phrases or words of like import;
+(c)
+References herein to the "Regulations" shall be construed as a reference to these Regulations or as may be amended
+or modified by the Commission from time to time in accordance with the applicable laws in force;
+(d)
+The headings within the Regulations are inserted for convenience and be read together with the text below for the
+purpose of interpretation of these Regulations;
+(e)
+References to the Statutes, Regulations or guidelines shall be construed as including all statutory provisions
+consolidating, amending or replacing such Statutes, Regulations or guidelines, as the case may be, referred to;
+(f)
+In case of inconsistency between any provision of these Regulations and any other Regulations or Orders passed by the
+Commission, the provisions of these Regulations shall prevail.
+3. Scope of Regulation and extent of application.
+- 3.1 The Commission shall determine tariff within the Multi Year Tariff framework, for all matters for which the
+Commission has jurisdiction under the Act, including in the following cases:
+(a)
+Supply of electricity by a Generating Company to a Distribution Licensee:
+Provided that where a shortage of supply of electricity exists, it may fix the minimum and maximum ceiling of tariff for
+sale or purchase of electricity in pursuance of an agreement, entered into between a Generating Company and a
+Distribution Licensee or between Distribution Licensees, for a period not exceeding one year to ensure reasonable
+prices of electricity;
+(b)
+Intra-State transmission of electricity;
+(c)
+Intra-State wheeling of electricity;
+(d)
+Retail supply of electricity:
+Provided that in case of distribution of electricity in the same area by two or more Distribution Licensees, the
+Commission may, for promoting competition among Distribution Licensees, fix only the maximum ceiling of tariff for retail
+sale of electricity:
+Provided further that where the Commission has allowed Open Access to certain Consumers under subsection
+(2)
+of Section 42 of the Act, such Consumers, notwithstanding the provisions of clause (d) of subsection (1) of Section 62 of
+the Act, may enter into an agreement with any person for supply or purchase of electricity on such terms and conditions
+(including tariff) as may be agreed between them. Such Open Access shall be regulated by provisions of Joint Electricity
+Regulatory Commission for the State of Goa and Union Territories (Connectivity and Open Access in Intra-State
+Transmission and Distribution) Regulations, 2017 as amended from time to time.
+3.2
+In accordance with the principles laid out in the Regulation 48, Regulation 50 and Regulation 57, the Commission shall
+determine Aggregate Revenue Requirement for:
+(a)
+Distribution Wires Business; and
+(b)
+Retail Supply Business.
+3.3
+The Distribution Licensee shall file an application containing separate details for determination of Aggregate Revenue
+Requirement for Distribution Wires Business and Retail Supply Business, in accordance with Regulation 48 specified in
+Page 7/45
+----- PAGE 8 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+these Regulations.
+3.4
+The wheeling charges shall be based on the Aggregate Revenue Requirement determined for the Distribution Wires
+Business.
+3.5
+The Retail Supply tariff for retail sale of electricity shall be based on the Aggregate Revenue Requirement determined
+for the Retail Supply Business.
+3.6
+The Commission shall also determine Cross-Subsidy Surcharge in addition to the charges for wheeling under the first
+proviso to sub-section (2) of Section 42 of the Act, in accordance with the Joint Electricity Regulatory Commission for
+the State of Goa and Union Territories (Connectivity and Open Access in Intra- State Transmission and Distribution)
+Regulations, 2017, as amended from time to time.
+3.7
+The Commission shall also determine Additional Surcharge under sub-section (4) of Section 42 of the Act, in
+accordance with Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Connectivity and
+Open Access in Intra-State Transmission and Distribution) Regulations, 2017, as amended from time to time.
+3.8
+Notwithstanding anything contained in these Regulations, the Commission shall adopt the tariff, if such tariff has been
+determined through a transparent process of bidding in accordance with the guidelines issued by the Central
+Government pursuant to Section 63 of the Act.
+4. Norms of operation to be ceiling norms.
+- 4.1 For removal of doubts, it is clarified that the norms of operation specified under these Regulations are the ceiling
+norms and this shall not preclude the Transmission Licensee or the Distribution Licensee, as the case may be, and the
+beneficiaries from accepting improved norms of operation as determined by the Commission and such improved norms
+shall be applicable for determination of tariff.
+Chapter 2
+General Principles
+5. Guiding Principles for MYT Framework.
+- 5.1 The Commission shall determine the tariff for matters covered under clauses (a), (b),(c) and (d) of Regulation 3.1,
+under a Multi Year Tariff framework with effect from April 1, 2019.
+5.2
+The Multi Year Tariff framework for determination of Aggregate Revenue Requirement and Expected Revenue from
+Tariff and Charges for Generating Company, Transmission Licensee, Distribution Wires Business and Retail Supply
+Business shall include the following:
+(a)
+Business Plan for the Licensee, for the entire Control Period as submitted to the Commission for approval, prior to the
+start of the Control Period;
+(b)
+A detailed Multi Year tariff application comprising of the year-wise forecast of Aggregate Revenue Requirement for the
+entire Control Period and determination of Expected Revenue from Tariff and Charges for the first Year of the Control
+Period submitted by the Applicant, in formats specified by the Commission from time to time:
+Provided that the performance parameters, whose trajectories have been specified in these Regulations or the Business
+Plan or the Multi Year Tariff Order approved by the Commission, shall form the basis for projection of these performance
+parameters in the Aggregate Revenue Requirement for the entire Control Period:
+Provided further that a Mid-term Review of the Aggregate Revenue Requirement may be undertaken for the Generating
+Company, Transmission Licensee and Distribution Licensee on an application that shall be filed by the utilities along
+with the application for tariff determination for the third Year of the Control Period;
+(c)
+Determination of year-wise Aggregate Revenue Requirement by the Commission for the entire Control Period and the
+tariff for the first Year of the Control Period for the Generating Company, Transmission Licensee, Distribution Wires
+Business and Retail Supply Business;
+Page 8/45
+----- PAGE 9 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+(d)
+Annual review of performance which shall be conducted vis-a-vis the approved forecast and categorisation of variations
+in performance into controllable and uncontrollable factors;
+(e)
+Annual determination of tariff for the Generating Company, Transmission Licensee, Distribution Wires Business and
+Retail Supply Business, for each Financial Year within the Control Period, based on the approved forecast, the annual
+performance review, Mid-term Review and truing up exercise;
+(f)
+Truing up of previous Year/(s) expenses and revenue by the Commission based on audited accounts vis-a-vis the
+approved forecast and categorisation of variation in performance as those caused by factors within the control of the
+Applicant (controllable factors) and those caused by factors beyond the control of the Applicant (uncontrollable factors);
+(g)
+The mechanism for pass-through of approved gains or losses on account of uncontrollable factors as specified by the
+Commission in these Regulations;
+(h)
+The mechanism for sharing of approved gains or losses on account of controllable factors as specified by the
+Commission in these Regulations.
+6. Values for Base Year.
+- 6.1 The values for the Base Year of the Control Period shall be determined on the basis of the audited accounts or
+provisional accounts of last three (3) Years, and other factors considered relevant by the Commission:
+Provided that, in absence of availability of audited accounts or provisional accounts of last three (3) Years, the
+Commission may benchmark the parameters with other similar utilities to establish the values for Base Year:
+Provided further that the Commission may change the values for Base Year and consequently the trajectory of
+parameters for Control Period, considering the actual figures from audited accounts.
+6.2
+The Commission may revisit the performance targets for the Control Period during the Mid-term Review, carried out in
+accordance with the proviso to Regulation 5.2 (b).
+7. Segregation of Retail Supply and Distribution Wires Business.
+- 1.1 The Distribution Licensee shall segregate the accounts of the Licensed Business into Distribution Wires Business
+and Retail Supply Business. The ARR for Distribution Wires Business shall be used to determine wheeling charges.The
+ARR for Retail Supply Business, which shall include the ARR for Distribution Wires Business, in accordance with
+Regulation 57, shall be used to determine retail supply tariff.
+1.2
+For such period until accounts are segregated, the Licensees shall use the Allocation Statement provided in the
+Regulation 48to apportion costs and revenues to respective businesses.
+8. Business Plan.
+- 8.1 The Transmission Licensee and Distribution Licensee shall file for the Commission's approval a Business Plan for
+the entire Control Period, duly approved by the competent authority by August 31, 2018:
+Provided that the Generation Company shall not be required to file a Business Plan for the Control Period.
+8.2
+The Business Plan filed by the Distribution Licensee shall contain separate sections on Distribution Wires Business and
+Retail Supply Business.
+8.3
+The Business Plan filed by the Transmission Licensee shall inter-alia contain:
+(a)
+Projections for the growth of load in the transmission network;
+(b)
+Capital Investment Plan for each Year of the Control Period commensurate with load growth, transmission loss
+reduction trajectory and quality improvement measures proposed in the Business Plan in accordance with Regulation
+8.5;
+(c)
+Page 9/45
+----- PAGE 10 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Capital structure of each scheme proposed and the cost of financing (interest on debt and return on equity), terms of the
+existing loan agreements, etc.;
+(d)
+Performance targets items such as transmission loss, availability of transmission system, transformer failure rate, and
+any other parameters for quality of supply for each year of the Control Period, consistent with the Capital Investment
+Plan proposed by the Transmission Licensee;
+(e)
+Projections for number of employees during each Year of the Control Period based on proposed recruitments and
+retirement;
+(f)
+Proposals in respect of income from Other Business for each Year of the Control Period.
+8.4
+The Business Plan filed by Distribution Licensee shall inter-alia contain:
+(a)
+Capital Investment Plan for each Year of the Control Period commensurate with load growth, distribution loss reduction
+trajectory and quality improvement measures proposed in the Business Plan in accordance with Regulation 8.5;
+(b)
+Capital Structure of each scheme proposed and the cost of financing (interest on debt and return on equity), terms of the
+existing loan agreements, etc.;
+(c)
+Sales Forecast for each Consumer category and sub-categories for each Year of the Control Period in accordance with
+Regulation 8.6;
+(d)
+Power Procurement Plan based on the Sales Forecast and distribution loss trajectory for each Year of the Control
+Period in accordance with the Regulation 8.7;
+(e)
+Targets for distribution loss for each Year of the Control Period consistent with the Capital Investment Plan proposed by
+the Licensee;
+(f)
+Projections for number of employees during each Year of the Control Period based on proposed recruitments and
+retirement;
+(g)
+Proposals in respect of income from Other Business for each Year of the Control Period.
+8.5
+Capital Investment Plan
+(a)
+The Capital Investment Plan to be submitted as part of Business Plan shall include details of New Projects planned
+during the Control Period, purpose of investment, capital structure, implementation schedule, quarter-wise capital
+expenditure and capitalisation schedule, financing plan, cost-benefit analysis, improvement in operational efficiency
+envisaged in the Control Period owing to proposed investment and such details for ongoing projects that will spill over
+into the Control Period under review along with justification;
+(b)
+The Capital Investment Plan proposed by the Transmission Licensee shall be in conformity with the plans made by the
+Authority/Central Transmission Utility and with the Capital Investment Plan of the Distribution Licensee;
+(c)
+During the annual performance review, the Commission shall monitor the progress of the actual capital expenditure
+incurred by the Licensee vis-a-vis the approved capital expenditure. The Licensees shall submit the actual capital
+expenditure incurred along with the annual performance review, true-up and determination of tariff filing;
+(d)
+In case, during the annual performance review, the cumulative (starting from first Year of the Control Period up to the
+current Year ) actual capital expenditure incurred is less than 50% of the cumulative approved capital expenditure, the
+Page 10/45
+----- PAGE 11 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Commission shall true-up the ARR elements relevant to actual capital expenditure in the current Year and remaining
+Years of the Control Period;
+(e)
+In case the capital expenditure is required for emergency work which has not been approved in the Capital Investment
+Plan, the Licensee shall submit an application containing all relevant information along with reasons justifying
+emergency nature of the proposed work seeking approval of the Commission:
+Provided that in case capital expenditure is required for emergency work or unforeseen situation to mitigate threat to life
+and property and if prior intimation thereof to the Commission shall cause any irreparable loss or injury, the Licensee
+may undertake that capital expenditure and submit the details along with adequate justification for ex post facto approval
+of the Commission:
+Provided further that for the purpose of Regulation 8.5(e) above, such approved capital expenditure shall be treated as a
+part of both the actual capital expenditure incurred by the Licensee and approved capital expenditure by the
+Commission;
+(f)
+The Licensee shall submit a report for every quarter detailing the progress of the capital expenditure and capitalisation
+undertaken against that proposed in the Capital Investment Plan, on or before the last Day of the month succeeding the
+respective quarter for review by the Commission.
+8.6
+Sales Forecast
+(a)
+The Distribution Licensee shall forecast sales for each Consumer category and sub-categories, at different voltage
+levels, for each Year of the Control Period in their Business Plan filings, for the Commission's review and approval;
+(b)
+The forecast shall be based on the actual demand of electricity in previous Years, anticipated growth in demand in
+coming Years, expected growth in the number of Consumers, changes in the pattern of consumption, target distribution
+losses and other relevant factors;
+(c)
+The Licensee shall indicate separately the sale of electricity to traders or another Licensee and category wise sales to
+Open Access Consumers.
+8.7
+Power Procurement Plan
+(a)
+The Distribution Licensee shall prepare a plan for procurement of power to serve the demand for electricity in its Area of
+Supply and submit such plan to the Commission for approval as a part of Business Plan:
+Provided further that such power procurement plan may include long-term, medium-term and short term sources of
+power procurement, in accordance with these Regulations;
+(b)
+The power procurement plan of the Distribution Licensee shall comprise of the following:
+(i)
+A quantitative forecast of the unrestricted base load and peak load for electricity within its Area of Supply;
+(ii)
+An estimate of the quantity of electricity supply from the identified sources of power purchase, including own generation,
+if any;
+(iii)
+Measures proposed for energy conservation, energy efficiency, and demand side management;
+(iv)
+An estimate of availability of power to meet the base load and peak load requirement:
+Provided that such estimate of demand and supply shall be on month-wise basis in Megawatt (MW) as well as
+expressed in Million Units (MU);
+(v)
+Standards to be maintained with regard to quality and reliability of supply, in accordance with the relevant Regulations of
+Page 11/45
+----- PAGE 12 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+the Commission;
+(vi)
+The requirement for new sources of power procurement, including augmentation of own generation capacity, if any, and
+identified new sources of supply, based on (i) to (v) above;
+(vii)
+The sources of power, quantity and cost estimates for such procurement:
+Provided that the forecast or estimates for the Control Period shall be prepared for each month over the Control Period:
+Provided further that the long-term procurement plan shall be a cost-effective plan based on available information
+regarding costs of various sources of supply;
+(c)
+The forecast or estimate shall be prepared using forecasting techniques based on past data, sales forecast, impact of
+loss reduction initiatives, improvement in Generating Station Plant Load Factors and other relevant factors;
+(d)
+Where the Commission has specified a percentage of the total consumption of electricity in the area of a Distribution
+Licensee to be purchased from co-generation or renewable sources of energy including solar power, the power
+procurement plan shall include the plan for procurement from such sources upto the specified level;
+(e)
+The Distribution Licensee shall also consult the State Transmission Utility at the time of preparation of the power
+procurement plan, to ensure consistency of such plan with the transmission system plan;
+(f)
+The Distribution Licensee may, as a result of additional information not previously known or available to it at the time of
+submission of the procurement plan under Regulation apply for modification in the power procurement plan for the
+remaining Control Period, as part of its Petition for Mid-term Review;
+(g)
+The Commission may, as a result of additional information not previously known or available to the Commission at the
+time of approval of the procurement plan, if it deems appropriate, suo motu or on a Petition filed by the Distribution
+Licensee, modify the procurement plan of the Distribution Licensee for the remaining Control Period, as part of the
+Mid-term Review.
+9. Multi Year Tariff Application.
+- 9.1 The Applicant shall submit the forecast of Aggregate Revenue Requirement for each year of the Control Period and
+tariff proposal for the first Year of the Control Period, in amanner as provided in these Regulations and in formats
+specified by the Commission from time to time. The application shall be accompanied by such fee payable, as may be
+specified by the Commission in the Joint Electricity Regulatory Commission (Conduct of Business) Regulations, 2009,
+as amended from time to time, by November 30, 2018:
+Provided that the application shall also be accompanied by the true-up Petition based on the latest available audited
+accounts and the annual performance review for the current Year based on the actual performance during the first six
+Months of the Year and estimates for the subsequent six Months.
+9.2
+The Applicant shall develop the forecast of Aggregate Revenue Requirement using the assumptions relating to the
+behaviour of individual variables that comprise the Aggregate Revenue Requirement during each year of the Control
+Period, including inter-alia detailed category-wise sales and demand projections, power procurement plan, Capital
+Investment Plan, trajectories of parameters specified in these Regulations and Business Plan, in accordance with
+guidelines and formats, as may be specified by the Commission from time to time.
+9.3
+The Applicant shall develop the forecast of Expected Revenue from Tariff and Charges based on the following:
+(a)
+In the case of a Generating Company, estimates of the quantum of electricity to be generated by each unit/station for
+ensuing Financial Year within the Control Period;
+(b)
+In the case of a Transmission Licensee, estimates of the transmission capacity allocated to Transmission System Users
+for ensuing Financial Year within the Control Period;
+Page 12/45
+----- PAGE 13 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+(c)
+In the case of a Distribution Licensee, estimates of the quantum of electricity to be supplied to Consumers and to be
+wheeled on behalf of distribution system users for the ensuing Financial Year within the Control Period;
+(d)
+Prevailing tariff as on the date of making the application.
+9.4
+Based on the forecast of Aggregate Revenue Requirement for the first Year of the Control Period and Expected
+Revenue from Tariff and Charges, the Generating Company, Transmission Licensee and Distribution Licensee for the
+Distribution Wires Business and Retail Supply Business, shall propose the tariff for the first Year of Control Period:
+Provided that the tariff proposed by Distribution Licensee shall be in accordance with Regulation 62 and these
+Regulations.
+9.5
+The Applicant shall provide full details supporting the forecast, including but not limited to details of past performance,
+proposed initiatives for achieving efficiency or productivity gains, technical studies, contractual arrangements and/or
+secondary research, to enable the Commission to assess the reasonableness of the forecast.
+9.6
+On receipt of the application, the Commission shall either:
+(a)
+issue an Order approving the Aggregate Revenue Requirement for the entire Control Period and the tariff for the first
+Year of the Control Period; or
+(b)
+reject the application for reasons to be recorded in writing, as the Commission may deem appropriate:
+Provided that the Applicant shall be given a reasonable opportunity of being heard before rejecting its application.
+10. Trajectory for Specific Variables.
+- 10.1 The Commission, while approving the Business Plan and/or Multi Year Tariff Petition, may stipulate a trajectory
+for certain variables, including but not limited to Auxiliary consumption, Station Heat Rate, O&M expenses etc.:
+Provided that the utilities shall adhere to the norms as specified in the Order on Multi Year tariff petition:
+Provided further that the Generating Company or Transmission Licensee or Distribution Licensee, as the case may be,
+may seek a review at the time of Mid-term Review of Aggregate Revenue Requirement for the balance Control Period.
+11. Annual Performance Review, Truing-up and tariff determination during the Control Period.
+- 11.1 The Generating Company, Transmission Licensee and Distribution Licensee shall be subject to annual
+performance review and truing up of expenses and revenue during the Control Period in accordance with these
+Regulations.
+11.2
+The Generating Company, Transmission Licensee and Distribution Licensee shall file an application for the annual
+performance review of the current year,truing up of the previous Year or the Year for which the audited accounts are
+available and determination of tariff for the ensuing Year on or before 30th November of each Year, in formats specified
+by the Commission from time to time:
+Provided that the Generating Company, Transmission Licensee or Distribution Licensee, as the case may be, shall
+submit to the Commission information in such form as may be specified by the Commission, together with the audited
+accounts, extracts of books of account and such other details as the Commission may require to assess the reasons for
+and extent of any variation in financial performance from the approved forecast of Aggregate Revenue Requirement and
+Expected Revenue from Tariff and Charges.
+11.3
+The scope of the annual performance review, truing up and tariff determination shall be a comparison of the
+performance of the Generating Company, Transmission Licensee or Distribution Licensee with the approved forecast of
+Aggregate Revenue Requirement and Expected Revenue from Tariff and Charges and shall comprise of the following:
+(a)
+True-up: a comparison of the audited performance of the Applicant for the Financial Year for which the true up is being
+carried out with the approved forecast for such previous Financial Year, subject to the prudence check;
+(b)
+Page 13/45
+----- PAGE 14 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Annual Performance Review: a comparison of the revised performance targets of the Applicant for the current Financial
+Year with the approved forecast in the Tariff Order corresponding to the Control Period for the current Financial Year
+subject to prudence check;
+(c)
+Tariff determination for the ensuing Year of the Control Period based on the revised forecast of the Aggregate Revenue
+Requirement for the Year;
+(d)
+Review of compliance with directives issued by the Commission from time to time;
+(e)
+Other relevant details, if any.
+11.4
+Upon completion of the exercise, the Commission shall attribute any variations or expected variations in performance for
+variables specified under Regulation 12below, to factors within the control of the Applicant (controllable factors) or to
+factors beyond the control of the Applicant (uncontrollable factors):
+Provided that any variations or expected variations in performance, for variables other than those specified under
+Regulation 12 below shall be attributed entirely to controllable factors.
+11.5
+Upon completion of the exercise, the Commission shall pass an order recording:
+(a)
+Components of approved cost pertaining to the uncontrollable factors, which were not recovered during the previous
+Year, to be passed through in tariff as per Regulation 13 of these Regulations:
+Provided that, for a Generating Company, the above exercise shall be in accordance with prevalent CERC Tariff
+Regulations.
+(b)
+Approved aggregate gain or loss to the Transmission Licensee or Distribution Licensee on account of controllable
+factors, and the amount of such gains or such losses that may be shared in accordance with Regulation 14 of these
+Regulations:
+Provided that, for a Generating Company, the above exercise shall be in accordance with prevalent CERC Tariff
+Regulations.
+(c)
+Carrying cost shall be allowed for a Generating Company, Transmission Licensee or Distribution Licensee on the
+amount of revenue gap for the period from the date on which such gap has become due, i.e., from the end of the Year
+for which true-up has been done, till the end of the Year in which it is addressed, on the basis of actual rate of loan taken
+by the Licensee to fund the deficit in revenue:
+Provided that carrying cost on the amount of revenue gap shall be allowed subject to prudence check and submission of
+documentary evidence for having incurred the carrying cost in the years prior to the year in which the revenue gap is
+addressed:
+Provided also that if no loan has been taken to fund revenue deficit, the Commission shall allow Carrying Cost on simple
+interest basis at one (1) Year State Bank of India (SBI) MCLR /any replacement thereof as notified by RBI for the time
+being in effect applicable for 1 Year period, as may be, applicable as on 1st April of the relevant Year plus 100 basis
+points;
+Provided further that in case of revenue surplus, the Commission shall charge the Licensee a Carrying Cost from the
+date on which such surplus has become due, i.e., from the end of the Year for which true up has been done, till the end
+of the Year in which it is addressed on simple interest basis at one(1) Year State Bank of India (SBI) MCLR / any
+replacement thereof as notified by RBI for the time being in effect applicable for 1 Year period, as may be, applicable as
+on 1st April of the relevant Year plus 100 basis points.
+(d)
+Revision of estimates and tariff for the ensuing Financial Year.
+12. Uncontrollable and Controllable factors.
+- 12.1 For the purpose of these Regulations, the term "uncontrollable factors" for a Transmission or Distribution Licensee
+shall comprise of the following factors, which were beyond the control of the Licensee, and could not be mitigated by the
+Page 14/45
+----- PAGE 15 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Licensee:
+(a)
+Force Majeure events;
+(b)
+Change in Law, judicial pronouncements and Orders of the Central Government, State Government or Commission;
+(c)
+Variation in the number or mix of Consumers or quantities of electricity supplied to Consumers;
+(d)
+Transmission loss;
+(e)
+Variation in the cost of power purchase due to variation in the rate of power purchase from approved sources, subject to
+clauses in the power purchase agreement or arrangement approved by the Commission;
+(f)
+Variation in fuel cost;
+(g)
+Change in power purchase mix;
+(h)
+Inflation;
+(i)
+Transmission Charges for a Distribution Licensee;
+(j)
+Variation in market interest rates for long-term loans;
+(k)
+Employee expenses limited to one time payment owing requirements of a pay commission and terminal liability of
+employees;
+(l)
+Taxes and Statutory levies;
+(m)
+Taxes on income;
+(n)
+Income from the realisation of bad debts written off:
+Provided that where the Applicant believes, for any variable not specified above, that there is a material variation or
+expected variation in performance for any Financial Year on account of uncontrollable factors, such Applicant may apply
+to the Commission for inclusion of such variable at the Commission's discretion, under this Regulation for such Financial
+Year:
+Provided further that the uncontrollable factors for a Generating Company shall be as specified in the prevalent CERC
+Tariff Regulations.
+12.2
+For the purpose of these Regulations, the term "controllable factors" for a Transmission or Distribution Licensee shall
+comprise of the factors which were within the control of the Licensee, shall inter-alia include:
+(a)
+Variations in capitalisation on account of time and/or cost overruns/ efficiencies in the implementation of a capital
+expenditure project not attributable to an approved change in scope of such project, change in statutory levies or force
+majeure events;
+(b)
+Variation in Interest and Finance Charges, Return on Equity, and Depreciation on account of variation in capitalisation,
+as specified in clause (a) above;
+(c)
+Variations in technical and commercial losses of Distribution Licensee;
+(d)
+Availability of transmission system;
+Page 15/45
+----- PAGE 16 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+(e)
+Variations in performance parameters;
+(f)
+Failure to meet the standards specified in the Joint Electricity Regulatory Commission for the State of Goa & UTs
+(Standard of Performance for Distribution Licensees) Regulation, 2015, as amended from time to time;
+(g)
+Variations in labour productivity;
+(h)
+Variation in O&M Expenses, except to the extent of inflation;
+(i)
+Bad debts written off, in accordance with the provisions of Regulation 62:
+Provided further that the controllable factors for a Generating Company shall be as specified in the prevalent CERC
+Tariff Regulations.
+13. Mechanism for pass through of gains or losses on account of uncontrollable factors.
+- 13.1 Approved aggregate gain or loss to the Transmission Licensee or Distribution Licensee on account of
+uncontrollable factors shall be pass-through as an adjustment in the tariff of the Transmission Licensee or Distribution
+Licensee over such period as may be specified in the Order of the Commission passed under these Regulations:
+Provided that the mechanism for pass through of gains or losses on account of uncontrollable factors for a Generating
+Company shall be as specified in the prevalent CERC Tariff Regulations.
+13.2
+The Transmission Licensee or Distribution Licensee shall submit such details of the variation between expenses
+incurred and revenue earned and the figures approved by the Commission, in the specified format to the Commission,
+along with the detailed computations and supporting documents as may be required for verification by the Commission.
+14. Mechanism for sharing of gains or losses on account of controllable factors.
+- 14.1 Approved aggregate gain to the Transmission Licensee or Distribution Licensee on account of controllable factors
+shall be shared equally between Licensee and Consumers:
+Provided that the mechanism for sharing of gains or losses on account of controllable factors for a Generating Company
+shall be as specified in the prevalent CERC Tariff Regulations.
+14.2
+Approved aggregate loss, if any to the Transmission Licensee or Distribution Licensee on account of controllable factors
+shall be on account of the Licensee, and shall not be passed to the Consumers.
+15. Determination of Tariff.
+- 15.1 The proceedings to be held by the Commission for determination of tariff shall be in accordance with the Joint
+Electricity Regulatory Commission (Conduct of Business) Regulations, 2009, as amended from time to time.
+15.2
+Notwithstanding anything contained in these Regulations, the Commission shall at all times have the authority, either on
+suo motu basis or on a Petition filed by the Generating Company, Transmission Licensee or Distribution Licensee, to
+determine the tariff, including terms and conditions thereof:
+Provided that such determination of tariff may be pursuant to an agreement or arrangement or otherwise whether or not
+previously approved by the Commission and entered into at any time before or after the applicability of these
+Regulations.
+15.3
+Notwithstanding anything contained in these Regulations, the Commission shall adopt the tariff, if such tariff has been
+determined through a transparent process of bidding in accordance with the guidelines issued by the Central
+Government:
+Provided that the Applicant shall provide such information as the Commission may require for satisfying itself that the
+guidelines issued by the Central Government in this regard have been duly followed.
+15.4
+Determination of Tariff for an existing Generation Station:
+(a)
+Where the Commission has, at any time prior to the date of effectiveness of these Regulations, approved a power
+Page 16/45
+----- PAGE 17 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+purchase agreement or arrangement between a Generating Company and a Distribution Licensee or has adopted the
+tariff contained therein for supply of electricity from an existing generating unit/station, the tariff for supply of electricity by
+the Generating Company to the Distribution Licensee shall be in accordance with tariff mentioned in such power
+purchase agreement or arrangement for such period as may be so approved or adopted by the Commission;
+(b)
+Where, as on the date of effectiveness of these Regulations, the power purchase agreement or arrangement between a
+Generating Company and a Distribution Licensee for supply of electricity from an existing Generating Station has not
+been approved by the Commission or the tariff contained therein has not been adopted by the Commission or where
+there is no power purchase agreement or arrangement, the supply of electricity by such Generating Company to such
+Distribution Licensee after the date of effectiveness of these Regulations shall be in accordance with a power purchase
+agreement approved by the Commission:
+Provided that an application for approval of such power purchase agreement or arrangement shall be made by the
+Distribution Licensee to the Commission within a period of three (3) months from the date of notification of these
+Regulations:
+Provided further that the supply of electricity shall be allowed to continue under the present agreement or arrangement,
+as the case may be, until such time as the Commission approves of such power purchase agreement and shall be
+discontinued forthwith if the Commission rejects, for reasons recorded in writing, such power purchase agreement or
+arrangement.
+15.5
+Determination of Tariff for a new Generating Station: (a) The tariff for the supply of electricity by a Generating Company
+to a Distribution Licensee from a new generating unit/station shall be in accordance with tariff as per power purchase
+agreement approved by the Commission.
+15.6
+Determination of Tariff for Transmission, Distribution Wires Business and Retail Supply Business:
+(a)
+The Commission shall,based on an application made by the Transmission or Distribution Licensees in accordance with
+the Regulations 16determine the tariff for:
+(i)
+Transmission of electricity, in accordance with the terms and conditions contained in Chapter 5 of these Regulations;
+(ii)
+Distribution Wires Business, in accordance with the terms and conditions contained in Chapter 6 of these Regulations;
+and
+(iii)
+Retail Supply Business, in accordance with the terms and conditions contained in Chapter 7 of these Regulations.
+16. Filing Procedure.
+- 16.1 The Applicant shall provide, as part of its Petition to the Commission, in such formats as specified by the
+Commission from time to time, full details of its calculation of the Aggregate Revenue Requirement and Expected
+Revenue from Tariff and Charges, and thereafter, shall furnish such further information or particulars or documents as
+the Commission may reasonably require to assess such calculation:
+Provided that the Petition shall be accompanied by, where relevant, tariff and charges revision proposal showing
+category-wise tariff for recovery of Aggregate Revenue Requirement for the respective Year of the Control Period:
+Provided further that the Commission may specify additional/alternative formats for details to be submitted by the
+Applicant, from time to time, as it may reasonably require for assessing the Aggregate Revenue Requirement and for
+determining the tariff.
+16.2
+Upon receipt of a complete Petition accompanied by all requisite information, particulars and documents in compliance
+with all the requirements specified in these Regulations, the Petition shall be deemed to be received and the
+Commission shall intimate to the Applicant regarding the acceptance of Petition.
+16.3
+The Petition shall be supported by an affidavit of the person acquainted with the facts stated in the application.
+16.4
+Page 17/45
+----- PAGE 18 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+The Applicant shall, within seven (7) Days after acceptance of the Petition by the Commission, publish a notice of its
+Petition in at least two English and two Vernacular language daily newspapers having wide circulation in the relevant
+area:
+Provided that the Applicant shall make available a hard copy of the complete Petition to any person, at such locations
+and at such rates as may be stipulated by the Commission:
+Provided also that the Applicant shall also provide on its internet website, in text search able format or in downloadable
+spreadsheet format furnishing detailed computations, the Petition filed before the Commission along with all regulatory
+filings, information, particulars and documents in the manner stipulated by the Commission:
+Provided also that the web link to such information mentioned shall be easily accessible, archived for downloading and
+be prominently displayed on the Applicant's internet website:
+Provided further that the Applicant may be exempted by the Commission from providing any such information,
+particulars or documents, which are confidential in nature.
+16.5
+The suggestions and objections, if any, on the proposal for determination of tariff, may be filed before the Secretary,
+Joint Electricity Regulatory Commission, by any person within the timeline specified in the notice so published, with a
+copy to the Applicant.
+16.6
+The Applicant shall within seven(7) Days from the date of publication of the notice as aforesaid, submit to the
+Commission on affidavit the details of the notice published and shall also file copies of the newspapers wherein the
+notice has been published.
+16.7
+The Applicant shall file its comments on the suggestions and objections, if any, received in response to its application
+within the time limit specified by the Commission.
+17. Tariff Order.
+- 17.1 The Commission shall, within one hundred and twenty (120) Days from the date of acceptance of the complete
+Petition, subject to petitioner providing information subsequently sought by the Commission in a timely manner and after
+considering all suggestions and objections received from the various stakeholders:
+(a)
+issue a Tariff Order; or
+(b)
+reject the application for reasons to be recorded in writing if such application is not in accordance with the provisions of
+the Act and Regulations made thereunder or the provisions of any other law for the time being in force:
+Provided that an Applicant shall be given a reasonable opportunity of being heard before rejecting its application.
+17.2
+The tariff so published shall be in force from the date specified in the said Order and shall, unless amended or revoked,
+continue to be in force for such period as may be stipulated therein.
+17.3
+The Applicant shall publish the tariff approved by the Commission in at least two English and two vernacular language
+daily newspapers having wide circulation in the State of location of Generating Company or Transmission Licensee or
+Area of Supply of Distribution Licensee, as the case may be, display the approved tariff schedule on its internet website,
+and make available for sale a booklet containing such tariff to any person upon payment of reasonable reproduction
+charges.
+18. Adherence to Tariff Order.
+- 18.1 No tariff or part of any tariff may ordinarily be amended more frequently than once in a Year, except in respect of
+any changes expressly permitted under the terms of any fuel surcharge formula as may be specified.
+18.2
+If any Generating Company or Licensee recovers a price or charge exceeding the tariff determined by the Commission
+under Section 62 of the Act and in accordance with these Regulations, the excess amount shall be payable to the
+person who has paid such price or charge, along with interest equivalent to the Bank Rate prevailing during the relevant
+period, without prejudice to any other liability to which such Generating Company or Licensee may be subject:
+Provided that such interest payable to any party shall not be allowed to be recovered through the Aggregate Revenue
+Page 18/45
+----- PAGE 19 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Requirement of the Licensee:
+Provided further that the Licensee shall maintain separate details of such interest paid or payable by it, and shall submit
+them to the Commission along with its Petition.
+19. Annual determination of tariff.
+- 19.1 The Commission shall determine the tariff of a Generating Company, Transmission Licensee and Distribution
+Licensee covered under a Multi Year Tariff framework for each Year during the Control Period, in accordance with
+timelines specified in Regulation 17, having regard to the following:
+(a)
+The approved forecast of Aggregate Revenue Requirement and Expected Revenue from Tariff and Charges of the
+Generating Company, Transmission Licensee and Distribution Licensee for such Financial Year, including modifications
+approved at the time of Mid-term Review, if any; and
+(b)
+Approved gains and losses, including the incentive available, to be passed through in tariff, following the truing up of
+previous Year.
+20. Subsidy Mechanism.
+- 20.1 If the Government requires to grant any subsidy to any Consumer or class of Consumers in the tariff determined
+by the Commission, the Government shall, notwithstanding any direction which may be given under Section 108 of the
+Act, pay in advance the amount to compensate the Distribution Licensee/person affected by the grant of subsidy, as a
+condition for the Licensee or any other person concerned to implement the subsidy provided for by the Government, in
+the manner specified in these Regulations:
+Provided that no such direction of the Government shall be operative if the payment is not made in accordance with the
+provisions contained in these Regulations, and the tariff fixed by the Commission shall be applicable from the date of
+issue of orders by the Commission in this regard.
+Chapter 3
+Financial Principles
+21. Financial Principles for a Generating Company.
+- 21.1 The Capital Cost for a Generating Company shall be determined by the Commission, guided by the relevant
+provisions of the prevalent CERC Tariff Regulations governing generation of electricity, subject to prudence check. The
+Capital Cost so determined shall form the basis of determination of tariff for Existing Projects and New Projects.
+21.2
+The norms for Additional Capitalisation and Renovation and Modernisation for a Generating Company shall be in
+accordance with the prevalent CERC Tariff Regulations, governing generation of electricity.
+21.3
+The financial principles including principles governing Debt to Equity Ratio, Return on Equity, Interest on Loan, Foreign
+Exchange Risk Variation, Interest on Working Capital, treatment of Tax on Income, norms for working capital etc. for a
+Generating Company shall be as specified in the prevalent CERC Tariff Regulations, governing generation of electricity.
+22. Financial Principles for Transmission and Distribution Business.
+- 22.1 The financial principles specified in the subsequent sections of this Chapter of these Regulations shall be
+applicable to the Transmission and Distribution Licensee.
+23. Capital Cost.
+- 23.1 Capital cost for a capital investment Project shall include:
+(a)
+the expenditure incurred or projected to be incurred, including interest during construction and financing charges, as
+admitted by the Commission after prudence check;
+(b)
+capitalised initial spares subject to the ceiling rates specified in this Regulation;
+(c)
+the expenses incurred by the Licensee on obtaining right of way, as admitted by the Commission after prudence check;
+(d)
+additional capitalisation determined in accordance with Regulation 24;
+(e)
+Page 19/45
+----- PAGE 20 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+any gain or loss on account of foreign exchange rate variation pertaining to the loan amount availed up to the Date of
+Commercial Operation, as admitted by the Commission after prudence check:
+Provided that any gain or loss on account of foreign exchange rate variation pertaining to the loan amount availed up to
+the Date of Commercial Operation shall be adjusted only against the debt component of the capital cost:
+Provided further that the capital cost of the assets forming part of the Project but not put to use or not in use, shall be
+excluded from the capital cost:
+Provided also that the Licensee shall submit documentary evidence in support of its claim of assets being put to use.
+23.2
+The capital cost admitted by the Commission after prudence check shall form the basis for determination of tariff:
+Provided that prudence check may include scrutiny of the reasonableness of the capital expenditure, financing plan
+including the choice and manner of funding, interest during construction, use of efficient technology, cost over-run and
+time over-run, and such other matters as may be considered appropriate by the Commission for determination of tariff.
+23.3
+The approved capital cost shall be considered for determination of tariff and if sufficient justification is provided for any
+escalation in the capital cost, the same may be considered by the Commission subject to prudence check:
+Provided that in case the actual capital cost is lower than the approved capital cost, then the actual capital cost shall be
+considered for determination of tariff of the Licensee.
+23.4
+The actual capital expenditure on Date of Commercial Operation for the original scope of work based on audited
+accounts of the Transmission Licensee and Distribution Licensee, limited to original cost may be considered subject to
+prudence check by the Commission.
+23.5
+Where the Bulk Power Transmission Agreement provides for a ceiling of capital cost, the capital cost to be considered
+shall not exceed such ceiling.
+23.6
+The capital cost may include initial spares capitalised as a percentage of the Plant and Machinery cost upto Cut-off
+Date, subject to the following ceiling norms:
+(a)
+Transmission Line & Distribution Line
+1.0%
+(b)
+Transmission Sub-station & Distribution
+Sub-station (Green Field)
+4.0%
+(c)
+Transmission Sub-station (Brown Field)
+6.0%
+(d)
+Series Compensation devices and HVDC Station
+4.0%
+(e)
+Gas Insulated Sub-station (GIS)
+5.0%
+(f)
+Communication System
+3.5%
+23.7
+Any expenditure on the replacement, renovation and modernization or extension of life of old fixed assets, as applicable
+to the Transmission Licensee and Distribution Licensee, shall be considered after writing off the net value of such
+replaced assets from the original capital cost and shall be calculated as follows:
+Net Value of Replaced Assets = OCFA - AD - CC
+Page 20/45
+----- PAGE 21 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Where;
+OCFA: Original capital cost of Replaced Assets
+AD: Accumulated depreciation pertaining to the Replaced Assets
+CC: Total Consumer Contribution pertaining to the Replaced Assets:
+Provided further that the amount of insurance proceeds received, if any, towards damage to any asset requiring its
+replacement shall be first adjusted towards outstanding actual or normative loan and the balance amount, if any, shall
+be utilised to reduce the capital cost of such replaced asset, and any further balance amount shall be considered as
+Non-Tariff Income.
+24. Additional Capitalisation.
+- 24.1 The capital expenditure, actually incurred or projected to be incurred, in respect of New Project or an Existing
+Project, on the following counts within the original scope of work, after the Date of Commercial Operation and up to the
+Cut-off Date may be admitted by the Commission, subject to prudence check:
+(i)
+Undischarged liabilities recognized to be payable at a future date;
+(ii)
+Works deferred for execution;
+(iii)
+Procurement of initial capital spares within the original scope of work, in accordance with the provisions of Regulation
+23.6;
+(iv)
+Liabilities to meet award of arbitration or for compliance of the order or decree of a court of law; and
+(v)
+Change in law or compliance with any existing law:
+Provided that the details of works asset wise/work wise included in the original scope of work along with estimates of
+expenditure, liabilities recognized to be payable at a future date and the works deferred for execution shall be submitted
+along with the application for determination of tariff.
+24.2
+The capital expenditure incurred or projected to be incurred in respect of the New Project on the following counts within
+the original scope of work after the Cut-off Date may be admitted by the Commission, subject to prudence check:
+(i)
+Liabilities to meet award of arbitration or for compliance of the order or decree of a court of law;
+(ii)
+Change in law or compliance with any existing law;
+(iii)
+Any liability for works executed prior to the Cut-off Date, after prudence check of the details of such undischarged
+liability, total estimated cost of package, reasons for such withholding of payment and release of such payments, etc.
+24.3
+The capital expenditure, in respect of Existing Project, incurred or projected to be incurred on the following counts after
+the Cut-off Date, may be admitted by the Commission, subject to prudence check:
+(i)
+Liabilities to meet award of arbitration or for compliance with the order or decree of a court of law;
+(ii)
+Change in law or compliance of any existing law;
+(iii)
+Any expenses to be incurred on account of need for higher security and safety of the capital asset as advised or directed
+by appropriate Government agencies or statutory authorities responsible for national security/internal security;
+(iv)
+Any liability for works executed prior to the Cut-off Date, after prudence check of the details of such undischarged
+liability, total estimated cost of package, reasons for such withholding of payment and release of such payments etc.;
+(v)
+Any liability for works admitted by the Commission after the Cut-off Date to the extent of discharge of such liabilities by
+Page 21/45
+----- PAGE 22 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+actual payments;
+(vi)
+Any additional capital expenditure, which has become necessary for efficient operation of the transmission system. The
+claim shall be substantiated with the technical justification duly supported by the documentary evidence like test results
+carried out by an independent agency in case of deterioration of assets, report of an independent agency in case of
+damage caused by natural calamities, obsolescence of technology, up-gradation of capacity for the technical reason
+such as increase in fault level; and
+(vii)
+In case of transmission system, any additional expenditure on items such as relays, control and instrumentation,
+computer system, power line carrier communication, DC batteries, replacement due to obsolesce of technology,
+replacement of switch yard equipment due to increase of fault level, tower strengthening, communication equipment,
+emergency restoration system, insulators cleaning infrastructure, replacement of porcelain insulator with polymer
+insulators, replacement of damaged equipment not covered by insurance and any other expenditure which has become
+necessary for successful and efficient operation of transmission system:
+Provided that any expenditure on acquiring the minor items or the assets including tools and tackles, furniture,
+air-conditioners, voltage stabilizers, refrigerators, coolers, computers, fans, washing machines, heat convectors,
+mattresses, carpets, etc., bought after the Cut-off Date shall not be considered for additional capitalization for
+determination of tariff:
+Provided further that if any expenditure has been claimed under Renovation and Modernisation (R&M) or repairs and
+maintenance under O&M Expenses, the same expenditure cannot be claimed under this Regulation.
+24.4
+Impact of additional capitalization on the tariff, as the case may be, shall be considered during truing up of each
+Financial Year of the Control Period.
+25. Consumer Contribution, Deposit Work, Grant and Capital Subsidy.
+- 25.1 The works carried out by the Transmission Licensee and Distribution Licensee after obtaining a part or all of the
+funds from the users shall be classified as Deposit Works;
+25.2
+Capital works undertaken by the Transmission Licensee and Distribution Licensee utilising grants received from the
+State and Central Governments, including funds under various schemes shall be classified under the category of
+Grants;
+25.3
+The works carried out with any other grant of similar nature or such amount received without any obligation to return the
+same and with no interest costs attached to such subvention shall also be classified as works performed through
+consumer contribution, deposit work, capital subsidy or grant.
+25.4
+The expenses on such capital expenditure shall be treated as follows:
+(a)
+normative O&M expenses as specified in these Regulations shall be allowed;
+(b)
+the debt to equity ratio shall be considered in accordance with Regulation 26, after deducting the amount of financial
+support provided through consumer contribution, deposit work, capital subsidy or grant;
+(c)
+depreciation to the extent of works performed through consumer contribution, deposit work, capital subsidy or grant shall
+not be allowed as specified in Regulation 30;
+(d)
+provisions related to return on equity, as specified in Regulation 27, shall not be applicable to the extent of financial
+support provided through consumer contribution, deposit work, capital subsidy or grant;
+(e)
+provisions related to interest on loan capital, as specified in Regulation 28, shall not be applicable to the extent of
+financial support provided through consumer contribution, deposit work, capital subsidy or grant.
+26. Debt to Equity Ratio.
+Page 22/45
+----- PAGE 23 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+- 26.1 In case of Existing Projects, debt to equity ratio allowed by the Commission for determination of tariff for the
+period ending March 31, 2018 shall be considered:
+Provided that in case of retirement or replacement or De-capitalisation of the assets, the equity capital approved as
+mentioned above, shall be reduced to the extent of 30% (or actual equity component based on documentary evidence, if
+it is lower than 30%) of the original cost of such assets:
+Provided further that in case of retirement or replacement or De-capitalisation of the assets, the debt capital approved as
+mentioned above, shall be reduced to the extent of outstanding debt component based on documentary evidence, or the
+normative loan component, as the case may be, of the original cost of such assets.
+26.2
+For New Projects, the debt-equity ratio as on the Date of Commercial Operation shall be 70:30 of the amount of capital
+cost approved by the Commission under Regulation 23, after prudence check for determination of tariff:
+Provided that where equity actually deployed is less than 30% of the capital cost of the capitalised asset, the actual
+equity shall be considered for determination of tariff:
+Provided also that if the equity actually deployed is more than 30% of the capital cost, equity in excess of 30% shall be
+treated as a normative loan for the Licensee for determination of tariff:
+Provided also that the Licensee shall submit documentary evidence for the actual deployment of equity and explain the
+source of funds for the equity:
+Provided also that the equity invested in foreign currency shall be designated in Indian rupees on the date of each
+investment:
+Provided further that the premium, if any, raised by the Licensee while issuing share capital and investment of internal
+resources created out of its free reserves, for the funding of the scheme, shall be reckoned as paid up capital for the
+purpose of computing return on equity, provided such premium amount and internal resources are actually utilized for
+meeting the capital expenditure of the transmission system or the distribution system, and are within the ceiling of 30%
+of capital cost approved by the Commission.
+26.3
+Any expenditure incurred or projected to be incurred on or after April 1, 2019, as may be admitted by the Commission,
+as additional capital expenditure for determination of tariff, and renovation and modernisation expenditure for life
+extension shall be serviced in the manner specified in this Regulation.
+27. Return on Equity.
+- 27.1 Return on equity shall be computed on the paid up equity capital determined in accordance with Regulation 26 for
+the assets put to use for the Transmission Licensee and shall be allowed in accordance with the prevalent CERC Tariff
+Regulations for transmission system.
+27.2
+The return on equity for the Distribution Wires Business shall be allowed on the equity capital determined in accordance
+with Regulation 26 for the assets put to use at post-tax rate of return on equity specified in the prevalent CERC Tariff
+Regulations for transmission system.
+27.3
+The return on equity for the Retail Supply Business shall be allowed on the equity capital determined in accordance with
+Regulation 26 for the assets put to use, at the rate of sixteen (16) per cent per annum.
+27.4
+The return on equity shall be computed on average of equity capital at the beginning and end of Year.
+28. Interest on Loan.
+- 28.1 The loans arrived at in the manner indicated in Regulation 26 on the assets put to use, shall be considered as
+gross normative loan for calculation of interest on the loan:
+Provided that interest and finance charges on capital works in progress shall be excluded:
+Provided further that in case of De-capitalisation or retirement or replacement of assets, the loan capital shall be
+reduced to the extent of outstanding loan component of the original cost of the de-capitalised or retired or replaced
+assets, based on documentary evidence.
+28.2
+The normative loan outstanding as on April 1, 2019, shall be worked out by deducting the cumulative repayment as
+admitted by the Commission up to March 31, 2018, from the gross normative loan.
+Page 23/45
+----- PAGE 24 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+28.3
+Notwithstanding any moratorium period availed by the Transmission Licensee or the Distribution Licensee, as the case
+may be, the repayment of loan shall be considered from the first Year of commercial operation of the project and shall
+be equal to the annual depreciation allowed in accordance with Regulation 30.
+28.4
+The rate of interest shall be the weighted average rate of interest calculated on the basis of the actual loan portfolio at
+the beginning of each Year applicable to the Transmission Licensee or the Distribution Licensee:
+Provided that at the time of truing up, the weighted average rate of interest calculated on the basis of the actual loan
+portfolio during the Year applicable to the Transmission Licensee or the Distribution Licensee shall be considered as the
+rate of interest:
+Provided also that if there is no actual loan for a particular Year but normative loan is still outstanding, the last available
+weighted average rate of interest for the actual loan shall be considered:
+Provided further that if the Transmission Licensee or the Distribution Licensee does not have actual loan, then one (1)
+Year State Bank of India (SBI) MCLR / any replacement thereof as notified by RBI for the time being in effect applicable
+for one (1)Year period, as may be applicable as on 1st April of the relevant Year plus 100 basis points shall be
+considered as the rate of interest for the purpose of allowing the interest on the normative loan.
+28.5
+The interest on loan shall be calculated on the normative average loan of the Year by applying the weighted average
+rate of interest:
+Provided that at the time of truing up, the normative average loan of the Year shall be considered on the basis of the
+actual asset capitalisation approved by the Commission for the Year.
+28.6
+For new loans proposed for each Financial Year of the Control Period, interest rate shall be considered as lower of (i)
+one (1) Year State Bank of India (SBI) MCLR / any replacement thereof as notified by RBI for the time being in effect
+applicable for one (1)Year period, as may be applicable as on 1st April of the relevant Year plus 100 basis points, and
+(ii) weighted average rate of interest proposed by the Distribution Licensee.
+28.7
+The above interest computation shall exclude the interest on loan amount, normative or otherwise, to the extent of
+capital cost funded by consumer contribution, deposit work, capital subsidy or grant, carried out by Transmission
+Licensee or Distribution Licensee.
+28.8
+The finance charges incurred for obtaining loans from financial institutions for any Year shall be allowed by the
+Commission at the time of Truing-up, subject to prudence check.
+28.9
+The excess interest during construction on account of time and/or cost overrun as compared to the approved completion
+schedule and capital cost or on account of excess drawal of the debt funds disproportionate to the actual requirement
+based on Scheme completion status, shall be allowed or disallowed partly or fully on a case to case basis, after
+prudence check by the Commission:
+Provided that where the excess interest during construction is on account of delay attributable to an agency or
+contractor or supplier engaged by the Transmission Licensee, any liquidated damages recovered from such agency or
+contractor or supplier shall be taken into account for computation of capital cost:
+Provided further that the extent of liquidated damages to be considered shall depend on the amount of excess interest
+during construction that has been allowed by the Commission.
+28.10
+The Transmission Licensee or the Distribution Licensee, as the case may be, shall make every effort to re-finance the
+loan as long as it results in net savings on interest and in that event the costs associated with such re-financing shall be
+borne by the beneficiaries and the net savings shall be shared between the equally between the beneficiaries and the
+Transmission Licensee or the Distribution Licensee and the Consumers of Distribution Licensee.
+28.11
+Interest shall be allowed on the amount held as security deposit held in cash from Retail Consumers at the Bank Rate
+as on 1st April of the Financial Year in which the Petition is filed:
+Page 24/45
+----- PAGE 25 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Provided that at the time of truing-up, the interest on the amount of security deposit for the Year shall be considered on
+the basis of the actual interest paid by the Licensee during the Year, subject to prudence check by the Commission.
+29. Foreign Exchange Rate Variation.
+- 29.1 The Licensee may hedge foreign exchange exposure in respect of the interest on foreign currency loan and
+repayment of foreign loan acquired for the transmission system or distribution system, in part or in full at its discretion.
+29.2
+The Licensee shall be permitted to recover the cost of hedging of foreign exchange rate variation corresponding to the
+foreign debt, in the relevant Year as an expense, subject to prudence check by the Commission, and extra rupee liability
+corresponding to such variation shall not be allowed against the hedged foreign debt.
+29.3
+To the extent that the foreign exchange exposure is not hedged, any extra rupee liability towards interest payment and
+loan repayment corresponding to the foreign currency loan in the relevant Year shall be allowed subject to prudence
+check by the Commission.
+30. Depreciation.
+- 30.1 The value base for the purpose of depreciation shall be the capital cost of the asset admitted by the Commission:
+Provided that the depreciation shall be allowed after reducing the approved original cost of the retired or replaced or
+decapitalized assets:
+Provided also that the no depreciation shall be allowed on the assets financed through consumer contribution, deposit
+work, capital subsidy or grant.
+30.2
+The salvage value of the asset shall be considered as 10% and depreciation shall be allowed up to a maximum of 90%
+of the capital cost of the asset.
+30.3
+Land other than the land held under lease shall not be a depreciable asset and its cost shall be excluded from the
+capital cost while computing depreciable value of the assets.
+30.4
+In case of existing assets, the balance depreciable value as on April 1, 2019, shall be worked out by deducting the
+cumulative depreciation as admitted by the Commission up to March 31, 2018, from the gross depreciable value of the
+assets.
+30.5
+The depreciation shall be chargeable from the first Year of commercial operations. In case of projected commercial
+operation of the assets during the Year, depreciation shall be computed based on the average of opening and closing
+value of assets:
+Provided that depreciation shall be re-calculated during truing-up for assets capitalised at the time of truing up of each
+Year of the Control Period, based on documentary evidence of asset capitalised by the Applicant, subject to the
+prudence check of the Commission.
+30.6
+For Transmission Licensee, the depreciation shall be calculated at rates and norms specified in the prevalent CERC
+Tariff Regulations for transmission system.
+30.7
+The depreciation for a Distribution Licensee shall be calculated annually, based on the Straight Line Method, over the
+Useful Life of the asset at rates specified in Appendix I of the Regulations.
+30.8
+In addition to allowable depreciation, the Distribution Licensee shall be entitled to advance against depreciation (AAD),
+computed in the manner given hereunder:
+AAD = Loan (raised for capital expenditure) repayment amount based on loan repayment tenure, subject to a ceiling of
+1/10th of loan amount minus depreciation as calculated on the basis of these Regulations:
+Provided that advance against depreciation shall be permitted only if the cumulative repayment upto a particular Year
+exceeds the cumulative depreciation upto that Year:
+Provided further that advance against depreciation in a Year shall be restricted to the extent of difference between
+cumulative repayment and cumulative depreciation upto that Year.
+Page 25/45
+----- PAGE 26 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+30.9
+The Distribution Licensee shall provide the list of assets added during each Year of Control Period and list of assets
+completing 90% of depreciation in the Year along with Petition for annual performance review, true-up and tariff
+determination for ensuing Year.
+30.10
+The remaining depreciable value for a Distribution Licensee shall be spread over the balance useful life of the asset, on
+repayment of the entire loan.
+31. Interest on Working Capital.
+- 31.1 The norms for working capital for Transmission Licensee shall be as specified in Chapter 5 of these Regulations.
+31.2
+The norms for working capital for Distribution Wires Business and Retail Supply Business shall be as specified in
+Chapter 6 and Chapter 7 of these Regulations.
+31.3
+The interest on working capital shall be a payable on normative basis notwithstanding that the Licensee has not taken
+working capital loan from any outside agency or has exceeded the working capital loan based on the normative figures.
+31.4
+The rate of interest on working capital shall be equal one (1)Year State Bank of India (SBI) MCLR / any replacement
+thereof as notified by RBI for the time being in effect applicable for one (1)Year period, as may be applicable as on
+1stApril of the Financial Year in which the Petition is filed plus 200 basis points.
+32. Tax on Income.
+- 32.1 The treatment of tax on income for a Transmission Licensee shall be in accordance with the prevalent CERC
+Tariff Regulations.
+32.2
+The Commission in its MYT Order shall provisionally approve Income Tax payable for each Year of the Control Period, if
+any, based on the actual income tax paid, including cess and surcharge on the same, if any, as per latest audited
+accounts available for the Distribution Licensee, subject to prudence check.
+32.3
+Variation between Income Tax actually paid, including cess and surcharge on the same, if any, and approved, if any, on
+the income stream of the Licensed business of the Distribution Licensees shall be reimbursed to/recovered from the
+Distribution Licensees, based on the documentary evidence submitted at the time of truing up of each Year of the
+Control Period, subject to prudence check.
+32.4
+Under-recovery or over-recovery of any amount from the Consumers on account of such tax having been passed on to
+them shall be adjusted every Year on the basis of income-tax assessment under the Income-Tax Act, 1961, as certified
+by the statutory auditors. The Distribution Licensee may include this variation in its truing up Petition:
+Provided that tax on any income stream other than the core business shall not be a pass-through component in tariff
+and tax on such other income shall be borne by the Distribution Licensee.
+33. Rebate.
+- 33.1 The rebate to be provided by a Generating Company or Transmission Licensee to a Distribution Licensee for
+early payment of bills shall be in accordance with the prevalent CERC Tariff Regulations.
+33.2
+Such rebate earned by the Distribution Licensee shall be considered under Non-Tariff Income for the Distribution
+Licensee.
+33.3
+Any rebate provided by the Generating Company or Transmission Licensee to the beneficiaries shall not be allowed as
+an expense for the Generating Company or Transmission Licensee, as the case may be.
+34. Late Payment Surcharge.
+- 34.1 In case the payment of bills of transmission charges by a beneficiary is delayed beyond a period as specified in
+the prevalent CERC Tariff Regulations, a late payment surcharge shall be levied on the billed amount in accordance
+with the prevalent CERC Tariff Regulations.
+34.2
+Page 26/45
+----- PAGE 27 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+The delayed payment charge earned by the Transmission Licensee or the Distribution Licensee shall not be considered
+under its Non-Tariff Income.
+34.3
+Interest on delayed payment earned by the Transmission Licensee or the Distribution Licensee shall be considered
+under its Non-Tariff Income after subtracting the normative interest on additional working capital required by the
+Licensee on account of delayed payment by Consumers.
+34.4
+The delayed payment charge paid or payable by the Distribution Licensee to the Generating Company or the
+Transmission Licensee shall not be allowed as an expense for such Distribution Licensee.
+35. Income from Other Business.
+- 35.1 Where the Transmission Licensee or Distribution Licensee is engaged in any Other Business, the income from
+such business shall be calculated in accordance with the Joint Electricity Regulatory Commission for Goa & Union
+Territories (Treatment of Other Business of Transmission Licensees and Distribution Licensees) Regulations, 2009, as
+amended from time to time and shall be deducted from the Aggregate Revenue Requirement of the Licensee:
+Provided that the Licensee shall follow a reasonable basis for allocation of all joint and common costs between the
+transmission or distribution business and the Other Business and prepare Accounting Statements in accordance with
+Joint Electricity Regulatory Commission for Goa & Union Territories (Treatment of Other Business of Transmission
+Licensees and Distribution Licensees) Regulations, 2009, as amended from time to time and submit to the Commission
+along with its application for determination of tariff:
+Provided further that where the sum total of the direct and indirect costs of such Other Business exceeds the revenues
+from such Other Business, no amount shall be allowed to be added to the Aggregate Revenue Requirement of the
+Licensee on account of such Other Business.
+Chapter 4
+Generation
+36. Applicability.
+- 36.1 The Regulations contained in this Chapter shall apply for determination of tariff for supply of electricity to
+Distribution Licensee from a Generating Station located in the State.
+36.2
+The Commission shall be guided by the terms and conditions contained in this Chapter in determining the tariff for
+supply of electricity by a Generating Company to a Distribution Licensee in the following cases:
+(a)
+where such tariff is pursuant to a power purchase agreement or arrangement entered into subsequent to the date of
+effectiveness of these Regulations; or
+(b)
+where such tariff is pursuant to a power purchase agreement or arrangement entered into prior to the date of
+effectiveness of these Regulations and either the Commission has not previously approved such
+agreement/arrangement or the agreement/arrangement envisages that the tariff shall be based on the Tariff Regulations
+notified by the Commission; or
+(c)
+where the Distribution Licensee is engaged in the business of generation of electricity, in determining the price at which
+electricity is supplied by the Generating Station of the Distribution Licensee to its Retail Supply Business.
+36.3
+Notwithstanding anything contained in this Chapter 4, the Commission shall adopt the tariff if such tariff has been
+determined through transparent process of bidding in accordance with the guidelines issued by the Central Government.
+37. Components of Tariff.
+- 37.1 The Aggregate Revenue Requirement for a Generation Company shall comprise of the following components:
+(a)
+Return on Equity;
+(b)
+Interest and finance charges on Loan;
+(c)
+Page 27/45
+----- PAGE 28 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Depreciation;
+(d)
+Interest on Working Capital;
+(e)
+Operation and maintenance expenses;
+(f)
+Income tax.
+37.2
+The treatment of each of the above components shall be in accordance with the prevalent CERC Tariff Regulations
+governing generation of electricity.
+37.3
+The recovery of Aggregate Revenue Requirement and fuel cost for a Generation Company shall be in accordance with
+the prevalent CERC Tariff Regulations governing generation of electricity
+38. Norms of Operation.
+- 38.1 The norms of operation for a Generating Station including Normative annual plant availability factor (NAPAF),
+Normative Annual Plant Load Factor (NAPLF), Gross Station heat Rate, Auxiliary Consumption etc. shall be in
+accordance with the prevalent CERC Tariff Regulations governing generation of electricity.
+Chapter 5
+Intra-State Transmission
+39. Applicability.
+- 39.1 The Regulations contained in this Chapter shall apply for determination of tariff for access and use of the intra-
+State transmission system in the States.
+40. Components of Tariff.
+- 40.1 The annual transmission charges for each Financial Year of the Control Period shall provide for the recovery of
+the Aggregate Revenue Requirement of the Transmission Licensee for the respective Financial Year of the Control
+Period, as reduced by the amount of Non-Tariff Income, income from Other Business and short-term transmission
+charges of the previous Year in accordance with Joint Electricity Regulatory Commission for the State of Goa and Union
+Territories (Connectivity and Open Access in Intra-State Transmission and Distribution) Regulations, 2017, as amended
+from time to time:
+Provided that in case of competitively awarded transmission system projects in pursuance of Section 63 of the Act and
+in accordance with guidelines for competitive bidding for transmission, the annual transmission charges shall be as per
+the annual Transmission Service Charges (TSC) quoted by such competitively awarded transmission projects.
+40.2
+The annual transmission charges of the Transmission Licensee shall be determined by the Commission on the basis of
+an application for determination of Aggregate Revenue Requirement made by the Transmission Licensee in accordance
+with Chapter 2 of these Regulations.
+40.3
+The Aggregate Revenue Requirement for a Transmission Licensee shall comprise of the following components:
+(a)
+Return on Equity;
+(b)
+Depreciation;
+(c)
+Interest and Finance Charges on Loan Capital;
+(d)
+Interest on Working Capital and deposits from Transmission System Users;
+(e)
+Operation and maintenance expenses;
+(f)
+Income Tax
+Less:
+Page 28/45
+----- PAGE 29 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+(g)
+Income from Open Access Charges, in accordance with Joint Electricity Regulatory Commission for the State of Goa
+and Union Territories (Connectivity and Open Access in Intra-State Transmission and Distribution) Regulations, 2017 as
+amended from time to time;
+(h)
+Non-Tariff Income;
+(i)
+Income from Other Business, to the extent specified in these Regulations:
+Provided that Return on Equity, Interest on Loan, Depreciation, Interest on Working Capital and deposits from
+Transmission System Users and Income Tax for Transmission Licensees shall be allowed in accordance with the
+provisions specified in Chapter 3 of these Regulations:
+Provided further that prior period income/expenses shall be allowed by the Commission at the time of truing up based on
+audited accounts, on a case-to-case basis, subject to prudence check.
+41. Operation and Maintenance (O&M) expenses for Transmission Licensees.
+- 41.1 Operation and Maintenance (O&M) expenses shall comprise of the following:
+(a)
+Employee expenses - salaries, wages, pension contribution and other employee costs;
+(b)
+Administrative and General expenses including insurance charges if any; and
+(c)
+Repairs and Maintenance expenses.
+41.2
+The Transmission Licensee shall submit the required O&M expenses for the Control Period as a part of Multi Year Tariff
+Petition. O&M expenses for the base Year shall be approved by the Commission taking into account the latest available
+audited accounts, business plan filed by the transmission Licensee, estimates of the actuals for the base Year, prudence
+check and any other factors considered appropriate by the Commission.
+41.3
+O&M expenses for the nth Year of the Control Period shall be approved based on the formula given below:
+O&Mn = (R&Mn + EMPn + A&Gn) x (1 - Xn) + Terminal Liabilities
+Where,
+R&Mn = K xGFAn-1 x (WPIinflation)
+EMPn = (EMPn-1) x(1+Gn) x(CPIinflation)
+A&Gn = (A&Gn-1) x(CPIinflation)
+`K' is a constant (expressed in %). Value of K for each Year of the Control Period shall be determined by the
+Commission in the Multi Year Tariff Order based on Licensee's filing, bench marking of repair and maintenance
+expenses, approved repair and maintenance expenses vis-a-vis GFA approved by the Commission in past and any
+other factor considered appropriate by the Commission;
+CPIinflation - is the average in crease in Consumer Price Index (CPI) for immediately preceding three (3)Years before
+the base Year;
+WPIinflation - is the average increase in the Wholesale Price Index (CPI) for immediately preceding three (3) Years
+before the base Year;
+EMPn - Employee expenses of the Transmission Licensee for the nth Year;
+A&Gn - Administrative and General expenses of the Transmission Licensee for the nth Year;
+R&Mn - Repair and Maintenance expenses of the Transmission Licensee for the nth Year;
+GFAn-1 - Gross Fixed Asset of the transmission Licensee for the n-1th Year;
+Xn is an efficiency factor for nth Year. Value of Xn shall be determined by the Commission in the Multi Year Tariff Order
+based on Licensee's filing, benchmarking, approved cost by the Commission in past and any other factor the
+Commission feels appropriate;
+Gn is a growth factor for the nth Year. Value of Gn shall be determined by the Commission for each Year in the Multi
+Year Tariff Order for meeting the additional manpower requirement based on Licensee's filings, benchmarking,
+approved cost by the Commission in past and any other factor that the Commission feels appropriate.
+Page 29/45
+----- PAGE 30 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+41.4
+Terminal liabilities of employees of Licensee including pension expenses etc. shall be approved as per actuals
+submitted by the Licensee, subject to prudence check or be established through actuarial studies. Additionally, any
+variation due to changes recommended by the pay commission shall be allowed separately by the Commission, subject
+to prudence check.
+41.5
+For the purpose of estimation, the same value of factors - CPIinflation and WPIinflation shall be used for all Years of the
+Control Period. However, the Commission shall consider the actual values of the factors - CPIinflation and WPIinflation
+during the truing up exercise for the Year for which true up is being carried out and true up the O&M Expenses for that
+Year, only to the extent of inflation.
+41.6
+For New Transmission Licensee, the Year-wise O&M norms shall be determined on case to case basis:
+Provided that the same shall not apply to those New Projects, which are awarded on a competitive bidding basis.
+Note: The term "New Transmission Licensee" shall mean the Transmission Licensee(s) for which transmission license is
+granted by the Commission after the date of effectiveness of these Regulations, and whose transmission project assets
+are commissioned after March 31, 2018.
+42. Norms of Working Capital for Transmission Licensee.
+- 42.1 The Transmission Licensee shall be allowed interest on the estimated level of working capital for the Financial
+Year computed in accordance with prevalent CERC Tariff Regulations.
+43. Non-Tariff Income.
+- 43.1 The amount of Non-Tariff Income relating to the transmission business as approved by the Commission shall be
+deducted from the Aggregate Revenue Requirement in determining annual transmission charges of the Transmission
+Licensee:
+Provided that the Transmission Licensee shall submit full details of its forecast of Non-Tariff Income to the Commission
+along with its application for determination of Aggregate Revenue Requirement.
+43.2
+The Non-Tariff Income shall inter-alia include:
+(a)
+Income from rent on land or buildings;
+(b)
+Income from sale of scrap;
+(c)
+Income from statutory investments;
+(d)
+Interest on advances to suppliers/contractors;
+(e)
+Rental from staff quarters;
+(f)
+Rental from contractors;
+(g)
+Income from hire charges from contactors and others;
+(h)
+Income from advertisements, etc.;
+(i)
+Miscellaneous receipts like parallel operation charges;
+(j)
+Deferred Income from grant, subsidy, etc., as per Annual Accounts;
+(k)
+Excess found on physical verification;
+(l)
+Interest on investments, fixed and call deposits and bank balances;
+Page 30/45
+----- PAGE 31 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+(m)
+Prior period income, etc.:
+Provided that the interest/dividend earned from investments made out of Return on Equity corresponding to the
+Licensed Business of the Transmission Licensee shall not be included in Non-Tariff Income.
+44. Norms of Operations for Transmission Licensee.
+- 44.1 The norms of operations for a Transmission Licensee shall be applicable as specified in the prevalent CERC
+Tariff Regulations.
+Provided that sharing of incentive, if any with the beneficiaries for exceeding the norms of operations shall be in
+accordance with provisions of prevalent CERC Tariff Regulations.
+45. Transmission Loss.
+- 45.1 The energy losses in the transmission system of the Transmission Licensee, as determined by the State Load
+Despatch Centre, shall be borne by the Transmission System Users in proportion to their usage of the intra- State
+transmission system.
+46. Sharing of charges for Intra-State Transmission Network.
+- 46.1 The Aggregate Revenue Requirement of the Transmission Licensee, as approved by the Commission, shall be
+shared by all long-term users and medium-term users of the transmission system on a monthly basis in the ratio of their
+respective Allotted Transmission Capacity to the total Allotted Transmission Capacity, in accordance with the following
+formula:
+ATCn = (Transmission ARR / 12) x (CCn/ SCC)
+Where,
+ATCn = annual transmission charges payable by the nth long-term user or medium-term user of the transmission
+system;
+Transmission ARR = Aggregate Revenue Requirement of the Transmission Licensee, determined in accordance with
+these Regulations;
+CCn = Allotted Transmission Capacity by the nth long-term user or medium-term user of the transmission system;
+SCC = sum of Allotted Transmission Capacity by all long-term users and medium-term users of the transmission
+system:
+Provided that the ATCn shall be payable on a monthly basis by each long-term user or medium-term user of the
+transmission system and shall be collected by the State Transmission Utility (STU).
+46.2
+The short-term Open Access Consumers shall pay transmission charges on Rs/MW/day basis determined in
+accordance with Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Connectivity and
+Open Access in Intra-State Transmission and Distribution) Regulations, 2017, as amended from time to time.
+46.3
+75% of charges collected from the short-term Open Access Consumers shall be adjusted towards reduction in the
+charges payable by the long-term and medium-term Open Access Consumers. The remaining 25% of the charges
+collected from short-term Open Access users shall be retained by the Transmission Licensee.
+47. Consequential Impact of any Government of India Scheme.
+- 47.1 The consequential impact of any Government of India scheme for waiver/reduction of transmission charges,
+incentives, and losses for any entity/ies, on the transmission charges payable by the other entities, shall be addressed
+through separate Orders to be issued by the Commission from time to time.
+Chapter 6
+Distribution Wires Business
+48. Separation of Accounts of Distribution Licensee.
+- 48.1 Every Distribution Licensee shall segregate accounts for Distribution Wires Business and Retail Supply Business
+and shall prepare an Allocation Statement. The wheeling charges pertaining to Distribution Wires Business of the
+Distribution Licensee shall be determined by the Commission on the basis of these segregated accounts:
+Provided that in case complete accounting segregation has not been done, the following Allocation Statement shall be
+applicable:
+Table 1: Allocation Statement for segregation of Distribution Wires Business and Retail Supply Business
+Particulars
+Page 31/45
+----- PAGE 32 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Wires Business (%)
+Retail Supply Business (%)
+Power Purchase Expenses
+0%
+100%
+Inter-State Transmission Charges
+0%
+100%
+Intra-State Transmission Charges
+0%
+100%
+Employee Expenses
+40%
+60%
+Administration & General Expenses
+50%
+50%
+Repair & Maintenance Expenses
+90%
+10%
+Capital Cost
+90%
+10%
+Depreciation
+90%
+10%
+Interest on Long-term Loan Capital
+90%
+10%
+Interest on working capital and on consumer
+security deposits
+10%
+90%
+Bad Debts Written off
+0%
+100%
+Income Tax
+90%
+10%
+Non-Tariff Income
+10%
+90%
+Income from Other Business
+50%
+50%
+Provided further that the above Allocation Statement shall be applied for all or any of the heads of expenditure and
+revenue, where actual accounting separation has not been done between the Distribution Wires Business and Retail
+Supply Business.
+49. Applicability.
+- 49.1 The Regulations contained in this Chapter shall apply to the determination of wheeling charges for usage of
+distribution wires of a Distribution Licensee by a distribution system user, other than retail supply Consumers.
+Page 32/45
+----- PAGE 33 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+50. Aggregate Revenue Requirement for Distribution Wires Business.
+- 50.1 The wheeling charges for Distribution Wires Business of the Distribution Licensee shall provide for the recovery of
+the Aggregate Revenue Requirement, which shall comprise of the following:
+(a)
+Return on Equity;
+(b)
+Interest and finance charges on Loan;
+(c)
+Depreciation;
+(d)
+Interest on Working Capital and deposits from distribution system users;
+(e)
+Operation and maintenance expenses;
+(f)
+Income Tax;
+Less:
+(g)
+Non-Tariff Income;
+(h)
+Income from Other Business, to the extent specified in these Regulations:
+Provided that Return on Equity, Interest on Loan Capital, Depreciation, Interest on Working Capital, Interest on deposits
+from Consumers and distribution system users, and Income Tax for Distribution Wires Business shall be allowed in
+accordance with the provisions specified in Chapter 3 of these Regulations:
+Provided further that prior period income/expenses shall be allowed by the Commission at the time of truing up based on
+audited accounts, on a case-to-case basis, subject to prudence check:
+Provided also that all penalties and compensation payable by the Licensee to any party for failure to meet any
+Standards of Performance or for damages, as a consequence of the orders of the Commission, Courts, Consumer
+Grievance Redressal Forum, and Ombudsman, etc., shall not be allowed to be recovered through the Aggregate
+Revenue Requirement:
+Provided also that the Distribution Licensee shall maintain separate details of such penalties and compensation paid or
+payable by the Licensee, if any, and shall submit them to the Commission along with its Petition.
+51. Operation and Maintenance (O&M) expenses for Distribution Wires Business.
+- 51.1 The Operation and Maintenance expenses for the Distribution Wires Business shall be computed in accordance
+with this Regulation.
+51.2
+Operation and Maintenance (O&M) expenses shall comprise of the following:
+(a)
+Employee expenses - salaries, wages, pension contribution and other employee costs;
+(b)
+Administrative and General expenses including insurance charges if any; and
+(c)
+Repairs and Maintenance expenses.
+51.3
+The Distribution Licensee shall submit the required O&M expenses for the Control Period as a part of Multi Year Tariff
+Petition. O&M expenses for the base Year shall be approved by the Commission taking into account the latest available
+audited accounts, business plan filed by the transmission Licensee, estimates of the actuals for the Base Year,
+prudence check and any other factors considered appropriate by the Commission.
+51.4
+O&M expenses for the nth Year of the Control Period shall be approved based on the formula given below:
+O&Mn = (R&Mn + EMPn + A&Gn) x (1 - Xn) + Terminal Liabilities
+Where,
+Page 33/45
+----- PAGE 34 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+R&Mn = K x GFAn-1 x (WPIinflation)
+EMPn = (EMPn-1) x (1+Gn) x (CPIinflation)
+A&Gn = (A&Gn-1) x (CPIinflation)
+`K' is a constant (expressed in %) Value of K for each Year of the Control Period shall be determined by the Commission
+in the Multi Year Tariff Order based on Licensee's filing, benchmarking of repair and maintenance expenses, approved
+repair and maintenance expenses vis-a-vis GFA approved by the Commission in past and any other factor considered
+appropriate by the Commission;
+CPI inflation - is the average increase in Consumer Price Index (CPI) for immediately preceding three (3) Years before
+the base Year;
+WPI inflation - is the average increase in the Wholesale Price Index (CPI) for immediately preceding three (3) Years
+before the base Year;
+EMPn - Employee expenses of the Distribution Licensee for the nth Year;
+A&Gn - Administrative and General expenses of the Distribution Licensee for the nth Year;
+R&Mn - Repair and Maintenance expenses of the Distribution Licensee for the nth Year;
+GFAn-1 - Gross Fixed Asset of the transmission Licensee for the n-1th Year;
+Xn is an efficiency factor for nth Year. Value of Xn shall be determined by the Commission in the Multi Year Tariff Order
+based on Licensee's filing, benchmarking, approved cost by the Commission in past and any other factor the
+Commission feels appropriate;
+Gn is a growth factor for the nth Year. Value of Gn shall be determined by the Commission for each Year in the Multi
+Year Tariff Order for meeting the additional manpower requirement based on Licensee's filings, benchmarking,
+approved cost by the Commission in past and any other factor that the Commission feels appropriate:
+Provided that in case the Distribution Licensee has been in operation for less than three (3) Years as on the date of
+effectiveness of these Regulations, O&M Expenses shall be determined on case to case basis.
+51.5
+Terminal liabilities of employees of Licensee including pension expenses etc. shall be approved as per actuals
+submitted by the Licensee, subject to prudence check or be established through actuarial studies. Additionally, any
+variation due to changes recommended by the pay commission shall be allowed separately by the Commission, subject
+to prudence check.
+51.6
+For the purpose of estimation, the same value of factors - CPIinflation and WPIinflation shall be used for all Years of the
+Control Period. However, the Commission shall consider the actual values of the factors - CPI inflation and WPI inflation
+during the truing up exercise for the Year for which true up is being carried out and true up the O&M Expenses for that
+Year, only to the extent of inflation.
+52. Norms of Working Capital for Distribution Wires Business.
+- 52.1 The Distribution Licensee shall be allowed interest on the estimated level of working capital for the Distribution
+Wires Business for the Financial Year, computed as follows:
+(a)
+O&M Expenses for one (1) month; plus
+(b)
+Maintenance spares at 40% of repair and maintenance expenses for one (1) month; plus
+(c)
+Receivables equivalent to two (2) months of the expected revenue from charges for use of distribution wires at the
+prevailing tariff;
+Less
+(d)
+Amount, if any, held as security deposits under clause (b) of sub-section (1) of Section 47 of the Act from distribution
+system users except the security deposits held in the form of Bank Guarantees:
+Provided that at the time of truing up for any Year, the working capital requirement shall be re-calculated on the basis of
+the values of components of working capital approved by the Commission in the truing up.
+53. Non-Tariff Income.
+- 53.1 The amount of Non-Tariff Income relating to the Distribution Wires Business as approved by the Commission shall
+Page 34/45
+----- PAGE 35 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+be deducted from the Aggregate Revenue Requirement in determining the wheeling charges of Distribution Wires
+Business of the Distribution Licensee:
+Provided that the Distribution Licensee shall submit full details of its forecast of Non-Tariff Income to the Commission
+along with its application for determination of wheeling charges.
+53.2
+The Non-Tariff Income shall inter-alia include:
+Income from rent of land or buildings;
+(a)
+Income from sale of scrap;
+(b)
+Income from statutory investments;
+(c)
+Income from interest on contingency reserve investment;
+(d)
+Interest on advances to suppliers/contractors;
+(e)
+Rental from staff quarters;
+(f)
+Rental from contractors;
+(g)
+Income from hire charges from contactors and others;
+(h)
+Income from advertisements, etc.;
+(i)
+Miscellaneous receipts;
+(j)
+Excess found on physical verification;
+(k)
+Deferred Income from grant, subsidy, etc., as per Annual Accounts;
+(l)
+Prior period income, etc.:
+Provided that the interest/dividend earned from investments made out of Return on Equity corresponding to the
+Distribution Wires Business of the Distribution Licensee shall not be included in Non-Tariff Income.
+54. Determination of Wheeling Charges.
+- 54.1 The Commission shall specify the Wheeling Charge of Distribution Wires Business of the Distribution Licensee in
+its Order passed under sub-section (3) of Section 64 of the Act:
+Provided that the revenue from wheeling charges paid by the distribution system users other than the retail Consumers
+under the above proviso shall be used to reduce the Aggregate Revenue Requirement of the Distribution Wires
+Business to be recovered from the retail Consumers of the concerned Distribution Licensee, in accordance with Joint
+Electricity Regulatory Commission for the State of Goa and Union Territories (Connectivity and Open Access in
+Intra-State Transmission and Distribution) Regulations, 2017, as amended from time to time.
+55. Wheeling Losses.
+- 55.1 The Distribution Licensee shall be allowed to recover, in kind, the approved level of wheeling losses arising from
+the operation of the distribution system, as stipulated in the respective Tariff Order.
+Chapter 7
+Retail Supply of Electricity
+56. Applicability.
+- 56.1 These Regulations shall apply to determination of tariff for retail supply of electricity by a Distribution Licensee to
+its Consumers.
+57. Aggregate Revenue Requirement for Retail Supply Business.
+- 57.1 The tariff for retail supply of the Distribution Licensee shall provide for the recovery of the Aggregate Revenue
+Page 35/45
+----- PAGE 36 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Requirement of the Retail Supply Business for the respective Years of the Control Period, as approved by the
+Commission and comprising the following components:
+(a)
+Cost of own power generation and power purchase expenses from other sources;
+(b)
+Inter-State transmission charges;
+(c)
+Intra-State transmission charges;
+(d)
+SLDC fees and charges;
+(e)
+Balance Aggregate Revenue Requirement for Distribution Wires Business, as determined under Chapter 6 of these
+Regulations, after deducting income from wheeling charges payable by distribution system users other than the retail
+Consumers getting electricity supply from the same Distribution Licensee in accordance with Joint Electricity Regulatory
+Commission for the State of Goa and Union Territories (Connectivity and Open Access in Intra-State Transmission and
+Distribution) Regulations, 2017, as amended from time to time;
+(f)
+Provision for bad and doubtful debts;
+(g)
+Return on Equity capital;
+(h)
+Operation and Maintenance Expenses;
+(i)
+Depreciation;
+(j)
+Interest and finance charges on Loan Capital;
+(k)
+Interest on Working Capital;
+(l)
+Interest on consumer security deposits;
+(m)
+Income Tax;
+Less
+(n)
+Non-Tariff income;
+(o)
+Income from Other Business, to the extent specified in these Regulations;
+(p)
+Receipts on account of Cross-Subsidy Surcharge;
+(q)
+Receipts on account of Additional Surcharge:
+Provided that Depreciation, Interest on Loan Capital, Interest on Working Capital, Interest on consumer security
+deposits, Contribution to Contingency Reserves, Return on Equity, and Income Tax for Retail Supply Business shall be
+allowed in accordance with the provisions specified in Chapter 3 of these Regulations:
+Provided further that prior period income/expenses shall be allowed by the Commission at the time of truing up based on
+audited accounts, on a case-to-case basis, subject to prudence check:
+Provided also that all penalties and compensation payable by the Licensee to any party for failure to meet any
+Standards of Performance or for damages, as a consequence of the orders of the Commission, Courts, Consumer
+Grievance Redressal Forum, and Ombudsman, etc. or penalty imposed by Commission on Licensee for non-compliance
+with Renewable Purchase Obligations in accordance with Joint Electricity Regulatory Commission for state of Goa &
+Union Territories (Procurement of Renewable energy) Regulations, 2010, as amended from time to time shall not be
+Page 36/45
+----- PAGE 37 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+allowed to be recovered through the Aggregate Revenue Requirement:
+Provided also that the Distribution Licensee shall maintain separate details of such penalties and compensation paid or
+payable by the Licensee, if any, and shall submit them to the Commission along with its Petition.
+57.2
+The tariff for retail supply by the Distribution Licensee shall be determined by the Commission on the basis of a Petition
+for determination of tariff filed by the Distribution Licensee in accordance with Chapter 2 of these Regulations:
+Provided that the Aggregate Revenue Requirement of the Distribution Licensee shall be allocated or apportioned
+between the Distribution Wires Business and Retail Supply Business in accordance with the Table 1 in Regulation 48, till
+the accounts for Distribution Wires Business and Retail Supply Business are not separated:
+Provided further that the tariff for retail supply may comprise of any combination of fixed/demand charges, energy
+charges, and any other charges, for the purpose of recovery from the Consumers, as may be stipulated by the
+Commission:
+Provided also that the Commission may determine the area-wise tariff for Distribution Licensee based on the
+performance parameters as may be stipulated by the Commission.
+58.
+Cost of Power Purchase.
+- 58.1 The Distribution Licensee shall be allowed to recover the cost of power generated by the Generating Stations
+owned by it or purchased from approved sources for supply to Consumers based on the power procurement plan of the
+Distribution Licensee, approved by the Commission.
+58.2
+The Distribution Licensee shall recover the incremental cost on account of Fuel and Power Purchase Cost Adjustment
+(FPPCA) in accordance with the formula and related terms and conditions as may be prescribed by the Commission in
+its Orders from time to time. The Commission shall also specify the categories of Consumers for recovery of the FPPCA
+charge.
+59.
+Transmission Charges.
+- 59.1 The Distribution Licensee shall be allowed to recover transmission charges payable for access to and use of the
+inter-state and intra-State transmission system in accordance with the tariff approved by the Commission under Chapter
+5of these Regulations.
+60.
+Operation and Maintenance (O&M) expenses for Retail Supply Business.
+- 60.1 The Operation and Maintenance Expenses for the Retail Supply Business shall be computed in accordance with
+this Regulation.
+60.2
+O&M Expenses shall comprise of the following:
+(a)
+Employee expenses - salaries, wages, pension contribution and other employee costs;
+(b)
+Administrative and General expenses including insurance charges if any; and
+(c)
+Repairs and Maintenance expenses.
+60.3
+The Licensee shall submit the required O&M expenses for the Control Period as a part of Multi Year Tariff Petition. O&M
+expenses for the base Year shall be approved by the Commission taking into account the latest available audited
+accounts, business plan filed by the transmission Licensee, estimates of the actuals for the Base Year, prudence check
+and any other factors considered appropriate by the Commission.
+60.4
+O&M expenses for the nth Year of the Control Period shall be approved based on the formula given below:
+O&Mn = (R&Mn + EMPn + A&Gn) x (1 - Xn) + Terminal Liabilities
+Where,
+R&Mn = K x GFAn-1 x (WPIinflation)
+Page 37/45
+----- PAGE 38 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+EMPn = (EMPn-1) x (1+Gn) x (CPIinflation)
+A&Gn = (A&Gn-1) x (CPIinflation)
+`K' is a constant (expressed in %). Value of K for each Year of the Control Period shall be determined by the
+Commission in the Multi Year Tariff Order based on Licensee's filing, benchmarking of repair and maintenance
+expenses, approved repair and maintenance expenses vis-a-vis GFA approved by the Commission in past and any
+other factor considered appropriate by the Commission;
+CPIinflation - is the average increase in Consumer Price Index (CPI) for immediately preceding three (3)Years before
+the base Year;
+WPIinflation - is the average increase in the Wholesale Price Index (CPI) for immediately preceding three (3) Years
+before the base Year;
+EMPn - Employee expenses of the Distribution Licensee for the nth Year;
+A&Gn - Administrative and General expenses of the Distribution Licensee for the nth Year;
+R&Mn - Repair and Maintenance expenses of the Distribution Licensee for the nth Year;
+GFAn-1 - Gross Fixed Asset of the transmission Licensee for the n-1th Year;
+Xn is an efficiency factor for nth Year. Value of Xn shall be determined by the Commission in the Multi Year Tariff Order
+based on Licensee's filing, benchmarking, approved cost by the Commission in past and any other factor the
+Commission feels appropriate;
+Gn is a growth factor for the nth Year. Value of Gn shall be determined by the Commission for each Year in the Multi
+Year Tariff Order for meeting the additional manpower requirement based on Licensee's filings, benchmarking,
+approved cost by the Commission in past and any other factor that the Commission feels appropriate:
+Provided that in case the Licensee has been in operation for less than three (3) Years as on the date of effectiveness of
+these Regulations, the O&M Expenses shall be determined on a case to case basis.
+60.5
+Terminal liabilities of employees of Licensee including pension expenses etc. shall be approved as per actuals
+submitted by the Licensee, subject to prudence check or be established through actuarial studies. Additionally, any
+variation due to changes recommended by the pay commission shall be allowed separately by the Commission, subject
+to prudence check.
+60.6
+For the purpose of estimation, the same value of factors - CPIinflation and WPIinflation shall be used for all Years of the
+Control Period. However, the Commission shall consider the actual values of the factors - CPI inflation and WPI inflation
+during the truing up exercise for the Year for which true up is being carried out and true up the O&M Expenses for that
+Year, only to the extent of inflation.
+61.
+SLDC Fees & Charges.
+- 61.1 The Distribution Licensee shall be allowed to recover SLDC fees and charges payable to SLDC in accordance
+with the tariff approved by the Commission.
+62.
+Provision for bad and doubtful debts.
+- 62.1 The Commission may allow bad debts written off as a pass through in the Aggregate Revenue Requirement,
+based on the trend of write off of bad debts in the previous years, subject to prudence check:
+Provided that the Commission shall true up the bad debts written off in the Aggregate Revenue Requirement, based on
+the actual write off of bad debts excluding delayed payment charges waived off, if any, during the year, subject to
+prudence check:
+Provided also that the provision for bad and doubtful debts shall be limited to 1% of the annual Revenue Requirement of
+the Distribution Licensee:
+Provided further that if subsequent to the write off of a particular bad debt, revenue is realised from such bad debt, the
+same shall be included as an uncontrollable item under the Non-Tariff Income of the year in which such revenue is
+realised.
+63.
+Norms of Working Capital for Retail Supply Business.
+- 63.1 The Distribution Licensee shall be allowed interest on the estimated level of working capital for the Retail Supply
+Page 38/45
+----- PAGE 39 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Business for the Financial Year, computed as follows:
+(a)
+O&M Expenses for one (1) month; plus
+(b)
+Maintenance spares at 40% of repair and maintenance expenses for one (1) month; plus
+(c)
+Receivables equivalent to two (2) months of the expected revenue from Consumers at the prevailing tariff;
+Less
+(d)
+Amount, if any, held as security deposits under clause (b) of sub-section (1) of Section 47 of the Act from Consumers
+except the security deposits held in the form of Bank Guarantees:
+Provided that at the time of truing up for any Year, the working capital requirement shall be re-calculated on the basis of
+the values of components of working capital approved by the Commission in the truing up.
+64.
+Non-Tariff Income.
+- 64.1 The amount of Non-Tariff Income relating to the retail supply of electricity as approved by the Commission shall
+be deducted from the Aggregate Revenue Requirement in calculating the tariff for retail supply of electricity by the
+Distribution Licensee:
+Provided that the Distribution Licensee shall submit full details of its forecast of Non-Tariff Income to the Commission
+along with its application for determination of tariff.
+64.2
+The Non-Tariff Income shall inter-alia include:
+(a)
+Income from rent of land or buildings;
+(b)
+Income from sale of scrap;
+(c)
+Income from statutory investments;
+(d)
+Interest on advances to suppliers/contractors;
+(e)
+Rental from staff quarters;
+(f)
+Rental from contractors;
+(g)
+Income from hire charges from contactors and others;
+(h)
+Income from advertisements, etc.;
+(i)
+Meter/metering equipment/service line rentals;
+(j)
+Service charges;
+(k)
+Consumer charges;
+(l)
+Recovery for theft and pilferage of energy;
+(m)
+Rebate availed on account of timely payment of bills;
+(n)
+Miscellaneous receipts;
+(o)
+Page 39/45
+----- PAGE 40 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+Deferred Income from grant, subsidy, etc., as per Annual Accounts;
+(p)
+Prior period income, etc.:
+Provided that the interest/dividend earned from investments made out of Return on Equity corresponding to the Retail
+Supply Business of the Distribution Licensee shall not be included in Non-Tariff Income:
+Provided further that any income earned by a Distribution Licensee by sale of power to other Distribution Licensees or to
+Consumers as per Section 49 of the Act using the existing power purchase agreements or bulk supply capacity
+allocated to the Distribution Licensee's Area of Supply shall be reduced from the Aggregate Revenue Requirement of
+the Distribution Licensee for the purpose of determination of tariff. Such reduction shall be carried out in accordance with
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Connectivity and Open Access in
+Intra-State Transmission and Distribution) Regulations, 2017, as amended from time to time.
+65.
+Receipts on account of Cross-Subsidy Surcharge and Additional Surcharge.
+- 65.1 The Cross-Subsidy Surcharge received by the Distribution Licensee in accordance with the Joint Electricity
+Regulatory Commission for the State of Goa and Union Territories (Connectivity and Open Access in Intra- State
+Transmission and Distribution) Regulations, 2017, as amended from time to time, at the rate approved by the
+Commission shall be deducted from the Aggregate Revenue Requirement, at the time of truing up.
+65.2
+The Additional surcharge received by the Distribution Licensee in accordance with the Joint Electricity Regulatory
+Commission for the State of Goa and Union Territories (Connectivity and Open Access in Intra- State Transmission and
+Distribution) Regulations, 2017, as amended from time to time, at the rate approved by the Commission shall be
+deducted from the Aggregate Revenue Requirement, at the time of truing up.
+66.
+Distribution Losses.
+- 66.1 The Distribution Licensee shall recover the approved level of distribution losses arising from the Retail Supply of
+electricity.
+66.2
+The Commission may stipulate a trajectory for distribution losses for the Control Period in accordance with these
+Regulations, as part of the Multi Year Tariff Order.
+66.3
+Any variation between the actual level of distribution losses and the approved level shall be dealt with, as part of the
+Truing up exercise in accordance with Regulation 14.
+67.
+Determination of Tariff.
+- 67.1 The Commission may categorize Consumers on the basis of their load factor, power factor, voltage, total
+consumption of electricity during any specified period or the time at which the supply is required or the geographical
+position of any area, the nature of supply and the purpose for which the supply is required and any other factor as
+considered appropriate by the Commission.
+67.2
+The Commission shall endeavour to determine cost of supply for each category/ sub-category of Consumers.
+67.3
+The Commission shall endeavour to reduce gradually the cross-subsidy between Consumer categories with respect to
+the cost of supply in accordance with the provisions of the Act.
+67.4
+The tariff proposal by Licensee and the tariff determination by the Commission shall be based on the following
+principles:
+(a)
+The tariff for all categories shall preferably be two part, consisting of fixed and variable charges.
+(b)
+The fixed charges in tariff shall progressively reflect actual fixed cost incurred by Distribution Licensee;
+(c)
+Page 40/45
+----- PAGE 41 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+The overall retail supply tariff for different Consumer categories shall progressively reflect the cost of supply for
+respective categories of Consumers;
+(d)
+The tariff for residential Consumers shall be set considering the affordability of tariff for various class of Consumers;
+(e)
+The tariff shall be set in such a manner that it may not present a tariff shock to any category of Consumers.
+Chapter 8
+Miscellaneous
+68.
+Saving of Inherent Power of the Commission.
+- 68.1 Nothing in these Regulations shall be deemed to limit or otherwise affect the inherent power of the Commission to
+make such orders as may be necessary for ends of justice or to prevent the abuse of the process of the Commission.
+68.2
+Nothing in these Regulations shall bar the Commission from adopting in conformity with the provisions of the Act, a
+procedure, which is at variance with any of the provisions of these Regulations, if the Commission, in view of the special
+circumstances of a matter or class of matters and for reasons to be recorded in writing, deems it necessary or expedient
+for dealing with such a matter or class of matters.
+68.3
+Nothing in these Regulations shall, expressly or by implication, bar the Commission to deal with any matter or exercise
+any power under the Act for which no Regulations have been framed, and the Commission may deal with such matters,
+powers and functions in a manner it thinks fit.
+69.
+Issue of Orders and Practice Directions.
+- 69.1 Subject to the provision of the Act and these Regulations, the Commission may, from time to time, issue Orders
+and Practice directions with regard to the implementation of these Regulations and procedure to be followed on various
+matters.
+70.
+Power to amend.
+- 70.1 The Commission may, at any time, vary, alter, modify or amend any provisions of these Regulations following the
+due process of law.
+71.
+Power to remove difficulties.
+- 71.1 If any difficulty arises in giving effect to the provisions of these Regulations, the Commission may, by general or
+specific order, make such provisions not inconsistent with the provisions of the Act, as may appear to be necessary for
+removing the difficulty.
+72.
+Power of Relaxation.
+- 72.1 The Commission, for reasons to be recorded in writing, may relax any of the provisions of these Regulations on its
+own motion or on an application made before it by an interested person.
+73.
+Interpretation.
+- 73.1 If a question arises relating to the interpretation of any provision of these Regulations, the decision of the
+Commission shall be final.
+74.
+Repeal.
+- 74.1 The Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Multi Year Distribution
+Tariff) Regulations, 2014 and JERC (Terms and Conditions for Determination of Tariff) Regulations, 2009shall stand
+repealed from the date of coming into force of these Regulations and any reference to these Regulations in any of the
+Regulations, standards, codes or procedures of the Joint Electricity Regulatory Commission shall be deemed to be
+replaced by the Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Generation,
+Transmission and Distribution Multi Year Tariff) Regulations, 2018.
+Page 41/45
+----- PAGE 42 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+74.2
+Notwithstanding such repeal, anything done or purported to have been done under the repealed Regulations so far as it
+is not inconsistent with these Regulations shall be deemed to have been done or purported to have been done under
+these Regulations.
+74.3
+These Regulations are in addition to and not in derogation of the other Regulations / Codes issued by the Commission.
+Appendix -I: Depreciation Schedule and Useful Life for assets
+(a)
+Generation and Transmission Assets. - The Useful Life and depreciation rates for generation and transmission assets
+shall be as specified in the prevalent CERC Tariff Regulations.
+(b)
+Distribution Assets. -
+S. No
+Asset Class
+Useful Life (Years)
+Rate (%)
+1
+Land owned under full title
+Infinity
+0
+2
+Land held under lease
+(A)
+For investment in land
+Period of lease or the period remaining
+unexpired on the assignment of the lease
+0
+(B)
+For cost of clearing site
+Period of lease remaining unexpired at the date
+of clearing the site
+0
+3
+Assets purchased new
+(A)
+Buildings and civil engineering works of a
+permanent character, not mentioned above:
+(i)
+Offices and showrooms
+50
+1.80
+(ii)
+Temporary erection such as wooden structures
+5
+18.00
+(iii)
+Roads other than kutcha roads
+50
+1.80
+(iv)
+Others
+Page 42/45
+----- PAGE 43 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+50
+1.80
+(B)
+Transformers, transformer (kiosk) substation
+equipment & other fixed apparatus (including plant
+foundations)
+(i)
+Transformers (including foundations) having a
+rating of 100 kilo volt amperes (kVA) and over
+25
+3.60
+(ii)
+Others
+25
+3.60
+(C)
+Switchgear, including cable connections
+25
+3.60
+(D)
+Lightning arrestors:
+(i)
+Station type
+25
+3.60
+(ii)
+Pole type
+15
+6.00
+(iii)
+Synchronous condenser
+35
+2.57
+(E)
+Batteries
+5
+18.00
+(F)
+Underground cable including joint boxes and
+disconnected boxes
+35
+2.57
+(G)
+Cable duct system
+50
+1.80
+(H)
+Overhead lines including supports:
+(i)
+Lines on fabricated steel operating at nominal
+voltages higher than 66 kV
+Page 43/45
+----- PAGE 44 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+35
+2.57
+(ii)
+Lines on steel supports operating at nominal
+voltages higher than 11 kV but not exceeding 66 kV
+25
+3.60
+(iii)
+Lines on steel or reinforced concrete supports
+25
+3.60
+(iv)
+Lines on treated wood supports
+25
+3.60
+(I)
+Meters
+Electro Mechanical
+15
+6.00
+Electronic/Smart Meters
+10
+9.00
+(J)
+Self propelled vehicles
+5
+18.00
+(K)
+Air conditioning plants:
+(i)
+Static
+15
+6.00
+(ii)
+Portable
+5
+18.00
+(L)
+Others
+(i)
+Office furniture and fittings
+15
+6.00
+(ii)
+Office equipment
+15
+6.00
+(iii)
+Internal wirings including fittings and
+apparatus
+15
+Page 44/45
+----- PAGE 45 -----
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Genera...
+6.00
+(iv)
+Street Light fittings
+15
+6.00
+(M)
+Apparatus let on hire:
+(i)
+Other than motors
+5
+18.00
+(ii)
+Motors
+15
+6.00
+(N)
+Communication equipment
+(i)
+Radio and higher frequency carrier systems
+15
+6.00
+(ii)
+Telephone lines and telephones
+15
+6.00
+(O)
+Assets purchased in second hand and assets not
+otherwise provided for in the schedule
+such reasonable period as the Commission
+determines in each case having regard to the nature, age and
+conditions of assets at the time of its acquisition by the
+current owner
+Related AI tags, queries and research notes
+Translation
+Page 45/45

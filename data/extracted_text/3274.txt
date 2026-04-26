@@ -1,0 +1,220 @@
+
+----- PAGE 1 -----
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking
+System Regulations, 2019
+Source: https://indiankanoon.org/doc/56794190/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+UNION OF INDIA
+India
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+Rule
+TRANSHIPMENT-OF-CARGO-TO-NEPAL-UNDER-ELECTRONIC-CARGO-TRACKING-SYSTEM-REGULATIONS-201
+9 of 2019
+Published on 30 September 2019
+Commenced on 30 September 2019
+[This is the version of this document from 30 September 2019.]
+[Note: The original publication document is not available and this content could not be verified.]
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+Published vide Notification No. G.S.R. 704(E), dated 30.9.2019
+Last Updated 1st October, 2019
+Ministry of Finance
+(Department of Revenue)
+(Central Board of Indirect Taxes and Customs)
+No. 68/2019-Customs (N.T.)
+Page 1/5
+----- PAGE 2 -----
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+G.S.R. 704(E). - In exercise of the powers conferred by section 157 read with sub-section (1) of section 54 and section
+143AA of the Customs Act, 1962 (
+52 of 1962
+), the Central Board of Indirect Taxes and Customs hereby makes the following regulations, namely: -
+1.
+Short title and commencement.
+(1)
+These regulations may be called the Transhipment of Cargo to Nepal under Electronic Cargo Tracking System
+Regulations, 2019.
+(2)
+They shall come into force on the day of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these regulations, unless the context otherwise requires -
+(a)
+"Act" means the Customs Act, 1962 (
+52 of 1962
+);
+(b)
+"authorised carrier" means an authorised sea carrier, an authorised train operator, shipping line or a custodian,
+registered under regulation 3 of the Sea Cargo Manifest and Transhipment Regulations, 2018 or his authorised agent;
+(c)
+"ECTS" means the electronic cargo tracking system deployed for securing and monitoring traffic-intransit destined to
+Nepal;
+(d)
+"managed service provider" means a technology service provider appointed, as bi-laterally agreed between the
+Governments of India and Nepal, for providing ECTS services.
+(2)
+The words and expressions used and not defined in these regulations but defined in the Act shall have the same
+meanings respectively assigned to them in the Act.
+3.
+Application.
+- These regulations shall apply to the transhipment of cargo from the ports of Kolkata, Haldia and Visakhapatnam in
+India to Birgunj in Nepal by rail and from the ports of Kolkata, Haldia and Visakhapatnam to Batnaha in India by rail and
+from Batnaha to Biratnagar in Nepal by road.
+4.
+Declaration of transhipment.
+- The authorised carrier shall, -
+(a)
+declare the cargo destined to Nepal and the port of final discharge in Nepal in the arrival manifest;
+(b)
+undertake to transport the goods by rail or rail-cum-road till they reach the port of final discharge in Nepal;
+(c)
+directly procure ECTS seals at their own cost from the managed service provider;
+(d)
+execute a general bond for an amount as directed by the proper officer;
+(e)
+file a declaration of transhipment, in triplicate, in the Form appended to these regulations before the proper officer, along
+with a copy of the commercial invoice.
+5.
+Page 2/5
+----- PAGE 3 -----
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+Permission to load goods.
+- No person-in-charge of a conveyance shall permit the loading of goods destined to Nepal, onto a railway vehicle,
+unless the declaration of transhipment relating to them has been approved by the proper officer.
+6.
+Permission for transhipment.
+(1)
+Where pursuant to the approval referred to in regulation 5, goods have been loaded on a railway vehicle, the proper
+officer shall, -
+(a)
+ensure that the cargo is sealed securely with the ECTS seals and related information is entered into the associated
+web-application;
+(b)
+endorse all the three copies of the declaration of transhipment with the ECTS seal number and retain a copy therefrom
+and hand over the remaining two copies of the declaration of transhipment to the person in charge of the railway vehicle
+for being carried along with the goods.
+(2)
+The authorised carrier shall submit a copy of the endorsed declaration of transhipment at the land customs station of exit
+from India and the other copy shall be handed over to the customs at the port of final discharge in Nepal.
+7.
+Arrival at the land customs station.
+(1)
+The containers which are affixed with an ECTS seal shall be halted at the land customs station of exit in India for
+unsealing by the proper officer.
+(2)
+The proper officer shall, before unsealing, check the integrity of the seal using web application and if no alert of
+unauthorised unsealing is found, he shall remove the ECTS seal.
+(3)
+In case the ECTS indicates an alert about any unauthorised unsealing, the proper officer shall make due verification of
+the goods to check whether the goods are in accordance with the declaration of transhipment and shall allow the
+transhipment to Nepal, upon being satisfied that there is no irregularity.
+(4)
+The proper officer shall make an endorsement of unsealing on both the copies of declaration of Transhipment, retain
+one copy, and shall hand over the other to the authorised carrier for onward submission to Nepal Customs.
+(5)
+The person-in-charge of the conveyance shall not commence onward journey to Nepal unless the proper officer has
+permitted him so to do by an order endorsed on the declaration of transhipment.
+8.
+Discharge of bond.
+(1)
+The proper officer shall extract trip reports from the ECTS web application as proof of completion of transhipment.
+(2)
+The reconciliation of transhipment of consignments shall be carried out on the basis of trip report, by the proper officer at
+the Ports of Kolkata, Haldia or Visakhapatnam, as the case may be, and the general bond submitted by the authorised
+carrier will be re-credited or discharged.
+Form
+(See regulation 4)
+Declaration of transshipment
+(To be filed in triplicate)
+Part A
+(To be filed by the authorised carrier or his
+agent)
+Page 3/5
+----- PAGE 4 -----
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+Name of the authorised carrier filing the
+declaration of transshipment
+Manifest number and date
+Port of entry in India
+Land customs station of exit from India
+Port of entry in Nepal
+Port of final discharge in Nepal
+Name and address of importer in Nepal
+Vehicle number on which goods will transit India
+(if applicable)
+Name and mobile number of the driver (if
+applicable)
+Container number or wagon number (as applicable)
+Bond No.
+Details of goods
+Marks & serial Nos.
+Commercial invoice number and date
+Description of goods
+H.S. code
+Quantity (in pcs) or weight, as relevant
+Gross weight
+CIF Value in INR
+I / We declare that
+the goods entered herein are for transit through India to Nepal
+and shall not be diverted en-route in India or retained in India.
+I/We undertake to
+bear the cost of electronic cargo tracking system for the above
+trip.
+I / We further
+declare that all the entries made herein above are true and
+correct to the best of my / our knowledge.
+Signature of the authorised carrier or his
+representative
+Part
+B
+(To be filled by the customs officer at the
+port of entry into India)
+Transshipment permit No.
+ECTS seal No.
+I verify that the
+aforesaid container or wagon has been sealed with ECTS seal by
+me.
+Signature of the officer, designation, stamp and
+date
+Part C
+(To be filled by the customs officer at the
+land customs station of exit from India)
+I certify that the
+cargo has reached from _____________port (India) to _____________
+Land Customs Station (India), as per trip report of the ECTS
+without any alert of unauthorised unsealing.
+Page 4/5
+----- PAGE 5 -----
+Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+Signature of the officer, designation, stamp and
+date
+Related AI tags, queries and research notes
+Translation
+Page 5/5

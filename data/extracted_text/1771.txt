@@ -1,0 +1,423 @@
+
+----- PAGE 1 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+The Foreign Exchange Management (Foreign Exchange Derivative
+Contracts) Regulations, 2000
+Source: https://indiankanoon.org/doc/111653645/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+UNION OF INDIA
+India
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+Rule
+THE-FOREIGN-EXCHANGE-MANAGEMENT-FOREIGN-EXCHANGE-DERIVATIVE-CONTRACTS-REGULATIONS-20
+00 of 2000
+Published on 3 May 2000
+Commenced on 3 May 2000
+[This is the version of this document from 3 May 2000.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+Published vide G.S.R. 411(E), dated 3.5.2000, published in the Gazette of India, Extraordinary, Part II, Section 3(i),
+dated 8.5.2000
+Last Updated 18th March, 2020 [11/569]
+In exercise of the powers conferred by clause (h) of sub-section (2) of section 47 of the Foreign Exchange Management
+Act, 1999 (
+42 of 1999
+Page 1/8
+----- PAGE 2 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+), the Reserve Bank makes the following regulations, to promote orderly development and maintenance of foreign
+exchange market in India, namely: -
+1.
+Short title and commencement. - (i) These regulations may be called the Foreign Exchange Management (Foreign
+Exchange Derivative Contracts) Regulations, 2000.
+(ii)
+They shall come into force on the 1st day of June, 2000.
+2.
+Definitions. - In these regulations, unless the context requires otherwise, -
+(i)
+"Act" means the Foreign Exchange Management Act, 1999 (
+42 of 1999
+);
+(ii)
+[ 'authorized dealer' means a person authorised as such by Reserve Bank under subsection (1) of section 10 of the Act;]
+[***]
+[Deleted '(iii) 'cash delivery' means delivery of foreign exchange on the day of transaction;' by Notification No.
+FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+[***]
+[Deleted '(iv) 'forward contract' means a transaction involving delivery, other than cash or tom or spot delivery, of foreign
+exchange;' by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+(v)
+[ "Foreign exchange derivative contract" means a financial contract which derives its value from the change in the
+exchange rate of two currencies at least one of which is not Indian Rupee or which derives its value from the change in
+the interest rate of a foreign currency and which is for settlement at a future date, i.e. any date later than the spot
+settlement date, provided that contracts involving currencies of Nepal and Bhutan shall not qualify under this definition.]
+[Substituted by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+[***]
+[Deleted '(va) 'currency futures' means a standardized foreign exchange derivative contract traded on a recognized
+stock exchange to buy or sell one currency against another on a specified future date, at a price specified on the date of
+contract, but does not include a forward contract;' by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f.
+03.05.2000).]
+[***]
+[Deleted '(vi) 'Registered Foreign Institutional Investor (FII)' means a foreign institutional investor registered with
+Securities and Exchange Board of India;' by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+(vii)
+"Schedule" means a Schedule annexed to these regulations;
+[***]
+[Deleted '(viii) 'spot delivery' means delivery of foreign exchange on the second working day after the day of transaction;'
+by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+[***]
+[Deleted '(ix) 'tom delivery' means delivery of foreign exchange on a working day next to the day of transaction;' by
+Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+(x)
+the words and expressions used but not defined in these regulations shall have the same meanings respectively
+assigned to them in the Act.
+[***]
+[Deleted '(xi) 'Qualified Foreign Investor (QFI)' means a person resident outside India as defined in Regulation 2 of
+FEMA 20/RB-2000 dated May 3, 2000.' by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+(xii)
+[ 'Contracted exposure' refers to currency risk arising on account of current and capital account transactions permissible
+Page 2/8
+----- PAGE 3 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+under the Act or any rules or regulations made thereunder, that have been entered into.
+[Added by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+(xiii)
+'Anticipated exposure' refers to currency risk arising on account of current and capital account transactions permissible
+under the Act or any rules or regulations made thereunder, that are proposed to be entered into in future.
+(xiv)
+'Currency risk' means the potential for loss on account of movement in exchange rates of Rupee against a foreign
+currency or on account of movement in exchange rates of one foreign currency against another or on account of
+movement of interest rate applicable to a foreign currency.
+(xv)
+'Hedging' means the activity of undertaking a foreign exchange derivative transaction to manage currency risk.
+(xvi)
+'Exchange traded currency derivatives' means a standardised foreign exchange derivative contract traded on a
+recognized stock exchange to buy or sell one currency against another on a specified future date, at a price specified on
+the date of contract.]
+3.
+Prohibition. - Save as otherwise provided in these Regulations, no person in India shall enter into a foreign exchange
+derivative contract [or currency futures] without the prior permission of the Reserve Bank.
+4.
+[ Permission to enter into a foreign exchange derivative contract.
+- A person, whether resident in India or resident outside India, may enter into a foreign exchange derivative contract or
+exchange traded currency derivative contract in accordance with provisions contained in Schedule I of this regulation.]
+5.
+[
+***]
+5. Permission to a person resident outside India to enter into a Foreign Exchange Derivative Contract.- A person
+resident outside India may enter into a Foreign Exchange Derivative Contract with a person resident in India in
+accordance with provisions contained in Schedule II, to hedge an exposure to risk in respect of a transaction permissible
+under the Act, of rules or regulations or directions or orders made or issued thereunder.
+5A.
+[
+***]
+5A. [ Permission to a person resident in India to enter into currency futures or currency options
+[Substituted by Notification No. G.S.R. 635 (E) dated 19.7.2010 (w.e.f. 8.5.2000)]
+- A person resident in India may enter into a currency options on a stock exchange recognized under section 4 of the
+Securities Contract (Regulation) Act, 1956, to hedge an exposure to risk or otherwise, subject to such terms and
+conditions as may be set forth in the directions issued by the Reserve Bank of India from time to time.]
+5B.
+[
+***]
+5C.
+[
+[Deleted 'para 5C' by Notification No. FEMA.398/RB-2020, dated 18.02.2020 (w.e.f. 03.05.2000).]
+***]
+5C. [ Permission to resident and non-resident entities to undertake hedge transactions with simplified procedures.
+[Added by Notification No. G.S.R. 1324(E), dated 24.10.2017 (w.e.f. 8.5.2000.).]
+- Notwithstanding anything contained in paras 4, 5, 5A and 5B, resident entities with foreign currency exposures and
+non- resident entities with rupee exposures, other than individuals, may hedge underlying exchange rate risk arising out
+of transactions permitted under Foreign Exchange Management Act, 1999, or rules or regulations or directions or orders
+made or issued thereunder, subject to such simplified terms and conditions as may be set forth in the directions issued
+by the Reserve Bank from time to time.]
+Page 3/8
+----- PAGE 4 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+6.
+[ Commodity hedge.
+- (i) Reserve Bank may, on an application made in accordance with the procedure specified in Schedule III, permit,
+subject to such terms and conditions as it may consider necessary, a person resident in India to enter into a contract in a
+commodity exchange or market outside India to hedge price risk in a commodity.
+(ii)
+Notwithstanding anything contained in sub-regulation (i), an authorized dealer bank  [* * *]may permit a company,
+resident in India [* * *]
+[Omitted words "and listed on a recognized stock exchange" Notification No. G.S.R. 895 (E) dated 5.11.2009 (w.e.f.
+8.5.2000)]
+, to enter into contracts in a commodity exchange or market outside India, to hedge the price risk in a commodity [* * *]
+[ The words " imported/exported by it" omitted by G.S.R. 760(E), dated 17.9.2007 (w.r.e.f. 31.5.2007).]
+[subject to such terms and conditions as may be stipulated by the Reserve Bank from time to time:
+[Substituted by G.S.R. 223(E), dated 16.4.2006 (w.r.e.f. 23.7.2005). ]
+[* * *]
+[* * *]
+[ Omitted by Notification No. G.S.R. 330(E) dated 18.2.2013 (w.e.f. 17.1.2012)]
+(iii)
+Notwithstanding anything contained in this regulation a unit in the special economic zone ("SEZ") may enter into
+contracts in a commodity exchange or market outside India to hedge the price risk of the commodity of export/ import,
+subject to the condition that such contract is entered into on a "stand-alone" basis.
+Explanation. - The term "stand-alone" means that the unit in the SEZ is completely isolated from financial contracts with
+its parent or subsidiary in the mainland or within the SEZ(s) as far as its import/export transactions are concerned.] .
+6A.
+[ Freight hedge.
+- (i) Reserve Bank may, on an application made in accordance with such procedure as may be directed by Reserve
+Bank, permit a person resident in India, subject to such terms and conditions as may be considered necessary, to enter
+into a freight derivative contract in an exchange or a market outside India to hedge the freight risk such person is
+exposed to.
+(ii)
+Notwithstanding anything contained in sub-regulation (i) an authorized dealer in India [specially authorized in that behalf
+by the Reserve Bank] may permit an oil refining company or a shipping company, resident in India, to enter into freight
+derivative contracts in an exchange or market outside India, to hedge the freight risk which the company is exposed to,
+subject to such terms and conditions as may be stipulated by the Reserve Bank from time to time:
+Provided that such authorized dealer category I bank shall exercise the authority subject to directions and guidelines
+issued to them by the Reserve Bank in that behalf.]
+7.
+Remittance related to a Foreign Exchange Derivative Contract. - An authorized dealer in India may remit outside India
+foreign exchange in respect of a transaction, undertaken in accordance with these Regulations, in the following cases,
+namely: -
+(a)
+option premium payable by a person resident in India to a person resident outside India,
+(b)
+remittance by a person resident in India of amount incidental to a Foreign Exchange Derivative Contract entered into in
+accordance with regulation 4,
+(c)
+remittance by a person resident outside India of amount incidental to a Foreign Exchange Derivative Contract entered
+into in accordance with regulation 5,
+(d)
+any other remittance related to a Foreign Exchange Derivative Contract approved by Reserve Bank.
+8.
+Page 4/8
+----- PAGE 5 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+[ Remittance related to a Commodity Derivative Contract.
+- An authorized dealer in India may remit outside India foreign exchange in respect of a transaction, undertaken in
+accordance with these regulations, in the following cases, namely: -
+(a)
+option premium payable by a person resident in India to a person resident outside India;
+(b)
+remittance by a person resident in India of amount incidental to a commodity derivative contract entered into in
+accordance with regulation 6;
+(c)
+any other remittance related to a commodity derivative contract approved by Reserve Bank.]
+I
+(See regulation 4)
+FOREIGN EXCHANGE DERIVATIVE CONTRACT PERMISSIBLE FOR A PERSON RESIDENT IN INDIA
+A. Forward Contract
+1. A person resident in India may enter into a forward contract with an authorized dealer in India to hedge an exposure
+to exchange risk in respect of a transaction for which sale and/or purchase of foreign exchange is permitted under the
+Act, or rules or regulations or directions or orders made or issued thereunder, subject to following terms and conditions-
+(a)
+[ the authorized dealer through verification of documentary evidence is satisfied about the genuineness of the underlying
+exposure or as otherwise permitted by the Reserve Bank from time to time,]
+[Substituted by Notification No. G.S.R. 264(E), dated 5.3.2002 (w.e.f. 8.5.2000)]
+(b)
+the maturity of the hedge does not exceed the maturity of the underlying transaction,
+(c)
+the currency of hedge and tenor are left to the choice of the customer,
+(d)
+where the exact amount of the underlying transaction is not ascertainable, the contract is booked on the basis of a
+reasonable estimate,
+(e)
+foreign currency loans/bonds will be eligible for hedge only after final approval is accorded by the Reserve Bank where
+such approval is necessary,
+(f)
+in case of Global Depository Receipts (GDRs) the issue price has been finalized,
+(g)
+balances in the Exchange Earner's Foreign Currency(EEFC) accounts sold forward by the account holders shall remain
+earmarked for delivery and such contracts shall not be canceled. They may be ,however, be rolled-over,
+[[(h) Contracts involving the rupee as one of the currencies, once canceled, shall not be rebooked except as otherwise
+permitted by the Reserve Bank from time to time although they can be rolled over at on-going rates on or before
+maturity.[* * *]
+[Substituted by G.S.R. 222(E), dated 16.4.2006 (w.r.e.f. 23.6.2005).]
+]
+(i)
+substitution of contracts for hedging trade transactions may be permitted by an authorized dealer on being satisfied with
+the circumstances under which such substitution has become necessary.
+(j)
+[ a person resident in India may, subject to the terms and conditions prescribed by Reserve Bank of India, enter into a
+forward contract with an authorized dealer in India to hedge an exposure to exchange risk in respect of transactions
+denominated in foreign currency but settled in Indian rupees.]
+[Added by Notification No. G.S.R. 880(E), dated 21.10.2003 (w.e.f. 8.5.2000).]
+[AA. Forward Contract in respect of Economic Exposure. - A person resident in India may, subject to such terms and
+conditions as may be stipulated by the Reserve Bank from time to time, enter into a forward contract with an authorized
+Page 5/8
+----- PAGE 6 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+dealer in India to hedge an economic exposure to exchange risk in respect of such transactions as may be prescribed
+by the Reserve Bank from time to time.]
+[Inserted by G.S.R. 760(E), dated 17.9.2007 (w.r.e.f. 23.7.2005).]
+B. Contract other than Forward Contract
+2.
+(1)
+A person resident in India who has borrowed foreign exchange in accordance with the provisions of Foreign Exchange
+Management (Borrowing and Lending in Foreign Exchange) Regulations, 2000 , may enter into an Interest rate swap or
+Currency swap or Coupon Swap or Foreign Currency Option or Interest rate cap or collar (purchases) or Forward Rate
+Agreement (FRA) contract with an authorized dealer in India or with a branch outside India of an authorized dealer for
+hedging his loan exposure and unwinding from such hedges:
+Provided that -
+(a)
+the contract does not involve rupee,
+(b)
+the Reserve Bank has accorded final approval for borrowing in foreign currency,
+(c)
+the notional principal amount of the hedge does not exceed the outstanding amount of the foreign currency loan, and
+(d)
+the maturity of the hedge does not exceed the un-expired maturity of the underlying loan,
+(2)
+A person resident in India, who owes a foreign exchange or rupee liability, may enter into a contract for foreign
+currency-rupee swap with an authorized dealer in India to hedge long term exposure.
+(3)
+The contract entered into under sub-paragraph 2, if canceled shall not be rebooked or re-entered, by whatever name
+called.
+3.
+(1)
+A person resident in India may enter into a foreign currency option contract [not involving the rupee as one of the
+currencies]
+[Inserted by Notification No. G.S.R. 750(E) dated 19.12.2005 (w.e.f. 8.5.2000)]
+with an authorized dealer in India to hedge foreign exchange exposure of such person arising out of his trade :
+Provided that in respect of cost effective risk reduction strategies like range forwards, ratiorange forwards or any other
+variable by whatever name called there shall not be any net inflow of premium.
+Explanation. - The contingent foreign exchange exposure arising out of submission of a tender bid in foreign exchange
+is also eligible for hedging under this sub-paragraph.
+(2)
+A Transactions undertaken under sub-paragraph (1) may be freely booked and/or canceled.
+(3)
+[ A person resident in India may enter into a foreign currency-rupee option contract with an authorized dealer to hedge
+an exposure to exchange risk in respect of a transaction for which sale and / or purchase of foreign currency is permitted
+under the Act or the rules or regulations or directions or orders made or issued there under on the same terms and
+conditions applicable to forward contracts.]
+[Inserted by Notification No. G.S.R. 750(E) dated 19.12.2005 (w.e.f. 8.5.2000)]
+(C)
+[ Writing of standalone options against underlying exposure.
+[Inserted by Notification No. G.S.R. 571(E), dated 1.6.2016 (w.e.f. 8.5.2000).]
+- A person resident in India may enter into cross-currency option contract (not involving the rupee as one of the
+currencies) and/ or foreign currency - rupee option contract authorized dealer against an underlying foreign exchange
+exposure in respect of a transaction for which sale and/ or purchase of foreign currency is permitted under the Act or the
+rules or regulations or directions or orders made or issued thereunder subject to such terms and conditions as may be
+Page 6/8
+----- PAGE 7 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+stipulated by the Reserve Bank from time to time.]
+II
+(See regulation 5)
+FOREIGN EXCHANGE DERIVATIVE CONTRACTS PERMISSIBLE FOR A PERSON RESIDENT OUTSIDE INDIA
+1. A Registered Foreign Institutional Investor (FII) [/Qualified Foreign Investor (QFI)]
+[Substituted for the words "Foreign Institutional Investor (FII)" by Notification No. G.S.R. 330(E) dated 18.2.2013 (w.e.f.
+16.7.2012)]
+may enter into a forward contract with rupee as one of the currencies with an authorized dealer in India to hedge its
+exposure in India :
+Provided that -
+(a)
+the value of the hedge does not exceed the market value of the underlying debt or equity instruments, provided forwards
+contracts once booked shall be allowed to continue to the original maturity even if the value of the underlying portfolio
+shrinks, for reasons other than sale of securities,
+(b)
+[ forward contracts may be canceled and rebooked subject to such terms and conditions as may be stipulated by the
+Reserve Bank from time to time, or may be rolled over on or before maturity.]
+[Substituted by G.S.R. 760(E), dated 17.9.2007 (w.r.e.f. 23.7.2005).]
+(c)
+the cost of hedge is met out of repatriable funds and/or inward remittance through normal banking channel,
+(d)
+all outward remittances incidental to hedge are not of applicable Indian taxes.
+2. A non-resident Indian [***] may enter into forward contract with rupee as one of the currencies, with an authorized
+dealer in India to hedge-
+(a)
+the amount of dividend due to him/it on shares held in an Indian company;
+(b)
+the balances held in Foreign Currency Non-Resident (FCNR) account or Non-Resident External Rupee (NRE) account,
+(c)
+the amount of investment made under portfolio scheme in accordance with the provisions of the Foreign Exchange
+Regulation Act, 1973 or under notifications issued thereunder or is made in accordance with the provisions of the
+Foreign Exchange Management (Transfer or issue of Security by a Person Resident outside India) Regulations, 2000
+and in both cases subject to the terms and conditions specified in the proviso to paragraph 1 of this Schedule.
+[2-A. A non-resident Indians may, subject to conditions prescribed by the Reserve Bank of India from time to time, enter
+into cross currency (not involving the rupee) forward contracts to convert the balances held in FCNR (B) accounts in one
+foreign currency to another foreign currency in which FCNR (B) deposits are permitted to be maintained.]
+[Added by Notification No. G.S.R. 880(E), dated 21.10.2003 (w.e.f. 8.5.2000).]
+3. [ Authorized dealers may offer forward contracts to persons resident outside India to hedge the investments made in
+India since January 1, 1993, subject to verification of the exposure in India. These forward contracts once canceled are
+not eligible to be rebooked.]
+[Substitued by Notification No. G.S.R. 532(E), dated 8.1.2003 (w.e.f. 8.5.2000).]
+[3-A. A person resident outside India may, subject to conditions prescribed by the Reserve Bank of India from time to
+time, enter into a forward sale contract with an authorized dealer in India to hedge the currency risk arising out of his
+proposed foreign direct investment in India.
+3.
+-B. A person resident onside India having Foreign Direct Investments in India may, subject to the condition that forward
+cover shall be taken only after the rate has been approved by the Board, enter into forward contracts with rupee as one
+of the currencies to hedge the currency risk on dividend receivable by him from the Indian company.]
+[Added by Notification No. G.S.R. 880(E), dated 21.10.2003 (w.e.f. 8.5.2000).]
+4. [ A Foreign Institutional Investor, a Non-Resident Indian or a Person Resident outside India having Foreign Direct
+Investment in India, may enter into a foreign currency-rupee option contract with an authorized dealer in India, under the
+Page 7/8
+----- PAGE 8 -----
+The Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+same terms and conditions applicable to forward contracts.]
+[Inserted by Notification No. G.S.R. 750(E) dated 19.12.2005 (w.e.f. 8.5.2000)]
+7. [ A Foreign Portfolio Investor may enter into forward contracts, foreign currency-rupee option contract, cost reduction
+structures or swaps with Rupee as one of the currencies with an Authorised Dealer in India to hedge the currency risk in
+respect of investments made under the Voluntary Retention Route (VRR) facility subject to such terms and conditions as
+may be stipulated by the Reserve Bank from time to time.]
+[Inserted by Notification No. G.S.R. 161(E) dated 26.2.2019 (w.e.f. 8.5.2000).]
+III
+(See regulation 6)
+PROCEDURE FOR APPLICATION FOR APPROVAL FOR HEDGING OF COMMODITY PRICE RISK
+1. A person resident in India , engaged in export-import trade [or as permitted by the Reserve Bank]
+[Added by Notification No. G.S.R. 881(E), dated 21.10.2003 (w.e.f. 8.5.2000).]
+, who seeks to hedge price risk in respect of any commodity including Gold, may submit an application to the
+International Banking Division of an authorized dealer giving the following details:
+(i)
+A brief description of the hedging strategy proposed, namely :-
+(a)
+description of business activity and nature of risk;
+(b)
+instruments proposed to be used for hedging;
+(c)
+names of commodity exchange and brokers through whom the risk is proposed to be hedged and credit lines proposed
+to be availed. The name and address of the regulatory authority in the country concerned may also be given;
+(d)
+size/average tenure of exposure and/or total turnover in a year, together with expected peak positions thereof and the
+basis of calculation.
+(ii)
+copy of the Risk Management Policy approved by the Management covering -
+(a)
+risk identification,
+(b)
+risk measurements,
+(c)
+guidelines and procedures to be followed with respect to revaluation and/or monitoring of positions,
+(d)
+names and designations of the officials authorized to undertake transactions and limits.
+(iii)
+Any other relevant information.
+2. [ Authorized dealer, after ensuring that the application is supported by documents indicated in paragraph 1, as may be
+relevant, may forward the application with its recommendations to the Reserve Bank of India, where applicable. In all
+other cases, the application may be forwarded by the company concerned to an authorized dealer bank authorized to
+grant permission under sub-regulation (ii) of regulation 6, for consideration.]
+[Substituted by G.S.R. 223(E), dated 16.4.2006 (w.r.e.f. 23.7.2005).]
+Related AI tags, queries and research notes
+Translation
+Page 8/8

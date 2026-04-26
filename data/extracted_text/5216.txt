@@ -1,0 +1,1122 @@
+
+----- PAGE 1 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+Jammu and Kashmir State Electricity Regulatory Commission (Grid
+Interactive Rooftop Solar Photo Voltaic Systems based on Net
+Metering) Regulations, 2015, in short, JKSERC Net Metering
+Regulations, 2015
+Source: https://indiankanoon.org/doc/86985427/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Jammu-Kashmir - Act
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar Photo Voltaic Systems
+based on Net Metering) Regulations, 2015, in short, JKSERC Net Metering Regulations, 2015
+JAMMU & KASHMIR
+India
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar Photo Voltaic Systems
+based on Net Metering) Regulations, 2015, in short, JKSERC Net Metering Regulations, 2015
+Rule
+JAMMU-AND-KASHMIR-STATE-ELECTRICITY-REGULATORY-COMMISSION-GRID-INTERACTIVE-ROOFTOP-SOL
+AR-PHOTO-VOLTAIC-SYSTEMS-BASED-ON-NET-METERING-REGULATIONS-2015-IN-SHORT-JKSERC-NET-MET
+ERING-REGULATIONS-2015 of 2015
+Published on 15 October 2015
+Commenced on 15 October 2015
+[This is the version of this document from 15 October 2015.]
+[Note: The original publication document is not available and this content could not be verified.]
+Page 1/21
+----- PAGE 2 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar Photo Voltaic Systems
+based on Net Metering) Regulations, 2015, in short, JKSERC Net Metering Regulations, 2015
+Published vide Notification No. 47-JKSERC of 2015 dated 15.10.2015
+No. 47-JKSERC of 2015. - In exercise of powers conferred under section 138 read with sections 55, 60 and 71(1) (e) of
+the J&K Electricity Act, 2010 (Act XIII of 2010) and all other powers enabling it in this behalf, the Jammu and Kashmir
+State Electricity Regulatory Commission hereby makes the following Regulations for Grid Connected Rooftop Solar
+Photo Voltaic (SPV) Systems based on Net Metering.
+1.
+Short title and commencement.
+- 1.1 These Regulations may be called the Jammu and Kashmir State Electricity Regulatory Commission (Grid
+Interactive Rooftop Solar Photo Voltaic Systems based on Net Metering) Regulations, 2015, in short, JKSERC Net
+Metering Regulations, 2015.
+1.2
+These Regulations shall come into force from the date of publication of the same in the Government Gazette.
+2.
+Definitions and interpretation.
+- 2.1 In these Regulations, unless the context otherwise requires,-
+(a)
+"Act" means the Jammu and Kashmir Electricity Act, 2010 (Act XIII of 2010), as amended from time to time ;
+(b)
+"Agreement" means an agreement signed by the distribution licensee with the eligible consumer for net metering
+arrangement ;
+(c)
+"Billing Cycle" or "Billing Period" means the period for which regular electricity bills as specified by the Commission are
+issued by the distribution licensee to different categories of consumers ;
+(d)
+"Commission" means the Jammu and Kashmir State Electricity Regulatory Commission ;
+(e)
+"Connected Load" means the sum of the rated capacities in KW/HP of all energy consuming including portable
+apparatus duly wired and connected to the power supply system in the consumer's premises. However, this shall not
+include the load of extension plug sockets, standby or spare energy consuming apparatus, installed through change
+over switch, which cannot be operated simultaneously and any other load exclusively meant for fire-fighting purposes. In
+case of domestic consumers, load of geysers plus heaters or of air conditioners without heaters, whichever is higher, is
+to be considered. Any equipment which is under installation and not connected electrically, equipment stored in
+warehouse/showrooms either as spare or for sale is not to be considered as part of the connected load ;
+(f)
+"Consumer" means any person who is supplied with electricity for his own use by a licensee or the Government or by
+any other person engaged in the business of supplying electricity to the public under the Act or any other law for the time
+being in force and includes any person whose premises are for the time being connected for the purpose of receiving
+electricity with the works of distribution licensee, the Government or such other person, as the case may be ;
+(g)
+"Contract Demand" or "Contracted Load" means the maximum demand (in kW, kVA or BHP units) contracted by the
+consumer in Agreement with the Licensee. The contract demand cannot be reduced to less than 60% of the
+sanctioned/connected load ;
+(h)
+"Distribution Licensee" or "Licensee" means a person granted a licence under section 14 of the Act and authorized to
+operate and maintain a distribution system for supplying electricity to the consumers in his area of supply and includes
+J&K Power Development Department ;
+(i)
+"Eligible Consumer" means a consumer of electricity in the area of supply of distribution licensee, who uses a rooftop
+SPV System installed in his premises to offset part or all of the consumer's own electrical requirements, given that such
+Page 2/21
+----- PAGE 3 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+systems can be 'self owned' or 'third party owned' ;
+(j)
+"Financial Year" or "Year" means period beginning from first day of April and ending with thirty first day of March of next
+year ;
+(k)
+"Interconnection Point" means the interface of rooftop solar power generation facility under net metering arrangements
+with the network of distribution licensee and shall normally be the point where net meter is installed ;
+(l)
+"Invoice" means the monthly bill or a supplementary bill or a monthly invoice or a supplementary invoice raised by the
+distribution licensee to the consumer ;
+(m)
+"kWp" means kilo Watt peak ;
+(n)
+"Net Metering" means an arrangement under which rooftop SPV System installed at eligible consumer premises delivers
+surplus electricity, if any, through net meter to distribution licensee for offsetting the electricity supplied by distribution
+licensee during the applicable or subsequent billing period but within settlement period ;
+(o)
+"Obligated Entity" means the entity mandated by the Commission under clause (e) of sub-section (1) of section 71 of the
+Act to fulfill the renewable purchase obligation and identified under JKSERC (Renewable Purchase Obligation, its
+compliance and REC Framework Implementation) Regulations, 2011, as amended from time to time ;
+(p)
+"Premises" means rooftops or/and elevated areas on the land, building or infrastructure or part or combination thereof in
+respect of which a separate meter or metering arrangement have been made by the distribution licensee for the supply
+of electricity ;
+(q)
+"Renewable Energy Certificate" (REC) means the certificate issued in accordance with the procedures prescribed in
+Central Electricity Regulatory Commission (Terms and Conditions for recognition and issuance of Renewable Energy
+Certificate for Renewable Energy Generation) Regulations, 2010 as amended from time to time ;
+(r)
+"Rooftop Solar System" means the Solar Photo Voltaic System installed in the premises of the consumer that uses solar
+energy for direct conversion into electricity through photo voltaic technology ;
+(s)
+"Sanctioned Load" means the load in kW, kVA or BHP, which the Licensee has agreed to supply from time to time
+subject to the governing terms and conditions. The total Connected Load is required to be sanctioned by the competent
+authority ;
+(t)
+"Settlement Period" means the period beginning from first day of April of a year and ending with thirty first day of March
+of next year ;
+(u)
+"Solar Meter" means a unidirectional energy meter installed as an integral part of the net metering system at the point at
+which electricity generated by Solar Photo Voltaic (SPV) System, is delivered to the main panel of eligible consumer ;
+(v)
+"State Agency" means the agency as designated by the Commission under Regulation 9 of the JKSERC (Renewable
+Power Purchase Obligation, its compliance and REC Framework Implementation) Regulations, 2011 ;
+(w)
+"Supply Code" means the Jammu and Kashmir State Electricity Regulatory Supply Code, 2011, as amended from time
+to time ;
+(x)
+"Tariff Order" in respect of a licensee means the Order issued by the Commission for the relevant year for that licensee
+indicating the rates to be charged by the licensee from various categories of consumers for supply of electrical energy
+and for other services ;
+Page 3/21
+----- PAGE 4 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+(y)
+"Third Party Owner" means a developer who is generating solar energy on a rooftop but does not own the rooftop, and
+who also enters into a lease/ commercial agreement with the rooftop owner.
+2.2
+(a)
+All other words and expressions used in these regulations although not specifically defined hereinabove, but defined in
+the Act, shall have the meaning assigned to them in the Act ;
+(b)
+All other words and expressions used herein but not specifically defined in these regulations or in the Act but defined
+under any other law passed by the State Legislature or Regulations framed under the Act, shall have the meaning
+assigned to them in such Law/Regulations.
+2.3
+Abbreviations used in these Regulations shall have the meanings as stated in (Annexure-I).
+3.
+Scope and application.
+- 3.1 These Regulations shall apply to distribution licensee and consumers of such distribution licensee in the State of
+Jammu and Kashmir.
+3.2
+Any consumer in the area of supply of distribution licensee may install rooftop solar system under net metering
+arrangement which-
+(a)
+Shall be of minimum 1 kWp and up to 1 MWp (AC side) capacity with or without battery backup support ;
+(b)
+Shall be located in the consumer premises ;
+(c)
+Shall interconnect and operate safely in parallel with the distribution licensee's network.
+3.3
+These regulations do not preclude the right of any person to undertake rooftop solar projects above 1 MWp capacity
+through alternative mechanism.
+3.4
+The net metering facility shall also be applicable to such consumers who have installed rooftop solar system before
+commencement of these regulations subject to compliance of these regulations.
+4.
+General conditions.
+- The distribution licensee shall offer the provision of net metering arrangement to the eligible consumer, who intends to
+install grid connected rooftop solar system, in its area of supply on non-discriminatory and first come first serve basis
+subject to target capacity :
+Provided, the consumer is eligible to install the grid connected rooftop solar system of the rated capacity as specified in
+these regulations :
+Provided further that the distribution licensee shall offer the provision of net metering to the consumer for the target
+capacity as specified in these regulations :
+Provided also that the interconnection of such system with the grid is undertaken as specified in CEA (Technical
+Standards for Connectivity of the Distributed Generation Resources) Regulations, 2013, as amended from time to time :
+Provided also that the distribution licensee shall accept the SPV power as per the useful life of the SPV System as per
+CERC Regulations.
+5.
+Capacity target for distribution licensee.
+- 5.1 The distribution licensee shall provide net metering arrangement to eligible consumers as long as the total capacity
+(in MW) of rooftop solar systems does not exceed the target capacity determined by the Commission :
+Provided that initially, a maximum cumulative capacity to be installed by eligible consumers under net metering in the
+area of supply of each distribution licensee shall be as decided by the Commission. Thereafter, the target capacity shall
+Page 4/21
+----- PAGE 5 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+be reviewed on yearly basis by the Commission :
+Provided further the cumulative capacity of rooftop solar system to be allowed to a particular distribution transformer
+shall not exceed 20% of the rated capacity of the distribution transformer.
+5.2
+The distribution licensee shall provide information regarding distribution transformer level capacity available for
+connecting rooftop solar system under net metering arrangement within six (6) months from the date of notification of
+these regulations. The distribution licensee thereafter shall update the distribution transformer level capacity available
+and the cumulative capacity of the rooftop solar systems installed under net metering arrangement on yearly basis by
+30th April and shall provide the information on its website as well as to the Commission.
+6.
+Eligible consumer and individual project capacity.
+- 6.1 All eligible consumers of electricity in the area of the supply of distribution licensee can participate in the solar
+rooftop net metering arrangement subject to target capacity.
+6.2
+The maximum capacity of rooftop solar system shall not exceed 50% of the sanctioned load of the consumer (for kVA
+conversion to kW use a power factor of 0.9) :
+Provided that the installed capacity shall not be less than 1 kWp and shall not exceed 1MWp (AC side) for a single
+eligible consumer :
+Provided further that a variation in the rated capacity of the system within a range of five per cent shall be allowed.
+7.
+Procedures for application and registration.
+- 7.1 The Eligible Consumer who proposes to install a solar energy system in his premises shall apply in the application
+form (Annexure-II), which the distribution licensee shall notify on its website as downloadable as well as make available
+at the relevant sub-divisional office of the distribution licensee along with the application/processing fee of Rs. 100/kW
+subject to a maximum of Rs. 10,000.
+7.2
+The licensee shall acknowledge the receipt of the application form and register the application and shall process the
+application in the order of the receipt.
+7.3
+Within fifteen (15) working days of receipt of the Eligible Consumer's application, the distribution licensee shall provide
+written notice that it has received all documents required by the standard interconnection agreement or indicate how the
+application is deficient.
+7.4
+The Distribution Licensee shall assess the feasibility and intimate the same to the Eligible Consumer within thirty (30)
+days from the receipt of completed application. The feasibility shall be valid for a period of six months, unless extended
+by the Distribution Licensee :
+Provided that if the Distribution Licensee determines that an interconnection study is necessary as per sub-regulation
+7.5, the Distribution Licensee shall intimate feasibility or otherwise within sixty (60) days from the receipt of completed
+application.
+7.5
+While intimating the feasibility for the connection of Rooftop PV Solar Power Plant as specified in sub-regulation 7.4, the
+Distribution Licensee shall also intimate the Eligible Consumer-
+(a)
+The details of documents to be submitted by the Eligible Consumer ;
+(b)
+Particulars of any deficiencies, if noticed, along with instructions to remove such defects ;
+(c)
+Details of any interconnection study required.
+7.6
+The Distribution Licensee shall, on receipt of the report on removing defects, if any, and the documents submitted under
+sub-regulation 7.5, convey the approval within ten (10) working days from the date of receipt :
+Page 5/21
+----- PAGE 6 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+Provided that if the deficiency as per sub-regulation 7.5 is not removed by the Eligible Consumer within sixty (60) days
+from the date of receipt of such intimation to the Eligible Consumer, the application shall stand cancelled and the
+application/processing fee shall be forfeited.
+7.7
+The interconnection agreement (Annexure-III) shall be executed by the distribution licensee with the eligible consumer
+within thirty (30) days of the accord of approval under Regulation 7.6.
+8.
+Interconnection with the Grid, Standards and Safety.
+- 8.1 The interconnection of the Rooftop PV Solar Power Plant with the network of the distribution licensee shall be
+made as per the technical specifications and standards for connectivity provided in the Central Electricity Authority
+(Technical Standards for Connectivity of the Distributed Generation Resources) Regulations, 2013, as amended from
+time to time.
+8.2
+The connectivity levels at which the Rooftop PV Solar Power Plants shall be connected with the grid are as specified
+below :-
+S. No.
+Connected load of Eligible Consumer
+Connectivity level
+1.
+Up to 5 kW
+240 V-single phase
+2.
+Above 5 kW and up to 100 KW
+415 V-three phase
+3.
+Above 100 kW
+HT/EHT level
+8.3
+The above connectivity norms are applicable to all the solar power generators who seek connectivity with network of the
+distribution licensees. EHT/HT consumers may install solar power generators at LT/HT voltage and connect them to
+their LT/HT system.
+8.4
+In the interconnection of rooftop PV solar energy generator with the local distribution licensee's grid, the relevant
+provisions of the Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010 as
+amended from time to time shall apply.
+8.5
+The solar energy generator shall be responsible for safe operation, maintenance and rectification of defect of its system
+up to the interconnection point beyond which the responsibility of safe operation, maintenance and rectification of any
+defect in the system including the net meter shall rest with the distribution licensee.
+8.6
+The consumer shall be solely responsible for any accident to human being/animals, whatsoever, (fatal/nonfatal) that
+may occur due to back feeding from the Solar Plant when the grid supply is off. The distribution licensee reserves the
+right to disconnect the consumer's installation at any time in the event of such exigencies to prevent accident or damage
+to man and material.
+8.7
+The tests as per distribution licensee's standards shall be done to ensure the quality of power generated from the Solar
+PV Systems.
+8.8
+Any alternate source of supply shall be restricted to the consumer's network and the consumer shall be responsible to
+take adequate safety measures to prevent battery power/diesel generator power/backup power extending to distribution
+licensee's LT grid on failure of distribution licensee's grid supply.
+Page 6/21
+----- PAGE 7 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+8.9
+The distribution licensee shall have the right to disconnect the rooftop PV solar energy generator from its system at any
+time in the following conditions :-
+i. Emergencies or maintenance requirement on the distribution licensee's electric system ;
+ii. Hazardous condition existing on the distribution licensee's system due to operation of solar energy generator or
+protective equipment as determined by the Distribution Licensee/Transmission Licensee/SLDC.
+iii. Adverse electrical effects, such as power quality problems, on the electrical equipment of the other consumers of the
+distribution licensee caused by the solar energy generation as determined by the distribution licensee.
+8.10
+Subject to sub-regulation 8.5 above, the distribution licensee may call upon the rooftop PV solar energy generator to
+rectify the defect within a reasonable time.
+8.11
+The Rooftop PV Solar Power Plant should be capable of detecting an unintended islanding condition. These systems
+must have anti-islanding protection to prevent any unfavorable conditions including failure of supply. IEC-62116 shall be
+followed to test islanding prevention measure for grid connected photovoltaic inverters.
+8.12
+Every Rooftop PV Solar Power Plant shall be equipped with automatic synchronization device :
+Provided that Rooftop PV Solar Power Plant using inverter shall not be required to have separate synchronizing device,
+if the same is inherently built into the inverter.
+8.13
+The Rooftop PV Solar Power Plant operating in parallel with electricity system shall be equipped with the following
+protective functions to sense abnormal conditions on electricity system and cause the Rooftop PV Solar Power Plant to
+be automatically disconnected from the electricity system or to prevent the Rooftop PV Solar Power Plant from being
+connected to electricity system inappropriately :-
+i. Over and under voltage trip functions if voltage reaches above 110% or below 80% respectively with a clearing time up
+to two seconds ; however, appropriate licensee may prescribe a narrower range of voltage for the purpose ;
+ii. Over and under frequency trip functions, if frequency reaches 50.5 Hz or below 47.5 Hz with a clearing time up to 0.2
+seconds ; however, appropriate licensee may prescribe a narrower range of frequency for the purpose ;
+iii. The Rooftop PV Solar Power Plant shall cease to energize the circuit to which it is connected in case of any fault in
+this circuit.
+iv. A voltage and frequency sensing and time delay function to prevent the Rooftop PV Solar Power Plant from
+energizing a de-energized circuit and to prevent the Rooftop PV Solar Power Plant from reconnecting with electricity
+system unless voltage and frequency is within the prescribed limits and are stable for at least sixty seconds ; and
+v. A function to prevent the Rooftop PV Solar Power Plant from contributing to the formation of an unintended island,
+and cease to energize the electricity system within two seconds of the formation of an unintended island.
+8.14
+The equipment of the Rooftop PV Solar Power Plant shall meet following requirements, namely :-
+i. Circuit Breakers or other interrupting equipment shall be suitable for their intended application with the capability of
+interrupting the maximum available fault current expected at their location ;
+ii. The Rooftop PV Solar Power Plant and associated equipment shall be designed so that the failure of any single
+device or component shall not potentially compromise the safety and reliability of the electricity system ;
+iii. Paralleling device of the Rooftop PV Solar Power Plant shall be capable of withstanding 220% of the nominal voltage
+at the interconnection point.
+8.15
+Every time the Rooftop PV Solar Power Plant of the Eligible Consumer is synchronized to the electricity system, it shall
+not cause voltage fluctuation greater than ±5% at the point of interconnection.
+8.16
+After considering the maintenance and safety procedures, the distribution licensee may require a Rooftop PV Solar
+Power Plant to provide a manually operated isolating switch between the Rooftop PV Solar Power Plant and the
+electricity system, which shall meet following requirements :-
+i. Allow visible verification that separation has been accomplished ;
+Page 7/21
+----- PAGE 8 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+ii. Include indications to clearly show open and closed positions ;
+iii. Be capable of being reached quickly and conveniently twenty four hours a day by licensee's personnel without
+requiring clearance from the applicant ;
+iv. Be capable of being locked in the open position ;
+v. May not be rated for load break nor may have feature of over-current protection ; and vi. Be located at a height of at
+least 2.44 m above the ground level.
+8.17
+Prior to synchronization of the Rooftop PV Solar Power Plant for the first time with electricity system, the applicant and
+the appropriate licensee shall agree on the protection features and control diagrams.
+8.18
+The power conditioning unit shall have the features of filtering out harmonics and other distortions before injecting the
+energy into the system of the distribution utility. The technical standards, power quality standards and inverter standards
+shall be as per (Annexure-IV) of these regulations or any other standards as may be specified by CEA from time to time.
+9.
+Third Party Owned Rooftop Solar PV System based on net metering.
+- 9.1 The third party owned rooftop solar PV net metering model may consist of the developer or intermediaries leasing
+out solar PV system to interested rooftop owners. The owner of the premises provides the rooftop and engages a
+turnkey installer to design and install the system. The installers may also offer integrated service of leasing,
+commissioning and maintenance of Solar PV System to owners and guaranteeing standards of performance.
+9.2
+In the third party owned solar PV system based on net metering, the electricity generated from such plants/ system shall
+be used to meet the eligible consumer's internal electricity needs, while the excess generation shall be fed into the Grid
+(network of licensee) on Net Metering basis.
+9.3
+The developer shall continue to be the owner of equipment in third party owned system, to qualify for claiming
+depreciation on capital cost for the solar PV system with associated direct tax benefits, if any.
+9.4
+For all intents and purposes, the distribution licensee shall deal with the consumer only and arrangement between
+rooftop owner and developer shall be personal to them.
+10.
+Metering arrangement.
+- 10.1 The metering system shall be as per the regulations for installation and operation of meters for rooftop solar
+systems under net metering arrangement specified in these regulations.
+10.2
+The schematic arrangement for interconnection of Rooftop and Small PV Solar Power Plant with the Distribution
+Licensee's grid is shown at (Annexure-V). There shall be two meters. The metering arrangement shall be as per
+(Annexure-VI).
+10.3
+The bi-directional (net meter) shall be installed at the interconnection point of the Eligible Consumer with the network of
+the distribution licensee :
+Provided that for the existing consumers, the consumer meter shall be replaced with the bi-directional/net meter :
+Provided further that consumers having ABT compliant meters shall not be required to install additional net meter.
+10.4
+Solar meter shall be installed at the solar facility after the inverter to measure the solar generation.
+10.5
+These meters shall have the facility for downloading meter readings using Meter Reading Instrument (MRI). Check
+meters shall be mandatory for rooftop solar systems having capacity more than 250 kW. For installations size of less
+than and equal to 250 kW, the solar check meters would be optional :
+Provided that the cost of new/additional meter (s) shall be borne by the Eligible Consumer and installed and owned by
+the distribution licensee :
+Provided, if bills are prepared on the basis of MRI downloads or if meter reading is taken on the basis of remote meter
+Page 8/21
+----- PAGE 9 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+reading and the consumer wishes to have a record of the reading taken, he shall be allowed so by the licensee.
+10.6
+The meters installed shall be jointly inspected and sealed on behalf of both the parties and shall be interfered/tested or
+checked only in the presence of the representatives of the consumer and distribution licensee or as per the supply code
+specified by the Commission :
+Provided that the Eligible Consumer shall follow the metering specifications and provisions for placement of meter as
+developed by the distribution licensee from time to time and as per the supply code :
+Provided further that in case the Eligible Consumer is under the ambit of time of day (TOD) tariff, meters compliant of
+recording time of day consumption/ generation shall be employed.
+10.7
+The meter readings taken by the distribution licensee shall form the basis of commercial settlement.
+10.8
+The technical standards for meters shall be as per (Annexure-VII) and shall comply with the standards specified by CEA
+from time to time.
+10.9
+The meters installed for Rooftop PV Solar Power Plants with capacity above 250 kWp shall have the communication
+port for exchanging real time information with Distribution Licensee.
+11.
+Energy Accounting and Settlement.
+- 11.1 The accounting of the electricity generated, consumed and injected by the rooftop solar system under these
+regulations shall become effective from the date of connectivity of such system with the network of distribution licensee.
+11.2
+The procedure for billing and energy accounting shall be as under-
+(a)
+For each billing cycle the consumer shall receive an energy account statement showing quantum of electricity injected
+by the eligible consumer in the billing period, electricity supplied by the distribution licensee in the billing period, net
+billed electricity for payment by the consumer for that billing cycle and net carried over electricity to the next billing period
+separately.
+(b)
+In case the electricity injected exceeds the electricity consumed from licensee's supply system during the billing cycle
+such excess injected electricity shall be carried forward to the next billing cycle as electricity banked and may be utilized
+in the next billing cycle(s) within the settlement period. In such a case, the distribution licensee shall issue an invoice
+containing all these details ;
+(c)
+In case the electricity supplied by the distribution licensee during any billing period exceeds the electricity injected by the
+Eligible Consumer, the distribution licensee shall raise a bill for net electricity consumption as per applicable tariff of that
+category after taking into account any electricity credit balance from previous billing period ;
+(d)
+In case the Eligible Consumer is under the ambit of TOD tariff, the electricity consumption in any time block i. e. peak
+hours, off peak hours etc. shall be first compensated with the electricity injected in the same time block. Any excess
+injection over and above the consumption in any other time block in a billing cycle shall be accounted as if the excess
+injection occurred during non-peak hours ;
+(e)
+The surplus energy measured in kWh/kVAh shall be utilized to offset the consumption measured in kWh/kVAh and may
+not be utilized to compensate any other fee and charges imposed by the licensee as per the orders of the Commission ;
+(f)
+The Monthly Minimum Charges (MMC), if applicable, shall be leviable on total consumption of the consumer of each
+billing cycle and not on net consumption. A normative power factor of 0.9 shall be considered for conversion of kWh to
+kVAh, wherever applicable ;
+(g)
+The distribution licensee shall also take the reading of solar meter for recording total solar power generated by Solar PV
+Page 9/21
+----- PAGE 10 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+system of consumer ;
+(h)
+The distribution licensee in addition to consumer tariff shall be eligible to raise invoice/bills for any other charges as
+allowed by the Commission ;
+(i)
+In case of any dispute in billing, the consumer can approach the licensee, who will deal the complaint under provisions
+of Regulations 6.23 to 6.26 of the Supply Code. In case the consumer feels aggrieved by the licensee's disposal of the
+complaint, the consumer can approach Consumer Grievances Redressal Forum and Electricity, Ombudsman in
+accordance with JKSERC (Consumer Grievances Redressal Forum, Ombudsman and Consumer Advocacy)
+Regulations, 2012, as amended from time to time.
+11.3
+The electricity generated from a rooftop solar system shall not exceed 90% of the electricity consumption by the
+consumer in a settlement period. The excess energy generated in a billing cycle shall be allowed to be carried forward to
+the next billing cycle up to the end of the settlement period :
+Provided that in the event of electricity generated exceeds 90% of the electricity consumed at the end of the settlement
+period no payment shall be made by the distribution licensee and shall not be carried forward to next settlement period
+and the same shall be treated as inadvertent injection :
+Provided also that at the beginning of each settlement period, cumulative carried over solar electricity injected shall be
+reset to zero.
+11.4
+All the rules and regulations applicable to the consumers of the distribution licensee for the applicable category shall
+also be applicable to the eligible consumer who uses the rooftop solar system.
+12.
+Applicability of other charges.
+- The rooftop solar system under net metering arrangement whether self-owned or third party owned, installed on the
+premises of eligible consumer, shall be exempted from various provisions of JKSERC (Terms and Conditions for Intra
+State Open Access) Regulations, 2015, as amended from time to time :
+Provided that the Commission may review such exemption from time to time.
+13.
+Eligibility to participate under Renewable Energy Certificate (REC) Mechanism.
+- The eligibility for issuance of renewable energy certificate shall be as per the eligibility criteria specified under Central
+Electricity Regulatory Commission (Terms and Conditions for recognition and issuance of Renewable Energy Certificate
+for Renewable Energy Generation) Regulations, 2010, as amended from time to time.
+14.
+Renewable Purchase Obligation (RPO)
+-The quantum of electricity consumed by eligible consumer, who is not defined as obligated entity, from the rooftop solar
+system under net metering arrangement shall qualify towards compliance of Renewable Purchase Obligation (RPO) for
+the distribution licensee.
+15.
+Penalty.
+- In case of failure to meet the requirements under these regulations for net metering, the solar power generator shall be
+liable to pay penalty as decided by the Commission from time to time.
+16.
+Termination of agreement.
+- 16.1 The eligible consumer may terminate the agreement at any time by giving 30 days prior written notice to the
+licensee.
+16.2
+If an eligible consumer breaches any term of the agreement and does not remedy the breach within 30 days of receipt of
+written notice from the distribution licensee of the breach or any other valid reason to be recorded in writing, the
+distribution licensee may terminate the agreement without any further notice.
+16.3
+Page 10/21
+----- PAGE 11 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+Eligible Consumer, upon termination of the agreement, shall disconnect forthwith the photovoltaic system from
+licensee's distribution system.
+17.
+Power to give directions.
+- The Commission may from time to time issue such directions and orders as considered appropriate for implementation
+of these regulations.
+18.
+Removal of difficulties.
+- If any difficulty arises in giving effect to the provisions of these regulations, the Commission may, by an order, make
+such provision, not being inconsistent with the Act and these regulations, which appears to the Commission to be
+necessary for removal of the difficulties.
+19.
+Power to relax.
+- The Commission may by general or special order, for reasons to be recorded in writing and after giving an opportunity
+of hearing to the parties likely to be affected, may relax any of the provisions of these regulations on its own or on an
+application made before it by an interested person.
+20.
+Power to amend.
+- The Commission may from time to time add, vary, alter, suspend, modify, amend or repeal any provisions of these
+regulations.
+Annexure-I
+List of Abbreviations
+AC
+Alternating Current
+AT&C
+Aggregate Technical and Commercial
+BHP
+Brake Horse Power
+BIS
+Bureau of Indian Standards
+CB
+Circuit Breaker
+CEA
+Central Electricity Authority
+CT
+Current Transformer
+DC
+Direct Current
+EHT
+Extra High Tension
+EHV
+Extra High Voltage
+FOR
+Forum of Regulators
+GBI
+Generation Based Incentive
+GIS
+Geographic Information System
+GoI
+Government of India
+GoJK
+Page 11/21
+----- PAGE 12 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+Government of Jammu and Kashmir
+GPS
+Geographic Positioning System
+GSM
+Global System for Mobile Communications
+GSS
+Grid Sub-station
+HT
+High Tension
+IEC
+International Electro-technical Commission
+IEEE
+Institution of Electrical and Electronics
+Engineers
+JKSERC
+J&K State Electricity Regulatory Commission
+KV
+Kilo Volt
+KVA
+Kilo Volt Ampere
+KW
+Kilo Watt
+KWh
+Kilo-Watt hour
+LT
+Low Tension
+MNRE
+Ministry of New and Renewable Energy
+MPLS
+Multiprotocol Label Switching
+MVA
+Mega Volt-Ampere
+NM
+Net Meter
+O&M
+Operation and Maintenance
+PCU
+Power Conditioning Unit
+PT/VT
+Potential/Voltage Transformer
+RE
+Renewable Energy
+REC
+Renewable Energy Certificate
+RPO
+Renewable Purchase Obligation
+SLDC
+State Load Despatch Centre
+SM
+Solar Meter
+SPV
+Page 12/21
+----- PAGE 13 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+Solar Photo Voltaic
+TVM
+Tri-Vector Meter
+References of the Standards
+Standard
+Reference
+IS 13779-1999
+Standards for single or polyphase electrostatic
+watt hour meters
+IS 14697
+Standards for static transformer operated watt
+hour meters and VAR hour meters
+IEEE 61000
+Equipment standards to control/curtail flicker
+IEEE 519
+Standards for Limitation for Total Harmonic
+Distortion
+IEC 61215
+Standards for Crystalline Silicon Terrestrial
+Photo Voltaic (PV) modules-Design qualification and type approval
+IEC 61646
+Standards for thin film terrestrial photovoltaic
+(PV) modules-Design qualification and type approval
+IEC 61730
+Standard for Photovoltaic (PV) module safety
+qualification- Part1 : Requirement foconstruction Part 2 :
+Requirements for testing
+IEC 61701 Standards for Salt mist corrosion
+testing for modules used in coastal corrosive atmosphere
+IEC 60068-2
+(1, 2, 14, 30) Standards for power conditioning
+unit/ inverters for efficiency measurement and environment tests
+IEC 60502
+Standards for power cables with extruded
+insulation and their accessories for rated voltages from 1
+kV(Um=1.2 KV up to 30 Kv(Um=36 kV)
+IEC 60227
+Standards for polyvinyl chloride insulated
+cables of rated voltages up to and including 450/750 V
+IEC 62116
+Standards for utility-inter connected
+photovoltaic inverters-Test procedures of islanding prevention
+measures.
+Annexure-II
+Format for Application for Solar Power Connectivity
+To
+The Sub-divisional Officer/ Designated Officer
+Distribution Licensee
+[Name of office]
+Date : [date]
+I/we herewith apply for a solar energy net metering connection at the service connection and for the solar PV plant of
+Page 13/21
+----- PAGE 14 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+which details are given below-
+1. Name of applicant
+2. Address of applicant
+3. Service connection number/Consumer ID
+4. (a) Sanctioned load
+(b)
+Contracted load/demand
+5. Service connection tariff
+6. Telephone number(s)
+7. Email ID
+8. Solar PV plant capacity (kilo Watts)
+9. Solar grid inverter make and type
+10. Solar grid inverter has automatic isolation protection (Y/N) ?
+11. Has a Solar Generation Meter been installed (Y/N) ?
+12. Expected date of commissioning of solar PV sytem
+13. Details of test certificates of Solar PV Plant/inverter for standards required under the Regulations.
+Name :
+Signature :
+Net metering Application Acknowledgement
+Received an application for a solar energy net metering connection from,
+Name :
+Date :
+Service Connection Number/Consumer ID :
+Application Registration No. :
+Solar Plant Capacity :
+Name of Officer :
+Signature :
+Designation/(Name of Discom)
+Annexure-III
+Net Metering interconnection agreement
+This Agreement is made and entered into at (location)____on this (date) _______ day of (month)______ year _____
+between.
+The Eligible Consumer, by the name of_________having premises at (address) ______________ as first party.
+And
+Distribution Licensee (herein after called as Licensee) and reprsented by___________(designation of office) and having
+its registered office at (address)_____________________________ as second party of the agreement.
+And whereas, the Licensee agrees to provide grid connectivity to the Eligible Consumer for injection of the electricity
+generated from his SPV plant of capacity_____kilowatts into the power system of Licensee and as per conditions of this
+agreement and JKSERC (Grid Interactive Rooftop Solar Photo Voltaic Systems based on Net Metering) Regulations,
+2015, issued by the Jammu and Kashmir State Electricity Regulatory Commission.
+Both the parties hereby agree to as follows :-
+1. Eligibility. - 1.1 Eligibility for net metering has been specified in the relevant regulations of the Jammu and Kashmir
+State Electricity Regulatory Commission. Eligible Consumer has to meet the standards and conditions for being
+integrated into grid/distribution system.
+2. Technical and Interconnection Requirements. - 2.1 The Eligible Consumer agrees that his solar generation plant and
+net metering system will conform to the standards and requirements specified in JKSERC (Grid Interactive Rooftop
+Solar Photo Voltaic Systems based on Net Metering) Regulations, 2015 and in the following regulations and codes as
+amended from time to time :-
+i. CEA's (Technical Standards for connectivity of the Distributed Generating Resources) Regulations, 2013 ;
+ii. Central Electricity Authority (Installation and Operation of Meters) Regulation, 2006 ;
+iii. JKSERC Electricity Regulatory Supply Code 2011.
+Page 14/21
+----- PAGE 15 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+2.2
+Eligible Consumer agrees that he has installed or will install, prior to connection of Photovoltaic System to Licensee's
+distribution system, an isolation device (both automatic and inbuilt within inverter and external manual relays) and
+agrees for the Licensee to have access to and operation of this, if required and for repair and maintenance of the
+distribution system.
+2.3
+Eligible Consumer agrees that in case of a power outage on Licensee's system, photovoltaic system will
+disconnect/isolate automatically and his plant will not inject power into Licensee's distribution system.
+2.4
+All the equipment connected to distribution system shall be compliant with relevant International (IEEE/IEC) or Indian
+Standards (BIS) and installations of electrical equipment must comply with Central Electricity Authority (Measures of
+Safety and Electricity Supply) Regulations, 2010.
+2.5
+Eligible Consumer agrees that licensee will specify the interface/ interconnection point and metering point.
+2.6
+Eligible Consumer and licensee agree to comply with the relevant CEA & JKSERC Regulations in respect of operation
+and maintenance of the plant, drawing and diagrams, site responsibility schedule, harmonics, synchronization, voltage,
+frequency, flicker etc.
+2.7
+Due to Licensee's obligation to maintain a safe and reliable distribution system, Eligible Consumer agrees that if it is
+determined by the Licensee that Eligible Consumer's photovoltaic system either causes damage to and/or produces
+adverse effects affecting other consumers or Licensee's assets, Eligible Consumer will have to disconnect photovoltaic
+system immediately from the distribution system upon direction from the Licensee and correct the problem at his own
+expense prior to a reconnection.
+2.8
+The consumer shall be solely responsible for any accident to human being/animals whatsoever (fatal/non-fatal) that may
+occur due to back feeding from the solar plant when the grid supply is off. The licensee reserves the right to disconnect
+the consumer's installation at any time in the event of such exigencies to prevent accident or damage to life and
+property.
+3. Clearances and Approvals. - 3.1 The Eligible Consumer shall obtain all the necessary approvals and clearances
+(environmental and grid connection related) before connecting the photovoltaic system to the distribution system.
+4. Access and Disconnection. - 4.1 Licensee shall have access to metering equipment and disconnecting means of the
+solar photovoltaic system, both automatic and manual, at all times.
+4.2
+In emergency or outage situation, where there is no access to the disconnecting means, both automatic and manual,
+such as a switch or breaker, Licensee may disconnect service to the premises of the Eligible Consumer.
+5. Liabilities. - 5.1 Eligible Consumer and Licensee shall indemnify each other for damages or adverse effects from
+either party's negligence or intentional misconduct in the connection and operation of photovoltaic system or Licensee's
+distribution system.
+5.2
+Licensee and Eligible Consumer shall not be liable to each other for any loss of profits or revenues, business
+interruption losses, loss of contract or loss of goodwill, or for indirect, consequential, incidental or special damages,
+including, but not limited to, punitive or exemplary damages, whether any of the said liability, loss or damages arise in
+contract, or otherwise :
+Provided that in case of any dispute in respect of clause 5.1 and
+5.2
+above, the decision of the Commission shall be final and binding on both the parties.
+5.3
+Licensee shall not be liable for delivery or realization by Eligible Consumer for any fiscal or other incentive provided by
+the Central/State Government beyond the scope specified by the Commission in its relevant order.
+5.4
+Page 15/21
+----- PAGE 16 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+The Licensee may consider the quantum of electricity generation from the rooftop solar PV system under net metering
+arrangement towards RPO. (Applicable only in case of Eligible Consumer who is not defined as an Obligated Entity).
+5.5
+The proceeds from CDM benefits shall be retained by the Licensee.
+6. Commercial Settlement. - 6.1 All the commercial settlement under this agreement shall follow the Net Metering
+Regulations, 2015 issued by JKSERC.
+7. Connection Costs. - 7.1 The Eligible Consumer shall bear all costs related to setting up of photovoltaic system
+including metering and interconnection costs. The Eligible Consumer agrees to pay the actual cost of modifications and
+upgrades to the service line required to connect photovoltaic system to the grid in case it is required.
+8. Termination. - 8.1 The Eligible Consumer can terminate agreement at any time by providing Licensee with 30 days
+prior notice.
+8.2
+Licensee has the right to terminate Agreement on 30 days prior written notice, if Eligible Consumer commits breach of
+any of the term of this Agreement and does not remedy the breach within 30 days of receiving written notice from
+Licensee of the breach.
+8.3
+Eligible Consumer shall upon termination of this Agreement, disconnect the photovoltaic system from Licensee's
+distribution system in a timely manner and to Licensee's satisfaction.
+In witness, whereof, Mr. ..........................for and on behalf of................... (Eligible Consumer) and Mr. .......................for
+and on behalf of..................... (Licensee) sign this agreement in two originals.
+Eligible Consumer
+Distribution Licensee
+Name
+Name
+Address
+Designation
+Service Connection No./Consumer ID
+Office Address
+Annexure-IV
+Inverter Standards -
+Inverter should comply with IEC 61683/IS 61683 for efficiency and measurements and should comply with IEC 60068-2
+(1, 2, 14, 30)/Equivalent BIS Standard for environmental testing.
+Inverter should supervise the grid condition continuously and in the event of grid failure (or) under voltage (or) over
+voltage, Solar System should be disconnected by the Circuit Breaker/Auto switch provided in the inverter and shall
+comply with requirements specified at Regulation 8 of these regulations.
+Harmonics Standards-
+As per the standard IEEE 519, the permissible individual harmonics level shall be less than 3% (for both voltage and
+current harmonics) and Total Harmonics Distortion (THD) for both voltage and current harmonics of the system shall be
+less than 5%.
+Technical and interconnection requirements Parameters -
+Parameter
+Reference
+Requirement
+1
+2
+3
+Overall conditionsof service
+State Distribution/Supply Code
+Compliance with the terms and conditions of
+supply.
+Overall GridStandards
+Page 16/21
+----- PAGE 17 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+(i) Central Electricity Authority(Grid
+Standard) Regulations,2010;
+Compliance with Grid Standards as regards the
+frequency, voltage and protection coordination.
+(ii) JKSERC Grid Code ; and
+(iii) JKSERC (Distribution Performance
+Standards) Regulations, 2006.
+Meters
+Central ElectricityAuthority (Installation
+and Operationof Meters) Regulation, 2006as amended from
+time to time
+Compliance with the specifications of the
+meters.
+Safety and supply
+Central ElectricityAuthority (Measured of
+Safety andElectricity Supply) Regulations, 2010
+Compliance with safety provisions for
+electrical installations and apparatus.
+Harmonic Requirements Harmonic Current
+IEEE 519 CEA (Technical Standards for
+Connectivity of the Distributed Generation
+Resources)Regulation,2013
+The Total Harmonic Distortion (THD) for voltage
+at the interconnection point should be not exceed 5% For the
+current distortion limits, the Total Demand Distortion (TDD) in
+terms of ratio of available short circuit current to the demand
+current (ISL/IL) should remain within limit specified for
+various harmonics for different TDD values.
+Synchronization
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulation, 2013
+Photovoltaic system must be equipped with a
+grid frequency synchronization device. Every time the generating
+station is synchronized to the electricity system, it shall not
+cause voltage fluctuation greater than +/-5% at point of inter
+connection.
+Voltage
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources)Regulations, 2013
+The voltage operating window should minimize
+nuisance tripping and should be within operating range of 80% to
+110 of the nominal connected voltage. The photovoltaic system
+must isolate itself from the grid within a clearing time of 2
+seconds.
+Flicker
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulation, 2013
+Operation of Photovoltaic system should not
+cause voltage flicker in excess of the limits stated in IEC
+61000 standards as follows:-
+Short-term flicker (Pst) : The flicker severity
+Page 17/21
+----- PAGE 18 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+evaluated over a short period of time (10 minutes) should be
+<=1.
+Long-term flicker (Plt) : The flicker severity
+evaluated over a long period of time (typically 2 hours) should
+be <=0.65.
+Frequency
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulation, 2013 side and
+47.5 Hz on lower side).
+There should be over and under frequency trip
+functions with a clearing time of 0.2 seconds, when the
+Distribution system frequency deviates outside the specified
+conditions (50.5 Hz on upper
+DC Injection
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulations, 2013
+Photovoltaic system should not inject DC power
+more than 0.5% of full rated output at the interconnection point
+or 1% of rated inverter output current into distribution system
+under my operating conditions.
+Power Factor
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulations, 2013
+When the output of the inverter is greater than
+50%, the power output from the inverter shall have a lagging
+power factor of greater than 0.9.
+Islanding and Disconnection
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulations,2013
+The photovoltaic system must island/disconnect
+itself within IEC standard stipulated time in the event of
+fault, voltage or frequency variations.
+Overload and Overheat
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulations, 2013
+The inverter should have the facility to
+automatically switch off in case of overload or overheating and
+should restart when normal conditions are restored.
+Paralleling Device
+CEA (Technical Standards for Connectivity of
+the Distributed Generation Resources) Regulations, 2013
+Paralleling device of photovoltaic system shall
+be capable of withstanding 220% of the normal voltage at the
+interconnection point.
+Annexure-V
+Schematic Arrangement for interconnection of Rooftop and Small PV Solar Power Plant with the Distribution
+Licensee's/Grid
+Normally, Solar Generation shall be connected with Grid. When grid fails, Inverter controlled Switch S3 Opens and on
+restoration of grid S3 Closes.
+Abbreviations :
+NM : Net Meter, SM: Solar Meter, PCU: Power Conditioning Unit.
+Page 18/21
+----- PAGE 19 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+Annexure-VI
+Net Metering configuration options
+Annexure-VII
+Specification for meters for net metering :
+(a)
+Meter for Solar Generation Measurements :
+Solar Meter Major Technical Parameters
+S. No.
+Technical Parameters
+Connectivity at 415 V and below voltage level
+Connectivity at above415 V voltage level
+Whole current meters
+CT operated
+CT-PT Operated
+1
+2
+3
+4
+5
+1.
+Applicability
+Solar plant capacity upto 4 k w
+Solar plant capacity above4 k W and up to 15
+k W
+Solar Plant Capacity above15 k W and up to
+100 k W
+HT/EHV supply
+2.
+Number of phases and wires
+Single Phase, 2 Wire
+Three Phase, 4 Wire
+Three Phase, 4 Wire
+Three Phase, 4 Wire
+3.
+Measurand(s)
+kWh
+kWh
+kWh, kVAh, kVA, PF
+kWh, kVAh, kVA, PF, Max. demand
+4.
+Standard Voltage and frequency
+240 V
+3x240 V (P-N), 415 V(P-P) 50+5%
+3x240 V (P-N), 415 V(p-P) 50+5%
+3x63.5 V (P-N), 110 V(P-P) 50+5%
+5.
+Current Rating
+10-60
+10-60
+1 Amp
+1 Amp
+Page 19/21
+----- PAGE 20 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+6.
+Accuracy Class
+1.0
+1.0
+0.5S
+0.5S
+7.
+Indian Standard or IECto which conforming
+IS 13779-1999
+IS 13779-1999
+IS 14697, IS 13779
+IS 14697, IS 13779
+8.
+Import-export feature
+Forward import
+Forward import
+Forward import
+Forward import
+9.
+Communication Port/Protocol
+Optical/DLMS
+Optical, RS-232/ DLMS
+Optical, RS-232/ DLMS
+RS-232/ DLMS
+(b)
+Meter for Net Metering Measurements :
+Net Meter Major Technical Parameters
+S. No.
+Technical Parameters
+Connectivity at 415 V and below voltage level
+Connectivity at above 415 V voltage level
+Whole current meters
+CT operated
+CT-PT Operated
+1
+2
+3
+4
+5
+1.
+Applicability
+Up to 5 kW connected load
+Above 5 kW and up to15 kW connected load
+Above 15kW and up to100 k W contract demand
+HT/EHV supply
+2.
+Number of phases and wires
+Single Phase, 2 Wire
+Three Phase, 4 Wire
+Three Phase, 4 Wire
+Three Phase, 4 Wire
+Page 20/21
+----- PAGE 21 -----
+Jammu and Kashmir State Electricity Regulatory Commission (Grid Interactive Rooftop Solar ...
+3.
+Measurand(s)
+kWh
+kWh
+kWh,kVAh, kVA, PF
+kWh, kVAh, kVA, PF,Max. demand
+4.
+Standard Voltage and frequency
+240 V
+3x240 V (P-N), 415 V(P-P) 50+5%
+3x240 V (P-N), 415 V(P-P) 50+5%
+3x63.5 V (P-N), 110 V(P-P) 50+5%
+5.
+Current Rating
+10-60
+10-60
+1 Amp
+1 Amp
+6.
+Accuracy Class
+1.0
+1.0
+0.5S
+0.5S
+7.
+Indian Standard or IEC to which conforming
+IS 13779-1999
+IS 13779-1999
+IS 14697, IS 13779
+IS 14697, IS 13779
+8.
+Import-export feature
+Forward import
+Forward import
+Forward import
+Forward import
+9.
+Communication Port/Protocol
+Optical/DLMS
+Optical, RS-232/DLMS
+Optical, RS-232/DLMS
+Optical, RS-232/DLMS
+Related AI tags, queries and research notes
+Translation
+Page 21/21

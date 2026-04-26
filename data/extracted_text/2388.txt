@@ -1,0 +1,2259 @@
+
+----- PAGE 1 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+The Petroleum And Natural Gas (Safety In Offshore Operations)
+Rules, 2008
+Source: https://indiankanoon.org/doc/56787051/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+UNION OF INDIA
+India
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+Rule THE-PETROLEUM-AND-NATURAL-GAS-SAFETY-IN-OFFSHORE-OPERATIONS-RULES-2008 of 2008
+Published on 18 February 2008
+Commenced on 18 February 2008
+[This is the version of this document from 18 February 2008.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+Published vide G.S.R. 469(E), dated 18.2.2008 and published in the Gazette of India, Extraordinary, Part II, Section 3(i),
+dated 18.2.2008.
+18.
+/823
+In exercise of the powers conferred by sections 5, 6 and 7 of the Oilfields (Regulation and Development) Act, 1948 (
+53 of 1948
+), the Central Government hereby makes the following rules, namely:---
+Chapter I
+Page 1/42
+----- PAGE 2 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+Preliminary
+1.
+Short title, extent and commencement .-(1) These rules may be called The Petroleum and Natural Gas (Safety in
+Offshore Operations) Rules, 2008.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions .-(1) In these rules, unless the context otherwise requires,-
+(a)
+"acceptance criteria" means criteria used to express a risk level that is considered acceptable for the activity in question,
+limited to the high level expressions of risk;
+(b)
+"accidental loads" means loads which the facility can be subjected to in the event of incorrect use, technical failure or an
+undesirable external effect;
+(c)
+"Act" means the Oilfields (Regulation and Development) Act, 1948 (
+53 of 1948
+);
+(d)
+"application for consent" means an application submitted to the competent authority for acceptance;
+(e)
+"combined operation" means more than one activity such as drilling, production, workover operation, construction, rig
+move, etc., being undertaken at the same place or in the vicinity at the same time;
+(f)
+"competent authority" means authority, appointed by the Central Government for implementation of these rules;
+(g)
+"competent person" means a person who is capable of identifying existing and predictable hazards associated with his
+area of activities and who has authorization to take prompt corrective measures to eliminate them;
+(h)
+"design load" means characteristic load multiplied by load coefficients;
+(i)
+"dimensioning accidental load" means accidental load that the facility or a function shall be able to withstand during a
+required period of time;
+(j)
+"dimensioning fire" means a fire which in accordance with the defined acceptance criteria represents an unacceptable
+risk, and which consequently serves as a basis for design and operation of installations;
+(k)
+"dynamic positioning system " means a system where power supply, thruster system and control system are assembled
+and can be operated to maintain the fixed position automatically;
+(l)
+"employees" means employees of the operator and those of other participants;
+(m)
+"environmental loads" means loads caused by natural conditions;
+(n)
+"functional loads" means loads which are caused by physical existence and use of the facility;
+(o)
+"facilities" means offshore installation, plant, associated pipelines and cables and other equipment for petroleum
+activities, but does not include supply and support vessels or ships that transport petroleum in bulk;
+(p)
+"load bearing structures" means those parts of the facility for which the main purpose is transfer of loads;
+(q)
+Page 2/42
+----- PAGE 3 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+"lessee" means the person to whom a mining lease is issued for the purpose of carrying out petroleum operations;
+(r)
+"licensee" means the person to whom a petroleum exploration license is issued for the purpose of carrying out
+petroleum operations;
+(s)
+"offshore installation" means a mobile or fixed installation including any pipeline attached thereto, which is or is to be, or
+has been used, while standing or stationed in relevant waters with a view to explore or exploit petroleum and natural gas
+;
+(t)
+"operator" means a person responsible for carrying out the day to day management of petroleum activities on offshore
+installation, on behalf of the licensee or the lessee;
+(u)
+"other participants" means all others who participate in the petroleum activities without being the licensee, the lessee, or
+as the case may be, the operator like contractors, service providers;
+(v)
+"period of stay" means the continuous period, which an employee spends on facilities;
+(w)
+"petroleum activities" means the activities related to exploration and exploitation of petroleum and natural gas;
+(x)
+"pipeline system" means subsea pipelines and risers transporting hydrocarbons and other commodities, with associated
+safety systems, valves, tool launchers or receivers, manifolds, corrosion protection systems or other accessory
+equipment;
+(y)
+"permanently manned facilities" means facilities that are continuously manned, or which are incorporated as a part of an
+integrated development concept with bridge connections;
+(z)
+"relevant waters" means territorial waters, contiguous zone, continental shelf and exclusive economic zone of India;
+(za)
+"risers" means that part of the pipeline system which extends from the subsea pipelines up to the installation including
+launchers or receivers or tools for internal maintenance or inspection;
+(zb)
+"safety zone" means safety zone established under Chapter IX of these rules;
+(zc)
+"Schedule" means the Schedule annexed to these rules;
+(2)
+Words and expressions used herein and not defined, but defined in the Act
+shall have the meaning assigned to them in the Act.
+Chapter II
+Principles Related To Health, Safety And Environment
+3.
+Safe petroleum activities .-The licensee, the lessee, or as the case may be, the operator shall undertake the petroleum
+activities in a safe manner, both in relation to an individual and an overall consideration of all the factors of importance to
+planning and implementation of such activities as regards health, safety and environment.
+4.
+Set up organisation .-(1) The operator shall set up an organization which is capable of ensuring that the petroleum
+activities are carried out in accordance with these rules.
+(2)
+The operator shall ensure and demonstrate that the personnel carrying out work for him in the petroleum activities, have
+the competence required to carry out such work in a safe manner.
+5.
+Health, safety and environment friendly culture .-The operator shall encourage and promote a sound health, safety and
+Page 3/42
+----- PAGE 4 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+environment culture, in all activity areas, in the form of taking of responsibility by everyone who participates in the
+petroleum activities, including also systematic development and improvement of health, safety and environment.
+6.
+Health .-The operator shall provide the health related resources as required during all phases of petroleum activities,
+and shall ensure that everyone who stays on facilities participating in the petroleum activities, is provided with a sound
+health service comprising of preventive measures and routine curative services.
+Chapter III
+Information And Records
+7.
+Information and records .-(1) The operator shall prepare information and records which are considered necessary for the
+petroleum activities, and any other information specified by the competent authority to ensure that the petroleum
+activities are planned and carried out in a safe manner and are well documented.
+(2)
+The operator, on demand, shall make available to the competent authority the information and records in hard copy or
+electronic form, that clearly show,-
+(a)
+the issuing authority and the authority approving it in the organization; and
+(b)
+the date of approval.
+8.
+Maintenance of information and records .-(1) The operator shall maintain information and records in hard copy or
+electronic form as long as is necessary in the interest of safe petroleum activities including-
+(a)
+permanent plugging of wells;
+(b)
+facilities and waste temporarily left on the sea bed;
+(c)
+accidental pollution incidents and actions taken thereof;
+(d)
+environment monitoring;
+(e)
+discharge of oil and chemicals;
+(f)
+situations of hazard and accident; and
+(g)
+safety statistics, incident investigation reports and analysis.
+(2)
+The operator shall maintain mapping results showing to what extent employees have been affected by possible health
+hazardous working environment factors and records of mitigation measures undertaken.
+(3)
+When the petroleum activities are terminated, the competent authority may order that information and records referred to
+in sub-rule (1), are handed over to them.
+9.
+Intimation concerning offshore installation .-(1) The operator of an existing offshore installation, shall within thirty days of
+the commencement of these rules, intimate the competent authority in Form 1, the date of commencement or cessation
+of operation.
+(2)
+The operator of a new offshore installation shall, not later than the date on which an offshore installation is due to
+commence operation in relevant waters, intimate the competent authority in Form 1, the date of such commencement.
+(3)
+Any offshore installation and well left unattended shall be reported to the competent authority without any loss of time.
+Page 4/42
+----- PAGE 5 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+10.
+Oceanographic and meteorological data .-The licensee, the lessee, or as the case may be, the operator shall ensure
+that the petroleum activities are based on relevant oceanographic and meteorological data.
+11.
+Notice of accident .-(1) The operator shall forthwith intimate the occurrence of-
+(a)
+an accident causing loss of life or serious bodily injury in connection with offshore operation;
+(b)
+an explosion;
+(c)
+a blowout;
+(d)
+a major fire;
+(e)
+a bursting of any pipeline or equipment, piping containing hydrocarbon, steam, compressed air or other substance
+whereby safety of persons is likely to be endangered
+(f)
+a breakage or fracture or failure of any structure, equipment or system, whereby safety of persons is likely to be
+endangered;
+(g)
+any accident due to explosives or radio-active substances;
+(h)
+a collision of a helicopter or vessel with the installation;
+(i)
+a helicopter crash;
+(j)
+a man-overboard;
+(k)
+a release of hydrocarbon or other noxious substances whereby safety of persons, installation or marine environment is
+likely to be endangered;
+(l)
+an uncontrolled movement of vessel or object in sea whereby safety of persons onboard the offshore installation or the
+installation itself could be endangered; and
+(m)
+any person present on board an offshore installation or attending vessel or helicopter is found to be missing; to the
+competent authority by telephone or fax and shall also within twenty four hours of every such occurrence give notice
+thereof in Form 2 to the competent authority.
+(2)
+If death results from any injury reported as serious under clause (a) of sub-rule (1), the operator shall within twenty four
+hours of his being informed about the death give notice thereof to the competent authority in Form 3.
+(3)
+Accidents not falling under sub-rule (1) and near miss incidents shall be reported to the competent authority periodically,
+every quarter, in Form 2.
+12.
+Decommissioning plan .-The licensee, the lessee, or as the case may be, the operator shall submit decommissioning
+plan to the competent authority including description of-
+(a)
+risk during and following a possible removal;
+(b)
+methods intended to be used in the event of a possible removal, including re-floating of the structure;
+(c)
+Page 5/42
+----- PAGE 6 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+analyses planned to be carried out;
+(d)
+operations planned to be carried out in the event of a possible removal;
+(e)
+consequences of a possible removal in respect of adjacent fields and facilities;
+(f)
+other matters of importance; and
+(g)
+measures, if any, designed to secure the area against possible future pollution from abandoned wells or polluted
+deposits of cuttings.
+Chapter IV
+Consent And Intimation
+13.
+Design intimation for fixed offshore installation .-(1) The operator of an offshore installation which is to be established
+shall prepare a design intimation containing the particulars specified in Schedule I and submit it to the competent
+authority at such time as will enable him to take into account in the design any matters relating to health, safety and
+environment raised by the competent authority within one month of that time.
+(2)
+Where there is a significant change in any of the particulars mentioned in the design intimation prior to the operator
+submitting application for consent, the operator shall notify the competent authority of that change forthwith.
+14.
+Application for consent for operation of new fixed offshore installation .-(1) The operator of a new fixed offshore
+installation which is to be established shall submit to the competent authority an application for consent containing the
+particulars specified in Schedule II.
+(2)
+The operator shall ensure that the fixed installation referred in under sub-rule (1) is not operated unless the competent
+authority has accepted the application for consent.
+(3)
+The competent authority shall within sixty days of the receipt of the application for consent, convey its consent or require
+the operator to take specific actions and submit revised application for consent within the period specified by it and if the
+competent authority does not respond within sixty days of the receipt of the application for consent, the application for
+consent shall be deemed to have been accepted.
+(4)
+The operator shall submit revised application for consent, confirming therein compliance with the specific actions
+stipulated by the competent authority in accordance with sub-rule (3) and deviations, if any, with adequate technical
+justification.
+(5)
+The competent authority shall convey its consent within thirty days of the receipt of revised application for consent.
+(6)
+If the operator fails to submit the revised application as referred to in sub-rule (4), within the period specified in sub-rule
+(3), the application for consent shall be deemed to have been rejected.
+15.
+Application for consent for existing fixed offshore installation .-(1) The operator of a fixed installation operating in
+relevant waters before the commencement of these rules, shall within two years of coming into force of these rules,
+submit an application for consent containing particulars specified in Schedule III to the competent authority.
+(2)
+The competent authority, within ninety days of the receipt of the application for consent, shall,-
+(a)
+convey its consent; or
+(b)
+require the operator to take specific actions within the period specified, after taking into consideration the submissions
+Page 6/42
+----- PAGE 7 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+made by the operator as specified in Schedule III.
+(3)
+The operator shall submit his revised application confirming therein compliance with the directions issued by the
+competent authority under clause (b) of sub-rule (2) and deviations, if any, with adequate technical justification.
+(4)
+The competent authority shall convey its consent within thirty days of the receipt of revised application for consent.
+(5)
+If the operator fails to submit the revised application referred to in sub-rule (3) within a period of six months, excluding
+the period specified for compliance under clause (b) of sub-rule (2), the licensee, the lessee, or as the case may be, the
+operator shall be jointly and severally liable to penalties under the Act.
+16.
+Application for consent for mobile offshore installation .-(1) The operator of a mobile installation which is to be moved
+into relevant waters for being operated there, shall submit an application for consent containing the particulars specified
+in Schedule IV to the competent authority.
+(2)
+The operator shall ensure that the mobile installation referred to in sub-rule (1) is not operated unless the competent
+authority has accepted the application for consent.
+(3)
+The competent authority shall within fifteen days of the receipt of the application for consent, convey the consent or
+require the operator to take specific actions and submit revised application for consent within the period specified by it
+and if the competent authority does not respond within fifteen days of the receipt of the application for consent, the
+application for consent shall be deemed to have been accepted.
+(4)
+The operator shall submit revised application for consent, confirming therein compliance with the specific actions
+stipulated by the competent authority in accordance with sub-rule (3) and deviations, if any, with adequate technical
+justification.
+(5)
+The competent authority shall convey its consent within fifteen days of the receipt of revised application for consent.
+(6)
+If the operator fails to submit the revised application as referred to in sub-rule (4) within the period specified in sub-rule
+(3), the application for consent shall be deemed to have been rejected.
+17.
+Application for consent for already operating mobile offshore installation .-(1) The operator of a mobile installation
+operating in relevant waters before the commencement of these rules, shall within one year of the commencement of
+these rules submit an application for consent containing particulars specified in Schedule V to the competent authority.
+(2)
+The competent authority, within sixty days of the receipt of the application for consent, shall,-
+(a)
+convey its consent ; or
+(b)
+require the operator to take specific actions within the period specified, after taking into consideration the submissions
+made by the operator as specified in Schedule V.
+(3)
+The operator shall submit his revised application confirming therein compliance with the directions issued by the
+competent authority under clause (b) of sub-rule (2) and deviations, if any, with adequate technical justification.
+(4)
+The competent authority shall convey its consent within thirty days of the receipt of revised application for consent.
+(5)
+If the operator fails to submit the revised application referred to in sub-rule (3) within a period of six months, excluding
+the period specified for compliance under clause (b) of sub-rule (2), the licensee, the lessee, or as the case may be, the
+operator shall be jointly and severally liable to penalties under the Act.
+Page 7/42
+----- PAGE 8 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+18. Intimation for combined operation .-Where a fixed installation or a mobile installation is to be engaged in combined
+operations, the operator shall prepare a comprehensive combined operations procedure document incorporating therein
+the safety related issues and submit the same to the competent authority, within six months of the commencement of
+these rules.
+19.
+Relocation intimation for production offshore installation .-The operator of a production installation which is to be moved
+to a new location, within relevant waters and operated there, shall prepare a relocation intimation containing the
+particulars specified in Schedule VI and send the relocation intimation to the competent authority at such time as will
+enable him to take into account any matters relating to health, safety and environment raised by the competent authority
+within fifteen days of that time.
+20.
+Revision and resubmission of application for consent .-In case of changes in the installation or the process, that can
+have significant impact on the health, safety and environment, subsequent to acceptance of application for consent by
+the competent authority, the operator shall revise the application for consent and submit it to the competent authority for
+acceptance.
+Chapter V
+Risk Management
+21.
+Risk reduction .-(1) The licensee, the lessee, or as the case may be, the operator shall select the technical, operational,
+human resources and organisational solutions which shall reduce the risk to humans, assets and the environment
+involved in the petroleum activities and the probability of failures and situations of hazard and accident.
+(2)
+In addition, barriers shall be established which shall -
+(a)
+reduce the probability of further development of any such failures and situations of hazard and accident; and
+(b)
+limit possible damage.
+(3)
+Where more than one barrier is required, there shall be no interdependence between the barriers.
+(4)
+The solutions and the barriers that have the greatest risk reducing effect shall be chosen based on an individual as well
+as an overall risk evaluation.
+(5)
+Collective protective measures shall be preferred over protective measures aimed at individuals.
+22.
+Barriers .-(1) The licensee, the lessee, or as the case may be, the operator shall form the strategies and principles on
+which the design, use maintenance and testing of barriers shall be based, in such a manner that the barrier function is
+ensured throughout the life time of the facility.
+(2)
+It shall be made known to all concerned what barriers have been established, which function they are intended to fulfil
+and what performance requirements have been defined which are necessary for the individual barrier to be effective.
+(3)
+It shall be made known to all concerned which barriers are not functioning or have been impaired and the operator shall
+take necessary actions to correct or compensate for missing or impaired barriers and the operator shall have a system
+in place involving various decision-making levels with respect to nonfunctional or impaired barriers.
+Chapter VI
+Safety Management
+23.
+General requirements of risk assessment .-(1) The licensee, the lessee, or as the case may be, the operator shall
+ensure that risk assessment is carried out, which will provide the necessary basis for taking decisions to give due
+consideration to health, safety and environment.
+Page 8/42
+----- PAGE 9 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(2)
+When carrying out and updating the assessment, industry recognised models, methods and techniques as appropriate
+for the purpose and the best available data shall be used.
+(3)
+The assessment shall also be used to set conditions for operation and to classify areas, systems and equipment with
+respect to risk under various environmental conditions.
+(4)
+The acceptance criteria for major accident risk and environmental risk shall be specified and the competent authority
+may stipulate risk acceptance criteria for any of the petroleum activities.
+(5)
+The acceptance criteria shall be,  inter alia , set for-
+(a)
+personnel on the facility as a whole, and for groups of personnel which are particularly exposed to risk;
+(b)
+loss of main safety functions as mentioned in rule 77 on main safety functions;
+(c)
+pollution from the facility or any other environmental threat or damage; and
+(d)
+damage done to third party.
+(6)
+The operator shall have a complete record of the assessment that is carried out and consistency between assessments
+that are supplementary to or are based on each other shall be ensured.
+24.
+Risk assessment and emergency preparedness analyses .-(1) Risk assessment providing a balanced and
+comprehensive picture of the risk shall be carried and shall-
+(a)
+identify situations of hazard and accident, select initiating incidents and map the causes of the incidents;
+(b)
+carry out modeling of accident sequences and consequences revealing possible dependencies between physical
+barriers and the requirements that must be set in respect of the performance of the barriers, can be determined;
+(c)
+classify important safety systems;
+(d)
+prove that the main safety functions are adequately provided for;
+(e)
+identify dimensioning accidental loads; and
+(f)
+provide the basis for selecting the defined situations of hazard and accident.
+(2)
+Emergency preparedness analyses shall,-
+(a)
+define situations of hazard and accident;
+(b)
+set performance requirements to the emergency preparedness; and
+(c)
+select and dimension emergency preparedness measures.
+25.
+Risk assessment and emergency preparedness analyses with respect to environment .-Environmentally oriented risk
+assessment and emergency preparedness analyses shall be carried out by the licensee, the lessee, or as the case may
+be, the operator for individual facility with respect to but not limited to acute pollution and background load.
+26.
+Page 9/42
+----- PAGE 10 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+Working environment analysis .-Necessary analyses which would identify measures so as to ensure a sound working
+environment shall be carried out by the licensee, the lessee, or as the case may be, the operator, which shall inter alia ,
+contribute to improving the health, well being and safety of the employees by implementation of these measures.
+27.
+Safety management system .-(1) The operator shall establish a safety management system which shall be an integral
+part of the overall management system.
+(2)
+The operator shall-
+(a)
+ensure that the management of health, safety and environment comprises the activities, resources, processes and the
+organisation including trained manpower necessary to ensure safe activities;
+(b)
+ensure that authorities and responsibilities of personnel at various management levels are clearly defined in the safety
+management system;
+(c)
+prepare the necessary steering documents and establish reporting lines;
+(d)
+establish objectives in relation to health, safety and environment and set internal requirements in concrete terms, which
+contribute to achieving these objectives and if the internal requirements are expressed functionally, criteria of fulfillment
+shall be established; and
+(e)
+ensure accordance between his own requirements and the requirements of the other participants.
+(3)
+Situations of hazard and accident shall be investigated, analysed and documented by the operator.
+(4)
+The operator shall establish monitoring parameters within his areas of activity in order to monitor matters of significance
+to health, safety and environment, including the degree of achieving objectives.
+(5)
+The operator shall establish indicators to monitor changes and trends in major accident risk.
+(6)
+Emergency response plans prepared pursuant to the provisions of Chapter X on emergency response system shall form
+part of the safety management system.
+(7)
+The safety management system shall ensure that-
+(a)
+an adequate arrangement of audit of safety management system and for making a report thereof, is established;
+(b)
+an arrangement for appraisal of adequacy of the safety management system by the operator is established; and
+(c)
+the recommendations of internal as well as external safety audits, surveys and inquiry committees are followed up for
+implementation within predetermined time frame.
+(8)
+The operator shall-
+(a)
+prepare a manual for his safety management system, containing all the relevant information to demonstrate that the
+requirements as mentioned in the preceding sub-rules are adequately met;
+(b)
+periodically revise, update and validate the manual; and
+(c)
+ensure availability of copy of the manual on board the installation.
+28.
+Page 10/42
+----- PAGE 11 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+Follow-up and development of safety management system .-The operator shall follow up and improve the safety
+management system in order to ensure compliance with the requirements contained in these rules.
+29.
+Identification of offshore installation .-The operator shall ensure that the offshore installation is equipped so as to be
+readily identifiable on approach by sea or air at all times.
+30.
+Verification of fitness of offshore installation .-(1) The operator shall take appropriate measures to maintain the offshore
+installation in the condition fit for the purpose under foreseeable meteorological, oceanographic, environmental and
+sea-bed conditions during construction, installation and operation.
+(2)
+The measures referred to in sub-rule (1) shall include-
+(a)
+an assessment of the design and construction of the installation in relation to the conditions under which it is to be
+installed and used;
+(b)
+designing, constructing, installing and maintaining the installation in accordance with recognised standards; and
+(c)
+maintaining a valid certificate of fitness for the installation.
+(3)
+On the date of commencement of these rules, if an operator does not have a valid certificate of fitness for the existing
+installation, he shall obtain the certificate of fitness within two years of the commencement of these rules.
+(4)
+No certificate of fitness shall remain valid for more than five years.
+(5)
+In the event of any incident which in the opinion of the competent authority affects the integrity of installation, the validity
+of such certificate shall be reviewed and the competent authority, if it is of the opinion that it needs a fresh verification,
+the operator shall conduct such verification.
+31.
+Information .-(1) The operator shall identify the information that is necessary to enable planning and conduct of the
+petroleum activities and to improve health, safety and environment.
+(2)
+The operator shall ensure that the necessary information is acquired, processed and disseminated to concerned users
+at the right time.
+(3)
+Information and communication systems, which satisfy the need for acquisition, processing and dissemination of data
+and information, shall be established by the operator.
+32.
+Offshore Installation Manager .-(1) The Operator shall ensure that the offshore manned installation is at all times under
+the charge of Offshore Installation Manager to manage on his behalf the manned installation and the persons on it and
+the associated unmanned installations;
+(2)
+The Offshore Installation Manager shall be a person-
+(a)
+having necessary qualification to carry out functions and duties required for compliance with these rules;
+(b)
+capable of identifying existing and predictable hazards associated with offshore petroleum activities;
+(c)
+authorized to take prompt and concrete measures to eliminate such hazards; and
+(d)
+whose identity is notified to, and is accessible to all personnel working on the installation.
+(3)
+Page 11/42
+----- PAGE 12 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+The operator shall place at the disposal of the Offshore Installation Manager all resources to enable him to carry out his
+function and the duties effectively in accordance with the provisions of these rules.
+33.
+Safety Officer .-(1) The operator shall ensure that each manned installation has a designated Safety Officer available on
+board whose task is to carry out and monitor health, safety and environment related work on the manned installation and
+the associated unmanned installations.
+(2)
+The operator shall ensure that the Safety Officer receives the information and resources that are required to carry out
+and monitor the preventive safety and environment work referred to in the sub-rule (1).
+34.
+Safety Committee .-(1) The operator shall set up a Safety Committee at every manned offshore installation whereby
+work related safety and health and environment issues can be discussed.
+(2)
+Offshore Installation Manager shall be the head of the Safety Committee and the safety officer responsible for safety
+functions at offshore installations shall be convener of the committee.
+(3)
+Employees of the operator from various work sections at the installation shall participate in the activities related to Safety
+Committee.
+(4)
+The functions of the Committee shall be-
+(a)
+to carry out safety and house keeping inspections of the installation with a view to identify deficiencies and recommend
+corrective measures;
+(b)
+to make suggestions for improvement of safety, health and environment measures; and
+(c)
+to promote development of safe attitude among employees.
+(5)
+The Safety Committee shall meet at least once in a month.
+(6)
+Mechanism shall be put in place for continuous follow up on the corrective measures suggested by the Safety
+Committee, from time to time.
+35.
+Responsibility in respect of contractors and service providers .-(1) The licensee, the lessee, or as the case may be, the
+operator shall ensure that the contractors and service providers engaged to execute the contract or provide service in
+connection with the petroleum activities on offshore installation comply with the provisions of these rules.
+(2)
+The licensee, the lessee, or as the case may be, the operator shall be responsible for taking necessary measures by the
+contractors or service providers engaged by him to correct any shortcomings in respect of management of health, safety
+and environment in accordance with these rules.
+36.
+Verifications .-(1) The extent of verifications, the method to be used in and the degree of independence of the
+verification shall be decided in order to document that the requirements of these rules have been complied with.
+(2)
+When it has been decided that verifications are to be carried out, such verifications shall be carried out according to an
+overall and unambiguous verification programme and verification basis.
+(3)
+The operator shall establish the verification basis for the total petroleum activities after having made an evaluation of the
+extent of, the method to be used in, and the degree of independence of the verification and shall also carry out an
+overall evaluation of the results of verifications that have been carried out.
+(4)
+Page 12/42
+----- PAGE 13 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+The competent authority may advise the operator to have verifications carried out.
+(5)
+The documentary evidence of compliance of these rules shall be prepared by the operator and provided to the
+competent authority, when asked for.
+37.
+Investigation by competent authority .-(1) The competent authority may, as and when necessary, direct any of its
+officers, duly authorised on its behalf, to carry out investigation of any offshore installation to verify that the petroleum
+activities therein are conducted in accordance with these rules.
+(2)
+The operator shall be able to demonstrate compliance of these rules during such investigation.
+38.
+Transport and offshore stay .-The operator shall arrange transport for representatives of the competent authority, to and
+from vessels and facilities, and their stay on board for the purpose of carrying out investigation.
+Chapter VII
+Health And Welfare Measures
+39.
+Medical fitness of offshore going employees .-The operator shall ensure that-
+(a)
+minimum physical efficiency criteria are laid down to maintain and enhance safety standards; and
+(b)
+only medically fit persons who meet the minimum physical efficiency standards are allowed to work on the installation.
+40.
+Onboard Medical Officer .-The operator shall ensure that at each manned installation, depending on its size, a qualified
+medical officer or a paramedic is available at all times.
+41.
+Duty of Medical Officer on board .-It shall be the duty of the medical officer on board to promote good health, and
+contribute to prevent disease and injury by-
+(a)
+collection and dissemination of information on such features of the workplace that may affect health;
+(b)
+ensuring that adequate standards of hygiene are maintained;
+(c)
+taking appropriate preventive action within his area of responsibility;
+(d)
+diagnosis and treatment of routine disease and injury, and first aid after accidents;
+(e)
+incorporation of health emergency preparedness into the general emergency preparedness of the installation, including
+transport of the sick and injured; and
+(f)
+taking steps to prevent spread of communicable diseases on the installation.
+42.
+Medical examination of the employees .-The operator shall ensure that the employees are offered periodic medical
+check-up to ascertain any long term effects of working environment causing occupational diseases and take remedial
+measures.
+43.
+Measures against toxic emissions and ionizing radiation .-(1) The operator shall take appropriate measures to-
+(a)
+ensure safe storage, transport and handling of toxic and radioactive substances in accordance with applicable
+standards;
+(b)
+ensure that personnel handling toxic and radioactive substances are adequately trained.
+Page 13/42
+----- PAGE 14 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(2)
+The operator shall take the following measures to protect persons liable to be exposed to toxic emission and ionizing
+radiation, namely-
+(a)
+provide information concerning the toxic emission and ionizing radiation and safe methods of protection against
+exposure to such substances;
+(b)
+provide personnel protective equipment including respiratory protective equipment for every person who may be
+exposed to toxic emission and ionizing radiation;
+(c)
+make arrangements for giving warning of any release of toxic gases or fumes and ionizing radiation by audible or visual
+alarm system to all person on the installation; and
+(d)
+establish safe operating procedures and emergency procedures to meet the requirement of these rules.
+44.
+Food and drinking water .-The operator shall ensure that,-
+(a)
+there shall be at all times, availability of provisions of such quality and in such quantity of food, which is adequate to feed
+and provide all the nutritional needs of all the persons, on an installation.
+(b)
+adequate potable drinking water meeting requirements of the applicable standards is made available at the installation.
+45.
+Hours of work and rest .-The operator shall ensure suitable working hours, rest periods and period of stay of employees
+for carrying out the work safely.
+Chapter VIII
+Transport And Stay
+46.
+Transport .-The operator shall ensure that persons and supplies are transported safely to, from and between facilities
+and vessels during all phases of petroleum activities.
+47.
+Helideck operation .-The operator shall ensure that-
+(a)
+a competent person designated to be in control of helideck operations on the manned offshore installation is present on
+the installation at the time of helideck operations;
+(b)
+such person carries out appropriate duties before any helicopter lands on the offshore installation or takes off from it;
+(c)
+such procedures are established and equipment provided, as will secure that landing and take off of helicopters are
+without risk to safety of the personnel and installation; and
+(d)
+helicopter is safely parked on the installation.
+48.
+Stay on facilities .-(1) The operator shall ensure that there exists at all times a list of all persons on board or on way to or
+from a facility or a vessel participating in the petroleum activities.
+(2)
+The operator shall ensure that all persons staying on such facilities or vessels shall receive adequate information in
+accordance with these rules and that they comply with the same.
+49.
+Accommodation .-The operator shall ensure that,-
+(a)
+the number of persons accommodated on a facility shall normally not exceed the number that the facility was designed
+Page 14/42
+----- PAGE 15 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+for.
+(b)
+when the number of persons to be accommodated on a facility in particular cases where the circumstances so demand,
+exceed the number that the facility was designed for, is done in consultation with the safety officer.
+(c)
+when decision is made concerning the duration and extent of such accommodation, referred to in clause (b), the
+consequences shall be considered and compensating actions shall be taken to ensure safety and necessary rest and
+restitution.
+50.
+General housekeeping .-The operator shall ensure that general housekeeping is planned and carried out in such a way
+that the indoor environment remains hygienic and pleasant all the time.
+Chapter IX
+Safety Zones
+51.
+Establishment of safety zones .-(1) The competent authority shall delimit as safety zone any geographical area, around
+and above the facilities, with the exception of sub sea facilities, pipelines and cables, unless this is considered
+unnecessary based on a safety evaluation by the competent authority.
+(2)
+Unless otherwise decided by the competent authority, the zone extends from the sea-bed to maximum five hundred
+metres above the highest point of a facility in the vertical plane and horizontally extends five hundred metres out from
+the extremities of the facility, where it may be located at any time.
+(3)
+No unauthorised vessel (including aircraft) shall enter, pass, stay or operate in the safety zone, which has not been
+granted permission by the operator.
+52.
+Specific safety zones established in situations of hazard and accident .- In the event of situations of hazard and accident
+which may lead to personal injury or loss of human lives, fire, serious pollution or other environmental damage, major
+damage to material assets or substantial production stoppage, the competent authority may extend the existing safety
+zones or establish new zones, to the extent this is considered necessary to prevent or to limit said harmful effects.
+53.
+Revocation of safety zones .-The competent authority shall revoke the safety zones when the conditions warranting their
+establishment no longer exist.
+54.
+Monitoring of safety zones .-The operator shall monitor all activities inside the safety zones and keep under observation
+what happens outside the zones when such activity may entail danger to safety of the petroleum activities.
+55.
+Alert and intimation in connection with entry into safety zone .-(1) The operator shall alert a vessel about to enter a
+safety zone when it has no right to enter such area.
+(2)
+The operator shall alert vessels outside a safety zone if the vessels may constitute a danger to safety of the petroleum
+activities.
+(3)
+If an object constitutes a danger to safety of the petroleum activities, the operator shall alert the person responsible for
+the object, if possible.
+(4)
+The operator shall alert the concerned agency in the event of situations as referred to in sub-rules (1), (2) or (3), and
+which constitute a serious danger to safety of the petroleum activities.
+(5)
+The operator shall in addition, intimate violation of safety zone to the concerned agency and the competent authority.
+56.
+Measures against intruding vessels or objects .-(1) In the event of violation of safety zones and in dangerous situations
+Page 15/42
+----- PAGE 16 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+referred to in rule 55, the operator shall, to the extent possible, refuse entry to vessels or objects.
+(2)
+If safety zone violation entails serious danger to safety of the petroleum activities, refusal of entry by the operator may
+consist of physical measures wherever possible.
+57.
+Announcement of location of an offshore installation .-The operator shall, before the establishment or movement of
+offshore installation, provide necessary information to the concerned agency about the location of the installation.
+Chapter X
+Emergency Response System
+58.
+Establishing emergency preparedness .-(1) The licensee, the lessee, or as the case may be, the operator shall prepare
+a strategy for emergency preparedness against situations of hazard and accident including health emergency.
+(2)
+The emergency preparedness shall be established on the basis of the performance criteria applicable to the barriers, the
+results from risk assessment and emergency preparedness analyses and risk assessment and emergency
+preparedness analyses with respect to environment, as laid down in rules 22, 24 and 25, respectively.
+(3)
+The competent authority may in particular cases stipulate further requirements with regard to the establishment of the
+emergency preparedness.
+59.
+Emergency preparedness organisation structure .-The emergency preparedness organisation structure shall be of such
+type which is capable of handling situations of hazard and accident effectively.
+60.
+Emergency preparedness plans .-Emergency preparedness plans shall be prepared which at all times describe the
+emergency preparedness and contain action plans in respect of the defined situations of hazard and accident including
+health emergency.
+61.
+Standby vessels .-The licensee, the lessee, or as the case may be, the operator shall ensure that every offshore
+installation has access to pre-identified standby vessel at all times and shall fulfil the emergency response requirements
+besides assisting in warding off intruding vessels.
+62.
+Co-ordination of emergency preparedness .-(1) The operator shall manage and co-ordinate with the concerned agencies
+the operations of the emergency preparedness in the event of accidents and hazardous situations.
+(2)
+The operator shall conduct table top and live exercises involving the concerned agencies and other participants at least
+once a year and effectiveness of such exercises shall be closely monitored and reviewed by him to test and validate the
+emergency preparedness plans.
+63.
+Co-operation on emergency preparedness .-(1) The licensee, the lessee, or as the case may be, the operator shall
+cooperate with other licensee, lessee, or as the case may be operators to ensure necessary emergency preparedness
+in their areas and for that purpose shall have an agreement among themselves for joint use of emergency preparedness
+resources.
+(2)
+The competent authority shall establish regions directing the licensee, the lessee, or as the case may be, the operators
+within those regions to prepare common emergency preparedness plans and utilizing their emergency preparedness
+resources.
+64.
+Handling of situations of hazard and accident .-It shall be ensured by the operator that the necessary actions are taken
+immediately in the event of situations of hazard and accident in such a manner that-
+(a)
+right alert is given immediately;
+Page 16/42
+----- PAGE 17 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(b)
+situations of hazard do not develop into situations of accidents and if it does, the combating actions are taken in order to
+limit harm and pollution, as close to the discharging source as possible;
+(c)
+personnel are rescued in situations of accident;
+(d)
+personnel on the facility are quickly and efficiently evacuated at all times; and
+(e)
+condition is normalised when the development of a situation of hazard and accident has been stopped, including
+monitoring and cleanup of the pollution and restoring the environment.
+65.
+Safety of installation in the event of industrial disputes .-(1) In the event of closure of, or stoppage of work in, any
+installation due to any industrial dispute the operator shall implement measures to maintain a satisfactory level of safety.
+(2)
+The operator and the employees, shall be responsible for safety of the installation in the event of closure of, or stoppage
+of work in, any installation due to any industrial dispute and shall have written procedures in place on-
+(a)
+how activities are to be wound up and wells secured in accordance with the applicable drilling or well intervention
+programme, and the functions and positions that will form part of this work; and
+(b)
+the functions and positions that will form part of safety work after closure has been carried out and completed, and what
+the contingency safety manning shall do.
+(3)
+The contingency safety manning shall be specified in the general plan for manning of the facility.
+66.
+Equipment for rescue of overboard personnel .-(1) The operator shall ensure that facility, at all times, is provided with
+equipment for quick and cautious rescue of personnel who fall into the sea.
+(2)
+Diving facilities shall, at all times, have requisite equipment to ensure that personnel in diving bells, submerged habitat
+and submersible crafts can be rescued in an emergency situation.
+67.
+Life jackets and life buoys .-(1) The operator shall ensure that adequate number of life jackets and life buoys are
+available within easy reach on the facility, based on the results from the emergency preparedness analysis.
+(2)
+The operator shall store the life jackets and life buoys in such a way that the quality is not deteriorated.
+68.
+Communication .-The operator shall ensure that-
+(a)
+at all times during installation and operation, as well as in situations of hazard and accident, the necessary internal and
+external communication and alerts are ensured; and
+(b)
+a person is designated on board to be responsible for the communication systems' operation on manned facilities.
+69.
+Muster areas .-The operator shall make appropriate provision for-
+(a)
+areas for person to muster safely in an emergency;
+(b)
+safe egress from accommodation, work areas and temporary refuge and safe access to muster areas, evacuation and
+escape point;
+(c)
+adequate emergency lighting and marking by suitable signs of access to muster areas, evacuation and escape point;
+Page 17/42
+----- PAGE 18 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(d)
+at least two means of egress from accommodation areas situated at an appropriate distance apart, at each level of the
+installation;
+(e)
+procedures for mustering at such areas and accounting for persons; and
+(f)
+alternate muster areas shall be identified for use in case designated muster areas are inaccessible.
+70.
+Means of evacuation .-(1) The operator shall make arrangements to carry out quick and effective evacuation of
+personnel on facilities to a safe area in all weather conditions.
+(2)
+The means of evacuation, their placing and protection shall be in accordance with the risk assessment scheme.
+(3)
+The operator shall use means of evacuation in respect of evacuation to sea such as lifeboats supplemented by life rafts,
+and means to reach these such as escape ladders.
+(4)
+The operator shall make separate assessment of the need for and selection of equipment for hyperbaric evacuation in
+respect of saturation diving.
+(5)
+The operator shall ensure that hyper baric evacuation units are of such design which can be towed and lifted out of the
+water in the weather conditions relevant for the use of such evacuation units.
+71.
+Arrangement for recovery and rescue .-(1) The operator shall ensure that effective arrangements are made for-
+(a)
+recovery of persons following their evacuation or escape from installation ;
+(b)
+rescue of personnel near installations; and
+(c)
+taking of such personnel to a place of safety.
+(2)
+The operator shall assist the concerned agencies in search and rescue operations, as and when warranted.
+72.
+Drills .-The operator shall ensure that the organisation, arrangements and procedures referred to in the emergency
+response plan are tested, as often as may be appropriate, and jointly with other participants wherever required.
+73.
+Reliability and condition of emergency response equipment .-The operator shall ensure that-
+(a)
+all equipment on the installation provided for compliance with the emergency response plan are maintained in a reliable
+state under efficient working order and in good repair;
+(b)
+there is a proper and suitable written procedure for the systematic examination of all emergency response equipment by
+a qualified and independent person; and
+(c)
+the scheme shall-
+(i)
+specify nature and frequency of the examination; and
+(ii)
+provide for an examination to be carried out, before the first use of the said equipment on the installation and also after
+any modification or repairs.
+Chapter XI
+Facilities-design
+Page 18/42
+----- PAGE 19 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+74.
+Facilities development .-(1) The licensee, the lessee, or as the case may be, the operator shall ensure that for
+development of the facilities, the design, engineering and fabrication of the individual facilities shall be such as to enable
+them to be placed, operated and if applicable removed in a safe and prudent manner.
+(2)
+The provisions referred to in sub-rule (1) shall apply to installations and other equipment necessary to carry out
+underwater operations from a vessel.
+(3)
+The licensee, the lessee, or as the case may be, the operator shall design and install subsea facilities and pipeline
+systems in such a manner that the facilities are able to withstand mechanical damage caused by other activities in the
+vicinity, with a high probability of occurrence.
+(4)
+Facilities shall be used for the purpose for which they are designed and constructed.
+75.
+Placing of facilities .-The licensee, the lessee, or as the case may be, the operator shall ensure that the facilities,
+including wells, are placed at safe distance from other facilities and from objects such as lighthouses, beacons and
+navigation marks, cables, pipelines and particularly vulnerable environmental resources, etc., based on risk assessment
+in such a manner that they will not constitute an unacceptable risk to other facilities, activities or the external
+environment.
+76.
+Design of facilities .-The licensee, the lessee, or as the case may be, the operator shall ensure that-
+(a)
+the facilities including physical barriers are designed in such a manner that-
+(i)
+they can withstand loads;
+(ii)
+the major accident risk becomes as low as reasonably practicable;
+(iii)
+failure of a component, a system or one single mistake does not lead to unacceptable consequences;
+(iv)
+the main safety functions are maintained;
+(v)
+transport of men and materials, and handling of materials can take place efficiently and safely;
+(vi)
+provision is made for a sound working environment;
+(vii)
+operational prerequisites and limitations are duly complied with;
+(viii)
+there are adequate provisions in place to ensure health and hygiene on board;
+(ix)
+provision is made for the lowest possible risk of pollution; and
+(x)
+provision is made for fully satisfactory maintenance.
+(b)
+The areas on the facility shall be classified in such way that design and location of areas and equipment contribute to
+reducing the risk related to fire and explosion.
+(c)
+Areas where personnel are staying, or where equipment of significance to safety is placed, shall not be within reach of
+waves with an annual probability greater than the value considered, based on the acceptance criteria.
+77.
+Main safety functions .-(1) The licensee, the lessee, or as the case may be, the operator shall define the main safety
+Page 19/42
+----- PAGE 20 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+functions unambiguously in respect of each individual facility in order to ensure safety for personnel and environment
+and to limit pollution.
+(2)
+The licensee, the lessee, or as the case may be, the operator shall ensure that the following main safety functions with
+regard to permanently manned facilities are maintained in the event of an accident situation, namely:-
+(a)
+preventing escalation of accident situations in such a manner that personnel outside the immediate vicinity of the scene
+of accident, are not injured;
+(b)
+maintaining the main load carrying capacity in load bearing structures until the facility has been evacuated;
+(c)
+protecting rooms of significance to combating accidental events, in such a manner that they are operative until the
+facility has been evacuated;
+(d)
+protecting the facility's safe areas in such a manner that they remain intact until the facility has been evacuated; and
+(e)
+maintaining at least one evacuation route from every area where personnel stay until evacuation to the facility's safe
+areas and rescue of personnel has been completed.
+78.
+Safety devices .-The licensee, the lessee, or as the case may be, the operator shall ensure that-
+(a)
+facilities are equipped with necessary safety devices which at all times are able to-
+(i)
+detect abnormal conditions;
+(ii)
+prevent abnormal conditions from developing into situations of hazard and accident; and
+(iii)
+limit harm in the event of accidents.
+(b)
+requirements to performance shall be set in respect of safety devices.
+(c)
+status of the safety devices shall be available in the central control room.
+79.
+Plants, systems and equipment .-(1) The licensee, the lessee, or as the case may be, the operator shall ensure that
+plants, systems and equipment are designed in such a manner that-
+(a)
+the possibility of human errors or mistakes is eliminated;
+(b)
+they or it can be operated, tested and maintained without danger to personnel and with the lowest possible pollution risk;
+and
+(c)
+they are or it is suitable for use and capable of withstanding the loads they or it may be subjected to during operation.
+(2)
+Plants, systems and equipment shall be marked in order to provide for safe operation and fully satisfactory maintenance.
+80.
+Loads, load effects and resistance .-(1) The loads that may affect facilities or parts of facilities shall be determined in
+such a manner that accidental loads and environmental loads with an annual probability greater than the value
+considered, based on the acceptance criteria shall not cause the loss of a main safety function.
+(2)
+When loads are determined, the effects of seabed subsidence above or in connection with the reservoir shall be taken
+into account.
+Page 20/42
+----- PAGE 21 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(3)
+Functional and environmental loads shall be combined considering worst conditions.
+(4)
+Facilities or parts of facilities shall be able to withstand the design loads and the probable combinations of these loads at
+all times.
+(5)
+Main load bearing structures shall be designed in such a manner that single component failure or water penetration
+through outer walls facing the sea cannot lead to unacceptable consequences.
+81.
+Materials .-Materials to be used in or on facilities shall be selected, considering the following, namely:-
+(a)
+requirements with respect to loads;
+(b)
+manufacturing, assembling and construction processes;
+(c)
+use of material protection, if any;
+(d)
+fire technical properties;
+(e)
+probable changes in operational conditions;
+(f)
+possibilities for reduction of, re-use and recycling of waste;
+(g)
+employees' health and working environment; and
+(h)
+possible future removal.
+82.
+Handling of materials and transport routes, access and evacuation routes .-(1) Facilities and transport routes shall be
+designed in such a manner that handling of materials and personnel traffic can take place efficiently and safely.
+(2)
+Handling of materials shall to the extent possible take place by means of mechanical systems and technical appliances.
+(3)
+Evacuation routes shall be designed in such a manner that all evacuation can take place in a simple, quick and safe
+way.
+(4)
+There shall be at least two evacuation routes from areas with general movements.
+83.
+Ventilation and indoor climate .-(1) Ventilation in indoor and outdoor areas shall satisfy the need for air change and
+provide acceptable air quality.
+(2)
+The ventilation shall furthermore be designed in such a manner that smoke from fires can be controlled, and that
+flammable gases cannot penetrate into enclosed unclassified areas.
+(3)
+The indoor climate shall be adapted to the individual room with regard to air requirement, draught, humidity and
+temperature and indoor air shall be free of pollution harmful to health.
+(4)
+Air suction of indoor shall be designed in such a way that it will not suck hydrocarbon or hydrogen sulphide gas in case
+of release.
+84.
+Chemicals and chemical exposure .-(1) Technical solutions which prevent harmful chemical exposure to human beings
+and the environment, and which reduce the need for use of chemicals, shall be chosen by the licensee, the lessee, or as
+Page 21/42
+----- PAGE 22 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+the case may be, the operator.
+(2)
+When choosing, designing and locating facilities for storage, use, recycling and destruction of chemicals, regard shall be
+taken of-
+(a)
+the health and safety of personnel;
+(b)
+the corrosion and other forms of disintegration of materials;
+(c)
+the fire and explosion hazard; and
+(d)
+the pollution risk.
+85.
+Flammable and explosive goods .-(1) The licensee, the lessee, or as the case may be, the operator shall ensure that the
+area for storage of flammable goods and explosives is designed to minimise the consequences of fire and explosion.
+(2)
+Provision shall be made in such a manner that explosives that may constitute a danger, can easily be handled and
+removed in the event of a situation of hazard and accident.
+(3)
+Explosives shall be secured against unintentional discharge during storage and use.
+86.
+Instrumentation for monitoring and recording .-(1) Facilities shall be equipped with suitable instrumentation for
+monitoring and recording of conditions and parameters that may be significant with respect to the integrity of the facility.
+(2)
+Facilities shall in addition be equipped with instrumentation for recording of environmental data that may be of
+significance to the petroleum activities.
+(3)
+The first facility of a new type shall have instrumentation for acquisition of data to verify the calculations.
+(4)
+Fixed reference electrodes shall be installed on the first facility in areas where the corrosive conditions deviate from
+areas of past experience.
+87.
+Systems for internal and external communication .-(1) Temporarily or permanently manned facilities shall be equipped
+with communication systems making internal communication on the facility, as well as between the facility and ships,
+aircraft and land, possible at all times.
+(2)
+These facilities shall be equipped with alarm systems (sound and light alarms for various situations of hazards including
+evacuation) capable of alerting the personnel to situations of hazard and accident at all times.
+(3)
+There shall be established at least two independent warning methods to shore, preferably by means of permanent
+communication systems, on permanently manned facilities.
+88.
+Communication equipment .-(1) Equipment for communication shall be chosen on the basis of operational needs, type
+of activity and defined situations of hazard and accident.
+(2)
+Communication equipment and associated power supply shall be designed and protected to remain functional in the
+event of situations of hazard and accident.
+89.
+Ergonomic design .-(1) Work areas and work equipment shall be designed and placed in such way that the employees
+are not subjected to adverse physical or mental strain as a result of manual handling, work position, repetitive
+movements, work intensity, etc., that may cause injury or illness.
+Page 22/42
+----- PAGE 23 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(2)
+Work places and work equipment shall also be designed and placed in such a way that the probability of mistakes that
+may be significant to safety, shall not occur.
+(3)
+Work places shall provide for the possibility of individual work positions.
+90.
+Man-machine interface and information presentation .-(1) Screen-based equipment and other technical equipment for
+monitoring, controlling and running machinery, plants or production processes, shall be designed in such a way that the
+probability of mistakes that may be significant to safety, shall not occur.
+(2)
+Information transmitters and operating devices shall be designed, placed and grouped to allow simple and quick
+reception of necessary information and conduct of necessary actions and the information presented shall be correct and
+easily understandable.
+(3)
+In the event of incidents, deviations or failures in systems of significance to safety, alarms that stand out clearly from
+other information shall be given.
+(4)
+The alarms shall be given in such way that they can be perceived and acted on in the period of time required for safe
+operation of equipment, plants and processes.
+91.
+Outdoor work areas .-(1) Outdoor work areas shall have adequate weather protection in such a manner that the danger
+to health can be minimized and mistakes do not occur.
+(2)
+Weather protection in outdoor areas shall be adapted to anticipated periods of stay, the extent and character of the
+work, representative weather conditions and risk conditions.
+92.
+Noise and acoustics .-(1) Facilities shall be designed in such a manner that no employee is exposed to noise that is
+harmful to hearing.
+(2)
+Requirements shall be set with regard to noise and acoustics in the individual areas based on the planned manning and
+the functions to be provided for in the areas.
+(3)
+Noise level and acoustics shall not obstruct communication which is of significance to safety.
+(4)
+The noise level in cabins, rest rooms and recreation rooms shall be reduced as much as possible to contribute to
+necessary restitution and rest.
+93.
+Vibrations .-Facilities shall be designed in such a manner that vibrations will not harm personnel staying on the facility,
+or will make it difficult for the personnel to carry out important work tasks.
+94.
+Lighting .-Lighting shall be of such quality that working environment and safety are adequate in respect of work,
+movement and restitution.
+95.
+Radiation .-(1) Facilities shall be made to prevent exposure to radiation.
+(2)
+Provision shall primarily be made for technical solutions which reduce the need for use of radioactive substances.
+(3)
+Where radioactive substances have to be used, provision shall be made for safe transport, handling and storage of the
+substances.
+96.
+Equipment for shifting of personnel .-(1) Equipment for shifting of personnel shall be designed to ensure safety of
+Page 23/42
+----- PAGE 24 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+personnel that are carrying out activities above normal working height, or that are being shifted by means of such
+equipment.
+(2)
+Personnel winches shall be such that spooling can be performed safely and be secured against uncontrolled unwinding
+in such a manner that users cannot fall freely.
+97.
+Safety signs .-(1) The operator shall ensure, if it cannot be avoided through technical measures or other arrangements,
+that employees are subjected to risk of accidents or injury, safety signs shall be installed at those locations.
+(2)
+Safety signs shall be installed at the entrance to rooms and near zones or equipment where the employees may be
+subjected to risk of accidents or health injury.
+(3)
+Safety signs shall also be prominently displayed in the control room.
+(4)
+Equipment for danger limitation, rescue and evacuation, and the access way to these equipment, shall also be marked
+with such signs.
+98.
+Christmas tree .-The licensee, the lessee, or as the case may be, the operator shall ensure that christmas trees are
+designed to provide for safe production, reentry, well intervention and well control.
+99.
+Production plants .-(1) Production plants shall be designed in such a manner that the use of chemicals and energy is
+optimised, and the environmental impact is minimized.
+(2)
+Production plants shall have a control system which provides a stable regulation of the process.
+(3)
+Treatment systems for water produced from wells shall be designed in such a manner that the oil content in each
+discharge stream meets the stipulation of the Ministry of Environment and Forests.
+(4)
+The discharge point for water produced from wells shall be placed in such a manner that the discharges shall not cause
+harm to the marine environment.
+(5)
+If there is a risk of ignition, the vessels in the system shall be designed to prevent air from entering.
+(6)
+Production plants comprise of sub sea production plants also.
+100.
+Pipeline systems .-(1) The pipeline systems including risers shall be designed in such manner as will ensure its
+structural integrity under construction, accidental operational and environmental loads.
+(2)
+Risers shall be located in areas away from landing station, crane operations and vessel operations.
+(3)
+In the existing installation where risers are located near landing station, crane operations or vessel operations, either the
+risers shall be relocated to safe area or protection measures shall be incorporated to reduce the risk.
+(4)
+The pipeline systems shall be designed in such a manner that internal inspection can be carried out.
+(5)
+For the existing pipeline wherein internal inspection is not feasible, the operator shall have pipeline corrosion
+management programme to ensure integrity of the pipeline.
+(6)
+With regard to flexible pipeline systems and pipeline systems made of a material other than steel, usage factors and, if
+applicable, load and material factors shall be determined to ensure that the safety level for such systems is not lower
+than that of pipelines and risers made of steel.
+Page 24/42
+----- PAGE 25 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(7)
+The pipeline shall have required isolation valves, which will operate automatically during leakage and disaster to meet
+the intended safety functions.
+101.
+Living quarters .-(1) The layout and capacity of living quarters shall ensure a fully satisfactory living environment and
+shall be adapted to the various functions to be provided for, and the anticipated need for personnel during the various
+phases of the petroleum activities.
+(2)
+The living quarters shall be equipped and furnished in such a manner to enable the maintenance of an adequate
+standard of hygiene therein.
+(3)
+Emergency quarters on unmanned facilities shall be dimensioned to accommodate the maximum required number of
+personnel.
+(4)
+With regard to safety and standard of hygiene, adequate requirements shall be met for emergency quarters on
+unmanned facilities.
+102.
+Medical room .-(1) Permanently manned facilities shall have a medical room and shall have the facilities to enable the
+health personnel therein to perform their duties adequately.
+(2)
+The medical room shall have the required equipment to provide first aid, and adequate medical treatment both on the
+installation and during the transport of patients.
+(3)
+There shall be a provision for telephone contact between the medical room and land.
+(4)
+There shall be permanent means of internal communications between the medical room and the manned control room.
+(5)
+Such means of communication shall be capable of normal function in the event of general power failure.
+(6)
+In the event of power failure, the medical room shall continue to have adequate working light therein, and at least two
+emergency power outlets.
+(7)
+There shall be an adequate first aid provision on unmanned facilities.
+103.
+Facilities for food and drinking water .-The facilities for food and drinking water shall be designed in such a manner that
+they fulfill the requirements and shall have the necessary means of ensuring the quality of food and drinking water used
+on board.
+104.
+Classification of hazardous area .-All areas at offshore installations shall be classified into various zones based on the
+degree of probability of the presence of hazardous atmosphere in such areas.
+105.
+Electrical systems .-(1) The electrical systems shall be designed with safeguards and other protection in line with the
+classification of hazardous area in such a manner that abnormal conditions and failures that may entail a danger to the
+personnel and to the facility are avoided.
+(2)
+The systems shall be designed with sufficient protection against, inter alia-
+(a)
+electric shock during normal operation and in the event of failure;
+(b)
+thermal effects;
+(c)
+Page 25/42
+----- PAGE 26 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+overcurrent;
+(d)
+fault currents;
+(e)
+overvoltage;
+(f)
+undervoltage;
+(g)
+voltage and frequency variations;
+(h)
+power supply failure;
+(i)
+ignition of explosive gas atmosphere;
+(j)
+electromagnetic interference;
+(k)
+health injury from electromagnetic fields.
+106.
+Systems and other equipment for underwater operations from vessels .-The provisions of these rules shall  mutatis
+mutandis apply to systems and other equipment for underwater operations.
+Chapter XII
+Physical Barriers In Facilities
+107.
+Passive fire protection .-(1) Passive fire protection shall be designed to give relevant structures and equipment adequate
+fire resistance with regard to load bearing properties, integrity and insulation properties during a dimensioning fire.
+(2)
+In the design of passive fire protection, the cooling effect from fire-fighting equipment shall not be taken into account.
+108.
+Fire divisions .-(1) The main areas on facilities shall be separated by fire divisions capable of resisting the dimensioning
+fire and explosion loads and shall at least fulfil the required fire class.
+(2)
+Spaces with important functions and equipment and spaces with a high fire risk shall be separated from the
+surroundings by fire divisions.
+(3)
+Fire divisions shall be designed to resist dimensioning fire and explosion loads in such a manner that the main safety
+functions are maintained for a sufficient period of time, but always at least one hour.
+(4)
+Penetrations shall not weaken fire divisions and doors in fire divisions shall be fire resistant and automatic closing type.
+109.
+Fire divisions in living quarters .-Living quarters shall be protected by fire divisions, which at least fulfill the required fire
+class.
+110.
+Fire and gas detection systems .-(1) There shall be a fire and gas detection system, which ensures rapid and reliable
+detection of fires and gas leakages.
+(2)
+The system shall be able to perform the intended functions independently of other systems.
+(3)
+In case of fire and gas detection, automatic actions, where appropriate, shall limit the consequences of the fire or gas
+leakage.
+(4)
+Placing of detectors shall be based on relevant scenarios, hazard analysis, simulations and tests.
+Page 26/42
+----- PAGE 27 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+111.
+Emergency shutdown systems .-(1) There shall be an emergency shutdown system, which is able to prevent situations
+of hazard and accident from developing and to limit the consequences of accidents.
+(2)
+The emergency shutdown system shall be able to perform the intended functions independently of other systems.
+(3)
+The emergency shutdown system shall be designed in such a manner that it will go to or remain in a safe condition in
+the event of a failure which may prevent the functioning of the system.
+(4)
+The emergency shutdown system shall have a simple and unambiguous command structure.
+(5)
+The emergency shutdown system shall be capable of being activated manually either from control room or from release
+stations located at strategic places on the facility.
+(6)
+There shall be a provision to activate functions manually from the central control room in such a manner that the facility
+is brought to a safe condition in the event of failure in the programmable parts of the system.
+(7)
+Emergency shutdown valves shall be installed which are capable of stopping streams of hydrocarbons and chemicals to
+and from the facility, and which isolate the fire areas on the facility.
+112.
+Process safety systems .-(1) Facilities equipped with or connected to a processing plant shall have a process safety
+system.
+(2)
+The system shall be able to perform the intended functions independently of other systems.
+(3)
+The process safety system shall be designed in such a manner that it will go to or remain in a safe condition in the event
+of a failure which may prevent the functioning of the system.
+(4)
+The process safety system shall be designed with two independent safety levels for protection of equipment.
+113.
+Gas release systems .-(1) There shall be provision for a gas release system at safe distance and height in the facilities
+equipped with or connected with gas processing plant.
+(2)
+The gas release system shall prevent escalation of situations of hazard and accident by rapid reduction of pressure in
+the equipment, and it shall be designed in such a manner that release of gas does not cause injury or harm to personnel
+or equipment.
+(3)
+The depressurization shall be possible to activate manually from the central control room.
+(4)
+Liquid separators installed in the gas release system shall be secured against overfilling.
+114.
+Fire water supply .-(1) Permanently manned facilities shall have fire water supply from fire pumps or other independent
+supply in such a manner that there is sufficient capacity at all times, even if parts of the supply are inoperative.
+(2)
+The fire water system shall be designed in such a manner that a pressure stroke does not make the system or parts of
+the system inoperative.
+(3)
+The fire pumps shall start automatically when there is a pressure drop in the fire main and when fire detection has been
+confirmed.
+(4)
+It shall in addition be possible to start fire pumps manually from the central control room and from the prime mover.
+Page 27/42
+----- PAGE 28 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(5)
+The prime mover for fire pumps shall be equipped with two independent starting arrangements and automatic
+disconnection devices shall be as few as possible.
+(6)
+Fire water piping shall be designed and located to ensure sufficient supply of firewater to every area on the facility.
+115.
+Fixed fire-fighting systems .-(1) Fixed fire-fighting systems shall be installed in hazardous areas and in other areas
+representing a major fire risk.
+(2)
+The fixed fire fighting systems shall in addition cover equipment containing significant quantities of hydrocarbons.
+(3)
+The fixed fire fighting systems shall be designed in such a manner that firefighting can take place quickly and efficiently
+at all times.
+(4)
+The fixed fire fighting systems shall be automatically activated on signal from the fire detection system.
+(5)
+In areas where gas is used as extinguishing medium, warning systems shall be installed which give warning well before
+gas is released.
+(6)
+Manual activation of fire-fighting systems shall activate the general alarm of the facility.
+116.
+Manual fire-fighting and fireman's equipment .-There shall be sufficient manual fire-fighting and fireman's equipment in
+order to ensure effective fire-fighting of outbreaks of fires and to prevent escalation.
+117.
+Life saving appliances .-The requirement of life saving appliances like breathing apparatus set, workman set, etc., on the
+installation shall be identified and installation equipped accordingly.
+118.
+Emergency power and emergency lighting .-(1) There shall be a reliable, robust and simple emergency power system to
+ensure sufficient power supply to equipment and systems that must function in the event of a main power failure.
+(2)
+In the changeover between main power and emergency power it shall be ensured that a cutting off does not entail
+operational problems to the emergency power consumers.
+(3)
+The emergency power system shall have as few automatic disconnection devices as possible in order to ensure
+continuous operation.
+(4)
+There shall be an emergency lighting system which ensures necessary lighting of the facility if the main lighting fails.
+119.
+Drainage systems .-Drainage systems capable of collecting and drain off oil and chemicals shall be provided in such a
+manner that the risk of fire, injury to personnel and pollution is minimized.
+Chapter XIII
+Operational Prerequisites
+120.
+Pre-surveys .-The operator shall ensure that prior to placing of the facilities necessary preliminary surveys for safe
+installation, operation and disposal of facilities are carried out.
+121.
+Start-up and operation of facilities .-(1) The operator shall complete the commissioning process prior to start up of
+facilities for first time or after technical modifications.
+(2)
+In addition, at start-up as mentioned in sub-rule (1) and during operation,-
+(a)
+Page 28/42
+----- PAGE 29 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+the management system with associated processes, resources and operational organisation shall be established;
+(b)
+steering documents, including technical documents for operation, shall be available, in an updated version and the
+operational personnel shall be acquainted with it.
+122.
+Manning, competence and trainings .-(1) Adequate manning and competence in all phases of petroleum activities shall
+be ensured by the licensee, the lessee, or as the case may be, the operator .
+(2)
+There shall be set minimum requirements to manning and competence in respect of functions where mistakes may have
+serious consequences in relation to health, safety and environment.
+(3)
+Each employee shall be given training necessary for safe execution of the work.
+(4)
+Without prejudice to the generality of the provisions of sub-rules (1) to (3), such trainings shall be given in connection
+with engagement, transfer or change of employee, introduction of new work equipment or alternations in the equipment
+and introduction of new technology.
+(5)
+The training shall be adapted to altered or new risks in the petroleum activities and shall be repeated whenever
+necessary.
+123.
+Practice and exercises .-The operator shall ensure that necessary practice and drills are carried out in such a manner
+that the personnel are capable of handling operational disturbances and situations of hazard and accident effectively at
+all times.
+124.
+Procedures .-(1) The operator shall establish procedures which are to be used as means to prevent faults and situations
+of hazard and accident.
+(2)
+The operator shall ensure that procedures are used in such way as to fulfill their intended functions.
+125.
+Use of facilities .-(1) The licensee, the lessee, or as the case may be, the operator shall ensure that the use of facilities
+and parts of facilities takes place in accordance with requirements stipulated in and pursuant to these rules and possible
+additional limitations following from fabrication, installation and commissioning.
+(2)
+The use shall at all times be in accordance with the technical condition of the facility and operational pre-requisites
+stipulated in the risk assessment.
+126.
+Safety systems .-(1) The operator shall establish before hand the actions and operational limitations required to be
+imposed in the event of overriding or disconnection of safety systems or parts of such systems, or when the systems are
+otherwise impaired.
+(2)
+The status of overriding, disconnections and other impairments shall be known at all times, and recorded.
+127.
+Critical activities .-The operator shall ensure that the critical activities are conducted within the operational limits
+assumed in the design and in the risk assessment.
+128.
+Combined operation .-(1) The licensee, the lessee, or as the case may be, the operator shall define the activities which
+in combination with other activities are considered to be combined operation.
+(2)
+In the event of conduct of combined operation that contribute to a non acceptable risk increase, necessary actions shall
+be taken to mitigate the risk to acceptable levels.
+Chapter XIV
+Page 29/42
+----- PAGE 30 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+Planning And Conduct Of Activities
+129.
+Planning .-(1) The licensee, the lessee, or as the case may be, the operator shall plan the petroleum activities in such a
+manner that due consideration is given to health, safety and environment.
+(2)
+In the planning of activities on the individual facility, the operator shall ensure that important contributors of risk are kept
+under control, both individually and collectively.
+130.
+Actions during conduct of activities .-(1) The operator shall ensure that the planned activities are cleared from safety
+point of view before they are conducted.
+(2)
+The safety clearance shall show which conditions have to be met, including the actions required to be taken before,
+during and after the work in such a manner that those who participate in or may be affected by the activities are not
+injured, and the probability of mistakes that can result in situations of hazard and accident shall not occur.
+131.
+Permit to work .-(1) For work, other than the routine non-hazardous work, to be carried out in the safest possible
+manner, the operator shall ensure that such work is carried out only in accordance with the written instructions
+(hereinafter called "work permit") issued by a person authorised by the Offshore Installation Manager.
+(2)
+The work permit shall specify the place, date, time and duration of such work, the precautions to be taken, the
+parameters to be monitored during the work and the persons responsible for compliance.
+(3)
+The work permit shall be formally closed after completion of work.
+132.
+Collection, processing and use of data .-The operator shall ensure that data are collected, processed and used to-
+(a)
+monitor and control technical, operational and organisational aspects;
+(b)
+produce monitoring parameters, indicators and statistics with respect to health, safety and environment;
+(c)
+verify and document safety and environment compliance with legal requirements
+(d)
+carry out and follow up analyses during various phases of activities;
+(e)
+generate generic database; and
+(f)
+take corrective and preventive actions, including improvement of systems and equipment.
+133.
+Monitoring and control .-(1) The operator shall ensure that matters concerning health, safety and environment are
+monitored and kept under control at all times.
+(2)
+The operator shall ensure that suitable arrangements are made for personnel with control and monitoring functions to be
+able to get hold of and handle information on such matters efficiently.
+134.
+Transfer of information .-In connection with shifts and change of personnel, the operator shall ensure the necessary
+transfer of information to incoming personnel on the status of safety systems and ongoing activities, as well as other
+information of importance to health, safety and environment.
+Chapter XV
+Working Environment Factors
+135.
+Arrangement of work .-(1) The operator shall ensure that work is arranged in such a manner that the individual
+Page 30/42
+----- PAGE 31 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+employee avoids health hazardous exposure and adverse physical and mental strain, and the possibility of mistakes that
+can lead to situations of hazard and accident, is avoided.
+(2)
+The operator shall reduce stress factors and risk of injury to health based on objective risk and the risk as perceived by
+the employees.
+(3)
+The work shall be planned in such a way that the employees are assured necessary rest and restitution.
+136.
+Noise and vibrations .-The operator shall take appropriate measures to protect persons from the adverse effect of noise
+and vibrations.
+137.
+Ergonomics .-(1) The operator shall ensure that the work is arranged in such a manner that the employees are not
+subjected to adverse strain as a consequence of manual handling, work position and intensity, etc.
+(2)
+While carrying out operations from their normal positions and with a good working posture, the employees shall have a
+view which enables them to make sure that the work can be carried out safely.
+138.
+Chemical health hazard .-The operator shall ensure that health detrimental chemical exposure in connection with
+storage, use, handling and disposal of chemicals and of processes releasing chemical components, is avoided.
+139.
+Radiation .-The operator shall ensure that health detrimental exposure during storage, use, handling and disposal of
+sources giving off radiation is avoided.
+140.
+Personal protective equipment .-(1) The operator shall ensure that necessary personal protective equipment are used by
+the employees.
+(2)
+The operator shall ensure that a written procedure is prepared and implemented for systematic examination and testing
+of all the personal protective equipment and for recording the results thereof.
+Chapter XVI
+Drilling And Well Activities
+141.
+Well programme .-(1) Prior to starting well activities, a programme shall be prepared by the licensee, the lessee, or as
+the case may be, the operator which describes the individual activities and the equipment to be used.
+(2)
+The programme shall follow the requirement as laid down in sub-rule (2) of rule 121 on start-up and operation of
+facilities.
+142.
+Well barriers .-(1) During drilling and other related well activities, there shall at all times be at least two independent and
+tested well barriers after surface casing is in place.
+(2)
+Well barriers shall be designed in such a manner that unintentional influx, cross flow to shallow formation layers and
+outflow to the external environment is prevented.
+(3)
+Well barriers shall be designed in such a manner that their performance can be verified.
+(4)
+If a barrier fails, during drilling and other related well activities, no other activities shall take place in the well than those
+to restore the barrier.
+(5)
+If a barrier fails, during production, to continue production, additional control measures based on risk assessment study
+shall be introduced during the period the barrier is restored which shall be informed to all concerned and the barrier shall
+be restored in shortest possible time.
+Page 31/42
+----- PAGE 32 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(6)
+When a well is abandoned, the barriers shall be designed to provide for well integrity for the longest period of time that
+the well is expected to be abandoned, inter alia in such a manner that outflow from the well or leakages to the external
+environment do not occur.
+143.
+Well location and well path .-(1) Well location and well path shall be chosen on the basis of well parameters of
+importance, including occurrence of shallow gas, other hydrocarbon bearing formation layers and distances to adjacent
+wells and it shall be possible to drill a relief well from two alternative locations.
+(2)
+The well path shall be known at all times.
+144.
+Handling of shallow gas .-The licensee, the lessee, or as the case may be, the operator shall ensure that the necessary
+actions are planned including setting of casing above all known shallow gas hazard zones to handle situations of
+shallow gas or other formation fluids occurrence.
+145.
+Monitoring of well parameters .-During all drilling and well activities, drilling and well data shall be collected and
+monitored to verify the well prognoses, in order that necessary actions may be taken and the well programme may be
+adjusted if necessary.
+146.
+Well control .-(1) Well control equipment shall be designed, installed, maintained, tested and used so as to provide for
+well control.
+(2)
+In the case of drilling of top hole sections with riser or conductor, equipment with capacity to conduct shallow gas and
+formation fluid away from the facility, until the personnel has been evacuated, shall be installed.
+(3)
+Floating facilities shall have an alternative activation system for handling of critical functions on the blow out preventer.
+(4)
+Accumulator for surface and sub surface well control equipment shall have minimum usable fluid capacity as per
+industry standards in order to perform closing and opening sequences as applicable to secure the well.
+(5)
+The pressure control equipment used in well interventions shall have remote control valves with locking devices.
+(6)
+The well intervention equipment shall have a remote control blind or shear ram as close to the christmas tree as
+possible
+(7)
+If well control is lost, it shall be possible to regain the well control by direct intervention or by drilling a relief well.
+(8)
+An action plan shall be prepared describing how the lost well control can be regained.
+147.
+Controlled well flow .-Operational limitations shall be set in relation to controlled well flow.
+148.
+Securing of wells before abandoning .-(1) All wells shall be secured before they are abandoned in such a manner that
+well integrity remains intact during the time they are abandoned.
+(2)
+With regard to subsea completed wells the well integrity shall be ensured if the wells are planned to be temporarily
+abandoned.
+(3)
+Radioactive sources are not left behind in the well.
+(4)
+In case it is not possible to retrieve the radioactive sources and these have to be left in the well, proper abandonment
+procedure shall be followed as per guidelines of the Department of Atomic Energy, Government of India.
+Page 32/42
+----- PAGE 33 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+149.
+Compensator and disconnection systems .-(1) Design of compensator systems shall be based on robust technical
+solutions so that failures do not lead to unsafe conditions.
+(2)
+Floating facilities shall be equipped with a disconnection system that secures the well and releases the riser before a
+critical angle occurs.
+150.
+Drilling fluid system .-(1) The drilling fluid system shall be designed in such a manner that it will mix, store, circulate and
+clean a sufficient volume of drilling fluid with the necessary properties to ensure the drilling fluid's drilling and barrier
+functions.
+(2)
+The high pressure part of the drilling fluid system with associated systems shall in addition have capacity and working
+pressure to be able to control the well pressure at all times.
+(3)
+Availability of sufficient quantity of drilling fluid weighting material to subdue the well at any time during the drilling
+operation shall be ensured.
+151.
+Cementing unit .-(1) The cementing unit shall be designed in such a manner that it will mix, store and deliver as exact
+volume as possible of cement with the necessary properties to ensure fully satisfactory anchoring and barrier integrity.
+(2)
+The unit shall be designed in such a manner that remains of unmixed chemicals as well as ready-mixed cement is
+handled in accordance with applicable environment regulations.
+(3)
+If the cementing unit with associated systems is intended to function as backup for the drilling fluid system, it shall have
+capacity and working pressure to be able to control the well pressure at all times.
+152.
+Casings and anchoring of wells .-Casings and anchoring shall be such that the well integrity is ensured and the barrier
+functions are provided for throughout the life time of the well.
+153.
+Equipment for completion and controlled well flow .-(1) Equipment for completion shall provide for controlled influx, well
+intervention, backup well barrier elements and plug back activities.
+(2)
+Completion strings shall be equipped with necessary down hole equipment including safety valves.
+(3)
+During controlled well flow, the surface and down hole equipment shall be adapted to the well parameters.
+(4)
+Equipment for burning of the well stream shall be designed and dimensioned in such a manner that combustion residues
+shall not cause pollution of the marine environment.
+(5)
+It shall at all times, be possible to control the well pressure through the work string and the well flow through the choke
+manifold.
+Chapter XVII
+Maintenance
+154.
+Maintenance .-The licensee, the lessee, or as the case may be, the operator shall ensure that the facilities or parts
+thereof including all machinery and equipment are maintained, in such a manner they are capable of carrying out their
+intended functions in all phases of their life.
+155.
+Classification .-(1) The systems and equipment of facilities shall be classified with regard to the health, safety and
+environment related consequences of potential functional failures.
+(2)
+Page 33/42
+----- PAGE 34 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+With regard to functional failures that may entail serious consequences, the different fault modes with associated failure
+causes and failure mechanisms shall be identified, and the failure probability in respect of the individual fault mode shall
+be estimated.
+(3)
+The classification shall constitute the basis for choice of maintenance activities, maintenance frequency and for the
+priority of different maintenance activities.
+156.
+Maintenance programme .-(1) Fault modes which constitute a risk to health, safety or environment, shall be
+systematically prevented by means of a maintenance programme.
+(2)
+The programme shall comprise activities for monitoring of performance and technical condition, which will ensure that
+fault modes that are developing or have occurred are identified and corrected.
+(3)
+The programme shall also contain activities for monitoring and control of failure mechanisms that may lead to such fault
+modes.
+157.
+Specific requirements to condition monitoring of structures and pipeline systems .-(1) Condition monitoring shall be
+carried out in respect of new structures during their first year of service.
+(2)
+With regard to load bearing structures of a new type, data shall be collected for first two years in order to compare them
+with the design calculations.
+(3)
+With regard to pipeline systems where fault modes may constitute an environment or safety risk, inspections shall be
+carried out to map possible corrosion of the pipe wall.
+(4)
+Parts of the pipeline system where the lay condition or other factors may cause high loads, shall also be checked.
+(5)
+The first inspection shall be carried out in accordance with the maintenance programme as referred to in rule 156 on
+maintenance programme, not later than five years after the system has been put into operation.
+158.
+Specific requirements to testing of blow out preventer and other pressure control equipment .-(1) The blow out preventer
+shall be pressure tested regularly in order to maintain its capability of carrying out its intended functions.
+(2)
+The blow out preventer with associated valves and other pressure control equipment on the facility shall be subjected to
+a complete overhaul and shall be recertified at regular intervals based on original equipment manufacturer's
+recommendations and international standards and recommended practises.
+159.
+Planning and priority of maintenance .-(1) An overall plan shall be prepared for conduct of maintenance programme and
+corrective maintenance activities.
+(2)
+There shall exist criteria for giving priority with associated time-limits for the conduct of the individual maintenance
+activities.
+160.
+Maintenance effectiveness .-(1) The effectiveness of maintenance shall be evaluated systematically on the basis of
+recorded data for performance and technical condition in respect of facilities and parts thereof.
+(2)
+The evaluation shall be used for a continual improvement of the maintenance programme.
+Chapter XVIII
+Specific Operations
+161.
+Work on and operation of electrical systems .-(1) The licensee, the lessee, or as the case may be, the operator shall
+Page 34/42
+----- PAGE 35 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+ensure that electrical systems are designed in accordance with rule 105.
+(2)
+The operator shall ensure that during work on live electrical systems, work near installations connected to an electrical
+power source, work in or close to earthed and short-circuited installations and during operation of low and high voltage
+installations, necessary actions including issue of work permit are taken to ensure that those who carry out the work, are
+not injured, and that the probability of situations of hazard and accident is reduced.
+(3)
+The operator shall designate a competent person to be responsible for the electrical systems of an installation.
+162.
+Lifting operations .-(1) The licensee, the lessee, or as the case may be, the operator shall ensure that lifting operations
+are cleared with respect to safety, and conducted in a safe manner and it shall be ensured,  inter alia , that personnel do
+not come under suspended loads.
+(2)
+Lifting equipment and lifting gears shall be periodically inspected, tested and certified.
+(3)
+Everyone participating in lifting operations, shall have access to radio facility and the radio shall be used unless
+everyone involved can communicate clearly with each other by direct speech.
+(4)
+It shall be ensured that all communication takes place in a clear and unambiguous way and without disturbance.
+(5)
+It shall be also ensured that transfer of personnel by means of lifting appliance shall be carried out in accordance with
+laid down safety procedures and under supervision of competent person.
+163.
+Underwater operations .-(1) Operator shall ensure that management of underwater operations is coordinated with the
+safety management system for the installation, in such a manner that the probability of mistakes that can result in
+situations of hazard and accident is avoided.
+(2)
+The licensee, the lessee, or as the case may be, the operator shall ensure that-
+(a)
+diving safety management system is based on relevant international recognized standards and guidelines and inter alia
+includes design, inspection, maintenance and testing of diving plant and equipment, training of diving personnel, hazard
+analysis including collision avoidance, safe practices manual and operational procedures during various stages of
+diving.
+(b)
+the emergency procedures for defined situations of hazard and accident including lost bell, trapped divers is established.
+164.
+Operations involving hydrogen sulphide .-The licensee, the lessee, or as the case may be, the operator shall ensure that
+all necessary precautions and measures are taken to protect the personnel from the toxic effects of hydrogen sulphide
+and to mitigate the damage to environment caused by hydrogen sulphide.
+Chapter XIX
+Marine Facilities And Operations
+165.
+Stability .-(1) The licensee, the lessee, or as the case may be, the operator shall ensure that floating facilities are in
+accordance with the requirements contained in the applicable standards concerning stability, water tightness and
+watertight and weather tight closing means on mobile offshore units.
+(2)
+There shall be weight control systems on floating facilities, which shall ensure that weight, weight distribution and centre
+of gravity are within the design assumptions and equipment and structural parts shall be secured against displacements
+that can affect stability.
+166.
+Anchoring, mooring and positioning .-(1) Floating facilities shall have systems to enable them to maintain their position
+Page 35/42
+----- PAGE 36 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+at all times and, if necessary, be able to move away from the position in the event of a situation of hazard and accident.
+(2)
+Dynamic positioning systems shall be designed in such a manner that the position can be maintained in the event of
+defined failures and damage to the system and in case of accidents.
+(3)
+During conduct of marine operations, the necessary actions shall be taken in such a manner that the probability of
+situations of hazard and accident is avoided and those who take part in the operations, are not injured.
+(4)
+Requirements shall be set to maintaining position in respect of vessels and facilities during implementation of such
+operations, and criteria shall be set for start up and suspension of activities.
+167.
+Collision risk management .-(1) The Offshore Installation Manager shall be the overall authority for safe operations
+within the safety zone of installation.
+(2)
+The licensee, the lessee, or as the case may be, the operator shall ensure that a collision risk management system is
+implemented and maintained wherein following shall be  inter alia included-
+(a)
+suitability of attendant vessels and off take tankers and competence of their crew;
+(b)
+assessment of probability of collision peculiar to the installation and it's location;
+(c)
+provision of necessary risk reduction and control measures;
+(d)
+appropriate procedures and communications for managing operations of attendant vessels developed jointly with marine
+services providers;
+(e)
+provision of appropriate equipment and procedures for detecting and assessing the actions of vessels intruding into the
+safety zone;
+(f)
+provision of competent installation personnel with an appropriate level of marine knowledge;
+(g)
+provision of appropriate evacuation and rescue procedures and facilities; and
+(h)
+regular audit and updating of the above systems.
+168.
+Control in the safety zone .-(1) The master of the attendant vessel or off take tanker shall comply with instructions of the
+Offshore Installation Manager when in a safety zone.
+(2)
+The master of the attendant vessel or off take tanker shall be responsible for safety of his crew, the safe operation of
+attendant vessel or off take tanker and for avoiding collision with the installation or associated facilities.
+169.
+Operations in rough weather conditions .-(1) The operator shall ensure safe working in adverse weather and tidal
+conditions and identify the rough weather conditions when the operations are to be discontinued and evacuations
+carried out, as required.
+(2)
+The operator shall ensure that transfer of personnel and cargo between the vessel and installation is carried out under
+safe weather conditions and such transfers should be stopped during adverse or unsuitable weather conditions.
+170.
+Cargo management .-The operator shall ensure optimization of cargo trips, from and to the shore, and cargo handling
+time at installation by efficient planning of cargo supplies through containerization, pre-slinging of cargo, etc.
+Chapter XX
+Page 36/42
+----- PAGE 37 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+Miscellaneous
+171.
+General duty for safety .-(1) The employee shall not negligently or willfully indulge in any activity which may be
+detrimental to health, safety and environment.
+(2)
+The employee shall not negligently or willfully omit to perform his duty which is necessary to safeguard health, safety
+and environment.
+172.
+Place of accident not to be disturbed .-(1) Whenever there occurs in an offshore installation, an accident causing loss of
+life or serious bodily injury to any person, the operator shall ensure that the place of accident is not disturbed or altered
+without the consent of the competent authority unless such disturbance or alteration is necessary to prevent any further
+accident, to remove bodies of the deceased or to rescue any person from danger, or unless discontinuation of the work
+at the place of accident would seriously impede the working of the installation.
+(2)
+Before the place of accident involving a fatal or serious accident is disturbed or altered due to any reason whatsoever, a
+sketch or photo or any other evidences available of the site illustrating the accident and all relevant details shall be
+prepared and kept available for use during investigation of the accident.
+(3)
+A copy of the authenticated sketch shall be submitted to the competent authority along with the notices in Form 2 and
+Form 3 referred to in rule 11 notifying the accident.
+173.
+Penalty for contravention of the rules .-Whoever fails to comply with or contravenes any of the provisions of these rules
+or any direction or order issued by the competent authority under these rules, shall, in respect of such failure or
+contravention, be punished in accordance with the relevant provisions of the Act.
+174.
+Direction .-The Central Government may, by notification in the Official Gazette, direct that any of the powers exercisable
+by it under these rules, shall be exercised, subject to such general or special conditions, if any, as may be specified
+therein by such authority or officer as may be specified in the direction.
+I
+(See rule 13)
+Particulars to be included in design intimation for fixed offshore installation.
+1. The name and address of the operator :
+2. Name and address of the licensee  or lessee :
+3. Confirmation that all the relevant provisions  mentioned in the rules have been considered in the design :
+4. A  description of :
+(a)
+the design concept, including suitable diagrams.
+(b)
+how the chosen design concept will ensure that risks with the potential to cause a major accident are reduced to the
+lowest level that is reasonably practicable.
+5. A general description of :
+(a)
+the principal systems on the installation including systems for monitoring and control of hazardous situations.
+(b)
+the installation layout.
+(c)
+the principal features (including major accident prevention) of pipelines, if any, to be connected to the installation.
+(d)
+any hydrocarbon bearing reservoir intended to be exploited using the installation.
+6. Particulars of the types of operation, and activities in connection with each operation, which the installation is planning
+to perform.
+Page 37/42
+----- PAGE 38 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+7. A general description of the means by which the management system of the operator will ensure that the structure
+and plant of the installation will be designed, selected, constructed, commissioned, operated and decommissioned in a
+way which will reduce any risk of a major accident to the lowest level that is reasonably practicable.
+II
+(See rule 14)
+Particulars to be included in application for consent for operation of new fixed offshore installation.
+1. The name and address of the operator :
+2. Name and address of the  licensee  or lessee :
+3. A description of the extent to which the operator has taken into account any matters raised by  the competent
+authority on design intimation for fixed offshore installation :
+4. Confirmation that all the relevant  provisions mentioned in the rules have been complied with :
+5. Confirmation that environmental clearances and other statutory clearances have  been obtained/applied for, to the
+relevant authorities :
+6. Copy of the safety management system document :
+7. A general description, with suitable diagrams, of :
+(a)
+the structure of the installation and its materials.
+(b)
+the plant including the layout and configuration and systems for monitoring and control of hazardous situations.
+(c)
+the connections to any pipeline or installation.
+(d)
+any wells to be connected to the installation.
+8. Particulars of the types of operation, and activities in connection with each operation, which the installation is to be
+capable of performing.
+9. The maximum number of persons -
+(a)
+expected to be on the installation at any time, and
+(b)
+for whom accommodation is to be provided.
+10. A description of (as applicable) :
+(a)
+plant and arrangement for control of well operations (including pressure control and prevention of uncontrolled release).
+(b)
+major accident prevention measures for pipelines, to be connected to the installation.
+11. Description of the life saving appliances and fire fighting arrangement.
+12. Detail description of emergency response plans (covering all identified major hazards), pursuant to the rules under
+Chapter X on emergency response system.
+13. Particulars of any combined operations which may involve the installation, including summary of the arrangements in
+place for co-ordinating the safety management systems and joint review of the safety aspects by the operator and  other
+participants, involved in combined operations.
+III
+(See rule 15)
+Particulars to be included in application for consent for existing fixed offshore installation.
+1. The name and address of the operator :
+2. Name and address of the  licensee  or lessee :
+3. The list of the relevant rules, which are not complied with :
+4. Time bound action plan to comply with the rules, as per item 3 :
+5. The rules, as per item 3, which the operator considers infeasible to be complied with, along with detail
+justification/reasoning, including suggested alternatives/control measures :
+6. Confirmation that environmental  clearances and other statutory clearances have been obtained from the relevant
+Page 38/42
+----- PAGE 39 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+authorities :
+7. Copy of the safety management system document :
+8. A general description, with suitable diagrams, of :
+(a)
+its plant including the layout and configuration and systems for monitoring and control of hazardous situations.
+(b)
+the connections to any pipeline or installation.
+(c)
+any wells connected to the installation.
+9. Particulars of the types of operation, and activities in connection with each operation, which the installation is  capable
+of performing.
+10. The maximum number of persons -
+(a)
+on the installation at any time, and
+(b)
+for whom accommodation is  provided
+11. A description of (as applicable) :
+(a)
+plant and arrangement for control of well operations (including pressure control and prevention of uncontrolled release).
+(b)
+major accident prevention measures for pipelines, connected to the installation.
+12. Description of the life saving appliances and fire fighting arrangement :
+13. Detail description of emergency response plans (covering all identified major hazards), pursuant to the rules under
+Chapter X on emergency response system :
+14. Particulars of any combined operations which may involve the installation, including summary of the arrangements in
+place for co-ordinating the safety management systems and joint review of the safety aspects by the operator and  other
+participants, involved in combined operations :
+IV
+(See rule 16)
+Particulars to be included in application for consent for mobile offshore installation.
+1. The name and address of the operator :
+2. Name and address of the  licensee  or lessee :
+3. Confirmation that all the relevant provisions  mentioned in the rules have been complied with :
+4. Copy of the safety management system document :
+5. A general description, with suitable diagrams, of :
+(a)
+the structure of the installation and its materials.
+(b)
+its plant including the layout and configuration and systems for     monitoring and control of hazardous situations.
+(c)
+the connections to any pipeline or installation.
+(d)
+any wells to be connected to the installation.
+6. Particulars of the types of operation, and activities in connection with each operation, which the installation is to be
+capable of performing.
+7. The maximum number of persons -
+(a)
+expected to be on the installation at any time, and
+(b)
+for whom accommodation is to be provided
+8. A description of (as applicable) :
+Page 39/42
+----- PAGE 40 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+(a)
+plant and arrangement for control of well operations (including pressure control and prevention of uncontrolled release).
+(b)
+major accident prevention measures for pipelines, to be connected to the installation.
+9. Description of the life saving appliances and fire fighting arrangement.
+10. Detail description of  emergency response plans (covering all identified major hazards), pursuant to the rules under
+Chapter X on emergency response system.
+11. Particulars of any combined operations which may involve the installation, including summary of the arrangements in
+place for co-ordinating the safety management systems and joint review of the safety aspects by the operator and  other
+participants, involved in combined operations.
+V
+(See rule 17)
+Particulars to be included in application for consent for already operating mobile offshore installation.
+1. The name and address of the operator :
+2. Name and address of the  licensee  or lessee :
+3. The list of the relevant rules, which are not complied with :
+4. Time bound action plan to comply with the rules, as per item 3 :
+5. The rules, as per item 3, which the operator considers infeasible to be complied with, along with detail
+justification/reasoning, including suggested alternatives/ control measures.
+6. Copy of the safety management system document.
+7. A general description, with suitable diagrams, of :
+(a)
+its plant including the layout and configuration and systems for monitoring and control of hazardous situations.
+(b)
+the connections to any pipeline or installation.
+(c)
+any wells connected to the installation.
+8. Particulars of the types of operation, and activities in connection with each operation, which the installation is capable
+of performing.
+9. The maximum number of persons -
+(a)
+on the installation at any time, and
+(b)
+for whom accommodation is provided
+10. A description of (as applicable) :
+(a)
+plant and arrangement for control of well operations (including pressure control and prevention of uncontrolled release).
+(b)
+major accident prevention measures for pipelines, connected to the installation.
+11. Description of the life saving appliances and fire fighting arrangement.
+12. Detail description of emergency response plans (covering all identified major hazards), pursuant to the rules under
+Chapter X on emergency response system.
+13. Particulars of any combined operations which may involve the installation, including summary of the arrangements in
+place for co-ordinating the safety management systems and joint review of the safety aspects by the operator and other
+participants, involved in combined operations.
+VI
+(See rule 19)
+Particulars to be included in a relocation intimation for production offshore installation
+1. The name and address of the operator :
+2. Name and address of the  licensee  or lessee :
+3. Changes, if any, in the types of operation, and activities in connection with an operation, at the existing and the new
+Page 40/42
+----- PAGE 41 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+location of the installation.
+4. Explanation of why the operator considers the installation suitable for the new location.
+FORM 1
+INTIMATION CONCERNING OFFSHORE INSTALLATION
+(See rule 9 )
+1. Name and address of the operator :
+2. Name and location of offshore installation : (longitude/latitude)
+3. Name of licensed or leased area in which : installation is being or to be used
+4. Type of installation (fixed or mobile) :
+5. Type of operations (drilling or production or work-over or others) :
+6. Date of commencement of operations
+(i)
+Existing installations
+(a)
+Mobile Date of entry in relevant waters :
+(b)
+Fixed Date of commencement of operations :
+(ii)
+New installations
+(a)
+Mobile Date of intended entry in relevant waters :
+(b)
+Fixed Date of intended commencement of operations :
+7. Date of cessation of operations
+(a)
+Mobile Date of intended departure from relevant waters :
+(b)
+Fixed Intended date of cessation of operations :
+for which the installation was set-up
+8. Any other information.
+Signature ...................................
+Name .......................................
+Designation ..............................
+Date .........................................
+FORM 2
+NOTICE OF ACCIDENT
+(See rule 11)
+Accident Information
+Name of Operator:
+Date of accident :
+Time :
+Hrs.
+Accident Location :
+Type of Accident:
+Operation at the time of Accident :
+Field Name
+Block No.
+Name of Installation
+Brief details of Accident:
+Immediate action taken:
+(Tick those applicable)
+Page 41/42
+----- PAGE 42 -----
+The Petroleum And Natural Gas (Safety In Offshore Operations) Rules, 2008
+No. of persons injured/deceased:......................(fill in separate from for each injured/deceased person)
+Name of injured/deceased person (first/middle/last):
+Age (in yrs):     Experience (in line/with operator):   Yrs/yrs
+Occupation:
+Employer (tick one) Operator Contractor Shift Information (tick one) Contractor's name: morn.eve.night gen.
+Type of injury : Injured part of body : Injury severity level (tick one) high/medium-high/medium/medium-low/low
+Sequence leading to injury:
+Absence of injured person from duty-No. of days hours Dangerous Occurence
+(Type of dangerous occurrence) :
+Property Damage
+(Type of Machinary/Equipment) :
+Cost of Damage (Rs.) :
+Percentage of damage to Installation Cost (%)
+Other information as applicable (Please tick mark)
+Sketch Photo Preliminary Enquiry Report Withness
+Accident Analysis (applicable for quarterly reporting)
+Immediate cause:
+Basic cause:
+Suggested corrective action:
+Review date for corrective action:
+Near miss Incident (applicable for quarterly reporting)
+Brief details of near miss incident:
+Suggested corrective action:
+Date and place:
+Signature, name and designation:
+FORM 3
+NOTICE CONCERNING PERSON SUCCUMBING TO INJURIES
+(See rule 11)
+1. Name  of the operator :
+2. Name  of the offshore installation :
+3. Particulars of fatality
+(i)
+Date and time of  accident :
+(ii)
+Date of submission of notice in Form 2 (enclose copy) :
+(iii)
+Date and time of  death :
+(iv)
+Brief description of circumstances leading to death :
+Signature ......................................
+Name ............................................
+Designation ..................................
+Date...............................................
+Related AI tags, queries and research notes
+Translation
+Page 42/42

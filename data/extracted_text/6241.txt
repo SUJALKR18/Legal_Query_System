@@ -1,0 +1,143 @@
+
+----- PAGE 1 -----
+Rajasthan Cyber Cafe Rules, 2007
+Rajasthan Cyber Cafe Rules, 2007
+Source: https://indiankanoon.org/doc/181015518/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+State of Rajasthan - Act
+Rajasthan Cyber Cafe Rules, 2007
+RAJASTHAN
+India
+Rajasthan Cyber Cafe Rules, 2007
+Rule RAJASTHAN-CYBER-CAFE-RULES-2007 of 2007
+Published on 18 April 2007
+Commenced on 18 April 2007
+[This is the version of this document from 18 April 2007.]
+[Note: The original publication document is not available and this content could not be verified.]
+Rajasthan Cyber Cafe Rules, 2007
+Published vide Notification No. G.S.R. 6, dated 18.4.2007
+Last Updated 20th May, 2019
+G.S.R. 6. - In exercise of the powers conferred by section 90 of the Information Technology Act, 2000 (Central Act
+No. 21 of 2000
+), the State Government hereby makes the following rules; namely:-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Rajasthan Cyber Cafe Rules, 2007.
+(2)
+Page 1/3
+----- PAGE 2 -----
+Rajasthan Cyber Cafe Rules, 2007
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+- In these rules, unless the context otherwise requires;
+(a)
+"Act" means the Information Technology Act, 2000 (Central Act
+No. 21 of 2000
+);
+(b)
+"Log Register" means the Register maintained by the Cyber Cafe Owner/Network Service Provider for using the Cyber
+Cafe or Network Services;
+(c)
+"User" Means a person who uses the Computer in a Cyber , Cafe;
+(d)
+"Cyber Cafe" means premises where the Cyber Cafe Owner/Network Service Provider provides the computer services
+including Internet access to the public in any of its forms, either on payment or free of charge for any purpose including
+recreation or amusement; and
+(e)
+"Police Authority" mean the Police officer? not below the rank of Deputy Superintendent of Police.
+3.
+Responsibilities of the Cyber Cafe Owners.
+(1)
+The owner of the Cyber cafe shall take sufficient precaution so that computers and computer systems in the Cyber Cafe
+are not used for any illegal or criminal activity.
+(2)
+Cyber Cafe Owner/Network Service Provider shall not allow any User to use his Computer, Computer System and /or
+Computer Network without the identity of the User being established before him. The intending user may establish his
+identity by producing any Photo Identity Card Issued by any school or College or a Photo Credit Card of any bank or
+Passport or Voters Identity Card or PAN Card issued by Income-Tax authorities or Photo Identity Card issued by the
+Employer or Driving License to the satisfaction of Cyber Cafe Owner.
+(3)
+After the identity of the User is established, the owner of the Cyber Cafe or the manager or the attendant or on his behalf
+any authorized person managing the Cyber Cafe shall obtain and maintain the following information in the Log Register
+for each user:
+(i)
+Name of the User
+(ii)
+Age and Sex of the User
+(iii)
+Proof of Identity Produced and its details/Number
+(iv)
+Present residential address of the User
+(v)
+IP address of the computer used
+(vi)
+Name of Network service provider
+(vii)
+Log in time
+(viii)
+Log out time
+(ix)
+Page 2/3
+----- PAGE 3 -----
+Rajasthan Cyber Cafe Rules, 2007
+Photograph of the user taken by Cyber Cafe Owner through Web Cam
+(x)
+Signature of User.
+(4)
+The Cyber Cafe Owner/Network Service Provider will keep on record the photo copy of the proof of identity.
+(5)
+All the computers in the Cyber cafe shall be equipped with the safety software so as to avoid access to the web sites
+relating to pornography, obscenity, terrorism and other objection able materials.
+(6)
+All time clocks in Cyber Cafes must be regularly checked and synchronized with Indian Standard Time (1ST).
+(7)
+Maintaining proper account of the User as explained shall be the responsibility of the Cyber Cafe Owner/Network
+Service Provider.
+(8)
+Log Register and the Photograph of the User shall be maintained by the Cyber Cafe Owner/Network Service Provider
+for a minimum period of One Year and shall be provided to Law enforcement agencies as and when required.
+(9)
+The Cyber Cafe owner shall be responsible for storing and maintaining backup of following logs for at least six months:
+(A)
+Proxy logs
+(B)
+Any other logs created by network software, if any.
+(10)
+If any activity of the Visitor/user is of suspicious nature, the owner of the Cyber Cafe shall immediately inform the
+nearest Police Station.
+4.
+Inspection of Cyber Cafes.
+(1)
+Police authorities may inspect Cyber Cafes at all reasonable time to ensure compliance of these rules.
+(2)
+If any Cyber Cafe Owner/Network Service Provider fail to maintain the Log register and records, he shall be liable for
+penalties as provided in the Act or any other Law, for the lime being in force.
+Related AI tags, queries and research notes
+Translation
+Page 3/3

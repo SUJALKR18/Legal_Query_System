@@ -1,0 +1,1801 @@
+
+----- PAGE 1 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+The Insurance Regulatory And Development Authority (Actuarial
+Report And Abstract) Regulations, 2000
+Source: https://indiankanoon.org/doc/116382702/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+UNION OF INDIA
+India
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Rule
+THE-INSURANCE-REGULATORY-AND-DEVELOPMENT-AUTHORITY-ACTUARIAL-REPORT-AND-ABSTRACT-REG
+ULATIONS-2000 of 2000
+Published on 14 July 2000
+Commenced on 14 July 2000
+[This is the version of this document from 14 July 2000.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Published vide Notification No. IRDA/7/2000, dated 14.7.2000, published in the Gazette of India, Extraordinary, Part 3,
+Section 4, dated 19.7.2000.
+14.
+/660
+F.No. IRDA/7/2000, dated 14th July, 2000. - In exercise of the powers conferred by clause (g) of sub-section (2) of
+section 114-A of the Insurance Act, 1938 (
+Page 1/34
+----- PAGE 2 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+4 of 1938
+), the Authority, in consultation with the Insurance Advisory Committee, hereby makes the following regulations,
+namely:-
+1.
+Short title and commencement
+.-(1) These regulations may be called The Insurance Regulatory and Development Authority (Actuarial Report and
+Abstract) Regulations, 2000.
+(2)
+They shall come into force from the date of their publication in the Official Gazette.
+2.
+Definitions
+.-(1) In these regulations, unless the context otherwise requires,-
+(a)
+"Act" means the Insurance Act, 1938 (
+4 of 1938
+);
+(b)
+"Authority" means the Insurance Regulatory and Development Authority established under sub-section (1) of section 3 of
+the Insurance Regulatory and Development Authority Act, 1999 (
+41 of 1999
+);
+(c)
+"extra premium" means a charge for any risk not provided for in the minimum contract premium;
+(d)
+"group business" means those insurance contracts which are group policies as mentioned under sub-section (2) of
+section 4 of the Act;
+(e)
+"guarantees" means the terms in regard to benefits or premiums or charges, which may not be altered during the
+currency of the policy;
+(f)
+"individual business" means individual insurance contracts issued on single/joint lives;
+(g)
+"inter valuation period" means, as respects any valuation, the period to the valuation date of that valuation from the
+valuation date of the preceding valuation in connection with which an abstract was prepared under the Act or under the
+enactments repealed by the Act, or, in a case where no such valuation has been made in respect of the class of
+business in question, from the date on which the insurer began to carry on that class of business;
+(h)
+"maturity date" means a fixed date on which benefit may become payable either absolutely or contingently;
+(i)
+"non-par policies" or "policies without participation in profits" means policies which are not entitled for any share in
+surplus (profits) during the terms of the policy;
+(j)
+"office yearly premium" means regular premium (excluding extra premiums which are required to be shown separately)
+payable by the policy-holder to secure the basic benefits under the policy in a policy year;
+(k)
+"options" means the rights available to a policy-holder under a policy;
+(l)
+"par policies" or "policies with participation in profits" means policies which are not non-par policies as defined under
+clause (i);
+(m)
+"policies with deferred participation in profits" means policies entitled for participation in profits after a certain period from
+Page 2/34
+----- PAGE 3 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+the date of commencement of the policy;
+(n)
+"premium term" means the period during which premiums are payable;
+(o)
+"riders" or "rider benefits" means add-on benefits, which are in addition to basic benefits under a policy;
+(p)
+"valuation date" means as respects any valuation the date as at which the valuation is made;
+(q)
+all words and expressions used herein and not defined but defined in the Insurance Act, 1938 (
+4 of 1938
+), or in the Insurance Regulatory and Development Authority Act, 1999 (
+41 of 1999
+), or in any rules or regulations made thereunder shall have the meanings respectively assigned to them in those Acts or
+rules or regulations.
+3.
+Procedure for preparation of actuarial report and abstract
+.-(1) The abstract and statements must be so arranged that the number and letters of the paragraphs correspond with
+regulation 4.
+(2)
+The abstracts and statements shall be furnished to the authority, within nine months from the end of the period to which
+they refer to, in accordance with sub-section (1) of section 15 of the Act.
+(3)
+Four copies of the abstracts and statements shall be furnished to the authority in accordance with sub-section (1) of
+section 15 of the Act, and one of the four copies so furnished shall be signed by the persons as mentioned in
+sub-section (2) of section 15 of the Act.
+(4)
+There shall be appended to every such abstract and statement-
+(a)
+a certificate signed by the principal officer that full and accurate particulars of every policy under which there is a liability,
+either actual or contingent, has been furnished to the appointed actuary for the investigation; and
+(b)
+a certificate signed by the appointed actuary with his remarks, if any, to the effect that-
+(i)
+the data furnished by the principal officer has been included in conducting the valuation of liabilities for the purpose of
+investigation;
+(ii)
+reasonable steps have been taken to ensure the accuracy and completeness of the data;
+(iii)
+he has complied with provisions of the Act;
+(iv)
+he has complied with guidance notes issued by the Actuarial Society of India with the concurrence of the authority;
+(v)
+in his opinion, the mathematical reserves are adequate to meet the insurer's future commitments under the contracts,
+and the policy-holders' reasonable expectations.
+4.
+Requirements applicable to abstract and statements
+.-(1) Abstracts and statements shall be prepared separately in respect of-
+(a)
+Linked Business;
+(b)
+Non-Linked Business; and
+Page 3/34
+----- PAGE 4 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(c)
+Health Insurance Business.
+(2)
+An insurer shall prepare the following statements which shall be annexed to the abstract prepared in accordance with
+these regulations, namely:-
+(a)
+in respect of Linked Business,-
+(i)
+Form LB-1;
+(ii)
+Form LB-2;
+(iii)
+Form LB-3;
+(iv)
+Form LB-4;
+(v)
+Form IA;
+(b)
+in respect of Non-Linked Business,-
+(i)
+Form NLB-1;
+(ii)
+Form NLB-2;
+(iii)
+Form DD;
+(iv)
+Form DDD;
+(v)
+Form DDDD;
+(vi)
+Form IA;
+(c)
+in respect of Health Insurance Business,-
+(i)
+Form LB-1;
+(ii)
+Form LB-2;
+(iii)
+Form LB-3;
+(iv)
+Form NLB-1;
+(v)
+Form IA
+(d)
+Summary statements,-
+(i)
+Form K;
+(ii)
+Form IRDA-AA as specified under regulation 4 of Insurance Regulatory and Development Authority (Assets, Liabilities,
+and Solvency Margin of Insurers) Regulations, 2000;
+(iii)
+Page 4/34
+----- PAGE 5 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Form H;
+(iv)
+Form I;
+(v)
+Statement of Composition and Distribution of surplus in respect of policy-holders'fund as specified under regulation 8.
+(3)
+Each Abstract shall show-
+(a)
+The Valuation Date .-The date on which valuation (investigation) is done;
+(b)
+New Products .-A brief description of new products introduced during the inter-valuation period giving salient features;
+(c)
+Foreign Operations .-A brief description of the foreign operations of the insurer, during the inter-valuation period;
+(d)
+Valuation Method .-A brief description of-
+(i)
+the methods adopted in the determination of mathematical reserves in respect of insurance products;
+(ii)
+the method by which age at entry, premium term, maturity date, valuation age, period from the valuation date to the
+maturity date, have been treated for the purpose of valuation;
+(iii)
+the method of allowing for-
+(I)
+incidence of premium income; and
+(II)
+premiums payable otherwise than annually;
+(e)
+Valuation Bases .-(i) Valuation parameters used in the valuation shall be furnished in the manner as specified in the
+table hereunder:-
+Description
+Mortality basis used
+Morbidity basis used
+Inflation rate
+Interest rate
+Expenses
+Future bonuses, if any
+Others, please specify
+Remarks
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(a) Insurance Product
+(i)Regular premium
+(ii)Single premium and fully paid up
+(iii)Reduced paid up
+Page 5/34
+----- PAGE 6 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(b) Insurance Product
+(i)Regular premium
+(ii) Single premium and fully paid up
+(iii)Reduced paid up
+(ii)
+Expenses related to premiums, sum assured, annuity, etc., and per policy shall be specified separately under column (5)
+of the table;
+(iii)
+Items such as terminal bonus, in case of with profit contracts, management charges, etc., in respect of linked business,
+shall be specified under column (8) of the table;
+(f)
+Other Adjustments (Provisions).-The methods by which provision, if any, has been made for the following matters,
+including a statement of bases wherever necessary:-
+(i)
+Policies in respect of which extra premiums have been charged on account of underwriting of under-average lives that
+are subject to extra risks such as occupation hazard, over-weight, under-weight, smoking history, health, climatic or
+geographical conditions;
+(ii)
+Lapsed policies not included in the valuation but under which a liability exists or may arise;
+(iii)
+Options available under individual and group insurance policies;
+(iv)
+Guarantees available to individual and group insurance policies;
+(v)
+The rates of exchange at which benefits in respect of policies issued in foreign currencies have been converted into
+Indian Rupees and what provision has been made for possible increase of mathematical reserves arising from future
+variations in rates of exchange;
+(g)
+Further Information .-The following information shall be appended:-
+(i)
+Returns on assets as specified under regulation 5;
+(ii)
+Distribution of surplus as specified under regulation 6;
+(iii)
+Principles adopted in distribution of surplus as specified under regulation 7;
+(iv)
+Negative reserves of guaranteed surrender value deficiency reserves as specified under regulation 9;
+(v)
+Miscellaneous, if any.
+5.
+Returns on assets
+.-(1) The average gross rates of interest yielded by the assets may be determined expressing the investment income as
+percentage of the mean fund. [ i = 2xI/(A+B-I); where  i is the gross yield; I = Investment Income; A = the assets at the
+beginning of the financial year, and B = the assets at the end of the financial year; Investment Income (shown in the
+Revenue Account) should include the amount of the unrealised gain taken into revenue account, A and B have to be
+adjusted value of assets shown in the Balance Sheet.
+(2)
+The average gross rates of interest, referred to under sub-regulation (1), shall be furnished for each fund maintained by
+an insurer.
+6.
+Distribution of surplus
+Page 6/34
+----- PAGE 7 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+.-The basis adopted in the distribution of surplus as between the share-holders and the policy-holders, and whether such
+distribution was determined by the instruments constituting the company, or by its regulations or by-laws or how
+otherwise shall be mentioned.
+7.
+Principles adopted in distribution of profits
+.-The general principles adopted in distribution of profits among policy-holders including statements on following points,
+shall be furnished:-
+(i)
+Whether the principles were determined by instruments constituting the insurer, or by its regulations or bye-laws or how
+otherwise;
+(ii)
+The number of years premium to be paid, period to elapse and other conditions to be fulfilled before a bonus is allotted;
+(iii)
+Whether the bonus is allocated in respect of each year's premium paid, or in respect of each calendar year or year of
+assurance or how otherwise; and
+(iv)
+Whether the bonus vests immediately on allocation, or, if not, conditions of vesting.
+8.
+Statement of composition of surplus and distribution of surplus in respect of policy-holders' funds
+.-(1) A statement showing total amount of surplus arising during the inter-valuation period, and the allocation of such
+surplus, shall be furnished separately for participating business and for non-participating business, with the particulars
+as mentioned below:-
+Composition of surplus:
+(a)
+Surplus shown under Form I;
+(b)
+Interim bonuses paid during the inter-valuation period;
+(c)
+Terminal bonuses paid during the inter-valuation period;
+(d)
+Loyalty additions or other forms of bonuses, if any, paid during the inter-valuation period;
+(e)
+Sum transferred from share-holders' funds during the inter-valuation period;
+(f)
+Amount of surplus, from policy-holders' funds, brought forward from preceding valuation;
+(g)
+Total surplus [total of the items (a) to (f).
+Distribution of surplus:
+Policy-holders' fund:
+(a)
+To interim bonuses paid;
+(b)
+To terminal bonuses;
+(c)
+To loyalty additions or any other forms of bonuses, if any;
+(d)
+Among policy-holders with immediate participation giving the number of policies which participated and the sums
+assured thereunder (excluding bonuses);
+(e)
+Among policy-holders with deferred participation, giving the number of policies which participated and the sums assured
+thereunder (excluding bonuses);
+Page 7/34
+----- PAGE 8 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(f)
+Among policy-holders in the discounted bonus class giving the number of policies which participated and the sums
+assured thereunder (excluding bonuses);
+(g)
+To every reserve fund or other fund or account (any such sums passed through the accounts during the inter-valuation
+period to be separately stated);
+(h)
+As carried forward un-appropriated; Share-holders' fund:
+(i)
+To the share-holders' funds (any such sums passed through the accounts during the inter-valuation period to be
+separately stated);
+Totals:
+(j)
+Total surplus allocated [total of the items (a) to (i).
+(2)
+Specimen of bonuses allotted to policies for one thousand rupees together with the amounts apportioned under the
+various manners in which the bonus is receivable, for each type of participating product, shall be furnished.
+9.
+Negative reserves and guaranteed surrender value deficiency reserves
+.-A brief description of treatment adopted for negative reserves and guaranteed surrender value deficiency reserves
+shall be furnished.
+10.
+Notes applicable to all forms
+.-(1) Each form mentioned under sub-regulation (2) of regulation 4 shall have the following description:-
+Classification;
+Category;
+Division;
+Sub-Class; and
+Group.
+(2)
+There shall be two classifications, namely, Business within India, and Total Business (consisting of Business within India
+and Business outside India), with Classification Codes 1 and 2 respectively.
+(3)
+There shall be three Categories namely, Linked Business, Non-linked Business and Health Insurance Business, with
+Category Codes 1, 2 and 3 respectively, under each Classification.
+(4)
+There shall be two Divisions, namely, Individual Business and Group Business, with Division Codes 1 and 2 respectively
+under Category Codes 1, 2 and 3.
+(5)
+There shall be three Sub-Classes, namely, Life Business, General Annuity, and Pension, with Sub-Class Codes 1, 2 and
+3 respectively, under Category Codes 1 and 2, and two Sub-Classes, namely, Linked Business, Non-Linked Business,
+with Sub-Class Codes 1 and 2 respectively, under Category Code 3.
+(6)
+There shall be four Groups under each Sub-Class, with Group Codes as specified under sub-regulation (7).
+(7)
+The details of Group Codes under each Category shall be as follows:-
+Group
+Code
+(a) Category
+Code 1?Linked Business.?Consisting of Insurance
+Products,?
+Page 8/34
+----- PAGE 9 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(1) in respect of
+Division Code 1?Individual Business, and under each
+Sub-Class Code?
+(i) with
+guarantees?with participation in profits:
+A;
+(ii) with no
+guarantees?with participation in profits:
+B;
+(iii) with
+guarantees?without participation in profits:
+C;
+(iv) with no
+guarantees?without participation in profits:
+D;
+(2) in respect of
+Division Code 2?Group Business, and under each Sub-Class
+Code?
+(i) with
+guarantees?with participation in profits:
+A;
+(ii) with no
+guarantees?with participation in profits:
+B;
+(iii) with
+guarantees?without participation in profits:
+C;
+(iv) with no
+guarantees?without participation in profits:
+D;
+(b) Category
+Code 2?Non-Linked Business.?Consisting of
+Insurance Products,?
+(1) in respect of
+Division Code 1?Individual Business,?
+(I) Sub-Class Code
+1?Sub-Class-Life Business,?
+(i) with
+participation in profits:
+A;
+(ii) with deferred
+participation in profits:
+B;
+(iii) under
+discounted Bonus system:
+C;
+(iv) without
+participation in profits:
+D;
+(II) Sub-Class
+Codes 2, 3?Sub-Class?General Annuity/Pension, as the
+Page 9/34
+----- PAGE 10 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+case may be,?
+(i) Immediate
+Annuities?with participation in profits:
+A;
+(ii) Immediate
+Annuities?without participation in profits:
+B;
+(iii) Deferred
+Annuities?with participation in profits:
+C;
+(iv) Deferred
+Annuities?without participation in profits:
+D;
+(2) in respect of
+Division Code 2?Group Business,?
+(I) Sub-Class Code
+1?Sub-Class?Life Business, where?
+(i) Premiums are
+guaranteed for not more than one year:?
+(a) with
+participation in profits:
+A;
+(b) without
+participation in profits;
+B;
+(ii) Premiums are
+guaranteed for more than one year:?
+(a) with
+participation in profits:
+C;
+(b) without
+participation in profits:
+D;
+(II) Sub-Class
+Codes 2, 3?Sub-Class?General Annuity/Pension, as the
+case may be,?
+(i) Immediate
+Annuities?with participation in profits:
+A;
+(ii) Immediate
+Annuities?without participation in profits:
+B;
+(iii) Deferred
+Annuities?with participation in profits:
+C;
+(iv) Deferred
+Annuities?without participation in profits:
+D;
+(c) Category
+Code 3?Health Insurance Business.?Consisting of
+Insurance Products,?
+Page 10/34
+----- PAGE 11 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(1) in respect of
+Division Code 1?Individual Business,?
+(I) Sub-Class Code
+1?Linked Business,?
+(i) with
+guarantees?with participation in profits:
+A;
+(ii) with no
+guarantees?with participation in profits:
+B;
+(iii) with
+guarantees?without participation in profits:
+C;
+(iv) with no
+guarantees?without participation in profits:
+D;
+(II) Sub-Class
+Code 2?Non-Linked Business,?
+(i) with
+participation in profits:
+A;
+(ii) with deferred
+participation in profits:
+B;
+(iii) under
+discounted Bonus system:
+C;
+(iv) without
+participation in profits:
+D;
+(2) in respect of
+Division Code 2?Group Business,?
+(I) Sub-Class Code
+3?Linked Business,?
+(i) with
+guarantees?with participation in profits:
+A;
+(ii) with no
+guarantees?with participation in profits:
+B;
+(iii) with
+guarantees?without participation in profits:
+C;
+(iv) with no
+guarantees?without participation in profits:
+D;
+(II) Sub-Class
+Code 4?Non-Linked Business,?
+(i) Premiums are
+guaranteed for not more than one year:?
+(a) with
+Page 11/34
+----- PAGE 12 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+participation in profits:
+A;
+(b) without
+participation in profits:
+B;
+(ii) Premiums are
+guaranteed for more than one year:?
+(a) with
+participation in profits:
+C;
+(b) without
+participation in profits:
+D;
+(8)
+"Nil" Statements shall be furnished for those Forms where the insurer has no transactions.
+(9)
+Information relating to insurance products shall be given in Forms in the following order of insurance products, wherever
+required:-
+Whole Life Assurances
+Endowment Assurances
+Anticipated Endowment Plans (Money Back Plans)
+Pure Endowments
+Double Endowments
+Term Insurance Contracts, and
+Others (specifying each).
+(10)
+All figures shall be furnished in thousands and all amounts shall be furnished in Indian rupees.
+(11)
+In respect of Group Business, "the number of policies" in Forms, wherever applicable, shall be read as "number of
+Schemes".
+(12)
+Rider benefits shall be furnished in Forms, wherever required, in the order of (a) accident Covers-double, triple, (b)
+Disability Covers, (c) Dread Disease Covers, and (d) Others (specifying each).
+(13)
+Other Adjustments, shall be furnished in Forms, wherever necessary, for instance, Provision for Deaths due to AIDS.
+Form DDDD
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Particulars Of Policies Forfeited Or Lapsed In The Last Year Under Review And Of Polices Revived And Reinstated For
+Full Benefits Classified According To The Year In Which They Were Issued-For The Year Ended 31st March, 20.....
+(Direct Business plus reinsurance accepted, if any)
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Page 12/34
+----- PAGE 13 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+New Business transacted during the year
+Total business in force at the end of the year
+Item No.
+Description
+Number of policies
+Number of lives
+Sums Assured
+Annuity p.a.
+Premium
+Single Premiums
+Number of policies
+Number of lives
+Sum Assured
+Annuity p.a.
+Vested Bonus
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+01
+Total Before Reinsurance:
+(a) Regular Premium Contracts;
+(b) Single Premium Contracts;
+(c) Other
+02
+Reinsurance ceded
+(a) Regular Premium Contracts;
+(b) Single Premium Contracts;
+(c) Other
+03
+Total After Reinsurance
+(a) Regular Premium Contracts;
+(b) Single Premium Contracts;
+(c) Other
+Notes To Form DD:
+1. All figures must be furnished in thousands.
+2. In respect of Group Business, number of group schemes shall be furnished under the column: "number of policies";
+3. "Premium" refers to Annualised Premium.
+Page 13/34
+----- PAGE 14 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+4. "Single Premium" includes consideration for immediate or deferred annuities and all other premiums paid at the outset
+of the contracts and no subsequent premium is payable.
+5. Col [Item (c)] - "Other" includes Paid up and Fully paid up contracts where no Premium is payable in future.
+Form DDD
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Additions To And Deletions From Policies For The Year Ended 31st March, 20....
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+Item No.
+Description
+No. of policies
+Sum Assured
+Annuity p.a.
+Reversionary bonus additions
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+01
+Policies at the beginning of the year
+Additions during the year:
+02
+New Policies issued
+03
+Old policies reinstated
+04
+Old Policies revived
+05
+Old policies changed and increased
+06
+Bonus additions allotted
+07
+Total(Sum of items 01 to 06)
+Deletions during the year|
+08
+By death
+Page 14/34
+----- PAGE 15 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+09
+By survivance or the happening of contingencies insured against other than death
+10
+By expiry of term under temporary insurance
+11
+By surrender of policy
+12
+By surrender of bonus
+13
+By forfeiture or lapse
+14
+By revivals of old polices
+15
+By change and decrease
+16
+By being not taken up
+17
+Total discontinued: (Sum of items 08 to 16)
+18
+Total existing at the end of the year: [(07) - (17)]
+Notes To Form DDD :
+1. All figures must be furnished in thousands.
+2. In respect of Group Business, number of group schemes shall be furnished under the column: "number of policies";
+3. All amounts stated shall be total gross amounts without taking into account of re-insurances ceded or accepted.
+Form DDDD
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Particulars Of Policies Forfeited Or Lapsed In The Last Year Under Review And Of Polices Revived And Reinstated For
+Full Benefits Classified According To The Year In Which They Were Issued-For The Year Ended 31st March, 20.....
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+Item No
+Year in which policies were issued
+Polices forfeited/lapsed
+Policies revived and reinstated for full benefits
+Number of polices
+Sum Assured
+Annuity p.a.
+Number of polices
+Page 15/34
+----- PAGE 16 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Sum Assured
+Annuity p.a.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+01
+Year ending -, being the year under review
+02
+Year ending -, being the year previous to that under review
+03
+Year ending -, being the year previous to that under review
+04
+Year ending -, being the year previous to that under review
+05
+Year ending -, being the year previous to that under review
+06
+Year ending -, being the year and earlier
+Notes to Form DDDD : -
+1. All figures must be furnished in thousands.
+2. All amounts stated shall be total gross amounts without taking into account of re-insurance ceded or accepted.
+3. For Col (2), for instance, valuation date is 31.3.2001. Item 01 should relate to the year ending on 31.3.2001. Item 02
+should relate to the year ending on 31.3.2000. Item 03 should relate to the year ending on 31.3.1999, and so on. Item 06
+should relate to the year ending on 31.3.1996 and earlier.
+Form NLB-1
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Particulars Of Policies And Valuation Details As At 31st March 20.....
+(Direct Business plus reinsurance accepted less reinsurance ceded)
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+Particulars Of PoliciesValuation Details
+Item No.
+Description
+Number of policies
+Page 16/34
+----- PAGE 17 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Number of lives
+Sums Assured
+Annuity p.a.
+Vested Bonuses
+Office Yearly Pre.
+Sum Assured
+Vested Bonuses
+Annuity p.a.
+Future expenses
+Future Bonuses
+Terminal Bonuses
+Cost of bonuses allocated
+Office Yearly Pre.
+Mathematical Reserves
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+01
+(a) Insurance Product:
+(i) Regular Premium
+(ii) Single premium
+(iii) Fully paid up
+(iv) Reduced Paid up
+(b) Insurance Product:
+(i) Regular Premium
+(ii) Single premium
+(iii) Fully paid up
+(iv) Reduced Paid up
+02
+Rider Benefits, specify
+03
+Other adjustments, specify
+04
+Total before Reinsurance
+05
+Reinsurance ceded
+06
+Page 17/34
+----- PAGE 18 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Total after Reinsurance
+Notes To Form NLB - 1:
+1. All figures should be in thousands.
+2. Col.(17)=Col.(9)+Col.(10)+Col.(11)+Col.(12)+Col.(13)+Col.(14)+Col.(15)-Col.(16).
+Form NLB-2
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000.
+Summary And Valuation Of Policies As At 31st March, 20.....
+(Direct Business plus reinsurance accepted, if any, less reinsurance ceded)
+Particulars of policiesValuation details
+Item No.
+Sub-Class
+Description
+Number of policies
+Number of lives
+Sums Assured
+Annuity p.a.
+Vested Bonuses
+Office Yearly Pre.
+Sum Assured
+Vested Bonuses
+Annuity p.a.
+Future expenses
+Future Bonuses
+Terminal Bonuses
+Cost of Bonuses allocated
+Office Yearly Pre.
+Mathematical Reserves
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+01
+Life Business
+INDIVIDUAL BUSINESS:
+Before Reinsurance
+02
+After Reinsurance
+Page 18/34
+----- PAGE 19 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+03
+General
+Before Reinsurance
+04
+Annuity
+After Reinsurance
+05
+Pension
+Before Reinsurance
+06
+After Reinsurance
+07
+Life Business
+GROUP BUSINESS:Premiums Guaranteed for not more than one year: Before Reinsurance
+08
+After Reinsurance
+09
+Premiums Guaranteed: for more than one year: Before Reinsurance
+10
+After Reinsurance
+11
+General
+Before Reinsurance
+12
+Annuity
+After Reinsurance
+13
+Pension
+Before Reinsurance
+14
+After Reinsurance
+15
+After Reinsurance
+16
+TOTALS
+Before Reinsurance
+17
+After Reinsurance
+Notes To Form NLB-2 :
+1. All figures should be in thousands.
+2. Col(17)=Col(9)+Col(10)+Col(11)+Col(12)+Col(13)+Col(14)+Col(15)-Col(16).
+Form LB-1
+(See regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Particulars Of Policies And Valuation Details As At 31st March, 20.....
+(Direct Business plus reinsurance accepted less reinsurance ceded)
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Page 19/34
+----- PAGE 20 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+Particulars of policesValuation details
+Benefits payable on death, maturity or otherwise
+Item No.
+DESCRIPTION
+Number of polices
+Number of lives
+On Death
+On Maturity
+Other than (5) and (6)
+Office yearly Pre.
+Unit Liabilities
+Non Unit Liabilities
+Cost of Bonuses allocated
+Mathematical Reserves
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+01
+(A) Insurance Product:
+(i) Regular Premium
+(ii) Single premium
+(iii) Fully paid up
+(iv) Reduced Paid up
+(B) Insurance Product:
+(i) Regular Premium
+(ii) Single premium
+(iii) Fully paid up
+(iv) Reduced Paid up
+02
+Rider Benefits, specify
+.......
+03
+Other adjustments, specify
+Page 20/34
+----- PAGE 21 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+04
+Total before Reinsurance
+05
+Deduct Reinsurance ceded
+06
+Total after Reinsurance
+Notes To Form LB-1:
+1. All figures should be in thousands ;
+2. Col. (12)=Col. (9)+Col. (10)+Col. (11)
+Form LB-4
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000.
+Summary And Valuation Of Policies As At 31st March, 20......
+(Direct Business plus reinsurance accepted less reinsurance ceded)
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+Particulars of policesValuation details
+Benefits payable on death, maturity or otherwise
+Item No.
+Sub-Class
+DESCRIPTION
+Number of polices
+Number of lives
+On death
+On maturity
+Other than (5) & (6)
+Office yearly pre.
+Unit liabilities
+Non-unit liabilities
+Cost of bonuses allocated
+Mathematical reserves
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+Page 21/34
+----- PAGE 22 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(9)
+(10)
+(11)
+(12)
+(13)
+01
+Life Business
+Individual Business With Guarantees:
+Before Reinsurance
+02
+After Reinsurance
+03
+Without Guarantees:
+Before Reinsurance
+04
+After Reinsurance
+05
+General annuity
+With Guarantees:
+Before Reinsurance
+06
+After Reinsurance
+07
+Without Guarantees:
+Before Reinsurance
+08
+After Reinsurance
+09
+Pension
+With Guarantees:
+Before Reinsurance
+10
+After Reinsurance
+11
+Without Guarantees:
+Before Reinsurance
+12
+After Reinsurance
+13
+Life Business
+Group Business With Guarantees:
+Before Reinsurance
+14
+After Reinsurance
+15
+Without Guarantees:
+Before Reinsurance
+16
+After Reinsurance
+17
+General annuity
+Page 22/34
+----- PAGE 23 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+With Guarantees:
+Before Reinsurance
+18
+After Reinsurance
+19
+Without Guarantees:
+Before Reinsurance
+20
+After Reinsurance
+21
+Pension
+With Guarantees:
+Before Reinsurance
+22
+After Reinsurance
+23
+Without Guarantees:
+Before Reinsurance
+24
+After Reinsurance
+Notes To Form LB-4 :
+Col (13)= Col (10)+Col (11)+Col (12).
+Form IA
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000
+Valuation Result As At 31st March, 20......
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Category:
+Category Code:
+Item No.
+Description
+Balance of fund shown in Balance Sheet
+Mathematical reserves including cost of bonuses allocated
+Surplus
+Negative Reserves
+Surrender Value Deficiency
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+01
+Business withinIndia: Par Polices
+02
+Non-par Polices
+03
+Page 23/34
+----- PAGE 24 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Totals
+04
+Total Business: Par Polices
+05
+Non-par polices
+06
+Totals
+Notes To Form IA:
+1. All figures should be in thousands.
+2. Col (5) = Col (3) - Col (4).
+Form LB-2
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000.
+Statement Of Net Asset Values For The Segregated Funds Maintained By The Insurer For Its Linked Business For The
+Financial Year Ended 31st March, 20....
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+Item No.
+Description
+Segregated Fund 1
+Segregated Fund 2
+Segregated Fund 3
+.....
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+01
+Fund brought forward from last year
+02
+Value of creation of units
+03
+Increase (decrease) in value of investments in the financial year
+04
+Other income
+Page 24/34
+----- PAGE 25 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+05
+Total income(Sum 01 to 04)
+06
+Value of cancellation of units
+07
+Management charges
+08
+Tax paid
+09
+Other expenditure
+10
+Increase (decrease) in provisions
+11
+Total expenditure(Sum 06 to10)
+12
+Fund carried forward
+13
+Total Number of Units:
+14
+Net Asset Value per Unit
+Notes To Form LB-2 :
+1. All items must be in thousands 7.
+2. Items under Col (3), Col (4), Col (5), Col (6) etc. must be brought forward from the annual accounts of the company.
+Form LB-3
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000.
+Statement Of Analysis Of Units In Segregated Funds As At 31st March, 20.....
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification Code:
+Category: Non-Linked Business
+Category Code:
+Division:
+Division Code:
+Sub-Class:
+Sub-Class Code:
+Group:
+Group Code:
+Item No.
+Description
+Segregated Fund 1
+Segregated Fund 2
+Segregated Fund 3
+.....
+Total
+(1)
+(2)
+(3)
+Page 25/34
+----- PAGE 26 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(4)
+(5)
+(6)
+(7)
+01
+(a) Insurance Product
+02
+(b)
+03
+(c)
+04
+05
+Total
+Form H
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000.
+Summary Of Valuation As At 31st March, 20.....
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of Registration
+Item No.
+Category of business
+Mathematical Reserves (inclusive of cost of bonuses allocated)
+(1)
+(2)
+(3)
+01
+Business WithinIndia:
+Linked Business
+02
+Non-Linked Business
+03
+Health Insurance Business
+04
+Total
+05
+Total Business:
+Linked Business
+06
+Non-Linked Business
+07
+Health Insurance Business
+08
+Total
+Notes To Form H:
+1. All figures should be in thousands.
+2. Mathematical reserves in Col (3) shall be furnished inclusive of cost of bonuses allocated
+Form I
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000.
+Page 26/34
+----- PAGE 27 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Valuation Results As At 31st March, 20....
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of Registration
+Item No
+Description
+Balance of Fund shown in Balance Sheet
+Mathematical reserves (excluding cost of bonuses allocated)
+Surplus
+Negative Reserves
+Surrender Value Deficiency Reserves
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+01
+Business withinIndia:
+Par Polices
+02
+Non-par Polices
+03
+Totals
+04
+Total Business:
+Par Polices
+05
+Non-par polices
+06
+Totals
+Notes To Form I:
+1. All figures should be in thousands.
+2. Col (5) = Col (3) - Col (4).
+Form K
+(See Regulation 4)
+Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulations, 2000.
+Statement Of Solvency Margins: Life Insurers
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification: Business Within India/Total Business
+Classification
+TABLE I- REQUIRED SOLVENCY MARGIN BASED ON MATHEMATICAL RESERVES AND SUM AT RISK
+Item No.
+Description
+Mathematical Reserves before Reinsurance
+Mathematical Reserves after Reinsurance
+Page 27/34
+----- PAGE 28 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+K1
+Sum at Risk before Reinsurance
+Sum at Risk after Reinsurance
+K2
+First Factor
+Second Factor
+Required Solvency Margin
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+01
+Category:  Non-Linked:
+Division-Individual
+Sub-Class-Life Business
+02
+Sub-Class-General Annuity
+03
+Sub-Class-pension
+04
+Division: Group Business:
+Sub-class: Life Business:
+(a) Premiums guaranteed for not more than one year
+05
+(b) Premiums guaranteed for more than one year
+06
+Sub-class: General Annuity
+07
+Sub-class: Pension
+Category: Linked:
+Division-Individual
+Sub-Class-Life Business
+08
+(a) With guarantees
+09
+(b) Without guarantees
+Sub-Class-General Annuity
+10
+(a) With guarantees
+11
+(b) Without guarantees
+Sub-Class-Pension
+12
+(a) With guarantees
+Page 28/34
+----- PAGE 29 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+13
+(b) Without guarantees
+14
+Division: Group Business:
+Sub-Class-Life Business
+(a) with guarantees
+15
+(b) Without guarantees
+16
+Sub-Class-General Annuity
+(a) with guarantees
+17
+(b) Without guarantees
+18
+Sub-Class-Pension
+(a) With guarantees
+19
+(b) Without guarantees
+20
+Category: Health Insurance
+Division-Individual
+Sub-Class-Linked
+(a) With guarantees
+21
+(b) Without guarantees
+22
+Sub-Class- Non-Linked
+23
+Division-Group Business
+Sub-class-Linked
+(a) With guarantees
+24
+(b) Without guarantees
+25
+Sub-class: Non-Linked
+(a) Premiums guaranteed for not more than one year
+26
+(b) Premiums guaranteed for more than one year
+27
+Total
+Notes To Form K:
+1. K1 = 0.85* or (Mathematical Reserves after Reinsurance/Mathematical Reserves before reinsurance), whichever is
+higher. [* 0.50 in case of reinsurers, carrying on life insurance-business];
+2. K2 = 0.5 or (Sum at Risk after reinsurance/Sum at risk before reinsurance), which ever is higher;
+3. Col.(11) = [Col.(3) x Col.(5) x Col. (9)] + [Col.(6) x Col.(8) x Col. (10)];
+4. In the computation of the total sum at risk, ignore the contracts for which the sum at risk is a negative figure or does
+not exist;
+5. Details of first and second factors:
+Item
+First Factor
+Second Factor
+Page 29/34
+----- PAGE 30 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Non-Linked Business:
+Individual Business:
+01: Life Business
+02: General Annuity
+03: Pension
+04: Health
+4%
+4%
+4%
+4%
+0.3%
+0%
+0%
+0%
+Group Business:
+Life : Premiums guaranteed for:
+05: not more than one year
+06: more than one year
+07: General Annuity 4
+08: Pension
+1%
+3%
+4%
+4%
+0.2%
+0.3%
+0%
+0%
+Linked Business:
+Individual Business:
+Life Business -
+09: With guarantees
+10: Without guarantees
+General Annuity
+-
+11: With guarantees
+12: Without Guarantees
+Pension -
+13: With guarantees
+14: Without Guarantees
+2%
+1%
+2%
+1%
+2%
+1%
+0.2%
+0.3%
+0%
+0%
+0%
+Page 30/34
+----- PAGE 31 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+0%
+Group Business:
+Life Business-
+15: With guarantees
+16: Without Guarantees
+General Annuity
+17: With guarantees
+18: Without Guarantees
+Pension
+19: With guarantees
+20: Without Guarantees
+2%
+1%
+2%
+1%
+2%
+1%
+0.3%
+0.2%
+0%
+0%
+0%
+0%
+Health Insurance
+Individual Business
+Linked business
+-
+21: With Guarantees
+22: Without Guarantees
+23: Non-Linked Business
+2%
+1%
+4%
+0%
+0%
+0%
+Group Business
+Linked-
+24: With Guarantees
+25: Without guarantees
+Non-Linked
+26: Premiums guarantees for not more than year
+27: Premiums guarantees for more than one year
+2%
+1%
+1%
+3%
+0%
+0%
+0%
+0%
+Page 31/34
+----- PAGE 32 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+TABLE II- REQUIRED SOLVENCY MARGIN BASED ON ASSETS OF POLICY-HOLDERS' FUND
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification:  Business Within India/Total Business
+Classification Code :
+Item No.
+Category of Asset
+Notes No.
+Amount (see Notes below) Rs.
+Third Factor %
+Required Solvency Margin
+(1)
+(2)
+(3)
+(4)
+(5)
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+Non-Mandated investment
+Corporate Bonds:
+AAA or equivalent
+AA or equivalent
+A or equivalent
+BBB or equivalent
+BB or equivalent
+B or equivalent
+Lower than B
+Unrated
+Mortgages:
+Residential
+Commercial
+Real estate:
+Residential
+Commercial
+Preference shares:
+Page 32/34
+----- PAGE 33 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+Listed Preference Shares
+Unlisted Preference Shares
+Equity:
+Listed Ordinary Shares
+Unlisted Ordinary Shares
+17
+Total
+Notes :
+1. Column (5) = Column(3)*Column(4);
+2. Column (4) = zero until further intimation from the Authority;
+3. The Table should show the Amount (in Column (3)) which is balance sheet value in respect of the above-mentioned
+category of asset (where the balance sheet is prepared in accordance with Insurance Regulatory and Development
+Authority (Preparation of Financial Statements and Auditor's Report of Insurance Companies) Regulations, 2000.)
+4. All the figures in Columns (3) and (5) should be in Indian Rupees lakhs.
+TABLE III - AVAILABLE SOLVENCY MARGIN AND SOLVENCY RATIO
+Form Code:
+Name of Insurer:
+Registration Number:
+Date of registration:
+Classification:  Business Within India/Total Business
+Classification
+Item
+Description
+Notes No.
+Adjusted Value
+(1)
+(2)
+(3)
+(4)
+01
+02
+03
+04
+Available Assets in Policy-holders' Fund:
+Deduct:
+Mathematical Reserves
+Other Liabilities
+Excess in Policy-holders' funds (01-02-03)
+05
+06
+07
+Available Assets in Shareholders Fund: Deduct:
+Other Liabilities of shareholders' fund
+Excess in Shareholders' funds (05-06)
+08
+09
+Total ASM
+(04)+(07)
+Total RSM
+10
+Solvency Ratio
+Page 33/34
+----- PAGE 34 -----
+The Insurance Regulatory And Development Authority (Actuarial Report And Abstract) Regulat...
+(ASM/RSM)
+Certification:
+I,.............., the Appointed Actuary, certify that the above statements have been prepared in accordance with the section
+64-VA of the Insurance Act, 1938, and the amounts mentioned therein are true and fair to the best of my knowledge.
+..........................................................
+Name and Signature of Appointed Actuary
+Place................
+Date.................
+Notes:
+1. Item No. 01 shall be the amount of the Adjusted Value of Assets as mentioned in Form IRDA-Assets-AA as specified
+under Schedule 1 of Insurance Regulatory and Development Authority (Assets, Liabilities, and Solvency Margin of
+Insurers) Regulations, 2000.
+2. Item No. 02 shall be the amount of Mathematical Reserves as mentioned in Form H;
+3. Item Nos. 03 and 06 shall be the amount of other liabilities as mentioned in the Balance Sheet;
+4. Items No. 05 shall be the amount of the Total Assets as mentioned in Form IRDA-Assets- AA as specified under
+Schedule I of Insurance Regulatory and Development Authority (Assets, Liabilities, and Solvency Margin of Insurers)
+Regulations, 2000.
+Related AI tags, queries and research notes
+Translation
+Page 34/34

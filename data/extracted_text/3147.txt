@@ -1,0 +1,597 @@
+
+----- PAGE 1 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+Companies (Significant Beneficial Owners) Rules, 2018
+Source: https://indiankanoon.org/doc/4777795/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+Companies (Significant Beneficial Owners) Rules, 2018
+UNION OF INDIA
+India
+Companies (Significant Beneficial Owners) Rules, 2018
+Rule COMPANIES-SIGNIFICANT-BENEFICIAL-OWNERS-RULES-2018 of 2018
+Published on 13 June 2018
+Commenced on 13 June 2018
+[This is the version of this document from 13 June 2018.]
+[Note: The original publication document is not available and this content could not be verified.]
+Companies (Significant Beneficial Owners) Rules, 2018
+Published vide Notification No. G.S.R. 561(E), dated 13.6.2018
+Last Updated 4th July, 2019
+Ministry of Corporate Affairs
+G.S.R. 561(E). - In exercise of the powers conferred by Section 90 read with sub-section (1) of section 469 of the
+Companies Act, 2013 (
+18 of 2013
+), the Central Government hereby makes the following rules, namely :-
+1.
+Short title and commencement.
+(1)
+Page 1/12
+----- PAGE 2 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+These rules may be called the Companies (Significant Beneficial Owners) Rules, 2018.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+2.
+Definitions.
+(1)
+In these rules, unless the context otherwise requires, -
+(a)
+"Act" means the Companies Act, 2013 (
+18 of 2013
+);
+(b)
+[ "control" means control as defined in clause (27) of section 2 of the Act;
+[Substituted by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+(c)
+"form" means the form specified in Annexure to these rules;
+(d)
+"majority stake" means; -
+(i)
+holding more than one-half of the equity share capital in the body corporate; or
+(ii)
+holding more than one-half of the voting rights in the body corporate; or
+(iii)
+having the right to receive or participate in more than one-half of the distributable dividend or any other distribution by
+the body corporate;
+(e)
+"partnership entity" means a partnership firm registered under the Indian Partnership Act, 1932 (
+9 of 1932
+) or a limited liability partnership registered under the Limited Liability Partnership Act, 2008 (
+6 of 2009
+);]
+(f)
+[ "reporting company" means a company as defined in clause (20) of section 2 of the Act, required to comply with the
+requirements of section 90 of the Act;
+[Inserted by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+(g)
+"section" means a section of the Act;
+(h)
+"significant beneficial owner" in relation to a reporting company means an individual referred to in sub-section (1) of
+section 90, who acting alone or together, or through one or more persons or trust, possesses one or more of the
+following rights or entitlements in such reporting company, namely: -
+(i)
+holds indirectly, or together with any direct holdings, not less than ten per cent. of the shares;
+(ii)
+holds indirectly, or together with any direct holdings, not less than ten per cent. of the voting rights in the shares;
+(iii)
+has right to receive or participate in not less than ten per cent. of the total distributable dividend, or any other distribution,
+in a financial year through indirect holdings alone, or together with any direct holdings;
+(iv)
+has right to exercise, or actually exercises, significant influence or control, in any manner other than through direct
+holdings alone:
+Page 2/12
+----- PAGE 3 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+Explanation I. - For the purpose of this clause, if an individual does not hold any right or entitlement indirectly under
+sub-clauses (i), (ii) or (iii), he shall not be considered to be a significant beneficial owner.
+Explanation II. - For the purpose of this clause, an individual shall be considered to hold a right or entitlement directly in
+the reporting company, if he satisfies any of the following criteria, namely, -
+(i)
+the shares in the reporting company representing such right or entitlement are held in the name of the individual;
+(ii)
+the individual holds or acquires a beneficial interest in the share of the reporting company under sub-section (2) of
+section 89, and has made a declaration in this regard to the reporting company.
+Explanation III. - For the purpose of this clause, an individual shall be considered to hold a right or entitlement indirectly
+in the reporting company, if he satisfies any of the following criteria, in respect of a member of the reporting company,
+namely: -
+(i)
+where the member of the reporting company is a body corporate (whether incorporated or registered in India or abroad),
+other than a limited liability partnership, and the individual, -
+(a)
+holds majority stake in that member; or
+(b)
+holds majority stake in the ultimate holding company (whether incorporated or registered in India or abroad) of that
+member;
+(ii)
+where the member of the reporting company is a Hindu Undivided Family (HUF) (through karta), and the individual is the
+karta of the HUF;
+(iii)
+where the member of the reporting company is a partnership entity (through itself or a partner), and the individual, -
+(a)
+is a partner; or
+(b)
+holds majority stake in the body corporate which is a partner of the partnership entity; or
+(c)
+holds majority stake in the ultimate holding company of the body corporate which is a partner of the partnership entity.
+(iv)
+where the member of the reporting company is a trust (through trustee), and the individual, -
+(a)
+is a trustee in case of a discretionary trust or a charitable trust;
+(b)
+is a beneficiary in case of a specific trust;
+(c)
+is the author or settlor in case of a revocable trust.
+(v)
+where the member of the reporting company is, -
+(a)
+a pooled investment vehicle; or
+(b)
+an entity controlled by the pooled investment vehicle,
+based in member State of the Financial Action Task Force on Money Laundering and the regulator of the securities
+market in such member State is a member of the International Organization of Securities Commissions, and the
+individual in relation to the pooled investment vehicle, -
+(A)
+is a general partner; or
+(B)
+Page 3/12
+----- PAGE 4 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+is an investment manager; or
+(C)
+is a Chief Executive Officer where the investment manager of such pooled vehicle is a body corporate or a partnership
+entity.
+Explanation IV. - Where the member of a reporting company is,
+(i)
+a pooled investment vehicle; or
+(ii)
+an entity controlled by the pooled investment vehicle,
+based in a jurisdiction which does not fulfil the requirements referred to in clause (v) of Explanation III, the provisions of
+clause (i) or clause (ii) or clause (iii) or clause (iv) of Explanation III, as the case may be, shall apply.
+Explanation V. - For the purpose of this clause, if any individual, or individuals acting through any person or trust, act
+with a common intent or purpose of exercising any rights or entitlements, or exercising control or significant influence,
+over a reporting company, pursuant to an agreement or understanding, formal or informal, such individual, or individuals,
+acting through any person or trust, as the case may be, shall be deemed to be 'acting together'.
+Explanation VI. - For the purposes of this clause, the instruments in the form of global depository receipts, compulsorily
+convertible preference shares or compulsorily convertible debentures shall be treated as 'shares'.
+(i)
+"significant influence" means the power to participate, directly or indirectly, in the financial and operating policy decisions
+of the reporting company but is not control or joint control of those policies]
+(2)
+Words and expressions used in these rules but not defined and defined in the Act or in Companies (Specification of
+Definitions Details) Rules, 2014 shall have the meanings respectively assigned to them in the Act and the said Rules.
+2A.
+[ Duty of the reporting company.
+[Inserted by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+(1)
+Every reporting company shall take necessary steps to find out if there is any individual who is a significant beneficial
+owner, as defined in clause (h) of rule 2, in relation to that reporting company, and if so, identify him and cause such
+individual to make a declaration in Form No. BEN-1.
+(2)
+Without prejudice to the generality of the steps stated in sub-rule (1), every reporting company shall in all cases where
+its member (other than an individual), holds not less than ten per cent. of its; -
+(a)
+shares, or
+(b)
+voting rights, or
+(c)
+right to receive or participate in the dividend or any other distribution payable in a financial year, give notice to such
+member, seeking information in accordance with sub-section (5) of section 90, in Form No. BEN-4.]
+3.
+[ Declaration of significant beneficial ownership under section 90.
+[Substituted 'Section 3 and 4' by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+(1)
+On the date of commencement of the Companies (Significant Beneficial Owners) Amendment Rules, 2019, every
+individual who is a significant beneficial owner in a reporting company, shall file a declaration in Form No. BEN-1 to the
+reporting company within ninety days from such commencement.
+(2)
+Every individual, who subsequently becomes a significant beneficial owner, or where his significant beneficial ownership
+undergoes any change shall file a declaration in Form No. BEN-1 to the reporting company, within thirty days of
+acquiring such significant beneficial ownership or any change therein.
+Page 4/12
+----- PAGE 5 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+Explanation. - Where an individual becomes a significant beneficial owner, or where his significant beneficial ownership
+undergoes any change, within ninety days of the commencement of the Companies (Significant Beneficial Owners)
+Amendment Rules, 2019, it shall be deemed that such individual became the significant beneficial owner or any change
+therein happened on the date of expiry of ninety days from the date of commencement of said rules, and the period of
+thirty days for filing will be reckoned accordingly.
+4.
+Return of significant beneficial owners in shares.
+- Upon receipt of declaration under rule 3, the reporting company shall file a return in Form No. BEN-2 with the Registrar
+in respect of such declaration, within a period of thirty days from the date of receipt of such declaration by it, along with
+the fees as prescribed in Companies (Registration offices and fees) Rules, 2014.]
+5.
+Register of significant beneficial owners.
+(1)
+The company shall maintain a register of significant beneficial owners in Form No. BEN-3.
+(2)
+The register shall be open for inspection during business hours, at such reasonable time of not less than two hours, on
+every working day as the board may decide, by any member of the company on payment of such fee as may be
+specified by the company but not exceeding fifty rupees for each inspection.
+6.
+Notice seeking information about significant beneficial owners.
+- A company shall give notice seeking information in accordance with under sub-section (5) of section 90, in Form No.
+BEN-4.
+7.
+[ Application to the Tribunal.
+[Substituted by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+- The reporting company shall apply to the Tribunal, -
+(i)
+where any person fails to give the information required by the notice in Form No. BEN-4, within the time specified
+therein; or
+(ii)
+where the information given is not satisfactory,
+in accordance with sub-section (7) of section 90, for order directing that the shares in question be subject to restrictions,
+including -
+(a)
+restrictions on the transfer of interest attached to the shares in question;
+(b)
+suspension of the right to receive dividend or any other distribution in relation to the shares in question;
+(c)
+suspension of voting rights in relation to the shares in question;
+(d)
+any other restriction on all or any of the rights attached with the shares in question.
+8.
+Non-Applicability.
+- These rules shall not be made applicable to the extent the share of the reporting company is held by, -
+(a)
+the authority constituted under sub-section (5) of section 125 of the Act;
+(b)
+its holding reporting company:
+Provided that the details of such holding reporting company shall be reported in Form No. BEN-2.
+(c)
+the Central Government, State Government or any local Authority;
+Page 5/12
+----- PAGE 6 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+(d)
+(i)
+a reporting company, or
+(ii)
+a body corporate, or
+(iii)
+an entity,
+controlled by the Central Government or by any State Government or Governments, or partly by the Central
+Government and partly by one or more State Governments;
+(e)
+Securities and Exchange Board of India registered Investment Vehicles such as mutual funds, alternative investment
+funds (AIF), Real Estate Investment Trusts (REITs), Infrastructure Investment Trust (InVITs) regulated by the Securities
+and Exchange Board of India,
+(f)
+Investment Vehicles regulated by Reserve Bank of India, or Insurance Regulatory and Development Authority of India,
+or Pension Fund Regulatory and Development Authority.]
+Annexure
+[Form No. Ben-1]
+[Substituted by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+Declaration by the beneficial owner who holds or acquires significant beneficial ownership in shares
+[Pursuant to section 90(1) of the Companies Act, 2013 and rule 2A, 3]
+To
+Name of the company:
+Registered office address:
+1. Purpose of filing the form (choose any one)
+For declaration of Significant Beneficial Ownership under Section 90
+For Change in Significant Beneficial Ownership under Section 90
+ID of the Significant Beneficial Owner
+{|
+|}
+2. Particulars of the holder of the significant beneficial interest:
+Name of the Significant Beneficial Owner (Given
+name and last Name)
+Address and Email id
+Date of Birth/Age
+Father's/ Mother's/Spouse's name
+Occupation
+Nationality
+Passport No. (in case of foreign national)
+3A.
+Nature of indirect holding or exercise of right in the reporting company through member of the reporting company (where
+more than one repeat this para of the Form)
+(a) Type of Member (Company/ LLP/Any other Body Corporate/HUF/ Partnership Firm/Discretionary Trust/Charitable
+trust/Specific Trust/Revocable Trust /Pooled Investment vehicle (PIV) / Entity controlled by PIV)
+{|
+|}
+(b) Corporate Identity number(CIN) or Limited Liability Partnership Identification number(LLPIN) or any other registration
+number allotted by the regulator established under the Act
+{|
+|}
+(c) Name of the Member
+Page 6/12
+----- PAGE 7 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+(d) Address
+Line I
+Line II
+City
+State
+Country
+Pin Code
+(e) Nature of indirect holding or exercise of right in the reporting company:
+By virtue of shares
+%
+By virtue of voting rights in shares
+%
+By virtue of rights on distributable dividend or any other distribution
+%
+By virtue of exercise of control (attach copy of agreement)
+By virtue of exercise of significant influence (attach copy of agreement)
+(f) Status of significant beneficial owner in the member of the reporting company (choose any one)
+Individual in case of company or any other body corporate
+Partner in case of partnership firm or LLP
+Karta in case of HUF
+Trustee in case of a discretionary trust or charitable trust
+Beneficiary in case of a specific trust
+Author or settlor in case of a revocable trust
+General Partner, Investment Manager or CEO in case of pooled investment vehicle or entity controlled by pooled
+investment vehicle
+(g) In case the member is a partnership firm or LLP, specify whether significant beneficial owner:
+is a partner
+holds majority stake in the body corporate partner
+holds majority stake in the ultimate holding company of the body corporate partner
+(h) In case the member is a company or any other body corporate, specify whether significant beneficial owner holds:
+majority stake in such company or body corporate
+majority stake in the ultimate holding company of such company or body corporate
+(i) Whether Significant Beneficial Owner has any direct holding or right in the reporting company
+YesNo
+If yes, enter details below:
+By virtue of shares
+%
+By virtue of voting rights in shares
+%
+By virtue of rights on distributable dividend or any other distribution
+%
+By virtue of exercise of control (attach copy of agreement)
+By virtue of exercise of significant influence (attach copy of agreement)
+Date:Place:Signature of the holder of the significant beneficial interestAttachments:
+{|
+[Form No. BEN - 2]
+[Substituted by Notification No. G.S.R. 446(E), dated 1.7.2019 (w.e.f. 13.6.2018).]
+[Pursuant to section 90(4) of The Companies Act, 2013 and rule 4 and rule 8 of The Companies (Significant Beneficial
+Owners) Rules, 2018]
+Return to the Registrar in respect of declaration under section 90
+Form languageEnglishHindi
+Page 7/12
+----- PAGE 8 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+Refer the instruction kit for filing the form.
+1.
+(a) *Corporate Identity Number (CIN) of the company
+2.
+(a) Name of the company
+(b) Registered Office Address
+(c) *email Id
+3. * Purpose of filing the form
+For declaration of holding reporting company
+CIN of the holding reporting company
+For declaration of Significant Beneficial Ownership under Section 90
+Number of Significant Beneficial Owners for whom the form is being filed
+For Change in Significant Beneficial Ownership under Section 90
+Significant Beneficial Owner
+Number of Members through whom indirect
+holding or right in reporting company is being exercised
+SBO1
+SBO2
+SBO3
+SBO4
+SBO5
+SBO6
+SBO7
+SBO8
+SBO9
+SBO1 I.
+(A) Details of the Member* Manner in which significant beneficial interest is being held or exercised either indirectly or
+together with any direct holding or right (select one or more as may be applicable)
+By virtue of shares
+%
+By virtue of voting rights in shares
+%
+By virtue of rights on distributable dividend or any other distribution
+%
+By virtue of exercise of control (attach copy of agreement)
+By virtue of exercise of significant influence (attach copy of agreement)
+Particulars of the Member
+(a) Type of Member
+(b) Corporate Identity number(CIN) or Foreign Company Registration Number (FCRN) or Limited liability partnership
+Identification number(LLPIN) or any other registration number
+(c) Name of the Member
+(d) Address
+Line I
+Line II
+City
+State
+Country
+Pin Code
+(e) Email ID of the Member
+(f) Date of entry of name in register u/s 88
+(DD/MM/YYYY)
+Page 8/12
+----- PAGE 9 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+(B) Status of the SBO
+(C) Whether individual (SBO) has majority stake in the
+Member of the Reporting Company
+Ultimate Holding Company of the member of the reporting company
+Corporate Identity number (CIN) or FCRN or any other registration number
+Name of the ultimate holding company
+(D) Whether the individual (SBO):
+is a Partner of the member
+holds majority stake in the body corporate partner
+holds majority stake in the ultimate holding company of the body corporate partner
+Corporate Identity number(CIN) or FCRN or any other registration
+Name of the body corporate partner/ ultimate holding company
+(E) Particulars of the Significant Beneficial Owner
+ID of the Significant Beneficial Owner
+(a) Name
+First name
+Last name
+Middle name
+(b) Father's Name (Even married women must give
+father's name)
+First name
+Last name
+Middle name
+(c) Date of birth(DD/MM/YYYY)
+(d) Nationality
+(e) Whether a citizen of India
+YesNo
+(f) Income Tax PAN
+(g) Passport Number
+(h) Address
+Line I
+Line II
+City
+State
+Country
+Pin Code
+(i) Email ID of the Significant Beneficial Owner
+(j) Date of acquiring Significant Beneficial Interest
+(DD/MM/YYYY)
+(k) Date of declarations under sub-section (1) of section 90
+(DD/MM/YYYY)
+(l) Date of receipt of the declaration by the company
+(DD/MM/YYYY)
+(m) Whether Significant Beneficial Owner has any direct holding or right in the reporting company
+YesNo
+If yes, enter details below:
+By virtue of shares
+%
+By virtue of voting rights in shares
+%
+By virtue of rights on distributable dividend or any other distribution
+Page 9/12
+----- PAGE 10 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+%
+By virtue of exercise of control (attach copy of agreement)
+By virtue of exercise significant influence (attach copy of agreement)
+Attachments:
+List of
+1.
+*Declaration under Section 90
+2. Optional
+attachments, if any
+DeclarationTo the best of my knowledge and belief, the information given in this form and attachments is correct and
+complete. I have been authorized by board of directors’ resolution dated*(DD/MM/YYYY) to sign and submit this form.
+*To be digitally signed by
+*Designation
+*Director identification number of the director; or DIN or PAN of the manager or CEO or CFO; or Membership number of
+company secretary.
+Certificate by Practicing Professional
+It is hereby certified that I have gone through the provisions of the Companies Act, 2013 and Rules thereunder for the
+subject matter of this form and matters incidental thereto and I have verified the above particulars (including
+attachment(s)) from the original records maintained by the Company which is subject matter of this form and found them
+to be true, correct and complete and no information material to this form has been suppressed.
+Chartered Accountant (in whole-time practice) or
+Cost Accountant (in whole-time practice) or
+Company Secretary (in whole-time practice)
+Whether Associate or Fellow
+AssociateFellow
+Membership Number
+Certificate of Practice Number
+Note: Attention is also drawn to provisions of Section 448 and 449 which provide for punishment for false statement and
+punishment for false evidence respectively.
+This e-Form has been taken on file maintained by the register of companies through electronic mode and on the basis of
+statement of correctness given by the Director and professional.
+|}
+[Form no. BEN-3]
+[Substituted by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+Register of beneficial owners holding significant beneficial interest
+[Pursuant to section 90(2) of the Companies Act, 2013 and rule 5(1)]
+Name of the company:
+Registered office address:
+Sl. No.
+Name of the Beneficial Owner
+Address and E-mail id
+Date of Birth/Age
+Father?s/ Mother?s/ Spouse?s
+name
+(1)
+(2)
+(3)
+(4)
+(5)
+Occupation
+Nationality
+Page 10/12
+----- PAGE 11 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+PAN/UIN
+Passport No. (in case of foreign national)
+Status
+(6)
+(7)
+(8)
+(9)
+(10)
+Date of declaration under section 90
+Date of cessation
+Date of entry in Register
+Date of filing of BEN-2(SRN wise)
+Any other interest, if any
+(11)
+Instructions, if any, given by the member
+[Form no. BEN-4]
+[Substituted by Notification No. G.S.R. 100(E), dated 8.2.2019 (w.e.f. 13.6.2018).]
+[Pursuant to section 90(5) of the Companies Act, 2013 and rule 2A, 6 and rule 7]
+[<< Insert Company Name>>] (the "Company")
+<< Insert Date>>
+[By post/email]
+To:
+Name and address of significant beneficial owner/any other person
+Date:
+Subject: Notice under sub-section (5) of Section 90 of the Companies Act, 2013 and rules made thereunder
+The Company has reasonable cause to believe that* :
+you are a significant beneficial owner of the company;
+have knowledge of the identity of significant beneficial owner/another person .............. likely to have such knowledge;
+being a member hold not less than 10% of the shares/voting rights/rights on dividend or any other distribution in the
+company
+have been a significant beneficial owner of the company during the three years immediately preceding the date of this
+notice, and
+in respect of the above significant beneficial ownership, the return prescribed under Section 90 of the Act has not been
+filed in compliance with the Act.
+You are accordingly advised to give the following information within 30 days of the date of this notice in accordance with
+the section 90 of the Companies Act, 2013:
+1. Name and Address of the Beneficial Owner
+2. PAN of the B.O
+3. Name of the person/entity/trust/body etc in whose name the shares/rights are registered/held
+4. Date of acquiring beneficial interest
+5. Documents, terms and conditions or any other particulars regarding the BO ownership
+6. Reason for not filing declaration in Form No. BEN-1.
+7. Any other information incidental to or relevant or in your possession or knowledge to enable the company to evaluate
+this matter.
+8. Reason for not filing declaration in Form No. BEN-4.
+* A copy of Form No. BEN-1 is attached for compliance.
+The abovementioned particulars should be submitted in writing to the registered address of the company not later than
+30 days of the date of this notice failing which the company shall proceed in the matter without further notice as per the
+provisions of the Act.
+Name & signature(Person authorized to issue notice)
+*Delete whichever is not applicable
+Page 11/12
+----- PAGE 12 -----
+Companies (Significant Beneficial Owners) Rules, 2018
+Related AI tags, queries and research notes
+Translation
+Page 12/12

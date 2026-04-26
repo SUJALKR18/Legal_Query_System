@@ -1,0 +1,2873 @@
+
+----- PAGE 1 -----
+The Ammonium Nitrate Rules, 2012
+The Ammonium Nitrate Rules, 2012
+Source: https://indiankanoon.org/doc/178944127/
+Skip to main content
+Legal Document View
+Tools for analyzing structure and cite text of judgments
+Unlock Advanced Research with
+PRISM
+AI
+Integrated with over 4 crore judgments and laws ? designed for legal practitioners, researchers, students and institutions
+-
+Know your Kanoon
+-
+Doc Gen Hub
+-
+Counter Argument
+-
+Case Predict AI
+-
+Talk with IK Doc
+-
+...
+Upgrade to Premium
+[Cites
+0
+, Cited by
+0
+]
+Union of India - Act
+The Ammonium Nitrate Rules, 2012
+UNION OF INDIA
+India
+The Ammonium Nitrate Rules, 2012
+Rule THE-AMMONIUM-NITRATE-RULES-2012 of 2012
+Published on 11 July 2012
+Commenced on 11 July 2012
+[This is the version of this document from 11 July 2012.]
+[Note: The original publication document is not available and this content could not be verified.]
+The Ammonium Nitrate Rules, 2012
+Published vide Notification No. G.S.R. 553(E), dated 11th July, 2012
+Ministry of Commerce and Industry
+(Department of Industrial Policy and Promotion)
+G.S.R. 553(E): - Whereas the draft of Ammonium Nitrate Rules, 2011 was published, as required by sub-section (1) of
+section 18 of Explosive Act, 1884 (4 of 1884) vide notification of the Government of India in the Ministry of Commerce
+and Industry (Department of Industrial Policy and Promotion) number G.S.R. 694(E), dated the 16th day of September,
+2011 in the Gazette of India, Part II, Section 3, Sub-Section (i) inviting objections and suggestions from all persons likely
+to be affected thereby, before the expiry of a period of forty five days from the date on which the copies of the Gazette
+containing the said notification were made available to the public;
+And, whereas, copies of the said Gazette were made available to the public on 16th September, 2011;
+Page 1/54
+----- PAGE 2 -----
+The Ammonium Nitrate Rules, 2012
+And, whereas, objections and suggestions were received from the public on the said draft rules, have been duly
+considered by the Central Government;
+Now, therefore, in exercise of powers conferred by sections 5 and 7 of the Explosives Act, 1884 (4 of 1884) the Central
+Government hereby makes following rules, namely :-
+1.
+Short title and commencement.
+(1)
+These rules may be called the Ammonium Nitrate Rules, 2012.
+(2)
+They shall come into force on the date of their publication in the Official Gazette.
+Chapter I
+Preliminary
+2.
+Definitions.
+- In these rules, unless the context otherwise requires;-
+(a)
+"Act" means the Explosives Act, 1884 (4 of 1884);
+(b)
+"Ammonium Nitrate" means the compound having the chemical formula NH4NO3 and includes any mixture or
+compound having more than 45 percent Ammonium Nitrate by weight including emulsions, suspensions, melts or gels
+(with or without inorganic nitrates) but excluding emulsion or slurry explosives and nonexplosives emulsion matrix and
+fertilizers from which the Ammonium Nitrate cannot be extracted by any physical or chemical process;
+(c)
+"Chief Controller" means the Chief Controller of Explosives;
+(d)
+"Competent person" means a person who is adequately experienced and well conversant in safe manufacture,
+conversion, storage, transportation and handling of Ammonium Nitrate, as the case may be;
+(e)
+"Controller" includes the Joint Chief Controller of Explosives, the Deputy Chief Controller of Explosives, the Controller of
+Explosives and the Deputy Controller of Explosives;
+(f)
+"Converter" means a person or an agency which undertakes conversion of solid form of Ammonium Nitrate into melt
+form or melt form of Ammonium Nitrate into solid form, for other than own use;
+(g)
+"Conservator" includes any person or agency or firm acting under the authority of the officer or body of persons
+appointed to be conservator of a port under section 7 of the Indian Ports Act, 1908 (15 of 1908);
+(h)
+"District Authority" means,-
+(i)
+in towns having a Commissioner of Police, the Commissioner or a Deputy Commissioner of Police;
+(ii)
+in any other place, the District, Magistrate or Additional District Magistrate;
+(i)
+"Departmental Testing Station" means the testing station of the Petroleum and Explosives Safety Organisation;
+(j)
+"explosive" means the explosives as defined under clause (d) of section 4 of the Explosives Act, 1884 (4 of 1884);
+(k)
+"emulsion explosive" and "non-explosive emulsion matrix" shall have the same meaning as defined under the Explosives
+Rules, 2008;
+(l)
+"form" means a Form specified in the Schedules annexed to these rules.
+Page 2/54
+----- PAGE 3 -----
+The Ammonium Nitrate Rules, 2012
+(m)
+"licence" means pre-requisite document to manufacture, convert, import, export, stevedoring and bagging, transport,
+possess, sale and use of the Ammonium Nitrate;
+(n)
+"licensing authority" means authority empowered to issue the licence specified in Schedule I;
+(o)
+"Occupier", in relation to premises means a person who has the control and is responsible for managing the affairs of
+the premises, and includes, in relation to Ammonium Nitrate, the person in possession of the Ammonium, Nitrate:
+Provided that in relation to a-
+(i)
+proprietary firm, the proprietor; or
+(ii)
+partnership firm, the partner nominated in writing by all other partners; or
+(iii)
+company, the director nominated in writing by the Board of Directors; or
+(iv)
+Society or association, the office bearer nominated in writing by the governing body, shall be the occupier;
+(p)
+"protected works" includes buildings or structures in which persons dwell, college, school, hospital, theatre, cinema
+house, shop, office, market, place of storage of hazardous substances, etc. but does not include agricultural wells, and
+pump sets connected therewith;
+(q)
+"slurry explosive" and "Site mixed explosive" shall have the same meaning as defined under Explosives Rules, 2008;
+(r)
+"store house" means independent building meant to possess or store Ammonium Nitrate other than Ammonium Nitrate
+melt;
+(s)
+"stevedore" includes any person or agency or firm which undertakes loading and unloading of bulk Ammonium Nitrate
+from the ship, its transport to the transit store for its bagging;
+(t)
+"Safety and Security Management Plan" means the comprehensive plan for ensuring and managing safety and security
+in Ammonium Nitrate manufacturing factory, stevedoring, transport, storage and usage premises.
+3.
+Scope of applicability of Rules and exemptions.
+(1)
+These rules are applicable all over India for regulating the manufacturing, conversion, import, export, stevedoring,
+bagging, transport, and possession for sale or use of the Ammonium Nitrate.
+(2)
+Nothing in these rules shall apply to the possession, use, transport or import or expert of Ammonium Nitrate by -
+(a)
+any of the, Armed Forces of the Union and Ordnance Factories or other establishments of such Forces for own use in
+accordance with the rules or regulations made by the Central Government;
+(b)
+the Indian Railways and its authorised carriers while acting as carrier;
+(c)
+the Port authority;
+(d)
+any person employed under the Central Government or State Government in exercise of any power under the Act or
+these rules.
+(3)
+Nothing in these rules shall apply to the possession and use of ammonium nitrate of quantity not exceeding five
+Page 3/54
+----- PAGE 4 -----
+The Ammonium Nitrate Rules, 2012
+kilograms by the established laboratories, educational institutions, medical institutions, hospitals and health clinics for
+scientific and educational purpose:
+Provided the local police is informed of the quantity under possession for the aforesaid purpose.
+Chapter II
+General Provisions
+4.
+Control over manufacture, conversion, stevedoring and bagging, import, export, transport, possession for sale or use of
+Ammonium Nitrate.
+- No person shall undertake manufacture, conversion, stevedoring, import, export, transport or possess for sale or use
+Ammonium Nitrate except as authorised or licensed under these rules.
+5.
+Pre-requisite for grant of licence.
+- No licence shall be granted unless all the relevant provisions laid down under these rules and all conditions contained
+in the license forms under Part-2 of Schedule II annexed to these rules are complied with:
+Provided that all the existing manufacturers, converters, users, transporters, stevedores, sellers, possessors, importers
+and exporters shall apply for licence within six months and shall comply with the provisions of these rules within a period
+of one year from the date of publication of these rules.
+6.
+General Restrictions.
+(1)
+Restriction on manufacture - The Ammonium Nitrate shall not be manufactured at any place other than the place
+indicated in the licence.
+(2)
+Restriction on storage and conversion; - (a) The Ammonium Nitrate storehouse shall not be located in populated areas.
+(b)
+No Ammonium Nitrate shall be converted at any place except at converter's premises duly licensed.
+(c)
+No person shall extract Ammonium Nitrate from any fertilizer including by any chemical or physical process.
+(3)
+Restriction on stevedoring, bagging and possession for sale or use - (a) No person shall undertake stevedoring, bagging
+and possession for sale or use Ammonium Nitrate except under conditions of a licence granted under these rules at a
+licensed store house as specified therein;
+(b)
+No person shall store, process, deliver, receive, handle or transport any Ammonium Nitrate contaminated fully or
+partially with any organic material, metal powder or scraps, or sulphur, phosphorous etc.
+(4)
+Restriction on import or export - (a) No person shall import or export any Ammonium Nitrate except under and in
+accordance with the conditions of licence granted under these rules;
+(b)
+No Ammonium Nitrate shall be imported or exported except at its ports notified by the Central Government.
+(c)
+The Ammonium Nitrate shall not be imported into India by Sea except through the ports which are duly approved for this
+purpose by the Ministry of Shipping and Transport, Government of India, in consultation with the Chief Controller and
+declared as Customs Ports by the Commissioner of Customs.
+(d)
+The Ammonium Nitrate imported into India by sea shall not be stored in the port.
+(5)
+Restriction on transport - (a) The Ammonium Nitrate shall not be transported with any other explosives, inflammable
+substances, oil, gases, carbonaceous matter, etc.
+(b)
+No Ammonium Nitrate shall be transported in any carriage vessel plying for or carrying passengers on hire.
+Page 4/54
+----- PAGE 5 -----
+The Ammonium Nitrate Rules, 2012
+(6)
+Restriction on delivery or dispatch - (a) No person shall deliver or dispatch any Ammonium Nitrate to anyone other than
+a person who-
+(i)
+is the holder of a licence to possess the Ammonium Nitrate or the agent of a holder of such a licence duly authorised by
+him in writing on his behalf; or
+(ii)
+is entitled under these rules to possess the Ammonium Nitrate without a licence.
+(b)
+The Ammonium Nitrate so delivered or dispatched shall in no case exceed the quantity at any point of time for which the
+person is holding a licence under these rules.
+(c)
+No person shall receive Ammonium Nitrate from any person other than the holder of a licence granted under these
+rules.
+(7)
+Restriction on handling Ammonium Nitrate. - No person shall handle or cause to be handled any ammonium Nitrate
+between the hours of sunset and sunrise:
+Provided that nothing in this rule shall apply to handling of Ammonium Nitrate during the dark hours if proper illumination
+is provided in the area and the place is guarded.
+(8)
+Restriction on employment of children, intoxicated persons and certain other persons. - No person shall employ, allow or
+engage a person
+a) who is below the age of eighteen years; or
+b) who is in a state of intoxication; or
+c) who is mentally or physically challenged,
+for manufacture, conversion, bagging, storage, sale, loading, unloading or transport of Ammonium Nitrate or to enter any
+premises permitted under these rules.
+(9)
+Restriction on toxic, corrosive, dangerous or flammable substances. - No toxic, corrosive or flammable or otherwise
+dangerous substances such as carbonaceous matter, reducing agents, petroleum, carbide of calcium, compressed
+gases or any other chemical which may react with Ammonium Nitrate in a manner that may result in an explosion shall
+be allowed in the premises meant for manufacture, conversion, bagging, storage, import, export, transport or handling of
+Ammonium Nitrate.
+(10)
+Restriction on use. - Ammonium Nitrate shall not be used for blasting either alone or in combination with other
+ingredients unless permitted under the Explosives Rules, 2008.
+7.
+Employment of competent person.
+(1)
+No Ammonium Nitrate shall be manufactured or converted except under supervision of a competent person.
+Explanation. - The competent person referred to in sub-rule (1) shall be a person with degree or diploma in engineering
+or graduate in science having minimum five years' experience in chemical or explosives industry as an essential
+qualification and diploma in industrial safety as an optional qualification and shall be employed by the licensee to ensure
+compliance of safety norms for manufacture and conversion of the Ammonium Nitrate.
+(2)
+All operations associated with stevedoring, bagging, handling, transport and use of Ammonium Nitrate in any building or
+part thereof shall be carried out under the supervision of a person employed by the licence holder who is conversant
+with the process thereof and the hazards connected therewith and the provisions of these rules.
+8.
+Packing of Ammonium Nitrate.
+- No person shall import, export, transport, possess or sell Ammonium Nitrate unless;
+Page 5/54
+----- PAGE 6 -----
+The Ammonium Nitrate Rules, 2012
+(a)
+it is duly packed in a suitable waterproof bag or container or is suitably bagged by stevedore or converter;
+(b)
+the container or package is marked in accordance with the provisions of rule 8;
+(c)
+the packages conform to the relevant standard of Bureau of Indian Standards or other standards accepted and
+approved by the Chief Controller; and
+(d)
+the packages of Ammonium Nitrate for export or import conform to the requirements of the tests as specified under
+International Maritime Dangerous Goods Code (hereinafter referred to as the IMDG Code in these rules) or United
+Nations recommendations on the transport of Dangerous Goods.
+9.
+Marking on Ammonium Nitrate packages.
+(1)
+Each bag or container containing Ammonium Nitrate shall be marked in conspicuous indelible characters, by means of
+stamping or painting with-
+(a)
+the words "Ammonium Nitrate";
+(b)
+purity in percentage;
+(c)
+the name, address and licence number of manufacturer or converter or importer;
+(d)
+identification number of the package or bar coding;
+(e)
+the net weight of Ammonium Nitrate;
+(f)
+gross weight of the package;
+(g)
+date of bagging and batch number;
+(h)
+name, address, licence number and unique identification number of stevedoring agent, if any.
+(2)
+The bags shall be serially numbered with date of bagging by means of stencilling, bar-coding, by RFID tags or any other
+means by the manufacturer or importer as directed by the Chief Controller.
+10.
+Recovery of Spillage during handling.
+- If any spillage occurs during the process of handling of Ammonium Nitrate at any stage, it should be carefully collected
+and bagged and accounted for and the spillage, if not contaminated, may be transferred expeditiously only to a licensee
+after proper accounting.
+11.
+Special precautions against accident.
+(1)
+No person shall commit or attempt to commit any act which may tend to cause a fire or explosion in or about any place
+where the Ammonium Nitrate is manufactured, converted, bagged, stored or transported.
+(2)
+Every person possessing Ammonium Nitrate and every person in charge of or engaged in the import, export,
+manufacture, conversion, bagging, sale, transport or handling of the Ammonium Nitrate shall at all times comply with the
+provisions of these Rules and the conditions of the licence relating thereto and observe all due precautions for the
+prevention of thefts or accidents by fire or explosion.
+(3)
+Page 6/54
+----- PAGE 7 -----
+The Ammonium Nitrate Rules, 2012
+The premises used for storage of the Ammonium Nitrate shall not be used for storage of any other materials including
+fertilizers.
+(4)
+Every person shall prevent any other person from committing any such act as is prohibited under sub-rule (1).
+12.
+Restriction on unauthorised persons, provision of guards and safety distance for storehouse.
+(1)
+The licence holder shall at his own expense provide security guards for safe custody of Ammonium Nitrate stored in a
+storehouse.
+(2)
+For the purposes of sub-rule (1), the security guards shall be of such strength as the District Authority may consider it to
+be sufficient.
+(3)
+The premises used for manufacture of the Ammonium Nitrate or conversion of the melt into solid form of Ammonium
+Nitrate or vice versa and the storehouse shall be surrounded by a wall of at least two metres height of such strength and
+construction as to effectively prevent entry of unauthorised persons.
+(4)
+(a)
+The Ammonium Nitrate storehouse shall maintain;
+(i)
+for storage not exceeding 30 MT, Safety Distance of 4.5 metres from store house to the compound wall and 45 metres
+from any protected works;
+(ii)
+for storage exceeding 30 MT, Safety Distance of 9 metres from store house to the compound wall and 90 metres from
+any protected works;
+(b)
+the storehouse may be adjacent to the bagging unit of the manufacturing, conversion or explosives or nitrous oxide
+manufacturing plants, but shall observe the provisions of clauses (i) and (ii) of sub-rule (a) of rule 4.
+Note: The safety distance shall be measured from the edge of the storehouse.
+(5)
+(a)
+The storehouse shall be;
+(i)
+constructed at ground level without any mezzanine floor, upper floor or any basement;
+(ii)
+with the floor (plinth) level not less than forty five centimetres from the ground level and well ventilated;
+(iii)
+with at least 23 centimetres thick walls built of brick or stone mortar, or concrete and with roof of RCC or Asbestos or
+Fibre or GI sheet;
+(iv)
+with sufficient numbers of doors made of steel of minimum three millimetres thick and opening outwards;
+(b)
+Notwithstanding anything contained in sub-clause (iii) storehouse of stevedore may be a shed without side walls.
+(6)
+Any storehouse used for possession for sale or possession for use of Ammonium Nitrate shall have a floor area not less
+than one square metre per Metric Tonne of Ammonium Nitrate and the storehouse total holding capacity shall not
+exceed 5000 MT storage:
+Provided that one stack of bagged Ammonium Nitrate shall not exceed 200 MT and a minimum clearance of two metres
+shall be maintained between the adjacent stacks and at least 0.6 metre wide gangway shall be maintained between the
+stacks and the walls of the storehouse.
+Provided further that the maximum stack height shall not exceed 2.5 metres from the floor level and the same shall be
+Page 7/54
+----- PAGE 8 -----
+The Ammonium Nitrate Rules, 2012
+prominently marked on the walls of the storehouse.
+(7)
+The storehouse shall be protected against lightning as per IS 2309.
+(8)
+The storage tank meant for storage of Ammonium Nitrate melt shall be-
+(i)
+constructed of stainless steel or any other compatible material according to sound engineering practice conforming to a
+national or international code accepted by the Chief Controller and adequately insulated and supported so as to ensure
+safety and stability during loading and unloading of Ammonium Nitrate melt into or from such storage tank;
+(ii)
+with a secondary containment in the form of dyke enclosure made of cement concrete and its holding capacity shall not
+be less than the capacity of the largest tank situated within such enclosure;
+(iii)
+observing Safety Distance of 4.5 metres within the compound wall and plant facilities and 45 metres from any protected
+works;
+(iv)
+with single storage tank capacity not exceeding 200MT; and
+(v)
+provided with a suitable hard stand adjacent to it for loading and unloading and such a hard stand shall be located so
+that its centre maintains a minimum safety distance of 4.5 metres all around.
+13.
+Prohibition of certain acts.
+- No person shall -
+(i)
+provide false or misleading information or declaration in any application made or statement submitted under these rules;
+or
+(ii)
+falsify, erase or fraudulently alter any entry in any log book, document or other record required to be kept or maintained
+under these rules; or
+(iii)
+change or alter any licence, or other documents issued under these rules.
+14.
+Maintenance of records and submission of returns.
+(1)
+Every person holding a licence granted under these rules for manufacture, conversion, stevedoring, possession, sale,
+use, transport, import or export of the Ammonium Nitrate shall maintain records in the forms specified in Part 3 of
+Schedule II to ensure accountability, identification and traceability of Ammonium Nitrate and shall produce such records
+on demand to an authority specified in rule 50.
+(2)
+Stock books in the forms specified in Part 3 of schedule II shall be page numbered and certified by any officer
+authorised under these rules and such records shall be retained for a period of three years, unless otherwise directed by
+an authority.
+(3)
+The licence holder shall submit monthly returns of the Ammonium Nitrate manufactured, converted, stevedored,
+received, sold, transported, used, destroyed or imported or exported to the licence issuing Authority, the District
+Magistrate and Superintendent of Police in the form specified in Part 3 of Schedule II so as to reach the above authority
+on or before the tenth day of every succeeding month.
+(4)
+The licence holder shall maintain record and make transaction and file returns by electronic means when directed by the
+licence issuing authority or the Central Government.
+Chapter III
+Page 8/54
+----- PAGE 9 -----
+The Ammonium Nitrate Rules, 2012
+Provisions for Manufacture, Conversion, Possession, Sale and use of Ammonium Nitrate
+15.
+Safety and Security Management Plan.
+(1)
+A person intending to manufacture, convert, stevedore, bag, possess for sale or use, transport, import or export
+Ammonium Nitrate shall submit Safety and Security Management Plan to the licensing authority and to the District
+Authority with the security aspect duly vetted by the police authorities for approval.
+(2)
+The Plan as referred to in sub-rule (1) shall include the following safety and security aspects, namely:-
+(a)
+assigned responsibility and organisational structure;
+(b)
+hazard identification, risk assessment and control;
+(c)
+provision of information, education and training to the work force, contractors and visitors;
+(d)
+accident reporting and investigation;.
+(e)
+emergency response planning and preparedness such as first aid, testing of emergency plan once in a year;
+(f)
+Disaster Management Plan and provision of escape routes, identifying and assessing security risk associated with the
+activities; evacuation plan, appropriate fire fighting controls;
+(g)
+set of process adopted by the holder of the licence to carry out authorized activities and keeping of Ammonium Nitrate
+secure;
+(h)
+maintenance of schedules for plant and equipment;
+(i)
+standard operating procedure;
+(j)
+competence of personnel for tasks;
+(k)
+nature of the surveillance;
+(l)
+documentation and record keeping so as to ensure accountability, identification and traceability of Ammonium Nitrate;
+security arrangement for storehouse, tankers containing Ammonium Nitrate melt, transport of Ammonium Nitrate by
+vehicles, security during transport of Ammonium Nitrate including its loading or unloading; mechanism for controlling and
+restricting access of unauthorized person to Ammonium Nitrate storage; assigning of responsibility for ensuring
+compliance with plan or task.
+(3)
+Every person engaged in the manufacturing factory shall be imparted training in safety and security aspects by
+competent persons periodically during manufacture, handling, transportation and storage of the Ammonium Nitrate and
+records of such trainings shall be maintained in the factory.
+Chapter IV
+Provisions for Import and Export of Ammonium Nitrate
+General
+16.
+Import or export by land.
+- No licence for import or export of Ammonium Nitrate by land shall be granted without the previous sanction of the
+Central Government in each case, wherein the Central Government may impose conditions and restrictions in
+consultation with the Chief Controller
+Page 9/54
+----- PAGE 10 -----
+The Ammonium Nitrate Rules, 2012
+17.
+Compliance of Port Rules.
+- The provision of rules regulating handling of Ammonium Nitrate at the notified ports issued under the Act and
+respective Port rules and bye-laws shall be observed.
+18.
+Import of Ammonium Nitrate.
+(1)
+Ammonium Nitrate shall preferably be imported in the bagged form and whenever Ammonium Nitrate is imported in bulk,
+it shall be bagged or packed suitably by stevedoring agency duly authorized in writing by importer and having valid
+licence under these rules.
+(2)
+The stevedoring agent shall maintain records of Ammonium Nitrate received and dispatched to each importer to ensure
+accountability, identification and traceability and file returns.
+(3)
+The imported Ammonium Nitrate shall be immediately removed from the port to the stevedores licensed storehouse.
+Ammonium Nitrate shall be dispatched from the stevedore's storehouse only in bagged form and each bag of
+Ammonium Nitrate shall be marked by stevedoring agent in accordance with rule 9.
+(4)
+Declaration by importer - A person holding an import licence granted under these rules shall furnish a declaration to the
+licensing Authority and the Chief Controller;
+(a)
+in Form R-3 under Part of Schedule II as soon as ship carrying Ammonium Nitrate sails from the port of loading;
+(b)
+in Form R-4 under Part 3 of Schedule II as soon as any shipment of Ammonium Nitrate is cleared at the port of import.
+(5)
+Declaration by master of ship or by the ship's agent-
+(a)
+the master or every ship carrying Ammonium Nitrate or the agent for such ship shall give the Conservator of the port not
+less than forty eight hours' notice of its intended arrival at the port;
+(b)
+the master of every ship carrying Ammonium Nitrate shall deliver to the pilot before entering any port, a written
+declaration in Form CE-1, under Part 4 of Schedule II, provided that if in anticipation of a ship's arrival, the agent for
+such ship delivers to the Conservator of the port a written declaration, as aforesaid under his signature, no such
+declaration need to be made by master of the ship;
+(c)
+Every declaration delivered to a pilot under clause (b) of sub-rule (5) shall be made over by him without delay to the
+Conservator of the port and all declarations received by the Conservator of the port shall be forwarded by him, with all
+convenient despatch to the Commissioner of Customs.
+(6)
+Restrictions on import by air - The Ammonium Nitrate shall not be imported by air.
+19.
+Export of Ammonium Nitrate.
+(1)
+Restrictions on export by air - The Ammonium Nitrate shall not be exported by air.
+(2)
+Declaration by exporter or his agent - The exporter or his authorised agent shall give notice to the conservator of the
+port before forty eight hours that he intends to bring the Ammonium Nitrate to port for export and shall not bring the
+Ammonium Nitrate to any part of the port without prior permission in writing from the said officer.
+(3)
+Export of Ammonium Nitrate shall only be in the bagged form and marked in accordance with the provisions of rule 9.
+Chapter V
+Page 10/54
+----- PAGE 11 -----
+The Ammonium Nitrate Rules, 2012
+Provision for Transport of Ammonium Nitrate
+General
+20.
+Procedure to be followed during transportation.
+(1)
+Every consignment of Ammonium Nitrate or Ammonium Nitrate melt transported shall be accompanied by a pass issued
+by the consignor in Form R-11 (b) of Part-3 of Schedule II.
+(2)
+The pass referred in sub-rule (1) shall be attached to the way-bill, invoice or bill of entry or despatch note as the case
+may be.
+(3)
+An intimation in Form R-11 (a) of Part-3 of Schedule II shall be sent by the consignor at least twenty four hours in
+advance to the District Superintendent of Police of place of dispatch as well as to the District Superintendent of Police of
+place of receipt.
+(4)
+A copy of every pass issued under sub-rule (1) shall forthwith be sent by the consignor to-
+(a)
+the Licensing Authority who issued the licence of the consignor;
+(b)
+the District Authority having jurisdiction of the place of dispatch;
+(c)
+the District Superintendent of Police in whose jurisdiction the place from which the consignment is sent is situated; and
+(d)
+the District Superintendent of Police in whose jurisdiction the place to which the consignment is sent is situated.
+21.
+General requirements and documents to be available during transport.
+(1)
+The Ammonium Nitrate or Ammonium Nitrate melt shall be transported only by consignors holding valid licence in Form
+P-4
+(2)
+The tanker for transportation of Ammonium Nitrate melt shall be-
+(i)
+constructed of stainless steel or any other compatible material, properly and adequately insulated according to sound
+engineering practice conforming to national or international code accepted by the Chief Controller and secured or
+mounted over a vehicle chassis ensuring total safety and stability during transportation;
+(ii)
+with gross carrying capacity of such Ammonium Nitrate melt tanker not exceeding the maximum load limit prescribed by
+the Road Transport Authority for such vehicle;
+(iii)
+with inlet and outlet valves of such construction and design so as to permit its secured locking and sealing; and
+(iv)
+with vent pipe(s) suitably covered to prevent pilferage of the product.
+(3)
+The Ammonium Nitrate shall not be transported along with any other material including hazardous material.
+(4)
+The Ammonium Nitrate shall be transported in motor vehicles or animal driven vehicles duly secured and the
+Ammonium Nitrate shall be properly and securely lied from all sides by providing layers of tarpaulin covering and
+transported under the seal of the transport licence holder and it shall be ensured that the driver or any attendant thereof
+has in his possession the following documents during transport, namely:-
+(a)
+copy of indent in Form R-10 under Part 3 of Schedule II, issued by the consignee;
+Page 11/54
+----- PAGE 12 -----
+The Ammonium Nitrate Rules, 2012
+(b)
+copy of transport pass in Form R-11(b) under Part 3 of Schedule II issued by the consignor; and
+(c)
+the original copy of bill or bill of entry of Ammonium Nitrate being transported.
+(5)
+The documents mentioned in sub-rule (4) shall be produced by the transporter on demand by the authority empowered
+under rule 50.
+(6)
+The consignor shall ensure delivery of consignment of Ammonium Nitrate to storehouse of the consignee at the
+declared destination and the Form R-11(b) duly acknowledged by the Consignee be retained as record by the
+Consignor.
+(7)
+Despatch of Ammonium Nitrate to carriers for transport. - (a) No person shall despatch any Ammonium Nitrate to a
+carrier other than the Indian Railways or its authorised carriers for the purpose of transport.
+(b)
+No person shall despatch any Ammonium Nitrate to the Indian Railways or its authorised carriers for the purpose of
+transport unless he has given the Station Master a notice in writing -
+(i)
+of his intention to tender such Ammonium Nitrate;
+(ii)
+certifying that the Ammonium Nitrate has been packed and marked in accordance with rules 8 and 9;
+(iii)
+stating the quantity of Ammonium Nitrate to be transported;
+(iv)
+that he has received a reply and intimation in writing from the Station Master that he is prepared to receive the
+Ammonium Nitrate for immediate despatch;
+(v)
+that he has received a confirmation from the consignee regarding readiness to receive Ammonium Nitrate as authorised
+under these rules.
+(c)
+No person shall bring, send or forward to, or upon any railway any Ammonium Nitrate which the Indian Railways have
+by any notice of regulation for the time being in force notified that it shall not receive.
+22.
+Loading, unloading, maintenance and operation of vehicle engaged in transport of Ammonium Nitrate.
+(1)
+The vehicles engaged in transport of the Ammonium Nitrate, shall be attended by only such drivers or cleaners, whose
+antecedents are verified by the local police and a list of such drivers or cleaners along with all personal particulars
+should be made available to the local police in advance to carry out the verification and the re-verification of such drivers
+or cleaners should be carried out at regular intervals, once in five years.
+(2)
+The vehicles carrying Ammonium Nitrate shall be accompanied by at least two able bodied guards.
+(3)
+The vehicle carrying or containing Ammonium Nitrate shall not stop for a longer period than is reasonably required, and
+shall avoid stops at places where public safety is likely to be in danger:
+Provided that where a vehicle transporting or containing Ammonium Nitrate is parked overnight due to any reasons
+beyond the control of the driver, the premises in which the vehicle is parked-
+(a)
+shall not be used for any purpose that might give rise to the presence therein of an open flame, matches or any
+substance or article likely to cause explosion or fire;
+(b)
+shall be away from any habitation or any godown containing articles of a flammable nature or other hazardous goods
+Page 12/54
+----- PAGE 13 -----
+The Ammonium Nitrate Rules, 2012
+and the nearest police station shall be informed about the location of such temporary parking.
+(4)
+A vehicle while transporting Ammonium Nitrate shall be adequately secured at the expense of the licence holder and if
+the consignment of Ammonium Nitrate is likely to pass through sensitive areas notified by the Ministry of Home Affairs, it
+should be escorted by armed police escort or guard, provided by the District Police Administration.
+(5)
+The Ammonium Nitrate melt shall be transported in the melt tanker with discharge faucets and manhole(s) duly sealed
+by the melt supplying firm and the melt supplying firm shall issue quality control certificate indicating clearly the
+concentration factor of the Ammonium Nitrate melt.
+(6)
+The consignee shall verify that the concentration factor of Ammonium Nitrate is as specified in the invoice and that the
+seals on melt tank are intact.
+(7)
+The transport of Ammonium Nitrate in sensitive areas notified by Ministry of Home Affairs shall not be allowed during the
+period from sunset to sunrise. The movement of Ammonium Nitrate and the particulars of the origin and destination of
+the consignment shall be informed to the concerned police authorities in writing.
+(8)
+Fire extinguishers to be provided. - (a)Every vehicle transporting Ammonium Nitrate shall be provided with two fire
+extinguishers of minimum five kilograms capacity and one of the extinguishers shall be capable of dealing with fire
+involving electric circuits and the other, with other inflammable components.
+(b)
+The fire extinguishers shall always be kept in good working condition.
+(c)
+The fire extinguishers shall be located where they shall be convenient and ready for immediate use.
+(d)
+The fire extinguishers shall be examined and recharged according to the manufacturers' recommendations.
+23.
+Procedure on accidents to vehicles.
+(1)
+Where a vehicle transporting Ammonium Nitrate is involved in an accident, fire or any other occurrence that causes a
+significant delay in the delivery of Ammonium Nitrate or damage to the vehicle or Ammonium Nitrate, the driver or any
+other authorised person accompanying the vehicle shall-
+(a)
+comply with all requirements of law relating to road accidents;
+(b)
+inform the nearest police station and
+(c)
+inform the licensee holding transport licence who shall-
+inform the District Authority in whose jurisdiction the accident has taken place giving the full details of the Ammonium
+Nitrate carried and the accident;
+(2)
+In case of breakdown of a vehicle carrying Ammonium Nitrate, the driver or the person in charge of the vehicle shall
+inform the licensee, who shall in tum inform the District Authority and the nearest police station in whose jurisdiction the
+vehicle is broken down giving the full details of Ammonium Nitrate and the circumstances leading to the break down;
+24.
+Nothing contained in rules 20, 21, 22 and 23 shall be applicable for transport of solid Ammonium Nitrate,
+possessed/purchased by persons permitted/holding valid licence under these rules for quantities not exceeding 50
+Kilograms.
+Chapter VI
+Provision for Possession, Sale or use of Ammonium Nitrate
+25.
+Page 13/54
+----- PAGE 14 -----
+The Ammonium Nitrate Rules, 2012
+Possession in licensed premises.
+(1)
+A person holding licence for possession of Ammonium Nitrate granted under these rules shall store the Ammonium
+Nitrate only in the premises specified in the licence.
+(2)
+The premises in which Ammonium Nitrate is kept shall be used only for possession and sale or use of such Ammonium
+Nitrate and for no other purposes.
+(3)
+No person shall sell Ammonium Nitrate from any premises other than those licensed under these rules.
+(4)
+The Licensed storehouse shall be kept securely closed or locked except when Ammonium Nitrate is taken in or taken
+out.
+(5)
+The keys of the Licensed storehouse shall be kept in the licence holder's custody or with his authorised agent and shall
+be produced for opening the storehouse whenever so required by the inspecting officer.
+(6)
+The name, address and passport size photograph of the authorized agent with whom the keys will be kept shall be
+furnished to the licensing authority and the District authority having jurisdiction.
+26.
+Quantity of Ammonium Nitrate to be purchased in a given period of time.
+- A licence holder for possession, sale or use of Ammonium Nitrate in and from a storehouse shall purchase only such
+quantity of Ammonium Nitrate in a given period as may be specified in the licence.
+27.
+Accountability and transaction of Ammonium Nitrate.
+(1)
+All licences granted under these rules shall bear the photograph of the licence holder or the occupier.
+(2)
+For purchase and transaction of Ammonium Nitrate, the following procedures shall be observed, namely -
+(a)
+the indent for supply of Ammonium Nitrate in Form R-10 under Part 3 of Schedule II signed by the licence holder or his
+authorised representative shall be made over to the supplier;
+(b)
+the photograph and specimen signature of the licence holder or occupier shall be filed with the supplier of Ammonium
+Nitrate;
+(c)
+the photograph, specimen signature and address of the licence holder's authorised representative duly attested by the
+licence holder or occupier shall be filed with the supplier of Ammonium Nitrate.
+(3)
+The licensee shall engage only such authorised representatives, whose antecedents have been verified by the local
+police and a list of such authorised representatives along with all personal particulars shall be made available to the
+local police in advance to carry out the verification. Re-verification of such representative shall be carried out at regular
+intervals, once in five years.
+(4)
+The consignor of Ammonium Nitrate shall verify the photograph and signature of the representative of the consignee
+before effecting the delivery;
+(5)
+The authorised representative mentioned in these rules above shall represent one licence holder only.
+Chapter VII
+Grant or Refusal of Approval, Licence, Amendment, Transfer And Renewal
+28.
+Authority issuing Licences.
+Page 14/54
+----- PAGE 15 -----
+The Ammonium Nitrate Rules, 2012
+- The licences for specific purposes may be granted by the authorities specified in Schedule I.
+29.
+Payment of Fees.
+(1)
+The following fee shall be payable for prior approval, issuance of licences and amendment, namely :-
+(a)
+Scrutiny fee for prior approval- ? 1000
+(b)
+Licence to manufacture and possess for sale Ammonium Nitrate or convert melt to solid and, vice versa and possess for
+sale from a storehouse- ? 20,000/year
+(c)
+Licence to Possess for sale of Ammonium Nitrate from a store house- ? 2000/year
+(d)
+Licence to Possess for use of Ammonium Nitrate from a store house- ? 1000/year
+(e)
+Licence to Import Ammonium Nitrate- ? 5000
+(f)
+Licence to Export Ammonium Nitrate- ? 5000
+(g)
+Licence to stevedore, bag and store Ammonium Nitrate- ? 20,000/year
+(h)
+Licence to Transport Ammonium Nitrate- ? 2000/year
+(i)
+Amendment of licence- ? 1000
+(j)
+Duplicate copy of any licence- ? 100
+(2)
+When licence issuing authority is the Chief Controller or Controller, the fees payable shall be paid by a crossed bank
+draft or electronic means and when issuing authority is District Authority, the fees payable shall be paid in such manner
+as may be specified by him.
+(3)
+When licence is sought for more than one financial year ending on the 31st March, fees for the desired number of
+financial years at the rate specified in sub-rule (1) above shall be payable.
+30.
+Prior approval before construction of facilities.
+(1)
+A person desiring to obtain a licence for manufacture, conversion and storehouse for possession for sale or possession
+for use, of Ammonium Nitrate, under these rules, shall obtain prior approval from the authority empowered to grant such
+licence, by submitting documents mentioned in rule 33.
+(2)
+The District Magistrate while granting prior approval shall return to the applicant one set of plans showing the distances
+required to be kept clear as specified in rule 12 duly endorsed together with approval.
+(3)
+The Chief Controller or Controller, while granting prior approval, shall return to the applicant one set of plans showing
+the distances required to be kept clear within and around as specified in rule 12 duly endorsed and an additional set of
+the said documents to enable the applicant to submit the same to the authority authorised to issue no objection
+certificate under rule 33.
+Note: The prior approval under sub-rule (1) shall not be necessary for the facilities of Ammonium Nitrate existing as on
+the date of publication of these Rules, for obtaining license under these rules.
+31.
+Application for grant of licence.
+Page 15/54
+----- PAGE 16 -----
+The Ammonium Nitrate Rules, 2012
+- After the construction of premises, as per plan approved under rule 30, the applicant shall apply for grant of licence
+along with documents stated in rule 32 to the authority empowered to grant such licence.
+32.
+Period of validity of licence.
+- The licensing authority may grant a licence for a period not exceeding five financial years or part thereof ending on the
+31st March for all purposes, except for licence for import and export, which shall be one year.
+33.
+Documents to be submitted for seeking approval or licence.
+(1)
+The following documents shall be submitted for approval of premises proposed to be licensed, namely: -
+(a)
+Application in appropriate Form as per Part-1 of Schedule II.
+(b)
+Safety and Security Management Plan prepared as required under rule l5.
+(c)
+Three sets of the drawings of the proposed storehouse and attached facilities and the site showing approach road with
+all protected works in and around.
+(d)
+Documentary evidence in respect of company or partnership firm or society including list of directors or partners or office
+bearers, as the case may be, including nomination of the authorised signatory with their specimen signatures.
+(e)
+Six passport size photographs of the occupier signed by him in the front along with documentary evidence of nomination
+as occupier.
+(f)
+Scrutiny fee as specified in rule 29.
+(2)
+The following documents shall be submitted for grant of licence, namely:-
+(a)
+Application in appropriate Form as per Part-1 of Schedule II.
+(b)
+Six sets of the drawings approved under sub rule (1) above.
+(c)
+The particulars of persons employed for handling of Ammonium Nitrate, their qualification and experience. The applicant
+shall file an affidavit regarding their character and antecedents.
+(d)
+The certificate of completion of the storehouse and attached facilities duly endorsed by Chartered Engineer.
+(e)
+No Objection Certificate in original along with drawings duly endorsed from the concerned District Authority, where the
+District Authority is not the licence issuing authority.
+(f)
+Required licence fee as prescribed in rule 29.
+34.
+Procedure to be observed for issue of no objection certificate and grant of licence by the District Authority.
+(1)
+The applicant desiring to obtain a licence from the Chief Controller or Controller shall apply to the District Authority with
+set of drawings approved under sub-rule (3) of rule 30 for issue of a certificate to the effect that there is no objection to
+the applicant receiving licence for the site proposed.
+(2)
+(a)
+On receipt of the application for issue of no objection certificate or grant of licence, the District Authority shall verifY the
+antecedents of the applicant, lawful possession of the site, genuineness of the purpose, interest of the public any other
+Page 16/54
+----- PAGE 17 -----
+The Ammonium Nitrate Rules, 2012
+matter as deemed necessary and carry out any other verifications or enquiries as may be specifically required or
+deemed necessary by the licence issuing authority.
+(b)
+The Director General of Mines Safety shall be the authority to grant no objection certificate if the area of the proposed
+site comes under the Indian Mines Act, 1952.
+(3)
+Fresh No Objection Certificate is not required for manufacture or converters/storehouses, which already existing at the
+site covered under No Objection Certificate issued for the purpose by the District Authority or Director General of Mines
+Safety or No Objection Certificate issued under the Explosives Rules, 2008.
+(4)
+The District Authority shall complete the enquiry within a period of three months or as expeditiously as possible and
+such authority shall, after being satisfied, grant no objection certificate in Form C-2 of Part-4 of Schedule-II or grant the
+licence, as the case may be, along with site plan, duly signed and sealed by such authority.
+(5)
+If the District Authority or the Director General of Mines Safety, as the case may be, refuses to grant the no objection
+certificate on any of the grounds relating to the purpose of no objection certificate, then no licence shall be granted by
+the licence issuing authority except with the sanction of the Central Government.
+(6)
+The District Authority or the Director General of Mines Safety, as the case may be, shall grant no objection certificate or
+licence or convey his refusal for granting no objection certificate or licence, as the case may be, with reasons thereof in
+writing to the applicant as expeditiously as possible but not later than a period of six months from the date of receipt of
+application from the applicant.
+35.
+Grant of a Licence.
+(1)
+The Licence issuing Authority, on being satisfied with the documents received for grant of licence, in the Form specified
+in Schedule II and after making such inquiry, if any, as it may consider necessary, shall, subject to the other provisions
+of the Act and these rules, by order in writing either grant the licence or refuse to grant the same.
+(2)
+Licence for transport of Ammonium Nitrate or Ammonium Nitrate melt in Form P-4 shall be granted only to the valid
+license holders in Form P-1, P-2, P-3 or P-5.
+(3)
+The licensing authority may verify the facilities of the licensed premises and on satisfaction shall endorse the licence.
+(4)
+The licensing authority, if necessary, may impose additional conditions to the license.
+(5)
+The District Authority may refer to the Chief Controller for seeking any expert opinion, if required.
+36.
+Renewal of licence.
+(1)
+Every licence except the licences granted for import or export of Ammonium Nitrate shall be renewable for a maximum
+period of five financial years ending on the 31st March.
+(2)
+Every application under sub-rule (1) for renewal of the licence shall be accompanied by the following documents,
+namely:-
+(a)
+application in Form R-1;
+(b)
+original licence;
+(c)
+required renewal fee as specified in rule 29.
+Page 17/54
+----- PAGE 18 -----
+The Ammonium Nitrate Rules, 2012
+(3)
+A licence may be renewed by the authority empowered to grant such licence:
+Provided that a licence which has been granted by the Chief Controller may be renewed without any alteration by a
+Controller duly authorised by the Chief Controller in this behalf:
+Provided further that a licence, which has been granted by the District Magistrate, may be renewed without any
+alteration by a Sub-Divisional Magistrate or an Executive Magistrate duly authorised by the District Magistrate in this
+behalf.
+(4)
+Every application for the renewal of a licence shall be made so as to reach the licensing authority or the authority
+empowered to renew the licence on or before three months (i.e. 31st December) before the date on which the licence
+expires together with the licence fees:
+Provided that the application received after the 31st December till the date of expiry of the licence shall be treated as
+late application and the licences shall be renewed with the late fees equivalent to one year's licence fee.
+(5)
+If the application for renewal reaches the renewing or licensing authority on or before the date of expiry, the licence shall
+be deemed to be in force until such date as the licensing authority renews the licence or until an intimation that the
+renewal of the licence is refused has been communicated to the applicant and if no application is received till the date of
+validity of the licence, the licence shall stand expired.
+(6)
+The same fee shall be charged for the renewal of a licence for each year as for grant thereof.
+(7)
+Where a licence renewed for more than one financial year is surrendered before its expiry, the renewal fee paid for the
+unexpired portion of the licence shall be refunded to the licensee:
+Provided that no refund of renewal fee shall be made for the financial year during which the licensing authority received
+the renewed licence for surrender.
+(8)
+When a licence is renewed by the Chief Controller or a Controller, intimation to that effect shall be sent to the District
+Magistrate concerned and when a licence is renewed by the District Magistrate, intimation to that effect shall be sent to
+the Controller having jurisdiction.
+37.
+Amendment of licence in respect of alteration or change in the premises or licensed capacity, but not involving change
+of name of licensee or partners or directors or members.
+(1)
+A licence granted under these rules may be amended by the authority empowered to grant the licence if the amendment
+is consistent with the provisions of these rules.
+(2)
+A licensee who desires to have his licence amended shall submit the following particulars to the licensing authority,
+namely:-
+(a)
+Application in appropriate Form as per Part-1 of Schedule II stating nature of the amendment and the reasons thereof;
+(b)
+the original licence together with enclosures to it;
+(c)
+drawings showing the details of the proposed amendment if such drawings are required by the licensing authority for the
+purpose of amendment;
+(d)
+required amendment fee as prescribed in Rule 29
+(3)
+The licensing authority after scrutiny of the documents submitted under sub-rule (2), and after making such further
+inquiries and taking such action as deemed necessary, may amend the licence.
+38.
+Page 18/54
+----- PAGE 19 -----
+The Ammonium Nitrate Rules, 2012
+Procedure for change of partners or directors or members or occupier.
+- Whenever any new partner or member or director is inducted in the partnership firm or society or association or
+company, as the case may be, without any change in the name of the licence holder firm or society or association or
+company, the licence holder shall submit application to the licence issuing authority with the following documents for
+accepting the newly inducted partners or members or directors,-
+(a)
+application in appropriate Form as per Part-1 of Schedule II stating the nature of the amendment and the reasons
+thereof;
+(b)
+the names and addresses of newly inducted directors or partners or office-bearers, as the case may be, and in case the
+occupier is changed, photographs of the new occupier;
+(c)
+documentary evidence in respect of induction of directors or partners or office-bearers as the case may be, including
+their specimen signatures;
+(d)
+six passport size photographs of the new occupier signed by him in front along with documentary evidence of
+nomination as occupier;
+(e)
+a certificate of verification of antecedents from the District Authority of the newly inducted directors or partners or
+office-bearers, as the case may be, where the District Authority is not the licence issuing authority;
+(f)
+the original licence together with enclosures to it; and
+(g)
+the required amendment fee as prescribed in rule 29.
+39.
+Refusal for approval, grant or amendment of licence.
+- The licensing authority refusing to accord approval or grant licence including amendment shall record in writing the
+reasons for such refusal and communicate the same to the applicant and before refusal, the applicant shall be given an
+opportunity of being heard.
+40.
+Refusal to renew a licence.
+(1)
+The licensing authority refusing to renew a licence shall record the reasons for such refusal in writing.
+(2)
+The licensing authority shall refuse to renew a licence if such licence can be revoked in accordance with the Act or these
+rules.
+(3)
+A brief statement of reasons for refusal to renew a licence shall be given to the holder of the licence on demand unless
+in any case the licensing authority is of the opinion that it shall not be in public interest to furnish such statement.
+(4)
+Where the renewal of the licence is refused, the fee paid for the renewal shall be refunded to the licence holder after
+deducting the proportionate fee for the period beginning from the date from which the licence was to be renewed up to
+the date from which renewal thereof is refused.
+(5)
+Before refusing the renewal of a licence under the rule, the holder of the licence shall be given an opportunity of being
+heard.
+41.
+Cancellation of No Objection Certificate.
+(1)
+No Objection Certificate granted under rule 34, may be cancelled by the authority issuing the same or authority superior
+to it, if such authority is satisfied, that-
+Page 19/54
+----- PAGE 20 -----
+The Ammonium Nitrate Rules, 2012
+(a)
+the licence holder has ceased to have any right for the lawful possession over the premises;
+(b)
+the licence holder is convicted and sentenced for any criminal offence or ordered to execute under Chapter VIII of the
+Code of Criminal Procedure, 1973 (2 of 1974), a bond for keeping peace for good behaviour;
+(c)
+the cancellation of no objection certificate is absolutely necessary for public peace and safety:
+Provided that before cancellation of the no objection certificate, the licence holder shall be given an opportunity of being
+heard.
+(2)
+The authority issuing the no objection certificate or the State Government cancelling no objection certificate shall record,
+in writing, the reasons for such cancellation and shall immediately furnish to the licence holder and the licensing
+authority concerned, a copy of the order cancelling the no objection certificate and the reason for such cancellation.
+(3)
+In case an appeal is made against the cancellation of no objection certificate, such appeal shall be preferred within a
+period of sixty days, before the authority superior to the District Authority or the Director General of Mines Safety, as the
+case may be, and the appellate authority may consult the Chief Controller, if so desired.
+42.
+Suspension and revocation or cancellation of licence.
+(1)
+Every licence granted under these rules shall-
+(a)
+stand cancelled, if the licence holder is convicted and sentenced under any criminal offences or ordered to execute
+under Chapter VIII of the Code of Criminal Procedure, 1973 (2 of 1974), a bond for keeping peace for good behaviour;
+(b)
+stand cancelled, if the No Objection Certificate is cancelled by the District Authority or the State Government.
+(c)
+be liable to be suspended or cancelled by an order of the licensing authority for any contravention of the Act or these
+rules or of any condition contained in such licence, or by order of the Central Government, if it is satisfied that there are
+sufficient grounds for doing so:
+Provided that before suspending or cancelling a licence under this rule, the holder of the licence shall be given an
+opportunity of being heard.
+(2)
+The suspension or cancellation shall take effect from the date specified therein.
+(3)
+An order of suspension or revocation of a licence shall be deemed to have been served if sent by post to the address of
+the licence holder entered in the licence.
+(4)
+The suspension of a licence shall not debar the holder of the licence from applying for the renewal.
+(5)
+Notwithstanding anything contained in sub-rule (1), an opportunity of being heard may not be given to the holder of the
+licence before his licence is suspended or cancelled in cases -
+(i)
+where the licence is suspended by a licensing authority as an interim measure for violation of any of the provisions of
+the Actor these rules or of any conditions contained in such licence and in his opinion such violation is likely to cause
+imminent danger to the public:
+Provided that where a licence is so suspended, the licensing authority shall give the holder of the licence an opportunity
+of being heard before the order of suspension is confirmed; or
+(ii)
+where the licence is suspended or cancelled by the Central Government, in the public interest or in the interest of the
+security of the State, such opportunity should not be given.
+Page 20/54
+----- PAGE 21 -----
+The Ammonium Nitrate Rules, 2012
+(6)
+A licensing authority or the Central Government suspending or cancelling a licence shall record its reason for so doing in
+writing.
+43.
+Procedure on expiry, suspension or revocation or cancellation of licence.
+(1)
+A licence holder on the expiry, suspension or revocation or cancellation of the licence shall forthwith give notice to the
+licensing authority, of the description and quantity of the Ammonium Nitrate in his possession and shall comply with the
+directions which the licence issuing authority may give in regard to their disposal.
+(2)
+In case the licence is revoked or cancelled by the licensing authority, fee for unexpired portion shall be reimbursed to the
+applicant by the licensing authority.
+44.
+Provision for appeal.
+(1)
+An appeal against an order of the licensing authority refusing to grant or renew a licence or suspending or revoking a
+licence shall lie, if the order is passed by the;
+(a)
+Chief Controller, to the Central Government
+(b)
+Controller, to the Chief Controller
+(c)
+District Authority, to the immediate superior to such Authority.
+(2)
+Every appeal referred in sub-rule (1) shall be preferred within a period of sixty days of the date of the communication of
+such order.
+45.
+Procedure to be followed by the appellate authority.
+(1)
+On receipt of the appeal and if such appeal can be admitted in accordance with the Act the appellate authority may call
+for records of the case from the authority who passed the order appealed against and may make such further enquiries
+as it may deem necessary and after giving the appellant an opportunity of being heard, pass final orders.
+(2)
+The action taken by the appellate authority shall conform to the provisions of section 6F of the Act.
+46.
+Procedure on death or disability of licence holder.
+(1)
+If a licence holder dies or becomes insolvent or becomes mentally incapable or otherwise disabled, the licence granted
+to him under these rules shall stand cancelled on the date of the licence holder's death or mental incapacity or
+insolvency or disability, as the case may be.
+(2)
+The legal heirs or representatives of the licence holder shall as soon as may be, inform the licensing authority;
+(a)
+about the date of death, insolvency, mental incapacity or other disability as the case may be, of the licence holder; and
+(b)
+shall await the directions of the licensing authority with regard to the disposal of the Ammonium Nitrate kept at the
+licensed premises.
+47.
+Loss of licence.
+- Where a licence granted under these rules or an authenticated copy granted thereof, is lost or accidentally destroyed,
+a duplicate copy may be issued on payment of fees, as given under the provisions of rule 29.
+Page 21/54
+----- PAGE 22 -----
+The Ammonium Nitrate Rules, 2012
+Chapter VIII
+Powers Vested With Authorities
+48.
+Power of officers to demand licence or pass.
+- Every person holding a licence granted under these rules shall, when called upon to do so by any authority specified in
+rule 50, produce it, or an authenticated copy of it, at such time and place as may be directed by such officer.
+(1)
+Every person in charge of a consignment of Ammonium Nitrate or Ammonium Nitrate melt in transit having a valid pass
+issued under these rules shall produce it when called upon to do so by any authority specified in rule 50.
+(2)
+Copies of any licence may, for the purposes of these Rules, be authenticated free of charge by the authority, which
+granted the licence.
+49.
+Executive control over authorities.
+- Every authority other than the Central Government acting under these rules shall be subject to the directions and
+control of the Central Government:
+Provided that nothing in these rules shall be deemed to affect the powers of executive control of the Chief Controller
+over the Officers subordinate to him.
+50.
+Powers of search and seizure.
+(1)
+Any authority specified in column (1) of the Table below may within the jurisdiction specified in the corresponding entry
+in column (2) of that Table;
+(a)
+enter, inspect and examine any place, aircraft, train, carriage, vessel or any mode of transport in which an Ammonium
+Nitrate is being manufactured, converted, possessed, used, sold, transported, exported or imported under a licence
+granted under these rules, or in which he has reason to believe that an Ammonium Nitrate has been or is being
+manufactured, converted, possessed, used, sold, transported, exported or imported in contravention of the Act or these
+rules;
+(b)
+search for Ammonium Nitrate;
+(c)
+take samples of any Ammonium Nitrate, seize, detain and remove any Ammonium Nitrate found therein together with
+connected documents thereof in respect of which he has reason to believe that any of the provisions of the Act or these
+rules have been contravened.
+Table
+Serial Number
+Authority
+Jurisdiction
+1
+All District Magistrates.
+Their respective jurisdiction
+2
+All Executive Magistrates subordinate to the District
+Magistrate.
+Their respective jurisdiction
+3
+All Commissioners of Police or Police Officers of rank not
+below that of a Sub-Inspector of Police.
+Their respective jurisdiction
+4
+Page 22/54
+----- PAGE 23 -----
+The Ammonium Nitrate Rules, 2012
+The Director General of Mines Safety or officers subordinate
+to him.
+Their respective jurisdiction
+5
+The Chief Controller or Controller of Explosives
+All parts of India
+51.
+Procedure on reports of infringement.
+(1)
+Whenever any report is made to the District Magistrate by the Chief Controller or Controller of an infringement of the Act
+or of these rules, the District Magistrate shall take immediate action and shall inform the Chief Controller or the
+Controller, as the case may be, of the action taken by him on such report.
+(2)
+The Chief Controller or a Controller shall destroy any Ammonium Nitrate whenever found in respect of which the Chief
+Controller or Controller, as the case may be, has reasons to believe that any of the provisions of these rules have been
+contravened or which in his opinion are no longer fit for storage, transport or use and the matter appears to be urgent to
+such Controller and fraught with serious danger to the public, place or owner of Ammonium nitrate.
+(3)
+Nothing in this rule shall apply to improvised explosives device containing Ammonium Nitrate or mixture thereof.
+Chapter IX
+Accidents, Inquiries and Reports
+52.
+Notice of any loss or theft.
+- The licence holder shall give a notice of any loss or theft involving the Ammonium Nitrate or Ammonium Nitrate melt in
+his possession, where the loss exceeds the permitted limit of loss that typically occurs during routine productions,
+storage, transportation, or use of Ammonium Nitrate to the licensing authority and concerned District Authority giving
+details of the circumstances leading to loss or theft and the notice of loss or theft shall also be reported to the nearest
+local police station.
+53.
+Notice of accident.
+(1)
+The notice of an accident required to be given under section 8 of the Act shall be given within a period of twenty four
+hours of the accident by telephone, telegram, E-mail, fax or in any other electronic mode or by special messenger
+followed by a written report signed by the occupier or authorized agent giving particulars of the circumstances leading to
+the accident, loss of human life, injury to persons, damage to property, emergency action taken etc, to the-
+(a)
+Chief Controller;
+(b)
+Controller in whose jurisdiction accident has taken place;
+(c)
+District Magistrate; and
+(d)
+Officer-in-charge of the nearest police station.
+(2)
+Pending the visit of the Chief Controller, or his authorized representative or instruction received from the Chief Controller
+or his representative that he does not wish any further investigation or inquiry to be made, all wreckage and debris shall
+be left untouched except in so far as its removal may be necessary for the rescue of persons injured and recovery of the
+bodies of any persons killed by the accident or in the case of aerodromes, ports or railways, or place of
+loading/unloading for the restoration of thorough communication.
+(3)
+The Chief Controller or his authorized representative, if so required by them, shall be provided with all assistance by the
+Page 23/54
+----- PAGE 24 -----
+The Ammonium Nitrate Rules, 2012
+officer in charge of the nearest police station.
+54.
+Procedure at courts of inquiry.
+(1)
+The Chief Controller shall arrange with the heads of the Armed Forces or Ordnance Factories or other establishments of
+such forces to be represented at the Courts of Inquiry where he so desires.
+(2)
+The Chief Controller shall be provided with copies of the proceedings of the Court where he is not represented.
+(3)
+The heads of Armed Forces or Ordnance Factories or other establishments of such forces, as the case may be, shall
+co-operate with the Chief Controller by informing him immediately of occurrences, liable to lead to the summoning of
+Courts of Inquiry on matters of interest to the Chief Controller as indicated by him.
+(4)
+The Chief Controller may attend in person or send a representative and in either case he shall have power to examine
+witnesses, where he so desires.
+55.
+Inquiry into accident.
+(1)
+Whenever a District Magistrate holds an inquiry under sub-section (1) of section 9 of the Act, that officer shall adjourn
+such an inquiry unless the Chief Controller or an officer nominated by him is present to watch the proceedings or such
+Magistrate has received information from the Chief Controller that he does not wish to send a representative.
+(2)
+The District Magistrate shall, at least twenty one days before holding the adjourned inquiry, send to the Chief Controller
+a notice in writing of the time and place of holding the adjourned inquiry.
+(3)
+Where an accident has been attended with loss of human life, the District Magistrate, before the adjournment may take
+evidence to identify the dead bodies and may order the disposal thereof.
+(4)
+The Chief Controller or his representative shall be at liberty at any such inquiry to examine any witness subject to the
+order of the District Magistrate on points of law.
+(5)
+Where the Chief Controller is not present or represented at any inquiry held by a District Magistrate, a copy of the report
+of the proceedings thereof shall be sent to him.
+56.
+Inquiry into more serious accidents.
+(1)
+Whenever an inquiry is held under section 9A of the Act, the persons holding such inquiry shall hold the same in open
+court in such manner and under such conditions as they may think most effectual for ascertaining the causes and
+circumstances of the accidents and enabling them to make the report under this rule;
+Provided that where the Central Government so directs the inquiry may be held in camera.
+(2)
+Whenever an inquiry under sub-rule (1) is held by a person other than the Chief Controller, such person shall arrange for
+the Chief Controller to be represented at such inquiry including any adjournment thereof.
+(3)
+The person holding the inquiry shall, at least twenty one days before holding the inquiry or any adjourned inquiry, send
+to the Chief Controller a notice in writing of the time and place of holding such inquiry.
+(4)
+The Chief Controller may attend in person or send a representative and in either case, he shall have power to examine
+witnesses where he so desires.
+Chapter X
+Administrative Action
+Page 24/54
+----- PAGE 25 -----
+The Ammonium Nitrate Rules, 2012
+57.
+Protection of action taken in good faith.
+- No suit, prosecution or other legal proceeding shall lie against the Government or any officer or other employee of the
+Government for anything which is in good faith done or intended to be done in pursuance of these rules.
+58.
+Administrative action after inspection for violation.
+- The inspecting authority on inspection of the premises, shall communicate to the licence holder and licensing authority
+in writing, his observations, discrepancies or the violations, if any, of the rules or contravention of conditions of the
+licence; and a copy of the inspection report shall be endorsed to the licensing authority for taking further necessary
+action.
+I
+Licences and Licensing Authority
+(See rule 28)
+Serial Number
+Purpose for which granted
+Form of Licence
+Licensing Authority
+1
+Licence to manufacture and possess for sale Ammonium Nitrate
+or convert melt to solid and vice versa and possess for sale of
+Ammonium Nitrate
+P-1
+Chief Controller or Controller authorised by Chief Controller
+2
+Licence to stevedore, bag and store Ammonium Nitrate
+P-2
+Chief Controller
+3
+(a) Licence to Possess for sale or use of Ammonium Nitrate
+from a store house not exceeding 30MT; or
+P-3
+District Authority
+(b) Licence to Possess for sale or use of Ammonium Nitrate
+from a store house exceeding 30MT; or
+P-3
+Chief Controller or Controller authorised by Chief Controller
+(c) Licence to Possess for use of Ammonium Nitrate from a
+store house attached to explosives manufacturing/Nitrous Oxide
+manufacturing unit; or
+P-3
+Chief Controller or Controller authorised by Chief Controller
+(d) Licence to possess for use Ammonium Nitrate for
+agricultural purpose from a storehouse.
+P-3
+District Authority or Officer authorised by District Authority
+4
+(a) Licence to transport Ammonium
+Nitrate for licences granted by District Authority for possession
+for sale or possession for use; or
+(b) Licence to transport Ammonium Nitrate for Licences granted
+by the Chief Controller or Controller for possession for sale or
+Page 25/54
+----- PAGE 26 -----
+The Ammonium Nitrate Rules, 2012
+possession for use.
+P-4
+District Authority or Officer authorised by District
+AuthorityChief Controller or Controller
+5
+(a) Licence to Import Ammonium Nitrate; or(b) Licence
+to Export Ammonium Nitrate
+P-5
+Chief Controller
+II
+Part-1
+Application Forms
+(See rule 33 of Ammonium Nitrate Rules, 2012)
+Form No.
+Purpose
+A-1
+Application for Licence to manufacture and possess for sale
+Ammonium Nitrate or convert melt to solid and vice versa and
+possess for sale of Ammonium Nitrate
+A-2
+Application for Licence to stevedore, bag and store Ammonium
+Nitrate
+A-3
+Application for(a) Licence to Possess for sale or use of
+Ammonium Nitrate from a store house not exceeding 30MT; or(b)
+Licence to Possess for sale or use of Ammonium Nitrate from a
+store house exceeding 30MT; or(c) Licence to Possess for
+use of Ammonium Nitrate from a store house attached to explosives
+manufacturing/Nitrous Oxide manufacturing unit; or(d)
+Licence to possess for use Ammonium Nitrate for agricultural
+purpose from a storehouse.
+A-4
+Application for licence to transport Ammonium Nitrate
+A-5
+Application for licence to(a) Import Ammonium Nitrate;
+or(b) Export Ammonium Nitrate
+Part-2
+Licence Forms
+(See rule 35 of Ammonium Nitrate Rules, 2012)
+Form No.
+Purpose
+P-1
+Licence to manufacture and possess for sale Ammonium Nitrate
+or convert melt to solid and vice versa and possess for sale of
+Ammonium Nitrate
+P-2
+Licence to stevedore, bag and store Ammonium Nitrate
+P-3
+(a) Licence to Possess for sale or use of Ammonium Nitrate
+from a store house not exceeding 30MT; or(b) Licence to
+Possess for sale or use of Ammonium Nitrate from a store house
+Page 26/54
+----- PAGE 27 -----
+The Ammonium Nitrate Rules, 2012
+exceeding 30MT; or(c) Licence to Possess for use of
+Ammonium Nitrate from a store house attached to explosives
+manufacturing/Nitrous Oxide manufacturing unit; or(d)
+Licence to possess for use Ammonium Nitrate for agricultural
+purpose from a storehouse.
+P-4
+Licence to transport Ammonium Nitrate
+P-5
+(a) Licence to
+Import Ammonium Nitrate; or(b) Licence to Export Ammonium
+Nitrate.
+Part-3
+Return Forms
+(See rules 14, 18, 20, 21, 27 and 36 of Ammonium Nitrate Rules, 2012)
+Form No.
+Purpose
+R-1
+Application for renewal of licence
+R-2
+Form of Account to be maintained by Licence holder - Account
+of Ammonium Nitrate manufactured, converted.
+R-3
+Declaration to be submitted to the Chief Controller by an
+importer on despatch of Ammonium Nitrate from the place or port
+of loading
+R-4
+Importers despatch schedule.
+R-5
+Form of Account to be maintained by Stevedore - Account of
+Ammonium Nitrate stevedored, bagged and dispatched.
+R-6
+Form of records to be maintained by a Transport Licence Holder
+Records of Ammonium Nitrate or Melt transported by vehicle.
+R-7
+Form of Account to be maintained by Licence holder - Account
+of sale of Ammonium Nitrate
+R-8
+Form of Account to be maintained by Licence holder - Account
+of use of Ammonium Nitrate/
+R-9
+Monthly Returns of Ammonium Nitrate
+R-10
+Form of Indent for Ammonium Nitrate
+R-11(a)
+Form of intimation to be given by the Consignor to the
+District Superintendent of Police before dispatch of consignment.
+R-11(b)
+Pass issued by the Consignor for transport of Consignment of
+Ammonium Nitrate
+Part-4
+Certificates
+Page 27/54
+----- PAGE 28 -----
+The Ammonium Nitrate Rules, 2012
+(See rules 18 and 34 of Ammonium Nitrate Rules, 2012)
+Form No.
+Purpose
+C-1
+Declaration to be made by the master of a ship carrying
+Ammonium Nitrate before entering a port or by the ship's agent
+C-2
+Format of No Objection Certificate
+Form A-1
+(See Part-1 of Schedule II and rules 33, 35 and 37 of Ammonium Nitrate Rules, 2012)
+Application for Licence to manufacture and possess for sale Ammonium Nitrate or convert melt to solid and vice versa
+and possess for sale of Ammonium Nitrate
+I, ...................................... on behalf of ................... apply for approval or grant or amendment of licence for the following
+purpose.
+Purpose : ..........................................
+1. I require licence in the following name and postal address:
+(a)
+Name in which licence is required to be granted (see notes below) .................
+(b)
+Status ..........................
+(c)
+Age ..........................
+(d)
+Postal address:
+................................................................................ City ........................ District.......................State ........................ Pin
+code ........................ Police Station..................... Railway Station or Steamer Ghat ..................... Phone ..................
+Email ....................... Fax ..............................
+2. The proposed premises are situated at the following address: ........................................................................ Survey
+number ...................... City ........... District  ........................... State ........................ Pin code ........................ Police
+Station ..................... Railway Station or Steamer Ghat ..................... Phone ..................... Email ............. ....... Fax
+...........
+3. Qualifications and experience of applicant ............................ and the technical personnel employed by him
+................................
+4. Quantity of Ammonium Nitrate proposed to be manufactured, converted per day .............................
+a) Annual capacity of the manufacturing, conversion plant ......................
+b) Date of commencement of manufacturing (for existing manufacturers only)
+c) Quantity of Ammonium Nitrate present at any one time in each storehouse ............................ each shed of the
+conversion plant ............................
+d) Total Quantity of Ammonium Nitrate proposed to be stored at anyone time ..............................
+e) Details of amendment proposed or additional information, if any ...............................
+5. Has the applicant been convicted under any offence or ordered to execute bond under Chapter VIII of Code of
+Criminal Procedure, 1973(2 of 1974) during the last 10 years. Yes .... No ......
+If yes, please give details ...........................................
+6. (a) particulars of other licences under Ammonium Nitrate Rules, 2012 if any held by the applicant during the last 10
+years
+(b)
+Was any licence cancelled or not renewed?...... Yes ........ No ........
+(c)
+If yes, give details ................................
+7. Particulars of amendment proposed/ Additional information if any .....................................................
+I hereby certify that the above particulars given by me are correct.
+Page 28/54
+----- PAGE 29 -----
+The Ammonium Nitrate Rules, 2012
+Date .......
+Signature of applicant ...............................
+(Authorised person in case of a Company)
+Full Name ................................
+Address ................................
+Notes:
+Please see the rule for the purpose and documents, to be enclosed.
+(1)
+In case where application is made by a person other than an individual, the names and addresses of the occupier as per
+rule 2 and directors or partners or members, as the case may be, and specimen signatures of authorised person to be
+attached.
+(2)
+Passport size photographs of the occupier to be attached.
+(3)
+Any change in the above information should be immediately communicated to the Chief Controller of Explosives, District
+Authority and authority renewing the licence.
+(4)
+Age to be given in case the applicant is an individual.
+(5)
+(a)
+Ammonium Nitrate storehouse shall maintain;
+(i)
+for storage not exceeding 30 MT, Safety Distance of 4.5 metres from store house to the compound wall and 45 metres
+from any protected works;
+(ii)
+for storage exceeding 30 MT, Safety Distance of 9 metres from store house to the compound wall and 90 metres from
+any protected works;
+(b)
+the storehouse may be adjacent to the bagging unit of the manufacturing, conversion or explosives/nitrous oxide
+manufacturing plants, but shall observe the provisions of clause 4(a) (i) and (ii) of Rule12.
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law.
+Form A-2
+(See Part-1 of Schedule II and rules 33, 35 and 37 of Ammonium Nitrate Rules, 2012)
+Application for licence to stevedore, bag and store Ammonium Nitrate
+I, ................................... on behalf of ........... apply for approval or grant or amendment of licence for the following
+purpose.
+Purpose: ...............................................................
+1. I require licence in the following name and postal address:
+(a)
+Name in which licence is required to be granted (see notes below)
+(b)
+Status ..........................
+(c)
+Age .........................
+(d)
+Postal address:
+............................................................................................................................................................................ City
+.............. District ..................... State ........................ Pin code ........................ Police Station ..................... Railway
+Station or Steamer Ghat .............................. Phone ............... Email. .......................... Fax ...............
+2. The proposed bagging premises is situated at the following address:
+........................................................................................................................................................................ Survey
+Page 29/54
+----- PAGE 30 -----
+The Ammonium Nitrate Rules, 2012
+number ...................... City ......................... District ........................ State ............... Pin code ........................ Police
+Station ..................... Railway Station ......................... Port of import ................. Phone ............ Email .............. Fax
+............
+3. Details of the registration of Stevedoring agent by Port Authority ............................................................
+4. Qualifications and experience of applicant and the technical personnel employed him .......................
+5. Bagging capacity of Ammonium ............................
+a) Annual bagging capacity ...........................
+b) Quantity of Ammonium Nitrate present at anyone time in each bagging go down ............................. And attached
+storehouse (if any) ...............................
+c) Total Quantity of Ammonium Nitrate proposed to be stored at anyone time both in bulk and bagged condition
+.................................
+d) Details of amendment proposed or additional information, if any ...............................
+6. Has the applicant been convicted under any offence or ordered to execute bond under Chapter VIII of Code of
+Criminal Procedure, 1973(2 of 1974) during the last 10 years. Yes .... No ....
+If yes, please give details ...........................................
+7. (a) particulars of other licences under Ammonium Nitrate Rules, 2012, if any held by the applicant during the last 10
+years
+(b)
+was any licence cancelled or not renewed? Yes ......... No ........
+(c)
+If yes, give details ............................
+8. Particulars of amendment proposed/ Additional information if any
+...............................................................................................................
+I hereby certify that the above particulars given by me are correct.
+Date ...................
+Signature of applicant ................
+(Authorised person in case of a Company)
+Full Name ...............................
+Address .............................
+Notes:
+Please see the rule for the purpose and documents to be enclosed
+(1)
+In case where application is made by a person other than an individual, the names and addresses of the occupier as per
+rule 2 and directors or partners or members, as the case may be, and specimen signatures of authorised person to be
+attached.
+(2)
+Passport size photographs of the occupier to be attached.
+(3)
+Any change in the above information should be immediately communicated to the District Authority and authority
+renewing the licence.
+(4)
+Age to be given in case the applicant is an individual.
+(5)
+(a)
+Ammonium Nitrate storehouse shall maintain;
+(i)
+for storage not exceeding 30 MT, Safety Distance of 4.5 metres from store house to the compound wall and 45 metres
+from any protected works;
+(ii)
+for storage exceeding 30 MT, Safety Distance of 9 metres from store house to the compoll1ld wall and 90 metres from
+any protected works;
+Page 30/54
+----- PAGE 31 -----
+The Ammonium Nitrate Rules, 2012
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law.
+Form A-3
+(See Part-1 of Schedule II and rules 33, 35 and 37 of Ammonium Nitrate Rules, 2012)
+Application for grant/ amendment of:
+(a)
+Licence to Possess for sale or use of Ammonium Nitrate from a store house not exceeding 30MT; or
+(b)
+Licence to Possess for sale or use of Ammonium Nitrate from a store house exceeding 30MT; or
+(c)
+Licence to Possess for use of Ammonium Nitrate from a store house attached to explosives manufacturing/Nitrous
+Oxide manufacturing unit; or
+(d)
+Licence to possess for use Ammonium Nitrate for agricultural purpose from a storehouse.
+I, ...................................... on behalf of .................. apply for approval or grant or amendment of licence for the following
+purpose.
+1. Purpose:
+2. I require licence in the following name and postal address:
+(a)
+Name in which licence is required to be granted (see notes below) .......................
+(b)
+Status ...........................
+(c)
+Age ..............................
+(d)
+Postal address:
+.................................................................................................................. City ............. District .................... State
+.............................. Pin code ....................... Police Station ..................... Railway Station or Steamer Ghat ..................
+Phone ........................ Email ...................... Fax .......................
+3. The proposed premises are situated at the following address:
+............................................................................................................................... Survey number .......................... City
+...................... District ................................ State ..................... Pin code ....................... Police Station .....................
+Railway Station or Steamer Ghat ..................Phone .......................... Email ...................... Fax .............................
+4. Qualifications and experience of applicant and the technical personnel employed by him ................................
+5. Ammonium Nitrate proposed to be possessed and sold:*
+(i)
+Quantity of Ammonium Nitrate proposed to be possessed at anyone time ...................
+(ii)
+Quantity of Ammonium Nitrate proposed to be sold in one month
+6. (a) Ammonium Nitrate proposed to be possessed and used* -
+(i)
+State the purpose of Ammonium Nitrate usage ................................
+(ii)
+Quantity of Ammonium Nitrate proposed to be used per day ...................
+(iii)
+Quantity of Ammonium Nitrate proposed to be used in one month ..........
+(iv)
+Quantity of Ammonium Nitrate proposed to be possessed for use at anyone time ......................
+(b)
+Details of site and distance of site where the AN will be used from the storage premises mentioned in item 3
+.......................
+7. Has the applicant been convicted under any offence or ordered to execute bond under Chapter VIII of Code of
+Page 31/54
+----- PAGE 32 -----
+The Ammonium Nitrate Rules, 2012
+Criminal Procedure, 1973(2 of 1974) during the last 10 years. Yes ...... No ......
+If yes, please give details .........................................
+8. (a) particulars of other licences under Ammonium Nitrate Rules, 2012, if any held by the applicant during the last 10
+years.
+.......................................................
+(b)
+particulars of licence/s under Explosives Rules 2008, if any held by the applicant during the last 10 years.
+.......................................................
+(c)
+was any licence cancelled or not renewed? ...... Yes ....... No .......
+(d)
+If yes, give details ................................
+9. Particulars of amendment proposed/ Additional information if any
+.................................................................................................................
+I hereby certifY that the above particulars given by me are correct.
+Date......................
+Signature of applicant .................
+(Authorised person in case of a Company)
+Full Name ................................
+Address ................................
+*strikeout inapplicable portion
+Notes:
+Please see the rule for the purpose and documents to be enclosed
+(1)
+In case where application is made by a person other than an individual, the names and addresses of the occupier as per
+rule 2 and directors or partners or members, as the case may be, and specimen signatures of authorised person to be
+attached.
+(2)
+Passport size photographs of the occupier to be attached.
+(3)
+Any change in the above information should be immediately communicated to the Licence Issuing authority and
+authority renewing the licence.
+(4)
+Age to be given in case the applicant is an individual.
+(5)
+(a)
+Ammonium Nitrate storehouse shall maintain;
+(i)
+for storage not exceeding 30 MT, Safety Distance of 4.5 metres from store house to the compound wall and 45 metres
+from any protected works;
+(ii)
+for storage exceeding 30 MT, Safety Distance of 9 metres from store house to the compound wall and 90 metres from
+any protected works;
+(b)
+the storehouse may be adjacent to the explosives/nitrous oxide manufacturing plants, but shall observe the provisions of
+clause 4(a) (i) and (ii) of Rule, 12
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law.
+Form A-4
+(See Part-1 of Schedule II and rules 33, 35 and 37 of Ammonium Nitrate Rules, 2012)
+Application for grant/amendment of licence to transport Ammonium Nitrate
+I, ............... on behalf of ....... apply for grant of a licence/amendment of licence No ........ to transport Ammonium Nitrate.
+Page 32/54
+----- PAGE 33 -----
+The Ammonium Nitrate Rules, 2012
+The particulars are given below and other documents are enclosed as required.
+Replies to be given in this column
+1.
+Name of the applicant (see note below)
+..........................
+2.
+Applicant's postal addressPin Code No.Telephone
+No.Telex
+........................................................................................................
+3.
+Particulars of licence granted under Ammonium Nitrate Rules
+2012 held by the applicant from where the Ammonium Nitrate will
+be transported licence noSituation of premises
+..........................For
+possession and sale/use..........................
+Licensed capacity
+..........................
+Date upto which the licence is valid
+..........................
+4.
+Particulars of place/s to which the Ammonium Nitrate will be
+transported
+..........................
+5.
+Mode of transport:
+..........................
+6.
+(a) Has the applicant been convicted under any offence or
+ordered to execute bond under Chapter VIII of Code of Criminal
+Procedure 1973(2 of l974) during last ten years?
+Yes      No
+(b) If yes please give details
+..........................
+7.
+(a) Particulars of other licences under Explosives Act 1884 if
+any held by the applicant during last ten years
+..........................
+(b) Was any licence cancelled/not renewed?
+..........................
+(c) If yes give details
+..........................
+8.
+Particulars of amendment proposed/Additional information if
+any
+..........................
+I hereby certify that the above particulars given by me are correct.
+Date .....................
+Signature of applicant ...............
+(Authorised person in case of a Company)
+Full Name ................................
+Address ................................
+Page 33/54
+----- PAGE 34 -----
+The Ammonium Nitrate Rules, 2012
+Notes:
+Please see the rule for the purpose and documents to be enclosed
+(1)
+In case where application is made by a person other than an individual, the names and addresses of the occupier as per
+rule 2 and directors or partners or members, as the case may be, and specimen signatures of authorised person to be
+attached.
+(2)
+Passport size photographs of the occupier to be attached.
+(3)
+Any change in the above information should be immediately communicated to the licensing authority and authority
+renewing the licence.
+(4)
+Age to be given in case the applicant is an individual.
+(5)
+Copy of license form P1, P2, P3 or P5
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law.
+Form A-5
+(See Part-1 of Schedule II and rules 33 and 35 of Ammonium Nitrate Rules, 2012)
+Application for grant of licence to
+(a)
+Import Ammonium Nitrate; or
+(b)
+Export Ammonium Nitrate
+I, ......................................... on behalf of ................................... apply for grant of licence for the following purpose.
+1. Purpose: Import or Export..................................................................
+2. Name: I require licence in the following name and postal address:
+(a)
+Name in which licence is required to be granted (see notes below)...........................................................
+(b)
+Status .............................
+(c)
+Age .............................
+(d)
+Postal address:
+.................................................................................. City ...................... District ................... State ..................... Pin code
+............... Police Station ..................... Railway Station or Steamer Ghat .................... Phone ............... Email
+................... Fax ...................
+3.
+(a)
+(for Import).
+(i)
+Quantity of Ammonium Nitrate proposed to be imported at a time ..............................
+(ii)
+Name and address of the manufacturer and or country of importer of Ammonium Nitrate to be imported
+..................................
+(iii)
+Particulars of the storehouse where Ammonium Nitrate will be stored after import :
+(iv)
+Port or place of import ................................
+(v)
+Whether import of Ammonium Nitrate is in bulk or bagged form.
+Page 34/54
+----- PAGE 35 -----
+The Ammonium Nitrate Rules, 2012
+(vi)
+Particulars of Stevedoring agent giving his name addressed and licence No ......................
+3.
+(b)
+(for Export)
+(i)
+Quantity of Ammonium Nitrate to be exported .........................
+(ii)
+Name and address of consignee or country of Export ......................
+(iii)
+Place or port from which Ammonium Nitrate wil1 be exported .....................
+4. Has the applicant been convicted under any offence or ordered to execute bond under Chapter VIII of Code of
+Criminal Procedure, 1973 (2 of 1974) during the last 10 years. Yes ...... No ......
+If yes, please give details ...............................................
+5. (a) Particulars of other licenses under Explosives Act, 1884, if any held by ............................... the applicant during
+the last 10 years.
+(b)
+was any licence cancelled or not renewed? ...... Yes ......... No ........
+(c)
+If yes, give details ................................
+6.
+a) Has applicant imported or exported Ammonium Nitrate in the past
+Yes ............ No ..........
+b) If yes details thereof for last three years .......................
+7. Particulars of amendment proposed/ Additional information if any ...................................................
+I hereby certify that the above particulars given by me are correct.
+Date .....................
+Signature of applicant ................
+(Authorised person in case of a Company)
+Full Name ...............................
+Address ...............................
+Notes:
+Please see the rule for the purpose and documents to be enclosed
+(1)
+In case where application is made by a person other than an individual, the names and addresses of the occupier as per
+rule 2 and directors or partners or members, as the case may be, and specimen signatures of authorised person to be
+attached.
+(2)
+Passport size photographs of the occupier to be attached.
+(3)
+Any change in the above information should be immediately communicated to the Licence Issuing authority and
+authority renewing the licence.
+(4)
+Age to be given in case the applicant is an individual.
+Statutory Warning: Misuse of Ammonium Nitrate shall constituted serious criminal offence under the law.
+Photograph of the licence holder or occupier with signature
+Licence Form P-1
+(See Sr. No.1 of Schedule I and rule 35 of Ammonium Nitrate Rules, 2012)
+Licence to manufacture and possess for sale Ammonium Nitrate or convert melt to solid and vice versa and possess for
+sale of Ammonium Nitrate
+Licence No ......................................
+Page 35/54
+----- PAGE 36 -----
+The Ammonium Nitrate Rules, 2012
+Annual Fees Rs ................................
+1. Licence is hereby granted to:
+Name: .................................................................. Postal Address:
+....................................................................................... City .................... District .................. State ........................ Pin
+code ..................... Police Station ....................... Railway Station or Steamer Ghat ..................... Phone
+................................. Email ...................... Fax ................
+2. Status of licence holder: ..........................................
+3. Licence is valid for the following purpose: ...............................
+4. Licence is valid for the following quantity of Ammonium Nitrate:
+(a)
+Quantity of Ammonium Nitrate at anyone time ...............
+(b)
+Quantity of Ammonium Nitrate per year ..................
+5. The Licensed premises shall conform to the following drawing(s):
+Drawing No ............................... dated .....................
+6. The Licensed premises are situated at following address:
+.....................................................................
+..................... Survey No ................... City ........... District ........................ State ........................ Pin code ............ Police
+Station ..................... Railway Station or Steamer Ghat ................. Phone ........... Email ........... Fax .........
+7. The premises consist of following facilities:
+(i)
+Manufacture/ Conversion facilities
+(ii)
+No. of storehouses ................
+(iii)
+No. of melt storage tanks
+*Strike out whichever is not applicable
+8. The licence is granted subject to the provision of Explosives Act 1884 as amended from time to time and the
+Ammonium Nitrate Rules, 2012 framed there under and the conditions, additional conditions and annexure.
+(1)
+Drawings (showing site, constructional and other details) as stated in serial no. 5 above.
+(2)
+Conditions and Additional Conditions of this licence signed by the Chief Controller of Explosives.
+9. This licence shall remain valid till 31st day of March ..........
+This licence is liable to be suspended or revoked for any violation of the Explosives Act 1884 or Ammonium Nitrate
+Rules, 2012 framed there under or the conditions of this licence, if the authorized premises are not found conforming to
+the description shown in the plans and annexure attached hereto.
+Dated the .................. 20 ....
+Signature,
+Designation and seal
+[Chief Controller or Controller of Explosives]
+Space for Endorsement of Renewals
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law..........................
+Conditions
+1. The manufacture or conversion of Ammonium Nitrate shall be done from the plant shown in approved plan attached
+with licence.
+2. The possession or storage of Ammonium Nitrate shall be done in the licensed storehouse or melt storage tank shown
+in the approved plan attached with the licence.
+3. The quantity of Ammonium Nitrate in the premises or any part thereof shall not exceed at anyone time the quantity for
+which licence has been issued.
+4. Spilled or sweepings of Ammonium Nitrate the waste Ammonium Nitrate collected from sweeping or spilled shall be
+Page 36/54
+----- PAGE 37 -----
+The Ammonium Nitrate Rules, 2012
+destroyed by the licence holder and account thereof shall be maintained indicating the quantity of the Ammonium Nitrate
+destroyed.
+5. The licence holder and every person employed in or about the manufacture, conversion premises shall take all due
+precautions for the prevention of accidents by fire or explosion in the manufacture, conversion premises and for
+preventing unauthorised person from having access to the manufacture, conversion premises or to the Ammonium
+Nitrate therein and shall abstain from any act whatsoever which tends to cause fire or explosion and is not reasonably
+necessary for the purposes of work in the manufacturing, conversion premises.
+6. No additions and alterations shall be carried out in the licensed premises without a previous sanction in writing of the
+Licence Issuing authority.
+7. The licence holder shall appoint a competent person to supervise the manufacturing, conversion process and the
+operations shall be conducted under the supervision of the competent person.
+8. Free access to the licensed premises shall be given at all reasonable times to any inspecting officer and all facilities
+shall be offered to the officer for ascertaining that the provisions of the Act and Rules and the safety conditions are duly
+observed.
+9. If the Licence Issuing authority or the inspecting officer informs in writing, the holder of the licence to execute any
+repairs or to make any additions or alterations to the licensed premises or carry out recommendations, which are in the
+opinion of such authority may pose unacceptable risk and therefore the same is necessary for the safety or security of
+the premises or persons, the holder of the licence shall execute the recommendations and report compliance within the
+period specified by such authority.
+10. Accidents by fire or explosion and losses, shortage or theft of Ammonium Nitrate shall be immediately reported to
+the nearest police station, the District Authority and Chief Controller or Controller.
+11. Ammonium Nitrate shall be stored in attached storehouse(s) duly bagged and marked as per Rule 8 and 9 of
+Ammonium Nitrate Rules, 2012.
+12. The quantity of ammonium Nitrate manufactured or converted or possessed shall not exceed the limit prescribed in
+the licence.
+13. Licence holder engaged in manufacture or conversion and possession for sale of Ammonium Nitrate shall maintain
+records in the prescribed forms specified in Schedule II Part 3 and shall produce such records on demand to authority
+specified in Rule 49.
+15. The licence holder shall submit monthly returns of Ammonium Nitrate manufactured or converted, received, sold and
+destroyed in the Form prescribed in Form R-9 of Part 3 of Schedule II so as to reach Licensing Authority and District
+Authority within 10th day of every succeeding month.
+Dated the ........................... 20....
+Signature,
+Designation and seal
+[Chief Controller or Controller of Explosives]
+Photograph of the licence holder or occupier with signature
+Licence Form P-2
+(See Sr. No.2 of Schedule I and rule 35 of Ammonium Nitrate Rules, 2012)
+Licence to stevedore, bag and store Ammonium Nitrate
+Licence No .......................................
+Annual Fees Rs............................
+1. Licence is hereby granted to:
+Name:.......................................................................
+Postal Address: ........................................................... City .......... District .................... State ...................... .. Pin code
+........... Police Station ..................... Railway Station or Steamer Ghat .................. Phone ..................... Email
+....................... Fax .............................
+2. Status of licence holder: ..........................
+3. Licence is valid for the following purpose: Stevedoring, bagging involving unloading Ammonium Nitrate from ship,
+transport to his licensed storehouse for storing and bagging.
+4. Licence is valid for the stevedoring, bagging of following quantity of Ammonium Nitrate:
+(a)
+Page 37/54
+----- PAGE 38 -----
+The Ammonium Nitrate Rules, 2012
+Quantity of Ammonium Nitrate at anyone time ....................
+(b)
+Quantity of Ammonium Nitrate per month .......................
+5. The authorised premises shall conform to the following drawing(s):
+Drawing No .............................. dated .....................
+6. The licensed premises are situated at following address:
+Survey No ....... City ........ District ..........................
+State .................. Pin code .............. Police Station ...................... Railway Station .................. Port of import ..................
+Phone ............... Email .............. Fax ............
+7. The premises consist of following facilities:
+(i)
+Bagging facilities
+(ii)
+Storehouse
+8. The licence is granted subject to the provision of Explosives Act 1884 as amended from time to time and the
+Ammonium Nitrate Rules, 2012 framed there under and the conditions, additional conditions and annexure.
+(a)
+Drawings (showing site, constructional and other details) as stated in serial no. 5 above.
+(b)
+Conditions and Additional Conditions of this licence signed by the District authority.
+9. This licence shall remain valid ti1l 31st day of March .......
+This licence is liable to be suspended or revoked for any violation of the Explosives Act 1884 or Ammonium Nitrate
+Rules, 2012 framed there under or the conditions of this licence, if the authorized premises are not found conforming to
+the description shown in the plans and annexure attached hereto.
+The ...................... 20
+Signature, Designation
+and seal [District Authority]
+Space for Endorsement of Renewals
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law.
+............................
+Conditions
+(1)
+The storage and bagging of Ammonium Nitrate shall be done in Licensed premises shown in approved plan attached
+with the licence.
+(2)
+The quantity of Ammonium Nitrate in the premises or any part thereof shall not exceed at anyone time the quantity for
+which licence has been issued.
+(3)
+Spilled or sweepings of Ammonium Nitrate the waste Ammonium Nitrate collected from sweeping or spilled shall be
+destroyed by the licence holder and account thereof shall be maintained indicating the quantity of the Ammonium Nitrate
+destroyed.
+(4)
+The licence holder and every person employed in or about the manufacture, conversion premises shall take all due
+precautions for the prevention of accidents by fire or explosion ill the manufacturing, conversion premises and for
+preventing unauthorised person from having access to the manufacture, conversion premises or to the Ammonium
+Nitrate therein and shall abstain from any act whatsoever which tends to cause fire or explosion and is not reasonably
+necessary for the purposes of work in the manufacturing conversion premises.
+(5)
+No additions and alterations shall be carried out in the licensed premises without a previous sanction in writing of the
+Licensing Authority. Such additions and alterations so sanctioned shall be shown in the amended plan attached to the
+licence.
+Page 38/54
+----- PAGE 39 -----
+The Ammonium Nitrate Rules, 2012
+(6)
+The licence holder shall appoint a competent person to supervise the manufacturing, conversion process and the
+operations shall be conducted under the supervision of the competent person.
+(7)
+Free access to the licensed premises shall be given at all reasonable times to any inspecting or sampling officer and all
+facilities shall be offered to the officer for ascertaining that the provisions of the Act and these rules and the safety
+conditions are duly observed.
+(8)
+If the Licence Issuing authority or the inspecting officer informs in writing, the holder of the licence to execute any repairs
+or to make any additions or alterations to the licensed premises or carry out recommendations, which are in the opinion
+of such authority may pose unacceptable risk and therefore the same is necessary for the safety or security of the
+premises or persons, the holder of the licence shall execute the recommendations and report compliance within the
+period specified by such authority.
+(9)
+Ammonium Nitrate shall not be sold by the licensee. The bagged Ammonium Nitrate shall be despatched to the importer
+under whose licence the Ammonium Nitrate is imported.
+(10)
+Accidents by fire or explosion and losses, shortage or theft of Ammonium Nitrate shall be immediately reported to the
+nearest police station and the District Authority.
+(11)
+Ammonium Nitrate brought to the licensed storehouse(s) shall be bagged in suitable bags as expeditiously as possible
+and stored, duly marked as per rules 8 and 9.
+(12)
+No vehicle should move over heap of Ammonium Nitrate.
+(13)
+Weigh bridge shall be provided near stevedore's store house.
+(14)
+Licence holder shall maintain records in the prescribed forms specified in Schedule I Part 3 and shall produce such
+records on demand to authority specified in Rule 49.
+(15)
+The licence holder shall submit monthly returns of Ammonium Nitrate in the Form R-9 of Part 3 of Schedule II so as to
+reach Licensing Authority and District Authority within 10th day of every succeeding month.
+(16)
+The licensee or his authorized agent shall take all due precautions to prevent spillage, contamination and loss on transit
+of Ammonium Nitrate while unloading from the ship, transiting to the licensed storehouse, bagging and dispatching.
+Signature, Designation and seal of District Authority
+Photograph of the licence holder or occupier with signature
+Licence Form P-3
+(See Sr. No.3 of Schedule I and rule 35 of Ammonium Nitrate Rules, 2011)
+Licence No .................................
+Annual Fees Rs ...........................
+(a)
+Licence to Possess for sale or use of Ammonium Nitrate from a store house not exceeding 30MT; or
+(b)
+Licence to Possess for sale or use of Ammonium Nitrate from a store house exceeding 30MT; or
+(c)
+Licence to Possess for use of Ammonium Nitrate from a store house attached to explosives manufacturing/Nitrous
+Oxide manufacturing unit; or
+(d)
+Licence to possess for use Ammonium Nitrate for agricultural purpose from a storehouse.
+1. Licence is hereby granted to:
+Page 39/54
+----- PAGE 40 -----
+The Ammonium Nitrate Rules, 2012
+Name:................................................................................. Postal Address:
+........................................................................................................... City .............. District .................... State
+....................... Pin code .............
+Police Station ..................... Railway Station or Steamer Ghat ................. Phone ................................. Email
+........................ Fax .....................
+2. Status of licence holder: Individual or company
+3. Licence is valid for the following purpose ..........................................
+4. (a) Licence is valid for .................... quantity of Ammonium Nitrate at anyone time
+(b)
+Quantity of Ammonium Nitrate to be purchased in a financial Year .................
+5. The licensed premises shall conform to the following drawing(s):
+Drawing No ............................... dated .....................
+6. The licensed premises are situated at following address:
+............................................................................................................................................................................. City
+.............. District ................................ State ...................... Pin code ...................... Police Station ................ Railway
+Station or Steamer Ghat. .............. Phone ................................. E-mail ...................... Fax .............................
+7. The licensed premises consist of following facilities:
+................................................................
+................................................................
+.....................................................
+8. The licence is granted subject to the provision of Explosives Act 1884 as amended from time to time and Ammonium
+Nitrate Rules, 2012 framed there under and the conditions, additional conditions and the following annexure.
+(1)
+Drawings (showing site, constructional and other details) as stated in serial no. 5 above.
+(2)
+Conditions and additional conditions of this licence signed by the Licence Issuing authority.
+9. This licence shall remain valid till 31 day of March ....
+This licence is liable to be suspended or revoked for any violation of the Explosives Act 1884 or Ammonium Nitrate
+Rules, 2012 framed there under or the conditions of this licence, if the authorized premises are not found conforming to
+the description shown in the plans and annexure attached hereto
+The ........................... 20 ....
+Signature, Designation and seal [Licensing Authority]
+Space For Endorsement of Renewals
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law.
+Conditions
+(1)
+The Ammonium Nitrate shall be possessed only in the licensed storehouse or melt storage tank shown in the approved
+plan attached with the licence.
+(2)
+The quantity of Ammonium Nitrate in the premises or any part thereof shall not exceed at anyone time the quantity for
+which licence has been issued.
+(3)
+Spilled or sweepings of Ammonium Nitrate the waste Ammonium Nitrate collected from sweeping or spilled shall be
+destroyed by the licence holder and account thereof shall be maintained indicating the quantity of the Ammonium Nitrate
+destroyed.
+(4)
+The licence holder and every person employed shall take all due precautions for prevention of accidents by fire or
+explosion in the licensed premises and for preventing unauthorized person from having access to licensed premises and
+shall abstain from any act from whatsoever which tends to cause or explosion and is not reasonably necessary for the
+purpose of works related thereto.
+(5)
+Page 40/54
+----- PAGE 41 -----
+The Ammonium Nitrate Rules, 2012
+No additions and alterations shall be carried out in the licensed premises without a previous sanction in writing of the
+Licensing Authority. Such additions and alterations so sanctioned shall be shown in the amended plan attached to the
+licence.
+(6)
+The licence holder shall appoint a competent person to supervise the manufacturing, conversion process and the
+operations shall be conducted under the supervision of the competent person.
+(7)
+Free access to the Licensed premises shall be given at all reasonable times to any inspecting or sampling officer and all
+facilities shall be offered to the officer for ascertaining that the provisions of the Act and these rules and the safety
+conditions are duly observed.
+(8)
+If the Licence Issuing authority or the inspecting officer informs in writing, the holder of the licence to execute any repairs
+or to make any additions or alterations to the licensed premises or carry out recommendations, which are in the opinion
+of such authority may pose unacceptable risk and therefore the same is necessary for the safety or security of the
+premises or persons, the holder of the licence shall execute the recommendations and report compliance within the
+period specified by such authority.
+(9)
+Accidents by fire or explosion and losses, shortage or theft of Ammonium Nitrate shall be immediately reported to the
+nearest police station and the District Authority.
+(10)
+Licence holder shall maintain records in the prescribed forms specified in Schedule I Part 3 to ensure accountability,
+identification and traceability of Ammonium Nitrate and shall produce such records on demand to authority specified in
+rule 49.
+(11)
+The licence holder shall submit monthly returns of AN received, sold /used and destroyed in the form prescribed in Form
+R-9 of Part 3 of Schedule II so as to reach Licensing Authority and District Authority within 10lh day of every succeeding
+month.
+Signature, Designation and seal of Licensing Authority
+Photograph of the licence holder or occupier with signature
+Licence Form P4
+(See Sr. No.4 of Schedule I and rule 35 of Ammonium Nitrate Rules, 2012)
+Licence to transport Ammonium Nitrate
+Licence No.
+Fee Rs .......... (Per year)
+1.
+) Licence is hereby granted to ................ to transport Ammonium Nitrate
+2.
+) From the premises licensed in form ............... bearing licence No ........ ..................... Situated at .............................. to
+places specified below. Places of destination-
+Sl.No.        Place        District        State
+Subject to the provisions of the Explosives Act, 1884 and Ammonium Nitrate Rules 2012 framed there under and to the
+conditions of this licence.
+3.
+) Postal address of licensee ................................
+4.
+) The licence shall remain in force till 31st day of March, 20 .......
+This licence is liable to be suspended or revoked for any violation of the Explosives Act 1884 or Ammonium Nitrate
+Rules, 2012 framed there under or the conditions of this licence.
+The ........................... 20 ....
+Signature, Designation and seal of
+Licensing Authority
+Page 41/54
+----- PAGE 42 -----
+The Ammonium Nitrate Rules, 2012
+Space For Endorsing Renewals
+Statutory Warning: Misuse of Ammonium Nitrate shall constitute serious criminal offence under the law.
+Conditions
+(1)
+This licence becomes void on the expiration of the terms mentioned therein or if a consignment breaks before reaching
+the place of destination or if the Ammonium Nitrate is taken from or to any place other than the places mentioned in the
+licence.
+(2)
+The licensee shall transport only Ammonium Nitrate as he is authorised to possess under the Act and the Ammonium
+Nitrate Rules 2012 framed there under.
+(3)
+The quantity of Ammonium Nitrate despatched to any consignee shall not exceed the quantity which such consignee is
+entitled to possess under a licence granted under these rules.
+(4)
+Each consignment of Ammonium Nitrate shall be covered by a pass in Form R-11(B) and that (when the Ammonium
+Nitrate is transported by rail) such pass shall be attached to the way bill or the invoices as the case may be.
+(5)
+A copy of each pass issued for each consignment shall be sent to-
+(i)
+Licensing authority;
+(ii)
+Controller of Explosives in whose jurisdiction the premises from which the consignment is sent, is situated; and
+(iii)
+The Controller of Explosives in whose jurisdiction the premises to which the Ammonium Nitrate are sent is situated.
+(6)
+Any loss, shortage or theft of Ammonium Nitrate in transit shall be reported without delay to the licensing authority and
+to the police station and to the Controller of Explosives in whose jurisdiction the loss, shortage or theft is discovered.
+(7)
+The Ammonium Nitrate shall be packed and marked in accordance with rules 8 and 9 of the Ammonium Nitrate Rules
+2012.
+Additional Conditions.
+(1)
+This licence is not transferable.
+(2)
+This licence or its authenticated copy shall at all times be kept in the transporting vehicle and produced on demand by
+an inspecting officer.
+(3)
+Ammonium Nitrate shall not be transported with any other explosives, inflammable substances, oil, carbonaceous matter
+etc.
+(4)
+The driver or operator of vehicle carrying or containing an Ammonium Nitrate shall not stop unnecessarily or for a longer
+period than is reasonably required, and shall avoid stops or places where public safety is in danger:
+Provided that where vehicle transporting or containing Ammonium Nitrate is parked over night due to breakdown of
+vehicle or melt tanker or any reasons beyond the control of the driver, the premises in which the vehicle is parked -
+(a)
+shall not be used for any purpose that might give rise to the presence therein of an open flame, matches or any
+substance or article likely to cause explosion or fire;
+(b)
+shall be away from any habitation of any go down containing articles of a flammable nature or other hazardous goods:
+Provided further that the nearest police station shall be informed about the location and temporary parking of the vehicle.
+(5)
+Page 42/54
+----- PAGE 43 -----
+The Ammonium Nitrate Rules, 2012
+Vehicle while transporting Ammonium Nitrate shall be adequately secured at the expense of the licence holder. If the
+consignment of Ammonium Nitrate is likely to pass through sensitive areas notified by the Ministry of Home Affairs, it
+should be escorted by armed police escort or guard, provided by the District Police Administration.
+(6)
+Ammonium Nitrate melt shall be transported in specially designed tankers with manhole and discharge faucets duly
+sealed by the melt supplying firm. The melt tanker shall carry a quality control certificate issued by the AN melt supplying
+company. The receiver shall verifY that the seal on manhole and discharge faucet is intact and verify concentration
+factor of Ammonium Nitrate.
+(7)
+Transport of Ammonium Nitrate in sensitive area notified by Ministry of Home Affairs shall not be allowed during the
+period of Sunset to Sunrise.
+(8)
+No smoking and no fire or artificial light or any article capable of causing fire shall be allowed on the vehicle carrying
+Ammonium Nitrate or Ammonium Nitrate melt.
+(9)
+The vehicle shall not be used for carrying passenger.
+(10)
+The vehicle, while Ammonium Nitrate are being loaded or unloaded or transported shall always be under the charge of
+competent person who shall be experienced in handling of Ammonium Nitrate and fully conversant there under. Where
+the vehicle not driven by the licence holder, a document signed by the licence holder naming persons authorised to drive
+and accompany the vehicle shall be carried in the vehicle and produced on demand to an inspecting officer.
+(11)
+The Ammonium Nitrate shall be loaded into the vehicle only at the licensed premises of consignor and unloaded from
+vehicle at the licensed premises of the consignee.
+(12)
+The licence holder shall maintain account of Ammonium Nitrate transported in Form R-6 and present the same on
+demand by an inspecting officer.
+(13)
+Free access shall be given at all reasonable times to any inspecting or sampling officer and every facility shall be
+afforded to the officer for ascertaining that the provisions of the Act or these rules and these conditions are duly
+observed.
+(14)
+Accidents by fire or explosion and losses, shortage or theft of Ammonium Nitrate shall be immediately reported to the
+nearest police station and the District authority.
+Signature, Designation and
+seal of Licensing Authority
+_____________________
+Photograph of the licence holder or occupier with signature
+Licence Form P-5
+(See Sr. No.5 of Schedule I and rule 35 of Ammonium Nitrate Rules, 2012)
+(a)
+Licence to Import Ammonium Nitrate; or
+(b)
+Licence to Export Ammonium Nitrate
+Licence No .............................
+Fees Rs ...........................
+1. Licence is hereby granted to:
+Name: ........................................................................... Postal Address: .................................................................... City
+.............. District .................... State ....................... Pin code ......... Police Station ..................... Railway Station or
+Steamer Ghat .............. Phone ................................. Email ...................... Fax ...............
+2. Status of Licence Holder: ............................................
+Page 43/54
+----- PAGE 44 -----
+The Ammonium Nitrate Rules, 2012
+3. Licence is valid for the following kinds and quantity of Ammonium Nitrate:
+(a)
+Ammonium Nitrate to be Imported
+Weight in Metric Tonnes of Ammonium Nitrate imported
+Whether in bulk or in bagged form
+Consignor's name and address
+Licence number of the store house or houses of the consignee
+Port of import
+Mode of import
+Particulars of Stevedoring Agent licence No. under Ammonium
+Nitrate Regulation 2011
+(b)
+Ammonium Nitrate to be Exported
+Weight in Metric Tonnes of Ammonium Nitrate to be exported
+No. of the bags
+Consignor's name and address or Country's details
+Licence number of the store house of the consignee
+Port of export
+Mode of export
+4. The licence is granted subject to the provision of Explosives Act 1884 as amended from time to time and the
+Ammonium Nitrate Rules, 2012 framed there under and the conditions annexed.
+5. This licence shall remain valid till ......... (maximum one year from the date of issue).
+This licence is liable to be suspended or revoked for any violation of the Explosives Act 1884 or Ammonium Nitrate
+Rules, 2012 framed there under or the conditions of this licence.
+The .......................... 20 .......
+Signature,
+Designation
+and seal of Chief Controller of Explosives
+Conditions
+1.
+) The Ammonium Nitrate imported shall be removed to the licensed stevedore's storehouse and bagged in water proof
+bags.
+2.
+) The marking on each Ammonium Nitrate bag shall be in accordance with rule 8 and 9 of Ammonium Nitrate Rules
+2012.
+3.
+) The import licence holder shall take delivery of the bagged AN from the stevedore's licensed storehouse and shall
+deliver at the licensed storehouse of the seller or user.
+4.
+) Only Ammonium Nitrate licenced under this licence shall be imported.
+5.
+) The quantity of Ammonium Nitrate imported or exported shall not exceed that authorised by this licence.
+6.
+) No ship or boat containing Ammonium Nitrate imported or exported on the strength of this licence shall bring to and no
+such Ammonium Nitrate shall be unloaded or trans-shipped from any ship or boat except at the port authorised by this
+licence.
+7.
+) The licence holder shall comply with all the rules and regulations in force at the port of import mentioned in this license.
+8.
+) The owner and master of the ship or boat in which Ammonium Nitrate are imported/ exported on the strength of this
+licence, shall, if and when required by an inspecting authority or the custom's authority having jurisdiction over the place
+Page 44/54
+----- PAGE 45 -----
+The Ammonium Nitrate Rules, 2012
+of importation, allow such inspection or officer to take for examination samples of any Ammonium Nitrate so imported.
+9.
+) Free access shall be given at all reasonable times to any inspection or sampling officer and every facility shall be
+afforded to the officer for ascertaining that the provisions of the Act or these rules and these conditions are duly
+observed.
+10.
+) Accidents by fire or explosion and losses, shortage or theft of Ammonium Nitrate shall be immediately reported to the
+nearest police station and the District authority and Chief Controller of Explosives or Licence Issuing Authority.
+11.
+) The quantity of ammonium Nitrate exported or imported or possessed shall not exceed the limit specified in the licence.
+12.
+) License holder shall maintain records and submit returns in the prescribed forms specified in Part 3 of Schedule II and
+shall produce such records demand to authority specified in rule 49
+Signature, Designation and seal of
+Chief Controller of Explosives
+II
+(Part -3)
+Returns
+Form R-1
+(See rule 36 of Ammonium Nitrate Rules, 2012)
+Application for Renewal of licence
+(See note below before filling up the form)
+From: -------------------------------------
+-------------------------------------
+To
+______________________
+______________________
+Dear Sir,
+1. I, .................... on behalf of ..................... apply for renewal of licence number ............ in form .............. for the period
+from ........................ to .................. and furnish the following information:
+During the last five years-
+(i)
+I was or we were-
+(a)
+not convicted or convicted (Strike off which ever not applicable) and sentenced for ........... for following offences
+..............
+(b)
+not ordered or ordered to execute under Chapter VIII of Code of Criminal Procedure, 1973(2 of 1974) a bond for keeping
+peace or for good behaviour.
+(c)
+Not issued any direction from the Court in connection with the above said licence or certificate. (Give details if answer in
+affirmative) .
+(ii)
+Licence or certificate No ................. in Form ................. granted under the Act and these rules to me or us were
+cancelled or not renewed by the Licence Issuing authority.
+2. I or We also enclose the following documents:
+(i)
+Licence or  certificate No ........... in Form .................. together with approved plans and schedules.
+(ii)
+Renewal fee of Rs ............ by bank draft of ......... (name of issuing bank) bearing number ......... date ....... payable in
+favour of .............................
+Page 45/54
+----- PAGE 46 -----
+The Ammonium Nitrate Rules, 2012
+3. I or We confirm that I or we shall inform you about the court's order or direction, interim or otherwise, if any issued in
+connection to the licence for which renewal is being applied, failing which I or we shall commit a punishable offence.
+4. I or We hereby certify that
+(i)
+the above particulars given by me or us are correct.
+(ii)
+I am or we are aware that if Ammonium Nitrate is illegally transferred by me or us to any unauthorised person(s), I or we
+shall commit a punishable offence.
+(iii)
+I am or we are aware that if I or we conceal any material information relevant to this application, I or we shall commit a
+punishable offence and in addition, any administrative action can be taken against me or us.
+Signature of Licence holder ....................
+(Authorised person in case of company)
+Place ..............................
+Date of application ...........................
+Notes.-
+(1)
+The complete renewal or revalidation application should reach the renewal authority before the expiry date of licence or
+certificate, to avoid payment of late fees.
+(2)
+Strike out the inapplicable portion.
+Form R-2
+(See rule 14 of Ammonium Nitrate Rules, 2012)
+Form of account to be maintained by a licence holder Accounts of Ammonium Nitrate manufactured or converted
+Note. - This record should be kept up to-date.
+Licence number ....................... In Form .............. of Ammonium Nitrate Rules, 2012
+Date
+Batch numbers
+No. of bags.
+Melt produced in case of manufacturer, Melt used in case of
+converter
+Total quantity of Ammonium Nitrate manufactured, converted
+Remarks
+Signature of person In- charge or licence holder
+Name and address of melt supplier
+Whether full yield achieved
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Signature of Licence
+Holder or person In-charge
+Place .........................
+Date .........................
+Form R-3
+(See rule 18 of the Ammonium Nitrate Rules, 2012)
+Page 46/54
+----- PAGE 47 -----
+The Ammonium Nitrate Rules, 2012
+Declaration to be submitted to the Chief Controller by an importer on despatch of Ammonium Nitrate from the place or
+port of loading.
+Import licence No. and Date
+Validity
+Quantity permitted for import
+Name and address of the manufacturer of Ammonium Nitrate
+Quantities of Ammonium Nitrate on the ship.
+Name and address of consignor
+Place or port of despatch
+Name of ship and date of sailing
+Place or port of import
+Likely date of arrival
+Date of manufacture
+Batch number
+Quantity
+Number of Bags
+Date:
+Place:
+Signature of Importer
+(Authorised person in case of a Company)
+.......................................
+Name in full .................................
+Address .....................................................
+Form R-4
+(See rule 18 of the Ammonium Nitrate Rules, 2012)
+Importer's despatch Schedule
+Declaration to be forwarded in triplicate to the Chief Controller as soon as any consignment of Ammonium Nitrate is
+cleared from the place of or port of import
+Name and address of importer
+Import licence number granted by Chief Controller  under
+Ammonium Nitrate Rules and date of expiry of licence
+Name and address of the manufacturer of Ammonium Nitrate
+Particulars of despatch from place or port of import.
+Name and address of licensee to whom Ammonium Nitrate were
+despatched
+Licence number and Form
+Quantity of Ammonium Nitrate despatched
+Name and address of consignor
+Quantity of Ammonium Nitrate imported
+Place or port from which Ammonium Nitrate forwarded
+Name of ship
+Date of arrival and place or port of import
+Quantity
+Number og bags
+Batch number and date
+Date of despatch
+Mode of despatch
+Place ..........
+Date: ..................
+Signature of importer .......................
+(Authorised agent in case of company)
+Page 47/54
+----- PAGE 48 -----
+The Ammonium Nitrate Rules, 2012
+Name in full ...........................................
+Address .....................................................
+Form R-5
+(See rule 14 of Ammonium Nitrate Rules, 2012)
+Form of account to be maintained by a Stevedore Account of Ammonium Nitrate stevedored, bagged, stored and
+dispatched
+Note. - This record should be kept up to-date.
+Licence number ....................... in Form ................... of Ammonium Nitrate Rules, 2012
+Date
+Name of the Ship from where bulk Ammonium Nitrate unloaded on
+behalf of importer
+Name and address of the importer giving his import licence No.
+Quantity of Ammonium Nitrate unloaded from the ship either in
+bulk or large size bags or container
+No. of the bags in which Ammonium Nitrate has been repacked
+Total quantity of Ammonium Nitrate repacked in bags
+No. of bags or quantity of Ammonium Nitrate dispatched to the
+importer
+Date of dispatch of packed Ammonium Nitrate to importer
+Name and address of the Transporter and his Licence No.
+Registration No. of the vehicle through which Ammonium Nitrate
+dispatched
+Quantity of Ammonium Nitrate Spilled, collected and set for
+reprocessing to converter
+Pass No.
+Signature of Licence holder/ person incharge
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Signature of Licence Holder or person Incharge
+Place .............................
+Date ...........................
+Form R-6
+(See rule 14 of Ammonium Nitrate Rules, 2012)
+Form of records to be maintained by a Transport Licence Holder Records of Ammonium Nitrate or Melt transported by
+vehicle
+Note - This record should be kept up to date.
+Licence number ....................... in Form ................. of Ammonium Nitrate Rules, 2012
+Date
+Name, address and Licence number of the consignor
+Place of loading
+Page 48/54
+----- PAGE 49 -----
+The Ammonium Nitrate Rules, 2012
+Quantity transported
+vehicle Registration No.
+Name and Address and Licence No. of the Driver
+Pass No.
+Name, address and licence number of the consignee
+Place of unloading
+Date of unloading of Ammonium Nitrate or Melt
+Remarks
+Signature of Licence holder/ person incharge
+Ammonium Nitrate in bags
+Ammonium Nitrare Melt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Signature of Licence Holder or person Incharge
+Place .....................
+Date ......................
+Form R-7
+(See rule 14 of Ammonium Nitrate Rules, 2012)
+Form of account to be maintained by a licence holder Accounts of sale of Ammonium Nitrate
+Note - This record should be kept up to date. Entries should be made daily and as and when Ammonium Nitrate is sold.
+Licence number ..................... in Form ................ of Ammonium Nitrate Rules, 2012
+Date
+Opening Balance (in kgs)
+Quantity of Ammonium Nitrate received (in kgs)
+Batch Number
+Name, address and Licence Number from whom Ammonium Nitrate is
+received
+Mode of Transport, vehicle No. and Transporters Licence No.
+Pass Number
+Quantity of Ammonium Nitrate sold (in kgs)
+Batch Number
+Name, address and Licence Number to whom Ammonium Nitrate is
+sold
+Mode of Transport, Vehicle No. and Transporters Licence No.
+Pass Number
+Closing Balance (in kgs)
+Remarks
+1
+2
+3
+4
+Page 49/54
+----- PAGE 50 -----
+The Ammonium Nitrate Rules, 2012
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Signature of Licence Holder or person Incharge
+Place ..............................
+Date ...........................
+Form R-8
+(See rule 14 of Ammonium Nitrate Rules, 2012)
+Form of account to be maintained by a licence holder Accounts of use of Ammonium Nitrate
+Note - This record should be kept up to date. The entries should be made daily and as soon as Ammonium Nitrate are
+issued for use or unused Ammonium Nitrate are returned.
+Licence number ....................... in Form .................. of Ammonium Nitrate Rules, 2012
+Date
+Opening Balance (in Kgs)
+Quantity of Ammonium Nitrate received (in Kgs)
+Batch No. and Date
+Name, Address and Licence No. from whom, Ammonium Nitrate is
+received
+Pass No.
+Quantity used (in Kgs)
+Place of use
+1
+2
+3
+4
+5
+6
+7
+8
+Signature of Licence Holder or person Incharge
+Place ..............................
+Date ...........................
+Form R-9
+(See rule 14 of Ammonium Nitrate Rules, 2012)
+Monthly Returns of Ammonium Nitrate
+Statement of Ammonium Nitrate Received, used, sold, destroyed and stolen during the month of ..................... in respect
+of store house of .................................... situated at ............................................. District .......................... State
+.............Licence number ....................... in Form ............... of Ammonium Nitrate Rules, 2012
+1. Opening balance on the 1st day of the month:
+2. Account of Ammonium Nitrate:
+Particulars of Ammonium Nitrate received
+Date
+Quantity (in kgs)
+Name, address and licence number of suppliers from whom
+Page 50/54
+----- PAGE 51 -----
+The Ammonium Nitrate Rules, 2012
+Ammonium Nitrate was received
+Pass No.
+1
+2
+3
+4
+1.
+2.
+3. Total quantity of Ammonium Nitrate used or sold during the month
+Date
+Quantity Sold (in kgs)
+Name, address and license number to whom Ammonium Nitrate was
+sold
+Pass No.
+Quantity used (in Kgs)
+1
+2
+3
+4
+5
+1.
+2.
+4. Particulars of Ammonium Nitrate destroyed during the month
+Date
+Quantity (in kgs)
+Reasons for destruction
+1
+2
+3
+1.
+2.
+5. Particulars of Ammonium Nitrate stolen or short received.
+Date
+Quantity (in kgs)
+Quantity (in kgs)
+Whether theft or loss reported to police and District
+Authority if so, give reference
+Remarks
+1
+2
+3
+4
+5
+1.
+2.
+3.
+4.
+Signature of Licence Holder or Person in Charge
+Place ..............
+Date ...............
+Form R-10
+Page 51/54
+----- PAGE 52 -----
+The Ammonium Nitrate Rules, 2012
+(See rule 26(2) (a) of Ammonium Nitrate Rules, 2012)
+Form of indent for Ammonium Nitrate
+To
+...............
+...............
+...............
+Dear Sir,
+Kindly supply the following quantities of Ammonium Nitrate to me or us:-
+Quantity (in kgs) :
+I or We hold a licence number ..................... in Form ..................... of Ammonium Nitrate Rules, 2012 for possession for
+sale or use of following quantities of Ammonium Nitrate
+Quantity (in kgs) :
+The above mentioned licence is valid till ........................................
+I or We solemnly declare that
+(a)
+the receipt of Ammonium Nitrate indented will not result in the licensed quantity being exceeded; and
+(b)
+no identical indent has been placed with any other supplier
+*The Ammonium Nitrate may please be handed over to my or our authorized representative whose signatures are
+attested below:
+Attested
+Signature of Licence holder.
+Signature of Licence holder
+(Consignee)
+Place: .................
+Date : .................
+(*Strike out whichever is not applicable.)
+Form R-11(a)
+(See rule 20(3) of Ammonium Nitrate Rules, 2012)
+Form of intimation to be given by the consignor to the District Superintendent of Police before dispatch of consignment
+of Ammonium Nitrate.
+1. Quantity of Ammonium Nitrate proposed to be despatched ......................................
+2. Number of packages or bags ................
+3. The Ammonium Nitrate proposed to be transported by vehicle Registration No. .................................
+4. Name and address of consignee ..........................................
+5. Number and validity of Consignee's licence to store Ammonium Nitrate ......................................
+6. Consignee's indent number and date ..................................
+7. Name and address of the authorised person who will receive the consignment ................................
+8. Date of despatch of consignment ..................................
+Signature of the consignor
+Licence number ....
+Licence Form ...
+Place:
+Date:
+Form R-11(b)
+(See rule 21 (4) of Ammonium Nitrate Rules, 2012)
+Pass issued by the consignor for transport of consignment of Ammonium Nitrate
+1. No ..........................................
+2. This pass covers ...................................... bags containing following quantity of Ammonium Nitrate,
+or Ammonium Nitrate Melt
+(a)
+Page 52/54
+----- PAGE 53 -----
+The Ammonium Nitrate Rules, 2012
+No. of bags
+(b)
+Quantity
+(c)
+Batch No. and date
+(d)
+Name of manufacturer, converter
+(e)
+Stevedore's license No. under Ammonium Nitrate rules 2012
+While in transit from ............................. to .....................................
+3. The Ammonium Nitrate is being transported by vehicle bearing Registration No .........................
+4. Name and address of consignee ................................
+5. Number and Form of Consignee's licence ......................
+6. Consignee's order number and date and quantity of Ammonium Nitrate ordered .................................
+7. Consignee's letter number and date intimating readiness to receive Ammonium Nitrate ..........................
+8. Date of despatch of consignment ................................
+9. Approximate date on which consignment ........................... should reach the destination.
+Place:
+Date:
+Name and Signature of the consignor
+Licence Number ....
+Licence Form ...
+Certificates
+Form C-1
+(See rule 18(5) of the Ammonium Nitrate Rules, 2012)
+Declaration to be made by the master of a ship carrying Ammonium Nitrate before entering a port or by the ship's agent.
+1. Name of ship .................................
+2. Date of Arrival at ....................... Port ..............................
+Description of Ammonium Nitrate
+Date of manufacture, batch number and other distinguishing
+marks on Bags
+Total quantity carried Kilogramme or Bags
+Quantity to be landed at port Kilogramme or Bags
+Remarks
+Place: ..................
+Date: ...................
+Signature of Master or Agent of Ship
+C-2
+Format of No Objection Certificate
+(See rule 33 of the Ammonium Nitrate Rules, 2012)
+No Objection Certificate under the Ammonium Nitrate Rules, 2012
+No...................
+Date ...............
+With reference to the application No. ................... Dated ........ submitted by ............. and in pursuance of rule 33 of the
+Ammonium Nitrate Rules 2012 ......... there is no objection for granting licence under the Ammonium Nitrate Rules .......
+to Shri or Mrs. ______________ of address ...................... for the following purpose, kinds and quantities of Ammonium
+Nitrate in the premises at Survey No. or Gat No. or Khasra No................... , Village ............... Taluka ....................
+District ........................ State ................................. as shown in the site plan duly endorsed and enclosed herewith.
+1. Purpose : ...............................................................
+2. Quantities of Ammonium Nitrate:
+(a)
+Page 53/54
+----- PAGE 54 -----
+The Ammonium Nitrate Rules, 2012
+at anyone time: ......................................................
+(b)
+in one month: .........................................................
+Signature of the
+No Objection certificate issuing
+authority with his office seal
+(District Magistrate or Director
+General of Mines)
+Related AI tags, queries and research notes
+Translation
+Page 54/54
