@@ -21,7 +21,7 @@ const messageSchema = new mongoose.Schema({
     }],
     language: {
         type: String,
-        enum: ['en', 'hi', 'bn', 'sat', 'ta', 'te', 'mr', 'gu', 'kn', 'ml', 'pa', 'or', 'ur', 'as'],
+        enum: ['en', 'hi', 'bn', 'sat'],
         default: 'en'
     },
     timestamp: {

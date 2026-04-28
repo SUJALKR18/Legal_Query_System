@@ -4,4 +4,3 @@ backend/server/node_modules
 *.env
 backend/rag_model/venv
 *__pycache__
-data
