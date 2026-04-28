@@ -33,12 +33,14 @@ router.post('/signup', async (req, res) => {
         const user = new User({ name, email, password });
         await user.save();
 
-        const token = generateToken(user._id);
+        const userToken = generateToken(user._id);
+        const adminEmail = (process.env.ADMIN_EMAIL || 'sujal@admin.com').toLowerCase().trim();
+        const isAdmin = user.email === adminEmail;
 
-        res.status(201).json({
+        return res.status(201).json({
             message: 'Account created successfully!',
-            token,
-            user: user.toJSON()
+            token: userToken,
+            user: { ...user.toJSON(), isAdmin }
         });
     } catch (err) {
         console.error('Signup error:', err);
@@ -68,12 +70,14 @@ router.post('/login', async (req, res) => {
             return res.status(401).json({ error: 'Invalid email or password.' });
         }
 
-        const token = generateToken(user._id);
+        const userToken = generateToken(user._id);
+        const adminEmail = (process.env.ADMIN_EMAIL || 'sujal@admin.com').toLowerCase().trim();
+        const isAdmin = user.email === adminEmail;
 
-        res.json({
+        return res.json({
             message: 'Login successful!',
-            token,
-            user: user.toJSON()
+            token: userToken,
+            user: { ...user.toJSON(), isAdmin }
         });
     } catch (err) {
         console.error('Login error:', err);
@@ -88,7 +92,9 @@ router.get('/profile', authMiddleware, async (req, res) => {
         if (!user) {
             return res.status(404).json({ error: 'User not found.' });
         }
-        res.json({ user: user.toJSON() });
+        const adminEmail = (process.env.ADMIN_EMAIL || 'sujal@admin.com').toLowerCase().trim();
+        const isAdmin = user.email === adminEmail;
+        res.json({ user: { ...user.toJSON(), isAdmin } });
     } catch (err) {
         console.error('Profile error:', err);
         res.status(500).json({ error: 'Server error.' });

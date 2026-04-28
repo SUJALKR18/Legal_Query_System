@@ -1,23 +1,17 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import ProtectedRoute from './components/ProtectedRoute';
+import Landing from './pages/Landing';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Dashboard from './pages/Dashboard';
 import Chat from './pages/Chat';
-import { authService } from './services/api';
+import AdminDashboard from './pages/AdminDashboard';
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route
-          path="/"
-          element={
-            authService.isAuthenticated() ?
-              <Navigate to="/dashboard" replace /> :
-              <Navigate to="/login" replace />
-          }
-        />
+        <Route path="/" element={<Landing />} />
 
         {/* Public Routes */}
         <Route path="/login" element={<Login />} />
@@ -29,6 +23,14 @@ function App() {
           element={
             <ProtectedRoute>
               <Dashboard />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/admin"
+          element={
+            <ProtectedRoute>
+              <AdminDashboard />
             </ProtectedRoute>
           }
         />
@@ -49,3 +51,4 @@ function App() {
 }
 
 export default App;
+

@@ -89,4 +89,27 @@ export const chatService = {
     }
 };
 
+// Admin services
+export const adminService = {
+    getUsers: async () => {
+        const response = await api.get('/admin/users');
+        return response.data;
+    },
+
+    getUserSessions: async (userId) => {
+        const response = await api.get(`/admin/users/${userId}/sessions`);
+        return response.data;
+    },
+
+    getSessionDetails: async (sessionId) => {
+        const response = await api.get(`/admin/sessions/${sessionId}`);
+        return response.data;
+    },
+
+    getStats: async () => {
+        const response = await api.get('/admin/stats');
+        return response.data;
+    }
+};
+
 export default api;

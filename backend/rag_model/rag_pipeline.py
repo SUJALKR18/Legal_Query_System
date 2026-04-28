@@ -88,6 +88,8 @@ DO NOT use rigid formatting or headers like "1. Simple Explanation" or "2. Forma
 
 6. **Legal disclaimer**: Always end substantive legal answers with a brief disclaimer: "⚠️ This information is for general awareness only. Please consult a qualified legal professional for advice specific to your situation." (Do not add this for casual talk).
 
+7. **LANGUAGE RULE - EXTREMELY IMPORTANT**: Reply in the EXACT same language and script the user used in their query. HOWEVER, if the user asks in a rare script that you do not fully support or cannot confidently generate without breaking (like Santhali / Ol Chiki), you MUST securely fall back to English! Do NOT attempt to guess, hallucinate, or repeat random characters. It is better to answer in English than to provide broken text.
+
 **CONTEXT FROM LEGAL DATABASE:**
 {context}
 """,
@@ -200,31 +202,52 @@ class LegalRAGPipeline:
         This is used so the English-only embedding model can do accurate retrieval.
         Returns the English translation, or the original text if translation fails.
         """
-        if source_lang == 'en':
+        if source_lang == 'en' and text.isascii():
             return text
         
         lang_name = LANGUAGE_CODES.get(source_lang, source_lang)
-        try:
-            response = groq_client.chat.completions.create(
-                model=self._get_groq_model(),
-                messages=[
-                    {"role": "system", "content": (
-                        "You are a translator. Translate the following text from "
-                        f"{lang_name} to English. Output ONLY the English translation, "
-                        "nothing else. Keep legal terminology accurate."
-                    )},
-                    {"role": "user", "content": text}
-                ],
-                temperature=0.1,
-                max_tokens=512,
-                timeout=15
-            )
-            translated = response.choices[0].message.content.strip()
-            print(f"  Translated [{lang_name} → English]: '{text[:50]}' → '{translated[:50]}'")
-            return translated
-        except Exception as e:
-            print(f"  ⚠ Translation failed, using original query: {str(e)[:80]}")
-            return text
+        if source_lang == 'en':
+            lang_name = "its original Indian regional language (e.g. Santhali/Ol Chiki, Hindi, Bengali)"
+            
+        # Try multiple models for translation (some models fail on rare scripts like Ol Chiki)
+        available_models = [
+            os.getenv("GROQ_MODEL", "openai/gpt-oss-20b"),
+            "llama-3.3-70b-versatile",
+            "llama-3.1-8b-instant"
+        ]
+        
+        for model_name in available_models:
+            try:
+                response = groq_client.chat.completions.create(
+                    model=model_name,
+                    messages=[
+                        {"role": "system", "content": (
+                            "You are a highly skilled linguistic translator. "
+                            f"Translate the following text from {lang_name} to English. "
+                            "Output ONLY the English translation, nothing else. "
+                            "Keep legal terminology accurate. If you cannot translate it perfectly, provide your best guess in English."
+                        )},
+                        {"role": "user", "content": text}
+                    ],
+                    temperature=0.1,
+                    max_tokens=512,
+                    timeout=15
+                )
+                translated = response.choices[0].message.content.strip()
+                
+                # Check if translation was completely empty
+                if translated and len(translated) > 2:
+                    print(f"  Translated [{lang_name} → English] with {model_name}: '{text[:50]}' → '{translated[:50]}'")
+                    return translated
+                else:
+                    print(f"  ⚠ Model {model_name} returned empty translation for script. Trying next model...")
+                    
+            except Exception as e:
+                print(f"  ⚠ Translation failed with {model_name}: {str(e)[:80]}")
+                
+        # If all models failed or returned empty strings, use original
+        print("  ⚠ All translation attempts returned empty or failed. Using original query.")
+        return text
     
     @staticmethod
     def detect_language(text: str) -> str:
@@ -356,6 +379,8 @@ class LegalRAGPipeline:
         # Ensure language is one we recognize
         if not language or language not in LANGUAGE_CODES:
             language = 'en'
+            
+        is_rare_script = (language == 'sat') or (language == 'en' and not user_query.isascii())
         
         # Step 1: Translate non-English queries to English for better retrieval
         # (The embedding model all-MiniLM-L6-v2 is English-only)
@@ -364,9 +389,11 @@ class LegalRAGPipeline:
         # Step 1.5: Dynamic IndiaCode fetch — check if we need to download a new law
         try:
             from indiacode_fetcher import fetch_and_ingest_if_needed
-            # Pass the ORIGINAL user_query to the intent extractor (LLM understands Hindi perfectly)
-            # Passing the translated query previously destroyed native act names like "Nagarik Suraksha"
-            fetch_result = fetch_and_ingest_if_needed(user_query, groq_client)
+            # Pass English translation for rare obscure scripts, otherwise use raw query for Hindi/Bengali
+            if is_rare_script:
+                fetch_result = fetch_and_ingest_if_needed(search_query, groq_client)
+            else:
+                fetch_result = fetch_and_ingest_if_needed(user_query, groq_client)
             
             if fetch_result.get('ingested', False):
                 # Reload the ChromaDB collection to pick up newly ingested data
@@ -512,7 +539,10 @@ class LegalRAGPipeline:
             context = "No relevant legal documents found in the database."
         
         # Step 4: Build system prompt based on detected language
-        if language in SYSTEM_PROMPTS:
+        if is_rare_script:
+            print("  ℹ Rare script detected. Forcing backend generation in English, will post-translate.")
+            system_prompt = SYSTEM_PROMPTS['en'].format(context=context)
+        elif language in SYSTEM_PROMPTS:
             system_prompt = SYSTEM_PROMPTS[language].format(context=context)
         else:
             # Use generic template for languages without handcrafted prompts
@@ -532,8 +562,11 @@ class LegalRAGPipeline:
                     "content": msg.get('content', '')
                 })
         
-        # Add current query
-        messages.append({"role": "user", "content": user_query})
+        # Add current query — use translated English for rare scripts so LLM can process it
+        if is_rare_script:
+            messages.append({"role": "user", "content": search_query})
+        else:
+            messages.append({"role": "user", "content": user_query})
         
         # Step 5: Generate response using Groq
         # Models change over time - try multiple fallbacks
@@ -557,8 +590,12 @@ class LegalRAGPipeline:
                     timeout=30
                 )
                 answer = response.choices[0].message.content
-                print(f"✓ Using Groq model: {model_name}")
-                break
+                if answer and len(answer.strip()) > 5:
+                    print(f"✓ Using Groq model: {model_name}")
+                    break
+                else:
+                    print(f"  ⚠ Model {model_name} generated empty answer. Trying fallback...")
+                    answer = None
             except Exception as e:
                 last_error = str(e)
                 print(f"  Model '{model_name}' not available: {str(e)[:100]}...")
@@ -570,6 +607,25 @@ class LegalRAGPipeline:
             print("  2. Check which models your account has access to")
             print("  3. Update GROQ_MODEL in .env file with an available model")
             answer = f"Error: No available Groq models. Last error: {last_error}"
+            
+        # Post-generation translation for rare scripts
+        if answer and is_rare_script:
+            print("  🔄 Post-translating RAG answer back to native rare script...")
+            try:
+                response = groq_client.chat.completions.create(
+                    model="llama-3.3-70b-versatile",
+                    messages=[
+                        {"role": "system", "content": f"You are a professional linguistic translator. Translate the following English legal advice back into the exact same language and script that was used in this target query: '{user_query[:100]}'. Output ONLY the translated text, preserving all quotes, section numbers, and formatting exactly as they are."},
+                        {"role": "user", "content": answer}
+                    ],
+                    temperature=0.1,
+                    max_tokens=2048,
+                    timeout=20
+                )
+                answer = response.choices[0].message.content.strip()
+                print("  ✓ Back-translation to native script complete.")
+            except Exception as e:
+                print(f"  ⚠ Back-translation failed, sending english fallback: {e}")
         
         # Step 6: Format sources for frontend
         formatted_sources = []
